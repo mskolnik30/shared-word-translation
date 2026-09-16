@@ -4,699 +4,492 @@ testament: OT
 chapter: 119
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
 ## Aleph
+
 <p>
-v01: Blessed are those whose way is blameless,
-who walk in the law of the LORD.
-v02: Blessed are people who keep his testimonies,
-who seek him with their whole heart,
-v03: who also do no wrong,
-but walk in his ways.
-v04: You have commanded your precepts
-to be kept diligently.
-v05: Oh that my ways may be steadfast
-in keeping your statutes!
-v06: Then I will not be put to shame,
-having my eyes fixed on all your commandments.
-v07: I will praise you with an upright heart,
-when I learn your righteous judgments.
-v08: I will keep your statutes;
-do not utterly forsake me!
+v01: Happy are those whose way is blameless,
+who walk in the LORD’s instruction.
+v02: Happy are those who keep his testimonies,
+who seek him with their whole heart.
+v03: They do no wrong;
+they walk in his ways.
+v04: You have commanded that your precepts
+be kept with great care.
+v05: If only my ways were firmly directed
+toward keeping your decrees!
+v06: Then I would not be ashamed
+as I attend to all your commands.
+v07: I will thank you with an upright heart
+as I learn your righteous judgments.
+v08: I will keep your decrees;
+do not abandon me completely.
 </p>
 
 ## Beth
+
 <p>
-v09: How can a young man keep his way pure?
+v09: How can a young man keep his path pure?
 By guarding it according to your word.
-v10: With my whole heart I seek you;
-let me not wander from your commandments!
-v11: I have stored up your word in my heart,
-that I might not sin against you.
-v12: Blessed are you, O LORD;
-teach me your statutes!
-v13: With my lips I declare
-all the judgments of your mouth.
-v14: In the way of your testimonies I delight
+v10: I have sought you with my whole heart;
+do not let me stray from your commands.
+v11: I have stored your utterance in my heart
+so that I may not sin against you.
+v12: Blessed are you, LORD;
+teach me your decrees.
+v13: With my lips I recount
+all the judgments from your mouth.
+v14: I rejoice in the way of your testimonies
 as much as in all riches.
-v15: I will meditate on your precepts
-and fix my eyes on your ways.
-v16: I will delight in your statutes;
+v15: I will ponder your precepts
+and attend to your paths.
+v16: I will delight in your decrees;
 I will not forget your word.
 </p>
 
 ## Gimel
+
 <p>
-v17: Deal bountifully with your servant,
-that I may live and keep your word.
-v18: Open my eyes, that I may look
-wondrous things out of your law.
-v19: I am a sojourner on the earth;
-hide not your commandments from me!
-v20: My soul is consumed with longing
-for your judgments at all times.
-v21: You rebuke the arrogant, the cursed,
-who wander from your commandments.
-v22: Take away from me scorn and contempt,
+v17: Deal generously with your servant,
+so I may live and keep your word.
+v18: Uncover my eyes, so I may see
+wonders in your instruction.
+v19: I am a foreign resident on the earth;
+do not hide your commands from me.
+v20: My whole being is worn down with longing
+for your judgments at every moment.
+v21: You rebuke the arrogant, the accursed,
+who stray from your commands.
+v22: Roll scorn and contempt away from me,
 for I have kept your testimonies.
-v23: Even though princes sit plotting against me,
-your servant will meditate on your statutes.
+v23: Even when rulers sit plotting against me,
+your servant ponders your decrees.
 v24: Your testimonies are my delight;
 they are my counselors.
 </p>
 
 ## Daleth
+
 <p>
-v25: My soul clings to the dust;
-give me life according to your word!
-v26: When I told of my ways, you answered me;
-teach me your statutes!
-v27: Make me understand the way of your precepts,
-and I will meditate on your wondrous works.
-v28: My soul melts away for sorrow;
-strengthen me according to your word!
-v29: Put false ways far from me
-and graciously teach me your law!
+v25: My life clings to the dust;
+keep me alive according to your word.
+v26: I told you of my ways, and you answered;
+teach me your decrees.
+v27: Help me understand the way of your precepts,
+and I will ponder your wonders.
+v28: My life drains away in sorrow;
+raise me up according to your word.
+v29: Keep the way of falsehood far from me;
+grant me your instruction graciously.
 v30: I have chosen the way of faithfulness;
-I set your judgments before me.
-v31: I cling to your testimonies, O LORD;
-let me not be put to shame!
-v32: I will run in the way of your commandments
-when you enlarge my heart.
+I have set your judgments before me.
+v31: I cling to your testimonies, LORD;
+do not let me be put to shame.
+v32: I run along the way of your commands,
+for you give my heart room.
 </p>
 
 ## He
+
 <p>
-v33: Teach me, O LORD, the way of your statutes;
+v33: Teach me, LORD, the way of your decrees,
 and I will keep it to the end.
-v34: Give me understanding, that I may keep your law
-and observe it with my whole heart.
-v35: Lead me in the path of your commandments,
-for I delight in it.
-v36: Incline my heart to your testimonies,
-and not to selfish gain!
-v37: Turn my eyes from looking at worthless things;
-and give me life in your ways.
-v38: Confirm to your servant your promise,
-that you may be feared.
-v39: Turn away the reproach that I dread,
+v34: Give me understanding, and I will keep your instruction,
+guarding it with my whole heart.
+v35: Lead me along the path of your commands,
+for that is where I delight.
+v36: Bend my heart toward your testimonies,
+not toward dishonest gain.
+v37: Turn my eyes away from worthless things;
+keep me alive in your way.
+v38: Confirm your promise to your servant,
+the promise that calls forth fear of you.
+v39: Turn away the disgrace I dread,
 for your judgments are good.
-v40: Look, I long for your precepts;
-in your righteousness give me life!
+v40: See how I long for your precepts;
+keep me alive in your righteousness.
 </p>
 
 ## Waw
+
 <p>
-v41: Let your steadfast love come to me, O LORD,
-your salvation according to your promise;
-v42: then I will have an answer for him who taunts me,
+v41: Let your faithful love reach me, LORD,
+your salvation according to your promise.
+v42: Then I can answer the one who scorns me,
 for I trust in your word.
-v43: And take not the word of truth utterly out of my mouth,
-for my hope is in your judgments.
-v44: I will keep your law continually,
-forever and ever,
-v45: and I will walk in a wide place,
+v43: Do not strip the word of truth entirely from my mouth,
+for I wait in hope for your judgment.
+v44: I will keep your instruction continually,
+forever and ever.
+v45: I will walk in a wide-open place,
 for I have sought your precepts.
-v46: I will also speak of your testimonies before kings
-and will not be put to shame,
-v47: for I find my delight in your commandments,
+v46: I will speak of your testimonies before kings
+and will not be ashamed.
+v47: I delight in your commands,
 which I love.
-v48: I will lift up my hands toward your commandments, which I love,
-and I will meditate on your statutes.
+v48: I lift my hands toward your commands, which I love,
+and ponder your decrees.
 </p>
 
 ## Zayin
+
 <p>
-v49: Remember your word to your servant,
-in which you have made me hope.
-v50: This is my comfort in my affliction,
-that your promise gives me life.
-v51: The arrogant utterly deride me,
-but I do not turn away from your law.
-v52: When I think of your judgments from of old,
-I take comfort, O LORD.
-v53: Hot indignation seizes me because of the wicked,
-who forsake your law.
-v54: Your statutes have been my songs
-in the house of my sojourning.
-v55: I remember your name in the night, O LORD,
-and keep your law.
-v56: This blessing has fallen to me,
-that I have kept your precepts.
+v49: Remember the word to your servant
+on which you made me hope.
+v50: This is my comfort in affliction:
+your promise has kept me alive.
+v51: The arrogant mock me mercilessly,
+but I do not turn aside from your instruction.
+v52: I remember your judgments from long ago, LORD,
+and I find comfort.
+v53: Burning indignation seizes me
+because of the wicked who abandon your instruction.
+v54: Your decrees have become my songs
+wherever I live as a foreigner.
+v55: At night I remember your name, LORD,
+and keep your instruction.
+v56: This has become mine:
+I keep your precepts.
 </p>
 
 ## Heth
+
 <p>
 v57: The LORD is my portion;
-I promise to keep your words.
-v58: I entreat your favor with all my heart;
+I have promised to keep your words.
+v58: With my whole heart I seek your favor;
 be gracious to me according to your promise.
-v59: When I think on my ways,
-I turn my feet to your testimonies;
-v60: I hasten and do not delay
-to keep your commandments.
-v61: Though the cords of the wicked ensnare me,
-I do not forget your law.
-v62: At midnight I rise to praise you,
-because of your righteous judgments.
-v63: I am a companion of everyone who fear you,
-of people who keep your precepts.
-v64: The earth, O LORD, is full of your steadfast love;
-teach me your statutes!
+v59: I have considered my ways
+and turned my feet toward your testimonies.
+v60: I hurry and do not delay
+to keep your commands.
+v61: The cords of the wicked entangle me,
+but I do not forget your instruction.
+v62: At midnight I rise to thank you
+for your righteous judgments.
+v63: I am a companion to all who fear you,
+to those who keep your precepts.
+v64: The earth is full of your faithful love, LORD;
+teach me your decrees.
 </p>
 
 ## Teth
 
 <p>
-v65: You have dealt well with your servant,
-
-O LORD, according to your word.
-
+v65: You have treated your servant well, LORD,
+according to your word.
 v66: Teach me good judgment and knowledge,
-
-for I believe in your commandments.
-
-v67: Before I was afflicted I went astray,
-
-but now I keep your word.
-
-v68: You are good and do good;
-
-teach me your statutes.
-
-v69: The arrogant smear me with lies,
-
-but with my whole heart I keep your precepts;
-
-v70: their heart is dull like fat,
-
-but I delight in your law.
-
-v71: It is good for me that I was afflicted,
-
-that I might learn your statutes.
-
-v72: The law of your mouth is better to me
-
+for I trust your commands.
+v67: Before I was afflicted, I went astray;
+now I keep your utterance.
+v68: You are good and you do good;
+teach me your decrees.
+v69: The arrogant smear me with lies;
+I keep your precepts with my whole heart.
+v70: Their hearts are thick as fat,
+but I delight in your instruction.
+v71: It was good for me to be afflicted,
+so that I might learn your decrees.
+v72: Instruction from your mouth is better to me
 than thousands of gold and silver pieces.
 </p>
 
-## Yod
+## Yodh
 
 <p>
-v73: Your hands have made and fashioned me;
-
-give me understanding that I may learn your commandments.
-
-v74: People who fear you will see me and rejoice,
-
+v73: Your hands made me and shaped me;
+give me understanding so I may learn your commands.
+v74: Those who fear you will see me and rejoice,
 because I have hoped in your word.
-
-v75: I know, O LORD, that your judgments are righteous,
-
-and that in faithfulness you have afflicted me.
-
-v76: Let your steadfast love comfort me
-
+v75: I know, LORD, that your judgments are righteous
+and that in faithfulness you afflicted me.
+v76: Please let your faithful love comfort me,
 according to your promise to your servant.
-
-v77: Let your compassion come to me, that I may live,
-
-for your law is my delight.
-
-v78: Let the arrogant be put to shame, because they wrong me with falsehood;
-
-as for me, I will meditate on your precepts.
-
-v79: Let people who fear you turn to me,
-
-that they may know your testimonies.
-
-v80: May my heart be blameless in your statutes,
-
-that I may not be put to shame!
+v77: Let your compassion reach me so I may live,
+for your instruction is my delight.
+v78: Let the arrogant be ashamed, for they wronged me with lies;
+I will ponder your precepts.
+v79: Let those who fear you turn to me,
+those who know your testimonies.
+v80: May my heart be blameless in your decrees,
+so that I will not be ashamed.
 </p>
 
 ## Kaph
 
 <p>
-v81: My soul longs for your salvation;
-
+v81: My whole being is worn out with longing for your salvation;
 I hope in your word.
-
-v82: My eyes long for your promise;
-
+v82: My eyes grow weary looking for your promise;
 I ask, “When will you comfort me?”
-
-v83: For I have become like a wineskin in the smoke,
-
-yet I have not forgotten your statutes.
-
-v84: How long must your servant endure?
-
-When will you judge people who persecute me?
-
+v83: Though I have become like a wineskin in smoke,
+I have not forgotten your decrees.
+v84: How many days does your servant have?
+When will you judge those who pursue me?
 v85: The arrogant have dug pits for me,
-
-men who do not live according to your law.
-
-v86: All your commandments are faithful;
-
-they persecute me with falsehood; help me!
-
-v87: They have almost made an end of me on earth,
-
-but I have not forsaken your precepts.
-
-v88: In your steadfast love give me life,
-
-that I may keep the testimonies of your mouth.
+contrary to your instruction.
+v86: All your commands are faithful;
+they pursue me with lies—help me!
+v87: They nearly finished me off on earth,
+but I did not abandon your precepts.
+v88: Keep me alive in your faithful love,
+and I will keep the testimony of your mouth.
 </p>
 
-## Lamed
+## Lamedh
 
 <p>
-v89: Forever, O LORD, your word is firmly fixed in the heavens.
-
-v90: Your faithfulness endures to all generations;
-
-you have established the earth, and it stands fast.
-
-v91: By your appointment they stand this day,
-
-for everything are your servants.
-
-v92: If your law had not been my delight,
-
+v89: Forever, LORD,
+your word stands firm in the heavens.
+v90: Your faithfulness lasts from generation to generation;
+you established the earth, and it stands.
+v91: They stand to this day according to your judgments,
+for all things are your servants.
+v92: If your instruction had not been my delight,
 I would have perished in my affliction.
-
 v93: I will never forget your precepts,
-
-for by them you have given me life.
-
+for through them you have kept me alive.
 v94: I am yours; save me,
-
 for I have sought your precepts.
-
 v95: The wicked lie in wait to destroy me,
-
-but I consider your testimonies.
-
-v96: I have seen a limit to all perfection,
-
-but your commandment is exceedingly broad.
+but I attend to your testimonies.
+v96: I have seen a limit to every perfection,
+but your command is exceedingly broad.
 </p>
 
 ## Mem
 
 <p>
-v97: Oh how I love your law!
-
-It is my meditation all the day.
-
-v98: Your commandment makes me wiser than my enemies,
-
-for it is ever with me.
-
-v99: I have more understanding than all my teachers,
-
-for your testimonies are my meditation.
-
-v100: I understand more than the aged,
-
-for I keep your precepts.
-
-v101: I hold back my feet from every evil way,
-
-in order to keep your word.
-
+v97: How I love your instruction!
+It occupies my thoughts all day.
+v98: Your command makes me wiser than my enemies,
+for it is always with me.
+v99: I have more insight than all my teachers,
+for your testimonies occupy my thoughts.
+v100: I understand more than the elders,
+because I keep your precepts.
+v101: I hold my feet back from every evil path
+so that I may keep your word.
 v102: I do not turn aside from your judgments,
-
-for you have taught me.
-
-v103: How sweet are your words to my taste,
-
+for you yourself have taught me.
+v103: How sweet your utterance is to my palate,
 sweeter than honey to my mouth!
-
-v104: Through your precepts I get understanding;
-
-so I hate every false way.
+v104: Through your precepts I gain understanding;
+therefore I hate every false path.
 </p>
 
 ## Nun
 
 <p>
-v105: Your word is a lamp to my feet
-
-and a light to my path.
-
-v106: I have sworn an oath and confirmed it,
-
-to keep your righteous judgments.
-
-v107: I am severely afflicted;
-
-give me life, O LORD, according to your word!
-
-v108: Accept my freewill offerings of praise, O LORD,
-
+v105: Your word is a lamp for my feet
+and a light for my path.
+v106: I have sworn an oath, and I will fulfill it:
+I will keep your righteous judgments.
+v107: I am deeply afflicted;
+LORD, keep me alive according to your word.
+v108: Please accept the freewill offerings of my mouth, LORD,
 and teach me your judgments.
-
-v109: I hold my life in my hand continually,
-
-but I do not forget your law.
-
+v109: My life is always in my hand,
+but I do not forget your instruction.
 v110: The wicked have laid a snare for me,
-
-but I do not stray from your precepts.
-
-v111: Your testimonies are my heritage forever,
-
-for they are the joy of my heart.
-
-v112: I incline my heart to perform your statutes
-
+but I have not strayed from your precepts.
+v111: I have taken your testimonies as my inheritance forever,
+for they are my heart’s joy.
+v112: I incline my heart to carry out your decrees
 forever, to the end.
 </p>
 
 ## Samekh
 
 <p>
-v113: I hate the double-minded,
-
-but I love your law.
-
+v113: I hate the divided-hearted,
+but I love your instruction.
 v114: You are my hiding place and my shield;
-
 I hope in your word.
-
-v115: Depart from me, you evildoers,
-
-that I may keep the commandments of my God.
-
-v116: Uphold me according to your promise, that I may live,
-
-and let me not be put to shame in my hope!
-
-v117: Hold me up, that I may be safe
-
-and have regard for your statutes continually!
-
-v118: You spurn everyone who go astray from your statutes,
-
-for their cunning is in vain.
-
-v119: All the wicked of the earth you discard like dross,
-
-so I love your testimonies.
-
-v120: My flesh trembles for fear of you,
-
-and I am afraid of your judgments.
+v115: Leave me, you evildoers,
+so I may keep my God’s commands.
+v116: Support me according to your promise, so I may live;
+do not let my hope end in shame.
+v117: Hold me up, and I will be saved;
+I will attend to your decrees continually.
+v118: You reject all who stray from your decrees,
+for their deceit is falsehood.
+v119: You remove all the wicked of the earth like dross;
+therefore I love your testimonies.
+v120: My flesh shudders in dread of you;
+I fear your judgments.
 </p>
 
 ## Ayin
 
 <p>
 v121: I have done what is just and right;
-
 do not leave me to my oppressors.
-
-v122: Give your servant a pledge of good;
-
-let not the arrogant oppress me.
-
-v123: My eyes long for your salvation
-
-and for the fulfillment of your righteous promise.
-
-v124: Deal with your servant according to your steadfast love,
-
-and teach me your statutes.
-
-v125: I am your servant; give me understanding,
-
-that I may know your testimonies!
-
-v126: It is time for the LORD to act,
-
-for your law has been broken.
-
-v127: So I love your commandments
-
-above gold, above fine gold.
-
-v128: So I consider all your precepts to be right;
-
-I hate every false way.
+v122: Stand as guarantor for your servant’s good;
+do not let the arrogant oppress me.
+v123: My eyes grow weary looking for your salvation
+and for your righteous promise.
+v124: Treat your servant according to your faithful love,
+and teach me your decrees.
+v125: I am your servant; give me understanding
+so that I may know your testimonies.
+v126: It is time for the LORD to act;
+they have broken your instruction.
+v127: That is why I love your commands
+more than gold, even pure gold.
+v128: That is why I count all your precepts right in every matter;
+I hate every false path.
 </p>
 
 ## Pe
 
 <p>
 v129: Your testimonies are wonderful;
-
-so my soul keeps them.
-
-v130: The unfolding of your words gives light;
-
-it imparts understanding to the simple.
-
+that is why I keep them with my whole being.
+v130: The opening of your words gives light;
+it gives understanding to the inexperienced.
 v131: I open my mouth and pant,
-
-because I long for your commandments.
-
-v132: Turn to me and be gracious to me,
-
-as is your way with people who love your name.
-
-v133: Keep steady my steps according to your promise,
-
-and let no iniquity get dominion over me.
-
+so deeply do I long for your commands.
+v132: Turn toward me and be gracious to me,
+as is your way with those who love your name.
+v133: Make my steps firm according to your promise;
+do not let any wrongdoing rule over me.
 v134: Redeem me from human oppression,
-
-that I may keep your precepts.
-
-v135: Make your face shine upon your servant,
-
-and teach me your statutes.
-
-v136: My eyes shed streams of tears,
-
-because people do not keep your law.
+so I may keep your precepts.
+v135: Let your face shine on your servant,
+and teach me your decrees.
+v136: Streams of water run from my eyes
+because people do not keep your instruction.
 </p>
 
-## Tsade
+## Tsadhe
 
 <p>
-v137: Righteous are you, O LORD,
-
-and right are your judgments.
-
-v138: You have appointed your testimonies in righteousness
-
-and in all faithfulness.
-
+v137: You are righteous, LORD,
+and your judgments are upright.
+v138: You have commanded your testimonies in righteousness
+and in utter faithfulness.
 v139: My zeal consumes me,
-
-because my foes forget your words.
-
-v140: Your promise is well tried,
-
+because my foes have forgotten your words.
+v140: Your promise has been thoroughly refined,
 and your servant loves it.
-
 v141: I am small and despised,
-
-yet I do not forget your precepts.
-
+but I do not forget your precepts.
 v142: Your righteousness is righteous forever,
-
-and your law is truth.
-
-v143: Trouble and anguish have found me out,
-
-but your commandments are my delight.
-
+and your instruction is truth.
+v143: Trouble and distress have overtaken me,
+but your commands are my delight.
 v144: Your testimonies are righteous forever;
-
-give me understanding that I may live.
+give me understanding so I may live.
 </p>
 
 ## Qoph
 
 <p>
-v145: With my whole heart I cry; answer me, O LORD!
-
-I will keep your statutes.
-
+v145: I call with my whole heart; answer me, LORD.
+I will keep your decrees.
 v146: I call to you; save me,
-
-that I may observe your testimonies.
-
+and I will keep your testimonies.
 v147: I rise before dawn and cry for help;
-
-I hope in your words.
-
-v148: My eyes are awake before the watches of the night,
-
-that I may meditate on your promise.
-
-v149: Hear my voice according to your steadfast love;
-
-O LORD, give me life according to your justice.
-
-v150: They draw near who persecute me with evil purpose;
-
-they are far from your law.
-
-v151: But you are near, O LORD,
-
-and all your commandments are true.
-
-v152: Long have I known from your testimonies
-
-that you have founded them forever.
+I hope in your word.
+v148: My eyes are awake before the night watches,
+so I may ponder your promise.
+v149: Hear my voice according to your faithful love;
+LORD, keep me alive according to your judgment.
+v150: Those who pursue evil schemes draw near;
+they are far from your instruction.
+v151: You are near, LORD,
+and all your commands are truth.
+v152: Long ago I learned from your testimonies
+that you established them forever.
 </p>
 
 ## Resh
 
 <p>
-v153: Look on my affliction and deliver me,
-
-for I do not forget your law.
-
-v154: Plead my cause and redeem me;
-
-give me life according to your promise!
-
+v153: See my affliction and rescue me,
+for I have not forgotten your instruction.
+v154: Plead my case and redeem me;
+keep me alive according to your promise.
 v155: Salvation is far from the wicked,
-
-for they do not seek your statutes.
-
-v156: Great is your mercy, O LORD;
-
-give me life according to your judgments.
-
-v157: Many are my persecutors and my adversaries,
-
-but I do not swerve from your testimonies.
-
-v158: I look at the faithless with disgust,
-
-because they do not keep your commands.
-
-v159: Consider how I love your precepts!
-
-Give me life according to your steadfast love.
-
-v160: The sum of your word is truth,
-
-and every one of your righteous judgments endures forever.
+for they do not seek your decrees.
+v156: Your compassion is abundant, LORD;
+keep me alive according to your judgments.
+v157: My pursuers and foes are many,
+but I do not turn aside from your testimonies.
+v158: I see the faithless and feel disgust,
+because they do not keep your utterance.
+v159: See how I love your precepts;
+LORD, keep me alive according to your faithful love.
+v160: The sum of your word is truth;
+every one of your righteous judgments lasts forever.
 </p>
 
 ## Shin
 
 <p>
-v161: Princes persecute me without cause,
-
-but my heart stands in awe of your words.
-
-v162: I rejoice at your word
-
-like one who finds great spoil.
-
-v163: I hate and abhor falsehood,
-
-but I love your law.
-
+v161: Rulers pursue me without cause,
+but my heart trembles at your word.
+v162: I rejoice over your promise
+like someone who finds great plunder.
+v163: I hate and detest falsehood,
+but I love your instruction.
 v164: Seven times a day I praise you
-
 for your righteous judgments.
-
-v165: Great peace have people who love your law;
-
-nothing can make them stumble.
-
-v166: I hope for your salvation, O LORD,
-
-and I do your commandments.
-
-v167: My soul keeps your testimonies;
-
-I love them exceedingly.
-
-v168: I keep your precepts and testimonies,
-
-for all my ways are before you.
+v165: Great peace belongs to those who love your instruction;
+nothing makes them stumble.
+v166: I hope for your salvation, LORD,
+and carry out your commands.
+v167: I keep your testimonies with my whole being;
+I love them deeply.
+v168: I keep your precepts and your testimonies,
+for all my ways lie before you.
 </p>
 
-## Tav
+## Taw
 
 <p>
-v169: Let my cry come before you, O LORD;
-
-give me understanding according to your word!
-
+v169: Let my cry come before you, LORD;
+give me understanding according to your word.
 v170: Let my plea come before you;
-
-deliver me according to your promise.
-
-v171: My lips will pour forth praise,
-
-for you teach me your statutes.
-
-v172: My tongue will sing of your word,
-
-for all your commandments are right.
-
+rescue me according to your promise.
+v171: Let praise pour from my lips,
+for you teach me your decrees.
+v172: Let my tongue sing of your utterance,
+for all your commands are righteous.
 v173: Let your hand be ready to help me,
-
 for I have chosen your precepts.
-
-v174: I long for your salvation, O LORD,
-
-and your law is my delight.
-
-v175: Let my soul live and praise you,
-
-and let your judgments help me.
-
-v176: I have gone astray like a lost sheep; seek your servant,
-
-for I do not forget your commandments.
+v174: I long for your salvation, LORD,
+and your instruction is my delight.
+v175: Let me live and praise you;
+let your judgments help me.
+v176: I have wandered like a lost sheep. Seek your servant,
+for I have not forgotten your commands.
 </p>
 
 ## Notes
 
-v01: Psalm 119 is a full alphabetic acrostic: twenty-two sections correspond to the Hebrew alphabet, with eight verses in each section.
+v01–176: The poem has twenty-two stanzas of eight verses. In Hebrew every verse of a stanza starts with that stanza’s letter. The letter headings mark this structure; the English does not reproduce the acrostic. Repeated terms and pleas have not been compressed.
+
+v33,38,56: “To the end” in verse 33 can also be understood as fully or as reward. Verse 38’s relative clause may qualify the promise or the servant who fears God. Verse 56’s “this” has no explicit noun; the draft avoids naming an unstated reward.
+
+v70,79: A heart thick as fat suggests insensitivity. Verse 79 follows the read form “those who know”; the written form can be read “and they will know.”
+
+v96,126,128: Verse 96’s “perfection” is a difficult term for completeness or an end. Verse 126 can mean it is time for the LORD to act or time to act for the LORD. Verse 128 retains the Hebrew’s sweeping, somewhat awkward claim about all precepts in every matter.
+
+v147,160–161: Verses 147 and 161 follow the read form “word,” rather than written “words.” “The sum” in verse 160 can also be read “the beginning.”
+
+v176: The final lost-sheep plea stands beside the claim not to have forgotten the commands. The poem does not resolve that tension with an added conclusion.
 
 ## Vocabulary
 
-v01: תּוֹרָה (torah)
-“Law” or “instruction.” Guiding teaching for life, not merely legal code.
+v01–176: **Instruction terms**: “Instruction” renders torah; “testimonies,” edot; “precepts,” piqqudim; “decrees,” huqqim; “commands,” mitswot; “judgments,” mishpatim; “word,” davar; and “utterance” or, where promised fulfillment is in view, “promise,” imrah. These overlapping terms present several aspects of God’s direction.
 
-v07: מִשְׁפָּטִים (mishpatim)
-“Judgments.” Decisions expressing justice.
+v83: **Wineskin in smoke**: A leather container exposed to smoke, an image of shriveling or distress.
 
-v08: עֵדוֹת (edot)
-“Testimonies.” Witness-bearing declarations of God’s will.
-
-v14: בָּטַח (batach)
-“To trust.” Confidence in God’s word.
-
-v17: שָׁכַח (shakach)
-“To forget.” Failure of covenant fidelity.
-
-v20: לָמַד (lamad)
-“To learn.” Receive instruction.
-
-v32: שֶׁקֶר (sheqer)
-“Falsehood.” Deception opposed to truth.
-
-v34: יְשׁוּעָה (yeshuah)
-“Salvation.” Deliverance.
-
-v35: גָּאַל (ga’al)
-“To redeem.” Rescue from danger.
+v109,122: **Life in my hand; guarantor**: The first is an image of constant danger. A guarantor takes responsibility for another’s security or obligation.

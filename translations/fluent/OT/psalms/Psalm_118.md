@@ -4,185 +4,115 @@ testament: OT
 chapter: 118
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## A Psalm of Thanksgiving and Deliverance
+## The rejected stone and the open gate
 
 <p>
-v01: Give thanks to the LORD, for the LORD is good;
-  for the LORD’s steadfast love endures forever.
-
+v01: Give thanks to the LORD, for he is good;
+his faithful love lasts forever.
 v02: Let Israel say,
-  “The LORD’s steadfast love endures forever.”
-
+“His faithful love lasts forever.”
 v03: Let the house of Aaron say,
-  “The LORD’s steadfast love endures forever.”
+“His faithful love lasts forever.”
+v04: Let those who fear the LORD say,
+“His faithful love lasts forever.”
+</p>
 
-v04: Let people who fear the LORD say,
-  “The LORD’s steadfast love endures forever.”
-
-v05: Out of distress I called on the LORD;
-  the LORD answered me and set me in a broad place.
-
+<p>
+v05: From a narrow place I called to YAH;
+YAH answered me with a wide-open place.
 v06: The LORD is for me; I will not fear.
-  What can mortals do to me?
+What can a human being do to me?
+v07: The LORD is for me among my helpers;
+I will look in triumph on those who hate me.
+</p>
 
-v07: The LORD is for me among people who help me;
-  therefore I will look in triumph on people who hate me.
-
+<p>
 v08: It is better to take refuge in the LORD
-  than to trust in mortals.
-
+than to trust in a human being.
 v09: It is better to take refuge in the LORD
-  than to trust in princes.
+than to trust in nobles.
+</p>
 
+<p>
 v10: All nations surrounded me;
-  in the name of the LORD I cut them off.
-
-v11: They surrounded me—yes, they surrounded me;
-  in the name of the LORD I cut them off.
-
+in the name of the LORD I cut them off.
+v11: They surrounded me, surrounded me on every side;
+in the name of the LORD I cut them off.
 v12: They surrounded me like bees;
-  they were quenched like a fire of thorns;
-  in the name of the LORD I cut them off.
+they went out like a fire of thorns.
+In the name of the LORD I cut them off.
+</p>
 
-v13: I was pushed hard, so that I was falling,
-  but the LORD helped me.
+<p>
+v13: You pushed me hard, to make me fall,
+but the LORD helped me.
+v14: YAH is my strength and my song;
+he has become my salvation.
+</p>
 
-v14: The LORD is my strength and my song;
-  the LORD has become my salvation.
+<p>
+v15: Shouts of joy and salvation rise from the tents of the righteous:
+“The LORD’s right hand acts valiantly!
+v16: The LORD’s right hand is lifted high!
+The LORD’s right hand acts valiantly!”
+</p>
 
-v15: Glad songs of salvation are in the tents of the righteous:
-  “The LORD’s right hand does valiantly!
+<p>
+v17: I will not die; I will live
+and tell of YAH’s deeds.
+v18: YAH disciplined me severely,
+but he did not hand me over to death.
+</p>
 
-v16: The LORD’s right hand is lifted up;
-  the LORD’s right hand does valiantly!”
-
-v17: I will not die, but live,
-  and tell of the deeds of the LORD.
-
-v18: The LORD has disciplined me severely,
-  but the LORD has not given me over to death.
-
-v19: Open to me the gates of righteousness,
-  that I may enter through them and give thanks to the LORD.
-
+<p>
+v19: Open the gates of righteousness for me;
+I will enter through them and thank YAH.
 v20: This is the gate of the LORD;
-  the righteous will enter through it.
+the righteous may enter through it.
+v21: I thank you because you answered me
+and became my salvation.
+</p>
 
-v21: I give you thanks, for you have answered me
-  and have become my salvation.
+<p>
+v22: The stone the builders rejected
+has become the cornerstone.
+v23: This has come from the LORD;
+it is wonderful in our eyes.
+v24: This is the day the LORD has made;
+let us rejoice and be glad in it.
+</p>
 
-v22: The stone that the builders rejected
-  has become the chief cornerstone.
-
-v23: This is the LORD’s doing;
-  it is marvelous in our eyes.
-
-v24: This is the day that the LORD has made;
-  let us rejoice and be glad in it.
-
-v25: O LORD, save, we pray!
-  O LORD, grant us success, we pray!
-
+<p>
+v25: Please, LORD, save us!
+Please, LORD, grant us success!
 v26: Blessed is the one who comes in the name of the LORD.
-  We bless you from the house of the LORD.
+From the house of the LORD we bless you.
+v27: The LORD is God, and he has given us light.
+Bind the festival offering with cords,
+up to the horns of the altar.
+</p>
 
-v27: The LORD is God, and the LORD has given us light.
-  Bind the festal procession with branches,
-  up to the horns of the altar.
-
-v28: You are my God, and I will give you thanks;
-  you are my God, I will exalt you.
-
-v29: Give thanks to the LORD, for the LORD is good;
-  for the LORD’s steadfast love endures forever.
+<p>
+v28: You are my God, and I will thank you;
+my God, I will exalt you.
+v29: Give thanks to the LORD, for he is good;
+his faithful love lasts forever.
 </p>
 
 ## Notes
 
-v01–04: “steadfast love endures forever” — The psalm begins with a litany: gratitude is taught by communal repetition, grounding praise in covenant loyalty (ḥesed), not in mood.
+v10–14: The repeated verb in verses 10–12 is rendered “cut them off.” Verse 13 abruptly addresses a singular opponent. “My song” in verse 14 represents a traditional reading; the Hebrew expression can also be understood in terms of might or defense.
 
-v05: “distress… broad place” — Deliverance is pictured as spaciousness: the LORD moves the psalmist from constriction to room to breathe and live.
-
-v06: “What can mortals do to me?” — Not naïve invulnerability; it is re-centered fear. Human threat is real, but not ultimate.
-
-v08–09: “better… refuge… than to trust in mortals… princes” — A core TSW theme: trust belongs first to the LORD; even good leaders are not reliable foundations.
-
-v10–12: “surrounded… like bees… in the name of the LORD” — The refrain is not self-confidence but God-centered resistance; “the name” signals dependence on the LORD’s authority and presence.
-
-v14: “strength and my song… my salvation” — Salvation is not abstract; it becomes embodied strength and public praise.
-
-v17: “I shall not die, but live… tell of the deeds” — Life is given for witness; survival turns outward into testimony.
-
-v18: “disciplined… but not… over to death” — The psalm holds hardship with mercy: severe correction is not abandonment.
-
-v19–20: “gates of righteousness” — Worship is entry into a way of life; righteousness is not a private virtue but a communal, public path before God.
-
-v22–23: “rejected stone… cornerstone” — God’s reversals redefine what counts as strength and legitimacy; what is dismissed becomes foundational by the LORD’s action.
-
-v24: “This is the day…” — Joy is anchored in God’s making, not in ideal conditions; rejoicing is a practice of recognition.
-
-v25: “save… grant us success” — Praise and petition belong together; worship includes urgent, present-tense dependence.
-
-v26: “comes in the name of the LORD” — Blessing is spoken over those who arrive as God’s representatives; hospitality becomes liturgy.
-
-v27: “given us light… festal procession… altar” — Deliverance culminates in worshipful procession: light leads the people toward thanksgiving and offering.
+v22–27: “Cornerstone” renders the stone’s new chief position. Verse 27 is difficult: it may describe binding a festival offering with cords or a festival procession with branches reaching the altar. The draft retains binding, cords, and altar horns and records the alternative.
 
 ## Vocabulary
 
-v01: יָדָה (yadah) — to give thanks; to praise
+v05: **YAH**: The short form of the divine name, used repeatedly in this psalm alongside the full name rendered LORD.
 
-v01: טוֹב (tov) — good
-
-v01: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v05: מֵצַר (metsar) — distress; narrow place; constriction
-
-v05: מֶרְחָב (merchav) — broad place; spaciousness
-
-v06: יָרֵא (yare) — to fear; to be afraid
-
-v08: חָסָה (chasah) — to take refuge
-
-v10: סָבַב (savav) — to surround; to encircle
-
-v12: דְּבוֹרָה (devorah) — bee
-
-v12: קוֹץ (qots) — thorn
-
-v13: דָּחָה (dachah) — to push; to thrust down
-
-v14: עֹז (ʿoz) — strength; might
-
-v14: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
-
-v18: יָסַר (yasar) — to discipline; to instruct by correction
-
-v19: צֶדֶק (tsedeq) — righteousness; justice; rightness
-
-v22: מָאַס (ma’as) — to reject; to despise
-
-v22: רֹאשׁ פִּנָּה (rosh pinnah) — chief cornerstone; head of the corner
-
-v25: אָנָּא (’anna) — please; we pray
-
-v25: יָשַׁע (yashaʿ) — to save; to deliver
-
-v25: צָלַח (tsalaḥ) — to succeed; to prosper; to advance
-
-v27: אוֹר (’or) — light
-
-v27: חַג (ḥag) — festival; pilgrim feast
-
-v01: יָדָה (yadah)
-“To give thanks; to praise.”
-
-v01: חֶסֶד (ḥesed)
-“Steadfast love; covenant loyalty.”
-
-v14: יְשׁוּעָה (yeshu‘ah)
-“Salvation; deliverance.”
-
-v19: צֶדֶק (tsedeq)
-“Righteousness; justice; rightness.”
+v27: **Altar horns**: Projections at the corners of an altar.

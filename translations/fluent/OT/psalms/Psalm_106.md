@@ -4,258 +4,171 @@ testament: OT
 chapter: 106
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## Give Thanks to the LORD
+## We have sinned with our ancestors
+
 <p>
-v01: Praise the LORD!
-Give thanks to the LORD, for he is good,
-for his steadfast love endures forever!
-v02: Who can utter the mighty deeds of the LORD,
-or declare all his praise?
+v01: Praise YAH!
+Give thanks to the LORD, for he is good;
+his faithful love lasts forever.
+v02: Who can tell all the LORD’s mighty deeds
+or make all his praise heard?
+v03: Happy are those who keep justice,
+who do what is right at every moment.
 </p>
 
 <p>
-v03: Blessed are people who keep justice,
-who do righteousness at all times!
+v04: Remember me, LORD, when you show favor to your people;
+come to my aid when you save them,
+v05: so I may see your chosen ones prosper,
+rejoice in your nation’s joy,
+and share the pride of your own people.
 </p>
 
 <p>
-v04: Remember me, O LORD, when you show favor to your people;
-help me when you save them,
-v05: that I may see the good of your chosen ones,
-that I may rejoice in the gladness of your nation,
-that I may glory with your inheritance.
-</p>
-
-## Confession of Sin
-<p>
-v06: Both we and our ancestors have sinned;
-we have committed iniquity; we have done wickedness.
-v07: Our ancestors in Egypt did not consider your wonders;
-they did not remember the abundance of your steadfast love,
-but rebelled by the sea, at the Red Sea.
-</p>
-
-## God’s Saving Acts Despite Rebellion
-<p>
+v06: We have sinned, just as our ancestors did;
+we have done wrong; we have acted wickedly.
+v07: Our ancestors in Egypt did not grasp your wonders
+or remember your abundant faithful love.
+They rebelled by the sea, the Sea of Reeds.
 v08: Yet he saved them for his name’s sake,
-that he might reveal his mighty power.
-v09: He rebuked the Red Sea, and it became dry,
-and he led them through the deep as through a desert.
-</p>
-
-<p>
-v10: So he saved them from the hand of the one who hated them
-and redeemed them from the hand of the enemy.
-v11: And the waters covered their adversaries;
+to make his might known.
+v09: He rebuked the Sea of Reeds, and it dried up;
+he led them through the depths as through a desert.
+v10: He saved them from the hand of those who hated them
+and redeemed them from the enemy’s hand.
+v11: The waters covered their foes;
 not one of them was left.
+v12: Then they believed his words
+and sang his praise.
 </p>
 
 <p>
-v12: Then they believed his words;
-they sang his praise.
+v13: But they quickly forgot what he had done;
+they would not wait for his counsel.
+v14: They were seized by craving in the wilderness
+and put God to the test in the wasteland.
+v15: He gave them what they asked for
+but sent wasting into their bodies.
+v16: In the camp they grew jealous of Moses
+and of Aaron, the LORD’s holy one.
+v17: The earth opened and swallowed Dathan;
+it closed over Abiram’s company.
+v18: Fire blazed through their company;
+flames consumed the wicked.
 </p>
 
 <p>
-v13: But they soon forgot his works;
-they did not wait for his counsel.
-v14: But they had a craving in the wilderness
-and tested God in the desert.
-</p>
-
-<p>
-v15: He gave them what they asked,
-but sent a wasting disease among them.
-</p>
-
-<p>
-v16: When men in the camp were jealous of Moses
-and Aaron, the holy one of the LORD,
-v17: the earth opened and swallowed Dathan,
-and covered the company of Abiram.
-</p>
-
-<p>
-v18: Fire also broke out in their company;
-the flame burned up the wicked.
-</p>
-
-<p>
-v19: They made a calf in Horeb
-and worshiped a metal image.
+v19: At Horeb they made a calf
+and bowed down to an image cast from metal.
 v20: They exchanged their glory
-for the image of an ox that eats grass.
-</p>
-
-<p>
-v21: They forgot God, their Savior,
+for the likeness of an ox that eats grass.
+v21: They forgot God their savior,
 who had done great things in Egypt,
-v22: wondrous works in the land of Ham,
-and awesome deeds by the Red Sea.
+v22: wonders in the land of Ham,
+terrifying deeds at the Sea of Reeds.
+v23: He said he would destroy them,
+had Moses his chosen one not stood in the breach before him
+to turn his fury away from destroying them.
 </p>
 
 <p>
-v23: So he said he would destroy them—
-had not Moses, his chosen one,
-stood in the breach before him,
-to turn away his wrath from destroying them.
+v24: They despised the desirable land
+and did not believe his word.
+v25: They grumbled in their tents
+and would not listen to the LORD’s voice.
+v26: So he raised his hand in an oath against them:
+he would make them fall in the wilderness,
+v27: make their offspring fall among the nations,
+and scatter them across the lands.
 </p>
 
 <p>
-v24: Then they despised the pleasant land,
-having no faith in his promise.
-v25: They murmured in their tents,
-and did not obey the voice of the LORD.
-</p>
-
-<p>
-v26: So he raised his hand against them,
-to make them fall in the wilderness,
-v27: and to scatter their offspring among the nations,
-dispersing them throughout the lands.
-</p>
-
-<p>
-v28: Then they yoked themselves to Baal of Peor
-and ate sacrifices offered to the dead;
-v29: they provoked the LORD to anger with their deeds,
+v28: They bound themselves to Baal of Peor
+and ate sacrifices offered to the dead.
+v29: Their deeds provoked him,
 and a plague broke out among them.
-</p>
-
-<p>
 v30: Then Phinehas stood up and intervened,
-and the plague was stopped.
-v31: And that was counted to him as righteousness
-from generation to generation forever.
+and the plague stopped.
+v31: This was counted to him as righteousness
+from generation to generation, forever.
 </p>
 
 <p>
 v32: They angered him at the waters of Meribah,
-and it went ill with Moses on their account,
-v33: for they made his spirit bitter,
-and he spoke rashly with his lips.
-</p>
-
-## Continued Unfaithfulness in the Land
-<p>
-v34: They did not destroy the peoples,
-as the LORD commanded them,
-v35: but mingled with the nations
-and learned to do as they did.
+and Moses suffered because of them.
+v33: They rebelled against his spirit,
+and Moses spoke rashly with his lips.
 </p>
 
 <p>
+v34: They did not destroy the peoples
+as the LORD had commanded them.
+v35: Instead, they mingled with the nations
+and learned their practices.
 v36: They served their idols,
-which became a snare to them.
+which became a trap for them.
 v37: They sacrificed their sons
-and their daughters to demons;
-</p>
-
-<p>
-v38: they poured out innocent blood,
+and their daughters to demons.
+v38: They spilled innocent blood,
 the blood of their sons and daughters,
-whom they sacrificed to the idols of Canaan,
-and the land was polluted with blood.
+whom they sacrificed to Canaan’s idols.
+The land was polluted with blood.
+v39: They defiled themselves by what they did
+and prostituted themselves through their practices.
 </p>
 
 <p>
-v39: Thus they became unclean by their acts
-and played the harlot in their deeds.
-</p>
-
-<p>
-v40: Then the anger of the LORD was kindled against his people,
-and he abhorred his inheritance;
-v41: he gave them into the hand of the nations,
-so that people who hated them ruled over them.
-</p>
-
-<p>
+v40: The LORD’s anger burned against his people;
+he came to loathe his own inheritance.
+v41: He handed them over to the nations,
+and those who hated them ruled over them.
 v42: Their enemies oppressed them,
-and they were brought into subjection under their power.
-v43: Many times he delivered them,
-but they were rebellious in their purposes
-and were brought low through their iniquity.
+and they were subdued under their hand.
+v43: Time after time he rescued them,
+but they rebelled in their schemes
+and sank low through their guilt.
 </p>
 
 <p>
-v44: Even so, he looked upon their distress,
+v44: Yet he saw their distress
 when he heard their cry.
-v45: For their sake he remembered his covenant,
-and relented according to the abundance of his steadfast love.
+v45: He remembered his covenant for them
+and relented in his abundant faithful love.
+v46: He made all their captors
+show them compassion.
 </p>
 
 <p>
-v46: He caused them to be pitied
-by all people who held them captive.
-</p>
-
-## Final Prayer and Doxology
-<p>
-v47: Save us, O LORD our God,
-and gather us from among the nations,
-that we may give thanks to your holy name
-and glory in your praise.
-</p>
-
-<p>
+v47: Save us, LORD our God,
+and gather us from the nations,
+so we may thank your holy name
+and glory in praising you.
 v48: Blessed be the LORD, the God of Israel,
-from everlasting to everlasting!
-And let all the people say, “Amen!”
-Praise the LORD!
+from everlasting to everlasting.
+Let all the people say, “Amen!”
+Praise YAH!
 </p>
 
 ## Notes
 
-v01–03: Praise is framed as both declaration and ethical life.
+v15: “Wasting” describes an affliction sent despite the granted request. The Hebrew does not require the later expression “leanness of soul” to mean spiritual emptiness.
 
-v06–07: Confession is corporate and continuous across generations.
+v28–33: “The dead” may refer to dead beings or lifeless deities. Phinehas’s intervention recalls the violent action in Numbers 25. “His spirit” in verse 33 can refer to God or Moses; the next clause concerns Moses’s rash speech.
 
-v08–12: Salvation is grounded in God’s name, not human merit.
+v34–39: The psalm recounts commands to destroy peoples and the sacrifice of sons and daughters. These actions remain explicit in the translation.
 
-v13–33: Repeated cycle: forgetting → rebellion → judgment → partial repentance.
-
-v20: Idolatry is described as exchange—trading glory for image.
-
-v23: Intercession (Moses) interrupts judgment.
-
-v28–31: Zeal (Phinehas) is framed as covenant faithfulness.
-
-v34–39: Assimilation leads to moral collapse and violence.
-
-v40–46: Judgment and mercy coexist; covenant persists despite failure.
-
-v47–48: The psalm ends with petition and communal affirmation.
+v45–48: Verse 45 follows the read form’s plural expressions of faithful love, rendered collectively. Verse 48 closes Book Four of Psalms.
 
 ## Vocabulary
 
-v01: הוֹדוּ (hodu)
-“Give thanks.” Praise.
+v07: **Sea of Reeds**: The Hebrew name traditionally rendered “Red Sea”; the wording here preserves the source designation.
 
-v06: חָטָא (chata)
-“To sin.” Miss the mark.
+v23: **Breach**: A gap in a defensive wall; Moses is pictured standing in it to avert destruction.
 
-v07: מָרָה (marah)
-“To rebel.” Resist.
-
-v09: גָּעַר (ga‘ar)
-“To rebuke.” Command with authority.
-
-v13: שָׁכַח (shakach)
-“To forget.” Fail to remember.
-
-v20: תָּמוּר (tamur)
-“To exchange.” Substitute.
-
-v23: פֶּרֶץ (perets)
-“Breach.” Gap for intervention.
-
-v28: צָמַד (tsamad)
-“To join.” Bind to.
-
-v40: תָּעַב (ta‘av)
-“To abhor.” Reject strongly.
-
-v45: נָחַם (nacham)
-“To relent.” Change course.
+v31: **Righteousness**: Right standing or conduct; here the assessment credited to Phinehas’s act.

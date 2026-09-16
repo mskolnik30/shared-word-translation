@@ -4,43 +4,45 @@ testament: OT
 chapter: 129
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
+## They have not overcome me
+
 <p>
-A song of ascents.
+v01: A song of ascents.
+“They have oppressed me greatly from my youth”—
+let Israel say it—
+v02: “They have oppressed me greatly from my youth,
+but they have not overcome me.
+v03: Plowers plowed across my back;
+they made their furrow long.”
 </p>
 
-## They Have Not Prevailed against Me
-
 <p>
-v01: “Greatly have they oppressed me from my youth”—
-let Israel now say—
-v02: “greatly have they oppressed me from my youth,
-yet they have not prevailed against me.
-v03: Plowers plowed upon my back;
-they made their furrows long.
 v04: The LORD is righteous;
-God has cut the cords of the wicked.”
+he has cut the cords of the wicked.
 </p>
 
-## Let Those Who Hate Zion Be Put to Shame
-
 <p>
-v05: Let everyone who hate Zion
-be put to shame and turned backward.
-v06: Let them be like grass on the housetops,
-which withers before it is pulled up,
-v07: with which the reaper does not fill the hand,
-nor the binder of sheaves the arms,
-v08: and people who pass by do not say,
-“The blessing of the LORD be upon you;
+v05: May all who hate Zion
+be ashamed and driven back.
+v06: May they be like grass on rooftops,
+which dries up before it can be pulled,
+v07: which never fills the reaper’s hand
+or the sheaf-binder’s arms.
+v08: May passersby never say,
+“The LORD’s blessing be upon you;
 we bless you in the name of the LORD.”
 </p>
 
 ## Notes
 
-v03: The psalm uses the violent image of a back treated as a field cut by plows. The metaphor is retained without softening because the bodily image carries the force of remembered oppression.
-
-v06: Ancient flat roofs could gather enough dust and moisture for shallow grass to sprout quickly, but without deep roots it withered before harvest.
+v03,06: Verse 3 follows the read form’s singular “furrow.” In verse 6 the verb may refer to pulling grass or its shooting up; both readings emphasize growth that withers before a useful harvest.
 
 ## Vocabulary
+
+v03: **Plowers on my back**: An image of severe bodily oppression, not merely an inconvenience.

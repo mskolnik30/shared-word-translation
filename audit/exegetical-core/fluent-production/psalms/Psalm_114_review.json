@@ -2,155 +2,105 @@
   "book": "Psalms",
   "chapter": 114,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_114_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 114:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 1,
-            "source_ref": "Psalms 114:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bb815eb824704e42a066c5f37c7aa98a3a39e5f0f9a5d99151f8856767fb8ea6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bb815eb824704e42a066c5f37c7aa98a3a39e5f0f9a5d99151f8856767fb8ea6"
-      },
-      "2": {
-        "source_ref": "Psalms 114:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 2,
-            "source_ref": "Psalms 114:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5695ec1e8c59be24fa9a158d1ec842b286a31eb732ea1cc9632cedb045afc598"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5695ec1e8c59be24fa9a158d1ec842b286a31eb732ea1cc9632cedb045afc598"
-      },
-      "3": {
-        "source_ref": "Psalms 114:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 3,
-            "source_ref": "Psalms 114:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "23e6d98fdb7a2cec914ceed3fb03f91f464cc34e28de544aeef2f7e2843c1b5d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "23e6d98fdb7a2cec914ceed3fb03f91f464cc34e28de544aeef2f7e2843c1b5d"
-      },
-      "4": {
-        "source_ref": "Psalms 114:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 4,
-            "source_ref": "Psalms 114:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "77515f39ec7ef2856c3b3f37e4543aabcb285df436217f10a77a8e8975b0bec3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "77515f39ec7ef2856c3b3f37e4543aabcb285df436217f10a77a8e8975b0bec3"
-      },
-      "5": {
-        "source_ref": "Psalms 114:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 5,
-            "source_ref": "Psalms 114:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "1ff987a99997be6315cacffdb8c6b4d78da7001ff82021ace027d7183ae306a3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1ff987a99997be6315cacffdb8c6b4d78da7001ff82021ace027d7183ae306a3"
-      },
-      "6": {
-        "source_ref": "Psalms 114:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 6,
-            "source_ref": "Psalms 114:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "8099d5730e24c8f492c230b2cb9605c5c6cd6adddd6499ed0cfd04e1196580d0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8099d5730e24c8f492c230b2cb9605c5c6cd6adddd6499ed0cfd04e1196580d0"
-      },
-      "7": {
-        "source_ref": "Psalms 114:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 7,
-            "source_ref": "Psalms 114:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a68872b8e68d02cf243735d7309e6cb9bea0b5cd509591fae832610be6d5d67b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a68872b8e68d02cf243735d7309e6cb9bea0b5cd509591fae832610be6d5d67b"
-      },
-      "8": {
-        "source_ref": "Psalms 114:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 114,
-            "verse": 8,
-            "source_ref": "Psalms 114:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "057b3c2976d2135137e3f4709f9dd521c8215588d930fbbb09a6cdbebe16a092"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "057b3c2976d2135137e3f4709f9dd521c8215588d930fbbb09a6cdbebe16a092"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 114,
+    "verse_count": 8,
+    "path": "translations/fluent/OT/psalms/Psalm_114.md",
+    "before_sha256": "539a435ee22d810b5a9be685915d6fce923c3ce98d2d9aaca1ffde2b6887dc58",
+    "after_sha256": "6e73e02a00becc8413cc0ef2fb131cca92ca671d5f0d8e7654dfb6e8db75c1f8",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_114.md",
+    "tsw_comparator_sha256": "5a6fddffa2e007b5a02c7e5de2900d80a246284ae46ae69499682a28666966a8"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 114:1",
+      "decision": "Preserves ancestral parallelism and linguistic estrangement.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 114:4",
+      "decision": "Keeps differentiated terrain and animals.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 114:7",
+      "decision": "Keeps the address and doubled divine presence.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 114:8",
+      "decision": "Preserves both hard materials and transformed water forms.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_114.md",
-    "blob_sha": "87addfe23f91fb29a9f25309b23de7eff1159ce8"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

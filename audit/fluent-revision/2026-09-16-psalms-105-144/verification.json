@@ -1,0 +1,337 @@
+{
+  "status": "PASSED",
+  "base_commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+  "new_chapters": 40,
+  "new_verses": 714,
+  "original_source_records_bound_exactly_once": 717,
+  "cumulative_coverage": {
+    "ledgers": 76,
+    "chapters": 627,
+    "verses": 16428
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 75,
+    "prior_chapters_byte_identical": 587,
+    "historical_provenance_preserved": true,
+    "tsw_unchanged": true
+  },
+  "source_binding_audit": {
+    "status": "PASSED",
+    "errors": []
+  },
+  "public_source_offsets": {
+    "105": 0,
+    "106": 0,
+    "107": 0,
+    "108": 1,
+    "109": 0,
+    "110": 0,
+    "111": 0,
+    "112": 0,
+    "113": 0,
+    "114": 0,
+    "115": 0,
+    "116": 0,
+    "117": 0,
+    "118": 0,
+    "119": 0,
+    "120": 0,
+    "121": 0,
+    "122": 0,
+    "123": 0,
+    "124": 0,
+    "125": 0,
+    "126": 0,
+    "127": 0,
+    "128": 0,
+    "129": 0,
+    "130": 0,
+    "131": 0,
+    "132": 0,
+    "133": 0,
+    "134": 0,
+    "135": 0,
+    "136": 0,
+    "137": 0,
+    "138": 0,
+    "139": 0,
+    "140": 1,
+    "141": 0,
+    "142": 1,
+    "143": 0,
+    "144": 0
+  },
+  "first_source_reading": {
+    "original_records": 717,
+    "all_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 714,
+  "focused_authoring_source_reread": 343,
+  "focused_assertions": {
+    "105:8": [
+      "thousand"
+    ],
+    "105:18": [
+      "his foot",
+      "iron"
+    ],
+    "105:22": [
+      "bind his princes"
+    ],
+    "105:25": [
+      "He turned their hearts"
+    ],
+    "105:28": [
+      "did not rebel",
+      "his word"
+    ],
+    "106:27": [
+      "offspring fall"
+    ],
+    "106:33": [
+      "his spirit",
+      "Moses"
+    ],
+    "106:37": [
+      "sons",
+      "daughters",
+      "demons"
+    ],
+    "107:3": [
+      "north and the sea"
+    ],
+    "108:4": [
+      "beyond the heavens"
+    ],
+    "108:6": [
+      "answer me"
+    ],
+    "108:8": [
+      "Gilead",
+      "Manasseh",
+      "Ephraim",
+      "Judah"
+    ],
+    "109:6": [
+      "accuser",
+      "right hand"
+    ],
+    "109:9": [
+      "fatherless",
+      "wife a widow"
+    ],
+    "109:17": [
+      "it came upon him"
+    ],
+    "110:1": [
+      "LORD",
+      "my lord",
+      "footstool"
+    ],
+    "110:4": [
+      "Melchizedek",
+      "forever"
+    ],
+    "110:6": [
+      "corpses",
+      "heads"
+    ],
+    "111:9": [
+      "redemption",
+      "covenant"
+    ],
+    "112:9": [
+      "horn"
+    ],
+    "115:11": [
+      "their help"
+    ],
+    "115:17": [
+      "dead",
+      "YAH"
+    ],
+    "116:15": [
+      "Costly",
+      "death"
+    ],
+    "116:16": [
+      "son",
+      "female servant"
+    ],
+    "118:13": [
+      "You pushed"
+    ],
+    "118:27": [
+      "cords",
+      "horns"
+    ],
+    "119:9": [
+      "young man"
+    ],
+    "119:79": [
+      "those who know"
+    ],
+    "119:83": [
+      "wineskin in smoke"
+    ],
+    "119:88": [
+      "testimony"
+    ],
+    "119:98": [
+      "Your command"
+    ],
+    "119:109": [
+      "life is always in my hand"
+    ],
+    "119:122": [
+      "guarantor"
+    ],
+    "119:147": [
+      "your word"
+    ],
+    "119:161": [
+      "your word"
+    ],
+    "119:164": [
+      "Seven times"
+    ],
+    "119:176": [
+      "lost sheep",
+      "Seek your servant"
+    ],
+    "120:5": [
+      "Meshech",
+      "Kedar"
+    ],
+    "121:3": [
+      "May he",
+      "may your guardian"
+    ],
+    "123:2": [
+      "slaves",
+      "female slave",
+      "mistress"
+    ],
+    "127:1": [
+      "Solomon"
+    ],
+    "127:3": [
+      "sons"
+    ],
+    "127:5": [
+      "man",
+      "They"
+    ],
+    "129:3": [
+      "their furrow"
+    ],
+    "130:4": [
+      "forgiveness",
+      "feared"
+    ],
+    "131:2": [
+      "weaned child",
+      "mother"
+    ],
+    "132:6": [
+      "Ephrathah",
+      "Jaar"
+    ],
+    "132:12": [
+      "If your sons",
+      "covenant"
+    ],
+    "132:17": [
+      "horn",
+      "lamp"
+    ],
+    "133:2": [
+      "Aaron"
+    ],
+    "133:3": [
+      "Hermon",
+      "Zion"
+    ],
+    "134:1": [
+      "nights"
+    ],
+    "135:11": [
+      "Sihon",
+      "Og",
+      "Canaan"
+    ],
+    "136:25": [
+      "all flesh"
+    ],
+    "137:9": [
+      "little children",
+      "smashes",
+      "rock"
+    ],
+    "138:1": [
+      "gods"
+    ],
+    "139:13": [
+      "kidneys",
+      "womb"
+    ],
+    "139:14": [
+      "set apart"
+    ],
+    "139:16": [
+      "not one"
+    ],
+    "139:19": [
+      "kill",
+      "men of bloodshed"
+    ],
+    "139:22": [
+      "complete hatred"
+    ],
+    "140:7": [
+      "LORD, my Lord"
+    ],
+    "140:12": [
+      "I know"
+    ],
+    "141:7": [
+      "our bones",
+      "Sheol"
+    ],
+    "142:1": [
+      "cave",
+      "maskil"
+    ],
+    "143:2": [
+      "no living person"
+    ],
+    "143:12": [
+      "destroy all"
+    ],
+    "144:2": [
+      "my people"
+    ],
+    "144:7": [
+      "your hands"
+    ],
+    "144:9": [
+      "ten-stringed"
+    ],
+    "144:12": [
+      "sons",
+      "daughters"
+    ],
+    "144:13": [
+      "thousands",
+      "tens of thousands"
+    ]
+  },
+  "refrains_and_intentional_differences": "PASSED",
+  "divine_name_and_selah_counts": "PASSED; full divine name, short YAH, and Selah matched verse by verse without exceptions",
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_psalms_review": "PENDING; this is a selected forty-chapter authoring batch.",
+  "publication_allowed": false
+}

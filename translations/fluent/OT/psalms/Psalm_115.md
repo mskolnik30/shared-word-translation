@@ -4,78 +4,78 @@ testament: OT
 chapter: 115
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## Not to Us, but to Your Name Give Glory
+## Trust the living God
 
 <p>
-v01: Not to us, O LORD, not to us,
+v01: Not to us, LORD, not to us,
 but to your name give glory,
-for the sake of your steadfast love and your faithfulness.
+because of your faithful love and faithfulness.
 v02: Why should the nations say,
-“Where is their God?”
+“Where is their God now?”
 v03: Our God is in the heavens;
-God does whatever God pleases.
+he does whatever he pleases.
 </p>
-
-## Their Idols Are Silver and Gold
 
 <p>
 v04: Their idols are silver and gold,
 the work of human hands.
-v05: They have mouths but do not speak;
-eyes, but do not see.
-v06: They have ears but do not hear;
-noses, but do not smell.
-v07: They have hands but do not feel;
-feet, but do not walk;
+v05: They have mouths but cannot speak;
+they have eyes but cannot see.
+v06: They have ears but cannot hear;
+they have noses but cannot smell.
+v07: They have hands but cannot feel,
+feet but cannot walk;
 no sound comes from their throats.
-v08: People who make them become like them,
-as do everyone who trust in them.
+v08: Those who make them become like them,
+as does everyone who trusts in them.
 </p>
 
-## Trust in the LORD
-
 <p>
-v09: O Israel, trust in the LORD!
-God is their help and their shield.
-v10: O house of Aaron, trust in the LORD!
-God is their help and their shield.
+v09: Israel, trust in the LORD!
+He is their help and their shield.
+v10: House of Aaron, trust in the LORD!
+He is their help and their shield.
 v11: You who fear the LORD, trust in the LORD!
-God is their help and their shield.
+He is their help and their shield.
 </p>
 
-## The LORD Has Remembered Us
+<p>
+v12: The LORD has remembered us; he will bless us.
+He will bless the house of Israel;
+he will bless the house of Aaron.
+v13: He will bless those who fear the LORD,
+the small together with the great.
+</p>
 
 <p>
-v12: The LORD has remembered us and will bless us;
-God will bless the house of Israel;
-God will bless the house of Aaron.
-v13: God will bless people who fear the LORD,
-the small together with the great.
-v14: May the LORD increase you,
+v14: May the LORD make you increase,
 you and your children.
 v15: May you be blessed by the LORD,
-maker of heaven and earth.
-v16: The heavens are the LORD’s heavens,
-but the earth God has given to humankind.
-v17: The dead do not praise the LORD,
+the maker of heaven and earth.
+</p>
+
+<p>
+v16: The heavens belong to the LORD,
+but the earth he has given to humanity.
+v17: The dead do not praise YAH,
 nor do any who go down into silence.
-v18: But we will bless the LORD
+v18: But we will bless YAH
 from now and forever.
-Praise the LORD!
+Praise YAH!
 </p>
 
 ## Notes
 
-v09–11: The repeated third-person line “God is their help and their shield” follows the Hebrew shift in person rather than regularizing it to “your help.”
+v09–11: Each call to trust is followed by “their help and their shield.” This shift can be heard as a communal response; it has not been changed to “your.”
 
-v17: “Silence” is a poetic designation for the realm of death, where the dead no longer participate in the public praise voiced by the living community.
+v17–18: The contrast between the dead in silence and the living who bless YAH is preserved without adding an explanation from later passages.
 
 ## Vocabulary
 
-v01: חֶסֶד (hesed)
-“Steadfast love,” covenantal loyalty expressed in faithful action.
-
-v08: בָּטַח (batach)
-“Trust,” to place confidence or security in someone or something.
+v04: **Idols**: Manufactured objects of worship, described here by their materials and powerless body parts.

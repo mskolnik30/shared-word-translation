@@ -2,65 +2,90 @@
   "book": "Psalms",
   "chapter": 117,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_117_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 117:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 117,
-            "verse": 1,
-            "source_ref": "Psalms 117:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "96497feffb659f8196efba7e4a0901c665579f783fa130458b6ba7538881be5f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "96497feffb659f8196efba7e4a0901c665579f783fa130458b6ba7538881be5f"
-      },
-      "2": {
-        "source_ref": "Psalms 117:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 117,
-            "verse": 2,
-            "source_ref": "Psalms 117:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f1a6c982d9a3d7a956e39080121499c27a065af5f4b3b7b104f5c48e438a3b42"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f1a6c982d9a3d7a956e39080121499c27a065af5f4b3b7b104f5c48e438a3b42"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 117,
+    "verse_count": 2,
+    "path": "translations/fluent/OT/psalms/Psalm_117.md",
+    "before_sha256": "ed11bb221893900338c7199155bf703eb9435e49e70f1ed9a2717c51f5da30b0",
+    "after_sha256": "60a7bfd5e9ab899cc5a634945492c72e214d1ec4768abe5abc02e0d9a25b0c20",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_117.md",
+    "tsw_comparator_sha256": "be9c78a1041f216cf71aaefd705ee4bcce615ab390e985957636460a26768f6d"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 117:2",
+      "decision": "Retains mighty love toward us and enduring faithfulness.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_117.md",
-    "blob_sha": "a1ea2bf82ec6a965edfb676a9535c323ac1339bc"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -4,41 +4,41 @@ testament: OT
 chapter: 125
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-<p>
-A song of ascents.
-</p>
-
-## The LORD Surrounds the People
+## Surrounded like Jerusalem
 
 <p>
-v01: People who trust in the LORD are like Mount Zion,
-which cannot be shaken but remains forever.
-v02: As the mountains surround Jerusalem,
-so the LORD surrounds the people
+v01: A song of ascents.
+Those who trust in the LORD are like Mount Zion,
+which cannot be shaken but stands forever.
+v02: Mountains surround Jerusalem;
+so the LORD surrounds his people,
 from now and forever.
-v03: For the scepter of wickedness will not rest
-upon the land allotted to the righteous,
-so that the righteous do not stretch out their hands
-toward injustice.
 </p>
 
-## Peace Be upon Israel
+<p>
+v03: The scepter of wickedness will not rest
+on the land allotted to the righteous,
+so that the righteous will not reach out their hands to do wrong.
+</p>
 
 <p>
-v04: Do good, O LORD, to people who are good
-and to people who are upright in their hearts.
-v05: But people who turn aside to their crooked ways—
-the LORD will lead them away with people who do evil.
+v04: Do good, LORD, to those who are good,
+to those whose hearts are upright.
+v05: But those who turn onto crooked paths—
+may the LORD lead them away with evildoers.
 Peace be upon Israel!
 </p>
 
 ## Notes
 
-v03: The “scepter of wickedness” is an image of oppressive rule. The verse recognizes the moral pressure such rule can exert even on the righteous without excusing wrongdoing.
+v03: The reason given for ending wicked rule is that the righteous might otherwise reach out to wrongdoing. The political and moral pressure remain connected.
 
 ## Vocabulary
 
-v03: גּוֹרָל (goral)
-“Lot” or “allotted portion,” land or destiny assigned by casting lots or by divine apportionment.
+v03: **Scepter**: A ruler’s staff, here representing wicked power over an allotted land.

@@ -1,0 +1,5017 @@
+{
+  "scope": "Psalms 105–144",
+  "verses": 714,
+  "method": "Case/punctuation normalized word sequence; near identical >=0.90 SequenceMatcher ratio, excluding identical. Triage only, not a fidelity, originality, or comprehension verdict. Titles remain in public verse 1.",
+  "summary": {
+    "before": {
+      "identical": 637,
+      "near_identical_nonidentical": 62,
+      "mean_word_similarity": 0.99126
+    },
+    "after": {
+      "identical": 32,
+      "near_identical_nonidentical": 73,
+      "mean_word_similarity": 0.735339
+    }
+  },
+  "rows": [
+    {
+      "reference": "Psalms 105:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 105:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 105:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 105:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 105:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 105:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 105:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 105:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 105:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 105:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 105:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 105:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Psalms 105:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 105:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 105:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Psalms 105:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 105:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 105:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 105:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Psalms 105:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Psalms 105:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 105:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 105:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Psalms 105:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 105:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 105:26",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 105:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 105:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 105:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 105:30",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 105:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 105:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 105:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 105:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Psalms 105:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 105:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 105:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 105:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 105:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 105:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 105:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 105:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Psalms 105:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Psalms 105:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286
+    },
+    {
+      "reference": "Psalms 105:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Psalms 106:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Psalms 106:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 106:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 106:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 106:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.458333
+    },
+    {
+      "reference": "Psalms 106:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.322581
+    },
+    {
+      "reference": "Psalms 106:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Psalms 106:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 106:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 106:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 106:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 106:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 106:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 106:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 106:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 106:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Psalms 106:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Psalms 106:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Psalms 106:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Psalms 106:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 106:21",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 106:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 106:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Psalms 106:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Psalms 106:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 106:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 106:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 106:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 106:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 106:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Psalms 106:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 106:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 106:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 106:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Psalms 106:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Psalms 106:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 106:37",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 106:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Psalms 106:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.296296
+    },
+    {
+      "reference": "Psalms 106:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 106:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 106:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 106:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Psalms 106:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Psalms 106:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 106:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.285714
+    },
+    {
+      "reference": "Psalms 106:47",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Psalms 106:48",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Psalms 107:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 107:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.413793
+    },
+    {
+      "reference": "Psalms 107:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Psalms 107:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 107:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 107:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 107:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Psalms 107:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Psalms 107:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 107:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Psalms 107:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 107:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 107:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 107:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Psalms 107:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Psalms 107:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Psalms 107:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.173913
+    },
+    {
+      "reference": "Psalms 107:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 107:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 107:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 107:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Psalms 107:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Psalms 107:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 107:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Psalms 107:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 107:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286
+    },
+    {
+      "reference": "Psalms 107:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Psalms 107:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 107:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Psalms 107:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286
+    },
+    {
+      "reference": "Psalms 107:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Psalms 107:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Psalms 107:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 107:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 107:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 107:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 107:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 107:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 107:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 107:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 107:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 107:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 107:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Psalms 108:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Psalms 108:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Psalms 108:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Psalms 108:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 108:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Psalms 108:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Psalms 108:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 108:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Psalms 108:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 108:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 108:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 108:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Psalms 108:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 109:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 109:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 109:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Psalms 109:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 109:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Psalms 109:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 109:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Psalms 109:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 109:9",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 109:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 109:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 109:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Psalms 109:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Psalms 109:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Psalms 109:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Psalms 109:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "Psalms 109:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Psalms 109:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Psalms 109:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Psalms 109:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Psalms 109:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Psalms 109:22",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 109:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Psalms 109:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 109:25",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 109:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 109:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 109:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 109:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Psalms 109:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Psalms 109:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Psalms 110:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "Psalms 110:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Psalms 110:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 110:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Psalms 110:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Psalms 110:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Psalms 110:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 111:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Psalms 111:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 111:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Psalms 111:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 111:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 111:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Psalms 111:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 111:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Psalms 111:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Psalms 111:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Psalms 112:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 112:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 112:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 112:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 112:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Psalms 112:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 112:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 112:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 112:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 112:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 113:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 113:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 113:3",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 113:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 113:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 113:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Psalms 113:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Psalms 113:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 113:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Psalms 114:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 114:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 114:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Psalms 114:4",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 114:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Psalms 114:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 114:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 114:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 115:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 115:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Psalms 115:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 115:4",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 115:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 115:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 115:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Psalms 115:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 115:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 115:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 115:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 115:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 115:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 115:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Psalms 115:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Psalms 115:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 115:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 115:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 116:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 116:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.388889
+    },
+    {
+      "reference": "Psalms 116:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Psalms 116:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 116:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 116:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 116:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 116:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Psalms 116:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 116:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Psalms 116:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Psalms 116:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 116:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Psalms 116:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Psalms 116:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 116:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Psalms 116:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Psalms 116:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Psalms 116:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 117:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 117:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Psalms 118:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 118:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Psalms 118:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 118:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 118:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.342857
+    },
+    {
+      "reference": "Psalms 118:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 118:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Psalms 118:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 118:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 118:10",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 118:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 118:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Psalms 118:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Psalms 118:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 118:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Psalms 118:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 118:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 118:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Psalms 118:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Psalms 118:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 118:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 118:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Psalms 118:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Psalms 118:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Psalms 118:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 118:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 118:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Psalms 118:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Psalms 118:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 119:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 119:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 119:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Psalms 119:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Psalms 119:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636
+    },
+    {
+      "reference": "Psalms 119:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Psalms 119:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Psalms 119:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 119:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 119:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 119:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Psalms 119:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 119:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Psalms 119:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 119:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 119:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Psalms 119:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 119:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 119:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 119:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 119:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 119:24",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 119:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 119:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Psalms 119:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 119:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Psalms 119:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 119:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 119:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Psalms 119:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 119:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 119:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 119:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 119:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 119:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 119:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 119:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Psalms 119:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Psalms 119:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 119:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 119:47",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Psalms 119:48",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:49",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 119:50",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 119:51",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 119:52",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615
+    },
+    {
+      "reference": "Psalms 119:53",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:54",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Psalms 119:55",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:56",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 119:57",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 119:58",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Psalms 119:59",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 119:60",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 119:61",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 119:62",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Psalms 119:63",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 119:64",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 119:65",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:66",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Psalms 119:67",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 119:68",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:69",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 119:70",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Psalms 119:71",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:72",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Psalms 119:73",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:74",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 119:75",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 119:76",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 119:77",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Psalms 119:78",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Psalms 119:79",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Psalms 119:80",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 119:81",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:82",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:83",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 119:84",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 119:85",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:86",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:87",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 119:88",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Psalms 119:89",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Psalms 119:90",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 119:91",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 119:92",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Psalms 119:93",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 119:94",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:95",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 119:96",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:97",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:98",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:99",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 119:100",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 119:101",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 119:102",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 119:103",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 119:104",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Psalms 119:105",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:106",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 119:107",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 119:108",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 119:109",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 119:110",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 119:111",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Psalms 119:112",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 119:113",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Psalms 119:114",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:115",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 119:116",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.564103
+    },
+    {
+      "reference": "Psalms 119:117",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Psalms 119:118",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 119:119",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 119:120",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 119:121",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:122",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Psalms 119:123",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 119:124",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 119:125",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 119:126",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:127",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Psalms 119:128",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 119:129",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Psalms 119:130",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 119:131",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 119:132",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Psalms 119:133",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Psalms 119:134",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Psalms 119:135",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:136",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 119:137",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Psalms 119:138",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 119:139",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 119:140",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 119:141",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 119:142",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Psalms 119:143",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 119:144",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 119:145",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 119:146",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 119:147",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 119:148",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 119:149",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 119:150",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 119:151",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 119:152",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 119:153",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 119:154",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 119:155",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 119:156",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 119:157",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Psalms 119:158",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 119:159",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 119:160",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Psalms 119:161",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Psalms 119:162",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Psalms 119:163",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 119:164",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:165",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 119:166",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 119:167",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Psalms 119:168",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 119:169",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Psalms 119:170",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 119:171",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Psalms 119:172",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 119:173",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 119:174",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Psalms 119:175",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Psalms 119:176",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Psalms 120:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Psalms 120:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Psalms 120:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "Psalms 120:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 120:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 120:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 120:7",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 121:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 121:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Psalms 121:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.344828
+    },
+    {
+      "reference": "Psalms 121:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.222222
+    },
+    {
+      "reference": "Psalms 121:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 121:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Psalms 121:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 121:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 122:1",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 122:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Psalms 122:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Psalms 122:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Psalms 122:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 122:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 122:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 122:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 122:9",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 123:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 123:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.613333
+    },
+    {
+      "reference": "Psalms 123:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 123:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 124:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.411765
+    },
+    {
+      "reference": "Psalms 124:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Psalms 124:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 124:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 124:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Psalms 124:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 124:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Psalms 124:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 125:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Psalms 125:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 125:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 125:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 125:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Psalms 126:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Psalms 126:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 126:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 126:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Psalms 126:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 126:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 127:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Psalms 127:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Psalms 127:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 127:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Psalms 127:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 128:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 128:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Psalms 128:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Psalms 128:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Psalms 128:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Psalms 128:6",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 129:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 129:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 129:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 129:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 129:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Psalms 129:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 129:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.37037
+    },
+    {
+      "reference": "Psalms 129:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Psalms 130:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Psalms 130:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 130:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Psalms 130:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 130:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Psalms 130:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 130:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 130:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 131:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Psalms 131:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 131:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Psalms 132:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Psalms 132:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 132:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Psalms 132:4",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 132:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Psalms 132:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Psalms 132:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 132:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 132:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Psalms 132:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Psalms 132:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 132:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Psalms 132:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Psalms 132:14",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 132:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 132:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 132:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 132:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Psalms 133:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Psalms 133:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Psalms 133:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Psalms 134:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Psalms 134:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Psalms 134:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 135:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 135:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 135:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Psalms 135:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 135:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Psalms 135:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Psalms 135:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Psalms 135:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Psalms 135:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Psalms 135:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 135:11",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 135:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Psalms 135:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Psalms 135:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 135:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 135:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 135:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Psalms 135:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Psalms 135:19",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 135:20",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 135:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 136:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Psalms 136:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 136:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 136:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 136:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 136:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Psalms 136:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Psalms 136:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Psalms 136:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 136:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Psalms 136:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 136:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 136:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Psalms 136:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Psalms 136:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Psalms 136:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Psalms 136:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Psalms 136:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Psalms 136:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 136:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 136:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 136:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Psalms 136:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615
+    },
+    {
+      "reference": "Psalms 136:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Psalms 136:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Psalms 136:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 137:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Psalms 137:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Psalms 137:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Psalms 137:4",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 137:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Psalms 137:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.884615
+    },
+    {
+      "reference": "Psalms 137:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.458333
+    },
+    {
+      "reference": "Psalms 137:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Psalms 137:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 138:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Psalms 138:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.779661
+    },
+    {
+      "reference": "Psalms 138:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 138:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 138:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Psalms 138:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Psalms 138:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Psalms 138:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "Psalms 139:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Psalms 139:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Psalms 139:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Psalms 139:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Psalms 139:5",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 139:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 139:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Psalms 139:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Psalms 139:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Psalms 139:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 139:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Psalms 139:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Psalms 139:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Psalms 139:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.378378
+    },
+    {
+      "reference": "Psalms 139:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Psalms 139:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Psalms 139:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Psalms 139:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Psalms 139:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.387097
+    },
+    {
+      "reference": "Psalms 139:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Psalms 139:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Psalms 139:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Psalms 139:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 139:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 140:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Psalms 140:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 140:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 140:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Psalms 140:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "Psalms 140:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Psalms 140:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Psalms 140:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Psalms 140:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Psalms 140:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Psalms 140:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Psalms 140:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Psalms 140:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Psalms 141:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 141:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 141:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Psalms 141:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Psalms 141:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.811594
+    },
+    {
+      "reference": "Psalms 141:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 141:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Psalms 141:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.97561
+    },
+    {
+      "reference": "Psalms 141:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Psalms 141:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 142:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Psalms 142:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Psalms 142:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Psalms 142:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Psalms 142:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.974359
+    },
+    {
+      "reference": "Psalms 142:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Psalms 142:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Psalms 143:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Psalms 143:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Psalms 143:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Psalms 143:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Psalms 143:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Psalms 143:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Psalms 143:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Psalms 143:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.754098
+    },
+    {
+      "reference": "Psalms 143:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Psalms 143:10",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Psalms 143:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Psalms 143:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Psalms 144:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Psalms 144:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Psalms 144:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Psalms 144:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Psalms 144:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Psalms 144:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 144:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Psalms 144:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Psalms 144:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Psalms 144:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Psalms 144:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Psalms 144:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Psalms 144:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Psalms 144:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Psalms 144:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    }
+  ]
+}

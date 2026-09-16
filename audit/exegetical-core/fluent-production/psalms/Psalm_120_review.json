@@ -2,147 +2,110 @@
   "book": "Psalms",
   "chapter": 120,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_120_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 120:1 (Hebrew; before kjv marker) + Psalms 120:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 1,
-            "source_ref": "Psalms 120:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
-          },
-          {
-            "chapter": 120,
-            "verse": 1,
-            "source_ref": "Psalms 120:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "d0bddda5318448e28a041fb0e3ec6fb7a6ffba5b1dd0ce9e4232bcc3bccdeeec"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "9b822f2c57d610ed4ff9d40a3896dc554e2912b6917cf60da19247f21be171e4"
-      },
-      "2": {
-        "source_ref": "Psalms 120:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 2,
-            "source_ref": "Psalms 120:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "2f9faaee20056bf1b66c7c6b5c45bc96a627c5055e58ca00eccc3edc697f14ee"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2f9faaee20056bf1b66c7c6b5c45bc96a627c5055e58ca00eccc3edc697f14ee"
-      },
-      "3": {
-        "source_ref": "Psalms 120:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 3,
-            "source_ref": "Psalms 120:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bdf4e32d4fc3fb48b50cea3e1ff73b156ee19122d4661c36cec9a63bddb1088e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bdf4e32d4fc3fb48b50cea3e1ff73b156ee19122d4661c36cec9a63bddb1088e"
-      },
-      "4": {
-        "source_ref": "Psalms 120:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 4,
-            "source_ref": "Psalms 120:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e5bb8de8e8da2bace36f569db0b49a80b1917dce2afe85642d5de5d48f77cc55"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e5bb8de8e8da2bace36f569db0b49a80b1917dce2afe85642d5de5d48f77cc55"
-      },
-      "5": {
-        "source_ref": "Psalms 120:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 5,
-            "source_ref": "Psalms 120:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "2568e00546ba3c2804b1573e25df9d7c218f46eb6fb09a747464942108e3e956"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2568e00546ba3c2804b1573e25df9d7c218f46eb6fb09a747464942108e3e956"
-      },
-      "6": {
-        "source_ref": "Psalms 120:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 6,
-            "source_ref": "Psalms 120:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9350a36f0e770add4930bc5318d25cabf26a0b9c8ff9d43d6a7006940f6fb65b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9350a36f0e770add4930bc5318d25cabf26a0b9c8ff9d43d6a7006940f6fb65b"
-      },
-      "7": {
-        "source_ref": "Psalms 120:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 120,
-            "verse": 7,
-            "source_ref": "Psalms 120:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7224c40f2d09b3396513a83c2e35585dce3c6a819b05e6c29b5eb5676a922881"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7224c40f2d09b3396513a83c2e35585dce3c6a819b05e6c29b5eb5676a922881"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 120,
+    "verse_count": 7,
+    "path": "translations/fluent/OT/psalms/Psalm_120.md",
+    "before_sha256": "9c8545399c04b74a3642f8318ed522313c43c06d665efd3c50515883bc713ca5",
+    "after_sha256": "b91d9c9502f0d49ef54eec2b9efdcc0203b94efb8053d6ad430584fc0fe325db",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_120.md",
+    "tsw_comparator_sha256": "4cd31b2c34267d55cdfb72db1c88666f844c4fd107085c86a7fd0f47cf402f25"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 120:1",
+      "decision": "Preserves collection title and answered cry.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 120:3",
+      "decision": "Retains unanswered agent and direct address to tongue.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 120:4",
+      "decision": "Preserves weapon and intense-fuel images as the answer.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 120:5",
+      "decision": "Keeps both distant peoples rather than inventing one location.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 120:7",
+      "decision": "Preserves compressed identity and hostile response.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_120.md",
-    "blob_sha": "68f2e48272b90d033b8d77848fc99f6f3ce18124"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

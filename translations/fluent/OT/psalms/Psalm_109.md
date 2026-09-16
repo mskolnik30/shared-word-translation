@@ -4,111 +4,116 @@ testament: OT
 chapter: 109
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-<p>
-For the director. A psalm of David.
-</p>
-
-## Do Not Be Silent, O God of My Praise
+## A prayer amid accusation
 
 <p>
-v01: O God of my praise, do not be silent.
+v01: For the music director. Of David. A psalm.
+God of my praise, do not stay silent.
 v02: For wicked and deceitful mouths have opened against me;
 they speak to me with lying tongues.
-v03: They surround me with words of hatred
-and fight against me without cause.
+v03: Words of hatred surround me;
+they attack me without cause.
 v04: In return for my love they accuse me,
-but I am prayer.
-v05: They repay me evil for good
+but I give myself to prayer.
+v05: They repay me with evil for good
 and hatred for my love.
 </p>
 
-## Let the Accuser Stand at His Right Hand
+<p>
+v06: Appoint a wicked man over him;
+let an accuser stand at his right hand.
+v07: When he is tried, let him come out guilty;
+let even his prayer be counted as sin.
+v08: Let his days be few;
+let someone else take his office.
+</p>
 
 <p>
-v06: Appoint a wicked one over him,
-and let an accuser stand at his right hand.
-v07: When he is judged, let him come out guilty,
-and let his prayer be counted as sin.
-v08: Let his days be few;
-let another take his office.
 v09: Let his children be fatherless
 and his wife a widow.
-v10: Let his children wander and beg;
-let them seek food far from their ruins.
-v11: Let a creditor seize all that he has,
-and let strangers plunder the fruit of his labor.
-v12: Let there be no one to extend steadfast love to him,
-nor anyone to show favor to his fatherless children.
+v10: Let his children wander and beg,
+searching for food far from their ruined homes.
+v11: Let a creditor seize everything he has;
+let strangers plunder what he worked for.
+v12: Let no one extend faithful love to him;
+let no one show favor to his fatherless children.
 v13: Let his descendants be cut off;
-in the next generation let their name be blotted out.
-v14: Let the iniquity of his ancestors be remembered before the LORD,
-and let the sin of his mother not be wiped away.
-v15: Let them be before the LORD continually,
-so that God may cut off their memory from the earth.
+let their name be wiped out in the next generation.
 </p>
 
-## He Did Not Remember to Show Steadfast Love
-
 <p>
-v16: For he did not remember to show steadfast love,
-but pursued the poor and needy
-and the brokenhearted, to put them to death.
-v17: He loved cursing; let it come upon him.
-He did not delight in blessing; let it remain far from him.
-v18: He clothed himself with cursing like a garment;
-let it enter his body like water
-and his bones like oil.
-v19: Let it be like a garment that wraps him,
-like a belt he always wears.
-v20: Let this be the reward from the LORD for my accusers,
-for people who speak evil against my life.
+v14: Let the guilt of his fathers be remembered before the LORD;
+let his mother’s sin never be erased.
+v15: Let these sins always remain before the LORD,
+and let him cut off their memory from the earth,
 </p>
 
-## Deal with Me for Your Name’s Sake
+<p>
+v16: because he never thought to show faithful love.
+He pursued a poor and needy man,
+a brokenhearted man, to put him to death.
+v17: He loved cursing, and it came upon him;
+he took no pleasure in blessing, and it stayed far from him.
+v18: He wore cursing like a garment;
+it entered him like water,
+like oil into his bones.
+v19: Let it be the robe he wraps around himself,
+the belt he wears continually.
+</p>
 
 <p>
-v21: But you, O LORD my Lord,
-act for me for your name’s sake.
-Because your steadfast love is good, deliver me.
+v20: Let this be the LORD’s payment to my accusers,
+to those who speak evil against my life.
+</p>
+
+<p>
+v21: But you, LORD, my Lord, act for me for your name’s sake.
+Because your faithful love is good, rescue me.
 v22: For I am poor and needy,
 and my heart is wounded within me.
-v23: I am passing away like a shadow when it lengthens;
+v23: I fade like a lengthening shadow;
 I am shaken off like a locust.
-v24: My knees are weak from fasting;
-my flesh has grown lean, without fat.
+v24: My knees give way from fasting;
+my body has wasted away, with no fat left.
 v25: I have become an object of scorn to them;
 when they see me, they shake their heads.
-v26: Help me, O LORD my God;
-save me according to your steadfast love.
-v27: Let them know that this is your hand;
-you, O LORD, have done it.
-v28: Let them curse, but you will bless.
-When they rise up, let them be put to shame,
-but let your servant rejoice.
-v29: Let my accusers be clothed with disgrace
-and wrap themselves in their shame as in a cloak.
+</p>
+
+<p>
+v26: Help me, LORD my God;
+save me in keeping with your faithful love.
+v27: Let them know that this is your hand,
+that you, LORD, have done it.
+v28: They may curse, but you will bless.
+When they rise against me, let them be ashamed;
+let your servant rejoice.
+v29: Let my accusers be clothed in disgrace;
+let them wrap themselves in shame as in a cloak.
+</p>
+
+<p>
 v30: With my mouth I will greatly thank the LORD;
-among many I will praise God.
-v31: For the LORD stands at the right hand of the needy,
-to save that one from people who judge the life.
+in the midst of the crowd I will praise him.
+v31: For he stands at the right hand of the needy
+to save him from those who condemn him to death.
 </p>
 
 ## Notes
 
-v04: The Hebrew says simply, “but I—prayer.” The compressed expression is preserved rather than expanded to “I am a man of prayer” or “I give myself to prayer.”
+v06–20: The switch from plural attackers to a singular target is abrupt. Some read these curses as the speaker’s petition; others as hostile words being quoted. The Hebrew supplies no explicit quotation introduction. The translation leaves the transition visible without adding “they say.”
 
-v06: The word rendered “accuser” is שָׂטָן (satan), a common noun here describing an adversarial or prosecuting figure rather than necessarily functioning as a proper name.
+v09–15: The curses extend to wife, children, and ancestors. Their severity is preserved as the poem’s speech, not converted into a general instruction to readers.
 
-v06–20: The psalm shifts into an extended singular curse. The translation preserves its severity and does not soften or moralize the petition.
-
-v31: The final line answers v6 structurally: where an accuser stands at the right hand of the condemned, the LORD stands at the right hand of the needy to save.
+v31: The LORD’s place at the needy person’s right hand reverses the accuser’s position in verse 6.
 
 ## Vocabulary
 
-v06: שָׂטָן (satan)
-“Adversary” or “accuser.” The term can describe a human or heavenly opponent depending on context.
+v06: **Accuser**: A legal or personal adversary. The Hebrew word here does not require the proper name Satan.
 
-v20: פְּעֻלָּה (peʿullah)
-“Reward,” “wages,” or “recompense,” with a sense of a return corresponding to one’s action.
+v08: **Office**: A position of responsibility or oversight.

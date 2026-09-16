@@ -4,217 +4,134 @@ testament: OT
 chapter: 107
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## Give Thanks to the LORD
+## Let the rescued give thanks
+
 <p>
-v01: Give thanks to the LORD, for he is good,
-for his steadfast love endures forever!
-v02: Let the redeemed of the LORD say so,
-whom he has redeemed from trouble
+v01: Give thanks to the LORD, for he is good;
+his faithful love lasts forever.
+v02: Let those the LORD has redeemed say so,
+those he redeemed from the enemy’s hand,
+v03: those he gathered from the lands,
+from east and west, from north and the sea.
 </p>
 
 <p>
-v03: and gathered in from the lands,
-from the east and from the west,
-from the north and from the south.
-</p>
-
-## Wanderers in the Desert
-<p>
-v04: Some wandered in desert wastes,
-finding no way to a city to dwell in;
-v05: hungry and thirsty,
-their soul fainted within them.
-</p>
-
-<p>
-v06: Then they cried to the LORD in their trouble,
-and he delivered them from their distress.
-v07: He led them by a straight way
-till they reached a city to dwell in.
+v04: Some wandered in desert wastelands;
+they found no road to a city where they could live.
+v05: Hungry and thirsty,
+their lives were ebbing away.
+v06: Then they cried to the LORD in their distress,
+and he rescued them from their troubles.
+v07: He led them along a straight road
+to a city where they could live.
+v08: Let them thank the LORD for his faithful love
+and his wonders for humanity.
+v09: For he satisfies the thirsty
+and fills the hungry with good things.
 </p>
 
 <p>
-v08: Let them give thanks to the LORD for his steadfast love,
-for his wondrous works to the children of humanity!
-v09: For he satisfies the longing soul,
-and the hungry soul he fills with good.
-</p>
-
-## Prisoners in Darkness
-<p>
-v10: Some sat in darkness and in the shadow of death,
-prisoners in affliction and in irons,
-v11: for they had rebelled against the words of God
+v10: Some sat in darkness and death’s shadow,
+prisoners bound in misery and iron,
+v11: because they had rebelled against God’s words
 and spurned the counsel of the Most High.
+v12: He humbled their hearts with hard labor;
+they stumbled, and no one helped.
+v13: Then they cried to the LORD in their distress,
+and he saved them from their troubles.
+v14: He brought them out of darkness and death’s shadow
+and broke their chains apart.
+v15: Let them thank the LORD for his faithful love
+and his wonders for humanity.
+v16: For he shattered bronze doors
+and cut through iron bars.
 </p>
 
 <p>
-v12: So he humbled their heart with hard labor;
-they fell down, with none to help.
-v13: Then they cried to the LORD in their trouble,
-and he saved them from their distress.
+v17: Fools suffered for their rebellious ways,
+for their wrongs.
+v18: They could not bear any food
+and drew near the gates of death.
+v19: Then they cried to the LORD in their distress,
+and he saved them from their troubles.
+v20: He sent his word and healed them;
+he delivered them from their pits of destruction.
+v21: Let them thank the LORD for his faithful love
+and his wonders for humanity.
+v22: Let them offer sacrifices of thanksgiving
+and tell of his deeds with joyful shouts.
 </p>
 
-<p>
-v14: He brought them out of darkness and the shadow of death,
-and burst their bonds apart.
-v15: Let them give thanks to the LORD for his steadfast love,
-for his wondrous works to the children of humanity!
-</p>
-
-<p>
-v16: For he shatters the doors of bronze
-and cuts in two the bars of iron.
-</p>
-
-## Fools in Affliction
-<p>
-v17: Some were fools through their sinful ways,
-and because of their iniquities suffered affliction;
-v18: they loathed any kind of food,
-and they drew near to the gates of death.
-</p>
-
-<p>
-v19: Then they cried to the LORD in their trouble,
-and he saved them from their distress.
-v20: He sent out his word and healed them,
-and delivered them from their destruction.
-</p>
-
-<p>
-v21: Let them give thanks to the LORD for his steadfast love,
-for his wondrous works to the children of humanity!
-v22: And let them offer sacrifices of thanksgiving,
-and tell of his deeds in songs of joy!
-</p>
-
-## Sailors in the Storm
 <p>
 v23: Some went down to the sea in ships,
-doing business on the great waters;
-v24: they saw the deeds of the LORD,
-his wondrous works in the deep.
+doing business on the mighty waters.
+v24: They saw the LORD’s works,
+his wonders in the deep.
+v25: He spoke and raised a storm wind
+that lifted the sea’s waves.
+v26: They rose to the heavens and plunged into the depths;
+their courage melted in their misery.
+v27: They reeled and staggered like drunks;
+all their skill was swallowed up.
+v28: Then they cried to the LORD in their distress,
+and he brought them out of their troubles.
+v29: He stilled the storm to a whisper,
+and the waves fell silent.
+v30: They were glad when the waters grew calm,
+and he guided them to the harbor they longed for.
+v31: Let them thank the LORD for his faithful love
+and his wonders for humanity.
+v32: Let them exalt him in the people’s assembly
+and praise him in the council of elders.
 </p>
 
 <p>
-v25: For he commanded and raised the stormy wind,
-which lifted up the waves of the sea.
-v26: They mounted up to heaven; they went down to the depths;
-their courage melted away in their evil plight;
+v33: He turns rivers into desert
+and springs of water into thirsty ground,
+v34: fruitful land into a salt waste,
+because of the evil of those who live there.
+v35: He turns desert into pools of water
+and dry ground into flowing springs.
+v36: There he settles the hungry,
+and they build a city to live in.
+v37: They sow fields and plant vineyards
+that yield a fruitful harvest.
+v38: He blesses them, and they multiply greatly;
+he does not let their livestock dwindle.
+v39: Then their numbers fall, and they are brought low
+through oppression, trouble, and sorrow.
 </p>
 
 <p>
-v27: they reeled and staggered like drunken men
-and were at their wits’ end.
-v28: Then they cried to the LORD in their trouble,
-and he delivered them from their distress.
+v40: He pours contempt on princes
+and makes them wander in a trackless waste.
+v41: But he lifts the needy out of affliction
+and makes their families grow like flocks.
+v42: The upright see it and rejoice;
+all injustice shuts its mouth.
 </p>
 
 <p>
-v29: He made the storm be still,
-and the waves of the sea were hushed.
-v30: Then they were glad that the waters were quiet,
-and he brought them to their desired haven.
-</p>
-
-<p>
-v31: Let them give thanks to the LORD for his steadfast love,
-for his wondrous works to the children of humanity!
-v32: Let them extol him in the congregation of the people,
-and praise him in the assembly of the elders.
-</p>
-
-## God’s Reversal of Fortunes
-<p>
-v33: He turns rivers into a desert,
-springs of water into thirsty ground,
-v34: a fruitful land into a salty waste,
-because of the evil of its inhabitants.
-</p>
-
-<p>
-v35: He turns a desert into pools of water,
-a parched land into springs of water.
-v36: And there he lets the hungry dwell,
-and they establish a city to live in;
-</p>
-
-<p>
-v37: they sow fields and plant vineyards
-and get a fruitful yield.
-v38: By his blessing they multiply greatly,
-and he does not let their livestock diminish.
-</p>
-
-<p>
-v39: When they are diminished and brought low
-through oppression, evil, and sorrow,
-v40: he pours contempt on princes
-and makes them wander in trackless wastes;
-</p>
-
-<p>
-v41: but he raises up the needy out of affliction
-and makes their families like flocks.
-v42: The upright see it and are glad,
-and all wickedness shuts its mouth.
-</p>
-
-<p>
-v43: Whoever is wise, let him attend to these things;
-let them consider the steadfast love of the LORD.
+v43: Whoever is wise will attend to these things
+and consider the LORD’s acts of faithful love.
 </p>
 
 ## Notes
 
-v01–03: Redemption is communal and gathered from dispersion.
+v03: The Hebrew has “the sea,” where some translations give “south” to complete four compass points. “Sea” is retained.
 
-v04–32: Four repeated cycles:
-distress → cry → deliverance → thanksgiving.
+v06–31: The thanksgiving refrain repeats in verses 8, 15, 21, and 31. The rescue clauses vary: “rescued,” “saved,” and “brought them out.” These differences are retained.
 
-v04–09: Lost wanderers are guided and satisfied.
-
-v10–16: Captivity is both consequence and context for deliverance.
-
-v17–22: Affliction leads to healing through God’s word.
-
-v23–32: Chaos (sea/storm) is subject to divine command.
-
-v33–42: God reverses conditions—judgment and blessing reshape the land and people.
-
-v43: Wisdom is defined as recognizing patterns of divine steadfast love.
+v20–25,39: The source includes inverted-nun scribal marks at these verses. They are preserved in the source records; their significance is uncertain, and they do not add spoken words.
 
 ## Vocabulary
 
-v02: גָּאַל (ga’al)
-“To redeem.” To rescue.
+v10: **Death’s shadow**: An expression for profound darkness with deathly associations.
 
-v06: צָעַק (tsa‘aq)
-“To cry out.” Call in distress.
-
-v07: יָשָׁר (yashar)
-“Straight.” Direct path.
-
-v09: שָׂבַע (sava)
-“To satisfy.” Fill fully.
-
-v14: נָתַק (nataq)
-“To break.” Tear apart.
-
-v20: רָפָא (rapha)
-“To heal.” Restore.
-
-v25: רוּחַ (ruach)
-“Wind.” Breath or force.
-
-v29: דָּמַם (damam)
-“To be still.” Quiet.
-
-v35: הָפַךְ (haphakh)
-“To turn.” Transform.
-
-v43: בִּין (bin)
-“To understand.” Discern.
+v30: **Harbor**: The rare Hebrew destination term is understood here as a haven for the ships.

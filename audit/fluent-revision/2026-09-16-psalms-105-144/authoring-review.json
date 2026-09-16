@@ -1,0 +1,60 @@
+{
+  "scope": "Psalms 105–144",
+  "authoring_status": "DRAFT_COMPLETED",
+  "source_records_read": 717,
+  "public_verses": 714,
+  "all_original_annotations_read": true,
+  "method": "Every selected pinned Hebrew verse and annotation read before drafting; individual English lines and rationales composed from the Hebrew. All 714 TSW comparator verses read afterward. No synonym replacement engine or overlap quota.",
+  "focused_reread": {
+    "count": 343,
+    "selection_file": "focused-selection.json",
+    "evidence_file": "focused-comparisons.json",
+    "status": "AUTHORING_REREAD_COMPLETED",
+    "qualification": "Reread by the drafting agent, not independent scholarly review."
+  },
+  "post_reread_adjustments": [
+    {
+      "reference": "107:17",
+      "decision": "Removed an unnecessary becoming-fools interpretation; retained fools as the subject of suffering for their wrongdoing."
+    },
+    {
+      "reference": "108:1",
+      "decision": "Removed unsupported all before my glory while retaining the difficult glory expression and explanatory note."
+    },
+    {
+      "reference": "110:6",
+      "decision": "Removed the supplied field; corpses fill the judged nations in the selected reading."
+    },
+    {
+      "reference": "119:81",
+      "decision": "Shortened the exhaustion clause while retaining whole-being longing for salvation."
+    },
+    {
+      "reference": "138:2",
+      "decision": "Unpacked name as what it proclaims to make the difficult utterance-above-name clause readable; the note records the literal expression and alternatives."
+    },
+    {
+      "reference": "Short divine name throughout",
+      "decision": "Matched the established YAH typography and checked full LORD and short YAH separately against every selected source verse."
+    }
+  ],
+  "priority_findings": [
+    "All 717 original records bind exactly once to 714 public verses. Separate titles in Psalms 108, 140, and 142 join public verse 1.",
+    "Psalms 105–106 retain divine hardening, the negative in 105:28, falling in 106:27, and the cost of violence including child sacrifice.",
+    "Psalm 107 retains sea in the directional list, distinct rescue verbs, four identical thanksgiving refrains, and all source scribal notes in the ledger.",
+    "Psalm 109 retains the singular target and the uncertainty whether the curse passage is petition or quoted hostile speech; family harm is explicit.",
+    "Psalm 110 preserves LORD/lord/Adonai distinctions and flags difficult youth/dew and priesthood expressions.",
+    "Psalms 111–112 preserve twenty-two poetic units; Psalm 119 preserves all 176 verses and twenty-two eight-verse stanzas with consistent instruction vocabulary.",
+    "All fifteen Songs of Ascents retain titles and their compact poetic structure; slavery, gendered family images, and disturbing petitions are not generalized away.",
+    "Psalm 136 retains its complete refrain in all twenty-six verses, including the violent historical clauses.",
+    "Psalm 137 retains the final retaliatory wish against little children as the exiles’ speech.",
+    "Psalm 139:16 explicitly follows the written negative and documents the divergent read form; Psalms 140–141 retain difficult clauses and source variants in the apparatus.",
+    "Psalm 144 retains my people, two divine hands, ten strings, sons and daughters, and thousands/tens of thousands."
+  ],
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_review": "PENDING",
+  "publication_allowed": false,
+  "companion_impact": "Psalms 105–144 quotations and bindings need later reconciliation; Companion was not modified.",
+  "continuation_authorization": "Successive forty-chapter blocks authorized without routine approval pauses; source and QA standards unchanged."
+}

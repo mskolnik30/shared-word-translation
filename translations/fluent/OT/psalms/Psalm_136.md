@@ -4,87 +4,94 @@ testament: OT
 chapter: 136
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## God’s Steadfast Love Endures Forever
+## His faithful love lasts forever
 
 <p>
-v01: Give thanks to the LORD, for God is good,
-for God’s steadfast love endures forever.
-v02: Give thanks to the God of gods,
-for God’s steadfast love endures forever.
-v03: Give thanks to the Lord of lords,
-for God’s steadfast love endures forever.
-v04: To the One who alone does great wonders,
-for God’s steadfast love endures forever;
-v05: to the One who made the heavens with understanding,
-for God’s steadfast love endures forever;
-v06: to the One who spread out the earth over the waters,
-for God’s steadfast love endures forever;
-v07: to the One who made the great lights,
-for God’s steadfast love endures forever;
-v08: the sun to rule the day,
-for God’s steadfast love endures forever;
-v09: the moon and stars to rule the night,
-for God’s steadfast love endures forever;
+v01: Give thanks to the LORD, for he is good;
+his faithful love lasts forever.
+v02: Give thanks to the God of gods;
+his faithful love lasts forever.
+v03: Give thanks to the Lord of lords;
+his faithful love lasts forever.
 </p>
 
-## God Brought Israel Out from among Them
-
 <p>
-v10: To the One who struck Egypt through their firstborn,
-for God’s steadfast love endures forever;
-v11: and brought Israel out from among them,
-for God’s steadfast love endures forever;
-v12: with a strong hand and an outstretched arm,
-for God’s steadfast love endures forever;
-v13: to the One who divided the Sea of Reeds into parts,
-for God’s steadfast love endures forever;
-v14: and made Israel pass through the midst of it,
-for God’s steadfast love endures forever;
-v15: but shook off Pharaoh and his army into the Sea of Reeds,
-for God’s steadfast love endures forever;
-v16: to the One who led the people through the wilderness,
-for God’s steadfast love endures forever;
+v04: To him who alone does great wonders—
+his faithful love lasts forever.
+v05: who made the heavens with understanding—
+his faithful love lasts forever.
+v06: who spread the earth over the waters—
+his faithful love lasts forever.
+v07: who made the great lights—
+his faithful love lasts forever.
+v08: the sun to rule by day—
+his faithful love lasts forever.
+v09: the moon and stars to rule by night—
+his faithful love lasts forever.
 </p>
 
-## God Gave Their Land as a Heritage
-
 <p>
-v17: To the One who struck great kings,
-for God’s steadfast love endures forever;
-v18: and killed mighty kings,
-for God’s steadfast love endures forever;
-v19: Sihon, king of the Amorites,
-for God’s steadfast love endures forever;
-v20: and Og, king of Bashan,
-for God’s steadfast love endures forever;
-v21: and gave their land as a heritage,
-for God’s steadfast love endures forever;
-v22: a heritage to Israel, God’s servant,
-for God’s steadfast love endures forever.
+v10: To him who struck Egypt through its firstborn—
+his faithful love lasts forever.
+v11: and brought Israel out from among them—
+his faithful love lasts forever.
+v12: with a strong hand and an outstretched arm—
+his faithful love lasts forever.
 </p>
 
-## God Remembered Us in Our Low Estate
+<p>
+v13: To him who cut the Sea of Reeds into parts—
+his faithful love lasts forever.
+v14: and brought Israel through its midst—
+his faithful love lasts forever.
+v15: but shook Pharaoh and his army into the Sea of Reeds—
+his faithful love lasts forever.
+</p>
 
 <p>
-v23: God remembered us in our low estate,
-for God’s steadfast love endures forever;
-v24: and rescued us from our foes,
-for God’s steadfast love endures forever;
-v25: the One who gives food to all flesh,
-for God’s steadfast love endures forever.
-v26: Give thanks to the God of heaven,
-for God’s steadfast love endures forever.
+v16: To him who led his people through the wilderness—
+his faithful love lasts forever.
+</p>
+
+<p>
+v17: who struck down great kings—
+his faithful love lasts forever.
+v18: and killed mighty kings—
+his faithful love lasts forever.
+v19: Sihon king of the Amorites—
+his faithful love lasts forever.
+v20: and Og king of Bashan—
+his faithful love lasts forever.
+v21: and gave their land as an inheritance—
+his faithful love lasts forever.
+v22: an inheritance to Israel his servant—
+his faithful love lasts forever.
+</p>
+
+<p>
+v23: He remembered us when we were brought low;
+his faithful love lasts forever.
+v24: he tore us free from our foes;
+his faithful love lasts forever.
+v25: He gives food to all flesh;
+his faithful love lasts forever.
+</p>
+
+<p>
+v26: Give thanks to the God of heaven;
+his faithful love lasts forever.
 </p>
 
 ## Notes
 
-Structure: Every verse ends with the same Hebrew refrain.
-
-v13: The Hebrew name used here and again in verse 15 is יַם־סוּף (Yam Suf), literally “Sea of Reeds.”
+v01–26: Every verse retains the full refrain. The repeated faithful-love claim accompanies creation, food, rescue, and the violent overthrow of enemies; the translation does not omit the difficult pairings.
 
 ## Vocabulary
 
-v01–26: חֶסֶד (hesed)
-“Steadfast love.” Covenant loyalty expressed persistently in action; the same term stands in the refrain of every verse.
+v25: **All flesh**: Living creatures broadly, not only human beings.

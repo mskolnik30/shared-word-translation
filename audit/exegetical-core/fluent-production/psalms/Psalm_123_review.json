@@ -2,102 +2,100 @@
   "book": "Psalms",
   "chapter": 123,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_123_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 123:1 (Hebrew; before kjv marker) + Psalms 123:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 123,
-            "verse": 1,
-            "source_ref": "Psalms 123:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
-          },
-          {
-            "chapter": 123,
-            "verse": 1,
-            "source_ref": "Psalms 123:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "f84788e73d106a54eeeaf3e6fe214a919ad482a3f4d6fbc367859c64a0f825e8"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "2e80ccb5f684db1320b727d1c32461b91a344c32208005c32381dafd9355a3dc"
-      },
-      "2": {
-        "source_ref": "Psalms 123:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 123,
-            "verse": 2,
-            "source_ref": "Psalms 123:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "af8463dd048c202121b9920d6d7e7c793bdd8ce18b914537331f0b94970a1826"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af8463dd048c202121b9920d6d7e7c793bdd8ce18b914537331f0b94970a1826"
-      },
-      "3": {
-        "source_ref": "Psalms 123:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 123,
-            "verse": 3,
-            "source_ref": "Psalms 123:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "293ec437bf65550641d78d018cbc895a0116aa5ae6570cd3d8c94463658445b2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "293ec437bf65550641d78d018cbc895a0116aa5ae6570cd3d8c94463658445b2"
-      },
-      "4": {
-        "source_ref": "Psalms 123:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 123,
-            "verse": 4,
-            "source_ref": "Psalms 123:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "af517109630882ab4bd6e645401474fc144f2d97f90ea6ce6041c863eca751f5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af517109630882ab4bd6e645401474fc144f2d97f90ea6ce6041c863eca751f5"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 123,
+    "verse_count": 4,
+    "path": "translations/fluent/OT/psalms/Psalm_123.md",
+    "before_sha256": "b874996e520afc0bd0f9721df19177da5f2aedaa0b2151d29042110e45e1298a",
+    "after_sha256": "bcf3d8a6314c5f6a19b7ca5438ffda408d4262a4b7df80a1e396df644529fb84",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_123.md",
+    "tsw_comparator_sha256": "73f4873005bc64e76fa31eca7ec42aff81030eefb598e18c5f8dd358375fce4c"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 123:1",
+      "decision": "Keeps upward gaze and heavenly enthronement.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 123:2",
+      "decision": "Preserves enslaved relationships, both genders, and repeated hands.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 123:4",
+      "decision": "Retains two oppressor descriptions and repeated excess.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_123.md",
-    "blob_sha": "717cfd1e88814f1aa2cfbce1956d5cd417646b5d"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

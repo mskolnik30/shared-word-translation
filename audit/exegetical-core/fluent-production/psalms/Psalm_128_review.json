@@ -2,132 +2,105 @@
   "book": "Psalms",
   "chapter": 128,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_128_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 128:1 (Hebrew; before kjv marker) + Psalms 128:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 1,
-            "source_ref": "Psalms 128:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
-          },
-          {
-            "chapter": 128,
-            "verse": 1,
-            "source_ref": "Psalms 128:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "78e97de937a7d697416f1cae9e693ab786e55bc0c5e3c1269585e6b2833b50f0"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "549bea63a7df9d60a7ec699820286e89572e78288a7ff6ba1f93cad142a86165"
-      },
-      "2": {
-        "source_ref": "Psalms 128:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 2,
-            "source_ref": "Psalms 128:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "57c136395ed581dc5ed307fb91d03ddd0c1bab448405ce7df697c0d6c8c83aa2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "57c136395ed581dc5ed307fb91d03ddd0c1bab448405ce7df697c0d6c8c83aa2"
-      },
-      "3": {
-        "source_ref": "Psalms 128:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 3,
-            "source_ref": "Psalms 128:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "46e43f9978e73334a04b6e204da9fdd21dee83ba492ce49b9918a3a4933393a2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "46e43f9978e73334a04b6e204da9fdd21dee83ba492ce49b9918a3a4933393a2"
-      },
-      "4": {
-        "source_ref": "Psalms 128:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 4,
-            "source_ref": "Psalms 128:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e965eb2f7cd4605a8205ab503c0934e39eb98bdf781b82fc92db11b04a8c4068"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e965eb2f7cd4605a8205ab503c0934e39eb98bdf781b82fc92db11b04a8c4068"
-      },
-      "5": {
-        "source_ref": "Psalms 128:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 5,
-            "source_ref": "Psalms 128:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c72ed42887005e5999e4f331d10a0d68e93e26a42d15f631ab7a694f24341839"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c72ed42887005e5999e4f331d10a0d68e93e26a42d15f631ab7a694f24341839"
-      },
-      "6": {
-        "source_ref": "Psalms 128:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 128,
-            "verse": 6,
-            "source_ref": "Psalms 128:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4eee952c4e74e57ab63009e2cfec3ab990106c8c7e666b9074238ad6e9e3e27d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4eee952c4e74e57ab63009e2cfec3ab990106c8c7e666b9074238ad6e9e3e27d"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 128,
+    "verse_count": 6,
+    "path": "translations/fluent/OT/psalms/Psalm_128.md",
+    "before_sha256": "e70b1fe29e964d8626e96152bc5750325eadeb00848f0cfe1baece38b28a4413",
+    "after_sha256": "4a51b6f8b01b03f1a61e64e14f80d7c838707ae4d807ccd7c619482bf414d497",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_128.md",
+    "tsw_comparator_sha256": "fe5ff3121840a81307ef8f85ddc4f4131622a60c4cd777d417d373c6f3030598"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 128:1",
+      "decision": "Keeps inclusive opening and way imagery.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 128:3",
+      "decision": "Keeps gendered spouse and two agricultural family images.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 128:4",
+      "decision": "Preserves male household exemplar and fear.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 128:6",
+      "decision": "Retains generational wish and communal conclusion.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_128.md",
-    "blob_sha": "7c1efdd3dc4ba2762e1a0b3ef734efb2347b1bb0"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

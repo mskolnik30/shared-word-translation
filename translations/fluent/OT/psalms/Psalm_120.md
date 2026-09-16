@@ -4,46 +4,42 @@ testament: OT
 chapter: 120
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-<p>
-A song of ascents.
-</p>
-
-## Deliver Me from Lying Lips
+## Peace among those who want war
 
 <p>
-v01: In my distress I called to the LORD,
-and the LORD answered me.
-v02: O LORD, deliver my soul
-from lying lips,
+v01: A song of ascents.
+In my distress I called to the LORD,
+and he answered me.
+v02: LORD, rescue my life from lying lips,
 from a deceitful tongue.
-v03: What will be given to you,
-and what more will be done to you,
-you deceitful tongue?
-v04: Sharp arrows of a warrior,
-with glowing coals of broom wood.
 </p>
 
-## I Am for Peace
+<p>
+v03: What will he give you,
+and what more will he add, deceitful tongue?
+v04: A warrior’s sharpened arrows,
+with burning coals of broom wood!
+</p>
 
 <p>
-v05: Woe to me, that I sojourn in Meshech,
-that I dwell among the tents of Kedar!
-v06: Too long has my soul dwelt
-with people who hate peace.
-v07: I am for peace;
-but when I speak,
-they are for war.
+v05: Woe to me, living as a foreigner in Meshech,
+dwelling among the tents of Kedar!
+v06: Too long have I lived
+with those who hate peace.
+v07: I am for peace,
+but when I speak, they are for war.
 </p>
 
 ## Notes
 
-v05: Meshech and Kedar are geographically distant from one another. Their pairing functions poetically as life among far-off or hostile peoples rather than as a precise travel itinerary.
-
-v07: The Hebrew begins simply, “I—peace.” “I am for peace” preserves the compressed self-identification while remaining intelligible in English.
+v01–07: This begins the collection of fifteen Songs of Ascents, Psalms 120–134. Their exact original setting is not specified by the title. Meshech and Kedar represent widely separated places; the lament need not describe one literal address.
 
 ## Vocabulary
 
-v04: רֹתֶם (rotem)
-“The broom shrub/tree, whose wood and coals became a proverbial image of intense, lasting heat.”
+v04: **Broom wood**: Wood from a desert shrub used for hot-burning coals.

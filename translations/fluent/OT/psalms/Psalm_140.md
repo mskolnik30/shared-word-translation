@@ -4,70 +4,68 @@ testament: OT
 chapter: 140
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-<p>
-For the director. A psalm of David.
-</p>
-
-## Deliver Me from Violent People
+## Guard me from violent men
 
 <p>
-v01: Deliver me, O LORD, from evil people;
-preserve me from violent ones,
-v02: who devise evils in their hearts
-and stir up wars all day long.
-v03: They sharpen their tongue like a serpent;
-the venom of a viper is under their lips.
-Selah.
-v04: Guard me, O LORD, from the hands of the wicked;
-preserve me from violent people,
-who have planned to trip my steps.
-v05: The proud have hidden a trap for me;
-with cords they have spread a net;
-beside the path they have set snares for me.
-Selah.
+v01: For the music director. A psalm of David.
+Rescue me, LORD, from evil people;
+guard me from violent men,
+v02: who devise evil in their hearts
+and stir up battles all day.
+v03: They sharpen their tongues like snakes;
+viper’s venom is under their lips. Selah.
 </p>
 
-## You Are the Strength of My Salvation
+<p>
+v04: Keep me, LORD, from the hands of the wicked;
+guard me from violent men
+who plan to trip my steps.
+v05: The arrogant have hidden a trap and cords for me;
+they spread a net beside the path
+and set snares for me. Selah.
+</p>
 
 <p>
 v06: I say to the LORD, “You are my God.”
-Give ear, O LORD, to the voice of my pleas for mercy.
-v07: O LORD my Lord, strength of my salvation,
-you cover my head in the day of battle.
-v08: Do not grant, O LORD, the desires of the wicked;
-do not let their scheme succeed,
-lest they exalt themselves.
-Selah.
+Listen, LORD, to my pleas for mercy.
+v07: LORD, my Lord, strength of my salvation,
+you shield my head on the day of battle.
 </p>
 
-## The Upright Will Dwell in Your Presence
+<p>
+v08: Do not grant the wicked their desires, LORD;
+do not let their scheme succeed, or they will rise high. Selah.
+</p>
 
 <p>
-v09: As for the heads of people who surround me,
-let the trouble spoken by their lips cover them.
-v10: Let burning coals fall upon them;
-let them be cast into fire,
-into deep pits, never to rise.
-v11: Let the slanderer not be established in the land;
-let evil hunt down the violent swiftly.
-v12: I know that the LORD maintains the cause of the afflicted
-and justice for the poor.
-v13: Surely the righteous will give thanks to your name;
+v09: As for the heads of those surrounding me,
+let the harm from their lips cover them.
+v10: Let burning coals fall on them;
+let him cast them into fire,
+into deep pits from which they cannot rise.
+v11: Let the slanderer gain no foothold in the land;
+let evil hunt the violent man down to his ruin.
+</p>
+
+<p>
+v12: I know the LORD will uphold the cause of the afflicted
+and justice for the needy.
+v13: Surely the righteous will thank your name;
 the upright will dwell in your presence.
 </p>
 
 ## Notes
 
-v08: The final clause is brief and can be attached either to the wicked scheme or to the people who devise it. The translation follows the Masoretic accentuation while leaving the causal relation open.
+v01–13: The separate Hebrew title is included in verse 1; subsequent Hebrew body labels are one higher. Selah is retained at verses 3, 5, and 8.
 
-v10: The Hebrew term translated “deep pits” is uncertain and may describe watery depths or places from which escape is impossible. The surrounding imagery emphasizes irreversible judgment.
+v08–12: Verse 8’s “rise high” clause is compressed; it may be a consequence or another wish. Verses 9, 10, and 12 follow the read forms for “cover,” “fall,” and “I know.” The coals and pits remain actual images of destructive judgment.
 
 ## Vocabulary
 
-v03: עַכְשׁוּב (ʿakhshuv)
-“A venomous snake, traditionally rendered asp or viper.” Precise species identification is uncertain.
-
-v12: דִּין (din)
-“Cause,” “judgment,” or legal claim. To maintain someone’s cause is to uphold the justice due to them.
+v03: **Selah**: A traditional poetic or musical marker whose precise function is uncertain.

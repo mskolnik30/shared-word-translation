@@ -4,55 +4,60 @@ testament: OT
 chapter: 110
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
+## A royal declaration and a priestly oath
+
 <p>
-A psalm of David.
+v01: Of David. A psalm.
+The LORD’s declaration to my lord:
+“Sit at my right hand
+until I make your enemies a footstool for your feet.”
 </p>
 
-## Sit at My Right Hand
+<p>
+v02: The LORD will extend your mighty staff from Zion:
+“Rule in the midst of your enemies.”
+</p>
 
 <p>
-v01: The LORD says to my lord,
-“Sit at my right hand
-until I make your enemies
-a footstool for your feet.”
-v02: The LORD sends out from Zion
-the scepter of your strength:
-“Rule among your enemies.”
-v03: Your people offer themselves freely
-on the day of your power,
-in holy splendor.
-From the womb of the dawn,
+v03: Your people offer themselves freely on the day you muster your strength.
+In holy splendor, from the womb of dawn,
 the dew of your youth is yours.
 </p>
 
-## A Priest Forever
+<p>
+v04: The LORD has sworn and will not change his mind:
+“You are a priest forever,
+in the manner of Melchizedek.”
+</p>
 
 <p>
-v04: The LORD has sworn and will not change:
-“You are a priest forever
-according to the order of Melchizedek.”
 v05: The Lord is at your right hand;
-he shatters kings on the day of wrath.
-v06: He judges among the nations, filling them with corpses;
-he shatters heads over the broad earth.
-v07: He drinks from the torrent along the way;
-so he lifts up his head.
+he crushes kings on the day of his anger.
+v06: He judges among the nations, leaving them full of corpses;
+he crushes heads across a vast land.
+</p>
+
+<p>
+v07: He drinks from a stream beside the road;
+therefore he lifts his head.
 </p>
 
 ## Notes
 
-v01: The first divine name is YHWH (“the LORD”); the second term is “my lord,” a different Hebrew word. The distinction is preserved.
+v01: “The LORD” represents the divine name; “my lord” is the speaker’s address to a superior. The psalm does not name that addressee here.
 
-v03: This verse is among the most difficult in the Psalter. The Masoretic wording supports images of voluntary offering, holy splendor, dawn, dew, and youth, but their syntax is compressed. The translation preserves those images without reconstructing a different Hebrew text.
+v03–04: Verse 3 has compressed, difficult syntax: voluntary people, holy splendor, dawn’s womb, and the dew of youth. Verse 4’s formula is rendered “in the manner of Melchizedek”; its precise relation to that priest-king is debated. These lines require further editorial review.
 
-v04: “According to the order of Melchizedek” may also carry the sense “after the manner of” or “because of” Melchizedek. The traditional rendering remains close to the Hebrew and leaves the relation open.
+v05–07: “The Lord” in verse 5 renders Adonai. The final drinking scene does not explicitly identify its subject or explain how it connects to the preceding battle.
 
 ## Vocabulary
 
-v04: מַלְכִּי־צֶדֶק (Malki-tsedeq)
-“Melchizedek,” a name traditionally understood as “king of righteousness,” recalling the priest-king of Genesis 14.
+v01: **Footstool**: Here a royal image of defeated enemies placed beneath a ruler’s feet.
 
-v04: כֹּהֵן (kohen)
-“Priest,” one who serves in a sacred mediating office associated with worship, sacrifice, blessing, and instruction.
+v04: **Melchizedek**: The priest-king named in Genesis 14; his name remains untranslated here.

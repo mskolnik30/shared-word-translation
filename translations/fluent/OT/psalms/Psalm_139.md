@@ -4,142 +4,97 @@ testament: OT
 chapter: 139
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## You Have Searched Me
+## Searched and known
 
 <p>
-v01: O LORD, you have searched me
-  and known me.
-
-v02: You know when I sit down and when I rise up;
-  you discern my thought from far away.
-
-v03: You search out my path and my lying down,
-  and are acquainted with all my ways.
-
-v04: Even before a word is on my tongue,
-  O LORD, you know it altogether.
-
-v05: You hem me in, behind and before,
-  and lay your hand upon me.
-
-v06: Such knowledge is too wonderful for me;
-  it is high, I cannot reach it.
+v01: For the music director. Of David. A psalm.
+LORD, you have searched me and known me.
+v02: You know when I sit and when I rise;
+you discern my thoughts from far away.
+v03: You sift my traveling and my lying down;
+you are familiar with all my ways.
+v04: Before a word is on my tongue,
+you, LORD, already know it all.
+v05: You hem me in behind and before
+and lay your hand upon me.
+v06: Such knowledge is too wonderful for me,
+too high for me to reach.
 </p>
-## Where Can I Go?
 
 <p>
-v07: Where can I go from your Spirit?
-  Or where can I flee from your presence?
-
-v08: If I ascend to the heavens, you are there;
-  if I make my bed in Sheol, you are there.
-
-v09: If I take the wings of the morning
-  and dwell at the farthest limits of the sea,
-
+v07: Where could I go from your spirit?
+Where could I flee from your presence?
+v08: If I climb to heaven, you are there;
+if I make my bed in Sheol, there you are.
+v09: If I take the wings of dawn
+and settle at the farthest edge of the sea,
 v10: even there your hand will lead me,
-  and your right hand will hold me fast.
-
-v11: If I say, “Surely the darkness will cover me,
-  and the light around me become night,”
-
-v12: even the darkness is not dark to you;
-  the night is as bright as the day,
-  for darkness is as light to you.
+and your right hand will hold me fast.
 </p>
-## You Knit Me
 
 <p>
-v13: For it was you who formed my inward parts;
-  you knit me together in my mother’s womb.
+v11: If I say, “Surely darkness will cover me,
+and the light around me will become night,”
+v12: even darkness is not dark to you;
+night shines like day.
+Darkness and light are alike to you.
+</p>
 
-v14: I praise you, for I am fearfully and wonderfully made.
-  Wonderful are your works;
-  my soul knows it well.
-
+<p>
+v13: For you formed my kidneys;
+you wove me together in my mother’s womb.
+v14: I thank you because I am awesomely set apart.
+Your works are wonderful;
+I know it deep within.
 v15: My frame was not hidden from you
-  when I was being made in secret,
-  intricately woven in the depths of the earth.
-
-v16: Your eyes saw my unformed substance.
-  In your book were written
-  all the days that were formed for me,
-  when none of them as yet existed.
-
-v17: How weighty to me are your thoughts, O God!
-  How vast is the sum of them!
-
-v18: If I would count them, they are more than the sand;
-  I awake, and I am still with you.
+when I was made in secret,
+embroidered in the depths of the earth.
+v16: Your eyes saw my unformed body.
+In your book all the days fashioned for me were written,
+when not one of them yet existed.
 </p>
-## Search Me
 
 <p>
-v19: O that you would slay the wicked, O God,
-  and that the bloodthirsty would depart from me—
+v17: How precious your thoughts are to me, God!
+How vast is their sum!
+v18: If I counted them, they would outnumber the sand.
+When I awake, I am still with you.
+</p>
 
-v20: people who speak of you with malicious intent,
-  who lift themselves up against you for evil.
+<p>
+v19: If only you would kill the wicked, God!
+You men of bloodshed, leave me!
+v20: They speak of you with evil intent;
+your enemies take your name in vain.
+v21: Do I not hate those who hate you, LORD,
+and loathe those who rise against you?
+v22: I hate them with complete hatred;
+they have become my enemies.
+</p>
 
-v21: Do I not hate people who hate you, O LORD?
-  And do I not loathe people who rise up against you?
-
-v22: I hate them with perfect hatred;
-  I count them my enemies.
-
-v23: Search me, O God, and know my heart;
-  test me, and know my thoughts.
-
-v24: See if there is any wicked way in me,
-  and lead me in the way everlasting.
+<p>
+v23: Search me, God, and know my heart;
+test me and know my troubling thoughts.
+v24: See whether there is a hurtful way in me,
+and lead me in the everlasting way.
 </p>
 
 ## Notes
 
-v01–06: The first stanza names knowing as encompassing. To be known is not described here as comfort or burden, but simply as fact.
+v13–16: The bodily and textile images include kidneys, womb, frame, embroidery, and an unformed body. Verse 14’s verb conveys being wondrously distinguished or set apart. These lines are not expanded into a scientific description.
 
-v05: “Hem me in” is a verb of siege. Whether it is felt as protection or constraint is left open; both senses are present in the word.
+v16: The draft follows the written negative, “not one,” in a difficult clause about days formed and written. The read form has “for him/it,” allowing a different construction such as one among them being assigned to him. The relation of the clauses remains debated; both forms are retained in the source ledger.
 
-v07–12: The second stanza moves through cosmic locations—the heavens, Sheol, the wings of the morning (the east at sunrise), the limits of the sea (the west). The poem covers vertical and horizontal extremities.
-
-v08: Sheol does not name a place of judgment in this verse; it names the realm of the dead, beyond which one usually presumes God’s reach does not extend. The verse reverses that assumption.
-
-v13–18: The third stanza turns to formation in the womb. The imagery of weaving and writing knits together craft and intention.
-
-v15: “The depths of the earth” is metaphorical for the womb. The earth’s depths and the body’s depths are joined.
-
-v16: “Days that were formed” preserves the Hebrew passive; the days themselves are God’s work, distinct from the speaker.
-
-v19–22: The fourth stanza is jarring after what has come before. The psalm does not soften its hatred of those who hate God. Some readers have proposed that vv. 19–22 are speech the psalmist sets before God for examination. The translation does not adjudicate; the words are left as written, and the next verses ask God to search the speaker’s own heart.
-
-v23–24: The closing petition returns to the opening “you have searched me.” The psalm ends in consent to the very knowledge it began by describing.
+v17–24: “Thoughts” in verse 17 can also mean friends. Verse 20 is textually difficult; “your name” makes explicit the likely object of taking in vain. The hatred and death wish in verses 19–22 remain beside the final request for self-examination. “Hurtful way” can also suggest a way of pain or idolatry.
 
 ## Vocabulary
 
-v01: חָקַר (ḥāqar) — To search out, to examine deeply.
+v08: **Sheol**: The realm of the dead, paired here with heaven as the opposite vertical extreme.
 
-v05: צוּר (ṣûr) — To hem in, to besiege, to surround.
-
-v08: שְׁאוֹל (šəʾôl) — Sheol, the realm of the dead.
-
-v13: רָקַם (rāqam)
-“To weave, to embroider. The verb of skilled craft.”
-
-v14: יָרֵא (yārēʾ) — Fearful, awesome. The participle here suggests “wonderfully” more than “frightfully.”
-
-v16: גֹּלֶם (gōlem) — Unformed substance. Appears only here in the Hebrew Scriptures.
-
-v23: בָּחַן (bāḥan) — To test, to refine. Often applied to metals and the heart.
-
-v24: עוֹלָם (ʿôlām) — Everlasting, ancient. Names duration without specifying its end.
-
-v01: חָקַר (ḥāqar)
-“To search out, to examine deeply.”
-
-v05: צוּר (ṣûr)
-“To hem in, to besiege, to surround.”
-
-v08: שְׁאוֹל (šəʾôl)
-“Sheol, the realm of the dead.”
+v13: **Kidneys**: An ancient bodily image of the inner person, retained alongside the womb image.

@@ -2,87 +2,95 @@
   "book": "Psalms",
   "chapter": 131,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_131_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 131:1 (Hebrew; before kjv marker) + Psalms 131:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 131,
-            "verse": 1,
-            "source_ref": "Psalms 131:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "658e635b291314c2f3162d1ed5671454af13cc339191bb7b93a40bebcccd769b"
-          },
-          {
-            "chapter": 131,
-            "verse": 1,
-            "source_ref": "Psalms 131:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c59105b0b064fbde033502ac7d545d247748442b1723fe0fa4e3524dfc952c01"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "0721a84765f9c753912611414668a21c343e069b728f817485c77d4c7058a8ce"
-      },
-      "2": {
-        "source_ref": "Psalms 131:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 131,
-            "verse": 2,
-            "source_ref": "Psalms 131:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "279e4fde4406712a4e33db03654515682a2b8d93adf436b98c08bd0469a0360a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "279e4fde4406712a4e33db03654515682a2b8d93adf436b98c08bd0469a0360a"
-      },
-      "3": {
-        "source_ref": "Psalms 131:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 131,
-            "verse": 3,
-            "source_ref": "Psalms 131:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b2610bd4452d88bbfb896438956a31a9c333effc6288cbdb67754b67ae122dac"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b2610bd4452d88bbfb896438956a31a9c333effc6288cbdb67754b67ae122dac"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 131,
+    "verse_count": 3,
+    "path": "translations/fluent/OT/psalms/Psalm_131.md",
+    "before_sha256": "aec38e0d4bce61239b0454a223d812c6627d6049669ab931025a4f6d0ed64824",
+    "after_sha256": "1524c1dfc700c3cc7ec1ac2e0aed35a173f103f78a9b2025027b8526df7428a3",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_131.md",
+    "tsw_comparator_sha256": "d0f063e84a9df0a08a6fd14e64748474fb02ad082b72edb124c886139b43e098"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 131:1",
+      "decision": "Keeps heart/eyes and restraint about inaccessible matters.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 131:2",
+      "decision": "Retains weaned child and unusual inward self-comparison.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_131.md",
-    "blob_sha": "af71f9838e147c7487e453850683e10745647b6d"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

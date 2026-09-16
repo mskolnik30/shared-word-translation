@@ -2,177 +2,110 @@
   "book": "Psalms",
   "chapter": 122,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_122_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 122:1 (Hebrew; before kjv marker) + Psalms 122:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 1,
-            "source_ref": "Psalms 122:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "fed4cca87fa3a7f6ba58c6861ce6d2c3db9e894ad7a0782c66fab2a67d852362"
-          },
-          {
-            "chapter": 122,
-            "verse": 1,
-            "source_ref": "Psalms 122:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "af73ac9de40f701387040168153dd7b2a886248fdb8400ab0bd2d956f976f663"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "2e707254ab686eb9f4e9336b3d44b711a5040b1cc16bb3a80cf5ece7ca57fc07"
-      },
-      "2": {
-        "source_ref": "Psalms 122:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 2,
-            "source_ref": "Psalms 122:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "45aa6ea1715aacdd6890b2a0eb80fa27ff253fae7f8053d7c9817a8f6f221e98"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "45aa6ea1715aacdd6890b2a0eb80fa27ff253fae7f8053d7c9817a8f6f221e98"
-      },
-      "3": {
-        "source_ref": "Psalms 122:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 3,
-            "source_ref": "Psalms 122:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3d4c18d72aa80add4fa4c4db60f9b2242a866cb9cc52b2057bbbbef1f88c97b1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3d4c18d72aa80add4fa4c4db60f9b2242a866cb9cc52b2057bbbbef1f88c97b1"
-      },
-      "4": {
-        "source_ref": "Psalms 122:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 4,
-            "source_ref": "Psalms 122:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "37df6364acd604caeaacddb1003415597a2fb81f46ae5e4cf7f90b3dfe44a3f4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "37df6364acd604caeaacddb1003415597a2fb81f46ae5e4cf7f90b3dfe44a3f4"
-      },
-      "5": {
-        "source_ref": "Psalms 122:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 5,
-            "source_ref": "Psalms 122:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d54597389d49a6818bba3763146090d177769a6cb70fde2a23800b83961f9c14"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d54597389d49a6818bba3763146090d177769a6cb70fde2a23800b83961f9c14"
-      },
-      "6": {
-        "source_ref": "Psalms 122:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 6,
-            "source_ref": "Psalms 122:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d0483b555a2e74e71b6d9368a5206610ab798ae81c60332d4fda88823c6f640f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d0483b555a2e74e71b6d9368a5206610ab798ae81c60332d4fda88823c6f640f"
-      },
-      "7": {
-        "source_ref": "Psalms 122:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 7,
-            "source_ref": "Psalms 122:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "9cdbf4a39e1b564b6c4ae36878a0682cc04bff95feef3e8a4f0c56e7fdb9cb86"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9cdbf4a39e1b564b6c4ae36878a0682cc04bff95feef3e8a4f0c56e7fdb9cb86"
-      },
-      "8": {
-        "source_ref": "Psalms 122:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 8,
-            "source_ref": "Psalms 122:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "563ba00db1a2c4cf8f07a4605d8030576f8c54a5f52bc816b88fb45b0cb050a9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "563ba00db1a2c4cf8f07a4605d8030576f8c54a5f52bc816b88fb45b0cb050a9"
-      },
-      "9": {
-        "source_ref": "Psalms 122:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 122,
-            "verse": 9,
-            "source_ref": "Psalms 122:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "90cfd99b62f61ee7d2cdeed45a5d77ea802d0c6e314f8b69e3dcab56f268f5dc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "90cfd99b62f61ee7d2cdeed45a5d77ea802d0c6e314f8b69e3dcab56f268f5dc"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 122,
+    "verse_count": 9,
+    "path": "translations/fluent/OT/psalms/Psalm_122.md",
+    "before_sha256": "fcbfddeeb09eae9e8be82428546ec1080796909690b66cf960c96fcf17a732f4",
+    "after_sha256": "095c72c946f35fb2fafb7f68ab15ddb3fc94a724af42dd001ce8137bc042b25a",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_122.md",
+    "tsw_comparator_sha256": "7438e9e3b0097037ecbf6942b0505b298b3e0fb9dd00bb26539db44e976d8651"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 122:1",
+      "decision": "Keeps David title and quoted invitation.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 122:3",
+      "decision": "Keeps compact construction image open to social resonance.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 122:4",
+      "decision": "Preserves both divine-name forms and testimony obligation.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 122:5",
+      "decision": "Keeps plural judicial seats and royal house.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 122:8",
+      "decision": "Keeps kin and companion categories and spoken blessing.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_122.md",
-    "blob_sha": "9602b5d87dbada6d4c3ca7f8974dede31f5c9cc0"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -4,49 +4,58 @@ testament: OT
 chapter: 111
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## Great Are the Works of the LORD
+## Remembering the works of God
 
 <p>
-v01: Praise the LORD!
-I will give thanks to the LORD with my whole heart,
-in the council of the upright and in the congregation.
-v02: Great are the works of the LORD,
-studied by everyone who delight in them.
-v03: Splendor and majesty are God’s work,
-and God’s righteousness endures forever.
-v04: The LORD has made the wonders to be remembered;
-the LORD is gracious and compassionate.
-v05: God gives food to people who fear the LORD;
-God remembers the covenant forever.
-v06: The LORD has shown the people the power of God’s works
-by giving them the inheritance of the nations.
+v01: Praise YAH!
+I will thank the LORD with my whole heart,
+in the company of the upright and in the assembly.
+v02: Great are the LORD’s works,
+studied by all who delight in them.
+v03: His work is splendor and majesty;
+his righteousness stands forever.
 </p>
 
-## The Fear of the LORD Is the Beginning of Wisdom
+<p>
+v04: He has made his wonders remembered;
+the LORD is gracious and compassionate.
+v05: He gives food to those who fear him;
+he remembers his covenant forever.
+v06: He has shown his people the power of his works
+by giving them the inheritance of nations.
+</p>
 
 <p>
-v07: The works of God’s hands are truth and justice;
-all God’s precepts are trustworthy.
-v08: They are established forever and ever,
-performed in faithfulness and uprightness.
-v09: God sent redemption to the people
-and commanded the covenant forever.
-Holy and fearsome is God’s name.
-v10: The fear of the LORD is the beginning of wisdom;
-good understanding belongs to everyone who practice it.
-God’s praise endures forever.
+v07: The works of his hands are faithfulness and justice;
+all his precepts are trustworthy,
+v08: firmly established forever and ever,
+enacted in faithfulness and uprightness.
+</p>
+
+<p>
+v09: He sent redemption to his people;
+he ordained his covenant forever.
+Holy and fearsome is his name.
+</p>
+
+<p>
+v10: Fear of the LORD is the beginning of wisdom.
+All who practice his precepts have good understanding.
+His praise stands forever.
 </p>
 
 ## Notes
 
-Structure: Psalm 111 is an alphabetic acrostic in Hebrew: successive half-lines begin with the letters of the Hebrew alphabet. English lineation preserves the compact parallel units, though the alphabetic pattern cannot be reproduced naturally.
+v01–10: After “Praise YAH,” the Hebrew poetic units follow the twenty-two letters of the alphabet. Verses 9 and 10 each contain three units. The English preserves the units without pretending to reproduce the alphabetic pattern.
 
 ## Vocabulary
 
-v10: יִרְאַת יְהוָה (yirʾat YHWH)
-“Fear of the LORD,” a posture of reverence, awe, and accountable loyalty before God.
+v05: **Covenant**: God’s binding commitment to his people, remembered and established forever in this poem.
 
-v10: רֵאשִׁית (reshit)
-“Beginning,” “first,” or “chief part,” marking reverence for the LORD as wisdom’s foundational orientation.
+v10: **Fear of the LORD**: Reverent fear expressed in practiced obedience; the poem connects understanding with doing.

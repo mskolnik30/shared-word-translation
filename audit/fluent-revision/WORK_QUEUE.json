@@ -376,12 +376,17 @@
       "scope": "Psalms 65–104",
       "verses": 746,
       "ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json"
+    },
+    {
+      "scope": "Psalms 105–144",
+      "verses": 714,
+      "ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Psalms 105–144",
-      "action": "Continue a forty-chapter target, reading every pinned Hebrew record and annotation before drafting. Preserve titles, poetry, communal history, difficult prayers, and source/public versification. TSW remains comparator only."
+      "scope": "Psalms 145–150; Proverbs 1–31; Ecclesiastes 1–3",
+      "action": "Continue the next forty-chapter block: finish Psalms 145–150, then Proverbs 1–31 and Ecclesiastes 1–3. Verify each new book source and read every verse and annotation before drafting. Perform and record whole-book Psalms consistency review after Psalm 150; preserve all earlier pending whole-book reviews. TSW remains comparator only."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -468,7 +473,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt authorizes successive forty-chapter blocks without routine approval pauses, with all source and QA standards retained. This batch drafts Psalms 65–104: 40 chapters and 746 public verses. Independent editorial review and reader testing remain pending.",
+  "batch_preference": "Matt authorizes successive forty-chapter blocks without routine approval pauses, with all source and QA standards retained. This batch drafts Psalms 105–144: 40 chapters and 714 public verses. Independent editorial review and reader testing remain pending.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",

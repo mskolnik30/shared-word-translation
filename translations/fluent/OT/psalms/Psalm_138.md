@@ -4,124 +4,47 @@ testament: OT
 chapter: 138
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-105-144-biblical-fluency-2026-09-16
 ---
 
-## Thanksgiving for the LORD’s Faithfulness
+## You answered when I called
 
 <p>
-v01: I give you thanks, O LORD, with my whole heart;
-
-before the gods I sing your praise;
-
-v02: I bow down toward your holy temple
-
-and give thanks to your name
-
-for your steadfast love and your faithfulness,
-
-for you have exalted your word
-
-above all your name.
-</p>
-
-<p>
+v01: Of David.
+I will thank you with my whole heart;
+before the gods I will make music for you.
+v02: I will bow toward your holy temple
+and thank your name for your faithful love and faithfulness,
+for you have exalted your utterance above all that your name proclaims.
 v03: On the day I called, you answered me;
-
-you made me bold with strength in my soul.
-</p>
-
-## The LORD’s Global Recognition
-
-<p>
-v04: All the kings of the earth will give you thanks, O LORD,
-
-for they have heard the words of your mouth,
-
-v05: and they will sing of the ways of the LORD,
-
-for great is the glory of the LORD.
+you made me bold with strength within.
 </p>
 
 <p>
-v06: For though the LORD is high, he regards the lowly,
-
-but the haughty he knows from afar.
-</p>
-
-## Confidence in God’s Ongoing Work
-
-<p>
-v07: Though I walk among trouble,
-
-you preserve my life;
-
-you stretch out your hand against the anger of my enemies,
-
-and your right hand delivers me.
+v04: All the kings of the earth will thank you, LORD,
+when they hear the utterances of your mouth.
+v05: They will sing of the LORD’s ways,
+for the LORD’s glory is great.
+v06: Though the LORD is high, he sees the lowly;
+the proud he knows from far away.
 </p>
 
 <p>
-v08: The LORD will fulfill his purpose for me;
-
-your steadfast love, O LORD, endures forever.
-
-Do not forsake the work of your hands.
+v07: Though I walk amid trouble, you keep me alive.
+You stretch out your hand against my enemies’ anger,
+and your right hand saves me.
+v08: The LORD will bring to completion what concerns me.
+LORD, your faithful love lasts forever;
+do not abandon the work of your hands.
 </p>
 
 ## Notes
 
-v01–02: Thanksgiving is public and total (“whole heart…before the gods”).
-
-v02: God’s word is elevated—suggesting reliability surpassing reputation.
-
-v03: Answered prayer produces inner strength, not merely external change.
-
-v04–05: Personal experience expands to universal recognition.
-
-v06: God’s transcendence is paired with attentiveness to the lowly.
-
-v07: Preservation occurs within trouble, not apart from it.
-
-v08: Confidence rests in God’s ongoing purpose, not human control.
+v01–02: “Gods” can also be understood as heavenly beings or rulers. Verse 2 literally says “you have magnified your utterance above all your name.” The draft unpacks “name” as what it proclaims. This clause is unusually compressed; some translations rearrange it to exalt both name and word above everything. This draft preserves the more difficult relation in the pinned Hebrew.
 
 ## Vocabulary
 
-v01: יָדָה (yadah)
-
-“To give thanks.” Praise.
-
-v01: זָמַר (zamar)
-
-“To sing praise.” Make music.
-
-v02: חֶסֶד (chesed)
-
-“Steadfast love.” Covenant loyalty.
-
-v02: אֱמֶת (emet)
-
-“Faithfulness.” Reliability.
-
-v03: עָנָה (anah)
-
-“To answer.” Respond.
-
-v03: רָהַב (rahav)
-
-“To strengthen.” Make bold.
-
-v06: שָׁפָל (shaphal)
-
-“Lowly.” Humble.
-
-v07: חָיָה (chayah)
-
-“To preserve life.” Sustain.
-
-v07: יָשַׁע (yasha)
-
-“To deliver.” Rescue.
-
-v08: גָּמַר (gamar)
-
-“To complete.” Bring to fulfillment.
+v08: **Work of your hands**: A creation image applied to the speaker’s life and circumstances.

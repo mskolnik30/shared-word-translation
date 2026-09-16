@@ -2,402 +2,170 @@
   "book": "Psalms",
   "chapter": 139,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-105-144-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "1703c658f2b8a4a05ac9f8e88d7154ad62e0b1a5",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_139_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 139:1 (Hebrew; before kjv marker) + Psalms 139:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 1,
-            "source_ref": "Psalms 139:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "16296f885553f608dc41dfa56fdc68e427d09a851562266d3d201f26d63685a8"
-          },
-          {
-            "chapter": 139,
-            "verse": 1,
-            "source_ref": "Psalms 139:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "bfffe30581ab56738e606ec30b576b65550c8fd5ce33ebbbf786bb86c76c6196"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "b76bb44a9ec77396ea17f62f5cac83034a7e36337f5dd34b51ddbc2c2c7c8475"
-      },
-      "2": {
-        "source_ref": "Psalms 139:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 2,
-            "source_ref": "Psalms 139:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "7628608100e5be498a52d4cc49e18aaa55dc39925cc198b479802bd053cdc683"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7628608100e5be498a52d4cc49e18aaa55dc39925cc198b479802bd053cdc683"
-      },
-      "3": {
-        "source_ref": "Psalms 139:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 3,
-            "source_ref": "Psalms 139:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "99c5e4932edc84900ddd231806db7782410115bc53231d281b6b0f383b0ea5e2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "99c5e4932edc84900ddd231806db7782410115bc53231d281b6b0f383b0ea5e2"
-      },
-      "4": {
-        "source_ref": "Psalms 139:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 4,
-            "source_ref": "Psalms 139:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f4f3e24d12494ac3523657bf9facdf70099d128d663c551f6f4d66fb14f5e00d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f4f3e24d12494ac3523657bf9facdf70099d128d663c551f6f4d66fb14f5e00d"
-      },
-      "5": {
-        "source_ref": "Psalms 139:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 5,
-            "source_ref": "Psalms 139:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "be12c5b278604ec3f9da6e6eb410e4799656501dc3856c4d19b6bad067dacadf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "be12c5b278604ec3f9da6e6eb410e4799656501dc3856c4d19b6bad067dacadf"
-      },
-      "6": {
-        "source_ref": "Psalms 139:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 6,
-            "source_ref": "Psalms 139:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "67121dbde0a895331ac6661744216d8c9c9170e2d4a2f781ac45d072b8f1be23"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "67121dbde0a895331ac6661744216d8c9c9170e2d4a2f781ac45d072b8f1be23"
-      },
-      "7": {
-        "source_ref": "Psalms 139:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 7,
-            "source_ref": "Psalms 139:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "69e57b6b0453b23f4c4b845b1ebe7e8ad076759ff9e077c0c993944a5483955d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "69e57b6b0453b23f4c4b845b1ebe7e8ad076759ff9e077c0c993944a5483955d"
-      },
-      "8": {
-        "source_ref": "Psalms 139:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 8,
-            "source_ref": "Psalms 139:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5867f18d7392254d6cb3885faca5a315abb41ff069579e07dc9b083df68d405e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5867f18d7392254d6cb3885faca5a315abb41ff069579e07dc9b083df68d405e"
-      },
-      "9": {
-        "source_ref": "Psalms 139:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 9,
-            "source_ref": "Psalms 139:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d813802b17100d21dec8e03b83b1de2aa3ad746283d63aee8d2e77704c5d739c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d813802b17100d21dec8e03b83b1de2aa3ad746283d63aee8d2e77704c5d739c"
-      },
-      "10": {
-        "source_ref": "Psalms 139:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 10,
-            "source_ref": "Psalms 139:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c6d869d9f2c217f1efbbe761b6b7299984c3eaf2ce96a4eca5f3b76321502f78"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c6d869d9f2c217f1efbbe761b6b7299984c3eaf2ce96a4eca5f3b76321502f78"
-      },
-      "11": {
-        "source_ref": "Psalms 139:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 11,
-            "source_ref": "Psalms 139:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "20b436db6f9bb286bd0870da23dbb82be6f1f8fb59feb2be526453585f09b8c8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "20b436db6f9bb286bd0870da23dbb82be6f1f8fb59feb2be526453585f09b8c8"
-      },
-      "12": {
-        "source_ref": "Psalms 139:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 12,
-            "source_ref": "Psalms 139:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "dc3eb6a135d07e5cb1afdac170a39db8a8d99c1f2e2d12f7be37da05f24ae318"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "dc3eb6a135d07e5cb1afdac170a39db8a8d99c1f2e2d12f7be37da05f24ae318"
-      },
-      "13": {
-        "source_ref": "Psalms 139:13 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 13,
-            "source_ref": "Psalms 139:13 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "15750d83ec19777c23d0f5de56229580ef1cd1a4313d0cb720a905a4a9ff5a4d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "15750d83ec19777c23d0f5de56229580ef1cd1a4313d0cb720a905a4a9ff5a4d"
-      },
-      "14": {
-        "source_ref": "Psalms 139:14 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 14,
-            "source_ref": "Psalms 139:14 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3d474105cc780b08d52a5f07bf5fc5134e4777b8bbaddb9abd217af79eb1477e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3d474105cc780b08d52a5f07bf5fc5134e4777b8bbaddb9abd217af79eb1477e"
-      },
-      "15": {
-        "source_ref": "Psalms 139:15 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 15,
-            "source_ref": "Psalms 139:15 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "209a396436c598614674f2be9f81ccb87ac995618cf77b27961ec619d1284503"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "209a396436c598614674f2be9f81ccb87ac995618cf77b27961ec619d1284503"
-      },
-      "16": {
-        "source_ref": "Psalms 139:16 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 16,
-            "source_ref": "Psalms 139:16 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "854ab9728acf6e20212f5b95d39fa213a36b6742b362e5e5743e44df6ca7d9bf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "854ab9728acf6e20212f5b95d39fa213a36b6742b362e5e5743e44df6ca7d9bf"
-      },
-      "17": {
-        "source_ref": "Psalms 139:17 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 17,
-            "source_ref": "Psalms 139:17 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "0c5a11f28da627ad04cda55e8ddaa799f74dba0ebfaa2bbbe4ac90ddc7bd2147"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0c5a11f28da627ad04cda55e8ddaa799f74dba0ebfaa2bbbe4ac90ddc7bd2147"
-      },
-      "18": {
-        "source_ref": "Psalms 139:18 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 18,
-            "source_ref": "Psalms 139:18 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5dd1c5a71593453db9f7467c499ae38c1087b2e5f92f3625eab205c2097a320b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5dd1c5a71593453db9f7467c499ae38c1087b2e5f92f3625eab205c2097a320b"
-      },
-      "19": {
-        "source_ref": "Psalms 139:19 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 19,
-            "source_ref": "Psalms 139:19 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b231392df4eae1a94144f7a53249172002e2bca8f432aa55ac00b6072b4aa079"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b231392df4eae1a94144f7a53249172002e2bca8f432aa55ac00b6072b4aa079"
-      },
-      "20": {
-        "source_ref": "Psalms 139:20 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 20,
-            "source_ref": "Psalms 139:20 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "286a70c1e5778272bdfe50a41508bda5abadcb775305be02a07dc6b499e30488"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "286a70c1e5778272bdfe50a41508bda5abadcb775305be02a07dc6b499e30488"
-      },
-      "21": {
-        "source_ref": "Psalms 139:21 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 21,
-            "source_ref": "Psalms 139:21 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "1432f709b3d40bb205c6dc5d8b89fdab76c9c798560150effc5424f499b676eb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1432f709b3d40bb205c6dc5d8b89fdab76c9c798560150effc5424f499b676eb"
-      },
-      "22": {
-        "source_ref": "Psalms 139:22 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 22,
-            "source_ref": "Psalms 139:22 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "621699598248da24615a422c520a32302da060bd68cc2d02a864310b48f4cadb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "621699598248da24615a422c520a32302da060bd68cc2d02a864310b48f4cadb"
-      },
-      "23": {
-        "source_ref": "Psalms 139:23 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 23,
-            "source_ref": "Psalms 139:23 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "0b295a8d0ff340a042298a9d1b94dbbdc235246efec0f79ae837a3983c1d6594"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0b295a8d0ff340a042298a9d1b94dbbdc235246efec0f79ae837a3983c1d6594"
-      },
-      "24": {
-        "source_ref": "Psalms 139:24 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 139,
-            "verse": 24,
-            "source_ref": "Psalms 139:24 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3180eca135b5e49b6e8b6f414e372468cebdc91058e690812aa8c6bc65b09f92"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3180eca135b5e49b6e8b6f414e372468cebdc91058e690812aa8c6bc65b09f92"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 139,
+    "verse_count": 24,
+    "path": "translations/fluent/OT/psalms/Psalm_139.md",
+    "before_sha256": "60fbd55091f66c7b201c8f17b3d1975dcdba318e5671acc083e0c18d030968ad",
+    "after_sha256": "f428edd91575c65e01e0cbde32d8545b5bc2be5f5f9699940dd1739c2fa20c4e",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_139.md",
+    "tsw_comparator_sha256": "d0b9d397e0ddfac02d26514ae236eca81a9610cf1dd84c385ffe71a4701558ad"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 108, 140, 142 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 717 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 139:1",
+      "decision": "Keeps inline title and searched/known pair.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:5",
+      "decision": "Keeps potentially protective or confining image without deciding its emotion.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:6",
+      "decision": "Follows read form and preserves inaccessible height.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:7",
+      "decision": "Keeps spirit and face/presence as parallel terms.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:8",
+      "decision": "Preserves both vertical extremes and explicit Sheol.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:11",
+      "decision": "Keeps hypothetical concealment and light's reversal.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:13",
+      "decision": "Keeps named bodily organ and weaving image with vocabulary support.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:14",
+      "decision": "Preserves distinguished/set-apart verb rather than silently replacing it with made.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:15",
+      "decision": "Keeps bodily frame and subterranean textile imagery without literalizing location.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:16",
+      "decision": "Explicitly chooses written negative; divergent read form and syntax recorded in note.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:17",
+      "decision": "Takes thoughts rather than friends and retains numerical vastness.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:18",
+      "decision": "Preserves sand comparison and waking, without asserting resurrection.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:19",
+      "decision": "Keeps abrupt death wish and addressed violent men.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:20",
+      "decision": "Supplies name for compressed taking-in-vain clause with textual difficulty noted.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:21",
+      "decision": "Preserves hatred and disgust as the speaker's claims.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:22",
+      "decision": "Keeps emphatic total hatred without softening to disagreement.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 139:24",
+      "decision": "Keeps possible painful/idolatrous way ambiguity in note and final guidance plea.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_139.md",
-    "blob_sha": "89b73c9cc5976e526b1b98afdd9f87d472581439"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }
