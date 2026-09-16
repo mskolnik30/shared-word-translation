@@ -4,121 +4,74 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-1-7-biblical-fluency-2026-09-16
 ---
 
+## Jeremiah’s call
+
 <p>
-v01: The words of Jeremiah, son of Hilkiah, one of the priests in Anathoth, in the land of Benjamin.
+v01: The words of Jeremiah son of Hilkiah, one of the priests at Anathoth in the territory of Benjamin.
 </p>
 
 <p>
-v02: The word of the LORD came to him in the days of Josiah, son of Amon, king of Judah, in the thirteenth year of his reign.
-v03: It came also in the days of Jehoiakim, son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah, son of Josiah, king of Judah, until the exile of Jerusalem in the fifth month.
+v02: The **LORD**’s word came to him in the days of Josiah son of Amon, king of Judah, in the thirteenth year of his reign.
+v03: It also came in the days of Jehoiakim son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah son of Josiah, king of Judah, when Jerusalem went into exile in the fifth month.
 </p>
 
 <p>
-v04: The word of the LORD came to me:
-v05: "Before I formed you in the womb, I knew you;
-and before you came out from the womb, I consecrated you;
-I appointed you a prophet to the nations."
+v04: The **LORD**’s word came to me:
+v05: “Before I formed you in the womb, I knew you;
+before you came out at birth, I set you apart.
+I appointed you a prophet to the nations.”
 </p>
 
 <p>
-v06: Then I said, "Ah, Lord GOD!
-Look, I do not know how to speak, for I am a youth."
+v06: I said, “Ah, Lord **GOD**! I do not know how to speak. I am only a youth.”
 </p>
 
 <p>
-v07: But the LORD said to me,
-"Do not say, 'I am a youth,'
-for wherever I send you, you will go,
-and all that I command you, you will speak.
-v08: Do not be afraid of them,
-for I am with you to deliver you,"
-declares the LORD.
+v07: But the **LORD** said to me, “Do not say, ‘I am only a youth.’ Go to everyone I send you to, and speak everything I command you.
+v08: Do not fear them, for I am with you to rescue you,” declares the **LORD**.
 </p>
 
 <p>
-v09: Then the LORD stretched out his hand and touched my mouth;
-and the LORD said to me,
-"Look, I have put my words in your mouth.
-v10: See, I have appointed you this day over nations and over kingdoms,
-to uproot and to breakdown,
-to destroy and to overthrow,
-to build and to plant."
+v09: Then the **LORD** reached out his hand and touched my mouth. The **LORD** said to me, “Look, I have put my words in your mouth.
+v10: See, today I appoint you over nations and kingdoms,
+to uproot and tear down,
+to destroy and overthrow,
+to build and plant.”
+</p>
+
+## Two visions
+
+<p>
+v11: The **LORD**’s word came to me: “What do you see, Jeremiah?” I answered, “I see an almond branch.”
+v12: The **LORD** said to me, “You have seen well, for I am watching over my word to carry it out.”
 </p>
 
 <p>
-v11: The word of the LORD came to me, saying, "What do you see, Jeremiah?"
-I said, "I see a branch of an almond tree."
-v12: Then the LORD said to me, "You have seen well,
-for I am watching over my word to perform it."
+v13: The **LORD**’s word came to me a second time: “What do you see?” I answered, “I see a boiling pot, tilted away from the north.”
 </p>
 
 <p>
-v13: And the word of the LORD came to me a second time, saying,
-"What do you see?"
-I said, "I see a boiling pot,
-and it is facing away from the north."
+v14: Then the **LORD** said to me, “From the north disaster will be unleashed on everyone living in the land.
+v15: Look, I am summoning all the clans of the northern kingdoms,” declares the **LORD**. “They will come, and each will set his throne at the entrance to Jerusalem’s gates, against all her surrounding walls and against all Judah’s cities.
+v16: I will pronounce my judgments against them for all their wickedness: they abandoned me, burned offerings to other gods, and bowed down to what their own hands made.
 </p>
 
 <p>
-v14: Then the LORD said to me,
-"From the north, calamity will be let loose
-upon all the inhabitants of the land.
-v15: For, look, I am calling all the families of the kingdoms of the north,"
-declares the LORD,
-"and they will come,
-and each will set his throne
-at the entrance of the gates of Jerusalem,
-against all its walls all around,
-and against all the cities of Judah.
-v16: I will declare my judgments against them,
-for all their evil in forsaking me,
-making offerings to other gods,
-and worshiping the works of their own hands.
-</p>
-
-<p>
-v17: But you, gird your loins;
-arise, and speak to them all that I command you.
-Do not be dismayed by them, lest I dismay you before them.
-v18: And look, I make you this day
-a fortified city,
-an iron pillar,
-and bronze walls,
-against the whole land,
-against the kings of Judah,
-its officials, its priests,
-and the people of the land.
-v19: They will fight against you,
-but they will not prevail against you,
-for I am with you," declares the LORD, "to deliver you."
+v17: But you, tie up your robe, stand up, and tell them everything I command you. Do not be shattered by fear of them, or I will shatter you before them.
+v18: Look, today I make you a fortified city, an iron pillar and bronze walls against the whole land—against Judah’s kings, officials, priests and people of the land.
+v19: They will fight you, but they will not overcome you, for I am with you,” declares the **LORD**, “to rescue you.”
 </p>
 
 ## Notes
 
-v10: - **v10 uproot, breakdown, destroy, overthrow, build, plant**: These contrasting verbs illustrate Jeremiah's divinely assigned role in both the judgment and restoration dynamics of his prophetic ministry.
-
-v11: - **v11 almond tree, watching**: In Hebrew, the word for "almond tree" (*sha-qed*) sounds like the word for "watching" (*sho-qed*), making this a play on words that emphasizes divine vigilance.
-
-v18: - **v18 fortified city, iron pillar, bronze walls**: These metaphors convey strength and resilience, suggesting divine empowerment for Jeremiah against opposition.
+v11–12: Almond, shaqed, sounds like watching, shoqed. The wordplay explains the vision’s connection to the LORD’s word.
 
 ## Vocabulary
 
-v01: - **v1 דִּבְרֵ֥י (da.var)**: The translated "words" refers broadly to the collected messages and prophecies of Jeremiah.
-
-v09: - **v10 נְתַתִּי (na.tan)**: Rendered "appointed," it is a decision to confer a role or responsibility, emphasizing divine commissioning.
-
-v11: - **v11 מַקֵּ֥ל (maq.qel)**: Meaning "branch," here it plays on its sound similarity with "watching," indicating alignment with divine purpose.
-
-v11: מַקֵּ֥ל (maqqel)
-“Branch; staff.” Here the word participates in a sound-play with the following verb for “watching.”
-
-v12: שֹׁקֵ֥ד (shoqed)
-“Watching," a key term that highlights God's active oversight and certainty in fulfilling divine promises.
-
-v01: דִּבְרֵ֥י (davar)
-“Words; matters.” Here the term introduces Jeremiah’s collected prophetic words.
-
-v09: נְתַתִּי (natan)
-“I have put; I have given.” The verb marks the placing of the LORD’s words in Jeremiah’s mouth.
+v10: **Uproot and plant**: These agricultural verbs frame the commission alongside demolition and building; they recur through Jeremiah.

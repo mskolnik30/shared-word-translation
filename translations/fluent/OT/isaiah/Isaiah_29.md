@@ -4,86 +4,113 @@ testament: OT
 chapter: 29
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Ariel and the Hidden Work of God
 
 <p>
-v01: Woe to Ariel! Ariel, the city where David encamped! Add year to year;
-let the feasts come around;
-v02: then I will distress Ariel, and there will be mourning and lamentation. She will be to me as an altar hearth.
-v03: I will encamp against you all around you, and will lay siege against you with posted troops. I will raise siege works against you.
-v04: You will be brought down, and will speak out of the ground. Your speech will mumble out of the dust. Your voice will be as of one who has a familiar spirit, out of the ground, and your speech will whisper out of the dust.
+v01: Woe, Ariel, Ariel, city where David camped!
+Add year to year; let the festivals come around.
+v02: I will press Ariel hard;
+there will be mourning and moaning.
+She will become like an altar hearth to me.
+v03: I will encamp all around you,
+lay siege to you with posts,
+and raise siegeworks against you.
+v04: Brought low, you will speak from the ground;
+your words will sink into the dust.
+Your voice will come from the ground like a ghost’s,
+your speech will chirp from the dust.
 </p>
 
 <p>
-v05: But the multitude of your foes will be like fine dust, and the multitude of the ruthless ones like chaff that blows away. Yes, it will be in an instant, suddenly.
-v06: She will be visited by the LORD of Hosts with thunder, with earthquake, with great noise, with whirlwind and storm, and with the flame of a devouring fire.
-v07: The multitude of all the nations that fight against Ariel, even everyone who fight against her and her stronghold, and who distress her, will be like a dream, a vision of the night.
-v08: It will be like when a hungry man dreams, and look, he eats;
-but he awakes, and his hunger is not satisfied;
-or like when a thirsty man dreams, and look, he drinks;
-but he awakes, and look, he is faint, and he is still thirsty. The multitude of all the nations that fight against Mount Zion will be like that.
+v05: Yet the throng of your foreigners will become fine dust,
+the throng of the ruthless like drifting chaff.
+Suddenly, in an instant,
+v06: the **LORD** of hosts will visit you
+with thunder, earthquake, and great noise,
+whirlwind, tempest, and devouring flame.
+v07: The throng of all nations fighting Ariel,
+all who wage war against her and her stronghold,
+all who press her hard,
+will be like a dream, a vision at night.
+v08: As a hungry person dreams of eating
+and wakes with an empty stomach,
+as a thirsty person dreams of drinking
+and wakes faint and still thirsty,
+so will be the throng of all nations
+fighting Mount Zion.
 </p>
 
 <p>
-v09: Pause and wonder! Blind yourselves and be blind! They are drunken, but not with wine;
-they stagger, but not with strong drink.
-v10: For the LORD has poured out on you a spirit of deep sleep, and has closed your eyes, the prophets;
-and he has covered your heads, the seers.
-v11: All vision has become to you like the words of a book that is sealed, which men deliver to one who is educated, saying, "Read this, please;" and he says, "I cannot, for it is sealed:"
-v12: and the book is delivered to one who is not educated, saying, "Read this, please;" and he says, "I cannot read."
+v09: Stupefy yourselves and be stupefied!
+Blind yourselves and be blind!
+They are drunk, but not from wine;
+they stagger, but not from strong drink.
+v10: For the **LORD** has poured over you a spirit of deep sleep.
+He has closed your eyes—the prophets—
+and covered your heads—the seers.
+v11: For you the whole vision has become like the words of a sealed scroll. Give it to someone who can read and say, “Please read this,” and the answer is, “I cannot; it is sealed.”
+v12: Give the scroll to someone who cannot read and say, “Please read this,” and the answer is, “I cannot read.”
 </p>
 
 <p>
-v13: The Lord said: “Because this people draws near with their mouth and honors me with their lips, while their heart is far from me, and their fear of me is a commandment learned by rote,
-v14: so, look, I will proceed to do a marvelous work among this people, even a marvelous work and a wonder;
-and the wisdom of their wise men will perish, and the understanding of their prudent men will be hidden."
-v15: Woe to people who deeply hide their counsel from the LORD, and whose works are in the dark, and who say, "Who sees us?" and "Who knows us?"
-v16: You turn things upside down! Should the potter be thought to be like clay;
-that the thing made should say about the one who made it, "He did not make me;" or the thing formed say of the one who formed it, "He has no understanding?"
+v13: The Lord said:
+“This people approaches me with its mouth
+and honors me with its lips,
+but its heart is far from me.
+Its fear of me is a human command learned by rote.
+v14: So I will again astound this people,
+with wonder upon wonder.
+The wisdom of its wise will perish,
+and the discernment of its discerning will disappear.”
+v15: Woe to those who bury their plans deep from the **LORD**,
+whose deeds are done in darkness,
+who say, “Who sees us? Who knows us?”
+v16: You turn things upside down!
+Should the potter be regarded as clay?
+Should a thing made say of its maker, “He did not make me,”
+or a formed thing say of its former, “He has no understanding”?
 </p>
 
 <p>
-v17: Isn't it yet a very little while, and Lebanon will be turned into a fruitful field, and the fruitful field will be regarded as a forest?
-v18: On that day, the deaf will hear the words of the book, and the eyes of the blind will see out of obscurity and out of darkness.
-v19: The humble also will increase their joy in the LORD, and the poor among men will rejoice in the Holy One of Israel.
-v20: For the ruthless is brought to nothing, and the scoffer ceases, and all people who are alert to do evil are cut off—
+v17: In just a little while,
+will not Lebanon become fruitful land,
+and fruitful land be regarded as forest?
+v18: On that day the deaf will hear a scroll’s words,
+and out of gloom and darkness
+the eyes of the blind will see.
+v19: The lowly will find fresh joy in the **LORD**;
+the poorest people will rejoice in Israel’s Holy One.
+v20: For the ruthless will be gone, the mocker finished,
+and all who watch for a chance to do evil will be cut off—
 </p>
 
 <p>
-v21: who cause a person to be indicted by a word, and lay a snare for the arbiter in the gate, and who deprive the innocent of justice with false testimony.
-v22: So thus says the LORD, who redeemed Abraham, concerning the house of Jacob: "Jacob will no longer be ashamed, neither will his face grow pale.
-v23: But when he sees his children, the work of my hands, among him, they will sanctify my name. Yes, they will sanctify the Holy One of Jacob, and will stand in awe of the God of Israel.
-v24: They also who err in spirit will come to understanding, and people who grumble will receive instruction."
+v21: those who make a person guilty by a word,
+set a trap for the one who argues a case at the gate,
+and with empty claims deny justice to the righteous.
+v22: Therefore the **LORD**, who redeemed Abraham, says to Jacob’s house:
+“Jacob will no longer be ashamed;
+his face will no longer grow pale.
+v23: When he sees his children, the work of my hands, in his midst,
+they will honor my name as holy;
+they will honor Jacob’s Holy One as holy
+and stand in awe of Israel’s God.
+v24: Those whose spirits wander will gain understanding;
+those who grumble will learn instruction.”
 </p>
 
 ## Notes
 
-v01: “Ariel” is a poetic name for Jerusalem whose precise sense is debated; possible associations include “lion of God” and an altar hearth.
+v01–02: Ariel names the city where David camped. Its meaning is debated; the altar-hearth sense gives particular force to the threatened burning in verse 2.
 
-v19: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
+v11–12: The sealed document cannot be read by someone who knows how to read; the second recipient cannot read at all. The two obstacles are distinct.
 
 ## Vocabulary
 
-v01: אֲרִיאֵל (Ari'el)
-“Ariel.” A poetic designation for Jerusalem with debated etymology.
-
-v19: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v08: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v08: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v16: **Potter**: A maker of clay vessels; the image asks whether the made thing can deny its maker’s understanding.

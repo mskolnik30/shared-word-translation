@@ -1,0 +1,151 @@
+{
+  "status": "PASSED",
+  "base_commit": "a1e6a02b972f845b0b13f0ab4f0bcc9078b5b5d5",
+  "new_chapters": 50,
+  "new_verses": 1058,
+  "unique_original_source_records": {
+    "isaiah": 850,
+    "jeremiah": 207
+  },
+  "cumulative_coverage": {
+    "ledgers": 84,
+    "chapters": 757,
+    "verses": 19261
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 82,
+    "chapters_byte_identical": 707,
+    "verses": 18203,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for both affected ledgers",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Isaiah 26:3": [
+      "peace"
+    ],
+    "Isaiah 26:4": [
+      "YAH",
+      "LORD"
+    ],
+    "Isaiah 27:1": [
+      "Leviathan"
+    ],
+    "Isaiah 29:1": [
+      "Ariel"
+    ],
+    "Isaiah 30:26": [
+      "seven times brighter",
+      "seven days"
+    ],
+    "Isaiah 36:1": [
+      "fourteenth"
+    ],
+    "Isaiah 36:8": [
+      "two thousand"
+    ],
+    "Isaiah 37:36": [
+      "185,000"
+    ],
+    "Isaiah 38:5": [
+      "fifteen"
+    ],
+    "Isaiah 38:8": [
+      "ten"
+    ],
+    "Isaiah 38:11": [
+      "YAH"
+    ],
+    "Isaiah 44:28": [
+      "Cyrus"
+    ],
+    "Isaiah 45:1": [
+      "Cyrus",
+      "anointed"
+    ],
+    "Isaiah 48:10": [
+      "chosen"
+    ],
+    "Isaiah 49:3": [
+      "Israel"
+    ],
+    "Isaiah 56:3": [
+      "eunuch"
+    ],
+    "Isaiah 60:17": [
+      "gold",
+      "silver",
+      "bronze",
+      "iron"
+    ],
+    "Isaiah 62:5": [
+      "sons"
+    ],
+    "Isaiah 63:17": [
+      "wander"
+    ],
+    "Isaiah 64:6": [
+      "menstrual"
+    ],
+    "Isaiah 65:20": [
+      "hundred"
+    ],
+    "Isaiah 66:24": [
+      "corpses",
+      "worm",
+      "fire"
+    ],
+    "Jeremiah 1:2": [
+      "thirteenth"
+    ],
+    "Jeremiah 1:3": [
+      "eleventh",
+      "fifth"
+    ],
+    "Jeremiah 1:10": [
+      "uproot",
+      "tear down",
+      "destroy",
+      "overthrow",
+      "build",
+      "plant"
+    ],
+    "Jeremiah 2:13": [
+      "two evils"
+    ],
+    "Jeremiah 2:34": [
+      "You did not find them breaking in"
+    ],
+    "Jeremiah 3:14": [
+      "one",
+      "two"
+    ],
+    "Jeremiah 4:10": [
+      "deceived"
+    ],
+    "Jeremiah 4:23": [
+      "unformed and empty"
+    ],
+    "Jeremiah 6:14": [
+      "Peace, peace"
+    ],
+    "Jeremiah 7:31": [
+      "sons",
+      "daughters",
+      "fire"
+    ],
+    "Jeremiah 7:32": [
+      "for lack of room elsewhere"
+    ]
+  },
+  "versification": "Public Isaiah 63:19 and 64:1 partition original Isa 63:19; both retain the exact complete original XML hash. Public 64:2–12 bind Isa 64:1–11. All other selected labels match.",
+  "repeated_refrains": "Isaiah 35:10 and 51:11 match; YAH, Ariel, and temple-name repetitions checked. Other repetitions inspected during authoring reread.",
+  "focused_authoring_reread": 162,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "Prior pending reviews preserved; continuous whole-book Isaiah review queued.",
+  "publication_allowed": false
+}

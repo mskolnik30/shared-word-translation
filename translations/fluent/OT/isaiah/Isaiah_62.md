@@ -4,66 +4,74 @@ testament: OT
 chapter: 62
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Zion's New Name
 
 <p>
-v01: For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not rest, until her righteousness goes out like brightness and her salvation like a burning torch.
-v02: The nations will see your righteousness and all kings your glory;
-you will be called by a new name that the mouth of the LORD will give.
-v03: You will also be a crown of beauty in the hand of the LORD, and a royal diadem in the hand of your God.
-v04: You will no more be termed Forsaken;
-neither will your land any more be termed Desolate: but you will be called Hephzibah, and your land Beulah;
-for the LORD delights in you, and your land will be married.
+v01: For Zion’s sake I will not be silent;
+for Jerusalem’s sake I will not rest,
+until her righteousness shines like dawn
+and her salvation burns like a torch.
+v02: Nations will see your righteousness,
+and all kings your glory.
+You will be called by a new name
+that the **LORD**’s mouth will pronounce.
+v03: You will be a splendid crown in the **LORD**’s hand,
+a royal diadem in your God’s palm.
+v04: You will no longer be called Abandoned,
+nor your land Desolate.
+You will be called My Delight Is in Her,
+and your land Married,
+for the **LORD** delights in you,
+and your land will be married.
 </p>
 
 <p>
-v05: For as a young man marries a virgin, so will your sons marry you;
-and as the bridegroom rejoices over the bride, so will your God rejoice over you.
-v06: I have set watchmen on your walls, Jerusalem;
-they will never hold their peace day nor night: you who call on the LORD, take no rest,
-v07: and give him no rest, until he establishes, and until he makes Jerusalem a praise in the earth.
-v08: The LORD has sworn by his right hand, and by the arm of his strength, Surely I will no more give your grain to be food for your enemies;
-and foreigners will not drink your new wine, for which you have labored:
+v05: As a young man marries a virgin,
+so your sons will marry you.
+As a bridegroom rejoices over a bride,
+so your God will rejoice over you.
+v06: On your walls, Jerusalem, I have stationed watchmen;
+all day and all night they will never be silent.
+You who remind the **LORD**, take no rest,
+v07: and give him no rest
+until he establishes Jerusalem
+and makes her a praise in the earth.
+v08: The **LORD** has sworn by his right hand
+and by his mighty arm:
+“I will never again give your grain as food to your enemies,
+nor will foreigners drink the new wine you worked for.
 </p>
 
 <p>
-v09: but people who have garnered it will eat it, and praise the LORD;
-and people who have gathered it will drink it in the courts of my sanctuary.
-v10: Go through, go through the gates;
-prepare you the way of the people;
-cast up, cast up the highway;
-gather out the stones;
-lift up a banner for the peoples.
-v11: Look, the LORD has proclaimed to the end of the earth, Say you to the daughter of Zion, Look, your salvation comes;
-look, his reward is with him, and his recompense before him.
-v12: They will call them The holy people, The redeemed of the LORD: and you will be called Sought out, A city not forsaken.
+v09: Those who gather the grain will eat it
+and praise the **LORD**;
+those who gather the grapes will drink their wine
+in my holy courts.”
+v10: Pass through, pass through the gates!
+Prepare the people’s road.
+Build up, build up the highway;
+clear away the stones.
+Raise a banner over the peoples!
+v11: Look, the **LORD** has announced to the ends of the earth:
+“Say to Daughter Zion, ‘Look, your salvation is coming!
+Look, his reward is with him,
+and his recompense goes before him.’”
+v12: They will call them Holy People,
+Redeemed of the **LORD**.
+And you will be called Sought Out,
+A City Not Abandoned.
 </p>
 
 ## Notes
 
-v04: The new names reverse Zion’s former abandonment. Naming is part of restoration, not merely a change of reputation.
-
-v01: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
-
-v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+v04–05: The new names are translated for their meaning: Hephzibah, “My Delight Is in Her,” and Beulah, “Married.” Verse 5 retains the pinned “sons”; “builders” requires different vocalization.
 
 ## Vocabulary
 
-v02: שֵׁם חָדָשׁ (shem chadash)
-“New name.” A divinely given identity marking restored Zion.
-
-v02: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v01: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v01: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
-
-v01: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v06: **Remind the LORD**: The watchmen are charged with unceasing appeal, even giving God no rest until Jerusalem is established.

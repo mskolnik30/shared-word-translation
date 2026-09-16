@@ -4,88 +4,108 @@ testament: OT
 chapter: 24
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Earth Laid Waste
 
 <p>
-v01: Look, the LORD makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants.
-v02: It will be as with the people, so with the priest;
-as with the servant, so with his master;
-as with the maid, so with her mistress;
-as with the buyer, so with the seller;
-as with the creditor, so with the debtor;
-as with the taker of interest, so with the giver of interest.
-v03: The earth will be utterly emptied and utterly laid waste;
-for the LORD has spoken this word.
-v04: The earth mourns and fades away. The world languishes and fades away. The lofty people of the earth languish.
+v01: Look! The **LORD** is emptying the earth, laying it waste,
+twisting its surface and scattering its people.
+v02: It will be the same for people and priest,
+slave and master, slave woman and mistress,
+buyer and seller, lender and borrower,
+creditor and debtor.
+v03: The earth will be utterly emptied,
+utterly plundered,
+for the **LORD** has spoken this word.
+v04: The earth mourns and withers;
+the world droops and withers;
+the earth’s highest people droop.
 </p>
 
 <p>
-v05: The earth also is polluted under its inhabitants, because they have transgressed the laws, violated the statutes, and broken the everlasting covenant.
-v06: So the curse has devoured the earth, and people who dwell in it are found guilty. Therefore the inhabitants of the earth are burned, and few men left.
-v07: The new wine mourns. The vine languishes. All the merry-hearted sigh.
-v08: The mirth of tambourines ceases. The sound of people who rejoice ends. The joy of the harp ceases.
+v05: The earth is defiled beneath its inhabitants,
+for they have crossed the boundaries of instruction,
+violated the statute, broken the everlasting covenant.
+v06: So a curse devours the earth,
+and its inhabitants bear their guilt.
+So earth’s inhabitants are scorched,
+and few people remain.
+v07: New wine mourns, the vine droops;
+all the lighthearted sigh.
+v08: The tambourines’ joy has stopped,
+the revelers’ noise has ceased,
+the lyre’s joy has stopped.
 </p>
 
 <p>
-v09: They will not drink wine with a song. Strong drink will be bitter to people who drink it.
-v10: The confused city is broken down. Every house is shut up, that no man may come in.
-v11: There is a crying in the streets because of the wine. All joy is darkened. The mirth of the land is gone.
-v12: The city is left in desolation, and the gate is struck with destruction.
+v09: They no longer drink wine with a song;
+strong drink tastes bitter to those who drink it.
+v10: The city of emptiness is shattered;
+every house is shut against entry.
+v11: In the streets people cry out for wine.
+All gladness has darkened;
+earth’s joy has gone into exile.
+v12: Only desolation remains in the city;
+its gate is battered into ruins.
 </p>
 
 <p>
-v13: For it will be so among the earth among the peoples, as the shaking of an olive tree, as the gleanings when the vintage is done.
-v14: These will lift up their voice. They will shout for the majesty of the LORD. They cry aloud from the sea.
-v15: So glorify the LORD in the east, even the name of the LORD, the God of Israel, in the islands of the sea!
-v16: From the uttermost part of the earth have we heard songs. Glory to the righteous! But I said, "I pine away! I pine away! woe is me!" The treacherous have dealt treacherously. Yes, the treacherous have dealt very treacherously.
+v13: So it will be within the earth, among the peoples:
+as when an olive tree is beaten,
+as with gleanings when the grape harvest ends.
+v14: They lift their voices and sing for joy;
+from the west they shout at the **LORD**’s majesty.
+v15: So honor the **LORD** in the east,
+the name of the **LORD**, Israel’s God,
+in the islands of the sea.
+v16: From earth’s edge we hear songs: “Splendor to the righteous!”
+But I say, “I waste away! I waste away! Woe to me!
+The treacherous betray;
+the treacherous betray with treachery!”
 </p>
 
 <p>
-v17: Fear, the pit, and the snare, are on you who inhabitant the earth.
-v18: It will happen that the one who flees from the noise of the fear will fall into the pit;
-and the one who comes up out of the midst of the pit will be taken in the snare;
-for the windows on high are opened, and the foundations of the earth tremble.
-v19: The earth is utterly broken. The earth is torn apart. The earth is shaken violently.
-v20: The earth will stagger like a drunken man, and will sway back and forth like a hammock. Its disobedience will be heavy on it, and it will fall and not rise again.
+v17: Terror, pit, and trap await you,
+inhabitant of the earth.
+v18: Whoever flees the sound of terror will fall into the pit;
+whoever climbs from the pit will be caught in the trap.
+The windows on high have opened,
+and earth’s foundations shake.
+v19: The earth breaks apart,
+the earth splits open,
+the earth shakes violently.
+v20: The earth reels like a drunkard,
+sways like a shelter.
+Its rebellion weighs heavily upon it;
+it falls and will not rise again.
 </p>
 
 <p>
-v21: It will happen on that day that the LORD will punish the army of the high ones on high, and the kings of the earth on the earth.
-v22: They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison;
-and after many days will they be visited.
-v23: Then the moon will be confounded, and the sun ashamed;
-for the LORD of Hosts will reign on Mount Zion, and in Jerusalem;
-and before his elders will be glory.
+v21: On that day the **LORD** will call to account
+the host on high, on high,
+and earth’s kings, on earth.
+v22: They will be gathered like prisoners into a pit,
+shut away in a prison,
+and after many days they will be visited.
+v23: The moon will be abashed and the sun ashamed,
+for the **LORD** of hosts will reign
+on Mount Zion and in Jerusalem,
+and glory will be before his elders.
 </p>
 
 ## Notes
 
-v05: The chapter repeatedly links human transgression with the disruption of the earth itself; social, covenantal, and cosmic disorder are not separated.
+v05: The “everlasting covenant” is not identified here. The accusation reaches beyond one city or social rank.
 
-v05: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
+v14–15: “West” and “east” render difficult expressions involving the sea and lights or fires. The call to honor the LORD extends across the world.
 
-v23: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v02: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+v22: “Visited” can introduce punishment or attention leading to release. The verse does not explicitly settle the prisoners’ final outcome.
 
 ## Vocabulary
 
-v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v23: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v23: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v02: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v05: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
+v05: **Covenant**: A binding relationship with obligations; its violation is part of the chapter’s accusation.

@@ -4,64 +4,75 @@ testament: OT
 chapter: 55
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Come to the Waters
 
 <p>
-v01: Ho! Everyone who thirsts, come to the waters;
-and you who have no money, come, buy and eat. Come, buy wine and milk without money and without price.
-v02: Why do you spend money for what is not bread? and your labor for what does not satisfy? listen diligently to me, and eat you what is good, and let your soul delight itself in fatness.
-v03: Turn your ear, and come to me;
-hear, and your soul will live: and I will make an everlasting covenant with you, even the sure mercies of David.
-v04: Look, I have given him for a witness to the peoples, a leader and commander to the peoples.
+v01: “Come, all who thirst, come to the water!
+You who have no silver, come, buy and eat!
+Come, buy wine and milk
+without silver, without a price.
+v02: Why weigh out silver for what is not bread,
+and spend your labor on what does not satisfy?
+Listen carefully to me and eat what is good;
+delight yourselves in rich food.
+v03: Incline your ears and come to me;
+listen, so you may live.
+I will make an everlasting covenant with you,
+the faithful acts of love promised to David.
+v04: Look, I made him a witness to peoples,
+a leader and commander of peoples.
 </p>
 
 <p>
-v05: Look, you will call a nation that you do not know;
-and a nation that did not know you will run to you, because of the LORD your God, and for the Holy One of Israel;
-for he has glorified you.
-v06: Seek you the LORD while he may be found;
-call you on him while he is near:
-v07: let the wicked forsake his way, and the unrighteous man his thoughts;
-and let him return to the LORD, and he will have mercy on him;
-and to our God, for he will abundantly pardon.
-v08: For my thoughts are not your thoughts, nor are your ways my ways, says the LORD.
+v05: Look, you will call a nation you do not know,
+and a nation that does not know you will run to you,
+because of the **LORD** your God,
+Israel’s Holy One, who has glorified you.”
+v06: Seek the **LORD** while he may be found;
+call to him while he is near.
+v07: Let the wicked abandon their way
+and the wrongdoer their thoughts.
+Let them return to the **LORD**, who will have compassion,
+to our God, who abundantly forgives.
+v08: “For my thoughts are not your thoughts,
+and your ways are not my ways,” declares the **LORD**.
 </p>
 
 <p>
-v09: For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.
-v10: For as the rain comes down and the snow from the sky, and does not return there, but waters the earth, and makes it bring forth and bud, and gives seed to the sower and bread to the eater;
-v11: so will my word be that goes forth out of my mouth: it will not return to me void, but it will accomplish what I please, and it will prosper in the thing I sent it to do.
-v12: For you will go out with joy, and be led forth with peace: the mountains and the hills will break forth before you into singing;
-and all the trees of the fields will clap their hands.
+v09: “As the heavens are higher than the earth,
+so my ways are higher than your ways
+and my thoughts than your thoughts.
+v10: As rain and snow come down from heaven
+and do not return there without watering the earth,
+making it bear and sprout,
+giving seed to the sower and bread to the eater,
+v11: so will my word be that goes out from my mouth:
+it will not return to me empty.
+It will accomplish what I desire
+and succeed in what I sent it to do.
+v12: For you will go out with joy
+and be led in peace.
+Mountains and hills will break into song before you,
+and all the trees of the field will clap their hands.
 </p>
 
 <p>
-v13: Instead of the thorn will come up the fir tree;
-and instead of the brier will come up the myrtle tree: and it will be to the LORD for a name, for an everlasting sign that will not be cut off.
+v13: Instead of thornbushes, cypress will grow;
+instead of nettles, myrtle will grow.
+This will bring the **LORD** renown,
+an everlasting sign that will not be cut off.”
 </p>
 
 ## Notes
 
-v11: The word of the LORD is compared with rain and snow that accomplish the purpose for which they are sent; speech and creation are held together.
-
-v05: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v03: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
-
-v12: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
+v03–05: The covenant is linked to the reliable acts of love promised to David. The passage moves from David as “him” to an unnamed singular “you.”
 
 ## Vocabulary
 
-v11: דָּבָר (davar)
-“Word.” Speech that acts and accomplishes the purpose for which it is sent.
-
-v05: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v03: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v12: שָׁלוֹם (shalom)
-“Peace,” “wholeness,” or “well-being.”
+v11: **Word**: Here God’s spoken purpose is pictured as a messenger that returns only after accomplishing its task.

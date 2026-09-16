@@ -4,98 +4,141 @@ testament: OT
 chapter: 51
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Listen to Me, You Who Pursue Righteousness
 
 <p>
-v01: Listen to me, you who pursue righteousness, you who seek the LORD: look to the rock from which you were hewn and to the quarry from which you were dug.
-v02: Look to Abraham your father, and to Sarah who bore you;
-for when he was but one I called him, and I blessed him, and made him many.
-v03: For the LORD has comforted Zion;
-he has comforted all her waste places, and has made her wilderness like Eden, and her desert like the garden of the LORD;
-joy and gladness will be found in it, thanksgiving, and the voice of melody.
-v04: Attend to me, my people;
-and give ear to me, my nation: for a law will go forth from me, and I will establish my justice for a light of the peoples.
+v01: “Listen to me, you who pursue righteousness,
+you who seek the **LORD**.
+Look to the rock from which you were cut
+and the quarry from which you were dug.
+v02: Look to Abraham your father
+and to Sarah who gave you birth.
+He was only one when I called him,
+but I blessed him and made him many.
+v03: For the **LORD** has comforted Zion,
+comforted all her ruins.
+He will make her wilderness like Eden,
+her desert like the **LORD**’s garden.
+Joy and gladness will be found in her,
+thanksgiving and the sound of song.
+v04: Pay attention to me, my people;
+my nation, listen to me.
+Instruction will go out from me,
+and I will establish my justice as a light for peoples.
 </p>
 
 <p>
-v05: My righteousness is near, my salvation is gone forth, and my arms will judge the peoples;
-the islands will wait for me, and on my arm will they trust.
-v06: Lift up your eyes to the heavens, and look on the earth beneath;
-for the heavens will vanish away like smoke, and the earth will wax old like a garment;
-and people who dwell in it will die in like manner: but my salvation will be forever, and my righteousness will not be abolished.
-v07: Listen to me, you who know righteousness, the people in whose heart is my law;
-do not you fear the reproach of men, neither be you dismayed at their insults.
-v08: For the moth will eat them up like a garment, and the worm will eat them like wool;
-but my righteousness will be forever, and my salvation to all generations.
+v05: My righteousness is near;
+my salvation has gone out.
+My arms will judge the peoples.
+The coastlands wait for me;
+they put their hope in my arm.
+v06: Lift your eyes to the heavens;
+look at the earth below.
+The heavens will dissolve like smoke,
+the earth wear out like a garment,
+and its inhabitants die in the same way.
+But my salvation will last forever;
+my righteousness will never fail.
+v07: Listen to me, you who know righteousness,
+people with my instruction in your hearts.
+Do not fear human insults
+or be shattered by their taunts.
+v08: For moths will eat them like a garment,
+and grubs will eat them like wool.
+But my righteousness will last forever,
+and my salvation through every generation.”
 </p>
 
 <p>
-v09: Awake, awake, put on strength, arm of the LORD;
-awake, as in the days of old, the generations of ancient times. Isn't it you who did cut Rahab in pieces, who pierced the monster?
-v10: Isn't it you who dried up the sea, the waters of the great deep;
-who made the depths of the sea a way for the redeemed to pass over?
-v11: The ransomed of the LORD will return, and come with singing to Zion;
-and everlasting joy will be on their heads: they will obtain gladness and joy;
-and sorrow and sighing will flee away.
-v12: I, even I, am the one who comforts you: who are you, that you are afraid of man who will die, and of the son of man who will be made as grass;
+v09: Awake, awake! Clothe yourself in strength,
+arm of the **LORD**!
+Awake as in days long past,
+generations of old.
+Was it not you who cut Rahab apart
+and pierced the sea monster?
+v10: Was it not you who dried up the sea,
+the waters of the great deep,
+and made the sea’s depths a road
+for the redeemed to cross?
+v11: Those ransomed by the **LORD** will return
+and come to Zion with singing,
+everlasting joy upon their heads.
+Gladness and joy will overtake them;
+sorrow and sighing will flee.
+v12: “I, I am the one who comforts you.
+Who are you to fear a mortal who dies,
+a human being who becomes grass,
 </p>
 
 <p>
-v13: and have forgotten the LORD your Maker, who stretched forth the heavens, and laid the foundations of the earth;
-and fear continually all the day because of the fury of the oppressor, when he makes ready to destroy? and where is the fury of the oppressor?
-v14: The captive exile will speedily be freed;
-and he will not die and go down into the pit, neither will his bread fail.
-v15: For I am the LORD your God, who stirs up the sea, so that the waves of it roar: the LORD of Hosts is his name.
-v16: I have put my words in your mouth, and have covered you in the shadow of my hand, that I may plant the heavens, and lay the foundations of the earth, and tell Zion, You are my people.
+v13: and forget the **LORD**, your Maker,
+who stretched out the heavens and founded the earth?
+All day long you tremble
+before the oppressor’s fury
+as he prepares to destroy.
+But where is the oppressor’s fury now?
+v14: The one bent down in chains will soon be freed;
+he will not die in the pit
+nor run short of bread.
+v15: I am the **LORD** your God,
+who stirs the sea so its waves roar;
+the **LORD** of hosts is his name.
+v16: I have put my words in your mouth
+and covered you in the shadow of my hand,
+to plant the heavens, to found the earth,
+and to say to Zion, ‘You are my people.’”
 </p>
 
 <p>
-v17: Awake, awake, stand up, Jerusalem, that have drunk at the hand of the LORD the cup of his wrath;
-you have drunken the bowl of the cup of staggering, and drained it.
-v18: There is none to guide her among all the sons whom she has gave birth;
-neither is there any who takes her by the hand among all the sons who she has brought up.
-v19: These two things have happened to you. Who will bemoan you? Desolation and destruction, and the famine and the sword;
-how will I comfort you?
-v20: Your sons have fainted, they lie at the head of all the streets, as an antelope in a net;
-they are full of the wrath of the LORD, the rebuke of your God.
+v17: Rouse yourself, rouse yourself!
+Stand up, Jerusalem,
+you who drank from the **LORD**’s hand
+the cup of his fury.
+You drank the cup that makes people stagger
+and drained its bowl.
+v18: Of all the children she bore,
+not one guides her;
+of all the children she raised,
+not one takes her hand.
+v19: These two calamities have met you—
+who will mourn with you?—
+devastation and destruction, famine and sword.
+How can I comfort you?
+v20: Your children faint;
+they lie at every street corner
+like antelope caught in a net,
+filled with the **LORD**’s fury,
+your God’s rebuke.
 </p>
 
 <p>
-v21: So hear now this, you afflicted, and drunken, but now with wine:
-v22: Thus says your Lord GOD, and your God who pleads the cause of his people, Look, I have taken out of your hand the cup of staggering, even the bowl of the cup of my wrath;
-you will no more drink it again:
-v23: and I will put it into the hand of people who afflict you, who have said to your soul, Bow down, that we may go over;
-and you have laid your back as the ground, and as the street, to people who go over.
+v21: So hear this, afflicted one,
+drunk, but not with wine.
+v22: This is what your Lord, the **LORD**, says,
+your God who argues his people’s case:
+“Look, I have taken from your hand
+the cup that makes people stagger,
+the bowl of my fury.
+You will never drink from it again.
+v23: I will put it into the hands of your tormentors,
+who told you, ‘Lie face down so we can walk over you.’
+You made your back like the ground,
+like a street for them to walk on.”
 </p>
 
 ## Notes
 
-v09: “Rahab” here is a poetic name for a defeated chaos power, not the person named Rahab in Joshua. The sea-dragon imagery recalls divine victory over threatening waters.
-
-v15: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v04: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.
+v06,19: “Die in the same way” can also be understood as “die like gnats.” Verse 19 names two paired calamities, then asks in the first person how to comfort the city.
 
 ## Vocabulary
 
-v09: רַהַב (Rahav)
-“Rahab.” A poetic chaos figure associated with defeated sea power.
+v09: **Rahab**: A sea-monster name in this poem’s image of divine victory, linked in the next verse with the sea crossing.
 
-v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v03: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v04: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.
-
-v03: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v15: **Hosts**: Armies; the title “LORD of hosts” presents God as commander.

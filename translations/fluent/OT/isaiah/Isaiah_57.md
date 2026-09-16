@@ -4,85 +4,115 @@ testament: OT
 chapter: 57
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Idolatry, Peace, and Healing
 
 <p>
-v01: The righteous perish, and no one takes it to heart;
-faithful people are taken away, and no one understands that the righteous are taken away from the presence of evil.
-v02: He enters into peace;
-they rest in their beds, each person who walks in his uprightness.
-v03: But draw near here, you sons of the sorceress, the seed of the adulterer and the prostitute.
-v04: Against whom do you sport yourselves? against whom make you a wide mouth, and put out the tongue? Aren't you children of disobedience, a seed of falsehood,
+v01: The righteous perish, and no one takes it to heart.
+People of faithful love are taken away,
+and no one understands
+that the righteous are taken away from evil.
+v02: They enter peace;
+those who walk uprightly
+rest upon their beds.
+v03: “But you, come here,
+children of a sorceress,
+offspring of an adulterer and a prostitute!
+v04: Whom are you mocking?
+At whom do you open your mouths and stick out your tongues?
+Are you not children of rebellion,
+offspring of falsehood,
 </p>
 
 <p>
-v05: you who inflame yourselves among the oaks, under every green tree;
-who kill the children in the valleys, under the clefts of the rocks?
-v06: Among the smooth stones of the valley is your portion;
-they, they are your lot;
-even to them have you poured a drink offering, you have offered an offering. Will I be appeased for these things?
-v07: On a high and lofty mountain have you set your bed;
-there also you went up to offer sacrifice.
-v08: Behind the doors and the posts have you set up your memorial: for you have uncovered yourself to another than me, and are gone up;
-you have enlarged your bed, and made you a covenant with them: you loved their bed where you saw it.
+v05: you who burn with passion among the oaks,
+under every green tree,
+who slaughter children in the ravines,
+beneath the clefts of the rocks?
+v06: Your portion is among the ravine’s smooth stones;
+they, they are your lot.
+To them you poured drink offerings
+and brought grain offerings.
+Should I relent over these things?
+v07: On a high and lofty mountain
+you placed your bed;
+there too you went up to offer sacrifice.
+v08: Behind the door and doorpost
+you placed your memorial.
+Leaving me, you uncovered yourself and climbed up;
+you widened your bed and made a pact with them.
+You loved their bed;
+you gazed on their nakedness.
 </p>
 
 <p>
-v09: You went to the king with oil, and did increase your perfumes, and did send your ambassadors far off, and did debase yourself even to Sheol.
-v10: You were wearied with the length of your way;
-yet you did not say, It is in vain: you found a reviving of your strength;
-so you were not faint.
-v11: Of whom have you been afraid and in fear, that you lie, and have not remembered me, nor laid it to your heart? Haven't I held my peace even of long time, and you do not fear me?
-v12: I will declare your righteousness;
-and as for your works, they will not profit you.
+v09: You went to the king with oil
+and multiplied your perfumes.
+You sent your envoys far away
+and sank as low as Sheol.
+v10: Your long journey wearied you,
+but you did not say, ‘It is hopeless.’
+You found fresh strength,
+so you did not grow faint.
+v11: Whom did you dread and fear
+that you lied,
+forgot me and gave me no thought?
+Was it because I kept silent so long
+that you did not fear me?
+v12: I will expose your righteousness and your deeds;
+they will not help you.
 </p>
 
 <p>
-v13: When you cry, let people who you have gathered deliver you;
-but the wind will take them, a breath will carry them all away: but the one who takes refuge in me will possess the land, and will inherit my holy mountain.
-v14: He will say, Cast up, cast up, prepare the way, take up the stumbling-block out of the way of my people.
-v15: For thus says the high and exalted One, who inhabits eternity, whose name is Holy: “I dwell in the high and holy place, and also with the crushed and lowly in spirit, to revive the spirit of the lowly and revive the heart of the crushed.
-v16: For I will not contend forever, neither will I be always angry;
-for the spirit would faint before me, and the souls who I have made.
+v13: When you cry out, let your collection rescue you!
+A wind will carry them all away;
+a breath will take them.
+But whoever takes refuge in me will inherit the land
+and possess my holy mountain.”
+v14: And he will say, “Build up, build up! Clear the way!
+Remove every obstacle from my people’s road.”
+v15: For this is what the high and exalted one says,
+who dwells forever, whose name is Holy:
+“I dwell in a high and holy place,
+and with the crushed and lowly in spirit,
+to revive the spirit of the lowly
+and revive the heart of the crushed.
+v16: I will not contend forever
+nor remain angry always,
+for the spirit would faint before me,
+the living breath of those I made.
 </p>
 
 <p>
-v17: For the iniquity of his covetousness was I angry, and struck him;
-I hid my face and was angry;
-and he went on backsliding in the way of his heart.
-v18: I have seen his ways, and will heal him: I will lead him also, and restore comforts to him and to his mourners.
-v19: I create the fruit of the lips: Peace, peace, to the one who is far off and to the one who is near, says the LORD;
-and I will heal him.
-v20: But the wicked are like the troubled sea;
-for it cannot rest, and its waters cast up mire and dirt.
+v17: His sinful greed angered me, and I struck him;
+I hid myself in anger.
+Yet he turned away and followed his own heart.
+v18: I have seen his ways, but I will heal him;
+I will lead him and restore comfort
+to him and to those who mourn for him,
+v19: creating the fruit of lips.
+Peace, peace, to the far and the near,”
+says the **LORD**, “and I will heal him.”
+v20: But the wicked are like a restless sea
+that cannot be still,
+whose waters toss up mud and mire.
 </p>
 
 <p>
-v21: There is no peace, says my God, to the wicked.
+v21: “There is no peace for the wicked,” says my God.
 </p>
 
 ## Notes
 
-v15: Divine transcendence and nearness are placed side by side: the high and holy One also dwells with the crushed and lowly in spirit.
+v08–09: “Nakedness” renders a sexual use of “hand,” though the expression is disputed. “King” follows the pinned vocalization; some understand the deity Molek.
 
-v15: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
-
-v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
-
-v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
+v01,19: Being taken away “from evil” can also mean “because of evil.” The “fruit of lips” pictures a response of speech or praise; the exact words are not supplied.
 
 ## Vocabulary
 
-v08: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v12: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
-
-v15: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
-
-v02: שָׁלוֹם (shalom)
-“Peace,” “wholeness,” or “well-being.”
+v15: **Crushed in spirit**: People brought low inwardly; the high and holy one is said to dwell with them.

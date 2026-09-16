@@ -4,148 +4,215 @@ testament: OT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-1-7-biblical-fluency-2026-09-16
 ---
 
-# Jeremiah 5
+## Searching Jerusalem for faithfulness
 
 <p>
-v01: Roam through the streets of Jerusalem; look, please, and take note. Search her squares: if you can find anyone, if there is one who does justice, who seeks faithfulness, then I will forgive her.
+v01: “Roam Jerusalem’s streets; look and find out!
+Search her squares.
+If you find one person who does justice
+and seeks faithfulness,
+I will forgive her.
 </p>
 
 <p>
-v02: Though they say, “As the LORD lives,” they swear falsely.
+v02: Even when they say, ‘As the **LORD** lives,’
+they swear falsely.”
 </p>
 
 <p>
-v03: LORD, are not your eyes upon faithfulness? You struck them, but they did not grieve; you brought them to an end, but they refused to receive discipline. They made their faces harder than rock; they refused to turn back.
+v03: **LORD**, do your eyes not look for faithfulness?
+You struck them, but they felt no pain;
+you consumed them, but they refused discipline.
+They made their faces harder than rock
+and refused to return.
 </p>
 
 <p>
-v04: Then I said, “Surely these are only the poor; they have acted foolishly, for they do not know the way of the LORD, the justice of their God.
+v04: I thought, “These are only the poor;
+they act foolishly because they do not know
+the **LORD**’s way, their God’s judgment.
 </p>
 
 <p>
-v05: I will go to the great and speak with them, for they know the way of the LORD, the justice of their God.” But they too, together, had broken the yoke; they had torn off the bonds.
+v05: Let me go to the great and speak with them,
+for they know the **LORD**’s way, their God’s judgment.”
+But together they too had broken the yoke
+and torn apart the bonds.
 </p>
 
 <p>
-v06: So a lion from the forest will strike them; a wolf of the desert plains will devastate them. A leopard watches over their cities; everyone who goes out from them will be torn apart. For their rebellions are many; their turnings away are great.
+v06: So a lion from the forest will strike them,
+a wolf from the deserts will devastate them,
+and a leopard will watch their cities.
+Everyone leaving them will be torn apart,
+for their rebellions are many
+and their turning away is great.
 </p>
 
 <p>
-v07: “Why should I forgive you? Your children have forsaken me and have sworn by what is not God. I satisfied them, and they committed adultery; they crowd into the house of a prostitute.
+v07: “How can I forgive you?
+Your children abandoned me
+and swore by what are not gods.
+I fed them fully, but they committed adultery
+and crowded into a prostitute’s house.
 </p>
 
 <p>
-v08: They are well-fed, lustful stallions; each person neighs after the wife of a neighbor.
+v08: They were well-fed, lustful stallions,
+each neighing after his neighbor’s wife.
 </p>
 
 <p>
-v09: Should I not punish for these things?” declares the LORD. “Should I not take vengeance on a nation like this?”
+v09: Should I not call them to account for this?” declares the **LORD**.
+“Should I not take vengeance on a nation like this?
 </p>
 
 <p>
-v10: “Go up among her vine rows and destroy, but do not make a full end. Strip away her branches, for they do not belong to the LORD.
+v10: Climb through her vine rows and destroy,
+but do not make a complete end.
+Strip off her shoots,
+for they do not belong to the **LORD**.
 </p>
 
 <p>
-v11: For the house of Israel and the house of Judah have utterly betrayed me,” declares the LORD.
+v11: For the house of Israel and the house of Judah
+have thoroughly betrayed me,” declares the **LORD**.
 </p>
 
 <p>
-v12: They have denied LORD and said, “He is nothing. No evil will come upon us; we will not see sword or famine.
+v12: They have denied the **LORD**, saying,
+“It is not he! Disaster will not come upon us;
+we will see neither sword nor famine.
 </p>
 
 <p>
-v13: The prophets will become wind, and the word is not in them. Thus it will be done to them.”
+v13: The prophets will become wind;
+the word is not in them.
+Let this happen to them!”
 </p>
 
 <p>
-v14: So, thus says the LORD, God of hosts: “Because you speak this word, look, I am making my words fire in your mouth, and this people wood; the fire will consume them.
+v14: So this is what the **LORD**, God of hosts, says:
+“Because you have said this,
+look, I am making my words in your mouth fire
+and this people wood.
+The fire will consume them.
 </p>
 
 <p>
-v15: Look, I am bringing against you a nation from far away, house of Israel,” declares the LORD. “It is an enduring nation; it is a nation from ancient time. It is a nation whose language you do not know, and you will not understand what it speaks.
+v15: Look, I am bringing a nation from far away against you,
+house of Israel,” declares the **LORD**.
+“It is an enduring nation, an ancient nation,
+a nation whose language you do not know,
+whose speech you cannot understand.
 </p>
 
 <p>
-v16: Its quiver is like an open grave; all of them are warriors.
+v16: Its quiver is an open grave;
+all its men are warriors.
 </p>
 
 <p>
-v17: It will consume your harvest and your bread; they will consume your sons and your daughters. It will consume your flock and your herd; it will consume your vine and your fig tree. With the sword it will crush your fortified cities in which you trust.
+v17: It will devour your harvest and your bread,
+devour your sons and daughters,
+devour your flocks and cattle,
+devour your vines and fig trees.
+With the sword it will shatter
+the fortified cities you trust.
 </p>
 
 <p>
-v18: “But even in those days,” declares the LORD, “I will not make a full end of you.
+v18: Yet even in those days,” declares the **LORD**, “I will not make a complete end of you.
 </p>
 
 <p>
-v19: And when you ask, ‘Why has the LORD our God done all these things to us?’ then you will say to them, ‘As you forsook me and served foreign gods in your land, so you will serve strangers in a land that is not yours.’
+v19: “When you ask, ‘Why has the **LORD** our God done all this to us?’ tell them, ‘As you abandoned me and served foreign gods in your own land, so you will serve foreigners in a land not your own.’
+</p>
+
+## A people who will not listen
+
+<p>
+v20: “Announce this in the house of Jacob;
+proclaim it in Judah:
 </p>
 
 <p>
-v20: Declare this in the house of Jacob; proclaim it in Judah, saying:
+v21: ‘Hear this, foolish people without sense,
+who have eyes but do not see,
+ears but do not hear.
 </p>
 
 <p>
-v21: “Hear this, please, foolish people without understanding, who have eyes but do not see, who have ears but do not hear.
+v22: Do you not fear me?’ declares the **LORD**.
+‘Will you not tremble before me,
+who set sand as the sea’s boundary,
+an everlasting limit it cannot cross?
+Its waves surge, but cannot prevail;
+they roar, but cannot cross it.
 </p>
 
 <p>
-v22: Will you not fear me?” declares the LORD. “Will you not tremble before me—I who set the sand as a boundary for the sea, an enduring decree that it cannot cross? Though its waves rage, they cannot prevail; though they roar, they cannot cross it.
+v23: But this people has a stubborn, rebellious heart;
+they turned aside and went away.
 </p>
 
 <p>
-v23: But this people has a stubborn and rebellious heart. They have turned aside and gone away.
+v24: They do not say in their hearts,
+“Let us fear the **LORD** our God,
+who gives rain in its season, autumn and spring rain,
+and keeps for us the appointed weeks of harvest.”
 </p>
 
 <p>
-v24: They do not say in their heart, ‘Let us fear the LORD our God, who gives rain—the early rain and the latter rain—in its season, who keeps for us the appointed weeks of harvest.’
+v25: Your offenses have turned these away;
+your sins have kept good things from you.
 </p>
 
 <p>
-v25: Your iniquities have turned these away, and your sins have withheld good from you.
+v26: For wicked people are found among my people.
+They lie in wait like crouching birdcatchers;
+they set a trap and catch human beings.
 </p>
 
 <p>
-v26: For wicked people are found among my people. They watch, crouching like bird-catchers; they set a destructive trap; they catch people.
+v27: Like a cage full of birds,
+their houses are full of deceit.
+That is how they became great and rich.
 </p>
 
 <p>
-v27: Like a cage full of birds, so their houses are full of deceit. Therefore they have become great and rich.
+v28: They have grown fat and sleek;
+their evil knows no bounds.
+They do not judge the orphan’s case to secure justice,
+and they do not defend the poor person’s rights.
 </p>
 
 <p>
-v28: They have grown fat; they are sleek. They have gone beyond deeds of evil. They do not judge the case—the case of the orphan—yet they prosper; and they do not uphold the justice of the needy.
+v29: Should I not call them to account for this?’ declares the **LORD**.
+‘Should I not take vengeance on a nation like this?’
 </p>
 
 <p>
-v29: Should I not punish for these things?” declares the LORD. “Should I not take vengeance on a nation like this?”
+v30: “An appalling, horrible thing has happened in the land:
 </p>
 
 <p>
-v30: A shocking and horrible thing has happened in the land:
-</p>
-
-<p>
-v31: The prophets prophesy falsely, and the priests rule by their own authority; and my people love it so. But what will you do when its end comes?
+v31: prophets prophesy falsely,
+priests rule at their direction,
+and my people love it this way.
+But what will you do when the end comes?”
 </p>
 
 ## Notes
 
-
+v10,28,31: Verse 10’s vine rows can also be understood as walls. Verse 28’s prospering may describe the orphan’s successful case or the wrongdoers’ prosperity. Verse 31 may describe priests acting under the prophets’ direction or by their own authority.
 
 ## Vocabulary
 
-v01: אֱמוּנָה (’emunah)
-“faithfulness.” In this chapter it is what Yahweh seeks in Jerusalem and what Yahweh’s eyes are directed toward in v3; it denotes reliable covenantal integrity, not merely inward belief.
-
-v03: מוּסָר (musar)
-“discipline.” The people refuse to receive the corrective instruction conveyed through suffering, deepening their hardened resistance.
-
-v05: עֹל (‘ol)
-“yoke.” Together with “bonds,” it depicts the people’s rejection of Yahweh’s ordering claim upon their life.
-
-v28: מִשְׁפָּט (mishpat)
-“justice” or “judgment.” Here it concerns concrete legal protection for those without power, especially the orphan and the needy.
+v19: **Serve**: The same verb links serving foreign gods at home with serving foreigners in exile.

@@ -4,61 +4,66 @@ testament: OT
 chapter: 64
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## A Prayer for the LORD to Come Down
 
 <p>
-v01: Oh, that you would tear open the heavens and come down, so that the mountains might quake at your presence—
-v02: as when fire kindles the brushwood, and the fire causes the waters to boil;
-to make your name known to your adversaries, that the nations may tremble at your presence!
-v03: When you did terrible things which we did not look for, you came down, the mountains quaked at your presence.
-v04: For from of old men have not heard, nor perceived by the ear, neither has the eye seen a God besides you, who works for the one who waits for him.
+v01: If only you would tear open the heavens and come down,
+so the mountains would quake before you!
+v02: As fire ignites brushwood,
+as fire makes water boil,
+make your name known to your adversaries,
+so nations tremble before you.
+v03: When you did awesome things we did not expect,
+you came down, and mountains quaked before you.
+v04: From ancient times no one has heard,
+no ear has perceived, no eye has seen
+a God besides you
+who acts for those who wait for him.
 </p>
 
 <p>
-v05: You meet the one who rejoices and works righteousness, people who remember you in your ways: look, you were angry, and we sinned: in them have we been of long time;
-and will we be saved?
-v06: For we have all become as one who is unclean, and all our righteousness is as a polluted garment: and we all fade as a leaf;
-and our iniquities, like the wind, take us away.
-v07: There is none who calls on your name, who stirs up himself to take hold of you;
-for you have hid your face from us, and have consumed us by means of our iniquities.
-v08: But now, the LORD, you are our Father;
-we are the clay, and you our potter;
-and we all are the work of your hand.
+v05: You meet those who rejoice and do righteousness,
+who remember you in your ways.
+Look, you were angry, and we sinned;
+we have long been in them—can we be saved?
+v06: All of us have become like someone unclean;
+all our righteous deeds are like a menstrual cloth.
+All of us wither like a leaf,
+and our offenses carry us away like wind.
+v07: No one calls on your name
+or stirs themselves to take hold of you,
+for you have hidden your face from us
+and made us melt under the power of our offenses.
+v08: Yet now, **LORD**, you are our Father.
+We are the clay, and you are our potter;
+all of us are the work of your hand.
 </p>
 
 <p>
-v09: Don't be furious, the LORD, neither remember iniquity forever: see, look, we beg you, we are all your people.
-v10: Your holy cities are become a wilderness, Zion is become a wilderness, Jerusalem a desolation.
-v11: Our holy and our beautiful house, where our fathers praised you, is burned with fire;
-and all our pleasant places are laid waste.
-v12: Will you refrain yourself for these things, the LORD? will you hold your peace, and afflict us very sore?
+v09: Do not be so deeply angry, **LORD**;
+do not remember guilt forever.
+Please look: all of us are your people.
+v10: Your holy cities have become wilderness;
+Zion has become wilderness,
+Jerusalem a desolation.
+v11: Our holy and glorious house,
+where our ancestors praised you,
+has been burned with fire;
+all we treasured lies in ruins.
+v12: In the face of all this, will you hold back, **LORD**?
+Will you stay silent and afflict us so deeply?
 </p>
 
 ## Notes
 
-v06: The Hebrew image commonly rendered “filthy rags” uses language associated with menstrual cloth. TSW should preserve the force without turning ritual imagery into contempt for the body.
-
-v10: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
-
-v05: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
+v01,05: Public 64:1 is the latter part of Hebrew 63:19; subsequent public labels in this chapter are one higher than Hebrew labels. Verse 5’s “in them” is difficult and may refer back to ways or sins; its question about salvation is not resolved here.
 
 ## Vocabulary
 
-v06: טָמֵא (tame)
-“Unclean.” Ritual and moral impurity language used within the communal confession.
-
-v10: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v10: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v02: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v05: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
+v06: **Menstrual cloth**: An image of ritual impurity, retained in the community’s confession rather than generalized to dirt.

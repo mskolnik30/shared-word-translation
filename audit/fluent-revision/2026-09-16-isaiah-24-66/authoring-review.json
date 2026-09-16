@@ -1,0 +1,17 @@
+{
+  "scope": "Isaiah 24–66, all 851 verses.",
+  "status": "DRAFT_COMPLETED",
+  "method": "Every selected original Hebrew record and all annotations read before independently drafting. All TSW comparator verses read afterward. Every verse has an individually authored rationale. No synonym-substitution engine or change quota used.",
+  "original_source_records_read": 850,
+  "public_verse_labels": 851,
+  "tsw_comparator_verses_read": 851,
+  "focused_source_english_reread": 140,
+  "focused_evidence": "focused-comparisons.json",
+  "qualification": "Authoring reread by the drafting agent; not independent scholarly approval.",
+  "structural_verification": "../2026-09-16-prophets-50/verification.json",
+  "independent_editorial_status": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "companion_impact": "Quotations and bindings for changed chapters require later reconciliation. Companion not modified.",
+  "comparator_limitations": "Normalized whole-verse overlap is triage only, not proof of fidelity, originality, or comprehension."
+}

@@ -4,61 +4,93 @@ testament: OT
 chapter: 58
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Fast the LORD Chooses
 
 <p>
-v01: Cry aloud, do not spare, lift up your voice like a trumpet, and declare to my people their disobedience, and to the house of Jacob their sins.
-v02: Yet they seek me daily, and delight to know my ways: as a nation that did righteousness, and did not forsake the ordinance of their God, they ask of me righteous judgments;
-they delight to draw near to God.
-v03: Why have we fasted, say they, and you do not see? why have we afflicted our soul, and you take no knowledge? Look, in the day of your fast you find your own pleasure, and exact all your labors.
-v04: Look, you fast for strife and contention, and to strike with the fist of wickedness: you do not fast this day so as to make your voice to be heard on high.
+v01: “Cry out with a full throat; do not hold back!
+Raise your voice like a ram’s horn.
+Tell my people their rebellion,
+the house of Jacob their sins.
+v02: Day after day they seek me
+and delight in knowing my ways,
+as though they were a nation that did righteousness
+and had not abandoned its God’s justice.
+They ask me for righteous judgments
+and delight in drawing near to God.
+v03: ‘Why have we fasted, and you have not seen?
+Why humbled ourselves, and you have not noticed?’
+Look, on your fast day you pursue your own interests
+and drive all your workers hard.
+v04: Look, you fast only to quarrel and fight
+and strike with a wicked fist.
+Fasting as you do today
+will not make your voice heard on high.
 </p>
 
 <p>
-v05: Is such the fast that I have chosen? the day for a man to afflict his soul? Is it to bow down his head as a rush, and to spread sackcloth and ashes under him? will you call this a fast, and an acceptable day to the LORD?
-v06: Is not this the fast that I choose: to loose the bonds of wickedness, undo the straps of the yoke, let the oppressed go free, and break every yoke?
-v07: Is it not to share your bread with the hungry, bring the homeless poor into your house, when you see the naked, cover them, and not hide yourself from your own flesh?
-v08: Then your light will break forth like the dawn, and your healing will spring up quickly;
-your righteousness will go before you, and the glory of the LORD will guard your rear.
+v05: Is this the fast I choose,
+a day for people to humble themselves?
+Is it bowing the head like a reed
+and spreading sackcloth and ashes?
+Do you call this a fast,
+a day acceptable to the **LORD**?
+v06: Is not this the fast I choose:
+to loosen the bonds of wickedness,
+undo the straps of the yoke,
+release the oppressed,
+and break every yoke?
+v07: Is it not sharing your bread with the hungry,
+bringing the homeless poor into your house,
+clothing the naked when you see them,
+and not hiding from your own flesh and blood?
+v08: Then your light will break out like dawn,
+and your healing will spring up quickly.
+Your righteousness will go before you;
+the **LORD**’s glory will guard your rear.
 </p>
 
 <p>
-v09: Then will you call, and the LORD will answer;
-you will cry, and he will say, Here I am. If you take away from the midst of you the yoke, the putting forth of the finger, and speaking wickedly;
-v10: and if you draw out your soul to the hungry, and satisfy the afflicted soul: then will your light rise in darkness, and your obscurity be as the noonday;
-v11: and the LORD will guide you continually, and satisfy your soul in dry places, and make strong your bones;
-and you will be like a watered garden, and like a spring of water, whose waters do not fail.
-v12: People who will be of you will build the old waste places;
-you will raise up the foundations of many generations;
-and you will be called The repairer of the breach, The restorer of paths to dwell in.
+v09: Then you will call, and the **LORD** will answer;
+you will cry for help, and he will say, ‘Here I am.’
+If you remove the yoke from among you,
+the pointing finger and harmful speech,
+v10: if you pour yourself out for the hungry
+and satisfy the afflicted,
+your light will rise in darkness,
+and your gloom will be like noon.
+v11: The **LORD** will guide you continually,
+satisfy you in parched places and strengthen your bones.
+You will be like a watered garden,
+like a spring whose waters never fail.
+v12: Your people will rebuild ancient ruins;
+you will raise foundations laid generations ago.
+You will be called Repairer of the Breach,
+Restorer of Streets to Live In.
 </p>
 
 <p>
-v13: If you turn away your foot from the Sabbath, from doing your pleasure on my holy day;
-and call the Sabbath a delight, and the holy of the LORD honorable;
-and will honor it, not doing your own ways, nor finding your own pleasure, nor speaking your own words:
-v14: then will you delight yourself in the LORD;
-and I will make you to ride on the high places of the earth;
-and I will feed you with the heritage of Jacob your father: for the mouth of the LORD has spoken it.
+v13: If you restrain your foot on the Sabbath
+from pursuing your own interests on my holy day,
+if you call the Sabbath a delight
+and the **LORD**’s holy day honorable,
+if you honor it by not following your own ways,
+pursuing your own interests or talking business,
+v14: then you will delight in the **LORD**.
+I will make you ride on the heights of the land
+and feed you with the inheritance of Jacob your father.”
+For the **LORD**’s mouth has spoken.
 </p>
 
 ## Notes
 
-v06: The chapter redefines fasting through release from oppression, material sharing, and restored social relationship rather than ritual deprivation alone.
-
-v02: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
-
-v08: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
+v03,10,13: The fast is criticized alongside exploitation of workers. Verse 10 says to give oneself, not simply food. “Talking business” in verse 13 interprets a broad expression, literally “speaking a word.”
 
 ## Vocabulary
 
-v06: צוֹם (tsom)
-“Fast.” Ritual abstinence reoriented toward justice and release from oppression.
-
-v02: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
-
-v08: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
+v06: **Yoke**: A wooden harness for working animals, used here for oppressive restraints imposed on people.

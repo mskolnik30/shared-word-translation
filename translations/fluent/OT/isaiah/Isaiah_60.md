@@ -4,91 +4,122 @@ testament: OT
 chapter: 60
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Arise, Shine
 
 <p>
-v01: Arise, shine, for your light has come, and the glory of the LORD has risen upon you.
-v02: For look, darkness covers the earth and deep darkness the peoples, but the LORD rises upon you, and the LORD’s glory appears over you.
-v03: Nations will come to your light, and kings to the brightness of your rising.
-v04: Lift up your eyes round about, and see: they all gather themselves together, they come to you;
-your sons will come from far, and your daughters will be carried in the arms.
+v01: Rise, shine, for your light has come!
+The **LORD**’s glory has risen upon you.
+v02: Look, darkness covers the earth
+and thick gloom the peoples,
+but the **LORD** rises upon you,
+and his glory appears over you.
+v03: Nations will walk toward your light,
+and kings toward the brightness of your dawn.
+v04: Lift your eyes and look around:
+they have all gathered and come to you.
+Your sons come from far away;
+your daughters are carried on the hip.
 </p>
 
 <p>
-v05: Then you will see and be radiant, and your heart will thrill and be enlarged;
-because the abundance of the sea will be turned to you, the wealth of the nations will come to you.
-v06: The multitude of camels will cover you, the dromedaries of Midian and Ephah;
-all they from Sheba will come;
-they will bring gold and frankincense, and will proclaim the praises of the LORD.
-v07: All the flocks of Kedar will be gathered together to you, the rams of Nebaioth will minister to you;
-they will come up with acceptance on my altar;
-and I will glorify the house of my glory.
-v08: Who are these who fly as a cloud, and as the doves to their windows?
+v05: Then you will see and beam with joy;
+your heart will tremble and open wide.
+For the sea’s abundance will turn toward you;
+the nations’ wealth will come to you.
+v06: A flood of camels will cover you,
+young camels from Midian and Ephah.
+They will all come from Sheba,
+carrying gold and frankincense
+and proclaiming the **LORD**’s praises.
+v07: All Kedar’s flocks will gather to you;
+Nebaioth’s rams will serve you.
+They will rise as acceptable offerings on my altar,
+and I will glorify my glorious house.
+v08: Who are these flying like a cloud,
+like doves to their windows?
 </p>
 
 <p>
-v09: Surely the islands will wait for me, and the ships of Tarshish first, to bring your sons from far, their silver and their gold with them, for the name of the LORD your God, and for the Holy One of Israel, because he has glorified you.
-v10: Foreigners will build up your walls, and their kings will minister to you: for in my wrath I struck you, but in my favor have I had mercy on you.
-v11: Your gates also will be open continually;
-they will not be shut day nor night;
-that men may bring to you the wealth of the nations, and their kings led captive.
-v12: For that nation and kingdom that will not serve you will perish;
-yes, those nations will be utterly wasted.
+v09: For the coastlands wait for me,
+with Tarshish’s ships in the lead,
+to bring your sons from far away,
+their silver and gold with them,
+for the name of the **LORD** your God,
+Israel’s Holy One, who has glorified you.
+v10: Foreigners will rebuild your walls,
+and their kings will serve you.
+In my anger I struck you,
+but in my favor I have compassion on you.
+v11: Your gates will always stand open;
+day and night they will not close,
+so the nations’ wealth may be brought to you,
+with their kings led in procession.
+v12: For the nation or kingdom that will not serve you will perish;
+those nations will be utterly devastated.
 </p>
 
 <p>
-v13: The glory of Lebanon will come to you, the fir tree, the pine, and the box tree together, to beautify the place of my sanctuary;
-and I will make the place of my feet glorious.
-v14: The sons of people who afflicted you will come bending to you;
-and all people who despised you will bow themselves down at the soles of your feet;
-and they will call you The city of the LORD, The Zion of the Holy One of Israel.
-v15: Whereas you have been forsaken and hated, so that no man passed through you, I will make you an eternal excellency, a joy of many generations.
-v16: You will also suck the milk of the nations, and will suck the breast of kings;
-and you will know that I, the LORD, am your Savior, and your Redeemer, the Mighty One of Jacob.
+v13: Lebanon’s glory will come to you,
+cypress, plane and pine together,
+to beautify my sanctuary’s place.
+I will glorify the place of my feet.
+v14: The children of those who afflicted you
+will come bowing before you.
+All who despised you will bow at your feet
+and call you the **LORD**’s City,
+Zion of Israel’s Holy One.
+v15: Once abandoned and hated,
+with no one passing through,
+I will make you an everlasting pride,
+a joy from generation to generation.
+v16: You will suck the milk of nations
+and nurse at kings’ breasts.
+Then you will know that I am the **LORD**, your Savior,
+your Redeemer, the Mighty One of Jacob.
 </p>
 
 <p>
-v17: For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron. I will also make your officers peace, and righteousness your ruler.
-v18: Violence will no more be heard in your land, desolation nor destruction within your borders;
-but you will call your walls Salvation, and your gates Praise.
-v19: The sun will be no more your light by day;
-neither for brightness will the moon give light to you: but the LORD will be to you an everlasting light, and your God your glory.
-v20: Your sun will no more go down, neither will your moon withdraw itself;
-for the LORD will be your everlasting light, and the days of your mourning will be ended.
+v17: Instead of bronze I will bring gold;
+instead of iron, silver;
+instead of wood, bronze;
+instead of stone, iron.
+I will appoint Peace as your overseer
+and Righteousness as your taskmaster.
+v18: Violence will no longer be heard in your land,
+nor devastation and destruction within your borders.
+You will call your walls Salvation
+and your gates Praise.
+v19: The sun will no longer be your light by day,
+nor the moon give you brightness.
+The **LORD** will be your everlasting light,
+and your God your glory.
+v20: Your sun will never again set,
+nor your moon withdraw,
+for the **LORD** will be your everlasting light,
+and your days of mourning will end.
 </p>
 
 <p>
-v21: Your people also will be all righteous;
-they will inherit the land forever, the branch of my planting, the work of my hands, that I may be glorified.
-v22: The little one will become a thousand, and the small one a strong nation;
-I, the LORD, will hasten it in its time.
+v21: All your people will be righteous;
+they will possess the land forever—
+a shoot I planted, the work of my hands,
+that I may be glorified.
+v22: The smallest will become a thousand,
+the least a mighty nation.
+I am the **LORD**;
+at its time I will hasten it.
 </p>
 
 ## Notes
 
-v01: Zion’s light is not self-generated; it is the reflected arrival of the LORD’s glory upon a city previously associated with darkness and humiliation.
-
-v09: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v16: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.
-
-v14: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
+v11–12,16: The vision includes kings led in, destruction of nations that refuse service, and nursing at kings’ breasts. Those forceful and unusual images are retained.
 
 ## Vocabulary
 
-v01: אוֹר (or)
-“Light.” The central image of Zion illuminated by the LORD’s glory.
-
-v09: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v16: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v14: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v14: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v18: **Salvation and Praise**: Names given to the restored city’s walls and gates.

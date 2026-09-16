@@ -4,204 +4,133 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-1-7-biblical-fluency-2026-09-16
 ---
 
-# Jeremiah 4
+## Return and prepare
 
 <p>
-v01: “If you return, Israel,” declares the LORD,
-“if you return to me,
-and if you remove your detestable things from before me
-and do not wander,
-
-v02: if you swear, ‘As the LORD lives,’
-in faithfulness, justice, and righteousness,
-then nations will bless themselves in him,
-and in him they will boast.”
-
-v03: For thus says the LORD
-to the people of Judah and to Jerusalem:
-
-“Break up for yourselves unplowed ground;
+v01: “If you return, Israel,” declares the **LORD**,
+“return to me.
+If you remove your offensive things from my sight
+and cease wandering,
+v02: and swear, ‘As the **LORD** lives,’
+in truth, justice and righteousness,
+then nations will bless themselves by him
+and boast in him.”
+v03: For this is what the **LORD** says to the men of Judah and to Jerusalem:
+“Break up your unplowed ground;
 do not sow among thorns.
-
-v04: Circumcise yourselves to the LORD;
+v04: Circumcise yourselves to the **LORD**;
 remove the foreskins of your hearts,
-people of Judah and inhabitants of Jerusalem,
-lest my wrath go out like fire
+men of Judah and inhabitants of Jerusalem,
+or my fury will burst out like fire
 and burn with no one to quench it,
-because of the evil of your deeds.”
-
-v05: Declare in Judah,
-and proclaim in Jerusalem;
-say, “Sound the ram’s horn in the land!”
-Cry aloud and say,
-“Gather yourselves,
-and let us go into the fortified cities!”
-
-v06: Raise a signal toward Zion.
-Flee for safety; do not stand still,
-for I am bringing disaster from the north,
-and great destruction.
-
-v07: A lion has risen from its thicket;
+because of your evil deeds.”
+v05: Announce in Judah, proclaim in Jerusalem:
+“Blow the ram’s horn through the land!”
+Cry out at full voice:
+“Gather! Let us enter the fortified cities!”
+v06: Raise a banner toward Zion!
+Seek safety; do not delay!
+For I am bringing disaster from the north,
+great destruction.
+v07: A lion has come out of his thicket;
 a destroyer of nations has set out.
-It has gone from its place
-to make your land a wasteland.
-Your cities will be ruined,
-without inhabitant.
-
-v08: For this, put on sackcloth;
-mourn and wail,
-for the burning anger of the LORD
+He has left his place to devastate your land;
+your cities will become ruins without inhabitants.
+v08: So put on sackcloth, mourn and howl,
+for the **LORD**’s burning anger
 has not turned away from us.
-
-v09: “And it will happen on that day,” declares the LORD,
-“that the heart of the king will fail,
-and the heart of the officials;
-the priests will be appalled,
-and the prophets astonished.”
-
-v10: Then I said, “Ah, Lord GOD!
-Surely you have utterly deceived this people and Jerusalem,
-saying, ‘You will have peace,’
-while the sword reaches to the very life.”
-
-v11: At that time it will be said
-to this people and to Jerusalem:
-
-“A scorching wind from the bare heights in the wilderness
+v09: “On that day,” declares the **LORD**,
+“the king and officials will lose heart;
+priests will be appalled,
+and prophets stunned.”
+v10: Then I said, “Ah, Lord **GOD**! You have surely deceived this people and Jerusalem, saying, ‘You will have peace,’ while the sword reaches our very lives!”
+v11: At that time this people and Jerusalem will be told,
+“A scorching wind from the wilderness’s bare heights
 comes toward the daughter of my people,
-not for winnowing
-and not for cleansing.
+not to winnow, not to clean—
+v12: a wind too strong for that comes at my command.
+Now I too will pronounce judgments against them.”
+v13: Look, he rises like clouds,
+his chariots like a whirlwind,
+his horses swifter than eagles.
+“Woe to us! We are ruined!”
+v14: Wash the evil from your heart, Jerusalem,
+so you may be saved.
+How long will your harmful thoughts lodge within you?
+v15: A voice announces news from Dan,
+proclaims disaster from Ephraim’s hills.
+v16: “Notify the nations!
+Look, proclaim against Jerusalem:
+besiegers are coming from a distant land;
+they raise their voices against Judah’s cities.
+v17: Like guards around a field, they surround her,
+because she has rebelled against me,” declares the **LORD**.
+v18: “Your way and your deeds have brought this upon you.
+This is your bitter disaster;
+it reaches your very heart.”
+</p>
 
-v12: A wind too full for these will come at my command.
-Now I too will speak judgments against them.”
+## The earth comes undone
 
-v13: Look, he comes up like clouds;
-his chariots are like a storm wind.
-His horses are swifter than eagles.
-
-Woe to us,
-for we are devastated!
-
-v14: Wash evil from your heart, Jerusalem,
-so that you may be saved.
-How long will thoughts of wickedness
-lodge within you?
-
-v15: For a voice declares from Dan
-and announces disaster from the hill country of Ephraim.
-
-v16: Warn the nations:
-“Look! Proclaim against Jerusalem:
-besiegers are coming from a distant land.
-They raise their voices
-against the cities of Judah.
-
-v17: Like guards around a field
-they are against her on every side,
-for she has rebelled against me,”
-declares the LORD.
-
-v18: Your way and your deeds
-have brought this upon you.
-This is your evil: how bitter it is,
-how it reaches to your heart!
-
-v19: My inward parts, my inward parts! I writhe!
-The walls of my heart!
-My heart roars within me.
-I cannot be silent,
-for I have heard the sound of the ram’s horn,
-the alarm of war.
-
-v20: Crash upon crash is proclaimed,
-for all the land is devastated.
-Suddenly my tents are devastated,
-in an instant my tent curtains.
-
-v21: How long must I see the signal,
-must I hear the sound of the ram’s horn?
-
-v22: “For my people are foolish;
-they do not know me.
-They are foolish children,
-and they have no understanding.
-They are wise in doing evil,
-but they do not know how to do good.”
-
-v23: I looked at the earth—
-and look: waste and emptiness;
-and to the heavens—
-and they had no light.
-
-v24: I looked at the mountains—
-and look: they were shaking;
-all the hills
-were swaying.
-
-v25: I looked—
-and look: there was no human being,
-and every bird of the heavens
-had fled.
-
-v26: I looked—
-and look: the fertile land was a wilderness,
-and all its cities were torn down
-before the LORD,
-before his burning anger.
-
-v27: For thus says the LORD:
-
-“The whole land will become a desolation,
-yet I will not make a full end.
-
-v28: Because of this the earth will mourn,
-and the heavens above will grow dark;
-for I have spoken, I have purposed.
-I have not relented,
-and I will not turn back from it.”
-
-v29: At the sound of horseman and archer
+<p>
+v19: My insides, my insides! I writhe!
+The walls of my heart! My heart pounds within me.
+I cannot keep silent,
+for you have heard, my soul,
+the ram’s horn and the battle cry.
+v20: Destruction upon destruction is announced;
+the whole land is devastated.
+Suddenly my tents are destroyed,
+my curtains in a moment.
+v21: How long must I see the banner
+and hear the ram’s horn?
+v22: “My people are foolish; they do not know me.
+They are senseless children without understanding.
+They are wise at doing evil,
+but do not know how to do good.”
+v23: I looked at the earth: it was unformed and empty;
+at the heavens: their light was gone.
+v24: I looked at the mountains: they were quaking;
+all the hills were shaking.
+v25: I looked: there was no human being;
+all the birds of the heavens had fled.
+v26: I looked: the fruitful land was wilderness;
+all its cities lay demolished
+before the **LORD**, before his burning anger.
+v27: For this is what the **LORD** says:
+“The whole land will become desolate,
+but I will not make a complete end.
+v28: For this the earth will mourn
+and the heavens above grow dark.
+I have spoken; I have resolved it.
+I have not relented and will not turn back.”
+v29: At the sound of horsemen and archers,
 every city flees.
-They enter the thickets
-and climb among the rocks.
-Every city is abandoned,
-and no one lives in them.
-
-v30: And you, devastated one, what will you do?
-Though you dress in scarlet,
-though you adorn yourself with ornaments of gold,
-though you enlarge your eyes with antimony,
-in vain you make yourself beautiful.
-Your lovers reject you;
-they seek your life.
-
-v31: For I hear a voice like that of a woman in labor,
-distress like that of one giving birth to her first child—
-the voice of Daughter Zion,
-gasping for breath, spreading out her hands:
-
-“Woe is me!
-For my life grows faint
-before killers.”
+They enter thickets and climb among rocks.
+Every city is abandoned;
+not a person lives in them.
+v30: And you, devastated one, what are you doing?
+Though you dress in scarlet and adorn yourself with gold,
+though you widen your eyes with dark paint,
+you make yourself beautiful for nothing.
+Your lovers despise you; they seek your life.
+v31: I hear a voice like a woman in labor,
+distress like one bearing her first child—
+the voice of Daughter Zion, gasping,
+spreading out her hands:
+“Woe to me! My life is failing before killers!”
 </p>
 
 ## Notes
 
-
+v10,19: The prophet directly accuses God of deception in verse 10; the draft does not reassign those words. Verse 19 follows the recorded “you have heard,” addressed to the speaker’s own soul.
 
 ## Vocabulary
 
-v02: אֱמֶת (’emet)
-“Faithfulness” or “truth.” Here it belongs with justice and righteousness as the character required for invoking the LORD’s name.
-
-v04: עׇרְלָה (‘orlah)
-“Foreskin.” The removal of the heart’s “foreskins” extends covenant circumcision into a call for inward responsiveness and obedience.
-
-v10: שָׁלוֹם (shalom)
-“Peace,” encompassing well-being and security. Its promise is sharply contradicted by the sword that reaches “to the very life.”
-
-v14: אָוֶן (’aven)
-“Wickedness,” often carrying the sense of harmful wrongdoing or iniquity. It is pictured as lodging within Jerusalem’s heart.
+v23: **Formless and empty**: Tohu wa-vohu echoes Genesis 1:2. The following loss of light, people, birds and fruitful land portrays creation coming undone.

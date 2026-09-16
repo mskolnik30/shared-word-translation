@@ -4,64 +4,82 @@ testament: OT
 chapter: 38
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Hezekiah's Illness and Recovery
 
 <p>
-v01: In those days was Hezekiah sick and near death. Isaiah the prophet, the son of Amoz, came to him, and said to him, "Thus says the LORD, 'Set your house in order, for you will die, and not live.'"
-v02: Then Hezekiah turned his face to the wall and prayed to the LORD,
-v03: and said, "Remember now, the LORD, I beg you, how I have walked before you in truth and with a perfect heart, and have done what is good in your sight." Hezekiah wept bitterly.
-v04: Then the word of the LORD came to Isaiah, saying,
-v05: "Go, and tell Hezekiah, 'Thus says the LORD, the God of David your father, "I have heard your prayer. I have seen your tears. Look, I will add fifteen years to your life.
+v01: In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came and told him, “The **LORD** says: Put your household in order, for you will die; you will not recover.”
+v02: Hezekiah turned his face to the wall and prayed to the **LORD**.
+v03: “Please, **LORD**,” he said, “remember how I have walked before you faithfully, with a whole heart, and done what is good in your sight.” Hezekiah wept bitterly.
+v04: Then the **LORD**’s word came to Isaiah:
+v05: “Go and tell Hezekiah: The **LORD**, the God of your ancestor David, says: I have heard your prayer and seen your tears. Look, I am adding fifteen years to your life.
 </p>
 
 <p>
-v06: I will deliver you and this city out of the hand of the king of Assyria, and I will defend this city.
-v07: This will be the sign to you from the LORD, that the LORD will do this thing that he has spoken.
-v08: Look, I will cause the shadow on the sundial, which has gone down on the sundial of Ahaz with the sun, to return backward ten steps. So the sun returned ten steps on the sundial on which it had gone down."'"
-v09: The writing of Hezekiah king of Judah, when he had been sick, and had recovered of his sickness.
-v10: I said, "In the middle of my life I go into the gates of Sheol. I am deprived of the residue of my years."
+v06: I will rescue you and this city from the king of Assyria’s hand, and I will shield this city.
+v07: This will be your sign from the **LORD** that the **LORD** will do what he has spoken:
+v08: I will make the shadow cast by the sun on Ahaz’s steps go back ten steps.” And the sun went back ten steps on the steps it had descended.
+v09: A writing of Hezekiah king of Judah, after his illness and recovery:
+v10: I said, “In the midst of my days
+I must go through Sheol’s gates;
+I am deprived of my remaining years.”
 </p>
 
 <p>
-v11: I said, "I will not see Yah, Yah in the land of the living. I will see man no more with the inhabitants of the world.
-v12: My dwelling is removed, and is carried away from me like a shepherd's tent. I have rolled up, like a weaver, my life. He will cut me off from the loom. From day even to night you will make an end of me.
-v13: I waited patiently until morning. He breaks all my bones like a lion. From day even to night you will make an end of me.
-v14: I chattered like a swallow or a crane. I moaned like a dove. My eyes weaken looking upward. Lord, I am oppressed. Be my security."
-v15: What will I say? He has both spoken to me, and himself has done it. I will walk carefully all my years because of the anguish of my soul.
+v11: I said, “I will no longer see **YAH**,
+**YAH** in the land of the living.
+I will no longer look on human beings
+among those who inhabit this passing world.
+v12: My dwelling is pulled up and carried away from me
+like a shepherd’s tent.
+Like a weaver I have rolled up my life;
+he cuts me from the loom.
+From day to night you bring me to an end.
+v13: I waited until morning;
+like a lion he breaks all my bones.
+From day to night you bring me to an end.
+v14: Like a swallow or crane I chirp;
+I moan like a dove.
+My eyes grow weak from looking upward.
+Lord, I am oppressed; stand surety for me!”
+v15: What can I say? He has spoken to me, and he has done it.
+I will walk humbly all my years
+because of the bitterness of my soul.
 </p>
 
 <p>
-v16: Lord, men live by these things; and my spirit finds life in all of them: you restore me, and cause me to live.
-v17: Look, for peace I had great anguish, but you have in love for my soul delivered it from the pit of corruption; for you have cast all my sins behind your back.
-v18: For Sheol cannot praise you. Death cannot celebrate you. People who go down into the pit cannot hope for your truth.
-v19: The living, the living, he will praise you, as I do this day. The father will reveal your truth to the children.
-v20: The LORD will save me. Therefore we will sing my songs with stringed instruments all the days of our life in the house of the LORD.
+v16: Lord, by these things people live;
+in all these is the life of my spirit.
+Restore me and let me live.
+v17: Look, bitter bitterness became my well-being.
+In love you kept my life from the pit of destruction,
+for you have thrown all my sins behind your back.
+v18: Sheol cannot thank you,
+death cannot praise you;
+those going down to the pit cannot hope for your faithfulness.
+v19: The living, the living thank you, as I do today;
+a father makes your faithfulness known to his children.
+v20: The **LORD** will save me!
+We will play my songs on strings
+all the days of our lives in the **LORD**’s house.
 </p>
 
 <p>
-v21: Now Isaiah had said, "Let them take a cake of figs, and lay it for a poultice on the boil, and he will recover."
-v22: Hezekiah also had said, "What is the sign that I will go up to the house of the LORD?"
+v21: Isaiah had said, “Bring a cake of figs and spread it on the boil, so he may recover.”
+v22: And Hezekiah had asked, “What is the sign that I will go up to the **LORD**’s house?”
 </p>
 
 ## Notes
 
-v08: Hezekiah’s sign involves the shadow moving backward on the steps associated with Ahaz. The narrative presents the sign without explaining its physical mechanism.
+v08: The Hebrew speaks of steps and a shadow, then of the sun going back ten steps. It does not specify the construction of a sundial.
 
-v16: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
-
-v17: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
-
-v10: “Sheol” — The Hebrew name for the realm of the dead is retained rather than replaced with later theological language about hell.
+v11,13,16–17: Several lines of Hezekiah’s poem are compressed or difficult. “Waited” in verse 13 and “these things” in verse 16 remain uncertain. Verse 17 follows the wording of loving attachment rather than replacing it with “held back.”
 
 ## Vocabulary
 
-v16: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
-
-v17: שָׁלוֹם (shalom)
-“Peace,” “wholeness,” or “well-being.”
-
-v10: שְׁאוֹל (Sheol)
-“Sheol.” The Hebrew realm of the dead.
+v14: **Surety**: Someone who guarantees another person’s case or obligation; the prayer asks the Lord to act in that role.

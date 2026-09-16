@@ -4,102 +4,138 @@ testament: OT
 chapter: 28
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Woe to Ephraim and Jerusalem
 
 <p>
-v01: Woe to the crown of pride of the drunkards of Ephraim, and to the fading flower of his glorious beauty, which is on the head of the fertile valley of people who are overcome with wine!
-v02: Look, the Lord has a mighty and strong one. Like a storm of hail, a destroying storm, and like a storm of mighty waters overflowing, he will cast them down to the earth with his hand.
-v03: The crown of pride of the drunkards of Ephraim will be trodden under foot.
-v04: The fading flower of his glorious beauty, which is on the head of the fertile valley, will be like the first-ripe fig before the summer;
-which someone picks and eats as soon as he sees it.
+v01: Woe to the proud crown of Ephraim’s drunkards,
+the fading flower of its glorious beauty,
+set above a fertile valley—
+to those struck down by wine!
+v02: Look! The Lord has someone strong and mighty.
+Like a hailstorm, a destructive tempest,
+like a torrent of mighty, flooding waters,
+he will hurl it to the ground with his hand.
+v03: The proud crown of Ephraim’s drunkards
+will be trampled underfoot.
+v04: That fading flower of glorious beauty,
+set above a fertile valley,
+will be like an early fig before summer:
+whoever sees it swallows it
+as soon as it reaches the hand.
 </p>
 
 <p>
-v05: On that day, the LORD of Hosts will become a crown of glory, and a diadem of beauty, to the residue of his people;
-v06: and a spirit of justice to the one who sits in judgment, and strength to people who turn back the battle at the gate.
-v07: They also reel with wine, and stagger with strong drink. The priest and the prophet reel with strong drink. They are swallowed up by wine. They stagger with strong drink. They err in vision. They stumble in judgment.
-v08: For all tables are completely full of filthy vomit and filthiness.
+v05: On that day the **LORD** of hosts
+will be a beautiful crown, a glorious wreath,
+for the remnant of his people,
+v06: a spirit of justice for the one who sits in judgment,
+and strength for those who turn battle back at the gate.
+v07: These too reel from wine and stagger from strong drink:
+priest and prophet reel from strong drink,
+swallowed by wine, staggering from strong drink.
+They reel in their visions and stumble in judgment.
+v08: Every table is covered with vomit and filth;
+no spot is clean.
 </p>
 
 <p>
-v09: Whom will he teach knowledge? To whom will he explain the message? People who are weaned from the milk, and drawn from the breasts?
-v10: For it is precept on precept, precept on precept;
-line on line, line on line;
-here a little, there a little.
-v11: But he will speak to this nation with stammering lips and in another language;
-v12: to whom he said, "This is the resting place. Give rest to weary;" and "This is the refreshing;" yet they would not hear.
+v09: “Whom is he teaching knowledge?
+To whom is he explaining the message?
+Children just weaned from milk,
+just taken from the breast?
+v10: For it is rule upon rule, rule upon rule,
+line upon line, line upon line,
+a little here, a little there!”
+v11: Indeed, with stammering lips and another tongue
+he will speak to this people,
+v12: to whom he said, “This is rest; let the weary rest.
+This is refreshment.”
+But they refused to listen.
 </p>
 
 <p>
-v13: So the word of the LORD will be to them precept on precept, precept on precept;
-line on line, line on line;
-here a little, there a little;
-that they may go, fall backward, be broken, be snared, and be taken.
-v14: So hear the word of the LORD, you scoffers, that rule this people in Jerusalem:
-v15: "Because you have said, 'We have made a covenant with death, and with Sheol are we in agreement. When the overflowing scourge passes through, it will not come to us;
-for we have made lies our refuge, and we have hidden ourselves under falsehood.'"
-v16: So thus says the Lord GOD, "Look, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. the one who believes will not act hastily.
+v13: So the **LORD**’s word will become for them
+rule upon rule, rule upon rule,
+line upon line, line upon line,
+a little here, a little there—
+so they go and stumble backward,
+are broken, snared, and captured.
+v14: Therefore hear the **LORD**’s word, you mockers
+who rule this people in Jerusalem.
+v15: You say, “We have made a covenant with death,
+an agreement with Sheol.
+When the sweeping scourge passes through, it will not reach us,
+for we have made lies our shelter
+and hidden ourselves in falsehood.”
+v16: So the Lord **GOD** says:
+“Look, I am laying a stone in Zion,
+a tested stone, a precious cornerstone, a firm foundation.
+Whoever trusts will not rush in panic.
 </p>
 
 <p>
-v17: I will make justice the measuring line, and righteousness the plumb line. The hail will sweep away the refuge of lies, and the waters will overflow the hiding place.
-v18: Your covenant with death will be annulled, and your agreement with Sheol will not stand. When the overflowing scourge passes through, then you will be trampled down by it.
-v19: As often as it passes through, it will seize you;
-for morning by morning it will pass through, by day and by night;
-and it will be nothing but terror to understand the message."
-v20: For the bed is too short to stretch out on, and the blanket is too narrow to wrap oneself in.
+v17: I will make justice the measuring line
+and righteousness the plumb line.
+Hail will sweep away the shelter of lies;
+water will flood the hiding place.
+v18: Your covenant with death will be annulled;
+your agreement with Sheol will not stand.
+When the sweeping scourge passes through,
+you will be trampled beneath it.
+v19: Every time it passes through, it will take you.
+Morning after morning it will pass through, by day and by night.
+Understanding the message will bring sheer terror.”
+v20: The bed is too short to stretch out on;
+the blanket too narrow to wrap yourself in.
 </p>
 
 <p>
-v21: For the LORD will rise up as on Mount Perazim. He will be angry as in the valley of Gibeon;
-that he may do his work, his unusual work, and accomplish his act, his extraordinary act.
-v22: Now therefore do not be scoffers, lest your bonds be made strong;
-for I have heard a decree of destruction from the Lord GOD of Hosts, on the entire earth.
-v23: Give ear, and hear my voice! Listen, and hear my speech!
-v24: Does the one who plows to sow plow continually? Does he keep turning the soil and breaking the clods?
+v21: The **LORD** will rise as at Mount Perazim,
+will rage as in Gibeon’s valley,
+to do his deed—his strange deed,
+to perform his work—his foreign work.
+v22: Now stop mocking, lest your bonds grow tighter.
+For I have heard from the Lord **GOD** of hosts
+of destruction decreed against all the earth.
+v23: Listen closely to my voice;
+pay attention and hear what I say.
+v24: Does a plowman plow all day to sow,
+continually opening and harrowing his soil?
 </p>
 
 <p>
-v25: When he has leveled its surface, does not he plant the dill, and scatter the cumin seed, and put in the wheat in rows, the barley in the appointed place, and the spelt in its place?
-v26: For his God instructs him in right judgment, and teaches him.
-v27: For the dill are not threshed with a sharp instrument, neither is a cart wheel turned over the cumin;
-but the dill is beaten out with a stick, and the cumin with a rod.
-v28: Bread flour must be ground;
-so he will not always be threshing it. Although he drives the wheel of his threshing cart over it, his horses do not grind it.
+v25: Once he has leveled its surface, does he not scatter black cumin,
+sow cumin, plant wheat in rows,
+barley in its place, and spelt along the edge?
+v26: His God instructs him in the right way
+and teaches him.
+v27: Black cumin is not threshed with a threshing sledge,
+nor is a cartwheel rolled over cumin.
+Black cumin is beaten with a stick,
+and cumin with a rod.
+v28: Grain for bread is crushed,
+but one does not thresh it forever.
+He drives his cartwheel and horses over it
+without grinding it to pieces.
 </p>
 
 <p>
-v29: This also comes forth from the LORD of Hosts, who is wonderful in counsel, and excellent in wisdom.
+v29: This too comes from the **LORD** of hosts,
+wonderful in counsel, great in resourcefulness.
 </p>
 
 ## Notes
 
-v16: “a tested stone” — Zion’s foundation is pictured as reliable precisely in contrast to the false refuge and covenant named around it.
+v09–13: The repeated Hebrew sounds, tsav la-tsav and qav la-qav, can sound like elementary lessons or mocking babble. The quotation boundaries and speakers are interpretive choices.
 
-v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v15: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
+v16: The pinned Hebrew says the believer will not hurry or rush; “in panic” makes the sense explicit. It does not use the wording “be put to shame.”
 
 ## Vocabulary
 
-v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v15: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v16: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v16: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v06: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.
-
-v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v15: **Sheol**: The realm of the dead. The “covenant with death” is the speakers’ image of supposed security.

@@ -4,75 +4,79 @@ testament: OT
 chapter: 47
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Fall of Daughter Babylon
 
 <p>
-v01: Come down, and sit in the dust, virgin daughter of Babylon;
-sit on the ground without a throne, daughter of the Chaldeans: for you will no more be called tender and delicate.
-v02: Take the millstones, and grind meal;
-remove your veil, strip off the train, uncover the leg, pass through the rivers.
-v03: Your nakedness will be uncovered, yes, your shame will be seen: I will take vengeance, and will spare no man.
-v04: Our Redeemer, the LORD of Hosts is his name, the Holy One of Israel.
+v01: Come down and sit in the dust, virgin Daughter Babylon!
+Sit on the ground without a throne, daughter of the Chaldeans.
+You will no longer be called tender and pampered.
+v02: Take millstones and grind flour.
+Remove your veil, lift your skirt,
+bare your legs and cross rivers.
+v03: Your nakedness will be exposed, your disgrace seen.
+“I will take vengeance and spare no one.”
+v04: Our Redeemer—the **LORD** of hosts is his name—
+is Israel’s Holy One.
 </p>
 
 <p>
-v05: Sit you silent, and get you into darkness, daughter of the Chaldeans;
-for you will no more be called The mistress of kingdoms.
-v06: I was angry with my people, I profaned my inheritance, and gave them into your hand: you did show them no mercy;
-on the aged have you very heavily laid your yoke.
-v07: You said, I will be mistress forever;
-so that you did not lay these things to your heart, neither did remember the latter end of it.
-v08: Now therefore hear this, you who are given to pleasures, who sit securely, who say in your heart, I am, and there is none else besides me;
-I will not sit as a widow, neither will I know the loss of children:
+v05: Sit silent; enter darkness, daughter of the Chaldeans.
+You will no longer be called mistress of kingdoms.
+v06: “I was angry with my people; I profaned my inheritance
+and handed them over to you.
+You showed them no compassion;
+on the aged you laid an exceedingly heavy yoke.
+v07: You said, ‘I will be mistress forever.’
+You did not take these things to heart
+or remember their outcome.
+v08: Now hear this, pleasure-loving one, sitting secure,
+saying in your heart, ‘I am, and there is no other.
+I will never sit as a widow
+nor know the loss of children.’
 </p>
 
 <p>
-v09: but these two things will come to you in a moment in one day, the loss of children, and widowhood;
-in their full measure will they come on you, in the multitude of your sorceries, and the great abundance of your enchantments.
-v10: For you have trusted in your wickedness;
-you have said, None sees me;
-your wisdom and your knowledge, it has perverted you, and you have said in your heart, I am, and there is none else besides me.
-v11: So will evil come on you;
-you will not know the dawning of it: and mischief will fall on you;
-you will not be able to put it away: and desolation will come on you suddenly, which you do not know.
-v12: Stand now with your enchantments, and with the multitude of your sorceries, in which you have labored from your youth;
-if so be you will be able to profit, if so be you may prevail.
+v09: Both will come upon you in an instant, on one day:
+loss of children and widowhood.
+They will come upon you in full measure,
+despite your many sorceries and the great power of your spells.
+v10: You trusted in your evil and said, ‘No one sees me.’
+Your wisdom and knowledge led you astray;
+you said in your heart, ‘I am, and there is no other.’
+v11: Evil will come upon you, and you will not know how to charm it away.
+Disaster will fall upon you, and you cannot avert it.
+Ruin you did not foresee will come suddenly.
+v12: Stand fast, then, in your spells and many sorceries,
+with which you have labored from youth.
+Perhaps you can gain some benefit;
+perhaps you can strike terror!
 </p>
 
 <p>
-v13: You are wearied in the multitude of your counsels: let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save you from the things that will come on you.
-v14: Look, they will be as stubble;
-the fire will burn them;
-they will not deliver themselves from the power of the flame: it will not be a coal to warm at, nor a fire to sit before.
-v15: Thus will the things be to you in which you have labored: people who have trafficked with you from your youth will wander everyone to his quarter;
-there will be none to save you.
+v13: You are worn out with all your advisers.
+Let them stand up and save you—
+those who divide the heavens, gaze at stars,
+and tell you month by month what will happen to you.
+v14: Look, they are stubble; fire burns them.
+They cannot rescue themselves from the flame’s power.
+This is no coal for warmth,
+no fire to sit beside.
+v15: Such are those with whom you labored,
+your traders from youth.
+Each wanders his own way;
+there is no one to save you.”
 </p>
 
 ## Notes
 
-v01: Babylon is addressed as a royal woman brought suddenly from privilege to humiliation. The imagery targets imperial security and self-exaltation.
-
-v04: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v04: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.
+v03,11: “Spare no one” in verse 3 renders a difficult expression involving meeting or encountering a person. The expression rendered “charm it away” in verse 11 can also be connected with dawn or foreseeing disaster.
 
 ## Vocabulary
 
-v01: בַּת־בָּבֶל (bat Bavel)
-“Daughter Babylon.” Poetic personification of the imperial city.
-
-v04: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v04: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v01: **Daughter Babylon**: The city and its people pictured as a woman; the forced labor and exposure describe her humiliation.

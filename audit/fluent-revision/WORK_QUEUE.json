@@ -411,12 +411,22 @@
       "scope": "Isaiah 1–23",
       "verses": 441,
       "ledger": "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json"
+    },
+    {
+      "scope": "Isaiah 24–66",
+      "verses": 851,
+      "ledger": "audit/fluent-revision/2026-09-16-isaiah-24-66/isaiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 1–7",
+      "verses": 207,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Isaiah 24–63",
-      "action": "Continue the next forty-chapter block from the pinned verified Hebrew source; read every verse and annotation before independent drafting, then compare TSW. Preserve pending whole-book reviews."
+      "scope": "Jeremiah 8–52; Lamentations 1–5",
+      "action": "Next fifty-chapter block: independently draft from verified pinned Hebrew; read every verse and annotation, then compare TSW. Preserve pending whole-book consistency reviews."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -465,6 +475,10 @@
     {
       "scope": "Whole-book Song of Songs consistency review",
       "action": "Read the complete revised book and apparatus continuously; source-check recurring vocabulary and difficulties. Rebind any earlier wording changed. Draft completion and focused checks do not complete this review."
+    },
+    {
+      "scope": "Whole-book Isaiah consistency review",
+      "action": "Read the complete revised book and apparatus continuously; source-check recurring vocabulary and difficulties. Rebind earlier text if changed. Draft completion and focused checks do not complete this separate review."
     }
   ],
   "standards": [
@@ -519,7 +533,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Successive forty-chapter blocks authorized without routine approval pauses, retaining source and QA standards. Latest block: Ecclesiastes 4–12; Song of Songs 1–8; Isaiah 1–23, 714 verses. Independent review and reader testing pending.",
+  "batch_preference": "Successive fifty-chapter blocks authorized without routine approval pauses, retaining source and QA standards. Latest block: Isaiah 24–66; Jeremiah 1–7, 1,058 public verse labels bound to 1,057 original Hebrew records. Independent review and reader testing pending.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",

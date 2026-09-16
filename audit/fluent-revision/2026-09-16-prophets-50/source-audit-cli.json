@@ -1,0 +1,28 @@
+[
+  {
+    "book": "isaiah",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-isaiah-24-66/isaiah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered73/sources/isaiah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 43,\n  \"verses\": 851,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "book": "jeremiah",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered73/sources/jeremiah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 7,\n  \"verses\": 207,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]

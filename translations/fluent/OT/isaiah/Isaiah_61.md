@@ -4,62 +4,74 @@ testament: OT
 chapter: 61
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Good News to the Oppressed
 
 <p>
-v01: The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the oppressed;
-the LORD has sent me to bind up the brokenhearted, to proclaim liberty to captives and release to prisoners,
-v02: to proclaim the year of the LORD’s favor and the day of vengeance of our God, to comfort everyone who mourn,
-v03: to appoint to people who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness;
-that they may be called trees of righteousness, the planting of the LORD, that he may be glorified.
-v04: They will build the old wastes, they will raise up the former desolations, and they will repair the waste cities, the desolations of many generations.
+v01: The Spirit of the Lord **GOD** is upon me,
+because the **LORD** has anointed me
+to bring good news to the afflicted.
+He has sent me to bind up the brokenhearted,
+to proclaim freedom to captives
+and release to prisoners,
+v02: to proclaim the **LORD**’s year of favor
+and our God’s day of vengeance,
+to comfort all who mourn,
+v03: to provide for those who mourn in Zion:
+to give them a splendid headdress instead of ashes,
+the oil of joy instead of mourning,
+a garment of praise instead of a faint spirit.
+They will be called oaks of righteousness,
+the **LORD**’s planting, to display his glory.
+v04: They will rebuild ancient ruins,
+raise places devastated long ago,
+and renew ruined cities,
+places desolate for generations.
 </p>
 
 <p>
-v05: Strangers will stand and feed your flocks, and foreigners will be your plowmen and your vinedressers.
-v06: But you will be named the priests of the LORD;
-men will call you the ministers of our God: you will eat the wealth of the nations, and in their glory will you boast yourselves.
-v07: Instead of your shame you will have double;
-and instead of dishonor they will rejoice in their portion: therefore in their land they will possess double;
-everlasting joy will be to them.
-v08: For I, the LORD, love justice, I hate robbery with iniquity;
-and I will give them their recompense in truth, and I will make an everlasting covenant with them.
+v05: Strangers will stand and tend your flocks;
+foreigners will be your farmers and vine growers.
+v06: But you will be called the **LORD**’s priests;
+you will be named ministers of our God.
+You will eat the nations’ wealth
+and take pride in their splendor.
+v07: Instead of your shame, a double portion;
+instead of humiliation, they will shout for joy over their share.
+So they will inherit a double portion in their land,
+and everlasting joy will be theirs.
+v08: “For I, the **LORD**, love justice;
+I hate robbery in a burnt offering.
+I will faithfully give them their reward
+and make an everlasting covenant with them.
 </p>
 
 <p>
-v09: Their seed will be known among the nations, and their offspring among the peoples;
-everyone who see them will acknowledge them, that they are the seed which the LORD has blessed.
-v10: I will greatly rejoice in the LORD, my soul will be joyful in my God;
-for he has clothed me with the garments of salvation, he has covered me with the robe of righteousness, as a bridegroom decks himself with a garland, and as a bride adorns herself with her jewels.
-v11: For as the earth brings forth its bud, and as the garden causes the things that are sown in it to spring forth;
-so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
+v09: Their offspring will be known among the nations,
+their descendants among the peoples.
+All who see them will recognize
+that they are offspring the **LORD** has blessed.”
+v10: I rejoice greatly in the **LORD**;
+my whole being exults in my God.
+He has clothed me in garments of salvation
+and wrapped me in a robe of righteousness,
+like a bridegroom wearing a priestly headdress,
+like a bride adorning herself with jewels.
+v11: As the earth brings out its shoots
+and a garden makes its seeds sprout,
+so the Lord **GOD** will make righteousness and praise
+sprout before all the nations.
 </p>
 
 ## Notes
 
-v01: “anointed” is verbal rather than a title here. The speaker’s vocation is marked by the Spirit and directed toward good news, release, comfort, and restoration.
-
-v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
-
-v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v06: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+v01,08: The prisoner-release expression can also suggest an opening of eyes. Verse 8 follows the pinned vocalization “in a burnt offering”; “with wrongdoing” is an alternative reading.
 
 ## Vocabulary
 
-v01: בָּשַׂר (basar)
-“To bring good news.” To announce news of deliverance or restoration.
-
-v08: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v03: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v06: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v03: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v03: **Headdress and ashes**: The Hebrew words pe’er and ’efer sound alike; the exchange turns a sign of mourning into festive dress.

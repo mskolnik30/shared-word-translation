@@ -4,52 +4,77 @@ testament: OT
 chapter: 27
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Leviathan and the LORD's Vineyard
 
 <p>
-v01: On that day, the LORD with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan the twisted serpent;
-and he will kill the dragon that is in the sea.
-v02: On that day, sing to her, "A pleasant vineyard!
-v03: I, the LORD, am its keeper. I will water it every moment. Lest anyone damage it, I will keep it night and day.
-v04: Wrath is not in me, but if I should find briers and thorns, I would do battle! I would march on them and I would burn them together.
+v01: On that day the **LORD**, with his hard, great, strong sword,
+will punish Leviathan the fleeing serpent,
+Leviathan the twisting serpent,
+and kill the monster in the sea.
+v02: On that day,
+“A delightful vineyard—sing of it!
+v03: I, the **LORD**, guard it.
+I water it moment by moment;
+night and day I guard it
+so no one harms it.
+v04: I have no wrath.
+If only briers and thorns confronted me in battle!
+I would march against them
+and burn them all together.
 </p>
 
 <p>
-v05: Or else let him take hold of my strength, that he may make peace with me. Let him make peace with me."
-v06: In days to come, Jacob will take root. Israel will blossom and bud. They will fill the surface of the world with fruit.
-v07: Has he struck them as he struck people who struck them? Or are they killed like people who killed them were killed?
-v08: In measure, when you send them away, you contend with them. He has removed them with his rough blast in the day of the east wind.
+v05: Or let them take hold of my refuge,
+let them make peace with me—
+make peace with me.”
+v06: In days to come Jacob will take root;
+Israel will bud and blossom
+and fill the world with fruit.
+v07: Has he struck Jacob as he struck those who struck him?
+Has Jacob been killed as his killers were killed?
+v08: By measured expulsion you contend with her;
+he drove her away with his harsh wind
+on a day of east wind.
 </p>
 
 <p>
-v09: So, by this the iniquity of Jacob will be forgiven, and this is all the fruit of taking away his sin: that he makes all the stones of the altar as chalk stones that are beaten in pieces, so that the Asherim and the incense altars will rise no more.
-v10: For the fortified city is solitary, a habitation deserted and forsaken, like the wilderness. The calf will feed there, and there he will lie down, and consume its branches.
-v11: When its boughs are withered, they will be broken off. The women will come and set them on fire, for they are a people of no understanding. Therefore the one who made them will not have compassion on them, and the one who formed them will show them no favor.
-v12: It will happen on that day, that the LORD will thresh from the flowing stream of the Euphrates to the brook of Egypt;
-and you will be gathered one by one, children of Israel.
+v09: By this, then, Jacob’s guilt will be atoned for;
+this is the full fruit of removing his sin:
+when he makes every altar stone like crushed chalk,
+and no Asherah poles or incense altars remain standing.
+v10: The fortified city stands alone,
+a settlement deserted and abandoned like the wilderness.
+There a calf grazes and lies down,
+consuming its branches.
+v11: When its branches dry, they are broken;
+women come and light fires with them.
+For this people has no understanding;
+so its Maker will not show it compassion,
+and its Former will not favor it.
+v12: On that day the **LORD** will thresh
+from the River’s flowing waters to the Wadi of Egypt;
+and you, Israelites, will be gathered one by one.
 </p>
 
 <p>
-v13: It will happen on that day that a great trumpet will be blown;
-and people who were ready to perish in the land of Assyria, and people who were outcasts in the land of Egypt, will come;
-and they will worship the LORD in the holy mountain at Jerusalem.
+v13: On that day a great ram’s horn will sound.
+Those lost in Assyria and those driven away to Egypt
+will come and worship the **LORD**
+on the holy mountain in Jerusalem.
 </p>
 
 ## Notes
 
-v01: Leviathan is described through mythic sea-serpent imagery. Isaiah uses the image to portray divine victory over threatening chaos without explaining a zoological referent.
+v02: The pinned Hebrew describes a vineyard of delight. “A vineyard of wine,” found in some translations, reflects a different reading.
 
-v05: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
+v08: The language of measured expulsion is difficult, and the Hebrew shifts between “you,” “he,” and “her.” The draft retains those shifts rather than specifying every referent.
 
 ## Vocabulary
 
-v01: לִוְיָתָן (livyatan)
-“Leviathan.” A mythic sea-serpent image associated with threatening chaos.
-
-v05: שָׁלוֹם (shalom)
-“Peace,” “wholeness,” or “well-being.”
-
-v01: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
+v01: **Leviathan**: A named serpent-like sea creature in poetic imagery of divine victory.

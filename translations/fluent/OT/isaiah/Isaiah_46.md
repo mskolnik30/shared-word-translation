@@ -4,74 +4,74 @@ testament: OT
 chapter: 46
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Gods of Babylon and the God Who Carries
 
 <p>
-v01: Bel bows down, Nebo stoops;
-their idols are on the animals, and on the livestock: the things that you carried about are made a load, a burden to the weary animal.
-v02: They stoop, they bow down together;
-they could not deliver the burden, but themselves are gone into captivity.
-v03: Listen to me, house of Jacob, and all the remnant of the house of Israel, that have been borne by me from their birth, that have been carried from the womb;
-v04: Even to your old age I am the same;
-even to gray hairs I will carry you. I have made you, and I will bear you;
-I will carry and deliver you.
+v01: Bel bows, Nebo stoops;
+their idols are loaded onto animals and cattle.
+What you carried is now a load,
+a burden for weary beasts.
+v02: They stoop and bow together;
+they cannot rescue the burden,
+and they themselves go into captivity.
+v03: “Listen to me, Jacob’s house,
+all the remnant of Israel’s house,
+you whom I have borne from the womb,
+carried from birth.
+v04: Even to old age I am he;
+even when you are gray I will bear you.
+I made you, and I will carry you;
+I will bear you and rescue you.
 </p>
 
 <p>
-v05: To whom will you liken me, and make me equal, and compare me, that we may be like?
-v06: Some pour out gold from the bag, and weigh silver in the balance. They hire a goldsmith, and he makes it a god. They fall down—yes, they worship.
-v07: They bear it on the shoulder, they carry it, and set it in its place, and it stands, from its place it will not move: yes, one may cry to it, yet it can not answer, nor save him out of his trouble.
-v08: Remember this, and show yourselves men;
-bring it again to mind, you transgressors.
+v05: To whom will you liken me and make me equal?
+With whom will you compare me, that we should be alike?
+v06: People pour gold from a bag, weigh silver on a balance,
+hire a goldsmith, and he makes it into a god.
+Then they bow and worship.
+v07: They lift it onto a shoulder and carry it,
+set it in its place, and there it stands.
+It cannot move from that spot.
+Though someone cries to it, it does not answer;
+it cannot save him from his distress.
+v08: Remember this and take it to heart;
+bring it to mind, you rebels.
 </p>
 
 <p>
-v09: Remember the former things of old: for I am God, and there is none else;
-I am God, and there is none like me;
-v10: declaring the end from the beginning, and from ancient times things that are not yet done;
-saying, My counsel will stand, and I will do all my pleasure;
-v11: calling a ravenous bird from the east, the man of my counsel from a far country;
-yes, I have spoken, I will also bring it to pass;
-I have purposed, I will also do it.
-v12: Listen to me, you stout-hearted, who are far from righteousness:
+v09: Remember the former things from long ago:
+I am God, and there is no other;
+I am God, and none is like me.
+v10: I announce the end from the beginning,
+from ancient times things not yet done.
+I say, ‘My counsel will stand;
+I will fulfill all my purpose.’
+v11: I call a bird of prey from the east,
+from a distant land the man of my counsel.
+I have spoken; I will bring it about.
+I have formed it; I will do it.
+v12: Listen to me, you stubborn-hearted,
+far from righteousness.
 </p>
 
 <p>
-v13: I bring near my righteousness, it will not be far off, and my salvation will not wait;
-and I will place salvation in Zion for Israel my glory.
+v13: I bring my righteousness near; it is not far away.
+My salvation will not delay.
+I will grant salvation in Zion,
+my splendor to Israel.”
 </p>
 
 ## Notes
 
-v01: Bel and Nebo, major Babylonian deities, are portrayed as burdens carried by animals, in deliberate contrast to the LORD who carries Israel.
-
-v03: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.
-
-v13: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
+v01–04: The images must be carried, while the LORD carries his people. The repeated verb creates the central contrast.
 
 ## Vocabulary
 
-v01: בֵּל (Bel) / נְבוֹ (Nebo)
-“Bel / Nebo.” Major Babylonian deities portrayed as burdens being carried.
-
-v03: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.
-
-v13: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v13: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v12: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
-
-v01: בֵּל (Bel)
-“Bel.” A Babylonian divine name.
-
-v01: נְבוֹ (Nebo)
-“Nebo.” A Babylonian divine name.
+v01: **Bel and Nebo**: Names of Babylonian deities whose images are pictured as burdens on animals.

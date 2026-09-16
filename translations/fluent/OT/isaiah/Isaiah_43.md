@@ -4,53 +4,110 @@ testament: OT
 chapter: 43
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 <p>
-v01: But now, this is what LORD says, he who created you, Jacob, who formed you, Israel: "Do not fear, for I have redeemed you; I have called you by your name; you are mine.
-v02: When you pass through the waters, I will be with you, and through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flame will not set you ablaze.
-v03: For I am the LORD your God, the Holy One of Israel, your savior. I have given Egypt as your ransom, Cush and Seba in your place.
-v04: Since you are precious and honored in my sight, and because I love you, I will give people in exchange for you, nations in exchange for your life.
-v05: Do not fear, for I am with you; I will bring your offspring from the east, and from the west I will gather you.
-v06: I will say to the north, 'Give them up!' and to the south, 'Do not withhold!' Bring my sons from far away, and my daughters from the ends of the earth—
-v07: everyone who is called by my name, whom I created for my glory, whom I formed and made."
-v08: Lead out people who have eyes but are blind, who have ears but are deaf.
-v09: All the nations gather together, and the peoples assemble. Which of them declared this and proclaimed to us the former things? Let them bring in their witnesses to prove they were right, and let them hear and say, 'It is true.'
-v10: "You are my witnesses," declares the LORD, "and my servant whom I have chosen, so that you may know and believe me and understand that I am he. Before me no god was formed, nor will there be one after me.
-v11: I, even I, am the LORD, and apart from me there is no savior.
-v12: I have revealed and saved and proclaimed—I, and not some foreign god among you. You are my witnesses," declares the LORD, "that I am God.
-v13: Yes, and from ancient days, I am he. No one can deliver out of my hand. When I act, who can reverse it?"
-v14: This is what LORD says—your Redeemer, the Holy One of Israel: "For your sake I will send to Babylon and bring down as fugitives all the Babylonians, in the ships in which they take pride.
-v15: I am the LORD, your Holy One, Israel’s Creator, your King."
-v16: This is what LORD says—he who makes a way through the sea, a path through the mighty waters,
-v17: who brings out the chariot and horse, the army and the warrior together, they lie down, they cannot rise, they are extinguished, quenched like a wick:
-v18: "Forget the former things; do not dwell on the past.
-v19: See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.
-v20: The wild animals honor me, the jackals and the owls, because I provide water in the wilderness and streams in the wasteland, to give drink to my chosen people,
-v21: the people I formed for myself that they may proclaim my praise.
-v22: Yet you have not called upon me, Jacob, you have not wearied yourselves for me, Israel.
-v23: You have not brought me sheep for burnt offerings, nor honored me with your sacrifices. I have not burdened you with offerings nor wearied you with incense.
-v24: You have not bought any fragrant calamus for me, nor lavished on me the fat of your sacrifices. But you have burdened me with your sins and wearied me with your offenses.
-v25: I, even I, am he who blots out your transgressions, for my own sake, and remembers your sins no more.
-v26: Review the past for me, let us argue the matter together; state the case for your innocence.
-v27: Your first father sinned; your spokesmen rebelled against me.
-v28: So I disgraced the dignitaries of your temple; I consigned Jacob to destruction and Israel to scorn."
+v01: But now the **LORD** says,
+he who created you, Jacob, who formed you, Israel:
+“Do not fear, for I have redeemed you.
+I have called you by name; you are mine.
+v02: When you pass through water, I am with you;
+through rivers, they will not sweep you away.
+When you walk through fire, you will not be scorched;
+the flame will not burn you.
+v03: For I am the **LORD** your God,
+Israel’s Holy One, your Savior.
+I give Egypt as your ransom,
+Cush and Seba in your place.
+v04: Because you are precious in my eyes, honored, and I love you,
+I give people in your place,
+nations in exchange for your life.
+v05: Do not fear, for I am with you.
+I will bring your offspring from the east
+and gather you from the west.
+v06: I will tell the north, ‘Give them up!’
+and the south, ‘Do not hold them back!’
+Bring my sons from far away,
+my daughters from earth’s ends—
+v07: everyone called by my name,
+whom I created for my glory,
+whom I formed, whom I made.”
+v08: Bring out the people who are blind though they have eyes,
+who are deaf though they have ears.
+v09: All nations gather together, and peoples assemble.
+Who among them can announce this
+and tell us the former things?
+Let them bring witnesses and prove themselves right;
+let others hear and say, “It is true.”
+v10: “You are my witnesses,” declares the **LORD**,
+“and my servant whom I chose,
+so you may know and trust me
+and understand that I am he.
+Before me no god was formed,
+and after me none will be.
+v11: I, I am the **LORD**;
+apart from me there is no savior.
+v12: I announced, I saved, I made it heard;
+no foreign god was among you.
+You are my witnesses,” declares the **LORD**, “and I am God.
+v13: From the day’s beginning I am he;
+no one can rescue from my hand.
+I act—who can turn it back?”
+v14: The **LORD**, your Redeemer, Israel’s Holy One, says:
+“For your sake I have sent to Babylon
+and brought them all down as fugitives,
+the Chaldeans in the ships they rejoiced in.
+v15: I am the **LORD**, your Holy One,
+Israel’s Creator, your King.”
+v16: The **LORD** says,
+he who makes a way through the sea,
+a path through mighty waters,
+v17: who brings out chariot and horse, army and warrior—
+they lie down together, never to rise,
+extinguished, put out like a wick:
+v18: “Do not remember the former things
+or dwell on things of old.
+v19: Look, I am doing something new;
+now it sprouts—do you not recognize it?
+I will make a way in the wilderness,
+rivers in the wasteland.
+v20: Wild animals will honor me, jackals and ostriches,
+for I give water in the wilderness,
+rivers in the wasteland,
+to give my chosen people drink,
+v21: the people I formed for myself
+to recount my praise.
+v22: Yet you have not called on me, Jacob;
+you have grown weary of me, Israel.
+v23: You have not brought me sheep for your burnt offerings
+nor honored me with your sacrifices.
+I have not burdened you with grain offerings
+nor wearied you with frankincense.
+v24: You have not bought fragrant cane for me with silver
+nor satisfied me with your sacrifices’ fat.
+Instead, you have burdened me with your sins
+and wearied me with your guilt.
+v25: I, I am the one who wipes away your rebellions for my own sake;
+your sins I will not remember.
+v26: Remind me; let us argue our case together.
+You tell your story, so you may be proved right.
+v27: Your first father sinned,
+and your interpreters rebelled against me.
+v28: So I profaned the sanctuary’s officials
+and handed Jacob over to destruction,
+Israel to insults.”
 </p>
 
 ## Notes
 
+v03–04: The ransom language includes Egypt, Cush, Seba and other human lives. Its harsh implications are retained alongside the declaration of love for Israel.
 
+v14,27: Verse 14’s description of the fugitives and ships is uncertain. The “first father” in verse 27 is not named; the translation does not decide among proposed ancestors.
 
 ## Vocabulary
 
-v01: יְהוָה (YHWH)
-“LORD.” The divine name, represented in English by small-capital LORD.
-
-v07: כָּבוֹד (kavod)
-“Glory; weight; honor.” The term can denote splendor, reputation, or weighty significance.
-
-v14: גֹּאֵל (goel)
-“Redeemer," a term identifying God's role as deliverer and protector, which carries themes of familial protection and economic relief.
-
-v25: מָחָה (machah)
-“Blots out," conveying the obliteration of sin and with a sense of the thoroughness of divine forgiveness.
+v25: **Blot out**: Erase a record; the image connects forgiveness with no longer remembering the offenses.

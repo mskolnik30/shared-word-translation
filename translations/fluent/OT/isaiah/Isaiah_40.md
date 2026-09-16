@@ -4,211 +4,136 @@ testament: OT
 chapter: 40
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Comfort, Comfort My People
 
 <p>
-v01: Comfort, comfort my people,
-  says your God.
-
-v02: Speak tenderly to Jerusalem,
-  and cry to her
-  that her warfare is ended,
-  that her iniquity is pardoned,
-  that she has received from the LORD’s hand
-  double for all her sins.
+v01: “Comfort, comfort my people,” says your God.
+v02: “Speak to Jerusalem’s heart and call to her:
+her hard service is complete, her guilt has been accepted as paid;
+she has received from the **LORD**’s hand
+double for all her sins.”
 </p>
+
 ## A Voice in the Wilderness
 
 <p>
-v03: A voice cries:
-  “In the wilderness prepare the way of the LORD;
-  make straight in the desert
-  a highway for our God.
-
-v04: Every valley will be lifted up,
-  and every mountain and hill made low;
-  the uneven ground will become level,
-  and the rough places a plain.
-
-v05: And the glory of the LORD will be revealed,
-  and all flesh will see it together,
-  for the mouth of the LORD has spoken.”
-
-v06: A voice says, “Cry!”
-  And I said, “What will I cry?”
-  All flesh is grass,
-  and all its loyalty is like the flower of the field.
-
-v07: The grass withers, the flower fades,
-  when the breath of the LORD blows upon it;
-  surely the people are grass.
-
-v08: The grass withers, the flower fades,
-  but the word of our God will stand forever.
+v03: A voice calls:
+“In the wilderness clear a way for the **LORD**;
+make a straight highway through the desert for our God.
+v04: Every valley will be raised, every mountain and hill brought low;
+uneven ground will become level,
+and ridges a plain.
+v05: The **LORD**’s glory will be revealed,
+and all flesh will see it together,
+for the **LORD**’s mouth has spoken.”
+v06: A voice says, “Call out!”
+And he says, “What shall I call?”
+“All flesh is grass,
+and all its faithfulness like a field’s flower.
+v07: Grass dries up, a flower withers,
+when the **LORD**’s breath blows on it.
+Surely the people are grass.
+v08: Grass dries up, a flower withers,
+but our God’s word stands forever.”
 </p>
+
 ## Look Your God
 
 <p>
-v09: Get yourself up to a high mountain,
-  O herald of good news to Zion;
-  lift up your voice with strength,
-  O herald of good news to Jerusalem.
-  Lift it up, do not fear;
-  say to the cities of Judah,
-  “Look your God!”
-
-v10: Look, the Lord GOD comes with might,
-  and his arm rules for him;
-  look, his reward is with him,
-  and his recompense before him.
-
-v11: He will tend his flock like a shepherd;
-  he will gather the lambs in his arms;
-  he will carry them in his bosom,
-  and gently lead those that are with young.
+v09: Climb a high mountain, Zion, bearer of good news!
+Raise your voice with strength, Jerusalem, bearer of good news!
+Raise it; do not fear.
+Say to Judah’s cities, “Look, your God!”
+v10: Look, the Lord **GOD** comes with might;
+his arm rules for him.
+Look, his reward is with him, his recompense before him.
+v11: Like a shepherd he tends his flock;
+with his arm he gathers the lambs
+and carries them against his chest.
+He gently leads those nursing their young.
 </p>
+
 ## To Whom Will You Liken God?
 
 <p>
-v12: Who has measured the waters in the hollow of his hand,
-  and marked off the heavens with a span,
-  and enclosed the dust of the earth in a measure,
-  and weighed the mountains in scales
-  and the hills in a balance?
-
-v13: Who has directed the Spirit of the LORD,
-  or as his counselor has instructed him?
-
-v14: With whom did he take counsel, and who made him understand?
-  Who taught him the path of justice,
-  and taught him knowledge,
-  and showed him the way of understanding?
-
-v15: Look, the nations are like a drop from a bucket,
-  and are accounted as the dust on the scales;
-  look, he takes up the islands like fine dust.
-
-v16: Lebanon would not suffice for fuel,
-  nor are its beasts enough for a burnt offering.
-
-v17: All the nations are as nothing before him;
-  they are accounted by him as less than nothing and emptiness.
-
-v18: To whom then will you liken God,
-  or what likeness compare with him?
-
-v19: An idol! A craftsman casts it,
-  and a goldsmith overlays it with gold,
-  and casts for it silver chains.
-
-v20: He who is too poor for an offering
-  chooses wood that will not rot;
-  he seeks out a skilled craftsman
-  to set up an idol that will not move.
-
-v21: Do you not know? Do you not hear?
-  Has it not been told you from the beginning?
-  Have you not understood from the foundations of the earth?
-
-v22: It is he who sits above the circle of the earth,
-  and its inhabitants are like grasshoppers;
-  who stretches out the heavens like a curtain,
-  and spreads them like a tent to dwell in;
-
-v23: who brings princes to nothing,
-  and makes the rulers of the earth as emptiness.
-
-v24: Scarcely are they planted, scarcely are they sown,
-  scarcely has their stem taken root in the earth,
-  when he blows on them, and they wither,
-  and the tempest carries them off like stubble.
-
-v25: To whom then will you compare me,
-  that I should be like him? says the Holy One.
-
-v26: Lift up your eyes on high and see:
-  who created these?
-  He who brings out their host by number,
-  calling them all by name;
-  by the greatness of his might,
-  and because he is strong in power,
-  not one is missing.
+v12: Who has measured the waters in his palm,
+marked off the heavens with a handspan,
+held earth’s dust in a measure,
+weighed mountains on a balance and hills on scales?
+v13: Who has measured the **LORD**’s spirit,
+or instructed him as his counselor?
+v14: Whom did he consult for understanding?
+Who taught him the path of justice,
+taught him knowledge, or showed him the way of understanding?
+v15: Look, nations are like a drop from a bucket,
+regarded as dust on scales.
+Look, he lifts islands like fine dust.
+v16: Lebanon does not have enough wood for the fire,
+nor enough animals for a burnt offering.
+v17: All nations are as nothing before him;
+he regards them as less than nothing and emptiness.
+v18: To whom, then, will you compare God?
+What likeness can you set beside him?
+v19: An idol? A craftsman casts it,
+a goldsmith plates it with gold
+and fashions silver chains.
+v20: Someone too poor for such an offering chooses wood that will not rot;
+he seeks a skilled craftsman
+to set up an idol that will not wobble.
+v21: Do you not know? Have you not heard?
+Were you not told from the beginning?
+Have you not understood earth’s foundations?
+v22: He sits above earth’s circle,
+and its inhabitants are like grasshoppers.
+He stretches the heavens like a thin curtain,
+spreads them like a tent to live in.
+v23: He reduces rulers to nothing,
+makes earth’s judges emptiness.
+v24: Scarcely planted, scarcely sown,
+scarcely has their stem rooted in the earth,
+when he blows on them and they wither,
+and a tempest carries them off like stubble.
+v25: “To whom will you compare me,
+that I should be his equal?” says the Holy One.
+v26: Lift your eyes on high and see: who created these?
+He brings their host out by number and calls each by name.
+Because of his great vigor and mighty strength,
+not one is missing.
 </p>
+
 ## They Who Wait
 
 <p>
-v27: Why do you say, O Jacob,
-  and speak, O Israel,
-  “My way is hidden from the LORD,
-  and my judgment is passed over by my God”?
-
-v28: Have you not known? Have you not heard?
-  The LORD is the everlasting God,
-  the Creator of the ends of the earth.
-  He does not faint or grow weary;
-  his understanding is unsearchable.
-
-v29: He gives power to the faint,
-  and to him who has no might he increases strength.
-
-v30: Even youths will faint and be weary,
-  and young men will fall exhausted;
-
-v31: but people who wait for the LORD
-  will renew their strength;
-  they will mount up with wings like eagles;
-  they will run and not be weary;
-  they will walk and not faint.
+v27: Why do you say, Jacob, and declare, Israel,
+“My way is hidden from the **LORD**;
+my claim escapes my God’s notice”?
+v28: Do you not know? Have you not heard?
+The **LORD** is the everlasting God,
+Creator of earth’s farthest reaches.
+He does not grow weary or tired;
+his understanding cannot be searched out.
+v29: He gives strength to the weary,
+and increases the power of those who have none.
+v30: Even youths grow weary and tired;
+young men stumble and fall.
+v31: But those who wait for the **LORD** will renew their strength.
+They will rise on wings like eagles,
+run and not grow tired,
+walk and not grow weary.
 </p>
 
 ## Notes
 
-v01: The doubled imperative “comfort, comfort” (naḥamû naḥamû) opens what is often called the second part of Isaiah. The address is plural; comfort is a communal task.
+v03,09: Verse 3 locates the road preparation in the wilderness. Verse 9 can address Zion as the herald or a herald bringing news to Zion; the draft takes Zion as the herald.
 
-v02: “Double for all her sins” (kiplayim) has been read both as exact compensation and as full measure. The Hebrew is ambiguous; the translation preserves the doubled image without quantifying it.
-
-v03: The verse is quoted in all four Gospels, applied to John the Baptist. In its original setting, the highway is for the LORD’s return to a people in exile.
-
-v06–08: A poetic interruption. The contrast between flesh and word frames the whole oracle that follows.
-
-v06: “Loyalty” (ḥesed) is contested in this verse. Some witnesses read “glory.” The translation preserves “loyalty” for its sharper edge—what passes is not only beauty but covenant fidelity at the human level.
-
-v09: “Herald of good news” (məbasseret) is the source of the word that becomes “evangelist” through the Septuagint.
-
-v11: Pastoral imagery sits beside imperial imagery (v.10). The LORD comes with might and carries lambs.
-
-v12–17: A sequence of unanswerable questions. No subject is supplied; the comparisons themselves serve as the answer.
-
-v22: “The circle of the earth” (ḥûg hāʾāreṣ) names a horizon, not a globe; ancient cosmology rather than modern geography.
-
-v26: To call the stars “by name” names them as known. The verse adapts royal court imagery to the cosmos.
-
-v31: “Wait for the LORD” renders qāwâ, the verb of expectant trust. The promise is not invulnerability but renewed strength in continuing.
+v06,20: The pinned verb in verse 6 is “he says,” not “I said.” Its word for human faithfulness may also suggest constancy or beauty. Verse 20’s description of the idol-maker’s resources is uncertain.
 
 ## Vocabulary
 
-v01: נָחַם (nāḥam) — To comfort, to console. Also used of repentance and relenting; the word names a turn of feeling.
-
-v02: צָבָא (ṣāḇāʾ) — Warfare, hard service. The end named is more than military.
-
-v03: דֶּרֶךְ (dereḵ) — Way, road. Both physical road and pattern of life.
-
-v05: כָּבוֹד (kāḇôḏ)
-“Glory, weight, manifest presence.”
-
-v06: חֶסֶד (ḥesed)
-“Steadfast love, loyalty. In this verse, the human form is what passes.”
-
-v09: בָּשַׂר (bāśar)
-“To bring good news, to announce. The participial form names the herald.”
-
-v22: חוּג (ḥûg) — Circle, horizon. Names the visible curve of the earth.
-
-v25: קָדוֹשׁ (qāḏôš)
-“Holy One. Marks God as distinct, set apart.”
-
-v31: קָוָה (qāwâ) — To wait, to hope. Names trust held over time.
-
-v31: חָלַף (ḥālap) — To exchange, to renew. The word names not addition of new strength but the trade of old for new.
+v13: **Spirit**: The Hebrew word can mean spirit, breath or wind. “Mind,” familiar from a Greek rendering, is not the pinned Hebrew wording.

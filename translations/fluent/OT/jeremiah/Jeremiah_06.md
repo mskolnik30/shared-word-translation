@@ -4,246 +4,221 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-1-7-biblical-fluency-2026-09-16
 ---
 
+## The siege approaches
+
 <p>
-v01: Flee for safety, people of Benjamin, from within Jerusalem!
-Blow the trumpet in Tekoa;
-raise a signal over Beth-haccherem,
-for disaster looks out from the north—
-a great destruction.
+v01: Seek safety, people of Benjamin,
+away from Jerusalem!
+Blow the ram’s horn in Tekoa;
+raise a signal over Beth-haccherem.
+For disaster looms from the north,
+great destruction.
 </p>
 
 <p>
-v02: The lovely and delicate one—
-Daughter Zion—I will destroy.
+v02: I will destroy Daughter Zion,
+beautiful and pampered.
 </p>
 
 <p>
-v03: Shepherds will come against her with their flocks;
-they will pitch their tents around her.
-Each will pasture his own portion.
+v03: Shepherds with their flocks will come against her;
+they will pitch tents all around her,
+each grazing his own patch.
 </p>
 
 <p>
-v04: “Prepare war against her!
-Rise up, and let us attack at noon!”
-“Woe to us, for the day is turning;
-for the shadows of evening are lengthening.”
+v04: “Consecrate war against her!
+Rise, let us attack at noon!
+Alas for us, the day is declining;
+evening shadows are lengthening.
 </p>
 
 <p>
-v05: “Rise up, and let us attack by night
-and destroy her strongholds!”
+v05: Rise, let us attack at night
+and destroy her palaces!”
 </p>
 
 <p>
-v06: For this is what the LORD of Hosts says:
-
-“Cut down her trees
-and heap up a siege ramp against Jerusalem.
-This is the city that must be punished;
-within her there is nothing but oppression.
+v06: For this is what the **LORD** of hosts says:
+“Cut down trees and heap a siege ramp against Jerusalem.
+This is the city to be called to account;
+there is nothing but oppression within her.
 </p>
 
 <p>
-v07: As a well keeps its water cool,
-so she keeps her wickedness fresh.
-Violence and devastation are heard within her;
-before me are sickness and wounds continually.
+v07: As a well keeps its water flowing,
+so she keeps her wickedness flowing.
+Violence and devastation are heard in her;
+sickness and wounds are constantly before me.
 </p>
 
 <p>
-v08: Be warned, Jerusalem,
-lest my soul turn away from you;
-lest I make you a desolation,
-an uninhabited land.”
+v08: Accept correction, Jerusalem,
+or I will turn away from you
+and make you desolate,
+a land without inhabitants.”
 </p>
 
 <p>
-v09: This is what the LORD of Hosts says:
-
-“They will thoroughly glean
-the remnant of Israel like a vine.
-Pass your hand again over the branches
-like one gathering grapes.”
+v09: This is what the **LORD** of hosts says:
+“They will thoroughly glean Israel’s remnant like a vine.
+Pass your hand over the branches again, like a grape gatherer.”
 </p>
 
 <p>
-v10: To whom can I speak and give warning,
-that they may listen?
-Look—their ear is uncircumcised,
-and they are unable to pay attention.
-Look—the word of the LORD has become an object of scorn to them;
+v10: To whom can I speak and give warning
+so they will listen?
+Their ears are uncircumcised; they cannot pay attention.
+The **LORD**’s word is an insult to them;
 they take no pleasure in it.
 </p>
 
 <p>
-v11: Yet I am full of the wrath of the LORD;
+v11: I am filled with the **LORD**’s fury;
 I am weary of holding it in.
-
-“Pour it out on the child in the street
-and on the gathering of young men together.
-For man and woman alike will be taken,
-the old and those full of days.
+“Pour it out on children in the street
+and on gatherings of young men,
+for husband and wife alike will be captured,
+the old and those full of years.
 </p>
 
 <p>
-v12: Their houses will be turned over to others,
-along with their fields and wives,
+v12: Their houses will pass to others,
+together with fields and wives,
 for I will stretch out my hand
-against the inhabitants of the land,”
-declares the LORD.
+against the land’s inhabitants,” declares the **LORD**.
 </p>
 
 <p>
-v13: “For from the least of them to the greatest of them,
-everyone is greedy for gain;
-from prophet to priest,
-everyone deals falsely.
+v13: “From the least to the greatest,
+all are greedy for gain.
+From prophet to priest,
+all practice falsehood.
 </p>
 
 <p>
-v14: They have treated the wound of my people lightly,
+v14: They treat my people’s fracture as a trifling wound,
 saying, ‘Peace, peace,’
 when there is no peace.
 </p>
 
 <p>
-v15: Were they ashamed because they committed an abomination?
-No, they were not ashamed at all;
-they did not even know how to blush.
-So they will fall among people who fall;
-at the time when I punish them, they will stumble,”
-says the LORD.
+v15: Were they ashamed of the offensive things they did?
+No, they felt no shame; they did not know how to blush.
+So they will fall among the fallen;
+when I call them to account, they will stumble,” says the **LORD**.
+</p>
+
+## The good way refused
+
+<p>
+v16: This is what the **LORD** says:
+“Stand at the crossroads and look.
+Ask about the ancient paths: where is the good way?
+Walk in it, and find rest for yourselves.
+But they said, ‘We will not walk in it.’
 </p>
 
 <p>
-v16: This is what the LORD says:
-
-“Stand at the crossroads and see;
-ask for the ancient paths:
-Where is the good way? Walk in it,
-and find rest for yourselves.”
-But they said, “We will not walk in it.”
-</p>
-
-<p>
-v17: I set watchmen over you:
-“Pay attention to the sound of the trumpet!”
-But they said, “We will not pay attention.”
+v17: I stationed watchmen over you:
+‘Pay attention to the ram’s horn!’
+But they said, ‘We will not pay attention.’
 </p>
 
 <p>
 v18: So hear, nations;
-know, congregation, what will happen to them.
+know, assembly, what is among them.
 </p>
 
 <p>
-v19: Hear, earth!
-Look, I am bringing disaster on this people,
-the fruit of their plans,
-because they have not paid attention to my words
-and have rejected my instruction.
+v19: Hear, earth! Look, I am bringing disaster on this people,
+the fruit of their thoughts,
+because they did not attend to my words
+and rejected my instruction.
 </p>
 
 <p>
-v20: What use to me is frankincense that comes from Sheba,
-or the finest cane from a distant land?
-Your burnt offerings are not acceptable,
-and your sacrifices do not please me.
+v20: What use to me is frankincense from Sheba
+or fine aromatic cane from a distant land?
+Your burnt offerings are not acceptable;
+your sacrifices do not please me.”
 </p>
 
 <p>
-v21: So this is what the LORD says:
-
-“Look, I am placing stumbling blocks before this people;
-parents and children alike will stumble over them;
-neighbor and friend will perish.”
+v21: So this is what the **LORD** says:
+“Look, I am placing obstacles before this people.
+Parents and children together will stumble over them;
+neighbors and companions will perish.”
 </p>
 
 <p>
-v22: This is what the LORD says:
-
-“Look, a people is coming from a northern land;
-a great nation is roused
-from the farthest parts of the earth.
+v22: This is what the **LORD** says:
+“Look, a people comes from the northern land;
+a great nation is stirred up from earth’s farthest reaches.
 </p>
 
 <p>
-v23: They take hold of bow and javelin.
-They are cruel and show no compassion.
-Their sound roars like the sea,
-and they ride on horses,
-drawn up as one man for battle against you,
-Daughter Zion.”
+v23: They grip bow and javelin;
+they are cruel and show no compassion.
+Their voice roars like the sea;
+they ride horses, arrayed for battle
+against you, Daughter Zion.”
 </p>
 
 <p>
-v24: “We have heard its report;
-our hands have gone limp.
-Anguish has seized us,
-pain like that of a woman in labor.”
+v24: We have heard the report of them;
+our hands hang limp.
+Distress has seized us,
+pain like a woman giving birth.
 </p>
 
 <p>
-v25: Do not go out into the field,
-and do not walk on the road,
+v25: Do not go into the fields
+or walk along the road,
 for the enemy has a sword—
-terror is on every side.
+terror on every side!
 </p>
 
 <p>
 v26: Daughter of my people, put on sackcloth
 and roll in ashes.
 Mourn as for an only child;
-make bitter lamentation,
-for suddenly the destroyer
-will come against us.
+raise a bitter lament,
+for suddenly the destroyer will come upon us.
 </p>
 
 <p>
 v27: “I have made you an assayer among my people, a fortress,
-that you may know and test their way.
+so you may know and test their way.
 </p>
 
 <p>
-v28: All of them are the most stubborn rebels,
-going about as slanderers.
-They are bronze and iron;
-all of them act corruptly.
+v28: They are all stubborn rebels, going about as slanderers,
+bronze and iron; all are corrupt.
 </p>
 
 <p>
-v29: The bellows burn fiercely;
-the lead is consumed by the fire.
-In vain they keep refining,
-but the wicked are not removed.
+v29: The bellows blow fiercely;
+the lead is consumed by fire.
+The refiner refines for nothing;
+the wicked are not separated out.
 </p>
 
 <p>
-v30: They call them rejected silver,
-for the LORD has rejected them.”
+v30: They are called Rejected Silver,
+for the **LORD** has rejected them.”
 </p>
 
 ## Notes
 
-v06: “must be punished”: The Hebrew verb can mean “visited,” whether for care, inspection, or judgment.
-
-v25: Textual form: The Hebrew text preserves singular and plural forms side by side: “do not go out” and “do not walk.” The translation addresses the city collectively while retaining the warning’s direct force.
-
-v27: “an assayer … a fortress”: The Hebrew syntax is difficult.
+v02,07,27: The difficult verb in verse 2 can mean destroying or comparing. Verse 7’s well image can mean keeping water fresh or making it flow. Verse 27 retains “fortress” beside “assayer”; another interpretation reads “ore.”
 
 ## Vocabulary
 
-v07: קָרַר (qarar)
-“keep cool” or “make fresh.” The well’s continual supply of water becomes an image for Jerusalem’s continual production of evil.
-
-v14: שָׁלוֹם (shalom)
-“peace,” encompassing safety, wholeness, and well-being. Its threefold occurrence reveals the emptiness of the leaders’ assurance.
-
-v16: נְתִיבוֹת עוֹלָם (netivot ʿolam)
-“ancient paths.” The phrase evokes enduring ways of covenant faithfulness, set against the people’s refusal to walk in the good way.
-
-v19: תּוֹרָה (torah)
-“instruction.” Here it is the LORD’s teaching that the people reject; their coming disaster is described as the fruit of that rejection.
+v14: **Peace**: Shalom includes safety and well-being. Its repetition here is a false assurance, contradicted by the untreated fracture.

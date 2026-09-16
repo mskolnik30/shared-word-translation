@@ -4,51 +4,79 @@ testament: OT
 chapter: 50
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Servant Who Listens
 
 <p>
-v01: Thus says the LORD, Where is the bill of your mother's divorce, with which I have put her away? or which of my creditors is it to whom I have sold you? Look, for your iniquities were you sold, and for your transgressions was your mother put away.
-v02: Why, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? Look, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stink, because there is no water, and die for thirst.
-v03: I clothe the heavens with blackness, and I make sackcloth their covering.
-v04: The Lord GOD has given me the tongue of people who are taught, so that I may know how to sustain the weary with a word. Morning by morning the Lord GOD awakens;
-awakens my ear to listen as people who are taught.
+v01: This is what the **LORD** says:
+“Where is your mother’s divorce document
+by which I sent her away?
+Or to which of my creditors did I sell you?
+Look, you were sold because of your own offenses;
+your mother was sent away because of your rebellions.
+v02: Why, when I came, was no one there?
+Why, when I called, did no one answer?
+Is my hand too short to redeem?
+Have I no power to rescue?
+At my rebuke I dry up the sea
+and turn rivers into desert;
+their fish stink for lack of water
+and die of thirst.
+v03: I clothe the heavens in darkness
+and make sackcloth their covering.”
+v04: The Lord **GOD** has given me a learner’s tongue,
+so I may know how to sustain the weary with a word.
+Morning after morning he awakens me;
+he awakens my ear to listen as learners do.
 </p>
 
 <p>
-v05: The Lord GOD has opened my ear, and I was not rebellious;
-I did not turn backward.
-v06: I gave my back to the strikers, and my cheeks to people who plucked off the hair;
-I did not hide my face from shame and spitting.
-v07: For the Lord GOD will help me;
-so I have not been confounded: therefore have I set my face like a flint, and I know that I will not be disappointed.
-v08: He is near who justifies me;
-who will bring charges against me? Let us stand up together: who is my adversary? Let him come near to me.
+v05: The Lord **GOD** opened my ear,
+and I did not rebel
+or turn back.
+v06: I gave my back to those who beat me
+and my cheeks to those who pulled out my beard.
+I did not hide my face
+from insults and spit.
+v07: But the Lord **GOD** helps me,
+so I have not been disgraced.
+So I have set my face like flint,
+knowing I will not be put to shame.
+v08: The one who vindicates me is near.
+Who will bring a case against me?
+Let us stand together.
+Who is my accuser?
+Let him approach me.
 </p>
 
 <p>
-v09: Look, the Lord GOD will help me;
-who is the one who will condemn me? Look, all they will wax old as a garment, the moth will eat them up.
-v10: Who is among you who fears the LORD, who obeys the voice of his servant? the one who walks in darkness, and has no light, let him trust in the name of the LORD, and rely on his God.
-v11: Look, all you who kindle a fire, who gird yourselves about with firebrands;
-walk you in the flame of your fire, and among the brands that you have kindled. This will you have of my hand;
-you will lie down in sorrow.
+v09: Look, the Lord **GOD** helps me.
+Who can condemn me?
+They will all wear out like a garment;
+moths will eat them.
+v10: Who among you fears the **LORD**
+and listens to his servant?
+Whoever walks in darkness
+and has no light
+should trust in the **LORD**’s name
+and lean on his God.
+v11: Look, all you who kindle a fire
+and surround yourselves with flaming brands:
+walk by the light of your fire
+and the brands you have lit!
+This is what you receive from my hand:
+you will lie down in torment.
 </p>
 
 ## Notes
 
-v04: The servant’s speech begins with listening. The capacity to sustain the weary grows from an ear repeatedly awakened to receive instruction.
-
-v10: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+v04: The learner’s tongue depends on a listening ear. The rare verb rendered “sustain” is uncertain, but the weary person and the spoken word are explicit.
 
 ## Vocabulary
 
-v04: לִמּוּדִים (limmudim)
-“Those who are taught” or “disciples.” People formed through attentive learning.
-
-v04: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
-
-v10: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
+v07: **Flint**: A hard stone; setting the face like flint pictures determination despite abuse.

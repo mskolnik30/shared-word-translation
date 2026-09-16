@@ -4,101 +4,148 @@ testament: OT
 chapter: 49
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The Servant and the Restoration of Zion
 
 <p>
-v01: Listen, islands, to me;
-and listen, you peoples, from far: the LORD has called me from the womb;
-from the bowels of my mother has he made mention of my name:
-v02: and he has made my mouth like a sharp sword;
-in the shadow of his hand has he hid me: and he has made me a polished shaft;
-in his quiver has he kept me close:
-v03: and he said to me, You are my servant;
-Israel, in whom I will be glorified.
-v04: Yet I said, I have labored in vain, I have spent my strength for nothing and vanity;
-yet surely the justice due to me is with the LORD, and my recompense with my God.
+v01: Listen to me, coastlands;
+hear me, peoples far away.
+The **LORD** called me from the womb;
+from inside my mother he spoke my name.
+v02: He made my mouth a sharp sword
+and hid me in the shadow of his hand.
+He made me a polished arrow
+and concealed me in his quiver.
+v03: He said to me, “You are my servant,
+Israel, in whom I will display my glory.”
+v04: But I said, “I have worked for nothing;
+I have spent my strength on emptiness and vapor.
+Yet my cause rests with the **LORD**,
+and my reward with my God.”
 </p>
 
 <p>
-v05: Now says the LORD who formed me from the womb to be his servant, to bring Jacob again to him, and that Israel be gathered to him (for I am honorable in the eyes of the LORD, and my God is become my strength);
-v06: The LORD says, “It is too small a thing that you should be my servant to raise up the tribes of Jacob and restore the preserved of Israel. I will also make you a light to the nations, so that my salvation may reach to the end of the earth.”
-v07: Thus says the LORD, the Redeemer of Israel, and his Holy One, to him whom man despises, to him whom the nation abhors, to a servant of rulers: Kings will see and arise;
-princes, and they will worship;
-because of the LORD who is faithful, even the Holy One of Israel, who has chosen you.
-v08: Thus says the LORD, In an acceptable time have I answered you, and in a day of salvation have I helped you;
-and I will preserve you, and give you for a covenant of the people, to raise up the land, to make them inherit the desolate heritage:
+v05: And now the **LORD** speaks—
+he who formed me in the womb to be his servant,
+to bring Jacob back to him
+and gather Israel to him.
+I am honored in the **LORD**’s eyes,
+and my God has become my strength.
+v06: He says, “It is too small a task for you to be my servant
+merely to raise up Jacob’s tribes
+and bring back Israel’s survivors.
+I will also make you a light for the nations,
+so my salvation may reach the ends of the earth.”
+v07: This is what the **LORD**, Israel’s Redeemer, his Holy One, says
+to one deeply despised, abhorred by the nation,
+a servant of rulers:
+“Kings will see and rise;
+princes will bow down,
+because the **LORD** is faithful,
+Israel’s Holy One has chosen you.”
+v08: This is what the **LORD** says:
+“At a time of favor I answered you;
+on a day of salvation I helped you.
+I will guard you and give you as a covenant for the people,
+to restore the land
+and allot its desolate inheritances,
 </p>
 
 <p>
-v09: saying to people who are bound, Go forth;
-to people who are in darkness, Show yourselves. They will feed in the ways, and on all bare heights will be their pasture.
-v10: They will not hunger nor thirst;
-neither will the heat nor sun strike them: for the one who has mercy on them will lead them, even by springs of water he will guide them.
-v11: I will make all my mountains a way, and my highways will be exalted.
-v12: Look, these will come from far;
-and look, these from the north and from the west;
-and these from the land of Sinim.
+v09: to say to prisoners, ‘Come out!’
+and to those in darkness, ‘Show yourselves!’
+They will graze along the roads
+and find pasture on every bare hill.
+v10: They will neither hunger nor thirst;
+scorching heat and sun will not strike them.
+The one who has compassion on them will lead them
+and guide them beside springs of water.
+v11: I will turn all my mountains into a road,
+and my highways will be raised up.
+v12: Look, these will come from far away;
+look, these from the north and the west,
+and these from the land of Sinim.”
 </p>
 
 <p>
-v13: Sing, heavens;
-and be joyful, earth;
-and break forth into singing, mountains: for the LORD has comforted his people, and will have compassion on his afflicted.
-v14: Yet Zion said, the LORD has forsaken me, and the Lord has forgotten me.
-v15: Can a woman forget her nursing child or have no compassion on the child of her womb? Even these may forget, but I will not forget you.
-v16: Look, I have engraved you on the palms of my hands;
-your walls are continually before me.
+v13: Sing, heavens! Rejoice, earth!
+Mountains, break into song!
+For the **LORD** has comforted his people
+and will have compassion on his afflicted ones.
+v14: But Zion said, “The **LORD** has abandoned me;
+my Lord has forgotten me.”
+v15: “Can a woman forget her nursing child
+and feel no compassion for the son she bore?
+Even if these women forget,
+I will not forget you.
+v16: Look, I have engraved you on my palms;
+your walls are always before me.
 </p>
 
 <p>
-v17: Your children make haste;
-your destroyers and people who made you waste will go forth from you.
-v18: Lift up your eyes round about, and see: all these gather themselves together, and come to you. As I live, says the LORD, you will surely clothe you with them all as with an ornament, and gird yourself with them, like a bride.
-v19: For, as for your waste and your desolate places, and your land that has been destroyed, surely now will you be too small for the inhabitants, and people who swallowed you up will be far away.
-v20: The children of your bereavement will yet say in your ears, The place is too small for me;
-give place to me that I may dwell.
+v17: Your children hurry back;
+those who tore you down and laid you waste depart from you.
+v18: Lift your eyes and look around:
+they have all gathered and come to you.
+As I live,” declares the **LORD**,
+“you will wear them all like jewelry
+and bind them on like a bride.
+v19: Your ruins, your desolate places,
+your devastated land—
+now you will be too cramped for your inhabitants,
+and those who swallowed you will be far away.
+v20: The children born after your bereavement
+will yet say within your hearing,
+‘This place is too cramped for me;
+make room for me to live here.’
 </p>
 
 <p>
-v21: Then will you say in your heart, Who has conceived these for me, seeing I have been bereaved of my children, and am solitary, an exile, and wandering back and forth? and who has brought up these? Look, I was left alone;
-these, where were they?
-v22: Thus says the Lord GOD, Look, I will lift up my hand to the nations, and set up my banner to the peoples;
-and they will bring your sons in their bosom, and your daughters will be carried on their shoulders.
-v23: Kings will be your nursing fathers, and their queens your nursing mothers: they will bow down to you with their faces to the earth, and lick the dust of your feet;
-and you will know that I am the LORD;
-and people who wait for me will not be disappointed.
-v24: Will the prey be taken from the mighty, or the lawful captives be delivered?
+v21: Then you will say in your heart,
+‘Who bore these for me?
+I was bereaved and barren, exiled and cast aside.
+Who raised these?
+I was left all alone—
+where have these come from?’”
+v22: This is what the Lord **GOD** says:
+“Look, I will lift my hand toward the nations
+and raise my banner for the peoples.
+They will bring your sons in their arms
+and carry your daughters on their shoulders.
+v23: Kings will be your foster fathers,
+and their queens your nursing mothers.
+They will bow before you, faces to the ground,
+and lick the dust at your feet.
+Then you will know that I am the **LORD**;
+those who wait for me will not be put to shame.”
+v24: Can plunder be taken from a warrior?
+Can the captives of someone in the right escape?
 </p>
 
 <p>
-v25: But thus says the LORD, Even the captives of the mighty will be taken away, and the prey of the terrible will be delivered;
-for I will contend with the one who contends with you, and I will save your children.
-v26: I will feed people who oppress you with their own flesh;
-and they will be drunken with their own blood, as with sweet wine: and all flesh will know that I, the LORD, am your Savior, and your Redeemer, the Mighty One of Jacob.
+v25: Yes, this is what the **LORD** says:
+“Even a warrior’s captives will be taken away;
+even a tyrant’s plunder will escape.
+I myself will contend with those who contend with you,
+and I myself will save your children.
+v26: I will make your oppressors eat their own flesh;
+they will become drunk on their own blood as on new wine.
+Then all flesh will know
+that I am the **LORD**, your Savior,
+your Redeemer, the Mighty One of Jacob.”
 </p>
 
 ## Notes
 
-v15: Maternal imagery is retained without qualification: the LORD’s faithfulness is compared with, and then declared even more enduring than, a nursing mother’s remembrance.
+v03,05–06: The servant is called Israel yet is commissioned to restore Israel. The draft preserves this tension. In verse 5 the recorded reading gathers Israel “to him”; the written form has “not.”
 
-v07: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v07: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.
-
-v03: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+v17,24: Verse 17 follows “children,” not the alternative “builders.” Verse 24’s pinned word means righteous or in the right; “tyrant” follows a different reading or interpretation.
 
 ## Vocabulary
 
-v15: רֶחֶם (rechem)
-“Womb.” The source of maternal imagery for compassion and remembrance.
-
-v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v07: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v03: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
+v12: **Sinim**: A distant land whose identification is uncertain.

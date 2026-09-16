@@ -4,160 +4,163 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-1-7-biblical-fluency-2026-09-16
 ---
 
-# Jeremiah 7
+## At the temple gate
 
 <p>
-v01: The word that came to Jeremiah from the LORD:
+v01: The word that came to Jeremiah from the **LORD**:
 </p>
 
 <p>
-v02: “Stand at the gate of the house of the LORD, and proclaim there this word. Say: Hear the word of the LORD, all Judah, you who enter these gates to worship the LORD.
+v02: “Stand at the gate of the **LORD**’s house and proclaim this word there: ‘Hear the **LORD**’s word, all you of Judah who enter these gates to bow before the **LORD**.
 </p>
 
 <p>
-v03: Thus says the LORD of Hosts, the God of Israel: Make your ways and your deeds good, and I will let you dwell in this place.
+v03: This is what the **LORD** of hosts, Israel’s God, says: Put your ways and deeds right, and I will let you live in this place.
 </p>
 
 <p>
-v04: Do not trust in deceptive words, saying, ‘The temple of the LORD, the temple of the LORD, the temple of the LORD—these are.’
+v04: Do not trust deceptive words: “The **LORD**’s temple! The **LORD**’s temple! These are the **LORD**’s temple!”
 </p>
 
 <p>
-v05: For if you truly make your ways and your deeds good; if you truly do justice between one person and another;
+v05: If you truly put your ways and deeds right, if you truly do justice between one person and another,
 </p>
 
 <p>
-v06: if you do not oppress the resident alien, the orphan, or the widow; if you do not shed innocent blood in this place; and if you do not go after other gods, to your own harm,
+v06: if you do not oppress the resident foreigner, the orphan or the widow, do not shed innocent blood in this place, and do not follow other gods to your own harm,
 </p>
 
 <p>
-v07: then I will let you dwell in this place, in the land that I gave to your ancestors from age to age.
+v07: then I will let you live in this place, in the land I gave your ancestors from long ago and forever.
 </p>
 
 <p>
-v08: Look, you are trusting in deceptive words that bring no benefit.
+v08: But look, you trust deceptive words that cannot help.
 </p>
 
 <p>
-v09: Will you steal, murder, commit adultery, swear falsely, burn incense to Baal, and go after other gods whom you have not known,
+v09: Will you steal, murder, commit adultery, swear falsely, burn offerings to Baal and follow other gods you have not known,
 </p>
 
 <p>
-v10: then come and stand before me in this house that is called by my name, and say, ‘We are delivered,’ so that you may do all these detestable things?
+v10: then come and stand before me in this house that bears my name, and say, “We are safe!”—only to go on doing all these offensive things?
 </p>
 
 <p>
-v11: Has this house that is called by my name become, in your eyes, a den of robbers? Even I myself have seen it, declares the LORD.
+v11: Has this house that bears my name become a robbers’ den in your eyes? Look, I too have seen it,’ declares the **LORD**.
 </p>
 
 <p>
-v12: But go now to my place that was in Shiloh, where I made my name dwell at first, and see what I did to it because of the evil of my people Israel.
+v12: ‘Go now to my place at Shiloh, where I first made my name dwell. See what I did to it because of my people Israel’s wickedness.
 </p>
 
 <p>
-v13: And now, because you have done all these things, declares the LORD, and because I spoke to you, rising early and speaking, but you did not listen, and I called to you, but you did not answer,
+v13: Now, because you have done all these things,’ declares the **LORD**, ‘and because I spoke to you persistently but you did not listen, called you but you did not answer,
 </p>
 
 <p>
-v14: I will do to the house that is called by my name, in which you trust, and to the place that I gave to you and to your ancestors, as I did to Shiloh.
+v14: I will do to the house that bears my name, the house you trust, and to the place I gave you and your ancestors, what I did to Shiloh.
 </p>
 
 <p>
-v15: I will cast you away from before me, as I cast away all your kindred, all the offspring of Ephraim.
+v15: I will cast you out of my presence, just as I cast out all your brothers, all Ephraim’s offspring.’
+</p>
+
+## Worship and refusal
+
+<p>
+v16: “As for you, do not pray for this people. Do not raise a cry or prayer for them; do not intercede with me, for I will not listen to you.
 </p>
 
 <p>
-v16: As for you, do not pray for this people. Do not lift up for them a cry or a prayer, and do not plead with me, for I will not hear you.
+v17: Do you not see what they are doing in Judah’s cities and Jerusalem’s streets?
 </p>
 
 <p>
-v17: Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?
+v18: The children gather wood, the fathers light the fire, and the women knead dough to make cakes for the Queen of Heaven. They pour drink offerings to other gods to provoke me.
 </p>
 
 <p>
-v18: The children gather wood, the fathers kindle the fire, and the women knead dough to make cakes for the queen of heaven; and they pour out drink offerings to other gods, provoking me to anger.
+v19: Is it me they provoke?” declares the **LORD**. “Is it not themselves, bringing shame upon their own faces?
 </p>
 
 <p>
-v19: Is it I whom they provoke to anger? declares the LORD. Is it not themselves, to the shame of their own faces?
+v20: “So this is what the Lord **GOD** says: Look, my anger and fury will pour over this place—over people and animals, over field trees and the ground’s fruit. It will burn and will not be quenched.
 </p>
 
 <p>
-v20: So thus says the Lord GOD: Look, my anger and my wrath are being poured out on this place—on human beings and animals, on the trees of the field and the fruit of the ground. It will burn and not be quenched.
+v21: “This is what the **LORD** of hosts, Israel’s God, says: Add your burnt offerings to your other sacrifices and eat the meat!
 </p>
 
 <p>
-v21: Thus says the LORD of Hosts, the God of Israel: Add your burnt offerings to your sacrifices, and eat the flesh.
+v22: For when I brought your ancestors out of Egypt, I did not speak to them or command them about burnt offerings and sacrifices.
 </p>
 
 <p>
-v22: For on the day I brought your ancestors out of the land of Egypt, I did not speak with them or command them concerning burnt offering and sacrifice.
+v23: But this is what I commanded them: Listen to my voice, and I will be your God and you will be my people. Walk in every way I command you, so it may go well for you.
 </p>
 
 <p>
-v23: But this is what I commanded them: ‘Listen to my voice, and I will be your God, and you will be my people. Walk in all the way that I command you, so that it may go well with you.’
+v24: Yet they did not listen or incline their ears. They followed their own plans and the stubbornness of their evil hearts; they went backward, not forward.
 </p>
 
 <p>
-v24: But they did not listen or incline their ear. They walked in their own counsels, in the stubbornness of their evil heart; they went backward and not forward.
+v25: From the day your ancestors left Egypt until today, I have sent you all my servants the prophets, day after day, persistently sending them.
 </p>
 
 <p>
-v25: From the day your ancestors came out of the land of Egypt until this day, I have sent to you all my servants the prophets, day after day, rising early and sending them.
+v26: But they did not listen to me or incline their ears. They stiffened their necks and did worse than their ancestors.
 </p>
 
 <p>
-v26: Yet they did not listen to me or incline their ear. They stiffened their neck; they acted more wickedly than their ancestors.
+v27: “Tell them all these words, but they will not listen to you. Call to them, but they will not answer you.
 </p>
 
 <p>
-v27: You will speak all these words to them, but they will not listen to you. You will call to them, but they will not answer you.
+v28: Say to them: This is the nation that did not listen to the **LORD** its God or accept discipline. Faithfulness has perished; it has been cut off from their mouths.
+</p>
+
+## The valley of slaughter
+
+<p>
+v29: Cut off your hair and throw it away;
+raise a lament on the bare heights,
+for the **LORD** has rejected and abandoned
+the generation that aroused his wrath.
 </p>
 
 <p>
-v28: Then you will say to them: This is the nation that has not listened to the voice of the LORD its God and has not accepted discipline. Faithfulness has perished; it has been cut off from their mouth.
+v30: “For the people of Judah have done evil in my eyes,” declares the **LORD**. “They have placed their offensive things in the house that bears my name, defiling it.
 </p>
 
 <p>
-v29: Cut off your consecrated hair and throw it away; raise a lament on the bare heights. For the LORD has rejected and abandoned the generation of his wrath.
+v31: They built Topheth’s high places in the Valley of Ben-hinnom to burn their sons and daughters in fire—something I did not command and that never entered my mind.
 </p>
 
 <p>
-v30: For the people of Judah have done what is evil in my eyes, declares the LORD. They have set their detestable things in the house that is called by my name, defiling it.
+v32: So look, days are coming,” declares the **LORD**, “when it will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter. They will bury people at Topheth for lack of room elsewhere.
 </p>
 
 <p>
-v31: They have built the high places of Topheth, which is in the Valley of Ben-hinnom, to burn their sons and their daughters in the fire—something I did not command, nor did it enter my heart.
+v33: The corpses of this people will become food for the birds of the heavens and the animals of the earth, with no one to frighten them away.
 </p>
 
 <p>
-v32: So, look, days are coming, declares the LORD, when it will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter. They will bury in Topheth because there is no other place.
-</p>
-
-<p>
-v33: The corpses of this people will become food for the birds of the heavens and for the animals of the earth, with no one to frighten them away.
-</p>
-
-<p>
-v34: I will bring to an end from the cities of Judah and from the streets of Jerusalem the sound of rejoicing and the sound of gladness, the voice of groom and the voice of bride; for the land will become a wasteland.
+v34: I will silence in Judah’s cities and Jerusalem’s streets the sound of joy and gladness, the voice of bridegroom and bride, for the land will become a ruin.”
 </p>
 
 ## Notes
 
+v03,21–23: “Let you live” can also be read “dwell with you.” The command to eat burnt offerings is deliberately jarring. The following denial concerning sacrifice is retained without adding “merely” or “primarily” to reconcile it with other texts.
 
+v31–32: Sons and daughters are explicitly burned. The LORD rejects both commanding and conceiving this practice; the valley is then renamed for the coming slaughter.
 
 ## Vocabulary
 
-v04: הֵיכָל (heikhal)
-“temple” or “palace.” Its threefold repetition becomes the deceptive confession against which Jeremiah speaks: the sacred building is invoked as a guarantee of protection.
-
-v05: מִשְׁפָּט (mishpat)
-“justice” or “judgment.” Here it means the practice of right judgment in relations between people, not merely a legal procedure.
-
-v11: מְעָרַת פָּרִצִים (meʿarat paritsim)
-“den of robbers.” The phrase pictures the temple as a refuge claimed by violent offenders rather than a place shaping a faithful people.
-
-v28: אֱמוּנָה (emunah)
-“faithfulness.” More than inward belief, it denotes reliability and steadfastness. Its loss “from their mouth” signals the disappearance of truthful, faithful speech.
+v11: **Robbers’ den**: A refuge used by violent robbers; the accusation concerns treating the temple as shelter while continuing wrongdoing.

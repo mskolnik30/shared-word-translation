@@ -4,81 +4,110 @@ testament: OT
 chapter: 33
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## The LORD Is Exalted in Zion
 
 <p>
-v01: Woe to you who destroy, but you were not destroyed;
-and who betray, but nobody betrayed you! When you have finished destroying, you will be destroyed;
-and when you have made an end of betrayal, you will be betrayed.
-v02: O LORD, be gracious to us. We have waited for you. Be our strength every morning, our salvation also in the time of trouble.
-v03: At the noise of the thunder, the peoples have fled. When you lift yourself up, the nations are scattered.
-v04: Your spoil will be gathered as the caterpillar gathers. Men will leap on it as locusts leap.
+v01: Woe, destroyer who has not been destroyed,
+betrayer whom no one has betrayed!
+When you finish destroying, you will be destroyed;
+when you end your betrayal, they will betray you.
+v02: **LORD**, show us favor; we wait for you.
+Be their arm each morning,
+our salvation in a time of distress.
+v03: At the sound of tumult peoples flee;
+when you rise, nations scatter.
+v04: Your plunder is gathered as the locust gathers;
+as locusts rush, people rush upon it.
 </p>
 
 <p>
-v05: The LORD is exalted, for he dwells on high. He has filled Zion with justice and righteousness.
-v06: There will be stability in your times, abundance of salvation, wisdom, and knowledge. The fear of the LORD is your treasure.
+v05: The **LORD** is exalted, for he dwells on high;
+he fills Zion with justice and righteousness.
+v06: He will be the stability of your times,
+a wealth of salvation, wisdom, and knowledge.
+The fear of the **LORD** is his treasure.
 v07: Look, their valiant ones cry outside;
-the ambassadors of peace weep bitterly.
-v08: The highways are desolate. The traveling man ceases. The covenant is broken. He has despised the cities. He does not regard man.
+messengers of peace weep bitterly.
+v08: Highways lie desolate; travelers have stopped.
+He has broken the covenant, despised cities,
+and has no regard for anyone.
 </p>
 
 <p>
-v09: The land mourns and languishes. Lebanon is confounded and withers away. Sharon is like a desert, and Bashan and Carmel are stripped bare.
-v10: "Now I will arise," says the LORD;
-"Now I will lift myself up. Now I will be exalted.
-v11: You will conceive chaff. You will bring forth stubble. Your breath is a fire that will devour you.
-v12: The peoples will be like the burning of lime, like thorns that are cut down and burned in the fire.
+v09: The land mourns and droops;
+Lebanon is ashamed and withers.
+Sharon has become like the Arabah;
+Bashan and Carmel shake off their leaves.
+v10: “Now I will rise,” says the **LORD**.
+“Now I will be exalted; now I will be lifted high.
+v11: You conceive dry grass and give birth to stubble;
+your breath is a fire that consumes you.
+v12: Peoples will be burned to lime,
+like cut thorns set ablaze.
 </p>
 
 <p>
-v13: Hear, you who are far off, what I have done;
-and, you who are near, acknowledge my might."
-v14: The sinners in Zion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?
-v15: the one who walks righteously, and speaks blamelessly;
-the one who despises the gain of oppressions, who gestures with his hands, refusing to take a bribe, who stops his ears from hearing of blood, and shuts his eyes from looking at evil—
-v16: he will dwell on high. His place of defense will be the fortress of rocks. His bread will be supplied. His waters will be sure.
+v13: You far away, hear what I have done!
+You nearby, acknowledge my might!”
+v14: Sinners in Zion are afraid;
+trembling grips the godless:
+“Who among us can live with devouring fire?
+Who among us can live with everlasting burning?”
+v15: The one who walks righteously and speaks uprightly,
+rejects profit from oppression,
+shakes off a bribe from his hands,
+stops his ears against talk of bloodshed,
+and closes his eyes against evil—
+v16: that person will dwell on high;
+rocky strongholds will be his refuge.
+His bread will be supplied; his water will be secure.
 </p>
 
 <p>
-v17: Your eyes will see the king in his beauty. They will see a distant land.
-v18: Your heart will meditate on the terror. Where is the one who counted? Where is the one who weighed? Where is the one who counted the towers?
-v19: You will no longer see the fierce people, a people of a deep speech that you cannot comprehend, with a strange language that you cannot understand.
-v20: Look at Zion, the city of our appointed festivals. Your eyes will see Jerusalem, a quiet habitation, a tent that will not be removed. Its stakes will never be plucked up, nor will any of its cords be broken.
+v17: Your eyes will see a king in his beauty;
+they will see a land stretching far away.
+v18: Your heart will recall the terror:
+“Where is the one who counted? Where is the one who weighed?
+Where is the one who counted the towers?”
+v19: You will no longer see the insolent people,
+the people whose speech is too obscure to understand,
+whose stammering tongue makes no sense.
+v20: Look at Zion, city of our appointed festivals!
+Your eyes will see Jerusalem, a peaceful home,
+a tent that will not be moved,
+whose stakes will never be pulled up,
+whose ropes will never be snapped.
 </p>
 
 <p>
-v21: But there the LORD will be with us in majesty, a place of broad rivers and streams, in which no galley with oars will go, neither will any gallant ship pass by there.
-v22: For the LORD is our judge. the LORD is our lawgiver. the LORD is our king. He will save us.
-v23: Your rigging is untied. They could not strengthen the foot of their mast. They could not spread the sail. Then the prey of a great spoil was divided. The lame took the prey.
-v24: The inhabitant will not say, "I am sick." The people who dwell in it will be forgiven their iniquity.
+v21: There the majestic **LORD** will be for us
+a place of rivers, broad waterways,
+where no rowing ship goes
+and no mighty vessel passes.
+v22: For the **LORD** is our judge,
+the **LORD** our lawgiver,
+the **LORD** our king;
+he will save us.
+v23: Your ropes hang loose;
+they do not hold the mast firm or spread the sail.
+Then abundant plunder will be divided;
+even the lame will take the spoil.
+v24: No inhabitant will say, “I am sick.”
+The people living there will have their guilt forgiven.
 </p>
 
 ## Notes
 
-v17: The chapter moves from present threat to a vision of the king in beauty and a secure Zion, holding crisis and future hope in one horizon.
+v02,06: The prayer shifts from “their arm” to “our salvation,” and verse 6 shifts from “your times” to “his treasure.” The Hebrew’s changes of person are retained.
 
-v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
-
-v05: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+v08: The pinned text says “cities.” A reading “witnesses” would make the line more explicitly legal, but is not substituted here.
 
 ## Vocabulary
 
-v08: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v05: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v05: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.
-
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v05: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+v22: **Lawgiver**: One who establishes binding rules; the title stands alongside judge and king.

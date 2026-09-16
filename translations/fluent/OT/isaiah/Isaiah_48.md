@@ -4,95 +4,107 @@ testament: OT
 chapter: 48
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-24-66-biblical-fluency-2026-09-16
 ---
 
 ## Israel Called to Listen
 
 <p>
-v01: Hear you this, house of Jacob, who are called by the name of Israel, and are come forth out of the waters of Judah;
-who swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness
-v02: (for they call themselves of the holy city, and stay themselves on the God of Israel;
-the LORD of Hosts is his name):
-v03: I have declared the former things from of old;
-yes, they went forth out of my mouth, and I shown them: suddenly I did them, and they happened.
-v04: Because I knew that you are obstinate, and your neck is an iron sinew, and your brow brass;
+v01: Hear this, Jacob’s house,
+you called by Israel’s name, who came from Judah’s waters,
+who swear by the **LORD**’s name and invoke Israel’s God,
+but not in truth or righteousness.
+v02: They call themselves citizens of the holy city
+and lean on Israel’s God—
+the **LORD** of hosts is his name.
+v03: “The former things I announced long ago;
+they went out from my mouth, and I made them heard.
+Suddenly I acted, and they came to pass.
+v04: I knew you were stubborn,
+your neck an iron sinew, your forehead bronze.
 </p>
 
 <p>
-v05: so I have declared it to you from of old;
-before it happened I shown it you;
-lest you should say, My idol has done them, and my engraved image, and my molten image, has commanded them.
-v06: You have heard it;
-see all this;
-and you, will you not declare it? I have shown you new things from this time, even hidden things, which you have not known.
-v07: They are created now, and not from of old;
-and before this day you did not hear them;
-lest you should say, Look, I knew them.
-v08: Yes, you did not hear;
-yes, you did not know;
-yes, from of old your ear was not opened: for I knew that you did deal very treacherously, and was called a transgressor from the womb.
+v05: So I told you long ago;
+before it happened I made you hear,
+lest you say, ‘My idol did these things;
+my carved image and cast image commanded them.’
+v06: You have heard; now look at it all.
+Will you not declare it?
+From now on I tell you new things,
+hidden things you have not known.
+v07: They are created now, not long ago;
+before today you had not heard of them,
+lest you say, ‘Look, I knew them already.’
+v08: You had not heard, you had not known;
+your ear had not been opened long ago.
+For I knew you would betray, betray;
+from the womb you were called a rebel.
 </p>
 
 <p>
-v09: For my name's sake will I defer my anger, and for my praise will I refrain for you, that I not cut you off.
+v09: For my name’s sake I delay my anger;
+for my praise I restrain it toward you,
+so I do not cut you off.
 v10: Look, I have refined you, but not as silver;
 I have chosen you in the furnace of affliction.
-v11: For my own sake, for my own sake, will I do it;
-for how should my name be profaned? and my glory I will not give to another.
-v12: Listen to me, O Jacob, and Israel my called: I am he;
-I am the first, I also am the last.
+v11: For my own sake, for my own sake I act.
+How could my name be profaned?
+I will not give my glory to another.
+v12: Listen to me, Jacob, Israel whom I called!
+I am he; I am first, and I am last.
 </p>
 
 <p>
-v13: Yes, my hand has laid the foundation of the earth, and my right hand has spread out the heavens: when I call to them, they stand up together.
-v14: Assemble yourselves, all you, and hear;
-who among them has declared these things? He whom the LORD loves will perform his pleasure on Babylon, and his arm will be on the Chaldeans.
-v15: I, even I, have spoken;
-yes, I have called him;
-I have brought him, and he will make his way prosperous.
-v16: Come you near to me, hear you this;
+v13: My hand founded the earth;
+my right hand spread out the heavens.
+When I call them, they stand together.
+v14: Gather, all of you, and hear!
+Who among them announced these things?
+The **LORD** loves him; he will fulfill his purpose against Babylon,
+and his arm will be against the Chaldeans.
+v15: I, I have spoken; I have called him.
+I have brought him, and his way will succeed.
+v16: Come near me and hear this:
 from the beginning I have not spoken in secret;
-from the time that it was, there am I: and now the Lord GOD has sent me, and his Spirit.
+from the time it came to be, I was there.”
+And now the Lord **GOD** has sent me, and his Spirit.
 </p>
 
 <p>
-v17: Thus says the LORD, your Redeemer, the Holy One of Israel: “I am the LORD your God, who teaches you for your good, who leads you in the way you should go.
-v18: Oh that you had listened to my commandments! then had your peace been as a river, and your righteousness as the waves of the sea:
-v19: your seed also had been as the sand, and the offspring of your body like the grains of it: his name would not be cut off nor destroyed from before me.
-v20: Go you forth from Babylon, flee you from the Chaldeans;
-with a voice of singing declare you, tell this, utter it even to the end of the earth: say you, the LORD has redeemed his servant Jacob.
+v17: The **LORD**, your Redeemer, Israel’s Holy One, says:
+“I am the **LORD** your God,
+teaching you what benefits you,
+guiding you in the way you should go.
+v18: If only you had listened to my commandments!
+Your peace would have been like a river,
+your righteousness like the waves of the sea.
+v19: Your offspring would have been like sand,
+your descendants like its grains;
+their name would never have been cut off
+or destroyed from my presence.”
+v20: Go out from Babylon! Flee from the Chaldeans!
+With a joyful shout declare this, make it heard;
+carry it to earth’s ends:
+“The **LORD** has redeemed his servant Jacob!”
 </p>
 
 <p>
-v21: They did not thirst when he led them through the deserts;
-he caused the waters to flow out of the rock for them;
-he split the rock also, and the waters gushed out.
-v22: There is no peace, says the LORD, to the wicked.
+v21: They did not thirst when he led them through wastelands;
+he made water flow for them from rock.
+He split rock, and water gushed out.
+v22: “There is no peace for the wicked,” says the **LORD**.
 </p>
 
 ## Notes
 
-v10: “refined … not as silver” — Israel’s affliction is compared with refining, but the comparison is qualified; suffering is not reduced to a simple purification formula.
+v01,10: “Judah’s waters” is the pinned image of descent. Verse 10 says “chosen”; “tested” would require a different Hebrew reading.
 
-v17: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v02: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v20: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+v16: The final speaker is not identified. “And his Spirit” can mean that the Spirit also sends the speaker or that the Spirit is also sent.
 
 ## Vocabulary
 
-v17: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v17: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v02: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v20: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v02: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v22: **Peace**: Shalom includes security and well-being. The refrain returns in 57:21 with “my God” as the speaker’s designation.
