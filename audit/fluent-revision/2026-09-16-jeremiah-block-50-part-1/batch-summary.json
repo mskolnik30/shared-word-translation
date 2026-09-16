@@ -1,0 +1,67 @@
+{
+  "scope": "Jeremiah 8–20",
+  "chapters": 13,
+  "verses": 287,
+  "status": "COMPLETED_PORTION_OF_FIFTY_CHAPTER_BLOCK",
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 13,
+    "completed_scope": "Jeremiah 8–20",
+    "completed_verses": 287,
+    "remaining_scope": "Jeremiah 21–52; Lamentations 1–5",
+    "remaining_chapters": 37,
+    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+  },
+  "books": [
+    {
+      "book": "jeremiah",
+      "rel": "audit/fluent-revision/2026-09-16-jeremiah-8-20",
+      "verses": 287,
+      "chapters": 13,
+      "focused": 88,
+      "overlap": {
+        "before": {
+          "identical": 244,
+          "near_identical_nonidentical": 41,
+          "mean_word_similarity": 0.993571
+        },
+        "after": {
+          "identical": 4,
+          "near_identical_nonidentical": 23,
+          "mean_word_similarity": 0.739043
+        }
+      }
+    }
+  ],
+  "source_first_drafting": true,
+  "all_annotations_read": true,
+  "all_comparators_read_after_drafting": true,
+  "focused_source_english_rereads": 88,
+  "post_reread_refinements": [
+    "Preserved established Hebrew numbering at 8:23 and 9:1–25 instead of adopting common English labels.",
+    "Adjusted 11:15 to treat the many as possible agents, and kept the sacred-meat clause visibly uncertain.",
+    "Removed an unnecessary only from 12:5.",
+    "Used hard stone at 17:1 instead of claiming a precise mineral.",
+    "Made 17:16’s shepherd expression readable while documenting its literal form.",
+    "Kept Pashhur’s beating directly attributed to him in 20:2; clarified the name sentence in 20:3."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 244,
+      "near_identical_nonidentical": 41,
+      "mean_word_similarity": 0.993571
+    },
+    "after": {
+      "identical": 4,
+      "near_identical_nonidentical": 23,
+      "mean_word_similarity": 0.739043
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage, not proof of fidelity, originality, or comprehension. Four identical verses and shared phrases were retained where clear.",
+  "review_status": "Independent editorial review and reader testing pending.",
+  "publication_allowed": false,
+  "next_work": "Continue remaining 37 chapters: Jeremiah 21–52 and Lamentations 1–5. No routine approval required.",
+  "github": "Authorized upload remains blocked by prior missing terminal authentication and connector 403. No rejected write retried."
+}

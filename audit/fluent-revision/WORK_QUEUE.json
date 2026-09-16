@@ -421,12 +421,17 @@
       "scope": "Jeremiah 1–7",
       "verses": 207,
       "ledger": "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 8–20",
+      "verses": 287,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Jeremiah 8–52; Lamentations 1–5",
-      "action": "Next fifty-chapter block: independently draft from verified pinned Hebrew; read every verse and annotation, then compare TSW. Preserve pending whole-book consistency reviews."
+      "scope": "Jeremiah 21–52; Lamentations 1–5",
+      "action": "Complete the remaining 37 chapters of the current fifty-chapter block, begun with Jeremiah 8–20. Continue source-first drafting and exact source bindings; preserve pending consistency reviews."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -533,7 +538,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Successive fifty-chapter blocks authorized without routine approval pauses, retaining source and QA standards. Latest block: Isaiah 24–66; Jeremiah 1–7, 1,058 public verse labels bound to 1,057 original Hebrew records. Independent review and reader testing pending.",
+  "batch_preference": "Successive fifty-chapter blocks authorized without routine approval pauses, retaining source and QA standards. Save verified intermediate checkpoints when needed without marking unfinished blocks complete.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",
@@ -541,5 +546,16 @@
       "evidence": "audit/fluent-revision/2026-09-15-esther-7-10/whole-book-authoring-review.json",
       "independent_editorial_status": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 13,
+    "completed_scope": "Jeremiah 8–20",
+    "completed_verses": 287,
+    "remaining_scope": "Jeremiah 21–52; Lamentations 1–5",
+    "remaining_chapters": 37,
+    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+  }
 }

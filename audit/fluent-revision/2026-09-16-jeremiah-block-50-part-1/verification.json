@@ -1,0 +1,228 @@
+{
+  "status": "PASSED",
+  "base_commit": "b128d9ee40047f89c8f80fb9d263291f345bc779",
+  "new_chapters": 13,
+  "new_verses": 287,
+  "unique_original_source_records": {
+    "jeremiah": 287
+  },
+  "cumulative_coverage": {
+    "ledgers": 85,
+    "chapters": 770,
+    "verses": 19548
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 84,
+    "chapters_byte_identical": 757,
+    "verses": 19261,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for affected Jeremiah ledger",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Jeremiah 8:7": [
+      "stork",
+      "turtledove",
+      "swift",
+      "crane"
+    ],
+    "Jeremiah 8:11": [
+      "Peace, peace"
+    ],
+    "Jeremiah 8:23": [
+      "spring of tears"
+    ],
+    "Jeremiah 9:23": [
+      "steadfast love",
+      "justice",
+      "righteousness"
+    ],
+    "Jeremiah 9:25": [
+      "Egypt",
+      "Judah",
+      "Edom",
+      "Ammonites",
+      "Moab",
+      "uncircumcised in heart"
+    ],
+    "Jeremiah 10:9": [
+      "Tarshish",
+      "Uphaz",
+      "Blue",
+      "purple"
+    ],
+    "Jeremiah 10:11": [
+      "did not make",
+      "will vanish"
+    ],
+    "Jeremiah 11:4": [
+      "iron furnace",
+      "my people",
+      "your God"
+    ],
+    "Jeremiah 11:5": [
+      "milk and honey",
+      "Amen"
+    ],
+    "Jeremiah 11:19": [
+      "tame lamb",
+      "tree",
+      "fruit"
+    ],
+    "Jeremiah 12:5": [
+      "horses",
+      "Jordan"
+    ],
+    "Jeremiah 12:15": [
+      "compassion",
+      "each",
+      "own land"
+    ],
+    "Jeremiah 13:4": [
+      "Perath"
+    ],
+    "Jeremiah 13:18": [
+      "queen mother"
+    ],
+    "Jeremiah 13:22": [
+      "violated"
+    ],
+    "Jeremiah 13:23": [
+      "Cushite",
+      "leopard"
+    ],
+    "Jeremiah 14:5": [
+      "doe",
+      "fawn"
+    ],
+    "Jeremiah 14:6": [
+      "donkeys",
+      "jackals"
+    ],
+    "Jeremiah 15:1": [
+      "Moses",
+      "Samuel"
+    ],
+    "Jeremiah 15:3": [
+      "four",
+      "sword",
+      "dogs",
+      "birds",
+      "animals"
+    ],
+    "Jeremiah 15:4": [
+      "Manasseh",
+      "Hezekiah"
+    ],
+    "Jeremiah 15:9": [
+      "seven",
+      "still day"
+    ],
+    "Jeremiah 15:16": [
+      "ate them"
+    ],
+    "Jeremiah 15:18": [
+      "deceptive stream"
+    ],
+    "Jeremiah 16:7": [
+      "father",
+      "mother",
+      "cup"
+    ],
+    "Jeremiah 16:18": [
+      "double",
+      "corpses"
+    ],
+    "Jeremiah 17:8": [
+      "does not notice",
+      "drought",
+      "fruit"
+    ],
+    "Jeremiah 17:9": [
+      "deceitful",
+      "sick"
+    ],
+    "Jeremiah 17:25": [
+      "David",
+      "chariots",
+      "horses"
+    ],
+    "Jeremiah 17:26": [
+      "Benjamin",
+      "Shephelah",
+      "Negeb",
+      "frankincense"
+    ],
+    "Jeremiah 18:4": [
+      "another vessel"
+    ],
+    "Jeremiah 18:8": [
+      "relent",
+      "disaster"
+    ],
+    "Jeremiah 18:10": [
+      "relent",
+      "good"
+    ],
+    "Jeremiah 18:23": [
+      "Do not forgive"
+    ],
+    "Jeremiah 19:9": [
+      "flesh",
+      "sons",
+      "daughters"
+    ],
+    "Jeremiah 19:11": [
+      "never be repaired"
+    ],
+    "Jeremiah 20:1": [
+      "Pashhur",
+      "Immer"
+    ],
+    "Jeremiah 20:2": [
+      "beat Jeremiah",
+      "stocks",
+      "Upper Benjamin"
+    ],
+    "Jeremiah 20:6": [
+      "Babylon",
+      "buried"
+    ],
+    "Jeremiah 20:7": [
+      "deceived",
+      "overpowered",
+      "prevailed"
+    ],
+    "Jeremiah 20:9": [
+      "fire",
+      "bones"
+    ],
+    "Jeremiah 20:17": [
+      "mother",
+      "grave",
+      "pregnant forever"
+    ]
+  },
+  "versification": "Existing Hebrew numbering retained: 8:23 and 9:1–25. All 287 public labels match original Hebrew/Aramaic labels.",
+  "aramaic": "Jeremiah 10:11 verified against all direct word morphology tags.",
+  "repeated_refrains": "Hope/healing/terror at 8:15 and 14:19; deceit/prevail sequence at 20:7–11; divine-name repetitions checked.",
+  "focused_authoring_reread": 88,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "All prior pending reviews preserved.",
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 13,
+    "completed_scope": "Jeremiah 8–20",
+    "completed_verses": 287,
+    "remaining_scope": "Jeremiah 21–52; Lamentations 1–5",
+    "remaining_chapters": 37,
+    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+  },
+  "publication_allowed": false
+}

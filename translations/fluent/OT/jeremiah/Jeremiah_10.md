@@ -4,82 +4,82 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-8-20-biblical-fluency-2026-09-16
 ---
 
+## Made gods and the living God
+
 <p>
-v01: Hear the word that the LORD has spoken concerning you, house of Israel.
+v01: House of Israel, hear the word the **LORD** has spoken about you.
 </p>
 
 <p>
-v02: Thus says the LORD:
-
-Do not learn the way of the nations,
-and do not be dismayed by the signs of the heavens,
-though the nations are dismayed by them.
+v02: This is what the **LORD** says:
+“Do not learn the way of the nations
+or be terrified by signs in the sky,
+though the nations are terrified by them.
 </p>
 
 <p>
-v03: For the customs of the peoples are emptiness:
-a tree is cut from the forest,
-the work of a craftsperson’s hands with an axe.
+v03: The peoples’ customs are emptiness.
+Someone cuts a tree from the forest;
+a craftworker shapes it with a tool.
 </p>
 
 <p>
-v04: They adorn it with silver and gold;
-they fasten it with nails and hammers
-so that it will not topple.
+v04: They adorn it with silver and gold,
+fasten it with nails and hammers
+so it will not wobble.
 </p>
 
 <p>
-v05: Like a scarecrow in a cucumber field, they cannot speak;
-they must be carried, for they cannot walk.
-Do not fear them,
-for they cannot do harm,
-nor is it in them to do good.
+v05: Like scarecrows in a cucumber field,
+they cannot speak.
+They must be carried, because they cannot walk.
+Do not fear them:
+they can do no harm,
+and they have no power to do good.”
 </p>
 
 <p>
-v06: There is none like you, LORD;
-you are great,
-and your name is great in might.
+v06: No one is like you, **LORD**.
+You are great;
+your name is great in might.
 </p>
 
 <p>
-v07: Who would not fear you,
-King of the nations?
-For this is your due.
-
-For among all the wise of the nations
-and in all their kingdoms,
-there is none like you.
+v07: Who would not fear you, King of the nations?
+It is your due.
+Among all the nations’ wise ones
+and throughout their kingdoms,
+no one is like you.
 </p>
 
 <p>
-v08: Together they are dull and foolish;
-the instruction of idols is wood.
+v08: All together they are senseless and foolish;
+the instruction of empty idols is only wood.
 </p>
 
 <p>
-v09: Hammered silver is brought from Tarshish,
-and gold from Uphaz—
-the work of a craftsperson and of a goldsmith’s hands.
+v09: Beaten silver comes from Tarshish
+and gold from Uphaz,
+the work of a craftworker and a goldsmith’s hands.
 Blue and purple are their clothing;
-all of them are the work of skilled artisans.
+all of it is skilled workers’ handiwork.
 </p>
 
 <p>
-v10: But the LORD is the true God;
-he is the living God and the everlasting King.
-At his wrath the earth quakes,
-and the nations cannot endure his indignation.
+v10: But the **LORD** is the true God;
+he is the living God and everlasting King.
+The earth trembles at his anger;
+the nations cannot endure his fury.
 </p>
 
 <p>
-v11: Thus you will say to them:
-
-“The gods that did not make the heavens and the earth
-will perish from the earth
-and from beneath these heavens.”
+v11: This is what you are to tell them: “The gods who did not make the heavens and the earth will vanish from the earth and from beneath these heavens.”
 </p>
 
 <p>
@@ -89,112 +89,105 @@ and stretched out the heavens by his understanding.
 </p>
 
 <p>
-v13: When he gives his voice,
-there is a roar of waters in the heavens;
-he causes clouds to rise from the ends of the earth.
-He makes lightning for the rain
-and brings out the wind from his storehouses.
+v13: When he gives voice, waters roar in the heavens.
+He raises clouds from the ends of the earth,
+makes lightning for the rain,
+and brings wind out of his storehouses.
 </p>
 
 <p>
-v14: Every person is dull, without knowledge;
-every goldsmith is put to shame by an idol.
-For the image he has cast is a lie,
-and there is no breath in them.
+v14: Everyone is senseless, without knowledge;
+every goldsmith is shamed by the carved image.
+The image he casts is a lie;
+there is no breath in them.
 </p>
 
 <p>
-v15: They are emptiness, a work of mockery;
-at the time of their punishment, they will perish.
+v15: They are emptiness, objects of mockery.
+When they are called to account, they will perish.
 </p>
 
 <p>
-v16: The Portion of Jacob is not like these,
-for he is the Maker of everything,
-and Israel is the tribe of his inheritance;
-the LORD of Hosts is his name.
+v16: Jacob’s portion is not like these,
+for he is the one who forms everything.
+Israel is the tribe of his inheritance;
+the **LORD** of hosts is his name.
 </p>
 
+## The ruined tent
+
 <p>
-v17: Gather up your bundle from the land,
+v17: Gather your bundle from the ground,
 you who live under siege.
 </p>
 
 <p>
-v18: For thus says the LORD:
-
-Look, I am slinging out the inhabitants of the land
-at this time,
-and I will bring distress upon them,
-so that they may find it.
+v18: For this is what the **LORD** says:
+“This time I am slinging out the land’s inhabitants.
+I will press them hard,
+so that they feel it.”
 </p>
 
 <p>
-v19: Woe is me because of my brokenness!
-My wound is grievous.
-Yet I said,
-“Surely this is my sickness,
+v19: Oh, my brokenness!
+My wound is severe.
+Yet I said, “This is my sickness,
 and I must bear it.”
 </p>
 
 <p>
-v20: My tent has been ravaged,
-and all my cords have been torn away.
-My children have gone from me, and they are no more;
-there is no one left to spread my tent again
-or to set up my tent curtains.
+v20: My tent is destroyed;
+all its ropes are snapped.
+My children have gone from me and are no more.
+There is no one left to pitch my tent
+or hang its curtains.
 </p>
 
 <p>
-v21: For the shepherds have become dull
-and have not sought the LORD;
-so they have not acted wisely,
-and all their flock has been scattered.
+v21: The shepherds have become senseless
+and have not sought the **LORD**.
+So they have not prospered,
+and their whole flock is scattered.
 </p>
 
 <p>
-v22: The sound of a report—look, it is coming!
-A great shaking from the land of the north,
-to make the cities of Judah a desolation,
-a dwelling place of jackals.
+v22: Listen—a report is coming!
+A great uproar from the northern land,
+to turn Judah’s cities into a wasteland,
+a home for jackals.
 </p>
 
 <p>
-v23: I know, LORD, that a person’s way is not their own;
-it is not for one who walks
-to direct their steps.
+v23: I know, **LORD**, that people do not own their way;
+those who walk cannot direct their own steps.
 </p>
 
 <p>
-v24: Correct me, LORD, but with justice;
+v24: Correct me, **LORD**, but with justice,
 not in your anger,
-lest you make me few.
+or you will reduce me to nothing.
 </p>
 
 <p>
-v25: Pour out your wrath on the nations that do not know you,
-and on the families that do not call on your name.
-For they have devoured Jacob;
-they have devoured him and brought him to an end,
-and they have made his dwelling place desolate.
+v25: Pour out your fury on the nations that do not know you,
+on the families that do not call on your name.
+For they have devoured Jacob—
+devoured him and consumed him—
+and laid waste his home.
 </p>
 
 ## Notes
 
-v05: The image is literally like a “palm tree of a cucumber field,” an expression whose precise picture is uncertain.
+v5,8: “Scarecrows in a cucumber field” is one reading of the compressed Hebrew; a rigid palm-like object has also been proposed. Verse 8 likewise compresses its scorn into the assertion that the idols’ instruction is wood.
 
-v18: The phrase “so that they may find it” is abrupt: the object is unstated. It may mean that the inhabitants will finally encounter the distress announced against them, or that they will come to recognize the LORD’s action through it.
+v9: The pinned Hebrew names Uphaz. Its location is uncertain; this edition does not replace it with Ophir.
+
+v11: This verse is in Aramaic, surrounded by Hebrew. Its verbs for making and perishing sound alike.
+
+v18: The final Hebrew clause is literally “so that they find.” Its object is unstated; “feel it” relates the finding to the distress just announced.
 
 ## Vocabulary
 
-v03: הֶבֶל (hevel)
-“Emptiness” describes the customs of the peoples as insubstantial and futile. The word returns in verse 15, framing idols as unable to bear the weight placed upon them.
+v16: **Portion**: An allotted share. Here the LORD is Jacob’s portion, while Israel is called God’s inheritance.
 
-v13: רוּחַ (ruach)
-“Wind” comes from God’s storehouses. The term can also mean breath or spirit; its use here contributes to the contrast with idols, in which “there is no breath” (v.
-
-v16: חֵלֶק (cheleq)
-“Portion” expresses covenant belonging. The LORD is Jacob’s portion, not an object possessed or fashioned by Israel.
-
-v24: מִשְׁפָּט (mishpat)
-“Justice” or “judgment” asks for correction according to what is right, in contrast to anger that would reduce the speaker to nothing.
+v21: **Shepherds**: An image for leaders responsible for the people, pictured as their flock.

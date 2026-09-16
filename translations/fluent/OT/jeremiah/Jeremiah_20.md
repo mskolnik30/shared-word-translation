@@ -4,207 +4,125 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-8-20-biblical-fluency-2026-09-16
 ---
 
-## Pashhur Strikes Jeremiah
+## Pashhur strikes Jeremiah
+
 <p>
-v01: Now Pashhur son of Immer, the priest, who was chief officer in the house of the LORD, heard Jeremiah prophesying these things.
-v02: Then Pashhur struck Jeremiah the prophet and put him in the stocks that were in the upper Benjamin Gate of the house of the LORD.
+v01: Pashhur son of Immer, the priest who was chief officer in the **LORD**’s house, heard Jeremiah prophesying these things.
+v02: Pashhur beat Jeremiah the prophet and put him in the stocks at the Upper Benjamin Gate in the **LORD**’s house.
 </p>
 
 <p>
-v03: The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, “The LORD does not call your name Pashhur, but Terror on Every Side.
-v04: For thus says the LORD: Look, I am making you a terror to yourself and to all your friends. They will fall by the sword of their enemies while your eyes look on. And I will give all Judah into the hand of the king of Babylon; he will carry them away into exile in Babylon and strike them down with the sword.
+v03: The next day, when Pashhur released Jeremiah from the stocks, Jeremiah told him, “The name the **LORD** gives you is Terror on Every Side, not Pashhur.
+v04: For this is what the **LORD** says: Look, I am making you a terror to yourself and all your friends. They will fall by their enemies’ sword while you watch. I will hand all Judah over to the king of Babylon, who will carry them into exile in Babylon and strike them with the sword.
 </p>
 
 <p>
-v05: I will give all the wealth of this city, all its gains, all its precious things, and all the treasures of the kings of Judah into the hand of their enemies, who will plunder them and seize them and carry them to Babylon.
-v06: And you, Pashhur, and everyone who dwell in your house will go into captivity. To Babylon you will go, and there you will die, and there you will be buried—you and all your friends to whom you have prophesied falsely.”
+v05: All this city’s wealth, all it has earned, all its precious things, and all the treasures of Judah’s kings—I will hand them over to their enemies. They will plunder them, seize them, and take them to Babylon.
+v06: And you, Pashhur, and everyone in your household will go into captivity. You will go to Babylon, die there, and be buried there—you and all the friends to whom you prophesied lies.”
 </p>
 
-## Jeremiah’s Complaint
+## The prophet’s protest
+
 <p>
-v07: You enticed me, O LORD, and I was enticed;
-you overpowered me and prevailed.
-I have become a laughingstock all the day;
+v07: You deceived me, **LORD**, and I was deceived.
+You overpowered me and prevailed.
+I have become a laughingstock all day long;
 everyone mocks me.
 </p>
 
 <p>
-v08: For whenever I speak, I cry out;
-I proclaim, “Violence and destruction!”
-For the word of the LORD has become for me
-a reproach and derision all the day.
+v08: Whenever I speak, I cry out;
+I shout, “Violence! Destruction!”
+The **LORD**’s word has brought me
+reproach and ridicule all day long.
 </p>
 
 <p>
-v09: If I say, “I will not mention him
-or speak any more in his name,”
-then there is in my heart as it were a burning fire
-shut up in my bones;
-I am weary of holding it in,
-and I cannot.
+v09: I said, “I will not mention him
+or speak in his name anymore.”
+But then it was like a burning fire in my heart,
+shut up in my bones.
+I grew weary of holding it in;
+I could not.
 </p>
 
 <p>
-v10: For I hear the whispering of many:
+v10: I hear many whispering,
 “Terror on every side!
-Denounce him! Let us denounce him!”
-All my close friends
-watch for my stumbling:
-“Perhaps he will be enticed,
-and we can prevail against him
-and take our revenge on him.”
+Denounce him! Let’s denounce him!”
+All my close friends watch for me to stumble:
+“Perhaps he can be deceived.
+Then we can prevail over him
+and take our revenge.”
 </p>
 
-## The LORD Is with Me
+## The LORD is with me
+
 <p>
-v11: But the LORD is with me like a mighty warrior;
-so my persecutors will stumble,
-and they will not prevail.
-They will be greatly put to shame,
-for they will not succeed;
-their everlasting disgrace
-will not be forgotten.
+v11: But the **LORD** is with me like a fearsome warrior.
+So my persecutors will stumble and not prevail.
+They will be deeply ashamed because they have not succeeded,
+with an everlasting humiliation that will not be forgotten.
 </p>
 
 <p>
-v12: O LORD of Hosts, who tests the righteous,
-who sees the kidneys and the heart,
-let me see your vengeance upon them,
-for to you I have committed my cause.
+v12: **LORD** of hosts, you test the righteous
+and see the innermost being and heart.
+Let me see your vengeance on them,
+for I have laid my case before you.
 </p>
 
 <p>
-v13: Sing to the LORD;
-praise the LORD!
+v13: Sing to the **LORD**;
+praise the **LORD**!
 For he has delivered the life of the needy
 from the hand of evildoers.
 </p>
 
-## Cursed Be the Day
+## Cursed be the day
+
 <p>
-v14: Cursed be the day
-on which I was born!
-Let the day when my mother bore me
-not be blessed!
+v14: Cursed be the day I was born!
+Let the day my mother bore me
+never be blessed.
 </p>
 
 <p>
-v15: Cursed be the man
-who brought the news to my father, saying,
-“A son is born to you,”
-making him very glad.
+v15: Cursed be the man who brought my father the news,
+“A son, a boy, has been born to you!”
+and filled him with joy.
 </p>
 
 <p>
 v16: Let that man be like the cities
-that the LORD overthrew without pity;
-let him hear a cry in the morning
+the **LORD** overthrew without relenting.
+Let him hear a cry in the morning
 and an alarm at noon,
 v17: because he did not kill me in the womb,
-so that my mother would have been my grave,
-and her womb forever pregnant.
+so my mother would have been my grave
+and her womb pregnant forever.
 </p>
 
 <p>
-v18: Why did I come out from the womb
-to see toil and sorrow,
+v18: Why did I come out of the womb
+to see toil and sorrow
 and spend my days in shame?
 </p>
 
 ## Notes
 
-v01–02: Jeremiah’s prophetic speech provokes institutional punishment. The opposition comes from within the temple administration itself.
+v3,7,10–11: “Terror on Every Side” translates Magor-missabib. The verb rendered “deceived” can also mean enticed or persuaded; the forceful protest is retained. “Deceived” and “prevail” recur in the opponents’ words, followed by the LORD’s prevailing protection.
 
-v03: The renaming of Pashhur turns his identity into a prophetic sign. “Terror on Every Side” becomes both judgment and public reversal.
-
-v04–06: Judgment is specific and historical: Judah, Jerusalem, Babylon, exile, sword, plunder, and death.
-
-v06: False prophecy is not treated as private error but as speech that endangers the community.
-
-v07: Jeremiah’s complaint is unusually direct. The language of being enticed and overpowered preserves the violence Jeremiah feels in his prophetic calling.
-
-v08: Jeremiah cannot speak the LORD’s word without announcing disaster, and that word isolates him.
-
-v09: Silence is impossible. The word becomes internal fire—painful to contain and impossible to suppress.
-
-v10: The phrase “Terror on every side” returns mockingly. The judgment-name attached to Pashhur becomes the atmosphere around Jeremiah.
-
-v11: Confidence interrupts lament. The LORD is not gentle consolation here but a “mighty warrior” against persecutors.
-
-v12: “Kidneys and heart” names the inner person—desire, conscience, and intention.
-
-v13: Praise appears before the final lament, creating unresolved movement rather than simple emotional progression.
-
-v14–18: The chapter ends in despair, not resolution. Jeremiah’s anguish is allowed to stand within the prophetic book.
-
-v18: The final question gathers the chapter’s tension: prophetic vocation has brought toil, sorrow, and shame.
+v13–18: Praise gives way immediately to a curse on the day of birth. The draft preserves this sequence and the final unanswered lament.
 
 ## Vocabulary
 
-v01: פַּשְׁחוּר (Pashchur)
-“Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.
+v2: **Stocks**: A device for restraining a prisoner’s body; its exact construction here is uncertain.
 
-v02: מַהְפֶּכֶת (mahpekheth)
-“Stocks.” An instrument of public restraint and humiliation.
-
-v03: מָגוֹר מִסָּבִיב (magor missaviv)
-“Terror on every side.” A phrase of surrounding dread and threat.
-
-v04: בָּבֶל (Bavel)
-“Babylon.” The empire named as the instrument of judgment.
-
-v06: שֶׁקֶר (sheqer)
-“Falsehood.” Deceptive speech, especially false prophecy.
-
-v07: פָּתָה (pathah)
-“To entice.” To persuade, deceive, or draw in.
-
-v07: חָזַק (chazaq)
-“To overpower.” To be strong or prevail.
-
-v08: חָמָס (chamas)
-“Violence.” Destructive force or injustice.
-
-v08: שֹׁד (shod)
-“Destruction.” Devastation or ruin.
-
-v09: אֵשׁ (esh)
-“Fire.” Here an inward burning image for the prophetic word.
-
-v09: עֶצֶם (‘etsem)
-“Bone.” The inner frame of the body, used for deep embodied pressure.
-
-v10: דִּבָּה (dibbah)
-“Whispering” or “evil report.” Hostile rumor or slander.
-
-v11: גִּבּוֹר עָרִיץ (gibbor arits)
-“Mighty warrior.” A terrifying champion or powerful fighter.
-
-v12: כִּלְיָה (kilyah)
-“Kidney.” In Hebrew anthropology, an inner seat of emotion and desire.
-
-v12: לֵב (lev)
-“Heart.” The inner person, including thought, will, and intention.
-
-v12: רִיב (riv)
-“Cause” or “case.” A legal dispute or plea committed to God.
-
-v13: אֶבְיוֹן (evyon)
-“Needy.” One who lacks power and depends on deliverance.
-
-v14: אָרַר (arar)
-“To curse.” To call down judgment or deny blessing.
-
-v16: זְעָקָה (ze‘aqah)
-“Cry.” A shout of distress.
-
-v18: עָמָל (‘amal)
-“Toil.” Trouble, labor, or misery.
-
-v18: יָגוֹן (yagon)
-“Sorrow.” Grief or anguish.
-
-v18: בֹּשֶׁת (bosheth)
-“Shame.” Public disgrace or humiliation.
+v12: **Innermost being**: Literally “kidneys,” paired with the heart as in 11:20 and 17:10.

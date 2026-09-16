@@ -4,114 +4,163 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-8-20-biblical-fluency-2026-09-16
 ---
 
-# Jeremiah 15
+## Judgment and rejection
 
 <p>
-v01: The LORD said to me: “Even if Moses and Samuel stood before me, my whole being would not turn toward this people. Send them away from before me; let them go out.
+v01: The **LORD** said to me, “Even if Moses and Samuel stood before me, my heart would not turn toward this people. Send them out of my presence. Let them go!
 </p>
 
 <p>
-v02: When they ask you, “Where are we to go?”
-you are to say to them, “Thus says the LORD:
-
+v02: When they ask you, ‘Where shall we go?’ tell them: This is what the **LORD** says:
 Those destined for death, to death;
-those destined for the sword, to the sword;
-those destined for famine, to famine;
-those destined for captivity, to captivity.”
+those for the sword, to the sword;
+those for famine, to famine;
+those for captivity, to captivity.
 </p>
 
 <p>
-v03: “I will appoint over them four kinds,” declares the LORD: “the sword to kill, the dogs to drag away, and the birds of the heavens and the beasts of the earth to devour and to destroy.
+v03: “I will appoint four kinds of destroyers over them,” declares the **LORD**: “the sword to kill, dogs to drag away, birds of the sky and animals of the earth to devour and destroy.
 </p>
 
 <p>
-v04: I will make them an object of horror to all the kingdoms of the earth because of Manasseh son of Hezekiah, king of Judah, for what he did in Jerusalem.
+v04: I will make them an object of horror to all the earth’s kingdoms because of Manasseh son of Hezekiah, king of Judah, and what he did in Jerusalem.
 </p>
 
 <p>
-v05: For who will have compassion on you, Jerusalem? Who will mourn for you? Who will turn aside to ask after your well-being?
+v05: Who will pity you, Jerusalem?
+Who will grieve for you?
+Who will turn aside
+to ask how you are?
 </p>
 
 <p>
-v06: “You have forsaken me,” declares the LORD. “You keep going backward. So I have stretched out my hand against you and destroyed you; I am weary of relenting.
+v06: You abandoned me,” declares the **LORD**.
+“You keep moving backward.
+So I stretched out my hand against you and destroyed you.
+I am weary of relenting.
 </p>
 
 <p>
-v07: I have winnowed them with a winnowing fork at the gates of the land. I have bereaved; I have destroyed my people. They did not turn from their ways.
+v07: I winnowed them with a winnowing fork
+at the gates of the land.
+I bereaved and destroyed my people;
+they did not turn from their ways.
 </p>
 
 <p>
-v08: Their widows have become more numerous before me than the sand of the seas. Against the mother of a young man I have brought a destroyer at noon; suddenly I have made anguish and terrors fall upon her.
+v08: Their widows became more numerous before me
+than the sand of the seas.
+Against the mother of a young man
+I brought a destroyer at noon.
+Suddenly I brought anguish and terrors upon her.
 </p>
 
 <p>
-v09: She who bore seven has languished; she has breathed out her life. Her sun has gone down while it was still day; she is ashamed and humiliated. And their remnant I will give to the sword before their enemies,” declares the LORD.
+v09: The mother of seven languishes;
+she breathes out her life.
+Her sun sets while it is still day;
+she is ashamed and humiliated.
+I will hand their survivors over to the sword
+before their enemies,” declares the **LORD**.
+</p>
+
+## The prophet’s protest
+
+<p>
+v10: Woe to me, my mother, that you gave birth to me—
+a man of dispute and contention for the whole land!
+I have neither lent nor borrowed,
+yet everyone curses me.
 </p>
 
 <p>
-v10: Woe is me, my mother, that you bore me, a man of strife and a man of contention to all the land! I have neither lent, nor have they lent to me; yet every one of them curses me.
+v11: The **LORD** said, “Surely I will set you free for good. Surely I will make the enemy plead with you in a time of disaster and distress.
 </p>
 
 <p>
-v11: The LORD said: “Surely I have set you free for good; surely I have made the enemy entreat you in a time of evil and in a time of distress.
+v12: Can iron break iron—
+iron from the north—or bronze?
 </p>
 
 <p>
-v12: Can iron break iron from the north, and bronze?
+v13: I will give your wealth and treasures as plunder,
+without payment,
+because of all your sins
+throughout your territory.
 </p>
 
 <p>
-v13: Your wealth and your treasuries I will give as plunder, without price, because of all your sins throughout all your borders.
+v14: I will take you away with your enemies
+into a land you do not know.
+For a fire has been kindled in my anger;
+it will burn against you.”
 </p>
 
 <p>
-v14: I will make you pass over to your enemies into a land you do not know, for a fire has been kindled in my anger; it will burn against you.
+v15: You know, **LORD**.
+Remember me and attend to me;
+avenge me on my persecutors.
+Do not let your patience with them carry me away.
+Know that I bear disgrace for your sake.
 </p>
 
 <p>
-v15: You know, LORD; remember me and attend to me, and avenge me against my persecutors. Do not take me away because of your patience. Know that for your sake I bear reproach.
+v16: Your words were found, and I ate them.
+Your word became my joy
+and my heart’s delight,
+for your name is called over me,
+**LORD**, God of hosts.
 </p>
 
 <p>
-v16: Your words were found, and I ate them; your word became for me joy and the delight of my heart, for your name has been called upon me, LORD, God of Hosts.
+v17: I did not sit rejoicing in the company of revelers.
+Because of your hand, I sat alone,
+for you filled me with indignation.
 </p>
 
 <p>
-v17: I did not sit in the company of revelers and rejoice. Because of your hand I sat alone, for you filled me with indignation.
+v18: Why is my pain unending,
+my wound incurable, refusing to heal?
+Will you really be to me like a deceptive stream,
+waters that cannot be trusted?
 </p>
 
 <p>
-v18: Why has my pain become unending, and my wound grievous, refusing to be healed? Will you indeed be to me like a deceptive brook, like waters that are not reliable?
+v19: So this is what the **LORD** says:
+“If you return, I will restore you,
+and you will stand before me.
+If you bring out what is precious from what is worthless,
+you will be like my mouth.
+Let them return to you;
+you must not return to them.
 </p>
 
 <p>
-v19: So thus says the LORD: “If you return, I will restore you, and you will stand before me. If you bring out what is precious from what is worthless, you will be as my mouth. Let them turn to you, but you must not turn to them.
+v20: I will make you a fortified bronze wall against this people.
+They will fight you but will not overcome you,
+for I am with you to save and deliver you,”
+declares the **LORD**.
 </p>
 
 <p>
-v20: I will make you to this people a fortified wall of bronze. They will fight against you, but they will not overcome you, for I am with you to save you and to deliver you,” declares the LORD.
-</p>
-
-<p>
-v21: “I will deliver you from the hand of the wicked, and redeem you from the grasp of the ruthless.”
+v21: “I will deliver you from the hand of the wicked
+and redeem you from the grip of the ruthless.”
 </p>
 
 ## Notes
 
-v11: The Hebrew of the first clause is difficult, and ancient witnesses and translations reflect differing understandings.
+v8,11–14: Several phrases in this section are difficult. Verse 8’s “anguish” renders an obscure term. Verse 11 follows the recorded reading as a promise of release; strengthening is another interpretation. Verse 14 retains the pinned verb “make pass,” with “you” supplied. “Make you serve,” found in some translations, follows a different reading, also present in 17:4.
+
+v16,18: Verse 16 moves from “words” to the recorded singular “word.” In verse 18, the prophet compares God to a stream whose water cannot be relied on.
 
 ## Vocabulary
 
-v01: נֶפֶשׁ (nephesh)
-“whole being.” The LORD’s nephesh expresses personal aversion toward the people, not merely an impersonal legal judgment.
+v7: **Winnow**: To toss grain so the wind separates it from chaff; here an image of scattering and loss.
 
-v06: נָחַם (naḥam)
-“relent.” In this passage the term concerns the LORD’s turning from announced judgment; the statement that God is weary of relenting heightens the finality of the warning.
-
-v16: דָּבָר (davar)
-“word.” God’s word is found and eaten by Jeremiah, becoming both joy and the defining claim upon his life.
-
-v21: פָּדָה (padah)
-“redeem.” The LORD’s promised rescue of Jeremiah is described with language of release from a claim or power that holds someone captive. <!-- Departure review: Jeremiah 15:14 renders the clause with an implied object (“I will make you pass over to your enemies”), because the supplied Hebrew form is syntactically difficult as annotated.
+v19: **Return**: The Hebrew repeats the same root in returning, restoring, and the direction others should take.

@@ -288,26 +288,45 @@
     4,
     5,
     6,
-    7
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
   ],
   "current_revision": {
-    "id": "fluent-jeremiah-1-7-biblical-fluency-2026-09-16",
+    "id": "fluent-jeremiah-8-20-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
     ],
-    "verse_count": 207,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json",
+    "verse_count": 287,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "a1e6a02b972f845b0b13f0ab4f0bcc9078b5b5d5",
+      "commit": "b128d9ee40047f89c8f80fb9d263291f345bc779",
       "path": "audit/exegetical-core/fluent-production/jeremiah/JEREMIAH_FLUENT_BOOK_QA.json"
     },
     "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
@@ -331,6 +350,34 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "a1e6a02b972f845b0b13f0ab4f0bcc9078b5b5d5",
+        "path": "audit/exegetical-core/fluent-production/jeremiah/JEREMIAH_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    },
+    {
+      "id": "fluent-jeremiah-8-20-biblical-fluency-2026-09-16",
+      "chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "verse_count": 287,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "b128d9ee40047f89c8f80fb9d263291f345bc779",
         "path": "audit/exegetical-core/fluent-production/jeremiah/JEREMIAH_FLUENT_BOOK_QA.json"
       },
       "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."

@@ -4,136 +4,169 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-8-20-biblical-fluency-2026-09-16
 ---
 
+## Deceit and lament
+
 <p>
-v01: Who will give me a travelers’ lodge in the wilderness, that I may leave my people and go away from them? For they are all adulterers, a band of traitors.
+v01: If only I had a travelers’ shelter in the wilderness!
+I would leave my people
+and go away from them.
+For they are all adulterers,
+a gathering of traitors.
 </p>
 
 <p>
-v02: They bend their tongue, their bow, for falsehood; they are not strong in the land for faithfulness. For they go out from evil to evil, and they do not know me, declares the LORD.
+v02: “They bend their tongues like bows;
+lies, not faithfulness, prevail in the land.
+They go from one evil to another
+and do not know me,” declares the **LORD**.
 </p>
 
 <p>
-v03: Let each guard against a neighbor, and trust no brother; for every brother surely supplants, and every neighbor goes about as a slanderer.
+v03: “Beware of your neighbor;
+do not trust any brother.
+Every brother is a schemer,
+and every neighbor spreads slander.
 </p>
 
 <p>
-v04: Each deceives a neighbor, and they do not speak truth. They have taught their tongues to speak falsehood; they weary themselves doing wrong.
+v04: They deceive one another
+and do not speak the truth.
+They have trained their tongues to lie;
+they wear themselves out doing wrong.
 </p>
 
 <p>
-v05: Your dwelling is among deceit; through deceit they refuse to know me, declares the LORD.
+v05: You live surrounded by deceit.
+In their deceit they refuse to know me,”
+declares the **LORD**.
 </p>
 
 <p>
-v06: So, thus says the LORD of Hosts:
-Look, I am refining them and testing them;
-for what else can I do because of my people’s daughter?
+v06: So this is what the **LORD** of hosts says:
+“Look, I will refine them and test them.
+What else can I do
+because of my daughter, my people?
 </p>
 
 <p>
-v07: Their tongue is a slaughtering arrow; it speaks deceit. With his mouth one speaks peace to a neighbor, but within himself he sets an ambush.
+v07: Their tongue is a deadly arrow;
+it speaks deceit.
+With the mouth, someone speaks peace to a neighbor,
+while inwardly laying an ambush.
 </p>
 
 <p>
-v08: Will I not punish them for these things? declares the LORD. Will I not take vengeance on a nation like this?
+v08: Should I not call them to account for this?”
+declares the **LORD**.
+“Should I not avenge myself
+on a nation like this?
 </p>
 
 <p>
-v09: For the mountains I will lift up weeping and lamentation, and for the wilderness pastures, a dirge. For they are burned up, with no one passing through; they do not hear the sound of livestock. From birds of the sky to animals, they have fled; they have gone away.
+v09: I will lift up weeping and wailing over the mountains,
+a lament over the wilderness pastures.
+They are burned out; no one passes through.
+No sound of livestock is heard.
+Birds of the sky and animals alike
+have fled and gone.
 </p>
 
 <p>
-v10: I will make Jerusalem a heap of ruins, a lair of jackals; and I will make the towns of Judah a desolation, without inhabitant.
+v10: I will make Jerusalem a heap of ruins,
+a home for jackals.
+I will make Judah’s cities desolate,
+with no one living there.”
 </p>
 
 <p>
-v11: Who is wise enough to understand this? To whom has the mouth of the LORD spoken, that they may declare it? Why has the land perished, burned up like the wilderness, with no one passing through?
+v11: Who is wise enough to understand this? To whom has the **LORD** spoken, so that they can explain it? Why has the land perished, burned out like a wilderness where no one passes?
 </p>
 
 <p>
-v12: And the LORD said: Because they have abandoned my instruction, which I set before them, and have not listened to my voice or walked in it.
+v12: The **LORD** said, “Because they abandoned my instruction, which I set before them. They did not listen to my voice or walk in it.
 </p>
 
 <p>
-v13: Instead, they have followed the stubbornness of their heart and the Baals, as their ancestors taught them.
+v13: Instead, they followed their stubborn hearts and the Baals, as their fathers taught them.”
 </p>
 
 <p>
-v14: So, thus says the LORD of Hosts, the God of Israel:
-Look, I will feed this people wormwood, and I will give them poisonous water to drink.
+v14: So this is what the **LORD** of hosts, Israel’s God, says: “Look, I am feeding this people wormwood and giving them poisoned water to drink.
 </p>
 
 <p>
-v15: I will scatter them among nations that neither they nor their ancestors have known. I will send the sword after them until I have destroyed them.
+v15: I will scatter them among nations neither they nor their fathers knew. I will send the sword after them until I have brought them to an end.”
 </p>
 
 <p>
-v16: Thus says the LORD of Hosts:
-Consider, and call for the mourning women, that they may come;
-send for the skilled women, that they may come.
-
-v17: Let them hurry and raise a lament over us,
-that tears may run down from our eyes
-and water flow from our eyelids.
-
-v18: For the sound of lamentation is heard from Zion:
-“How we are devastated!
-We are deeply ashamed,
-for we have left the land,
-because they have cast down our dwellings.”
-
-v19: For hear, women, the word of the LORD;
-let your ear receive the word of his mouth.
-Teach your daughters a lament,
-and each woman her companion a dirge.
-
-v20: For death has come up through our windows;
-it has entered our fortresses,
-to cut off children from the streets
+v16: This is what the **LORD** of hosts says:
+“Consider this: call the mourning women; let them come.
+Send for the skilled women; let them come.
+v17: Let them hurry and lift up a wail over us,
+so our eyes stream with tears
+and our eyelids flow with water.
+v18: For a voice of wailing is heard from Zion:
+‘How we have been devastated!
+How deeply we are ashamed!
+We have left the land;
+our homes have been torn down.’
+v19: Women, hear the **LORD**’s word;
+let your ears receive what his mouth says.
+Teach your daughters to wail,
+and one another to lament.
+v20: Death has climbed through our windows
+and entered our palaces,
+to cut off children from the street
 and young men from the squares.
+v21: Say: ‘This is what the **LORD** declares:
+Human corpses will fall like dung on the open field,
+like cut grain behind the reaper,
+with no one to gather it.’”
+</p>
 
-v21: Speak: Thus declares the LORD:
-“The corpse of humanity will fall like dung on the open field,
-like sheaves behind the reaper,
-with no one to gather them.”
+## What deserves boasting
 
-v22: Thus says the LORD:
-Let not the wise boast in their wisdom;
-let not the mighty boast in their strength;
-let not the rich boast in their wealth.
-
-v23: But let the one who boasts boast in this:
+<p>
+v22: This is what the **LORD** says:
+“Let the wise not boast in their wisdom,
+the strong not boast in their strength,
+or the rich boast in their riches.
+v23: Let anyone who boasts boast in this:
 that they understand and know me,
-that I am the LORD,
-who practices steadfast love, justice, and righteousness in the land;
-for in these things I delight,
-declares the LORD.
+that I am the **LORD**, who acts with steadfast love,
+justice, and righteousness on earth.
+For these are what delight me,”
+declares the **LORD**.
 </p>
 
 <p>
-v24: Look, days are coming, declares the LORD, when I will punish everyone circumcised in uncircumcision:
+v24: “Look, days are coming,” declares the **LORD**, “when I will call to account all who are circumcised yet uncircumcised—
 </p>
 
 <p>
-v25: Egypt, Judah, Edom, the Ammonites, Moab, and all people who clip the edge of their hair, who live in the wilderness. For all the nations are uncircumcised, and all the house of Israel is uncircumcised in heart.
+v25: Egypt, Judah, Edom, the Ammonites, Moab, and all who clip the edges of their hair and live in the wilderness. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”
 </p>
 
 ## Notes
 
+v3: The Hebrew phrase about a brother’s scheming echoes the verb associated with Jacob’s name and his supplanting of Esau.
 
+v7: The arrow’s description is uncertain. The written form suggests slaughtering; the recorded reading may suggest a sharpened or deadly arrow.
+
+v18: The last line can concern homes being torn down or people being driven out of them.
+
+v24–25: The paradox of being circumcised yet uncircumcised is retained. The passage ends by distinguishing bodily circumcision from the condition of the heart.
 
 ## Vocabulary
 
-v02: אֱמוּנָה (’emunah)
-“faithfulness.” In this passage it names the trustworthy social and covenantal reality absent from the land.
+v14: **Wormwood**: A bitter plant, here paired with poisoned water as an image of judgment.
 
-v05: מִרְמָה (mirmah)
-“deceit.” Repeated in this verse, it describes an environment in which deception becomes both the people’s setting and their means of refusing to know the LORD.
+v16: **Mourning women**: Women skilled in leading communal lament.
 
-v23: חֶסֶד (hesed)
-“steadfast love.” Here it belongs with justice and righteousness as part of the LORD’s delight and activity in the land.
-
-v23: מִשְׁפָּט (mishpat)
-“justice.” The word concerns right judgment and the ordering of communal life according to what is right.
+v23: **Steadfast love**: Hebrew hesed: enduring loyalty and kindness in relationship, here alongside justice and righteousness.
