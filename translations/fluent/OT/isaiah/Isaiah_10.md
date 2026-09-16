@@ -4,98 +4,138 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## Assyria, Judgment, and the Remnant
 
 <p>
-v01: Woe to people who decree unrighteous decrees, and to the writers who write oppressive decrees;
-v02: to deprive the needy from justice, and to rob the poor among my people of their rights, that widows may be their spoil, and that they may make the orphan their prey!
-v03: What will you do in the day of visitation, and in the desolation which will come from afar? To whom will you flee for help? Where will you leave your wealth?
-v04: They will only bow down under the prisoners, and will fall under the slain. For all this his anger is not turned away, but his hand is stretched out still.
+v01: Woe to those who decree unjust decrees,
+to scribes who keep writing oppression,
+v02: to deny the poor a hearing
+and rob my afflicted people of justice,
+making widows their plunder
+and the fatherless their prey!
+v03: What will you do on the day of reckoning,
+when devastation comes from far away?
+To whom will you flee for help?
+Where will you leave your wealth?
+v04: Nothing remains but to crouch among prisoners
+or fall among the slain.
+For all this, his anger has not turned away;
+his hand is still stretched out.
 </p>
 
 <p>
-v05: Alas Assyrian, the rod of my anger, the staff in whose hand is my indignation!
-v06: I will send him against a profane nation, and against the people who anger me will I give him a charge to take the spoil and to take the prey, and to tread them down like the mire of the streets.
-v07: However he does not mean so, neither does his heart think so;
-but it is in his heart to destroy, and to cut off not a few nations.
-v08: For he says, "Aren't all of my princes kings?
+v05: “Woe to Assyria, the rod of my anger!
+The staff in their hand is my fury.
+v06: I send him against a godless nation;
+I command him against the people of my wrath,
+to take spoil and seize plunder,
+to trample them like street mud.
+v07: But that is not what he intends;
+that is not what his heart plans.
+His heart is set on destruction,
+on cutting off nations without number.
+v08: He says, ‘Are not all my commanders kings?
 </p>
 
 <p>
-v09: Isn't Calno like Carchemish? Isn't Hamath like Arpad? Isn't Samaria like Damascus?"
-v10: As my hand has found the kingdoms of the idols, whose engraved images exceeded those of Jerusalem and of Samaria;
-v11: will I not, as I have done to Samaria and her idols, so do to Jerusalem and her idols?
-v12: So it will happen that, when the Lord has performed his whole work on Mount Zion and on Jerusalem, I will punish the fruit of the willful proud heart of the king of Assyria, and the insolence of his haughty looks.
+v09: Is not Calno like Carchemish,
+Hamath like Arpad,
+Samaria like Damascus?
+v10: My hand has reached kingdoms of idols
+whose images surpassed those of Jerusalem and Samaria.
+v11: As I did to Samaria and her idols,
+will I not do to Jerusalem and her images?’”
+v12: When the Lord has completed all his work on Mount Zion and in Jerusalem, “I will punish the fruit of Assyria’s king’s arrogant heart and his proudly lifted eyes.”
 </p>
 
 <p>
-v13: For he has said, "By the strength of my hand I have done it, and by my wisdom;
-for I have understanding: and I have removed the boundaries of the peoples, and have robbed their treasures. Like a valiant man I have brought down their rulers.
-v14: My hand has found the riches of the peoples like a nest, and like one gathers eggs that are abandoned, have I gathered all the earth. There was no one who moved their wing, or that opened their mouth, or chirped."
-v15: Should an axe brag against the one who chops with it? Should a saw exalt itself above the one who saws with it? As if a rod should lift people who lift it up, or as if a staff should lift up someone who is not wood.
-v16: So the Lord GOD of Hosts, will send among his fat ones leanness;
-and under his glory a burning will be kindled like the burning of fire.
+v13: For he says, “By my hand’s strength I did it,
+by my wisdom, for I am discerning.
+I removed peoples’ boundaries,
+plundered their treasures,
+and brought down those enthroned like a mighty one.
+v14: My hand found the peoples’ wealth like a nest.
+As one gathers abandoned eggs,
+I gathered all the earth.
+No wing fluttered,
+no mouth opened, no chirp was heard.”
+v15: Does an ax boast over the one who chops with it?
+Does a saw exalt itself over the one who moves it?
+As if a rod could swing the one lifting it,
+or a staff lift someone who is not wood!
+v16: Therefore the Lord, the **LORD** of hosts,
+will send wasting sickness among his well-fed men;
+beneath his glory a blaze will burn like fire.
 </p>
 
 <p>
-v17: The light of Israel will be for a fire, and his Holy One for a flame;
-and it will burn and devour his thorns and his briers in one day.
-v18: He will consume the glory of his forest, and of his fruitful field, both soul and body. It will be as when a standard bearer faints.
-v19: The remnant of the trees of his forest will be few, so that a child could write their number.
-v20: It will come to pass on that day that the remnant of Israel, and people who have escaped from the house of Jacob will no more again lean on the one who struck them, but will lean on the LORD, the Holy One of Israel, in truth.
+v17: Israel’s Light will become a fire,
+its Holy One a flame,
+burning and consuming his thorns and briers
+in a single day.
+v18: The splendor of his forest and fruitful land
+he will consume, soul and body;
+it will be like a sick person wasting away.
+v19: So few trees will remain in his forest
+that a child could write down their number.
+v20: On that day Israel’s remnant, the survivors of the house of Jacob, will no longer lean on the one who struck them. They will truly lean on the **LORD**, the Holy One of Israel.
 </p>
 
 <p>
-v21: A remnant will return, even the remnant of Jacob, to the mighty God.
-v22: For though your people, Israel, are like the sand of the sea, only a remnant of them will return. A destruction is determined, overflowing with righteousness.
-v23: For the Lord GOD of Hosts, will make a full end, and that determined, among all the earth.
-v24: So the Lord GOD of Hosts, says "My people who dwell in Zion, do not be afraid of the Assyrian, though he strike you with the rod, and lift up his staff against you, as Egypt did.
+v21: A remnant will return,
+Jacob’s remnant, to the Mighty God.
+v22: Though your people Israel are like the sand of the sea,
+only a remnant will return.
+Destruction is decreed, overflowing with righteousness.
+v23: The Lord **GOD** of hosts will carry out the decreed destruction throughout the whole land.
+v24: Therefore the Lord **GOD** of hosts says, “My people who live in Zion, do not fear Assyria when he strikes you with a rod and raises his staff against you as Egypt did.
 </p>
 
 <p>
-v25: For yet a very little while, and the indignation against you will be accomplished, and my anger will be directed to his destruction."
-v26: The LORD of Hosts will stir up a scourge against him, as in the slaughter of Midian at the rock of Oreb. His rod will be over the sea, and he will lift it up like he did against Egypt.
-v27: It will happen on that day, that his burden will depart from off your shoulder, and his yoke from off your neck, and the yoke will be destroyed because of the anointing oil.
-v28: He has come to Aiath. He has passed through Migron. At Michmash he stores his baggage.
+v25: In a very little while my indignation will end, and my anger will turn to their destruction.”
+v26: The **LORD** of hosts will raise a whip against him, as when he struck Midian at the rock of Oreb. His staff will be over the sea, raised as it was against Egypt.
+v27: On that day his burden will leave your shoulder,
+his yoke your neck;
+the yoke will break because of fatness.
+v28: He has reached Aiath, passed through Migron;
+at Michmash he stores his equipment.
 </p>
 
 <p>
-v29: They have gone over the pass. They have taken up their lodging at Geba. Ramah trembles. Gibeah of Saul has fled.
-v30: Cry aloud with your voice, daughter of Gallim! Listen, Laishah! You poor Anathoth!
-v31: Madmenah is a fugitive. The inhabitants of Gebim flee for safety.
-v32: This very day he will halt at Nob. He shakes his hand at the mountain of the daughter of Zion, the hill of Jerusalem.
+v29: They cross the pass:
+“Geba will be our lodging.”
+Ramah trembles; Saul’s Gibeah flees.
+v30: Cry out, daughter Gallim!
+Listen, Laishah!
+Poor Anathoth!
+v31: Madmenah has fled;
+Gebim’s inhabitants seek safety.
+v32: This very day he halts at Nob,
+shaking his hand at Daughter Zion’s mountain,
+at Jerusalem’s hill.
 </p>
 
 <p>
-v33: Look, the Lord GOD of Hosts, will lop the boughs with terror. The tall will be cut down, and the lofty will be brought low.
-v34: He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.
+v33: Look! The Lord, the **LORD** of hosts,
+lops off the boughs with terrifying force.
+The tall trees are felled;
+the lofty are brought low.
+v34: He cuts down the forest thickets with iron;
+Lebanon falls by a mighty one.
 </p>
 
 ## Notes
 
-v05: Assyria is called the rod of the LORD’s anger, yet the empire is later judged for its own arrogance. Instrumentality does not erase moral responsibility.
+v18: The final comparison is difficult and may picture a sick person wasting away or a standard-bearer collapsing.
 
-v20: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v26: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v19: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.
+v27: The Hebrew says the yoke breaks because of “fatness” or “oil.” A well-fed neck outgrowing its yoke is possible; “anointing” is an interpretive explanation, not an explicit verb here.
 
 ## Vocabulary
 
-v20: שְׁאָר יָשׁוּב (she'ar yashuv)
-“A remnant will return.” A key Isaianic phrase and the name of Isaiah’s son in chapter 7.
-
-v20: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v26: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v26: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v19: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.
+v21: **A remnant will return**: The words repeat the meaning of Shear-jashub’s name in 7:3, connecting the sign-name with the remnant theme.

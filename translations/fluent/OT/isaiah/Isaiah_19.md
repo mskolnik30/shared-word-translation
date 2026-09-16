@@ -4,80 +4,101 @@ testament: OT
 chapter: 19
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## An Oracle Against Egypt
 
 <p>
-v01: The burden of Egypt: "Look, the LORD rides on a swift cloud, and comes to Egypt. The idols of Egypt will tremble at his presence;
-and the heart of Egypt will melt in its midst.
-v02: I will stir up the Egyptians against the Egyptians, and they will fight everyone against his brother, and everyone against his neighbor;
-city against city, and kingdom against kingdom.
-v03: The spirit of Egypt will fail in its midst. I will destroy its counsel. They will seek the idols, the charmers, people who have familiar spirits, and the wizards.
-v04: I will give over the Egyptians into the hand of a cruel lord. A fierce king will rule over them," says the Lord GOD of Hosts.
+v01: An oracle concerning Egypt:
+Look, the **LORD** rides a swift cloud
+and comes to Egypt.
+Egypt’s idols tremble before him;
+Egypt’s heart melts within it.
+v02: “I will stir Egyptian against Egyptian.
+They will fight, brother against brother,
+neighbor against neighbor,
+city against city, kingdom against kingdom.
+v03: Egypt’s spirit will drain away within it,
+and I will swallow up its plans.
+They will consult idols and ghosts,
+mediums and spiritists.
+v04: I will hand Egypt over to a harsh master;
+a fierce king will rule them,”
+declares the Lord, the **LORD** of hosts.
 </p>
 
 <p>
-v05: The waters will fail from the sea, and the river will be wasted and become dry.
-v06: The rivers will become foul. The streams of Egypt will be diminished and dried up. The reeds and flags will wither away.
-v07: The meadows by the Nile, by the brink of the Nile, and all the sown fields of the Nile, will become dry, be driven away, and be no more.
-v08: The fishermen will lament, and all people who fish in the Nile will mourn, and people who spread nets on the waters will languish.
+v05: The sea’s waters will dry up;
+the River will be parched and dry.
+v06: The channels will stink;
+Egypt’s streams will dwindle and dry.
+Reeds and rushes will wither.
+v07: The riverbank growth, at the River’s edge,
+and every field sown beside it
+will dry up, blow away, and be gone.
+v08: Fishers will lament;
+all who cast hooks into the River will mourn;
+those spreading nets on the water will languish.
 </p>
 
 <p>
-v09: Moreover people who work in combed flax, and people who weave white cloth, will be confounded.
-v10: The pillars will be broken in pieces. All people who work for hire will be grieved in soul.
-v11: The princes of Zoan are utterly foolish. The counsel of the wisest counselors of Pharaoh has become stupid. How do you say to Pharaoh, "I am the son of the wise, the son of ancient kings?"
-v12: Where then are your wise men? Let them tell you now;
-and let them know what the LORD of Hosts has purposed concerning Egypt.
+v09: Those working combed flax
+and weaving white cloth will be ashamed.
+v10: Its foundations will be crushed;
+all wage workers will be sick at heart.
+v11: Zoan’s princes are fools;
+Pharaoh’s wisest counselors give stupid advice.
+How can you tell Pharaoh,
+“I am a son of sages, a son of ancient kings”?
+v12: Where, then, are your wise men?
+Let them tell you, let them know
+what the **LORD** of hosts has planned against Egypt.
 </p>
 
 <p>
-v13: The princes of Zoan have become fools. The princes of Memphis are deceived. They have caused Egypt to go astray, who are the cornerstone of her tribes.
-v14: The LORD has mixed a spirit of perverseness among her;
-and they have caused Egypt to go astray in all of its works, like a drunken man staggers in his vomit.
-v15: Neither will there be for Egypt any work, which head or tail, palm branch or rush, may do.
-v16: On that day the Egyptians will be like women. They will tremble and fear because of the shaking of the hand of the LORD of Hosts, which he shakes over them.
+v13: Zoan’s princes have become fools;
+Memphis’s princes are deceived.
+The cornerstones of Egypt’s tribes
+have led it astray.
+v14: The **LORD** has mixed a spirit of confusion into it.
+They make Egypt stagger in everything it does,
+as a drunk staggers in his vomit.
+v15: Egypt will have nothing
+that head or tail,
+palm branch or reed can accomplish.
+v16: On that day Egypt will be like women, trembling and terrified before the hand that the **LORD** of hosts waves against it.
 </p>
 
 <p>
-v17: The land of Judah will become a terror to Egypt. Everyone to whom mention is made of it will be afraid, because of the plans of the LORD of Hosts, which he determines against it.
-v18: On that day, there will be five cities in the land of Egypt that speak the language of Canaan, and swear to the LORD of Hosts. One will be called "The city of destruction."
-v19: On that day, there will be an altar to the LORD among the land of Egypt, and a pillar to the LORD at its border.
-v20: It will be for a sign and for a witness to the LORD of Hosts in the land of Egypt;
-for they will cry to the LORD because of oppressors, and he will send them a savior and a defender, and he will deliver them.
+v17: Judah’s land will become a terror to Egypt. Whenever anyone mentions it, Egypt will be afraid because of the plan the **LORD** of hosts is making against it.
+v18: On that day five cities in Egypt will speak Canaan’s language and swear allegiance to the **LORD** of hosts. One will be called City of Destruction.
+v19: On that day there will be an altar to the **LORD** in the heart of Egypt and a pillar to the **LORD** at its border.
+v20: It will be a sign and witness to the **LORD** of hosts in Egypt. When they cry to the **LORD** because of oppressors, he will send them a savior and champion who will rescue them.
 </p>
 
 <p>
-v21: The LORD will be known to Egypt, and the Egyptians will know the LORD on that day. Yes, they will worship with sacrifice and offering, and will vow a vow to the LORD, and will perform it.
-v22: The LORD will strike Egypt, striking and healing. They will return to the LORD, and he will be entreated by them, and will heal them.
-v23: On that day there will be a highway out of Egypt to Assyria, and the Assyrian will come into Egypt, and the Egyptian into Assyria;
-and the Egyptians will worship with the Assyrians.
-v24: On that day, Israel will be the third with Egypt and with Assyria, a blessing among the earth;
+v21: The **LORD** will make himself known to Egypt, and the Egyptians will know the **LORD** on that day. They will worship with sacrifice and offering, make vows to the **LORD**, and fulfill them.
+v22: The **LORD** will strike Egypt—striking and healing. They will return to the **LORD**, and he will answer their pleas and heal them.
+v23: On that day a highway will run from Egypt to Assyria. Assyrians will come to Egypt, and Egyptians to Assyria, and Egypt will worship with Assyria.
+v24: On that day Israel will be a third alongside Egypt and Assyria, a blessing in the midst of the earth,
 </p>
 
 <p>
-v25: because the LORD of Hosts has blessed them, saying, "Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance."
+v25: whom the **LORD** of hosts blesses, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”
 </p>
 
 ## Notes
 
-v18: The movement from judgment to worship is striking: Egypt, Assyria, and Israel are finally named together within the blessing of the LORD.
+v10: “Foundations” may figuratively name social supports or a class of workers. The following phrase is also uncertain about the workers’ role.
 
-v12: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+v18: The Hebrew text used here names a “City of Destruction.” “City of the Sun” is an ancient textual alternative, not the reading silently adopted here.
 
-v03: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
+v23: The final clause can describe Egypt worshiping with Assyria or serving Assyria. The shared blessing that follows favors the worship reading used here.
 
 ## Vocabulary
 
-v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v03: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
-
-v18: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
+v25: **My people**: God applies this designation to Egypt, calls Assyria the work of his hands, and calls Israel his inheritance; the three distinct expressions are retained.

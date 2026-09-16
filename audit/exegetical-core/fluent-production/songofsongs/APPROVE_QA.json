@@ -1,9 +1,78 @@
 {
   "book": "Song of Songs",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "chapter_reviews_complete": 8,
+  "status": "REVIEW_PENDING",
+  "chapter_reviews_complete": false,
   "curated_f3_decisions_acknowledged": 8,
-  "required_disposition": "APPROVE_QA",
-  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision."
+  "required_disposition": "REVIEW_PENDING",
+  "publication_note": "Changed wording is an editorial draft. Earlier approval is historical and does not transfer.",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "current_revision": {
+    "id": "fluent-songofsongs-1-8-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "verse_count": 117,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+      "path": "audit/exegetical-core/fluent-production/songofsongs/APPROVE_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-songofsongs-1-8-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 117,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+        "path": "audit/exegetical-core/fluent-production/songofsongs/APPROVE_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ],
+  "chapter_reviews_pending": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
 }

@@ -4,164 +4,106 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-songofsongs-1-8-biblical-fluency-2026-09-16
 ---
 
-## The Bride's Desire
+## The Woman's Desire
+
 <p>
-v01: The Song of Songs,
-which is Solomon's.
+v01: The Song of Songs, which belongs to Solomon.
 </p>
 
 <p>
-v02: Let him kiss me
-with the kisses of his mouth!
-For your love is better than wine.
-v03: Your oils have a pleasing fragrance;
+v02: Let him kiss me with the kisses of his mouth!
+Your caresses are better than wine.
+v03: Your oils give off a lovely fragrance;
 your name is oil poured out.
-So the young women love you.
-v04: Draw me after you;
-let us run.
-The king has brought me into his chambers.
-Let us rejoice and be glad in you;
-let us celebrate your love more than wine.
+That is why the young women love you.
+v04: Draw me after you—let us run!
+The king has brought me into his rooms.
+We will rejoice and delight in you;
+we will celebrate your caresses more than wine.
 Rightly do they love you.
 </p>
 
-## The Bride's Self-Description
+## The Woman's Self-Description
+
 <p>
-v05: I am dark,
-yet lovely,
-O daughters of Jerusalem,
+v05: I am black and beautiful,
+daughters of Jerusalem,
 like the tents of Kedar,
-like the curtains of Solomon.
+like Solomon’s curtains.
 v06: Do not stare at me because I am dark,
-because the sun has looked upon me.
-My mother's sons were angry with me.
-They made me keeper of the vineyards,
-but my own vineyard I have not kept.
+because the sun has gazed on me.
+My mother’s sons were angry with me;
+they made me guard the vineyards.
+My own vineyard I did not guard.
 </p>
 
-## The Bride Seeks Her Beloved
+## The Woman Seeks Her Beloved
+
 <p>
-v07: Tell me,
-you whom my soul loves,
-where do you pasture your flock?
-Where do you make it lie down at noon?
-Why should I be like one who wanders
-beside the flocks of your companions?
+v07: Tell me, you whom my whole being loves,
+where you graze your flock,
+where you make it rest at noon.
+Why should I be like a veiled woman
+beside your companions’ flocks?
 </p>
 
 ## The Beloved Responds
+
 <p>
-v08: If you do not know,
-most beautiful among women,
-follow in the tracks of the flock,
-and pasture your young goats
-beside the shepherds' tents.
+v08: If you do not know, most beautiful of women,
+follow the tracks of the flock
+and graze your young goats
+beside the shepherds’ tents.
 </p>
 
 <p>
-v09: I compare you, my love,
-to a mare among Pharaoh's chariots.
+v09: My love, I compare you to my mare
+among Pharaoh’s chariots.
 v10: Your cheeks are lovely with ornaments,
-your neck with strings of jewels.
-v11: We will make for you ornaments of gold
-with studs of silver.
+your neck with strings of beads.
+v11: We will make you ornaments of gold
+studded with silver.
 </p>
 
-## The Bride and the Beloved
+## The Woman and the Beloved
+
 <p>
-v12: While the king was at his table,
-my perfume gave forth its fragrance.
-v13: My beloved is to me
-a sachet of myrrh
-that lies between my breasts.
-v14: My beloved is to me
-a cluster of henna blossoms
+v12: While the king was reclining at his table,
+my nard released its fragrance.
+v13: My beloved is a pouch of myrrh to me,
+resting between my breasts.
+v14: My beloved is a cluster of henna blossoms to me
 in the vineyards of En-gedi.
 </p>
 
 <p>
-v15: Look, you are beautiful, my love;
-look, you are beautiful.
+v15: How beautiful you are, my love!
+How beautiful!
 Your eyes are doves.
 </p>
 
 <p>
-v16: Look, you are beautiful, my beloved,
-truly delightful.
-Our couch is luxuriant.
-v17: The beams of our house are cedars;
+v16: How handsome you are, my beloved,
+how delightful!
+Our bed is green and flourishing.
+v17: The beams of our houses are cedars;
 our rafters are cypresses.
 </p>
 
 ## Notes
 
-v01: The title “Song of Songs” expresses supreme excellence, meaning “the greatest song.”
+v01: The heading can mean a song by, for, or associated with Solomon. “Song of songs” is a Hebrew way of marking an outstanding song.
 
-v02: The book begins with desire and affection rather than narrative introduction.
+v05: The Hebrew joins “black” and “beautiful” with “and.” It need not make beauty an exception to her skin color.
 
-v02–04: Love is celebrated as a gift marked by joy, delight, and mutual attraction.
-
-v03: A person's “name” refers to reputation, character, and identity.
-
-v04: The royal imagery introduces themes that continue throughout the song.
-
-v05–06: The bride acknowledges her sun-darkened appearance without shame while explaining her labor in the vineyards.
-
-v06: The neglected vineyard becomes a metaphor for her own care and circumstances.
-
-v07: The bride's search reveals both longing and devotion.
-
-v08: The beloved responds with reassurance rather than rebuke.
-
-v09: The comparison to a mare among Pharaoh's chariots emphasizes beauty, dignity, and attention-commanding presence.
-
-v12–14: Fragrance imagery repeatedly symbolizes attraction, delight, and cherished presence.
-
-v14: En-gedi was famous for its fertile oasis and vineyards near the Dead Sea.
-
-v15–17: The chapter concludes with mutual admiration rather than one-sided praise.
-
-v16–17: The imagery of house, cedar, and cypress conveys stability, beauty, and flourishing love.
+v07: The difficult expression is often understood as “veiled,” though “wandering” is also possible. The precise social implication is unstated.
 
 ## Vocabulary
 
-v01: שִׁיר הַשִּׁירִים (šîr haššîrîm)
-“Song of Songs.” A Hebrew expression meaning the greatest or finest song.
-
-v02: דּוֹדִים (dōḏîm)
-“Love” or “caresses.” Expressions of affection and intimacy.
-
-v03: שֵׁם (šēm)
-“Name.” Reputation, identity, and character.
-
-v04: מֶלֶךְ (meleḵ)
-“King.” A royal figure representing authority and honor.
-
-v05: קֵדָר (Qēḏār)
-“Kedar.” A nomadic people known for their dark tents.
-
-v06: כֶּרֶם (kerem)
-“Vineyard.” A cultivated vineyard, often used metaphorically in the song.
-
-v07: רָעָה (rāʿâ)
-“To pasture.” To shepherd and care for a flock.
-
-v09: סוּסָה (sûsâ)
-“Mare.” A female horse, here used as a poetic comparison.
-
-v12: נֵרְדְּ (nērd)
-“Nard.” A costly aromatic perfume.
-
-v13: מֹר (mōr)
-“Myrrh.” A fragrant resin used in perfumes and ointments.
-
-v14: כֹּפֶר (kōp̄er)
-“Henna blossom.” A fragrant flowering plant.
-
-v15: יוֹנָה (yônâ)
-“Dove.” A symbol of beauty, gentleness, and affection.
-
-v17: אֶרֶז (ʾerez)
-“Cedar.” A durable and valuable tree associated with strength and majesty.
+v09: **Mare**: A female horse. The comparison places her among Pharaoh’s impressive chariots.

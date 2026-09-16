@@ -4,96 +4,47 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ecclesiastes-4-12-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: Who is like the wise person?
-Who knows the interpretation of a matter?
-A person's wisdom makes their face shine,
-and the hardness of their face is changed.
-</p>
+## Authority and its limits
 
 <p>
-v02: I say: Keep the king's command, because of the oath of God.
+v01: Who is like the wise? Who knows how to interpret a matter? Wisdom lights up a person’s face and changes its harsh expression.
+v02: I say: obey the king’s command, because of the oath before God.
+v03: Do not hurry to leave his presence. Do not persist in a bad cause, for he does whatever he pleases.
+v04: The king’s word carries authority. Who can ask him, “What are you doing?”
+v05: Whoever keeps the command will experience no harm; a wise heart knows the proper time and judgment.
+v06: For every matter there is a time and a judgment, though human trouble weighs heavily.
+v07: No one knows what will happen. Who can tell how it will happen?
+v08: No one controls the wind so as to hold it back, and no one controls the day of death. There is no discharge in war, and wickedness cannot rescue those who practice it.
+v09: I saw all this as I applied my heart to every deed done under the sun, at a time when one person rules another to their harm.
 </p>
 
-<p>
-v03: Do not be hasty to leave his presence. Do not stand in an evil matter, for he does whatever he desires.
-</p>
+## Justice and what cannot be explained
 
 <p>
-v04: For the word of a king is power, and who can say to him, “What are you doing?”
-</p>
-
-<p>
-v05: Whoever keeps a command will know no evil thing, and the heart of the wise knows the right time and judgment.
-</p>
-
-<p>
-v06: For every matter has its right time and judgment, though the misery of humankind lies heavily upon them.
-</p>
-
-<p>
-v07: For no one knows what will be; for when it will be, who can tell them?
-</p>
-
-<p>
-v08: No one has power over the wind, to restrain the wind;
-there is no authority on the day of death;
-there is no discharge in battle;
-and wickedness will not deliver people who possess it.
-</p>
-
-<p>
-v09: All this I saw, as I gave my heart to every work that is done under the sun: there is a time when one person rules over another, to their harm.
-</p>
-
-<p>
-v10: And so I saw the wicked buried. They came and went from the holy place, and they were forgotten in the city where they had done so. This too is vapor.
-</p>
-
-<p>
-v11: Because sentence against an evil deed is not carried out swiftly, the hearts of human beings are full of resolve to do evil.
-</p>
-
-<p>
-v12: Though a sinner does evil a hundred times and prolongs life, yet I know that it will be well with people who fear God, who fear before him.
-</p>
-
-<p>
-v13: But it will not be well with the wicked, nor will they prolong their days like a shadow, because they do not fear before God.
-</p>
-
-<p>
-v14: There is a vapor that takes place on the earth: there are righteous people to whom it comes according to the deeds of the wicked, and there are wicked people to whom it comes according to the deeds of the righteous. I said that this too is vapor.
-</p>
-
-<p>
-v15: So I praised joy, because there is nothing better for a person under the sun than to eat and drink and rejoice. This will accompany them in their toil through the days of their life that God gives them under the sun.
-</p>
-
-<p>
-v16: When I gave my heart to know wisdom and to see the task that is done on the earth—even by day and by night one sees no sleep with one's eyes—
-</p>
-
-<p>
-v17: then I saw all the work of God: no one can find out the work that is done under the sun. However much a person labors to seek it, they will not find it; even if the wise claim to know, they cannot find it out.
+v10: Then I saw wicked people buried. They had come and gone from the holy place, and were forgotten in the city where they had acted that way. This too is breath.
+v11: When the sentence against an evil deed is not carried out quickly, human hearts become fully bent on doing evil.
+v12: A sinner may do evil a hundred times and still live long. Yet I also know it will go well with those who fear God, who stand in fear before him.
+v13: It will not go well with the wicked; they will not lengthen their shadowlike days, because they do not fear God.
+v14: There is breath at work on earth: righteous people receive what the wicked deserve, and wicked people receive what the righteous deserve. I said that this too is breath.
+v15: So I praised enjoyment. Under the sun, nothing is better for people than to eat, drink, and rejoice. This can accompany them in their work through the days God gives them under the sun.
+v16: When I applied my heart to knowing wisdom and observing the activity on earth—even when one’s eyes find no sleep, day or night—
+v17: I saw all God’s work: no one can discover the work done under the sun. However hard people search, they cannot find it. Even if the wise claim to know, they cannot discover it.
 </p>
 
 ## Notes
 
-v08: The Hebrew *ruach* can mean “wind,” “breath,” or “spirit.” “Wind” preserves the image of something no one can hold back, while the surrounding references to death and battle allow the line also to evoke the breath of life that no one controls.
+v08: The same Hebrew word can mean “wind,” “breath,” or “spirit.” The line joins lack of control over it with lack of control over death.
+
+v10: The Hebrew text used here says “were forgotten.” “Were praised,” found in some translations, reflects a different textual reading.
+
+v12–14: The conviction that fearing God brings good is followed by an observation that righteous and wicked people receive the opposite of what their conduct would suggest. The tension remains in the text.
 
 ## Vocabulary
 
-v01: פֵּשֶׁר (pesher)
-“interpretation.” This term concerns the ability to discern the meaning or solution of a matter. Wisdom is not merely knowledge; it brings insight into what is otherwise obscure.
-
-v01: חָכְמָה (chokhmah)
-“Wisdom.” Here wisdom is said to brighten or change a person’s face and alter its hardness.
-
-v05: מִשְׁפָּט (mishpat)
-“judgment” or “justice.” Together with “right time,” it names the discernment needed for action, while also suggesting that matters have an appointed ordering beyond human control.
-
-v08: רוּחַ (ruach)
-“wind,” “breath,” or “spirit.” Its repeated use marks human powerlessness before what cannot be contained and may point toward the ungovernable breath of life.
+v17: **God’s work**: What God does in the world, which the speaker says people cannot fully discover despite their efforts.

@@ -1,0 +1,41 @@
+[
+  {
+    "book": "ecclesiastes",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-ecclesiastes-4-12/ecclesiastes-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered72/sources/ecclesiastes-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 9,\n  \"verses\": 156,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "book": "songofsongs",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered72/sources/songofsongs-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 8,\n  \"verses\": 117,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  },
+  {
+    "book": "isaiah",
+    "command": [
+      "python3",
+      "tools/audit_fluent_revision.py",
+      "/workspace/scratch/715780414821/shared-word-translation/audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json",
+      "--source-text",
+      "/workspace/scratch/715780414821/recovered72/sources/isaiah-pinned-hebrew.xml"
+    ],
+    "exit_code": 0,
+    "stdout": "{\n  \"status\": \"PASSED\",\n  \"chapters\": 23,\n  \"verses\": 441,\n  \"scope\": \"source identity, byte bindings, coverage, format, ledger consistency; no human approval\",\n  \"errors\": []\n}\n",
+    "stderr": ""
+  }
+]

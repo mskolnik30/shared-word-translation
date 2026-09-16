@@ -1,0 +1,24 @@
+{
+  "accessed": "2026-09-16",
+  "purpose": "Resolve concrete textual/lexical decisions after source-first drafting. Lexicon entries are supporting evidence; pinned original XML remains controlling.",
+  "references": [
+    {
+      "reference": "Isaiah 14:4",
+      "url": "https://biblehub.com/strongs/hebrew/4062.htm",
+      "consulted": "Historical Brown-Driver-Briggs / Strong lexicon sections, not generated topical commentary.",
+      "finding": "The raging/fury analysis involves reading marhebah in place of the pinned madhebah; the draft instead adopts an uncertain exaction sense and explicitly notes the emendation behind fury."
+    },
+    {
+      "reference": "Isaiah 21:5",
+      "url": "https://biblehub.com/strongs/hebrew/6844.htm",
+      "consulted": "Historical Brown-Driver-Briggs lexicon section.",
+      "finding": "A covering or rug is a lexical possibility for tsaphith; the watch interpretation remains in a note."
+    },
+    {
+      "reference": "Isaiah 7:11",
+      "url": "https://biblehub.com/text/isaiah/7-11.htm",
+      "consulted": "Displayed Hebrew word analysis, checked against pinned XML.",
+      "finding": "The request wording can preserve the pointed form; Sheol is a consequential alternative and is documented rather than silently adopted."
+    }
+  ]
+}

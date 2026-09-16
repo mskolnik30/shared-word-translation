@@ -4,171 +4,109 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-songofsongs-1-8-biblical-fluency-2026-09-16
 ---
 
 ## Longing and Love
+
 <p>
-v01: Oh that you were like a brother to me,
-one who nursed at my mother's breasts!
-Then, if I found you outside,
-I would kiss you,
-and none would despise me.
-v02: I would lead you
-and bring you into my mother's house,
-she who taught me.
+v01: If only you were like a brother to me,
+nursed at my mother’s breasts!
+Then, finding you outside, I could kiss you,
+and no one would despise me.
+v02: I would lead you and bring you to my mother’s house,
+where she would teach me.
 I would give you spiced wine to drink,
 the juice of my pomegranate.
 </p>
 
 <p>
-v03: His left hand is under my head,
-and his right hand embraces me.
-v04: I adjure you,
-O daughters of Jerusalem,
-do not stir up
-or awaken love
-until it pleases.
+v03: His left hand is beneath my head,
+and his right arm embraces me.
+v04: I put you under oath, daughters of Jerusalem:
+why stir up or awaken love
+before it wishes?
 </p>
 
 ## Love Strong as Death
+
 <p>
-v05: Who is this
-coming up from the wilderness,
-leaning upon her beloved?
-Under the apple tree I awakened you.
-There your mother was in labor with you;
-there she who bore you
-was in labor.
+v05: Who is this coming up from the wilderness,
+leaning on her beloved?
+Under the apple tree I awakened you;
+there your mother labored with you,
+there she who bore you was in labor.
 </p>
 
 <p>
-v06: Set me as a seal upon your heart,
-as a seal upon your arm,
-for love is strong as death,
-jealousy is fierce as Sheol.
+v06: Set me like a seal on your heart,
+like a seal on your arm.
+For love is strong as death,
+jealousy relentless as Sheol.
 Its flashes are flashes of fire,
-the very flame of the LORD.
-v07: Many waters cannot quench love,
-nor can rivers overwhelm it.
-If a man were to give
-all the wealth of his house for love,
-he would be utterly despised.
+a flame of **YAH**.
+v07: Many waters cannot extinguish love;
+rivers cannot sweep it away.
+If a man offered all his household wealth for love,
+he would be utterly scorned.
 </p>
 
-## The Brothers Speak
+## A little sister
+
 <p>
 v08: We have a little sister,
-and she has no breasts.
-What will we do for our sister
-on the day when she is spoken for?
+and she has no breasts yet.
+What shall we do for our sister
+on the day she is spoken for?
 v09: If she is a wall,
-we will build upon her
-a battlement of silver.
-But if she is a door,
-we will enclose her
-with boards of cedar.
+we will build a silver turret on her.
+If she is a door,
+we will enclose her with a cedar plank.
 </p>
 
-## The Bride Responds
+## The Woman Responds
+
 <p>
 v10: I am a wall,
-and my breasts are like towers.
-Then I became in his eyes
-as one who finds peace.
+and my breasts are towers.
+Then in his eyes I became
+like one who finds peace.
 </p>
 
 <p>
 v11: Solomon had a vineyard at Baal-hamon.
-He entrusted the vineyard to keepers.
-Each was to bring for its fruit
-a thousand pieces of silver.
-v12: My vineyard, my own,
-is before me.
-You, O Solomon, may have the thousand,
-and the keepers of its fruit two hundred.
+He entrusted it to keepers;
+each was to bring a thousand pieces of silver for its fruit.
+v12: My vineyard, my own, is in my keeping.
+The thousand are yours, Solomon,
+and two hundred for those who keep its fruit.
 </p>
 
 ## The Final Exchange
+
 <p>
-v13: O you who dwell in the gardens,
-the companions listen for your voice;
-let me hear it.
+v13: You who dwell in the gardens,
+companions are listening for your voice.
+Let me hear it!
 </p>
 
 <p>
-v14: Hurry, my beloved,
-and be like a gazelle
-or a young stag
-upon the mountains of spices.
+v14: Hurry away, my beloved!
+Be like a gazelle or a young stag
+on the mountains of spices.
 </p>
 
 ## Notes
 
-v01–02: The bride expresses a desire for unrestricted public affection free from social restraint.
+v02: The Hebrew can mean that her mother would teach her or that her beloved would teach her. The choice does not identify a teacher beyond doubt.
 
-v03–04: The familiar refrain again emphasizes the proper timing and awakening of love.
+v06: The ending of “flame of YAH” can be read as the short divine name, or as an intensifying expression, “a mighty flame.” The draft retains the possible divine name.
 
-v05: The image of the couple emerging from the wilderness recalls themes of journey, growth, and union.
-
-v06: The seal symbolizes permanent ownership, commitment, and belonging.
-
-v06: Love is compared to death because of its power, permanence, and inevitability.
-
-v06: The phrase “the very flame of the LORD” is one of the most striking references to divine fire in the book.
-
-v07: True love cannot be extinguished, purchased, or replaced by wealth.
-
-v08–09: The brothers discuss protecting and preparing their younger sister for future marriage.
-
-v10: The bride declares her maturity and readiness, affirming her faithfulness and stability.
-
-v10: “Peace” echoes the Hebrew concept of shalom—wholeness, harmony, and fulfillment.
-
-v11–12: The vineyard imagery returns as a symbol of personal devotion, affection, and self-giving.
-
-v12: The bride claims stewardship over her own vineyard while freely offering herself in love.
-
-v13–14: The book concludes with longing rather than final closure, preserving the theme of desire and pursuit.
-
-v14: The final image echoes earlier gazelle imagery and leaves the song moving forward rather than ending in stillness.
+v12: Literally, her vineyard is “before me.” The line stresses her own relation to it, in contrast with Solomon’s arrangements; it does not explicitly state a transaction.
 
 ## Vocabulary
 
-v01: אָח (ʾāḥ)
-“Brother.” A close family relation whose public affection would not be questioned.
-
-v02: רֶקַח (reqaḥ)
-“Spiced wine.” Wine mixed with aromatic ingredients.
-
-v04: אַהֲבָה (ʾahăḇâ)
-“Love.” Deep affection, desire, and devotion.
-
-v05: תָּפֻּחַ (tappûaḥ)
-“Apple tree.” A symbol of delight, fruitfulness, and affection.
-
-v06: חוֹתָם (ḥôṯām)
-“Seal.” A mark of ownership, identity, and permanence.
-
-v06: קִנְאָה (qinʾâ)
-“Jealousy” or “zeal.” Passionate and exclusive devotion.
-
-v06: שְׁאוֹל (šĕʾôl)
-“Sheol.” The realm of the dead, often representing irresistible power.
-
-v07: מַיִם רַבִּים (mayim rabbîm)
-“Many waters.” A figure for overwhelming forces or circumstances.
-
-v09: טִירָה (ṭîrâ)
-“Battlement.” A fortified structure built upon a wall.
-
-v10: שָׁלוֹם (šālôm)
-“Peace.” Wholeness, well-being, harmony, and fulfillment.
-
-v11: כֶּרֶם (kerem)
-“Vineyard.” A recurring symbol of fruitfulness, love, and personal devotion.
-
-v13: גַּן (gan)
-“Garden.” A cultivated place associated throughout the book with beauty and intimacy.
-
-v14: בְּשָׂמִים (bĕśāmîm)
-“Spices.” Fragrant plants associated with delight, abundance, and love.
+v06: **Seal**: An identifying mark of ownership or authority, worn close to the body. Here it becomes an image of enduring attachment.

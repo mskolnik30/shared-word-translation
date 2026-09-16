@@ -2,125 +2,72 @@
   "book": "Isaiah",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-isaiah-1-23-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+    "path": "audit/exegetical-core/fluent-production/isaiah/Isaiah_12_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Isa",
+    "book_verse_count": 1291,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Isa.xml",
-    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Isa.xml",
     "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Isaiah 12:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 1,
-            "source_ref": "Isaiah 12:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "905fe825b0de88fd18bdef9c1c19b2ee4c0049633aaedef219af9624bd267cb3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "905fe825b0de88fd18bdef9c1c19b2ee4c0049633aaedef219af9624bd267cb3"
-      },
-      "2": {
-        "source_ref": "Isaiah 12:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 2,
-            "source_ref": "Isaiah 12:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b9c94f17ef1df51c4115c5de8b0c5393e6598dbf4a7a8814aed496117bb58a19"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b9c94f17ef1df51c4115c5de8b0c5393e6598dbf4a7a8814aed496117bb58a19"
-      },
-      "3": {
-        "source_ref": "Isaiah 12:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 3,
-            "source_ref": "Isaiah 12:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "13dd4e52b9fb0b0f66e25b98d9335af89714e796bdabbe0f6a9b0fa789ac1660"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "13dd4e52b9fb0b0f66e25b98d9335af89714e796bdabbe0f6a9b0fa789ac1660"
-      },
-      "4": {
-        "source_ref": "Isaiah 12:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 4,
-            "source_ref": "Isaiah 12:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "55f6abcb04065f378d431be53aabc7df6fe56a5858b891e5478f9bb0354ea240"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "55f6abcb04065f378d431be53aabc7df6fe56a5858b891e5478f9bb0354ea240"
-      },
-      "5": {
-        "source_ref": "Isaiah 12:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 5,
-            "source_ref": "Isaiah 12:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "92960bdc0e9403ac83a2efc0f264f2fc401d8ba496b4a71f03f006e47cf3f343"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "92960bdc0e9403ac83a2efc0f264f2fc401d8ba496b4a71f03f006e47cf3f343"
-      },
-      "6": {
-        "source_ref": "Isaiah 12:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 6,
-            "source_ref": "Isaiah 12:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4738defd82eb99e9cacb757e1561d434487d3fa70966cf8c919374636dbd39c6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4738defd82eb99e9cacb757e1561d434487d3fa70966cf8c919374636dbd39c6"
-      }
+    "sha256": "e13673ee70786bacabd83e1fa4f531c58b43db9511d4af4724da958d335e2695",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Isa.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "Public 9:1 = Isa 8:23; public 9:2–21 = Isa 9:1–20. All other labels match."
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 6,
+    "path": "translations/fluent/OT/isaiah/Isaiah_12.md",
+    "before_sha256": "0d398c050b24c3733049ca9b60493463eb5312055a1df64abfbfad022c65d6b6",
+    "after_sha256": "caeaf07bd26b2a0e4d442cd024c299fc7351f8e1ad80f714103ad78f58b8dfbf",
+    "tsw_comparator_path": "books/OT/isaiah/Isaiah_12.md",
+    "tsw_comparator_sha256": "f6bfe26424ce89683923b899944bce6b2c47bcb4bec65cbf630d44dbf5ba6443"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Isaiah 12:2",
+      "decision": "Retain both divine forms and exodus song echo.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/isaiah/Isaiah_12.md",
-    "blob_sha": "f532dd7d67bc70a20dfa0316d6d4bbeb207914f3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

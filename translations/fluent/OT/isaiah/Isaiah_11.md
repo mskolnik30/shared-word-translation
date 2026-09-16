@@ -4,62 +4,80 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## A Shoot from the Stump of Jesse
 
 <p>
-v01: A shoot will come out from the stump of Jesse, and a branch from his roots will bear fruit.
-v02: The Spirit of the LORD will rest upon him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the LORD.
-v03: His delight will be in the fear of the LORD. He will not judge by the sight of his eyes, neither decide by the hearing of his ears;
-v04: but with righteousness he will judge the poor, and decide with equity for the humble of the earth. He will strike the earth with the rod of his mouth;
-and with the breath of his lips he will kill the wicked.
+v01: A shoot will grow from Jesse’s stump;
+a branch from his roots will bear fruit.
+v02: The spirit of the **LORD** will rest upon him:
+a spirit of wisdom and understanding,
+a spirit of counsel and strength,
+a spirit of knowledge and fear of the **LORD**.
+v03: His delight will be in the fear of the **LORD**.
+He will not judge by what his eyes see
+or decide by what his ears hear.
+v04: He will judge the poor with righteousness
+and decide fairly for the earth’s afflicted.
+He will strike the earth with his mouth’s rod
+and kill the wicked with his lips’ breath.
 </p>
 
 <p>
-v05: Righteousness will be the belt of his waist, and faithfulness the belt of his waist.
-v06: The wolf will dwell with the lamb, and the leopard will lie down with the young goat;
-the calf, the young lion, and the fattened animal together, and a little child will lead them.
-v07: The cow and the bear will graze. Their young ones will lie down together. The lion will eat straw like the ox.
-v08: The nursing child will play near a cobra's hole, and the weaned child will put his hand on the viper's den.
+v05: Righteousness will be the belt at his waist,
+faithfulness the belt at his hips.
+v06: A wolf will live with a lamb;
+a leopard will lie down with a young goat.
+Calf, young lion, and fattened animal will be together,
+and a little child will lead them.
+v07: Cow and bear will graze;
+their young will lie down together.
+The lion will eat straw like cattle.
+v08: A nursing child will play by a cobra’s hole;
+a weaned child will reach into a viper’s den.
 </p>
 
 <p>
-v09: They will not hurt or destroy on all my holy mountain, for the earth will be full of the knowledge of the LORD as the waters cover the sea.
-v10: It will happen on that day that the nations will seek the root of Jesse, who stands as a banner of the peoples;
-and his resting place will be glorious.
-v11: It will happen on that day that the Lord will set his hand again the second time to recover the remnant that is left of his people from Assyria, from Egypt, from Pathros, from Cush, from Elam, from Shinar, from Hamath, and from the islands of the sea.
-v12: He will set up a banner for the nations, and will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+v09: They will neither harm nor destroy
+on all my holy mountain,
+for the earth will be full of the knowledge of the **LORD**,
+as water covers the sea.
+v10: On that day Jesse’s root will stand as a signal for peoples. Nations will seek him, and his resting place will be glorious.
+v11: On that day the Lord will again extend his hand, a second time, to recover the remnant of his people left in Assyria, Egypt, Pathros, Cush, Elam, Shinar, Hamath, and the sea’s coastlands.
+v12: He will raise a signal for the nations,
+gather Israel’s outcasts,
+and assemble Judah’s scattered people
+from the earth’s four corners.
 </p>
 
 <p>
-v13: The envy also of Ephraim will depart, and people who persecute Judah will be cut off. Ephraim will not envy Judah, and Judah will not persecute Ephraim.
-v14: They will fly down on the shoulders of the Philistines on the west. Together they will plunder the children of the east. They will extend their power over Edom and Moab, and the children of Ammon will obey them.
-v15: The LORD will utterly destroy the tongue of the Egyptian sea;
-and with his scorching wind he will wave his hand over the River, and will split it into seven streams, and cause men to march over in sandals.
-v16: There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
+v13: Ephraim’s jealousy will depart,
+and Judah’s adversaries will be cut off.
+Ephraim will not envy Judah,
+and Judah will not harass Ephraim.
+v14: Together they will swoop on Philistia’s western slopes
+and plunder the people of the east.
+Edom and Moab will fall under their hand;
+the Ammonites will obey them.
+v15: The **LORD** will utterly destroy the tongue of Egypt’s sea.
+He will wave his hand over the River
+with his scorching wind,
+strike it into seven streams,
+and let people cross in sandals.
+v16: There will be a highway for the remnant of his people left in Assyria, as there was for Israel on the day it came up from Egypt.
 </p>
 
 ## Notes
 
-v01: “stump of Jesse” — New growth emerges from what appears cut down. The image links royal hope with David’s family while emphasizing renewed beginning.
+v03: The verb is related to smelling and can express taking delight. The following lines contrast sensory appearances with just judgment.
 
-v11: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.
-
-v10: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
-
-v04: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
+v14: The restored people’s conquest and dominance over their neighbors remain explicit; the animal-peace imagery is not used to remove these later lines.
 
 ## Vocabulary
 
-v01: חֹטֶר (choter)
-“Shoot.” New growth emerging from a cut stump.
-
-v01: נֵצֶר (netser)
-“Branch” or “sprout.” A shoot growing from roots.
-
-v11: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.
-
-v10: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
+v01: **Jesse**: David’s father. A shoot from his cut-down stock evokes renewed life in that royal family.

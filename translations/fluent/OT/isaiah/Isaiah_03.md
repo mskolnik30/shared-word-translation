@@ -4,85 +4,113 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## Judgment on Jerusalem and Judah
 
 <p>
-v01: For, look, the Lord GOD of Hosts, takes away from Jerusalem and from Judah supply and support, the whole supply of bread, and the whole supply of water;
-v02: the mighty man, the man of war, the judge, the prophet, the diviner, the elder,
-v03: the captain of fifty, the honorable man, the counselor, the skilled craftsman, and the clever enchanter.
-v04: I will give boys to be their princes, and children will rule over them.
+v01: Look! The Lord, the **LORD** of hosts,
+is removing from Jerusalem and Judah
+every support and supply:
+all support of bread and water,
+v02: warrior and soldier,
+judge and prophet,
+diviner and elder,
+v03: captain of fifty and person of rank,
+counselor, skilled craftsman,
+and expert in charms.
+v04: “I will make boys their rulers;
+capricious children will govern them.”
 </p>
 
 <p>
-v05: The people will be oppressed, everyone by another, and everyone by his neighbor. The child will behave himself proudly against the old man, and the base against the honorable.
-v06: Indeed a man will take hold of his brother in the house of his father, saying, "You have clothing, you be our ruler, and let this ruin be under your hand."
-v07: On that day he will cry out, saying, I will not be a healer;
-for in my house is neither bread nor clothing. You will not make me ruler of the people.
-v08: For Jerusalem is ruined, and Judah is fallen;
-because their tongue and their doings are against the LORD, to provoke the eyes of his glory.
+v05: People will oppress one another,
+each against a neighbor.
+The young will bully the old,
+the despised the honored.
+v06: A man will seize his brother in their father’s house:
+“You have a cloak—be our leader!
+Take charge of this heap of ruins.”
+v07: But that day he will protest:
+“I cannot bind up your wounds!
+My house has neither bread nor cloak.
+Do not make me the people’s leader.”
+v08: Jerusalem has stumbled; Judah has fallen.
+Their speech and deeds oppose the **LORD**,
+defying his glorious presence.
 </p>
 
 <p>
-v09: The look of their faces testify against them. They parade their sin like Sodom. They do not hide it. Woe to their soul! For they have brought disaster upon themselves.
-v10: Tell the righteous "Good!" For they will eat the fruit of their deeds.
-v11: Woe to the wicked! Disaster is upon them;
-for the deeds of his hands will be paid back to him.
-v12: As for my people, children are their oppressors, and women rule over them. My people, people who lead you cause you to err, and destroy the way of your paths.
+v09: Their faces testify against them;
+like Sodom, they declare their sin without hiding it.
+Woe to them!
+They have brought harm on themselves.
+v10: Tell the righteous it will go well:
+they will eat the fruit of their deeds.
+v11: Woe to the wicked! It will go badly:
+what their hands have done will return to them.
+v12: My people—children oppress them,
+and women rule over them.
+My people, your guides mislead you;
+they swallow up the path you should walk.
 </p>
 
 <p>
-v13: The LORD stands up to contend, and stands to judge the peoples.
-v14: The LORD will enter into judgment with the elders of his people, and their leaders: "It is you who have eaten up the vineyard. The spoil of the poor is in your houses.
-v15: What do you mean that you crush my people, and grind the face of the poor?" says the Lord GOD of Hosts.
-v16: Moreover the LORD said, "Because the daughters of Zion are haughty, and walk with outstretched necks and flirting eyes, walking to trip as they go, jingling ornaments on their feet;
+v13: The **LORD** takes his stand to argue the case;
+he rises to judge peoples.
+v14: The **LORD** enters judgment
+with his people’s elders and rulers:
+“You have devoured the vineyard!
+Your houses hold what you stole from the poor.
+v15: What do you mean by crushing my people,
+grinding the faces of the poor?”
+declares the Lord **GOD** of hosts.
+v16: The **LORD** says:
+“Because Zion’s daughters are proud,
+walking with necks outstretched
+and eyes that flirt,
+taking mincing steps
+and jingling their anklets,
 </p>
 
 <p>
-v17: so the Lord brings sores on the crown of the head of the women of Zion, and the LORD will make their scalps bald."
-v18: On that day the Lord will take away the beauty of their anklets, the headbands, the crescent necklaces,
-v19: the earrings, the bracelets, the veils,
-v20: the headdresses, the ankle chains, the sashes, the perfume bottles, the charms,
+v17: the Lord will scab the heads of Zion’s daughters;
+the **LORD** will expose their private parts.”
+v18: On that day the Lord will remove their finery: anklets, headbands, crescent ornaments,
+v19: earrings, bracelets, veils,
+v20: headdresses, ankle chains, sashes, perfume containers, amulets,
 </p>
 
 <p>
-v21: the signet rings, the nose rings,
-v22: the fine robes, the capes, the cloaks, the purses,
-v23: the hand mirrors, the fine linen garments, the tiaras, and the shawls.
-v24: It will happen that instead of sweet spices, there will be rottenness;
-instead of a belt, a rope;
-instead of well set hair, baldness;
-instead of a robe, a girding of sackcloth;
-and branding instead of beauty.
+v21: rings and nose jewels,
+v22: fine robes, mantles, wraps, purses,
+v23: mirrors, linen garments, turbans, and shawls.
+v24: Instead of perfume, rot;
+instead of a sash, a rope;
+instead of styled hair, baldness;
+instead of a fine robe, sackcloth;
+branding instead of beauty.
 </p>
 
 <p>
-v25: Your men will fall by the sword, and your mighty in the war.
+v25: Your men will fall by the sword,
+your warriors in battle.
 v26: Her gates will lament and mourn;
-and she will be desolate and sit on the ground.
+stripped bare, she will sit on the ground.
 </p>
 
 ## Notes
 
-v14: “the spoil of the poor is in your houses” — Isaiah locates social violence within elite accumulation and makes leadership accountable for what has been taken from the vulnerable.
+v12: The Hebrew text used here names children and women in the rebuke. Alternative readings involving oppressors or creditors are not silently substituted for that gendered language.
 
-v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
+v17: The last word may refer to their scalp or their private parts. The threat involves humiliating exposure, and its ambiguity is consequential.
 
-v08: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
-
-v09: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.
+v18–23: Several ornament and garment names are uncertain. The list preserves its accumulation of costly adornments without claiming exact modern equivalents.
 
 ## Vocabulary
 
-v15: דַּל (dal)
-“Poor” or “weak.” One lacking social or economic power.
-
-v16: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
-
-v16: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v08: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
+v09: **Sodom**: The ruined city becomes a comparison for openly displayed wrongdoing; the line does not hide the comparison inside a general word for evil.

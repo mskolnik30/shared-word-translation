@@ -4,68 +4,44 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ecclesiastes-4-12-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: There is an evil that I have seen under the sun, and it weighs heavily upon humanity:
+## Wealth without enjoyment
 
-v02: a person to whom God gives wealth, possessions, and honor, lacking nothing for their appetite of all that they desire, yet God does not empower them to enjoy it; rather, a stranger enjoys it. This is vapor and a grievous sickness.
+<p>
+v01: There is an evil I have seen under the sun, and it weighs heavily on humanity:
+v02: God gives a man wealth, possessions, and honor—nothing he desires is lacking—but God does not give him power to enjoy them. A stranger enjoys them instead. This is breath, a grievous affliction.
+v03: A man might father a hundred children and live many years. Yet however many his days, if he has no satisfaction in life’s good things and not even a burial, I say a stillborn child is better off than he is.
+v04: It comes in breath and goes into darkness;
+in darkness its name is hidden.
+v05: Though it has never seen the sun or known anything, it has more rest than that man.
+v06: Even if he lived a thousand years twice over but never enjoyed life’s good, do not all go to the same place?
+v07: All human work is for the mouth,
+yet the appetite is never filled.
+v08: What advantage does the wise person have over the fool? What advantage has a poor person who knows how to conduct himself among the living?
+v09: Better what the eyes can see
+than the appetite’s wandering.
+This too is breath, herding the wind.
 </p>
 
-<p>
-v03: If a man fathers a hundred children and lives many years—however many the days of his years may be—but his appetite is not satisfied with good things, and he receives no burial, I say that a stillborn child is better off than he.
-
-v04: For it comes in vapor and goes away in darkness, and its name is covered in darkness.
-
-v05: Though it has not seen the sun or known anything, it has more rest than he.
-
-v06: Even if he lives twice a thousand years but sees no good thing—do not all go to one place?
-</p>
+## What can a person know?
 
 <p>
-v07: All human labor is for the mouth, yet the appetite is not filled.
-
-v08: For what advantage does the wise have over the fool? What advantage does the poor person have, knowing how to conduct themselves before the living?
-
-v09: Better is the sight of the eyes than the wandering of the appetite. This too is vapor and a chasing after wind.
-</p>
-
-<p>
-v10: Whatever has been already has its name, and it is known that it is human; nor can anyone contend with one stronger than they are.
-
-v11: For there are many words that increase vapor. What advantage is there for anyone?
-
-v12: For who knows what is good for a person in life, during the numbered days of their vaporous life, which they spend like a shadow? For who can tell a person what will be after them under the sun?
+v10: Whatever exists has already been named. What a human is has been made known; no one can contend with someone stronger.
+v11: The more words, the more breath. What advantage is that to anyone?
+v12: Who knows what is good for a person in life, through the few days of a breathlike life spent like a shadow? Who can tell anyone what will happen under the sun after they are gone?
 </p>
 
 ## Notes
 
-v02: God is named as both giver and as the one who does not enable enjoyment. The verse does not explain this tension; it presents the inability to receive one’s abundance as a grievous evil.
+v03–06: The comparison with a stillborn child is deliberately stark. It concerns frustrated enjoyment and rest, and is not softened into a general comment about disappointment.
 
-v03–05: The comparison with a stillborn child is deliberately stark. The Teacher’s point is not to diminish the tragedy of such a death, but to expose the misery of a long life marked by insatiability, abandonment, and the loss of honor in death.
-
-v07: “Appetite” translates *nephesh*, a word that can refer to the living self and its desires. Human labor may provide food for the mouth, yet it does not necessarily satisfy the deeper self.
-
-v09: “The sight of the eyes” suggests receiving what is present before one, while “the wandering of the appetite” portrays desire restlessly moving beyond what one has.
-
-v10: “Whatever has been already has its name” speaks of human life as already bounded and known. The “one stronger” is not named, leaving the saying’s force broad while recalling the limits of human resistance.
+v11: The Hebrew word can mean “words” or “things.” Either reading continues the question of what multiplication actually gains a person.
 
 ## Vocabulary
 
-v02: נֶפֶשׁ (*nephesh*) — “appetite” here is the desiring self. Wealth may satisfy outward lack while leaving the person unable to receive or enjoy what they possess.
-
-v03: נֵפֶל (*nephel*) — “stillborn child.” The term names one who comes into the world without entering its visible life, intensifying the passage’s painful comparison between rest and an unsatisfied life.
-
-v09: רְעוּת רוּחַ (*reʿut ruaḥ*) — “a chasing after wind.” The phrase evokes futile pursuit: desire reaches after what cannot be grasped or retained.
-
-v11: הֶבֶל (hevel)
-“vapor.” In this chapter, hevel describes the elusive and insubstantial character of wealth, desire, and even multiplying words.
-
-v02: נֶפֶשׁ (nephesh)
-“appetite” here is the desiring self. Wealth may satisfy outward lack while leaving the person unable to receive or enjoy what they possess.
-
-v03: נֵפֶל (nephel)
-“stillborn child.” The term names one who comes into the world without entering its visible life, intensifying the passage’s painful comparison between rest and an unsatisfied life.
-
-v09: רְעוּת רוּחַ (reʿut ruaḥ)
-“a chasing after wind.” The phrase evokes futile pursuit: desire reaches after what cannot be grasped or retained.
+v09: **Appetite**: Literally “life” or “soul” here: the desiring self, pictured as wandering beyond what the eyes can see.

@@ -1,0 +1,16 @@
+{
+  "scope": "Song of Songs 1–8, all 117 verses.",
+  "status": "DRAFT_COMPLETED",
+  "method": "Every selected original Hebrew record and every annotation read before independent drafting. All TSW comparator verses read afterward. Every verse has an individually authored rationale; no synonym-substitution engine or change quota used.",
+  "original_source_records_read": 117,
+  "tsw_comparator_verses_read": 117,
+  "focused_source_english_reread": 30,
+  "focused_evidence": "focused-comparisons.json",
+  "qualification": "Authoring reread by the drafting agent; not independent scholarly approval.",
+  "structural_verification": "../2026-09-16-prophets-40/verification.json",
+  "independent_editorial_status": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "companion_impact": "Quotations and bindings for the changed chapters require later reconciliation. Companion not modified.",
+  "comparator_limitations": "TSW Song 7:9 has its second half outside the verse paragraph under a heading; normalized parser statistics omit that orphaned line. The complete comparator chapter was read and its full bytes remain hash-bound. Fluent includes the complete source record inside v09."
+}

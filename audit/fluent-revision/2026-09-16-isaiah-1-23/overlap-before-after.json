@@ -1,0 +1,3106 @@
+{
+  "scope": "Isaiah 1–23, all 441 verses.",
+  "verses": 441,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 343,
+      "near_identical_nonidentical": 86,
+      "mean_word_similarity": 0.987948
+    },
+    "after": {
+      "identical": 0,
+      "near_identical_nonidentical": 3,
+      "mean_word_similarity": 0.621261
+    }
+  },
+  "rows": [
+    {
+      "reference": "Isaiah 1:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Isaiah 1:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Isaiah 1:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 1:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.507937
+    },
+    {
+      "reference": "Isaiah 1:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Isaiah 1:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491
+    },
+    {
+      "reference": "Isaiah 1:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Isaiah 1:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Isaiah 1:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Isaiah 1:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Isaiah 1:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.722892
+    },
+    {
+      "reference": "Isaiah 1:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 1:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Isaiah 1:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366
+    },
+    {
+      "reference": "Isaiah 1:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Isaiah 1:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.342857
+    },
+    {
+      "reference": "Isaiah 1:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 1:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.730159
+    },
+    {
+      "reference": "Isaiah 1:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Isaiah 1:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 1:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.97561
+    },
+    {
+      "reference": "Isaiah 1:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Isaiah 1:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.448276
+    },
+    {
+      "reference": "Isaiah 1:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Isaiah 1:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Isaiah 1:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Isaiah 1:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Isaiah 1:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Isaiah 1:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 1:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Isaiah 1:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Isaiah 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 2:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Isaiah 2:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Isaiah 2:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Isaiah 2:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Isaiah 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Isaiah 2:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Isaiah 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Isaiah 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 2:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Isaiah 2:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.478261
+    },
+    {
+      "reference": "Isaiah 2:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Isaiah 2:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.344828
+    },
+    {
+      "reference": "Isaiah 2:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636
+    },
+    {
+      "reference": "Isaiah 2:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 2:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 2:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 2:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Isaiah 2:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Isaiah 2:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 2:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Isaiah 2:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.451613
+    },
+    {
+      "reference": "Isaiah 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Isaiah 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Isaiah 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "Isaiah 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Isaiah 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Isaiah 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.436364
+    },
+    {
+      "reference": "Isaiah 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Isaiah 3:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.380952
+    },
+    {
+      "reference": "Isaiah 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Isaiah 3:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Isaiah 3:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.324324
+    },
+    {
+      "reference": "Isaiah 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.407407
+    },
+    {
+      "reference": "Isaiah 3:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Isaiah 3:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053
+    },
+    {
+      "reference": "Isaiah 3:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Isaiah 3:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.301887
+    },
+    {
+      "reference": "Isaiah 3:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.2
+    },
+    {
+      "reference": "Isaiah 3:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Isaiah 3:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 3:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Isaiah 3:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Isaiah 3:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Isaiah 3:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Isaiah 3:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Isaiah 3:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 3:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Isaiah 4:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.686567
+    },
+    {
+      "reference": "Isaiah 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Isaiah 4:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Isaiah 4:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Isaiah 4:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.739726
+    },
+    {
+      "reference": "Isaiah 4:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Isaiah 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Isaiah 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.621622
+    },
+    {
+      "reference": "Isaiah 5:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Isaiah 5:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Isaiah 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Isaiah 5:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.586207
+    },
+    {
+      "reference": "Isaiah 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.942857,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Isaiah 5:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Isaiah 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.52381
+    },
+    {
+      "reference": "Isaiah 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Isaiah 5:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Isaiah 5:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Isaiah 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Isaiah 5:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 5:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Isaiah 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Isaiah 5:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Isaiah 5:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.646154
+    },
+    {
+      "reference": "Isaiah 5:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Isaiah 5:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Isaiah 5:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Isaiah 5:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 5:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980769,
+      "after_similarity": 0.688172
+    },
+    {
+      "reference": "Isaiah 5:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980392,
+      "after_similarity": 0.744681
+    },
+    {
+      "reference": "Isaiah 5:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Isaiah 5:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Isaiah 5:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Isaiah 5:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Isaiah 5:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Isaiah 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Isaiah 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Isaiah 6:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Isaiah 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Isaiah 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.936709,
+      "after_similarity": 0.783784
+    },
+    {
+      "reference": "Isaiah 6:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Isaiah 6:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Isaiah 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Isaiah 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84375
+    },
+    {
+      "reference": "Isaiah 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "Isaiah 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 6:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Isaiah 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.825
+    },
+    {
+      "reference": "Isaiah 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.483871
+    },
+    {
+      "reference": "Isaiah 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.80597
+    },
+    {
+      "reference": "Isaiah 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Isaiah 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Isaiah 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.458333
+    },
+    {
+      "reference": "Isaiah 7:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Isaiah 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Isaiah 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Isaiah 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Isaiah 7:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Isaiah 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Isaiah 7:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Isaiah 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Isaiah 7:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Isaiah 7:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Isaiah 7:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Isaiah 7:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.52
+    },
+    {
+      "reference": "Isaiah 7:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 7:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.811594
+    },
+    {
+      "reference": "Isaiah 7:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Isaiah 7:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Isaiah 7:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Isaiah 7:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Isaiah 7:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.638889
+    },
+    {
+      "reference": "Isaiah 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Isaiah 8:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Isaiah 8:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Isaiah 8:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Isaiah 8:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Isaiah 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Isaiah 8:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.515152
+    },
+    {
+      "reference": "Isaiah 8:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Isaiah 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Isaiah 8:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Isaiah 8:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.390244
+    },
+    {
+      "reference": "Isaiah 8:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.372093
+    },
+    {
+      "reference": "Isaiah 8:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Isaiah 8:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Isaiah 8:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Isaiah 8:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Isaiah 8:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Isaiah 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Isaiah 8:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Isaiah 8:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Isaiah 8:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Isaiah 9:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.770833
+    },
+    {
+      "reference": "Isaiah 9:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Isaiah 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Isaiah 9:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Isaiah 9:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Isaiah 9:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.898551
+    },
+    {
+      "reference": "Isaiah 9:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Isaiah 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Isaiah 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Isaiah 9:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Isaiah 9:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Isaiah 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Isaiah 9:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Isaiah 9:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Isaiah 9:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.275862
+    },
+    {
+      "reference": "Isaiah 9:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Isaiah 9:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Isaiah 9:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 9:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Isaiah 9:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Isaiah 10:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 10:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Isaiah 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491
+    },
+    {
+      "reference": "Isaiah 10:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Isaiah 10:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.463768
+    },
+    {
+      "reference": "Isaiah 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.259259
+    },
+    {
+      "reference": "Isaiah 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Isaiah 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Isaiah 10:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Isaiah 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 10:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97561,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 10:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.455696
+    },
+    {
+      "reference": "Isaiah 10:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.542857
+    },
+    {
+      "reference": "Isaiah 10:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.659091
+    },
+    {
+      "reference": "Isaiah 10:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Isaiah 10:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Isaiah 10:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Isaiah 10:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 10:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 10:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Isaiah 10:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Isaiah 10:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 10:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Isaiah 10:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Isaiah 10:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.657534
+    },
+    {
+      "reference": "Isaiah 10:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Isaiah 10:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Isaiah 10:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Isaiah 10:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 10:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Isaiah 10:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "Isaiah 10:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 10:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Isaiah 11:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Isaiah 11:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.852459
+    },
+    {
+      "reference": "Isaiah 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Isaiah 11:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Isaiah 11:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Isaiah 11:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.757576
+    },
+    {
+      "reference": "Isaiah 11:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Isaiah 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Isaiah 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Isaiah 11:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.45283
+    },
+    {
+      "reference": "Isaiah 11:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979167,
+      "after_similarity": 0.617284
+    },
+    {
+      "reference": "Isaiah 11:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.431373
+    },
+    {
+      "reference": "Isaiah 11:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Isaiah 11:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.447761
+    },
+    {
+      "reference": "Isaiah 11:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 11:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Isaiah 12:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Isaiah 12:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Isaiah 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 12:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Isaiah 12:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Isaiah 12:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.341463
+    },
+    {
+      "reference": "Isaiah 13:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 13:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "Isaiah 13:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Isaiah 13:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.539683
+    },
+    {
+      "reference": "Isaiah 13:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Isaiah 13:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4375
+    },
+    {
+      "reference": "Isaiah 13:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Isaiah 13:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65625
+    },
+    {
+      "reference": "Isaiah 13:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Isaiah 13:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.561404
+    },
+    {
+      "reference": "Isaiah 13:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 13:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Isaiah 13:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Isaiah 13:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Isaiah 13:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Isaiah 13:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 13:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Isaiah 13:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Isaiah 13:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.45614
+    },
+    {
+      "reference": "Isaiah 13:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.489796
+    },
+    {
+      "reference": "Isaiah 13:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.541667
+    },
+    {
+      "reference": "Isaiah 14:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Isaiah 14:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.567901
+    },
+    {
+      "reference": "Isaiah 14:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.340426
+    },
+    {
+      "reference": "Isaiah 14:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Isaiah 14:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 14:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.45
+    },
+    {
+      "reference": "Isaiah 14:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.32
+    },
+    {
+      "reference": "Isaiah 14:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.418605
+    },
+    {
+      "reference": "Isaiah 14:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.550725
+    },
+    {
+      "reference": "Isaiah 14:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.473684
+    },
+    {
+      "reference": "Isaiah 14:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Isaiah 14:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Isaiah 14:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Isaiah 14:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Isaiah 14:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Isaiah 14:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "Isaiah 14:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Isaiah 14:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 14:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.638889
+    },
+    {
+      "reference": "Isaiah 14:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Isaiah 14:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Isaiah 14:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Isaiah 14:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Isaiah 14:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Isaiah 14:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Isaiah 14:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Isaiah 14:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Isaiah 14:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Isaiah 14:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.539683
+    },
+    {
+      "reference": "Isaiah 14:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.690909
+    },
+    {
+      "reference": "Isaiah 14:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.468085
+    },
+    {
+      "reference": "Isaiah 14:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Isaiah 15:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Isaiah 15:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Isaiah 15:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Isaiah 15:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Isaiah 15:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Isaiah 15:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692
+    },
+    {
+      "reference": "Isaiah 15:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.487805
+    },
+    {
+      "reference": "Isaiah 15:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Isaiah 15:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.535714
+    },
+    {
+      "reference": "Isaiah 16:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "Isaiah 16:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 16:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Isaiah 16:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.637681
+    },
+    {
+      "reference": "Isaiah 16:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Isaiah 16:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 16:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Isaiah 16:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.567568
+    },
+    {
+      "reference": "Isaiah 16:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.515152
+    },
+    {
+      "reference": "Isaiah 16:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Isaiah 16:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Isaiah 16:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Isaiah 16:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Isaiah 16:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "Isaiah 17:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Isaiah 17:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Isaiah 17:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.490566
+    },
+    {
+      "reference": "Isaiah 17:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Isaiah 17:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.509091
+    },
+    {
+      "reference": "Isaiah 17:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.465753
+    },
+    {
+      "reference": "Isaiah 17:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Isaiah 17:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.509804
+    },
+    {
+      "reference": "Isaiah 17:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 17:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Isaiah 17:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.448276
+    },
+    {
+      "reference": "Isaiah 17:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 17:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Isaiah 17:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.884615
+    },
+    {
+      "reference": "Isaiah 18:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Isaiah 18:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.560976
+    },
+    {
+      "reference": "Isaiah 18:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Isaiah 18:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Isaiah 18:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.557377
+    },
+    {
+      "reference": "Isaiah 18:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 18:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.693069
+    },
+    {
+      "reference": "Isaiah 19:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 19:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Isaiah 19:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.346154
+    },
+    {
+      "reference": "Isaiah 19:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Isaiah 19:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Isaiah 19:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "Isaiah 19:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.36
+    },
+    {
+      "reference": "Isaiah 19:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Isaiah 19:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Isaiah 19:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.322581
+    },
+    {
+      "reference": "Isaiah 19:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Isaiah 19:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Isaiah 19:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Isaiah 19:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.508475
+    },
+    {
+      "reference": "Isaiah 19:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4375
+    },
+    {
+      "reference": "Isaiah 19:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.490566
+    },
+    {
+      "reference": "Isaiah 19:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Isaiah 19:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Isaiah 19:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Isaiah 19:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.775
+    },
+    {
+      "reference": "Isaiah 19:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Isaiah 19:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Isaiah 19:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Isaiah 19:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Isaiah 19:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Isaiah 20:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Isaiah 20:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Isaiah 20:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Isaiah 20:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Isaiah 20:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 20:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.463768
+    },
+    {
+      "reference": "Isaiah 21:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Isaiah 21:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.464286
+    },
+    {
+      "reference": "Isaiah 21:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.477612
+    },
+    {
+      "reference": "Isaiah 21:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 21:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 21:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Isaiah 21:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.418605
+    },
+    {
+      "reference": "Isaiah 21:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Isaiah 21:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "Isaiah 21:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Isaiah 21:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Isaiah 21:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Isaiah 21:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Isaiah 21:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Isaiah 21:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Isaiah 21:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Isaiah 21:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "Isaiah 22:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.487805
+    },
+    {
+      "reference": "Isaiah 22:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Isaiah 22:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Isaiah 22:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Isaiah 22:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.419355
+    },
+    {
+      "reference": "Isaiah 22:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Isaiah 22:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.424242
+    },
+    {
+      "reference": "Isaiah 22:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "Isaiah 22:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821
+    },
+    {
+      "reference": "Isaiah 22:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 22:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647887
+    },
+    {
+      "reference": "Isaiah 22:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Isaiah 22:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Isaiah 22:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Isaiah 22:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Isaiah 22:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.507937
+    },
+    {
+      "reference": "Isaiah 22:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Isaiah 22:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.550725
+    },
+    {
+      "reference": "Isaiah 22:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Isaiah 22:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Isaiah 22:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619718
+    },
+    {
+      "reference": "Isaiah 22:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Isaiah 22:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Isaiah 22:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Isaiah 22:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.725
+    },
+    {
+      "reference": "Isaiah 23:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Isaiah 23:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Isaiah 23:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Isaiah 23:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491
+    },
+    {
+      "reference": "Isaiah 23:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Isaiah 23:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Isaiah 23:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Isaiah 23:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Isaiah 23:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Isaiah 23:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Isaiah 23:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Isaiah 23:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Isaiah 23:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.537313
+    },
+    {
+      "reference": "Isaiah 23:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Isaiah 23:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.975,
+      "after_similarity": 0.647887
+    },
+    {
+      "reference": "Isaiah 23:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Isaiah 23:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.694444
+    },
+    {
+      "reference": "Isaiah 23:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.555556
+    }
+  ]
+}

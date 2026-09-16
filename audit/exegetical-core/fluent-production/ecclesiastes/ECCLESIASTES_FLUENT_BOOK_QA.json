@@ -124,22 +124,37 @@
   "editorial_review_pending_chapters": [
     1,
     2,
-    3
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
   ],
   "current_revision": {
-    "id": "fluent-ecclesiastes-1-3-biblical-fluency-2026-09-16",
+    "id": "fluent-ecclesiastes-4-12-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2,
-      3
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
     ],
-    "verse_count": 66,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-1-3/ecclesiastes-verse-review.json",
+    "verse_count": 156,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-4-12/ecclesiastes-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "1e0d2add96250b83f5278fca0a72eb277fa60cb9",
+      "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
       "path": "audit/exegetical-core/fluent-production/ecclesiastes/ECCLESIASTES_FLUENT_BOOK_QA.json"
     },
     "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
@@ -159,6 +174,30 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "1e0d2add96250b83f5278fca0a72eb277fa60cb9",
+        "path": "audit/exegetical-core/fluent-production/ecclesiastes/ECCLESIASTES_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    },
+    {
+      "id": "fluent-ecclesiastes-4-12-biblical-fluency-2026-09-16",
+      "chapters": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 156,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-4-12/ecclesiastes-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
         "path": "audit/exegetical-core/fluent-production/ecclesiastes/ECCLESIASTES_FLUENT_BOOK_QA.json"
       },
       "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."

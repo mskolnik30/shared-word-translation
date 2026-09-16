@@ -4,147 +4,86 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-songofsongs-1-8-biblical-fluency-2026-09-16
 ---
 
-## The Beauty of the Bride
+## The Beauty of the Woman
+
 <p>
-v01: How beautiful are your feet in sandals,
-O noble daughter!
-The curves of your thighs
-are like jewels,
-the work of the hands of an artist.
+v01: How lovely your steps in sandals, noble daughter!
+The curves of your thighs are like jewels,
+the work of a craftsman’s hands.
 </p>
 
 <p>
-v02: Your navel is a rounded bowl
-that never lacks mixed wine.
-Your waist is a heap of wheat
-encircled with lilies.
-v03: Your two breasts
-are like two fawns,
+v02: Your navel is a rounded bowl—
+may it never lack mixed wine.
+Your belly is a heap of wheat
+ringed with lilies.
+v03: Your two breasts are like two fawns,
 twins of a gazelle.
 </p>
 
 <p>
-v04: Your neck is like an ivory tower.
+v04: Your neck is an ivory tower.
 Your eyes are pools in Heshbon,
 by the gate of Bath-rabbim.
-Your nose is like the tower of Lebanon,
-which looks toward Damascus.
-v05: Your head crowns you like Carmel,
-and the flowing locks of your head are like purple.
-A king is held captive by its tresses.
+Your nose is like Lebanon’s tower
+looking toward Damascus.
+v05: Your head crowns you like Carmel;
+your flowing hair is like purple cloth.
+A king is held captive in its tresses.
 </p>
 
 <p>
-v06: How beautiful and how pleasant you are,
-O love, with all your delights!
+v06: How beautiful, how delightful you are,
+love with all your pleasures!
 v07: Your stature is like a palm tree,
-and your breasts are like its clusters.
-v08: I said,
-“I will climb the palm tree
-and take hold of its fruit.”
-May your breasts be like clusters of the vine,
-and the fragrance of your breath like apples,
-v09: and your mouth like the best wine.
+your breasts like its clusters.
+v08: I said, “I will climb the palm
+and take hold of its branches.”
+May your breasts be like clusters of grapes,
+your breath fragrant as apples,
+v09: and your mouth like fine wine—
+going down smoothly for my beloved,
+stirring the lips of sleepers.
 </p>
 
-## The Bride Responds
+## The Woman Responds
+
 <p>
-Flowing smoothly for my beloved,
-gliding over lips and teeth.
-v10: I am my beloved's,
+v10: I am my beloved’s,
 and his desire is for me.
 </p>
 
 ## The Invitation of Love
+
 <p>
-v11: Come, my beloved,
-let us go out into the fields
-and lodge among the villages.
-v12: Let us go out early to the vineyards
-and see whether the vines have budded,
-whether the blossoms have opened,
-and whether the pomegranates are in bloom.
-There I will give you my love.
+v11: Come, my beloved, let us go out to the fields;
+let us spend the night in the villages.
+v12: Let us rise early for the vineyards
+to see whether the vines have budded,
+whether the blossoms have opened
+and the pomegranates are in bloom.
+There I will give you my caresses.
 </p>
 
 <p>
-v13: The mandrakes give forth fragrance,
-and beside our doors
-are all choice fruits,
-new as well as old,
-which I have stored up for you,
-my beloved.
+v13: The mandrakes give off their scent,
+and at our doors are all kinds of choice fruits,
+new and old,
+which I have stored for you, my beloved.
 </p>
 
 ## Notes
 
-v01–05: The beloved's praise begins at the feet and moves upward, celebrating the bride's beauty as a unified whole.
+v09: The Hebrew text used here speaks of “sleepers’ lips.” “Lips and teeth” reflects a different reading. The change to “my beloved” may signal a new speaker within the verse.
 
-v01: “Noble daughter” expresses dignity and honor as well as affection.
-
-v02–04: Images of wine, wheat, lilies, ivory, and pools communicate abundance, beauty, and vitality.
-
-v04: Heshbon and Lebanon provide geographic imagery associated with strength, beauty, and prominence.
-
-v05: Carmel was renowned for its beauty and elevation, making it a fitting comparison.
-
-v05: The beloved is portrayed as captivated by the bride's beauty.
-
-v06: The praise culminates in delight not merely in appearance but in the person as a whole.
-
-v07–09: The palm tree imagery emphasizes fruitfulness, grace, and delight.
-
-v09: The imagery remains poetic and celebratory, expressing mutual affection within the relationship.
-
-v10: The bride's declaration parallels earlier statements of mutual belonging while emphasizing the beloved's desire for her.
-
-v11–13: The bride now takes the initiative, inviting the beloved into a setting of beauty, fruitfulness, and intimacy.
-
-v12: Vineyards and blossoms symbolize flourishing love and renewed delight.
-
-v13: Mandrakes were traditionally associated with love and fertility.
-
-v13: The chapter ends with the bride offering the treasures she has reserved for her beloved.
+v10: “Desire” also occurs in Genesis 3:16 and 4:7. Those connections are worth hearing without making all three relationships identical.
 
 ## Vocabulary
 
-v01: נָדִיב (nāḏîḇ)
-“Noble.” One characterized by dignity, generosity, or honor.
-
-v02: מֶזֶג (mezeḡ)
-“Mixed wine.” Wine blended and prepared for enjoyment.
-
-v02: חִטָּה (ḥiṭṭâ)
-“Wheat.” A staple grain and symbol of abundance.
-
-v03: צְבִיָּה (ṣĕḇiyyâ)
-“Gazelle.” An image of grace and beauty.
-
-v04: שֵׁן (šēn)
-“Ivory.” A costly material associated with beauty and luxury.
-
-v05: כַּרְמֶל (Karmel)
-“Carmel.” A mountain region known for fertility and beauty.
-
-v07: תָּמָר (tāmār)
-“Palm tree.” A symbol of fruitfulness, beauty, and vitality.
-
-v09: יַיִן (yayin)
-“Wine.” A symbol of joy, celebration, and delight.
-
-v10: תְּשׁוּקָה (tĕšûqâ)
-“Desire.” Strong longing, affection, or attraction.
-
-v12: גֶּפֶן (gephen)
-“Vine.” A grapevine, often symbolizing fruitfulness and blessing.
-
-v12: פֶּרַח (peraḥ)
-“Blossom.” A flower indicating growth and coming fruitfulness.
-
-v13: דּוּדָאִים (dûḏāʾîm)
-“Mandrakes.” Fragrant plants traditionally associated with love.
-
-v13: מְגָדִים (mĕḡāḏîm)
-“Choice fruits.” Precious and desirable produce.
+v13: **Mandrakes**: Fragrant plants associated in the ancient world with love and fertility; also named in Genesis 30.

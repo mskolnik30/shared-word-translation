@@ -1,0 +1,225 @@
+{
+  "status": "PASSED",
+  "base_commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+  "new_chapters": 40,
+  "new_verses": 714,
+  "source_records_bound_exactly_once": {
+    "ecclesiastes": 156,
+    "songofsongs": 117,
+    "isaiah": 441
+  },
+  "cumulative_coverage": {
+    "ledgers": 82,
+    "chapters": 707,
+    "verses": 18203
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 79,
+    "chapters_byte_identical": 667,
+    "verses": 17489,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for all three affected ledgers",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Ecclesiastes 4:12": [
+      "three strands"
+    ],
+    "Ecclesiastes 6:3": [
+      "hundred",
+      "stillborn",
+      "burial"
+    ],
+    "Ecclesiastes 6:6": [
+      "thousand years twice"
+    ],
+    "Ecclesiastes 7:16": [
+      "excessively righteous"
+    ],
+    "Ecclesiastes 7:28": [
+      "one man",
+      "thousand",
+      "no woman"
+    ],
+    "Ecclesiastes 8:10": [
+      "forgotten"
+    ],
+    "Ecclesiastes 8:12": [
+      "hundred"
+    ],
+    "Ecclesiastes 9:5": [
+      "dead know nothing"
+    ],
+    "Ecclesiastes 9:11": [
+      "Time and chance"
+    ],
+    "Ecclesiastes 11:2": [
+      "seven",
+      "eight"
+    ],
+    "Ecclesiastes 12:6": [
+      "silver cord",
+      "golden bowl",
+      "jar",
+      "wheel"
+    ],
+    "Ecclesiastes 12:11": [
+      "one shepherd"
+    ],
+    "Song of Songs 1:5": [
+      "black and beautiful"
+    ],
+    "Song of Songs 3:7": [
+      "Sixty"
+    ],
+    "Song of Songs 4:4": [
+      "thousand"
+    ],
+    "Song of Songs 5:7": [
+      "struck",
+      "wounded",
+      "wrap"
+    ],
+    "Song of Songs 6:13": [
+      "two camps"
+    ],
+    "Song of Songs 7:9": [
+      "stirring the lips of sleepers"
+    ],
+    "Song of Songs 8:6": [
+      "jealousy",
+      "Sheol",
+      "YAH"
+    ],
+    "Song of Songs 8:12": [
+      "thousand",
+      "two hundred"
+    ],
+    "Isaiah 5:10": [
+      "Ten yoke",
+      "bath",
+      "homer",
+      "ephah"
+    ],
+    "Isaiah 6:2": [
+      "six wings"
+    ],
+    "Isaiah 7:8": [
+      "sixty-five"
+    ],
+    "Isaiah 7:14": [
+      "young woman",
+      "you will name him Immanuel"
+    ],
+    "Isaiah 8:14": [
+      "sanctuary",
+      "stone",
+      "rock",
+      "trap",
+      "snare"
+    ],
+    "Isaiah 9:6": [
+      "Wonderful Counselor",
+      "Mighty God",
+      "Everlasting Father",
+      "Prince of Peace"
+    ],
+    "Isaiah 9:20": [
+      "his own arm"
+    ],
+    "Isaiah 10:27": [
+      "fatness"
+    ],
+    "Isaiah 11:6": [
+      "wolf",
+      "lamb",
+      "leopard",
+      "goat",
+      "Calf",
+      "lion",
+      "fattened"
+    ],
+    "Isaiah 11:15": [
+      "seven streams",
+      "sandals"
+    ],
+    "Isaiah 12:2": [
+      "YAH",
+      "LORD"
+    ],
+    "Isaiah 13:16": [
+      "infants",
+      "dashed to pieces",
+      "raped"
+    ],
+    "Isaiah 14:4": [
+      "extortion"
+    ],
+    "Isaiah 14:12": [
+      "shining one",
+      "Dawn"
+    ],
+    "Isaiah 16:4": [
+      "my outcasts",
+      "Moab"
+    ],
+    "Isaiah 16:14": [
+      "three years"
+    ],
+    "Isaiah 17:6": [
+      "two or three",
+      "four or five"
+    ],
+    "Isaiah 19:18": [
+      "five cities",
+      "City of Destruction"
+    ],
+    "Isaiah 19:25": [
+      "Egypt my people",
+      "Assyria the work of my hands",
+      "Israel my inheritance"
+    ],
+    "Isaiah 20:1": [
+      "Sargon"
+    ],
+    "Isaiah 20:3": [
+      "three years"
+    ],
+    "Isaiah 20:4": [
+      "buttocks exposed"
+    ],
+    "Isaiah 21:2": [
+      "Lay siege, Media"
+    ],
+    "Isaiah 21:8": [
+      "like a lion"
+    ],
+    "Isaiah 22:19": [
+      "I will",
+      "he will"
+    ],
+    "Isaiah 22:25": [
+      "give way"
+    ],
+    "Isaiah 23:15": [
+      "seventy years"
+    ],
+    "Isaiah 23:17": [
+      "seventy years"
+    ],
+    "Isaiah 23:18": [
+      "holy to the **LORD**",
+      "abundant food"
+    ]
+  },
+  "versification": "Existing Ecclesiastes Hebrew numbering retained; Song and Isaiah offsets verified exactly.",
+  "repeated_refrains": "PASSED; Isaiah fivefold anger refrain; Song repeated oath and changed final oath.",
+  "focused_authoring_reread": 165,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "Prior pending reviews preserved; Ecclesiastes and Song of Songs continuous whole-book reviews queued.",
+  "publication_allowed": false
+}

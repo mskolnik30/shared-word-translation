@@ -4,66 +4,90 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## An Oracle Against Tyre
 
 <p>
-v01: The burden of Tyre. Howl, you ships of Tarshish! For it is laid waste, so that there is no house, no entering in. From the land of Kittim it is revealed to them.
-v02: Be still, you inhabitants of the coast, you whom the merchants of Sidon, that pass over the sea, have replenished.
-v03: On great waters, the seed of the Shihor, the harvest of the Nile, was her revenue. She was the market of nations.
-v04: Be ashamed, Sidon;
-for the sea has spoken, the stronghold of the sea, saying, "I have not labored, nor gave birth, neither have I nourished young men, nor brought up virgins."
+v01: An oracle concerning Tyre:
+Wail, ships of Tarshish!
+It is devastated, without house or harbor.
+From the land of Kittim
+the news has been revealed to them.
+v02: Be silent, coastland dwellers,
+whom Sidon’s merchants, crossing the sea, have filled.
+v03: Across great waters came Shihor’s grain,
+the Nile’s harvest was her income;
+she became the nations’ marketplace.
+v04: Be ashamed, Sidon,
+for the sea, the sea’s fortress, has spoken:
+“I have not labored or given birth,
+raised young men or brought up young women.”
 </p>
 
 <p>
-v05: When the report comes to Egypt, they will be in anguish at the report of Tyre.
-v06: Pass over to Tarshish! Wail, you inhabitants of the coast!
-v07: Is this your joyous city, whose antiquity is of ancient days, whose feet carried her far away to travel?
-v08: Who has planned this against Tyre, the giver of crowns, whose merchants are princes, whose traffickers are the honorable of the earth?
+v05: When the report reaches Egypt,
+they will writhe at the news of Tyre.
+v06: Cross over to Tarshish!
+Wail, coastland dwellers!
+v07: Is this your jubilant city,
+whose beginnings reach back to ancient days,
+whose feet carried her far away to settle?
+v08: Who planned this against Tyre,
+the giver of crowns,
+whose merchants were princes,
+whose traders were honored across the earth?
 </p>
 
 <p>
-v09: The LORD of Hosts has planned it, to stain the pride of all glory, to bring into contempt all the honorable of the earth.
-v10: Pass through your land like the Nile, daughter of Tarshish. There is no restraint any more.
-v11: He has stretched out his hand over the sea. He has shaken the kingdoms. the LORD has ordered the destruction of Canaan's strongholds.
-v12: He said, "You will rejoice no more, you oppressed virgin daughter of Sidon. Arise, pass over to Kittim. Even there you will have no rest."
+v09: The **LORD** of hosts planned it,
+to profane the pride of every splendor,
+to bring low all the earth’s honored people.
+v10: Flow across your land like the Nile,
+daughter Tarshish;
+there is no restraint anymore.
+v11: He stretched his hand over the sea
+and shook kingdoms.
+The **LORD** gave orders concerning Canaan
+to destroy its strongholds.
+v12: He said, “You will rejoice no more,
+oppressed virgin daughter Sidon.
+Rise, cross over to Kittim;
+even there you will find no rest.”
 </p>
 
 <p>
-v13: Look, the land of the Chaldeans. This people was not. The Assyrians founded it for people who dwell in the wilderness. They set up their towers. They overthrew its palaces. They made it a ruin.
-v14: Howl, you ships of Tarshish, for your stronghold is laid waste!
-v15: It will come to pass on that day that Tyre will be forgotten seventy years, according to the days of one king. After the end of seventy years it will be to Tyre like in the song of the prostitute.
-v16: Take a harp;
-go about the city, you prostitute that has been forgotten. Make sweet melody. Sing many songs, that you may be remembered.
+v13: Look at the land of the Chaldeans!
+This people is no more.
+Assyria made it a home for desert creatures.
+They raised siege towers, stripped its palaces,
+and made it a ruin.
+v14: Wail, ships of Tarshish!
+Your stronghold is devastated.
+v15: On that day Tyre will be forgotten for seventy years, like the lifetime of one king. At the end of seventy years, Tyre will be like the prostitute in the song:
+v16: “Take a lyre, go round the city,
+forgotten prostitute!
+Play skillfully, sing many songs,
+so you may be remembered.”
 </p>
 
 <p>
-v17: It will happen after the end of seventy years that the LORD will visit Tyre, and she will return to her wages, and will play the prostitute with all the kingdoms of the world on the surface of the earth.
-v18: Her merchandise and her wages will be holiness to the LORD. It will not be treasured nor laid up;
-for her merchandise will be for people who dwell before the LORD, to eat sufficiently, and for durable clothing.
+v17: At the end of seventy years the **LORD** will attend to Tyre. She will return to her earnings and prostitute herself with all the world’s kingdoms on the face of the earth.
+v18: Yet her trade and earnings will be holy to the **LORD**. They will not be stored or hoarded; her trade will provide those who dwell before the **LORD** with abundant food and fine clothing.
 </p>
 
 ## Notes
 
-v15: Tyre’s seventy years are presented as a bounded period of humiliation followed by renewed commerce whose final purpose is redirected.
+v10: The final word literally evokes a girdle or restraint; a harbor-related interpretation is also possible. The translation keeps the image of restraint being gone.
 
-v09: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+v13: The relation between the Chaldeans, Assyria, and the devastated land is syntactically difficult. The draft does not supply a detailed historical reconstruction to settle it.
 
-v09: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
-
-v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+v18: The prostitute’s earnings become dedicated to the **LORD** and supply food and clothing for those before him. The striking economic and moral reversal remains explicit.
 
 ## Vocabulary
 
-v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v09: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
-
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v15: **Seventy years**: The stated period of Tyre’s being forgotten, compared with the days of one king; it recurs when the city is visited again.

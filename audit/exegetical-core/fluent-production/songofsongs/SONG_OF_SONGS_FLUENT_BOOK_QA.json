@@ -1,7 +1,7 @@
 {
   "book": "Song of Songs",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 8,
   "public_verse_slots": 117,
   "included_verse_labels": 117,
@@ -103,5 +103,64 @@
         "blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "current_revision": {
+    "id": "fluent-songofsongs-1-8-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "verse_count": 117,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+      "path": "audit/exegetical-core/fluent-production/songofsongs/SONG_OF_SONGS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-songofsongs-1-8-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 117,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "872b8c9d11bd167708d31b48d84ab6b07d544162",
+        "path": "audit/exegetical-core/fluent-production/songofsongs/SONG_OF_SONGS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    }
+  ]
 }

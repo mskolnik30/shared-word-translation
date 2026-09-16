@@ -1,0 +1,16 @@
+{
+  "scope": "Ecclesiastes 4–12, all 156 verses.",
+  "status": "DRAFT_COMPLETED",
+  "method": "Every selected original Hebrew record and every annotation read before independent drafting. All TSW comparator verses read afterward. Every verse has an individually authored rationale; no synonym-substitution engine or change quota used.",
+  "original_source_records_read": 156,
+  "tsw_comparator_verses_read": 156,
+  "focused_source_english_reread": 48,
+  "focused_evidence": "focused-comparisons.json",
+  "qualification": "Authoring reread by the drafting agent; not independent scholarly approval.",
+  "structural_verification": "../2026-09-16-prophets-40/verification.json",
+  "independent_editorial_status": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "companion_impact": "Quotations and bindings for the changed chapters require later reconciliation. Companion not modified.",
+  "comparator_limitations": "Overlap uses normalized verse text and serves only as triage."
+}

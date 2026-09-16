@@ -4,62 +4,79 @@ testament: OT
 chapter: 17
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## An Oracle Against Damascus
 
 <p>
-v01: The burden of Damascus: "Look, Damascus is taken away from being a city, and it will be a ruinous heap.
-v02: The cities of Aroer are forsaken. They will be for flocks, which will lie down, and none will make them afraid.
-v03: The fortress will cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria. They will be as the glory of the children of Israel," says the LORD of Hosts.
-v04: "It will happen on that day that the glory of Jacob will be made thin, and the fatness of his flesh will become lean.
+v01: An oracle concerning Damascus:
+Look, Damascus will cease to be a city;
+it will become a heap of ruins.
+v02: Aroer’s towns will be abandoned,
+left for flocks to lie down in,
+with no one to frighten them.
+v03: Fortresses will disappear from Ephraim,
+royal power from Damascus.
+Aram’s remnant will be like Israel’s glory,
+declares the **LORD** of hosts.
+v04: On that day Jacob’s glory will grow thin,
+and his well-fed body waste away.
 </p>
 
 <p>
-v05: It will be like when the harvester gathers the wheat, and his arm reaps the grain. Yes, it will be like when one gleans grain in the valley of Rephaim.
-v06: Yet gleanings will be left there, like the shaking of an olive tree, two or three olives in the top of the uppermost bough, four or five in the outermost branches of a fruitful tree," says the LORD, the God of Israel.
-v07: On that day, people will look to their Maker, and their eyes will have respect for the Holy One of Israel.
-v08: They will not look to the altars, the work of their hands;
-neither will they respect what their fingers have made, either the Asherim, or the incense altars.
+v05: It will be like a reaper gathering standing grain,
+his arm cutting the ears,
+like someone gleaning ears of grain
+in the Valley of Rephaim.
+v06: Only gleanings will remain,
+as when an olive tree is beaten:
+two or three olives at the topmost branch,
+four or five on its fruitful boughs,
+declares the **LORD**, Israel’s God.
+v07: On that day people will look to their Maker;
+their eyes will turn to the Holy One of Israel.
+v08: They will not look to the altars their hands made
+or regard what their fingers fashioned—
+the Asherah poles and incense stands.
 </p>
 
 <p>
-v09: On that day, their strong cities will be like the forsaken places in the woods and on the mountain top, which were forsaken from before the children of Israel;
-and it will be a desolation.
-v10: For you have forgotten the God of your salvation, and have not remembered the rock of your strength. Therefore you plant pleasant plants, and set out foreign seedlings.
-v11: In the day of your planting, you hedge it in. In the morning, you make your seed blossom, but the harvest flees away in the day of grief and of desperate sorrow.
-v12: Ah, the uproar of many peoples, who roar like the roaring of the seas;
-and the rushing of nations, that rush like the rushing of mighty waters!
+v09: On that day their strong cities will be like abandoned woodland and hilltops, deserted before the Israelites. There will be desolation.
+v10: You have forgotten the God of your salvation
+and failed to remember the Rock of your refuge.
+So you plant delightful gardens
+and set them with foreign vine shoots.
+v11: You make them flourish the day you plant,
+and bloom the morning you sow.
+But the harvest flees
+on a day of sickness and incurable pain.
+v12: Ah, the uproar of many peoples,
+roaring like the seas!
+The crash of nations,
+crashing like mighty waters!
 </p>
 
 <p>
-v13: The nations will rush like the rushing of many waters: but he will rebuke them, and they will flee far off, and will be chased like the chaff of the mountains before the wind, and like the whirling dust before the storm.
-v14: At evening, look, terror! Before the morning, they are no more. This is the portion of people who plunder us, and the lot of people who rob us.
+v13: Nations crash like surging waters,
+but he rebukes them and they flee far away,
+driven like mountain chaff before the wind,
+like tumbleweed before a storm.
+v14: At evening—terror!
+Before morning—they are gone.
+This is the portion of those who plunder us,
+the lot of those who rob us.
 </p>
 
 ## Notes
 
-v01: Damascus and Ephraim are judged together, reflecting the political alliance that shaped the Syro-Ephraimite crisis.
+v09: The Hebrew wording names wooded or abandoned heights. “Hivite and Amorite” reflects an alternative ancient reading rather than these exact consonants.
 
-v07: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
-
-v03: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v03: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.
+v11: The final harvest line is compressed and uncertain; it combines a lost harvest, grief, and incurable pain rather than explaining a farming technique.
 
 ## Vocabulary
 
-v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v03: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.
-
-v12: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v06: **Gleanings**: Fruit left after harvesting, here two or three olives at the top and four or five on the branches.

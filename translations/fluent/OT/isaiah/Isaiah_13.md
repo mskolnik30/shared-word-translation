@@ -4,78 +4,110 @@ testament: OT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## An Oracle Against Babylon
 
 <p>
-v01: The burden of Babylon, which Isaiah the son of Amoz saw:
-v02: Set up a banner on the bare mountain! Lift up your voice to them! Wave your hand, that they may go into the gates of the nobles.
+v01: An oracle concerning Babylon, which Isaiah son of Amoz saw.
+v02: Raise a signal on a bare hill!
+Shout to them; wave your hand,
+so they may enter the nobles’ gates.
 v03: I have commanded my consecrated ones;
-yes, I have called my mighty men for my anger, even my proudly exulting ones.
-v04: The noise of a multitude is in the mountains, as of a great people;
-the noise of an uproar of the kingdoms of the nations gathered together! the LORD of Hosts is mustering the army for the battle.
+I have summoned my warriors to carry out my anger,
+those who exult in my majesty.
+v04: A roar on the mountains, like a vast people!
+The tumult of kingdoms, nations assembling!
+The **LORD** of hosts is mustering an army for war.
 </p>
 
 <p>
-v05: They come from a far country, from the uttermost part of heaven, even the LORD, and the weapons of his indignation, to destroy the whole land.
-v06: Wail;
-for the day of the LORD is at hand! It will come as destruction from the Almighty.
-v07: So all hands will be feeble, and everyone's heart will melt.
-v08: They will be dismayed. Pangs and sorrows will seize them. They will be in pain like a woman in labor. They will look in amazement one at another. Their faces will be faces of flame.
+v05: They come from a distant land,
+from the edge of the heavens—
+the **LORD** and the weapons of his fury—
+to ruin the whole land.
+v06: Wail, for the **LORD**’s day is near!
+It comes like devastation from Shaddai.
+v07: Therefore every hand will go limp,
+every human heart will melt.
+v08: They will be terrified.
+Pangs and anguish will seize them;
+they will writhe like a woman in labor.
+They will stare at one another in horror,
+their faces aflame.
 </p>
 
 <p>
-v09: Look, the day of the LORD comes, cruel, with wrath and fierce anger;
-to make the land a desolation, and to destroy its sinners out of it.
-v10: For the stars of the sky and its constellations will not give their light. The sun will be darkened in its going forth, and the moon will not cause its light to shine.
-v11: I will punish the world for their evil, and the wicked for their iniquity. I will cause the arrogance of the proud to cease, and will humble the haughtiness of the terrible.
-v12: I will make people more rare than fine gold, even a person than the pure gold of Ophir.
+v09: Look, the **LORD**’s day is coming,
+cruel, with fury and burning anger,
+to make the land desolate
+and destroy its sinners from it.
+v10: Heaven’s stars and constellations
+will not shine their light.
+The sun will be dark as it rises,
+and the moon will give no light.
+v11: “I will punish the world for its evil,
+the wicked for their guilt.
+I will end the arrogant’s pride
+and bring tyrants’ haughtiness low.
+v12: I will make people scarcer than refined gold,
+human beings rarer than Ophir’s gold.
 </p>
 
 <p>
-v13: So I will make the heavens tremble, and the earth will be shaken out of its place in the wrath of the LORD of Hosts, and in the day of his fierce anger.
-v14: It will happen that like a a hunted gazelle, and like sheep that no one gathers, they will each turn to their own people, and will each flee to their own land.
-v15: Everyone who is found will be thrust through. Everyone who is captured will fall by the sword.
-v16: Their infants also will be dashed in pieces before their eyes. Their houses will be ransacked, and their wives raped.
+v13: Therefore I will shake the heavens,
+and the earth will tremble out of place,
+at the **LORD** of hosts’ fury,
+on the day of his burning anger.
+v14: Like a hunted gazelle,
+like sheep with no one to gather them,
+each will turn to their own people,
+each flee to their own land.
+v15: Everyone found will be pierced through;
+everyone caught will fall by the sword.
+v16: Their infants will be dashed to pieces before their eyes,
+their houses plundered,
+and their wives raped.
 </p>
 
 <p>
-v17: Look, I will stir up the Medes against them, who will not value silver, and as for gold, they will not delight in it.
-v18: Their bows will dash the young men in pieces;
-and they will have no pity on the fruit of the womb. Their eyes will not spare children.
-v19: Babylon, the glory of kingdoms, the beauty of the Chaldeans' pride, will be like when God overthrew Sodom and Gomorrah.
-v20: It will never be inhabited, neither will it be lived in from generation to generation. The Arabian will not pitch a tent there, neither will shepherds make their flocks lie down there.
+v17: Look, I am stirring up the Medes against them,
+who care nothing for silver
+and take no pleasure in gold.
+v18: Their bows will shatter young men.
+They will have no mercy on the fruit of the womb;
+their eyes will not spare children.
+v19: Babylon, beauty among kingdoms,
+the Chaldeans’ proud splendor,
+will be like Sodom and Gomorrah
+when God overthrew them.
+v20: It will never again be inhabited
+or settled through the generations.
+No Arab will pitch a tent there;
+no shepherd will rest a flock there.
 </p>
 
 <p>
-v21: But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there.
-v22: Wolves will cry in their castles, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
+v21: Desert creatures will lie there;
+its houses will fill with howling animals.
+Ostriches will live there,
+and goat-demons will dance there.
+v22: Hyenas will answer one another in its fortresses,
+jackals in its luxurious palaces.
+Its time is near;
+its days will not be prolonged.”
 </p>
 
 ## Notes
 
-v01: The oracle turns from historical Babylon toward cosmic and universal imagery, allowing political judgment and the day of the LORD to overlap.
+v16: The text explicitly describes infants being dashed to pieces and women being raped. These harms are preserved rather than hidden in general language about disaster.
 
-v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v04: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
-
-v06: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.
+v21–22: The animal names are not all securely identified. The “goat-demons” may evoke uncanny beings as well as the desolation of the ruined city.
 
 ## Vocabulary
 
-v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v04: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v06: יוֹם יְהוָה (yom YHWH)
-“Day of the LORD.” A time of decisive divine action.
-
-v19: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
-
-v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v06: **Shaddai**: A divine title, traditionally rendered “Almighty”; its derivation is uncertain.

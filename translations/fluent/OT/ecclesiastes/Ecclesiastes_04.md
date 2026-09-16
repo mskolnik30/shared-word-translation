@@ -4,143 +4,78 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ecclesiastes-4-12-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: Again I saw all the oppressions
-that are done under the sun.
-
-And look: the tears of the oppressed,
-and they have no comforter;
-power is in the hand of their oppressors,
-and they have no comforter.
-</p>
+## Oppression, rivalry, and companionship
 
 <p>
-v02: So I praised the dead,
-who have already died,
-more than the living,
-who are still alive.
-</p>
-
-<p>
-v03: Better than both is the one who has not yet been—
-who has not seen the evil work
-that is done under the sun.
-</p>
-
-<p>
-v04: I saw all toil
-and every skill in work:
-it is the envy of one person for another.
-
-This too is vapor
-and a pursuit of wind.
-</p>
-
-<p>
+v01: I turned again to look at all the oppression under the sun.
+Look at the tears of the oppressed—
+no one comforts them.
+Power lies with their oppressors,
+and no one comforts them.
+v02: So I called the dead, who have already died,
+more fortunate than the living, who are still alive.
+v03: Better off than either is the one not yet born,
+who has not seen the evil done under the sun.
+v04: I saw that all hard work and every skillful achievement
+spring from rivalry between neighbors.
+This too is breath, herding the wind.
 v05: The fool folds his hands
-and consumes his own flesh.
+and eats away his own flesh.
+v06: Better a single handful with rest
+than two full hands of hard work and herding the wind.
+v07: Again I turned and saw breath under the sun:
+v08: a man alone, with no companion,
+without son or brother.
+There is no end to his work,
+yet his eye is never satisfied with wealth.
+“For whom am I working, denying myself enjoyment?”
+This too is breath—a miserable task.
+v09: Two are better off than one,
+because their work brings them a good return.
+v10: If they fall, one can lift the other up.
+But how miserable to fall alone,
+with no one to help you up!
+v11: And if two lie down together, they keep warm.
+How can one person keep warm alone?
+v12: Someone may overpower one person,
+but two can stand against the attacker.
+A cord of three strands does not quickly break.
 </p>
 
+## Power and its passing audience
+
 <p>
-v06: Better one handful with rest
-than two handfuls with toil
-and a pursuit of wind.
+v13: Better a poor, wise youth
+than an old, foolish king who no longer takes advice.
+v14: The youth may come out of prison to reign,
+even though he was born poor in that kingdom.
+v15: I saw all the living who walk under the sun
+side with the second youth, who would take his place.
+v16: There was no end to all the people he led.
+Yet those who come later will not delight in him either.
+This too is breath, a pursuit of wind.
 </p>
 
-<p>
-v07: Again I saw vapor
-under the sun:
-</p>
+## Listening before speaking
 
 <p>
-v08: There is one person, and no second;
-they have neither son nor brother,
-yet there is no end to all their toil,
-and their eyes are never satisfied with wealth.
-
-“For whom, then, am I toiling
-and depriving myself of good?”
-
-This too is vapor
-and an evil task.
-</p>
-
-<p>
-v09: Two are better than one,
-because they have a good reward
-for their toil.
-</p>
-
-<p>
-v10: For if they fall,
-one will raise up the other.
-But woe to the one who falls
-and has no second to raise them up.
-</p>
-
-<p>
-v11: Again, if two lie down together, they are warm;
-but how can one be warm alone?
-</p>
-
-<p>
-v12: If someone overpowers one,
-two can stand against that person.
-And a threefold cord
-is not quickly torn apart.
-</p>
-
-<p>
-v13: Better a poor and wise youth
-than an old and foolish king
-who no longer knows how to take warning.
-</p>
-
-<p>
-v14: For from a prison house he came out to reign,
-though even in his kingdom he was born poor.
-</p>
-
-<p>
-v15: I saw all the living
-who walk under the sun
-with the second youth
-who stands in his place.
-</p>
-
-<p>
-v16: There was no end to all the people,
-to everyone who were before them.
-Yet people who come later
-will not rejoice in him.
-
-Surely this too is vapor
-and a pursuit of wind.
-</p>
-
-<p>
-v17: Guard your steps when you go to the house of God.
-To draw near in order to listen is better
-than for fools to offer sacrifice,
-for they do not know that they are doing evil.
+v17: Watch your step when you go to God’s house. Draw near to listen, rather than offer the sacrifice of fools, who do not know they are doing wrong.
 </p>
 
 ## Notes
 
-v17: In many English Bibles this verse is numbered Ecclesiastes 5:1, following a different chapter division. The Hebrew chapter numbering places it here.
+v08: The written form has “his eyes”; the reading tradition has “his eye.” Both picture an appetite that wealth cannot satisfy.
+
+v13–16: The succession story leaves several relationships uncertain: whose kingdom it is, who was born poor, and which young man replaces whom. The draft keeps those uncertainties rather than supplying a complete history.
+
+v17: This edition follows Hebrew numbering here. This verse is 5:1 in many English Bibles; the following chapter has nineteen verses.
 
 ## Vocabulary
 
-v01: מְנַחֵם (menaḥem)
-“comforter.” The word is repeated for the oppressed, marking both their need and the painful absence of anyone to stand with them.
-
-v04: הֶבֶל (hevel)
-“vapor.” In this chapter it names what is fleeting, elusive, and unable to bear the weight placed upon it, including envy-driven achievement and public acclaim.
-
-v04: קִנְאָה (qin’ah)
-“envy” or “jealousy.” Here it describes the competitive impulse that can animate a person’s successful work in relation to a neighbor.
-
-v06: נַחַת (naḥat)
-“rest” or “quietness.” One handful joined with rest is preferable to abundance gained through exhausting toil.
+v04: **Breath**: The book’s recurring image for what is fleeting, elusive, or frustrating to grasp.

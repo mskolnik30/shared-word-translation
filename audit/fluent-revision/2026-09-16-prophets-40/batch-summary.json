@@ -1,0 +1,107 @@
+{
+  "scope": "Ecclesiastes 4–12; Song of Songs 1–8; Isaiah 1–23",
+  "chapters": 40,
+  "verses": 714,
+  "books": [
+    {
+      "book": "ecclesiastes",
+      "rel": "audit/fluent-revision/2026-09-16-ecclesiastes-4-12",
+      "verses": 156,
+      "chapters": 9,
+      "focused": 48,
+      "overlap": {
+        "before": {
+          "identical": 148,
+          "near_identical_nonidentical": 8,
+          "mean_word_similarity": 0.998124
+        },
+        "after": {
+          "identical": 0,
+          "near_identical_nonidentical": 12,
+          "mean_word_similarity": 0.640354
+        }
+      }
+    },
+    {
+      "book": "songofsongs",
+      "rel": "audit/fluent-revision/2026-09-16-songofsongs-1-8",
+      "verses": 117,
+      "chapters": 8,
+      "focused": 30,
+      "overlap": {
+        "before": {
+          "identical": 107,
+          "near_identical_nonidentical": 7,
+          "mean_word_similarity": 0.992701
+        },
+        "after": {
+          "identical": 5,
+          "near_identical_nonidentical": 12,
+          "mean_word_similarity": 0.783717
+        }
+      }
+    },
+    {
+      "book": "isaiah",
+      "rel": "audit/fluent-revision/2026-09-16-isaiah-1-23",
+      "verses": 441,
+      "chapters": 23,
+      "focused": 87,
+      "overlap": {
+        "before": {
+          "identical": 343,
+          "near_identical_nonidentical": 86,
+          "mean_word_similarity": 0.987948
+        },
+        "after": {
+          "identical": 0,
+          "near_identical_nonidentical": 3,
+          "mean_word_similarity": 0.621261
+        }
+      }
+    }
+  ],
+  "before_identical_to_tsw": 598,
+  "after_identical_to_tsw": 5,
+  "after_near_identical_nonidentical": 27,
+  "overlap_qualification": "Case/punctuation-normalized whole-verse comparison, triage only. Not proof of fidelity, originality, or comprehension. Shared wording retained where it serves the source. TSW Song 7:9 orphaned second half is excluded by the existing parser; complete chapter bytes are bound and were read.",
+  "source_first_drafting": true,
+  "all_source_annotations_read": true,
+  "focused_reread_verses": 165,
+  "post_reread_changes": [
+    {
+      "reference": "Ecclesiastes 9:11,17",
+      "change": "Removed an added always qualifier and made the comparative hearing line more direct."
+    },
+    {
+      "reference": "Song of Songs 5:12;8:12",
+      "change": "Made the obscure setting phrase readable, and removed an added decision to give the vineyard; notes retain uncertainty."
+    },
+    {
+      "reference": "Song of Songs 7:9",
+      "change": "Preserved the pinned sleepers and made the wine stir their lips; the whole line is inside its verse paragraph."
+    },
+    {
+      "reference": "Isaiah 7:11,14",
+      "change": "Retained request depth without requiring Sheol repointing, and retained the second-person feminine naming address."
+    },
+    {
+      "reference": "Isaiah 13:21;14:4",
+      "change": "Retained goat-demons as uncanny creatures and changed fury to an exaction sense to avoid silently adopting an emended consonant."
+    }
+  ],
+  "priority_findings": [
+    "Ecclesiastes retains breath, under the sun, injustices, gender-specific difficult claims, contradictory observations, and undecoded aging imagery. Its existing Hebrew verse numbering is retained.",
+    "Song retains physical love poetry, ancient comparisons, female initiative, watchmen violence, ambiguous speaker changes, the possible YAH name, and the unfinished invitation.",
+    "Isaiah retains ancient measures, repeated anger refrain, royal titles, remnant language, suffering and sexual violence, national laments, and Egypt/Assyria/Israel’s distinct blessing designations.",
+    "Isaiah 8:14 includes the stone and rock imagery omitted by the comparator; Isaiah 21:2 retains the Media imperative in its correct clause.",
+    "All 714 source records bind once to original XML substrings, including annotations. Written/read decisions and public numbering offsets are recorded."
+  ],
+  "whole_book_consistency_reviews": "Prior pending reviews preserved; separate continuous Ecclesiastes and Song of Songs reviews queued.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "next_forty_chapters": "Isaiah 24–63",
+  "authorization": "Continue successive forty-chapter blocks without routine approval pauses.",
+  "github": "Upload authorized but blocked by prior terminal authentication absence and connector 403; no write retried."
+}

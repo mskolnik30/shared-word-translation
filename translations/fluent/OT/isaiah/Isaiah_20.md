@@ -4,37 +4,30 @@ testament: OT
 chapter: 20
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## A Sign Concerning Egypt and Cush
 
 <p>
-v01: In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it;
-v02: at that time the LORD spoke by Isaiah the son of Amoz, saying, "Go, and loosen the sackcloth from off your waist, and take your shoes from off your feet." He did so, walking naked and barefoot.
-v03: The LORD said, "As my servant Isaiah has walked naked and barefoot three years for a sign and a wonder concerning Egypt and concerning Ethiopia,
-v04: so the king of Assyria will lead away the captives of Egypt and the exiles of Ethiopia, young and old, naked and barefoot, and with buttocks uncovered, to the shame of Egypt.
-v05: They will be dismayed and confounded, because of Ethiopia their expectation, and of Egypt their glory.
+v01: In the year the commander sent by Sargon king of Assyria came to Ashdod, fought against it, and captured it,
+v02: the **LORD** spoke through Isaiah son of Amoz: “Go, loosen the sackcloth from your waist and take the sandals from your feet.” He did so, walking naked and barefoot.
+v03: The **LORD** said, “Just as my servant Isaiah has walked naked and barefoot for three years, a sign and wonder concerning Egypt and Cush,
+v04: so the king of Assyria will lead Egypt’s captives and Cush’s exiles, young and old, naked and barefoot, with buttocks exposed—Egypt’s nakedness.
+v05: They will be dismayed and ashamed of Cush, their hope, and Egypt, their pride.
 </p>
 
 <p>
-v06: The inhabitants of this coast land will say on that day, 'Look, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?'"
+v06: On that day the inhabitants of this coastland will say, ‘Look what has happened to our hope, to those we fled to for help and rescue from Assyria’s king! How, then, can we escape?’”
 </p>
 
 ## Notes
 
-v02: Isaiah’s embodied sign-act makes prophetic speech visible. The sign concerns Egypt and Cush and warns Judah against misplaced political confidence.
-
-v03: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
-
-v05: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
+v02–04: Nakedness and exposed buttocks are explicit in the sign and its explanation. The draft does not soften the predicted humiliation into merely poor clothing.
 
 ## Vocabulary
 
-v03: אוֹת (ot)
-“Sign.” A visible marker carrying prophetic meaning.
-
-v03: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v05: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
+v01: **Commander**: The Assyrian title traditionally transliterated Tartan; Sargon is the king who sends him.

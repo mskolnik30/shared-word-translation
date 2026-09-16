@@ -4,63 +4,93 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-isaiah-1-23-biblical-fluency-2026-09-16
 ---
 
 ## Oracles from the Wilderness
 
 <p>
-v01: The burden of the wilderness of the sea. As whirlwinds in the South sweep through, it comes from the wilderness, from an awesome land.
-v02: A grievous vision is declared to me. The treacherous man deals treacherously, and the destroyer destroys. Go up, Elam;
-attack! I have stopped all of Media's sighing.
-v03: So my thighs are filled with anguish. Pains have taken hold on me, like the pains of a woman in labor. I am in so much pain that I cannot hear. I so am dismayed that I cannot see.
-v04: My heart flutters. Horror has frightened me. The twilight that I desired has been turned into trembling for me.
+v01: An oracle concerning the wilderness of the sea:
+Like whirlwinds sweeping through the Negeb,
+it comes from the wilderness,
+from a fearsome land.
+v02: A harsh vision is told to me:
+“The betrayer betrays, the destroyer destroys.
+Advance, Elam! Lay siege, Media!
+I have put an end to all the groaning she caused.”
+v03: So my body is filled with anguish;
+pangs grip me like a woman in labor.
+I am bent over by what I hear,
+terrified by what I see.
+v04: My heart reels; horror overwhelms me.
+The twilight I longed for
+has become a terror to me.
 </p>
 
 <p>
-v05: They prepare the table. They set the watch. They eat. They drink. Rise up, you princes, oil the shield!
-v06: For the Lord said to me, "Go, set a watchman. Let him declare what he sees.
-v07: When he sees a troop, horsemen in pairs, a troop of donkeys, a troop of camels, he will listen diligently with great attentiveness."
-v08: He cried like a lion: "Lord, I stand continually on the watchtower in the daytime, and every night I stay at my post.
+v05: Set the table! Spread the coverings!
+Eat! Drink!
+Rise, commanders! Oil the shield!
+v06: For this is what the Lord told me:
+“Go, post a lookout.
+Let him report what he sees.
+v07: When he sees riders, horsemen in pairs,
+riders on donkeys and riders on camels,
+let him listen intently, very intently.”
+v08: He cried out like a lion:
+“Lord, I stand at the lookout all day long;
+I stay at my post every night.
 </p>
 
 <p>
-v09: Look, here comes a troop of men, horsemen in pairs." He answered, "Fallen, fallen is Babylon;
-and all the engraved images of her gods are broken to the ground.
-v10: You are my threshing, and the grain of my floor!" That which I have heard from the LORD of Hosts, the God of Israel, I have declared to you.
-v11: The burden of Dumah. One calls to me out of Seir, "Watchman, what of the night? Watchman, what of the night?"
-v12: The watchman said, "The morning comes, and also the night. If you will inquire, inquire. Come back again."
+v09: Look, here comes a troop of men,
+horsemen in pairs!”
+Then he answered,
+“Fallen, fallen is Babylon!
+All her gods’ carved images
+he has shattered to the ground.”
+v10: My threshed people, grain of my threshing floor,
+what I heard from the **LORD** of hosts, Israel’s God,
+I have told you.
+v11: An oracle concerning Dumah:
+Someone calls to me from Seir,
+“Watchman, how much of the night remains?
+Watchman, how much of the night?”
+v12: The watchman says,
+“Morning comes, and also night.
+If you want to ask, ask.
+Return; come again.”
 </p>
 
 <p>
-v13: The burden on Arabia. In the forest in Arabia you will lodge, you caravans of Dedanites.
-v14: They brought water to the one who was thirsty. The inhabitants of the land of Tema met the fugitives with their bread.
-v15: For they fled away from the swords, from the drawn sword, from the bent bow, and from the heat of battle.
-v16: For the Lord said to me, "Within a year, as a worker bound by contract would count it, all the glory of Kedar will fail,
+v13: An oracle concerning Arabia:
+In Arabia’s thickets you will lodge,
+caravans of Dedan.
+v14: Bring water to meet the thirsty,
+inhabitants of Tema.
+Meet the fugitive with bread.
+v15: They have fled from swords,
+from the drawn sword,
+from the bent bow,
+from the weight of war.
+v16: For the Lord said to me, “Within one year, counted like a hired worker’s year, all Kedar’s glory will end.
 </p>
 
 <p>
-v17: and the residue of the number of the archers, the mighty men of the children of Kedar, will be few;
-for the LORD, the God of Israel, has spoken it."
+v17: The remaining archers, the warriors of Kedar, will be few.” The **LORD**, Israel’s God, has spoken.
 </p>
 
 ## Notes
 
-v11: “Dumah” can be a place name and also sounds like the Hebrew word for silence. The oracle’s brevity preserves its enigmatic quality.
+v02: Media receives its own command to besiege. The final first-person promise about ending groaning belongs to the next clause.
 
-v10: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+v05: The rare middle phrase may describe laying a covering or rug; an interpretation involving setting a watch is also traditional.
 
-v16: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
+v08: The Hebrew text used here has “lion.” The draft supplies “like” to express a lion-like cry; “the lookout cried” follows a different textual reading.
 
 ## Vocabulary
 
-v10: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
-
-v10: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v16: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
-
-v17: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
+v12: **Morning and night**: The watchman’s answer promises morning while still naming night; its unresolved quality is preserved.

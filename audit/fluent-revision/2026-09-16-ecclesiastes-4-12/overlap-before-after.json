@@ -1,0 +1,1111 @@
+{
+  "scope": "Ecclesiastes 4–12, all 156 verses.",
+  "verses": 156,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 148,
+      "near_identical_nonidentical": 8,
+      "mean_word_similarity": 0.998124
+    },
+    "after": {
+      "identical": 0,
+      "near_identical_nonidentical": 12,
+      "mean_word_similarity": 0.640354
+    }
+  },
+  "rows": [
+    {
+      "reference": "Ecclesiastes 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.514286
+    },
+    {
+      "reference": "Ecclesiastes 4:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Ecclesiastes 4:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Ecclesiastes 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981818,
+      "after_similarity": 0.36
+    },
+    {
+      "reference": "Ecclesiastes 4:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Ecclesiastes 4:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ecclesiastes 4:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ecclesiastes 4:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47191
+    },
+    {
+      "reference": "Ecclesiastes 4:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Ecclesiastes 4:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.297872
+    },
+    {
+      "reference": "Ecclesiastes 4:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ecclesiastes 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ecclesiastes 4:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ecclesiastes 4:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.432432
+    },
+    {
+      "reference": "Ecclesiastes 4:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Ecclesiastes 4:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Ecclesiastes 4:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.59375
+    },
+    {
+      "reference": "Ecclesiastes 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.597015
+    },
+    {
+      "reference": "Ecclesiastes 5:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Ecclesiastes 5:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Ecclesiastes 5:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Ecclesiastes 5:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.732394
+    },
+    {
+      "reference": "Ecclesiastes 5:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Ecclesiastes 5:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ecclesiastes 5:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.214286
+    },
+    {
+      "reference": "Ecclesiastes 5:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692
+    },
+    {
+      "reference": "Ecclesiastes 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.272727
+    },
+    {
+      "reference": "Ecclesiastes 5:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.297872
+    },
+    {
+      "reference": "Ecclesiastes 5:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Ecclesiastes 5:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Ecclesiastes 5:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.357143
+    },
+    {
+      "reference": "Ecclesiastes 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.488889
+    },
+    {
+      "reference": "Ecclesiastes 5:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Ecclesiastes 5:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ecclesiastes 5:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.474576
+    },
+    {
+      "reference": "Ecclesiastes 5:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.368421
+    },
+    {
+      "reference": "Ecclesiastes 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Ecclesiastes 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.506667
+    },
+    {
+      "reference": "Ecclesiastes 6:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.581395
+    },
+    {
+      "reference": "Ecclesiastes 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Ecclesiastes 6:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ecclesiastes 6:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ecclesiastes 6:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Ecclesiastes 6:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Ecclesiastes 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821
+    },
+    {
+      "reference": "Ecclesiastes 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.347826
+    },
+    {
+      "reference": "Ecclesiastes 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.384615
+    },
+    {
+      "reference": "Ecclesiastes 6:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ecclesiastes 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Ecclesiastes 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ecclesiastes 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ecclesiastes 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ecclesiastes 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ecclesiastes 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ecclesiastes 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Ecclesiastes 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Ecclesiastes 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ecclesiastes 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Ecclesiastes 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Ecclesiastes 7:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.341463
+    },
+    {
+      "reference": "Ecclesiastes 7:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Ecclesiastes 7:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Ecclesiastes 7:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ecclesiastes 7:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Ecclesiastes 7:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ecclesiastes 7:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.458333
+    },
+    {
+      "reference": "Ecclesiastes 7:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ecclesiastes 7:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Ecclesiastes 7:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ecclesiastes 7:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Ecclesiastes 7:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ecclesiastes 7:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ecclesiastes 7:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Ecclesiastes 7:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985507,
+      "after_similarity": 0.776119
+    },
+    {
+      "reference": "Ecclesiastes 7:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Ecclesiastes 7:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Ecclesiastes 7:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Ecclesiastes 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.509804
+    },
+    {
+      "reference": "Ecclesiastes 8:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ecclesiastes 8:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Ecclesiastes 8:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Ecclesiastes 8:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Ecclesiastes 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.484848
+    },
+    {
+      "reference": "Ecclesiastes 8:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Ecclesiastes 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ecclesiastes 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ecclesiastes 8:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Ecclesiastes 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Ecclesiastes 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.745763
+    },
+    {
+      "reference": "Ecclesiastes 8:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Ecclesiastes 8:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.493506
+    },
+    {
+      "reference": "Ecclesiastes 8:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Ecclesiastes 8:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.464286
+    },
+    {
+      "reference": "Ecclesiastes 8:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.675
+    },
+    {
+      "reference": "Ecclesiastes 9:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.724638
+    },
+    {
+      "reference": "Ecclesiastes 9:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.45283
+    },
+    {
+      "reference": "Ecclesiastes 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.710526
+    },
+    {
+      "reference": "Ecclesiastes 9:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Ecclesiastes 9:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Ecclesiastes 9:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Ecclesiastes 9:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ecclesiastes 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Ecclesiastes 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.738095
+    },
+    {
+      "reference": "Ecclesiastes 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ecclesiastes 9:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.719101
+    },
+    {
+      "reference": "Ecclesiastes 9:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.492308
+    },
+    {
+      "reference": "Ecclesiastes 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Ecclesiastes 9:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Ecclesiastes 9:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Ecclesiastes 9:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Ecclesiastes 9:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ecclesiastes 9:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ecclesiastes 10:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Ecclesiastes 10:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.214286
+    },
+    {
+      "reference": "Ecclesiastes 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Ecclesiastes 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Ecclesiastes 10:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Ecclesiastes 10:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Ecclesiastes 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Ecclesiastes 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Ecclesiastes 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.071429
+    },
+    {
+      "reference": "Ecclesiastes 10:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.425532
+    },
+    {
+      "reference": "Ecclesiastes 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ecclesiastes 10:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.258065
+    },
+    {
+      "reference": "Ecclesiastes 10:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.344828
+    },
+    {
+      "reference": "Ecclesiastes 10:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821
+    },
+    {
+      "reference": "Ecclesiastes 10:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.0625
+    },
+    {
+      "reference": "Ecclesiastes 10:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Ecclesiastes 10:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ecclesiastes 10:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ecclesiastes 10:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Ecclesiastes 10:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.441176
+    },
+    {
+      "reference": "Ecclesiastes 11:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Ecclesiastes 11:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Ecclesiastes 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Ecclesiastes 11:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Ecclesiastes 11:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Ecclesiastes 11:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ecclesiastes 11:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Ecclesiastes 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Ecclesiastes 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.675
+    },
+    {
+      "reference": "Ecclesiastes 11:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ecclesiastes 12:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Ecclesiastes 12:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ecclesiastes 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Ecclesiastes 12:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ecclesiastes 12:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ecclesiastes 12:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Ecclesiastes 12:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Ecclesiastes 12:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.352941
+    },
+    {
+      "reference": "Ecclesiastes 12:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.512821
+    },
+    {
+      "reference": "Ecclesiastes 12:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Ecclesiastes 12:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Ecclesiastes 12:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Ecclesiastes 12:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Ecclesiastes 12:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    }
+  ]
+}
