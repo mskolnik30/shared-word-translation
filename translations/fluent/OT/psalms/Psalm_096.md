@@ -4,103 +4,62 @@ testament: OT
 chapter: 96
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## Sing to the LORD a New Song
+## A new song for all the earth
+
 <p>
-v01: Sing to the LORD a new song;
+v01: Sing a new song to the LORD;
 sing to the LORD, all the earth!
-v02: Sing to the LORD, bless his name;
-proclaim his salvation from day to day.
+v02: Sing to the LORD; bless his name.
+Day after day, announce his salvation.
+v03: Tell the nations of his glory,
+all the peoples of his wonders.
 </p>
 
 <p>
-v03: Declare his glory among the nations,
-his wondrous works among all peoples!
-v04: For great is the LORD, and greatly to be praised;
+v04: For the LORD is great and greatly to be praised;
 he is to be feared above all gods.
-</p>
-
-<p>
-v05: For all the gods of the peoples are idols,
+v05: All the gods of the peoples are worthless idols,
 but the LORD made the heavens.
 v06: Splendor and majesty are before him;
-strength and beauty are in his sanctuary.
-</p>
-
-## Ascribe to the LORD
-<p>
-v07: Ascribe to the LORD, O families of the peoples,
-ascribe to the LORD glory and strength!
-v08: Ascribe to the LORD the glory due his name;
-bring an offering and come into his courts!
+strength and beauty fill his sanctuary.
 </p>
 
 <p>
-v09: Worship the LORD in the splendor of holiness;
-tremble before him, all the earth!
+v07: Ascribe to the LORD, families of the peoples,
+ascribe to the LORD glory and strength.
+v08: Ascribe to the LORD the glory of his name;
+bring an offering and enter his courts.
+v09: Bow before the LORD in holy splendor;
+tremble before him, all the earth.
 </p>
 
-## The LORD Reigns
 <p>
 v10: Say among the nations, “The LORD reigns!
-Indeed, the world is established—it will not be moved;
-he will judge the peoples with equity.”
+The world stands firm; it cannot be shaken.
+He will judge the peoples fairly.”
 </p>
 
 <p>
-v11: Let the heavens be glad, and let the earth rejoice;
-let the sea roar, and all that fills it;
-v12: let the field exult, and everything in it!
-Then all the trees of the forest will sing for joy
-</p>
-
-<p>
-v13: before the LORD, for he comes,
-for he comes to judge the earth.
-He will judge the world in righteousness,
-and the peoples in his faithfulness.
+v11: Let the heavens be glad and the earth rejoice;
+let the sea thunder with everything in it.
+v12: Let the fields exult with everything in them;
+then all the trees of the forest will sing for joy
+v13: before the LORD, for he is coming—
+he is coming to judge the earth.
+He will judge the world with righteousness
+and the peoples with his faithfulness.
 </p>
 
 ## Notes
 
-v01–03: Praise is expansive and ongoing (“new song…day to day…among the nations”).
-
-v04–06: Divine uniqueness is contrasted with idols; creation grounds authority.
-
-v07–09: Worship is both verbal (“ascribe”) and embodied (“bring…come…tremble”).
-
-v10: God’s reign stabilizes the world and defines justice.
-
-v11–12: Creation participates in praise, not merely observes it.
-
-v13: Judgment is framed positively—as righteousness and faithfulness.
+v05,09: “Gods” and “worthless idols” echo each other's sounds in Hebrew. “Holy splendor” may describe divine holiness or the worshipers' sacred attire; the main text does not force the distinction.
 
 ## Vocabulary
 
-v01: שִׁיר (shir)
-“To sing.” Express praise.
-
-v02: בָּשַׂר (basar)
-“To proclaim.” Announce good news.
-
-v04: יָרֵא (yare)
-“To fear.” Reverence.
-
-v05: אֱלִיל (elil)
-“Idol.” Worthless object.
-
-v07: יָהַב (yahav)
-“To ascribe.” Give or attribute.
-
-v06: הָדָר (hadar)
-“Splendor.” Beauty or majesty.
-
-v10: מָלַךְ (malak)
-“To reign.” Rule as king.
-
-v13: שָׁפַט (shaphat)
-“To judge.” Govern with justice.
-
-v13: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability.
+v07–08: **Ascribe**: Acknowledge glory and strength as belonging to God; the worshipers do not create those qualities.

@@ -4,250 +4,179 @@ testament: OT
 chapter: 89
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## I Will Sing of Steadfast Love
+## The covenant and the fallen crown
+
 <p>
-v01: I will sing of the steadfast love of the LORD forever;
-with my mouth I will reveal your faithfulness to all generations.
-v02: For I said, “Steadfast love will be built up forever;
-in the heavens you will establish your faithfulness.”
+v01: A maskil of Ethan the Ezrahite.
+I will sing of the LORD's faithful love forever;
+with my mouth I will make your faithfulness known to every generation.
+v02: For I said, “Faithful love is built to last forever;
+you establish your faithfulness in the heavens.”
 </p>
 
-## God’s Covenant with David
 <p>
-v03: You said, “I have made a covenant with my chosen one;
+v03: “I have made a covenant with my chosen one;
 I have sworn to David my servant:
-v04: ‘I will establish your offspring forever,
-and build your throne for all generations.’” Selah.
-</p>
-
-## Praise of God’s Power and Faithfulness
-<p>
-v05: Let the heavens praise your wonders, O LORD,
-your faithfulness in the assembly of the holy ones!
-v06: For who in the skies can be compared to the LORD?
-Who among the sons of God is like the LORD,
+v04: ‘I will establish your offspring forever
+and build your throne for every generation.’” Selah.
 </p>
 
 <p>
-v07: a God greatly feared in the council of the holy ones,
-and awesome above everyone who are around him?
-v08: O LORD God of hosts,
-who is mighty like you, O LORD,
-with your faithfulness all around you?
+v05: The heavens praise your wonders, LORD,
+your faithfulness in the assembly of holy ones.
+v06: Who in the skies can compare with the LORD?
+Who among the sons of gods is like the LORD?
+v07: God is greatly feared in the council of holy ones,
+more awesome than all who surround him.
+v08: LORD, God of Armies, who is mighty like you, YAH?
+Your faithfulness surrounds you.
 </p>
 
 <p>
-v09: You rule the raging of the sea;
+v09: You rule the sea's raging pride;
 when its waves rise, you still them.
-v10: You crushed Rahab like a carcass;
-you scattered your enemies with your mighty arm.
-</p>
-
-<p>
-v11: The heavens are yours; the earth also is yours;
-the world and all that is in it—you have founded them.
-v12: The north and the south—you have created them;
+v10: You crushed Rahab like a slain warrior;
+with your strong arm you scattered your enemies.
+v11: The heavens are yours; the earth is yours too.
+You founded the world and everything in it.
+v12: You created north and south;
 Tabor and Hermon shout for joy at your name.
+v13: Your arm is mighty;
+your hand is strong, your right hand raised high.
 </p>
 
 <p>
-v13: You have a mighty arm;
-strong is your hand, high your right hand.
-v14: Righteousness and justice are the foundation of your throne;
-steadfast love and faithfulness go before you.
-</p>
-
-<p>
-v15: Blessed are the people who know the festal shout,
-who walk, O LORD, in the light of your face,
-v16: who rejoice in your name all the day
-and in your righteousness are exalted.
-</p>
-
-<p>
-v17: For you are the glory of their strength;
-by your favor our horn is exalted.
-v18: For our shield belongs to the LORD,
+v14: Righteousness and justice are your throne's foundation;
+faithful love and faithfulness go before you.
+v15: How fortunate are the people who know the shout of celebration!
+LORD, they walk in the light of your face.
+v16: They rejoice in your name all day long
+and are lifted high by your righteousness.
+v17: For you are the splendor of their strength;
+by your favor our horn is lifted high.
+v18: Our shield belongs to the LORD,
 our king to the Holy One of Israel.
 </p>
 
-## God’s Promise to David
 <p>
-v19: Of old you spoke in a vision to your faithful one and said:
-“I have granted help to one who is mighty;
-I have exalted one chosen from the people.
+v19: Then you spoke in a vision to your faithful ones:
+“I have given help to a warrior;
+I have raised up a chosen man from the people.
 v20: I have found David my servant;
-with my holy oil I have anointed him,
-</p>
-
-<p>
-v21: so that my hand will be established with him;
-my arm also will strengthen him.
-v22: The enemy will not outwit him;
-the wicked will not humble him.
-</p>
-
-<p>
+I have anointed him with my holy oil.
+v21: My hand will remain firm with him;
+my arm will strengthen him.
+v22: No enemy will exact tribute from him;
+no wicked man will oppress him.
 v23: I will crush his foes before him
-and strike down people who hate him.
-v24: My faithfulness and my steadfast love will be with him,
-and in my name his horn will be exalted.
+and strike down those who hate him.
 </p>
 
 <p>
-v25: I will set his hand on the sea
-and his right hand on the rivers.
-v26: He will cry to me, ‘You are my Father,
-my God, and the Rock of my salvation.’
+v24: My faithfulness and faithful love will be with him;
+through my name his horn will be lifted high.
+v25: I will set his hand over the sea,
+his right hand over the rivers.
+v26: He will call to me, ‘You are my father,
+my God, the rock of my salvation.’
 </p>
 
 <p>
-v27: I will make him the firstborn,
+v27: I will make him my firstborn,
 the highest of the kings of the earth.
-v28: My steadfast love I will keep for him forever,
-and my covenant will stand firm for him.
+v28: I will keep my faithful love for him forever;
+my covenant with him will stand firm.
+v29: I will establish his offspring for all time,
+his throne as long as the heavens endure.
 </p>
 
 <p>
-v29: I will establish his offspring forever
-and his throne as the days of the heavens.
+v30: If his sons abandon my instruction
+and do not walk by my rulings,
+v31: if they profane my statutes
+and do not keep my commands,
+v32: I will punish their rebellion with a rod
+and their wrongdoing with blows.
 </p>
 
 <p>
-v30: If his children forsake my law
-and do not walk according to my rules,
-v31: if they violate my statutes
-and do not keep my commandments,
-</p>
-
-<p>
-v32: then I will punish their transgression with the rod
-and their iniquity with stripes,
-v33: but I will not remove from him my steadfast love
-or be false to my faithfulness.
-</p>
-
-<p>
-v34: I will not violate my covenant
-or alter the word that went forth from my lips.
+v33: But I will not withdraw my faithful love from him
+or betray my faithfulness.
+v34: I will not profane my covenant
+or change what my lips have spoken.
 v35: Once for all I have sworn by my holiness;
 I will not lie to David.
 </p>
 
 <p>
-v36: His offspring will endure forever,
-his throne as long as the sun before me.
+v36: His offspring will last forever,
+and his throne will be like the sun before me.
 v37: Like the moon it will be established forever,
 a faithful witness in the skies.” Selah.
 </p>
 
-## Lament Over the Broken Crown
 <p>
-v38: But now you have cast off and rejected;
-you are full of wrath against your anointed.
-v39: You have renounced the covenant with your servant;
+v38: But you have rejected and spurned him;
+you have been furious with your anointed one.
+v39: You have renounced your servant's covenant;
 you have defiled his crown in the dust.
-</p>
-
-<p>
-v40: You have breached all his walls;
-you have laid his strongholds in ruins.
-v41: Everyone who pass by plunder him;
-he has become a reproach to his neighbors.
-</p>
-
-<p>
-v42: You have exalted the right hand of his foes;
-you have made all his enemies rejoice.
+v40: You have broken down all his walls
+and reduced his fortresses to ruins.
+v41: Everyone passing by plunders him;
+he has become a disgrace to his neighbors.
+v42: You have raised his enemies' right hand
+and made all his foes rejoice.
 v43: You have turned back the edge of his sword
-and have not made him stand in battle.
-</p>
-
-<p>
+and have not sustained him in battle.
 v44: You have put an end to his splendor
-and cast his throne to the ground.
-v45: You have shortened the days of his youth;
-you have covered him with shame. Selah.
-</p>
-
-## Final Appeal
-<p>
-v46: How long, O LORD? Will you hide yourself forever?
-Will your wrath burn like fire?
-v47: Remember how short my time is!
-For what vanity you have created all the children of humanity!
+and hurled his throne to the ground.
+v45: You have cut short the days of his youth
+and wrapped him in shame. Selah.
 </p>
 
 <p>
-v48: What man can live and never see death?
-Who can deliver his soul from the power of Sheol? Selah.
+v46: How long, LORD? Will you hide forever?
+Will your fury keep burning like fire?
+v47: Remember how brief my life is.
+Why have you created all human beings for such futility?
+v48: What man can live without seeing death?
+Who can rescue his life from the hand of Sheol? Selah.
 </p>
 
 <p>
-v49: Lord, where is your former steadfast love,
-which by your faithfulness you swore to David?
-v50: Remember, O Lord, how your servants are mocked,
-and how I bear in my heart the insults of all the many nations,
+v49: Lord, where is your former faithful love,
+which in your faithfulness you swore to David?
+v50: Remember, Lord, the disgrace your servants bear,
+how I carry in my breast the taunts of all the many peoples,
+v51: the taunts of your enemies, LORD,
+who mock every step of your anointed one.
 </p>
 
 <p>
-v51: with which your enemies mock, O LORD,
-with which they mock the footsteps of your anointed.
-</p>
-
-<p>
-v52: Blessed be the LORD forever!
-Amen and Amen.
+v52: Blessed be the LORD forever.
+Amen and amen.
 </p>
 
 ## Notes
 
-v01–04: The psalm begins with confident proclamation of covenant faithfulness.
+v06–10: The heavenly council, sons of gods, and defeated Rahab belong to the poem's ancient cosmic imagery. Rahab here is a threatening sea figure, unlike its use for Egypt in Psalm 87.
 
-v05–18: Divine kingship is grounded in creation, power, and righteousness.
+v19,22: The pinned Hebrew has plural “faithful ones.” The verb in verse 22 can concern extracting tribute or outwitting; the draft follows the oppressive-creditor sense.
 
-v14: Throne imagery integrates justice with steadfast love.
+v27,37: “Firstborn” is a rank bestowed on the king. The faithful heavenly witness in verse 37 can be the moon or a further witness alongside it.
 
-v19–37: The Davidic covenant is detailed and unconditional in its core promise.
+v38–50: The complaint deliberately confronts the preceding promise with apparent covenant repudiation. The term rendered splendor in verse 44 and the compressed description of carrying the peoples' taunts in verse 50 are uncertain.
 
-v30–33: Discipline does not cancel covenant loyalty.
-
-v38–45: Abrupt shift to lament. Experience contradicts promise.
-
-v46–51: The tension is unresolved. Appeal is made to God’s own words.
-
-v52: Closing doxology affirms faith despite unresolved contradiction.
+v52: This doxology closes the third collection of Psalms. It does not supply an answer to every question in the lament.
 
 ## Vocabulary
 
-v01: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
+v08: **YAH**: The short form of the divine name, occurring alongside LORD in this verse.
 
-v02: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability.
-
-v03: בְּרִית (berit)
-“Covenant.” Binding agreement.
-
-v10: רָהַב (Rahab)
-“Rahab.” Symbolic chaos/foe.
-
-v14: מִשְׁפָּט (mishpat)
-“Justice.” Right judgment.
-
-v20: מָשַׁח (mashach)
-“To anoint.” Consecrate.
-
-v27: בְּכוֹר (bekhor)
-“Firstborn.” Preeminent status.
-
-v33: חָסַד (chasad)
-“To show loyalty.” Act with steadfast love.
-
-v39: חָלַל (chalal)
-“To defile.” Profane.
-
-v48: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.
+v17,24: **Horn**: An animal-derived image of strength and elevated status.

@@ -2,192 +2,115 @@
   "book": "Psalms",
   "chapter": 75,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-65-104-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_075_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 75:1 (Hebrew; whole) + Psalms 75:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 1,
-            "source_ref": "Psalms 75:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "5c195b45bdac0f89bdd4d4e63eaab26726bf56106cfba71cf158ebc38ef88c53"
-          },
-          {
-            "chapter": 75,
-            "verse": 2,
-            "source_ref": "Psalms 75:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "0895659ba9d7d86581514c56840c148f21ff2be2949661674f21e8bff16674e8"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "bbd8c20214d7486fa879467ac792aef89ba996fa38779933c4e593c4df42ac56"
-      },
-      "2": {
-        "source_ref": "Psalms 75:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 3,
-            "source_ref": "Psalms 75:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "5e761b184a66277565af29fb63ffabd70be8b33c7436328428b3978d637c6e3d"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "5e761b184a66277565af29fb63ffabd70be8b33c7436328428b3978d637c6e3d"
-      },
-      "3": {
-        "source_ref": "Psalms 75:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 4,
-            "source_ref": "Psalms 75:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "8381cfc50b25ea3f39b894da10628376f1add4ebb79d86420f29c098b3d06dcf"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "8381cfc50b25ea3f39b894da10628376f1add4ebb79d86420f29c098b3d06dcf"
-      },
-      "4": {
-        "source_ref": "Psalms 75:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 5,
-            "source_ref": "Psalms 75:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "7f380968a7cce8cd0bf7ab25ef48a3d10c0c3f260004651b61aa1299002436aa"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "7f380968a7cce8cd0bf7ab25ef48a3d10c0c3f260004651b61aa1299002436aa"
-      },
-      "5": {
-        "source_ref": "Psalms 75:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 6,
-            "source_ref": "Psalms 75:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "30258631a25f7500a4e046349542f9b5331226bcb82bb9d6b388359f8d207fda"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "30258631a25f7500a4e046349542f9b5331226bcb82bb9d6b388359f8d207fda"
-      },
-      "6": {
-        "source_ref": "Psalms 75:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 7,
-            "source_ref": "Psalms 75:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "462aba58cd7f2b7f340ad7d80b906ec69bd5aad43a735c3da14250edc9a8e152"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "462aba58cd7f2b7f340ad7d80b906ec69bd5aad43a735c3da14250edc9a8e152"
-      },
-      "7": {
-        "source_ref": "Psalms 75:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 8,
-            "source_ref": "Psalms 75:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "bae2fba61379515e5ab11e6bc26bb7f4a2ef5f03b753fd844cddc2e3409acf46"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "bae2fba61379515e5ab11e6bc26bb7f4a2ef5f03b753fd844cddc2e3409acf46"
-      },
-      "8": {
-        "source_ref": "Psalms 75:9 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 9,
-            "source_ref": "Psalms 75:9 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "67b3e7aedf4c1d0f26b0ed2d237be96277c0636f4aa0538959bb851880493c09"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "67b3e7aedf4c1d0f26b0ed2d237be96277c0636f4aa0538959bb851880493c09"
-      },
-      "9": {
-        "source_ref": "Psalms 75:10 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 10,
-            "source_ref": "Psalms 75:10 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "03c1f78caba4b3ebad6461ae1126d237d4fa812d7c6e4a9664930ca452d35a88"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "03c1f78caba4b3ebad6461ae1126d237d4fa812d7c6e4a9664930ca452d35a88"
-      },
-      "10": {
-        "source_ref": "Psalms 75:11 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 75,
-            "verse": 11,
-            "source_ref": "Psalms 75:11 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6a5cb3ed946103a3581167d810f975a7cf65e07118941d3879d5fffbdcbda7df"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6a5cb3ed946103a3581167d810f975a7cf65e07118941d3879d5fffbdcbda7df"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 75,
+    "verse_count": 10,
+    "path": "translations/fluent/OT/psalms/Psalm_075.md",
+    "before_sha256": "fe1816312fd8c540613ee992726aedf07af3d1461e8ec344d0e6a262d84c437f",
+    "after_sha256": "a8d62ef774e246537c971f8cda6213ad50b2292684576c45dc1b76c897655b3e",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_075.md",
+    "tsw_comparator_sha256": "5968bbeb53b32e68ac842bc26f2a48b5fcde9aa2234eaea77e6de8d11f86dc84"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 75:1",
+      "decision": "Retains all title elements, doubled thanks and the near name.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 75:2",
+      "decision": "Marks the new divine voice without inserting a source-absent speech formula.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 75:5",
+      "decision": "Preserves both horn and neck images, closing the divine warning.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 75:6",
+      "decision": "Reads harim as lifting up in the contextual wordplay; notes the mountain alternative.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 75:8",
+      "decision": "Retains cup, mixed wine and compulsory drinking of residue.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 75:10",
+      "decision": "Preserves the resumed first-person claim; notes speaker uncertainty rather than settling it silently.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_075.md",
-    "blob_sha": "5b4dd47119af822ca1bc589fe624def2fe7485e5"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

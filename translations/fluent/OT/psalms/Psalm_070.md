@@ -4,52 +4,42 @@ testament: OT
 chapter: 70
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-For the director. Of David. To bring remembrance.
+## Hurry to help me
 
 <p>
-v01: Elohim, to deliver me,
-LORD, to my help, hasten!
+v01: For the music leader. Of David. For remembrance.
+God, come to rescue me!
+LORD, hurry to help me!
 </p>
 
 <p>
-v02: Let them be put to shame and humiliated,
-people who seek my life.
-Let them turn back,
-and be dishonored, people who delight in my hurt.
+v02: Let those seeking my life be ashamed and disgraced;
+let those who delight in my harm retreat in humiliation.
+v03: Let those who say, “Aha! Aha!”
+turn back because of their shame.
 </p>
 
 <p>
-v03: Let them turn back because of their shame
-who say, "Aha! Aha!"
+v04: Let all who seek you rejoice and be glad in you.
+Let those who love your salvation always say, “Great is God!”
 </p>
 
 <p>
-v04: Let everyone who seek you rejoice
-and be glad in you.
-Let people who love your salvation say continually,
-"Great is Elohim!"
-</p>
-
-<p>
-v05: Yet I am poor and needy;
-Elohim, hasten to me.
-My help and my deliverer are you;
+v05: But I am afflicted and needy. God, hurry to me!
+You are my help and my rescuer;
 LORD, do not delay.
 </p>
 
 ## Notes
 
-
+v01–05: This prayer closely parallels Psalm 40:13–17. Differences in divine names and wording are retained rather than harmonized.
 
 ## Vocabulary
 
-v01: לְהַזְכִּיר (le'hazkir)
-“To bring remembrance" likely designates the psalm as a reminder or memorial, perhaps for God or the worshipping community.
-
-v01: אֱלֹהִים (Elohim)
-“A title for God, used here with immediacy and relational expectation in covenant context.”
-
-v01: יְהוָה (Yahweh)
-“LORD.” The divine name, represented in English by small-capital LORD.
+v01: **For remembrance**: A title instruction whose exact performance or ritual use is uncertain.

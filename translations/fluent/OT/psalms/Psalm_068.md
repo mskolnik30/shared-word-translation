@@ -4,265 +4,143 @@ testament: OT
 chapter: 68
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## God Arises and Scatters His Enemies
+## God rises and leads his people
 
 <p>
-v01: God arises, his enemies are scattered;
-people who hate him flee before him.
-
-v02: As smoke is driven away, so you drive them away;
+v01: For the music leader. Of David. A psalm. A song.
+Let God rise! Let his enemies scatter;
+let those who hate him flee from his presence.
+v02: As smoke is driven away, drive them away;
 as wax melts before fire,
-so the wicked perish before God.
-
-v03: But the righteous are glad;
-they exult before God;
-they rejoice with gladness.
+let the wicked perish before God.
+v03: But let the righteous be glad and exult before God;
+let them rejoice with joy.
 </p>
 
 <p>
-v04: Sing to God, sing praises to his name;
-lift up a song to him who rides through the deserts;
-
-his name is the LORD—
-exult before him.
-
-v05: Father of the fatherless and judge of widows
-is God in his holy dwelling.
-
-v06: God settles the solitary in a home;
-he leads out the prisoners to prosperity,
-
-but the rebellious dwell in a parched land.
+v04: Sing to God; make music to his name.
+Build a road for the rider through the wilderness.
+His name is YAH; rejoice before him.
+v05: A father to orphans, a judge for widows—
+God in his holy dwelling.
+v06: God settles the lonely in a home
+and brings prisoners out into prosperity;
+but rebels live in a parched land.
 </p>
-
-## God Leads His People
 
 <p>
-v07: O God, when you went out before your people,
-when you marched through the wilderness,
-
-v08: the earth quaked,
-the heavens also poured down rain at the presence of God,
-
-this Sinai at the presence of God, the God of Israel.
-
-v09: Rain in abundance, O God, you poured out;
-you restored your inheritance when it languished;
-
-v10: your flock found a dwelling in it;
-in your goodness, O God, you provided for the needy.
+v07: God, when you went out before your people,
+when you marched through the wasteland, Selah,
+v08: the earth shook, the heavens poured rain
+before God—the one of Sinai—
+before God, the God of Israel.
+v09: You showered abundant rain, God;
+when your inheritance was weary, you restored it.
+v10: Your flock settled there;
+in your goodness, God, you provided for the afflicted.
 </p>
-
-## The Lord Gives the Word
 
 <p>
 v11: The Lord gives the word;
-great is the company of people who proclaim it:
-
-v12: “Kings of armies—they flee, they flee!”
-The women at home divide the spoil—
-
-v13: though you lie among the sheepfolds,
-the wings of a dove are covered with silver,
-and its pinions with shimmering gold.
-
-v14: When the Almighty scatters kings there,
-it was like snow falling on Zalmon.
-</p>
-
-## The Mountain of God
-
-<p>
-v15: A mountain of God is the mountain of Bashan;
-a mountain of many peaks is the mountain of Bashan.
-
-v16: Why do you look with envy, O mountains of many peaks,
-at the mountain that God desired for his dwelling—
-
-yes, where the LORD will dwell forever?
-
-v17: The chariots of God are tens of thousands,
-thousands upon thousands;
-
-the Lord is among them;
-Sinai is now in the sanctuary.
+the women announcing it are a great army:
+v12: “Kings of armies flee—they flee!
+The woman at home divides the spoil.
+v13: Though you lie among the sheepfolds,
+a dove’s wings are coated with silver,
+its pinions with shimmering gold.”
+v14: When Shaddai scattered kings there,
+snow fell on Zalmon.
 </p>
 
 <p>
-v18: You ascended on high,
-leading captivity captive;
-
-you received gifts among men,
-even among the rebellious,
-that the LORD God might dwell there.
+v15: A mighty mountain is Mount Bashan,
+a many-peaked mountain is Mount Bashan.
+v16: Why look with envy, you many-peaked mountains,
+at the mountain God desired for his dwelling?
+Yes, the LORD will live there forever.
+v17: God’s chariots are tens of thousands, thousands upon thousands;
+the Lord is among them—Sinai in the sanctuary.
+v18: You went up on high, leading captives away;
+you received gifts among people, even the rebellious,
+so that YAH God might dwell there.
 </p>
 
-## Blessed Be the Lord
-
 <p>
-v19: Blessed be the Lord,
-who daily bears us up;
-God is our salvation.
-
-v20: Our God is a God of salvation,
-and to God, the Lord, belong escapes from death.
-
-v21: Yet God will strike the head of his enemies,
-the hairy crown of the one who walks in his guilt.
-
-v22: The Lord said,
-“I will bring them back from Bashan,
+v19: Blessed be the Lord, day after day;
+he bears our burden, the God who saves us. Selah.
+v20: Our God is a God of rescues;
+to the LORD, the Lord, belong escapes from death.
+v21: But God will crush his enemies’ heads,
+the hairy crown of one who goes on in guilt.
+v22: The Lord said, “I will bring them back from Bashan;
 I will bring them back from the depths of the sea,
-
-v23: that you may strike your feet in blood,
-that the tongues of your dogs may have their portion from the enemies.”
+v23: so your foot may crush them in blood
+and your dogs’ tongues may have their portion from enemies.”
 </p>
 
-## Procession into the Sanctuary
-
 <p>
-v24: Your procession is seen, O God,
-the procession of my God, my king, into the sanctuary—
-
-v25: the singers in front,
-the musicians after,
-in the midst, young women playing tambourines.
-
-v26: Bless God in the congregations,
-the LORD, from the fountain of Israel.
-
-v27: There is Benjamin, the youngest, leading them,
-the princes of Judah in their throng,
-the princes of Zebulun, the princes of Naphtali.
+v24: They have seen your processions, God,
+the processions of my God, my king, into the sanctuary.
+v25: Singers lead, musicians follow,
+with young women beating tambourines between them.
+v26: Bless God in the assemblies—
+the LORD, you who spring from Israel!
+v27: There is little Benjamin leading them,
+Judah’s princes with their throng,
+the princes of Zebulun and the princes of Naphtali.
 </p>
 
-## God’s Power over the Nations
-
 <p>
-v28: Summon your strength, O God;
-confirm, O God, what you have worked for us.
-
-v29: Because of your temple at Jerusalem,
-kings will bring gifts to you.
-
+v28: Your God has commanded your strength.
+Show your strength, God, as you have acted for us.
+v29: Because of your temple above Jerusalem,
+kings will bring you gifts.
 v30: Rebuke the beast among the reeds,
-the herd of bulls with the calves of the peoples,
-
-trampling underfoot people who lust after tribute;
-scatter the peoples who delight in war.
-
-v31: Nobles will come from Egypt;
-Cush will hasten to stretch out her hands to God.
+the herd of bulls among the peoples’ calves,
+trampling on pieces of silver.
+He has scattered the peoples who delight in war.
+v31: Envoys will come from Egypt;
+Cush will hurry to stretch its hands to God.
 </p>
 
 <p>
-v32: O kingdoms of the earth, sing to God;
-sing praises to the Lord—
-
-v33: to him who rides in the ancient heavens,
-look, he sends out his voice, his mighty voice.
-
-v34: Ascribe power to God,
-whose majesty is over Israel,
-and whose power is in the skies.
-
-v35: Fearsome is God from his sanctuary;
-the God of Israel—he gives power and strength to his people.
-
-Blessed be God.
+v32: Kingdoms of the earth, sing to God;
+make music to the Lord. Selah.
+v33: He rides the ancient heavens, the highest heavens.
+Listen! He gives voice—a mighty voice.
+v34: Ascribe strength to God;
+his majesty is over Israel, his strength in the clouds.
+v35: Awesome are you, God, from your sanctuaries!
+The God of Israel gives strength and power to the people.
+Blessed be God!
 </p>
 
 ## Notes
 
-v01–03: The opening echoes traditional battle language. Divine arising results immediately in scattering, without narrative delay.
+v04,08: “Wilderness” in verse 4 can also be understood as clouds. Verse 8's “the one of Sinai” is difficult; another reading makes Sinai itself tremble.
 
-v02: The paired images (smoke, wax) emphasize transience and inevitability rather than struggle.
+v11–14: The heralds in verse 11 are women. The sheepfolds, silver-and-gold dove, and snow at Zalmon remain difficult images; their precise setting is uncertain.
 
-v04: “Rides through the deserts” preserves imagery of divine mobility, not confinement to cultivated space.
+v17–18: The Hebrew's compressed language links divine chariots, Sinai, the sanctuary, ascent, captives, and received gifts. Verse 18 says “received”; later uses of the passage do not replace its wording here.
 
-v05–06: God’s kingship is expressed through social reversal—care for the vulnerable and relocation of the isolated.
+v23: The pinned text uses a verb meaning crush or shatter. “Wash” or “dip” in some renderings reflects another interpretation or a textual adjustment. The blood and dogs' tongues are intentionally graphic.
 
-v06: Prosperity and desolation are held together without explanation. The rebellious are not integrated into the blessing.
+v26,28: Israel's “fountain” is rendered as its source or origin. Verse 28 follows “Your God has commanded your strength”; “Command your strength, God” requires a different reading.
 
-v07–08: The wilderness tradition is recalled with cosmic effects—earthquake and storm—linking history and creation imagery.
+v30–31: The beast among the reeds and the bulls portray hostile powers without naming them. The silver clause may depict trampling silver or submission with tribute. The word rendered envoys is rare.
 
-v08: “This Sinai” is abrupt and compressed, preserving the density of the Hebrew.
-
-v09–10: Provision is described as restoration of what had languished. Divine care is both sustaining and renewing.
-
-v11–12: The “word” produces proclamation. Military defeat is announced in language that collapses battle and report.
-
-v12: Women dividing spoil reflects traditional victory scenes, without commentary.
-
-v13: The imagery shifts abruptly (sheepfolds, dove), retaining poetic compression rather than clarifying transitions.
-
-v14: The comparison to snow at Zalmon is left uninterpreted, preserving its evocative but uncertain force.
-
-v15–16: Bashan’s mountains are personified as envious. The chosen dwelling is defined by divine decision, not natural grandeur.
-
-v17: Sinai is transposed into the sanctuary, collapsing past revelation into present worship.
-
-v18: The ascent combines victory and reception. “Even among the rebellious” preserves tension within the gathering.
-
-v19–20: Salvation is described both as daily sustaining and as deliverance from death.
-
-v21–23: Violent imagery is retained without mitigation. Judgment is presented in stark, embodied terms.
-
-v24–27: The procession enacts communal worship. Named tribes situate praise within Israel’s corporate identity.
-
-v28–31: Petition turns outward toward the nations. Power is both requested and recognized.
-
-v30: Animal imagery (“beast,” “bulls”) functions metaphorically for political powers.
-
-v31: Egypt and Cush represent distant nations drawn into acknowledgment of God.
-
-v32–35: The closing summons returns to universal praise. God’s transcendence (“ancient heavens”) and immediacy (“gives power”) are held together.
+v06,10,19: The word rendered prosperity in verse 6 is rare. The flock in verse 10 can mean a community or living creatures. Verse 19 leaves the object of bearing unstated; burden is supplied from the image.
 
 ## Vocabulary
 
-v01: קוּם (qum)
-“To arise.” Often signals divine action in judgment or deliverance.
+v04,18: **YAH**: A short form of the divine name represented elsewhere as LORD.
 
-v02: נָדַף (nadaph)
-“To drive away.” Used for dispersing or scattering.
+v14: **Shaddai**: An ancient divine title, often rendered Almighty; its derivation is uncertain.
 
-v04: רָכַב (rakhav)
-“To ride.” Frequently used of divine movement across heavens or wilderness.
-
-v05: אָב (ʾav)
-“Father.” Here extended metaphorically to protector of the vulnerable.
-
-v06: יָשַׁב (yashav)
-“To settle” or “to cause to dwell.” Indicates establishment in a place.
-
-v07: יָצָא (yatsaʾ)
-“To go out.” Often used for divine leading in exodus contexts.
-
-v08: רָעַשׁ (raʿash)
-“To quake.” Describes trembling of the earth.
-
-v11: דָּבָר (davar)
-“Word.” Can denote speech, command, or event.
-
-v14: פָּרַשׂ (paras)
-“To scatter.” Used for dispersal in battle contexts.
-
-v17: רֶכֶב (rekhev)
-“Chariot.” Symbol of power and divine or royal presence.
-
-v18: שָׁבָה (shavah)
-“To take captive.” Here in the phrase “leading captivity captive.”
-
-v20: מוֹצָאָה (motsaʾah)
-“Escape” or “exit.” Used for deliverance from danger or death.
-
-v30: גַּעַר (gaʿar)
-“To rebuke.” Often denotes authoritative command over chaos or enemies.
-
-v33: נָתַן קוֹל (natan qol)
-“To give voice.” Expression of powerful speech or thunder.
-
-v35: עֹז (ʿoz)
-“Strength.” A recurring term for divine power given to the people.
+v31: **Cush**: A region south of Egypt; it should not be equated automatically with the borders of a modern country.

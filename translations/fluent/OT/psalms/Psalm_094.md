@@ -4,80 +4,94 @@ testament: OT
 chapter: 94
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## God of Vengeance, Shine Forth
+## Justice for the oppressed
 
 <p>
-v01: O LORD, God of vengeance,
+v01: LORD, God of vengeance,
 God of vengeance, shine forth!
-v02: Rise up, Judge of the earth;
-repay the proud what they deserve.
-v03: How long, O LORD, will the wicked—
-how long will the wicked exult?
-v04: They pour out arrogant words;
-everyone who do evil boast.
-v05: They crush your people, O LORD,
-and afflict your inheritance.
-v06: They kill the widow and the sojourner,
-and they murder the orphan.
-v07: They say, “The LORD does not see;
-the God of Jacob does not perceive.”
+v02: Rise, judge of the earth;
+repay the arrogant what they deserve.
 </p>
 
-## The One Who Formed the Eye Sees
+<p>
+v03: How long will the wicked, LORD—
+how long will the wicked triumph?
+v04: They pour out arrogant words;
+all who do wrong boast about themselves.
+</p>
 
 <p>
-v08: Understand, you senseless among the people;
-you fools, when will you become wise?
-v09: The One who planted the ear—does God not hear?
-The One who formed the eye—does God not see?
-v10: The One who disciplines nations—does God not rebuke?
-The One who teaches humankind—does God not know?
-v11: The LORD knows human thoughts,
-that they are only breath.
-v12: Happy is the one whom you discipline, O LORD,
-and whom you teach from your instruction,
-v13: to give that one rest from days of trouble,
+v05: They crush your people, LORD,
+and afflict your inheritance.
+v06: They kill the widow and the resident foreigner;
+they murder the fatherless.
+v07: They say, “YAH does not see;
+the God of Jacob pays no attention.”
+</p>
+
+<p>
+v08: Understand, you senseless ones among the people!
+You fools, when will you grow wise?
+v09: Does the one who planted the ear not hear?
+Does the one who formed the eye not see?
+v10: Does the one who disciplines nations not correct—
+the one who teaches human beings knowledge?
+v11: The LORD knows human thoughts:
+they are only a breath.
+</p>
+
+<p>
+v12: How fortunate is the person you discipline, YAH,
+the one you teach from your instruction,
+v13: giving relief from days of trouble
 until a pit is dug for the wicked.
-v14: For the LORD will not abandon the people
-or forsake the inheritance.
-v15: For judgment will again accord with righteousness,
+v14: For the LORD will not cast off his people
+or abandon his inheritance.
+v15: Judgment will again accord with righteousness,
 and all the upright in heart will follow it.
 </p>
 
-## The LORD Has Become My Stronghold
+<p>
+v16: Who will rise for me against evildoers?
+Who will take a stand for me against those who do wrong?
+v17: If the LORD had not helped me,
+I would soon have made my home in silence.
+</p>
 
 <p>
-v16: Who rises up for me against the wicked?
-Who stands for me against people who do evil?
-v17: If the LORD had not been my help,
-my soul would soon have dwelt in silence.
 v18: When I said, “My foot is slipping,”
-your steadfast love, O LORD, supported me.
-v19: When my anxious thoughts were many within me,
-your consolations delighted my soul.
-v20: Can a throne of destruction be allied with you—
-one that frames injustice by statute?
+your faithful love, LORD, held me up.
+v19: When anxious thoughts crowded within me,
+your consolations brought me joy.
+</p>
+
+<p>
+v20: Can a throne of destruction be allied with you,
+one that uses law to fashion misery?
 v21: They band together against the life of the righteous
 and condemn innocent blood.
-v22: But the LORD has become my stronghold,
-and my God the rock of my refuge.
-v23: God will bring their iniquity back upon them
-and destroy them by their own evil;
-the LORD our God will destroy them.
+</p>
+
+<p>
+v22: But the LORD has become my stronghold;
+my God is the rock where I take refuge.
+v23: He will turn their wrongdoing back on them
+and destroy them through their own evil.
+The LORD our God will destroy them.
 </p>
 
 ## Notes
 
-v10: The final clause is elliptical in Hebrew: “the One who teaches humankind—knowledge.” The question “does God not know?” makes explicit the rhetorical force without adding a new theological claim.
-
-v20: “Throne of destruction” can also be understood as a corrupt or ruinous seat of rule. The following line identifies its practice: manufacturing injustice through law.
+v06,20–21: The poem names the killing of vulnerable people and destructive rule operating through law. The indictment concerns actual injustice, without adding a modern partisan target.
 
 ## Vocabulary
 
-v12: תּוֹרָה (torah)
-“Instruction.” The word can refer to law, teaching, or authoritative guidance; “instruction” preserves that wider range here.
+v01: **Vengeance**: The requested divine reckoning with wrong; its force is retained alongside the specific injuries in the psalm.
 
-v17: דּוּמָה (dumah)
-“Silence,” here a poetic image associated with death and the grave.
+v07,12: **YAH**: The short divine name used in both the enemies' speech and the poet's prayer.

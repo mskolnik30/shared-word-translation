@@ -4,81 +4,105 @@ testament: OT
 chapter: 73
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## When the wicked prosper
+
 <p>
-v01: A psalm of Asaph. Truly God is good to Israel, to people who are pure in heart.
+v01: A psalm of Asaph.
+God is indeed good to Israel,
+to those whose hearts are pure.
+v02: But as for me, my feet had nearly slipped;
+I almost lost my footing.
 </p>
 
 <p>
-v02: But as for me, my feet had almost stumbled; my steps had nearly slipped.
-v03: For I was envious of the boastful when I saw the prosperity of the wicked.
-v04: For they have no distress in their death; their bodies are healthy.
-v05: They are not in trouble as other humans are; they are not stricken like the rest of humankind.
-v06: So pride is their necklace, and violence clothes them as a garment.
-v07: Their eyes bulge with fatness; the imaginations of their hearts run wild.
-v08: They mock and speak with malice; they speak arrogantly of oppression.
-v09: They set their mouths against the heavens, and their tongues strut through the earth.
+v03: I envied the arrogant
+when I saw how well the wicked lived.
+v04: They suffer no pangs at death;
+their bodies are well fed.
+v05: They escape the hardships other people bear;
+they are not struck down like everyone else.
+v06: So pride hangs around their necks like a necklace,
+and violence wraps them like a garment.
+v07: Their eyes bulge from fatness;
+the imaginings of their hearts spill over.
+v08: They sneer and speak maliciously;
+from their lofty place they threaten oppression.
+v09: They set their mouths against heaven,
+and their tongues roam the earth.
+v10: So his people turn toward them
+and drink their water to the full.
+v11: They say, “How could God know?
+Does the Most High know anything?”
+v12: Look at them—the wicked!
+Always at ease, they pile up wealth.
 </p>
 
 <p>
-v10: So his people turn back to them and find no fault in them.
-v11: And they say, "How does God know? Is there knowledge in the Most High?"
-v12: Look, these are the wicked—always at ease, they increase in riches.
+v13: Surely I have kept my heart pure for nothing
+and washed my hands in innocence in vain.
+v14: All day long I am struck down;
+every morning brings correction.
 </p>
 
 <p>
-v13: Surely in vain I have kept my heart pure and washed my hands in innocence.
-v14: For all day long I have been plagued and rebuked every morning.
-v15: If I had said, "I will speak thus," I would have betrayed the generation of your children.
-v16: But when I thought how to understand this, it seemed to me a wearisome task,
-v17: until I went into the sanctuary of God; then I discerned their end.
+v15: If I had said, “I will speak that way,”
+I would have betrayed the family of your children.
+v16: I tried to understand all this,
+but it was too painful for me—
+v17: until I entered God's sanctuaries
+and understood where their lives were heading.
 </p>
 
 <p>
-v18: Truly, you set them in slippery places; you make them fall to ruin.
-v19: How they are destroyed in a moment, swept away utterly by terrors!
-v20: Like a dream when one awakes, Lord, when you rouse yourself, you despise their images.
+v18: Yes, you set them on slippery ground;
+you bring them crashing into ruin.
+v19: How suddenly they are devastated!
+Terrors sweep them away and finish them.
+v20: Like a dream when someone wakes,
+Lord, when you rise, you dismiss their image.
 </p>
 
 <p>
-v21: When my heart was grieved, and I was pierced within,
-v22: I was senseless and ignorant; I was like a beast before you.
+v21: When my heart turned bitter
+and pain pierced me deep inside,
+v22: I was senseless and uncomprehending—
+like an animal before you.
 </p>
 
 <p>
-v23: Even so, I am continually with you; you hold me by my right hand.
-v24: You guide me with your counsel, and afterward you take me to glory.
-v25: Whom have I in heaven but you? And there is nothing on earth that I desire besides you.
-v26: My flesh and my heart may fail, but God is the strength of my heart and my portion forever.
+v23: Yet I am always with you;
+you hold my right hand.
+v24: You guide me with your counsel,
+and afterward you will receive me with honor.
+v25: Who do I have in heaven but you?
+With you, I desire nothing on earth.
+v26: My body and my heart may fail,
+but God is my heart's rock
+and my portion forever.
 </p>
 
 <p>
-v27: Indeed, people who are far from you will perish; you destroy everyone who are unfaithful to you.
-v28: But as for me, it is good to be near God; I have made the Lord GOD my refuge, that I may tell of all your works.
+v27: Those far from you will perish;
+you put an end to everyone who is unfaithful to you.
+v28: But for me, being near God is good.
+I have made the Lord, the LORD, my refuge,
+so I can tell of all your works.
 </p>
 
 ## Notes
 
-v01: "pure in heart" — This phrase indicates those who are sincere and wholehearted in their devotion to God, aligning inner motives with outward actions.
+v04,07,10: The draft retains “at death” and “eyes” in verses 4 and 7; other translations sometimes adjust the text. Verse 10 is obscure: “his people” and the full water they drink admit more than one explanation.
 
-v05: "They are not in trouble" — This underscores the perceived ease and stability of the wicked compared to others, contributing to the psalmist’s struggle.
-
-v16–17: The sanctuary represents a place of divine revelation and understanding, providing clarity on the fate of the wicked in contrast to their temporary prosperity.
+v20,24: The awakening language in verse 20 is difficult. Verse 24 can suggest being received with honor, into glory, or after glory; it does not name a destination. The draft keeps that restraint.
 
 ## Vocabulary
 
-v01: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.
+v26: **Portion**: An allotted share or inheritance; God himself is the poet's lasting share.
 
-v24: כָּבוֹד (ka.vod) — Here used in the sense of honor or glory, describing the outcome of divine guidance and care leading to honor.
-
-v24: כָּבוֹד (kavod)
-“Glory; honor.” The term can denote honor, splendor, or weighty significance.
-
-v26: צוּר (tsur) — Often translated as "rock," symbolizing stability and strength, particularly of God as the firm foundation of the psalmist's life.
-
-v26: צוּר (tsur)
-“Rock.” A metaphor for strength, stability, or enduring support.
-
-v01: אֱלֹהִים (elohim)
-“God.” The common Hebrew designation for God.
+v27: **Unfaithful**: The Hebrew uses a sexual-infidelity image for abandoning God.

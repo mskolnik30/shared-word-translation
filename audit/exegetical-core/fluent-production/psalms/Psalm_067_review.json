@@ -2,147 +2,110 @@
   "book": "Psalms",
   "chapter": 67,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-65-104-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_067_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 67:1 (Hebrew; whole) + Psalms 67:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 1,
-            "source_ref": "Psalms 67:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f973bd384b1a320f2592458b020f61fc23eb94d6eed6b2be1d817065b5c35a31"
-          },
-          {
-            "chapter": 67,
-            "verse": 2,
-            "source_ref": "Psalms 67:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "46f224ecdce225eacecfae0e584eb292f161a8b37603a8ff7ac0a6c6fdcf4413"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "506ed55bfaca87f0636feb2db5eaf37825ebee66da094f770d6dbbe225718d4c"
-      },
-      "2": {
-        "source_ref": "Psalms 67:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 3,
-            "source_ref": "Psalms 67:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "c6f97901e3d1cd7f7cafd4baa6d124879dff9b220d2f89e7f614118c75693f26"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "c6f97901e3d1cd7f7cafd4baa6d124879dff9b220d2f89e7f614118c75693f26"
-      },
-      "3": {
-        "source_ref": "Psalms 67:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 4,
-            "source_ref": "Psalms 67:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
-      },
-      "4": {
-        "source_ref": "Psalms 67:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 5,
-            "source_ref": "Psalms 67:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "aca6917e43e2cf08194b2b23de64d40f7de95fcbb860444feae7be918defeee7"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "aca6917e43e2cf08194b2b23de64d40f7de95fcbb860444feae7be918defeee7"
-      },
-      "5": {
-        "source_ref": "Psalms 67:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 6,
-            "source_ref": "Psalms 67:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
-      },
-      "6": {
-        "source_ref": "Psalms 67:7 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 7,
-            "source_ref": "Psalms 67:7 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "ce179e7b007cc52e94184531c17ceb519d87637372b2a924b2453334de512b65"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "ce179e7b007cc52e94184531c17ceb519d87637372b2a924b2453334de512b65"
-      },
-      "7": {
-        "source_ref": "Psalms 67:8 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 67,
-            "verse": 8,
-            "source_ref": "Psalms 67:8 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "6723cca937975591fabdce77617fc317500916a21827fa36832bdab769592f0f"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "6723cca937975591fabdce77617fc317500916a21827fa36832bdab769592f0f"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 67,
+    "verse_count": 7,
+    "path": "translations/fluent/OT/psalms/Psalm_067.md",
+    "before_sha256": "62d5c51d9a8025c2864d450a7d9c4d244ebd4c0fd0955d9d6f55c8a9bdc3df7c",
+    "after_sha256": "3a06c58fc7819e070162ba580ea1e9a7787e0c2554d6cfdbcc6ba1e16e19bdc8",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_067.md",
+    "tsw_comparator_sha256": "f6f0ab0d1ea4664d973d7e5451fd1f62b4a2015be3a223295a59e37aa867c431"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 67:1",
+      "decision": "Separate title and blessing face retained.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 67:3",
+      "decision": "Exact doubled communal refrain.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 67:5",
+      "decision": "Repeat verse 3 unchanged.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 67:6",
+      "decision": "Harvest perfect and blessing wish distinguished.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 67:7",
+      "decision": "Concluding blessing again universal in reach.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_067.md",
-    "blob_sha": "fc236c0ee8dad0ded5243d737c35d2f768271be7"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

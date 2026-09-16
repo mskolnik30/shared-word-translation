@@ -4,45 +4,56 @@ testament: OT
 chapter: 87
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## Born in Zion
+
 <p>
-Of the sons of Korah. A psalm. A song.
+v01: Of the sons of Korah. A psalm. A song.
+The city he founded stands on the holy mountains.
+v02: The LORD loves Zion's gates
+more than all the dwellings of Jacob.
 </p>
 
-## Glorious Things Are Spoken of Zion
+<p>
+v03: Glorious things are spoken of you,
+city of God. Selah.
+</p>
 
 <p>
-v01: God’s foundation is in the holy mountains.
-v02: The LORD loves the gates of Zion
-more than all the dwellings of Jacob.
-v03: Glorious things are spoken of you,
-O city of God.
-Selah.
-v04: “I will mention Rahab and Babylon
-among people who know me;
-look—Philistia and Tyre, with Cush:
+v04: “I count Rahab and Babylon among those who know me.
+Look: Philistia, Tyre and Cush—
 ‘This one was born there.’”
-v05: And of Zion it will be said,
-“One and another were born in her,”
-for the Most High will establish her.
-v06: The LORD records, when registering the peoples,
-“This one was born there.”
-Selah.
-v07: Singers and dancers alike say,
+</p>
+
+<p>
+v05: Of Zion it will be said,
+“This one and that one were born in her,”
+and the Most High himself will establish her.
+</p>
+
+<p>
+v06: When the LORD records the peoples, he counts,
+“This one was born there.” Selah.
+</p>
+
+<p>
+v07: Singers and dancers say,
 “All my springs are in you.”
 </p>
 
 ## Notes
 
-v04: “Rahab” is a poetic name for Egypt in this context, not the personal name found in Joshua.
+v04–06: Rahab here is a poetic name for Egypt, not the woman in Joshua. The nations and the repeated birth notices portray belonging to Zion; the precise force of “there” in verse 4 remains debated.
 
-v07: The Hebrew is exceptionally compressed. “Singers and dancers alike” reflects a probable liturgical scene, but the precise relationship of the terms remains uncertain.
+v07: The final line joins performers and springs. The second group may be dancers or pipe players; springs remain the image for the speaker's source of life.
+
+v01: The Hebrew opens with “his foundation.” The city is supplied from the following reference to Zion so readers can follow the subject.
 
 ## Vocabulary
 
-v04: רַהַב (Rahav)
-“A poetic name associated with Egypt and, elsewhere, with a defeated chaos-monster image.”
-
-v07: מַעְיָן (maʿyan)
-“Spring” or “fountain,” a source of living water and, metaphorically, of life.
+v04: **Cush**: A region south of Egypt, kept distinct from modern national boundaries.

@@ -4,128 +4,78 @@ testament: OT
 chapter: 86
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## A Prayer of David
+## Give me an undivided heart
+
 <p>
-v01: Incline your ear, O LORD, and answer me,
+v01: A prayer of David.
+Lean down and listen, LORD; answer me,
 for I am poor and needy.
-v02: Preserve my life, for I am faithful;
-save your servant who trusts in you—you are my God.
+v02: Guard my life, for I am faithful to you.
+You are my God; save your servant who trusts in you.
+v03: Be gracious to me, Lord,
+for I call to you all day long.
+v04: Bring joy to your servant's life,
+for I lift my life to you, Lord.
 </p>
 
 <p>
-v03: Be gracious to me, O Lord,
-for to you I cry all the day.
-v04: Gladden the soul of your servant,
-for to you, O Lord, I lift up my soul.
-</p>
-
-## God’s Character as the Ground of Prayer
-<p>
-v05: For you, O Lord, are good and forgiving,
-abounding in steadfast love to everyone who call upon you.
-v06: Give ear, O LORD, to my prayer;
-listen to the voice of my pleas.
+v05: For you, Lord, are good and ready to forgive,
+rich in faithful love toward everyone who calls to you.
+v06: LORD, listen to my prayer;
+pay attention to my pleas for mercy.
+v07: When distress comes, I call to you,
+because you answer me.
 </p>
 
 <p>
-v07: In the day of my trouble I call upon you,
-for you answer me.
-</p>
-
-<p>
-v08: There is none like you among the gods, O Lord,
-nor are there any works like yours.
-v09: All nations you have made will come
-and bow down before you, O Lord,
-and will glorify your name.
-</p>
-
-<p>
-v10: For you are great and do wondrous things;
+v08: Among the gods there is none like you, Lord;
+no deeds compare with yours.
+v09: All the nations you made will come
+and bow before you, Lord;
+they will honor your name.
+v10: For you are great and work wonders;
 you alone are God.
 </p>
 
-## Prayer for Guidance and Undivided Heart
 <p>
-v11: Teach me your way, O LORD,
-that I may walk in your truth;
-unite my heart to fear your name.
+v11: Teach me your way, LORD,
+so I may walk in your truth.
+Give me an undivided heart to fear your name.
+v12: Lord my God, I will thank you with all my heart
+and honor your name forever.
+v13: For your faithful love toward me is great;
+you have rescued my life from the depths of Sheol.
 </p>
 
 <p>
-v12: I give thanks to you, O Lord my God, with my whole heart,
-and I will glorify your name forever.
-v13: For great is your steadfast love toward me;
-you have delivered my soul from the depths of Sheol.
-</p>
-
-## Lament and Confidence
-<p>
-v14: O God, the arrogant have risen against me;
-a band of ruthless men seeks my life,
-and they do not set you before them.
+v14: God, arrogant people have risen against me;
+a gang of ruthless men is seeking my life.
+They give no thought to you.
+v15: But you, Lord, are a compassionate and gracious God,
+slow to anger and rich in faithful love and faithfulness.
 </p>
 
 <p>
-v15: But you, O Lord, are a God merciful and gracious,
-slow to anger and abounding in steadfast love and faithfulness.
-</p>
-
-<p>
-v16: Turn to me and be gracious to me;
-give your strength to your servant,
-and save the son of your maidservant.
-</p>
-
-<p>
-v17: Show me a sign of your favor,
-that people who hate me may see and be put to shame,
-because you, LORD, have helped me and comforted me.
+v16: Turn toward me and be gracious.
+Give your strength to your servant;
+save the son of your servant woman.
+v17: Show me a sign of your goodness,
+so those who hate me may see it and be ashamed,
+because you, LORD, have helped and comforted me.
 </p>
 
 ## Notes
 
-v01–04: The prayer is grounded in need and dependence, not entitlement.
+v08–10: Comparison “among the gods” and the claim “you alone are God” both occur. Neither is removed to simplify the poem's language.
 
-v05–07: God’s character (goodness, forgiveness, steadfast love) underwrites the petition.
-
-v08–10: Divine uniqueness expands toward universal worship.
-
-v11: The request is for inner integration (“unite my heart”), not mere instruction.
-
-v13: Deliverance from Sheol emphasizes life preserved from death’s domain.
-
-v14–15: Human opposition is contrasted with divine mercy.
-
-v16–17: The request for a “sign” is relational and vindicatory, not spectacular.
+v15–16: The mercy formula recalls Exodus 34:6. Calling oneself the son of God's servant woman expresses a deeply rooted dependent relationship, retaining the mother's part in it.
 
 ## Vocabulary
 
-v01: עָנִי (ani)
-“Poor.” Afflicted or needy.
-
-v02: חָסִיד (chasid)
-“Faithful.” Devoted or loyal.
-
-v05: סָלַח (salach)
-“To forgive.” To pardon.
-
-v08: אֱלֹהִים (elohim)
-“Gods.” Divine beings or powers.
-
-v11: יָחַד (yachad)
-“To unite.” Make one.
-
-v11: יִרְאָה (yirah)
-“Fear.” Reverence.
-
-v13: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.
-
-v15: רַחוּם (rachum)
-“Merciful.” Compassionate.
-
-v17: אוֹת (ot)
-“Sign.” Indicator or proof.
+v13: **Sheol**: The realm of the dead; it is not automatically the later idea of a place of final punishment.

@@ -4,97 +4,70 @@ testament: OT
 chapter: 79
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
+
+## A people among the ruins
 
 <p>
 v01: A psalm of Asaph.
-
-God, nations have entered your inheritance;
-they have defiled your holy temple;
-they have made Jerusalem a ruin.
-
-v02: They have given the bodies of your servants
-as food to the birds of the heavens,
-the flesh of your faithful ones
-to the wild animals of the earth.
-
-v03: They have poured out their blood like water
-all around Jerusalem,
-with no one to bury them.
-
-v04: We have become a reproach to our neighbors,
-mockery and scorn
-to those around us.
+God, nations have invaded your inheritance.
+They have defiled your holy temple
+and reduced Jerusalem to rubble.
+v02: They have given your servants' corpses to the birds of the sky for food,
+the flesh of your faithful people to the beasts of the earth.
+v03: They have poured out their blood like water around Jerusalem,
+and no one is left to bury them.
+v04: Our neighbors treat us with contempt;
+those around us mock and jeer.
 </p>
 
 <p>
 v05: How long, LORD? Will you be angry forever?
-Will your jealousy burn like fire?
-
-v06: Pour out your wrath on the nations that do not know you,
-on the kingdoms that do not call on your name.
-
+Will your jealousy keep burning like fire?
+v06: Pour out your fury on the nations that do not know you,
+on kingdoms that do not call on your name.
 v07: For they have devoured Jacob
-and laid waste his dwelling place.
+and devastated his home.
 </p>
 
 <p>
-v08: Do not remember against us the iniquities of former generations.
-May your mercies quickly meet us,
+v08: Do not hold past wrongs against us.
+Let your compassion hurry to meet us,
 for we have been brought very low.
-
-v09: Help us, God of our salvation,
-for the glory of your name;
-deliver us and atone for our sins,
+v09: Help us, God our savior,
+for the glory of your name.
+Rescue us and make atonement for our sins,
 for the sake of your name.
-
-v10: Why should the nations say,
-“Where is their God?”
-Let the vengeance for the blood of your servants that was poured out
-be known among the nations—
-among the nations before our eyes.
 </p>
 
 <p>
-v11: May the groaning of the prisoner come before you;
-according to the greatness of your arm,
-preserve those doomed to die.
+v10: Why should the nations ask, “Where is their God?”
+Before our eyes, let the nations see
+you avenge your servants' spilled blood.
+v11: Let the prisoner's groan reach you.
+By the strength of your mighty arm,
+keep alive those marked for death.
+v12: Lord, pay our neighbors back sevenfold,
+right into their laps,
+for the contempt they have shown you.
+</p>
 
-v12: Return sevenfold into the laps of our neighbors
-the reproach with which they have reproached you, Lord.
-
-v13: Then we, your people and the sheep of your pasture,
-will give thanks to you forever;
-from generation to generation
-we will tell of your praise.
+<p>
+v13: Then we, your people, the sheep of your pasture,
+will thank you forever.
+Generation after generation, we will tell of your praise.
 </p>
 
 ## Notes
 
-v05: The question “How long?” gives voice to faith under divine anger without denying either the devastation of the people or their continuing claim upon the LORD.
+v08: “Past wrongs” may mean former sins or the wrongs of ancestors. The plea also acknowledges the community's own sins in verse 9.
 
-v08–09: The prayer asks both for mercy and for atonement. Deliverance is sought not as a claim of innocence but for the glory and sake of God’s name.
-
-v10: The psalm joins the public vindication of God’s name with justice for the blood of God’s servants. The repeated phrase “among the nations” intensifies the plea that this justice be visible.
-
-v11: “Those doomed to die” literally evokes “children of death,” an image for people held under a sentence of death or facing certain destruction.
+v10–12: The community asks for vengeance for spilled blood and sevenfold repayment. These requests remain the sufferers' prayer; the translation does not turn them into instructions to readers.
 
 ## Vocabulary
 
-v05: **קִנְאָה — *qin'ah***: “jealousy” describes God’s ardent commitment to the covenant relationship and to the honor of God’s name; it is pictured here as fire.
-
-v08: **רַחֲמִים — *raḥamim***: “mercies” names God’s compassionate response to the deeply afflicted. The plural form gathers mercy’s many expressions.
-
-v09: **כִּפֶּר — *kipper***: “atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.
-
-v13: מַרְעִית (mar‘it)
-“pasture” completes the image of God’s people as sheep, dependent on God’s sustaining care.
-
-v05: קִנְאָה (qin'ah)
-“Jealousy; ardor.”
-
-v08: רַחֲמִים (raḥamim)
-“mercies” names God’s compassionate response to the deeply afflicted. The plural form gathers mercy’s many expressions.
-
-v09: כִּפֶּר (kipper)
-“atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.
+v11: **Marked for death**: Literally “sons of death,” describing people facing death, not their parents.

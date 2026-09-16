@@ -4,75 +4,77 @@ testament: OT
 chapter: 83
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## A prayer against a hostile alliance
+
 <p>
-A song. A psalm of Asaph.
+v01: A song. A psalm of Asaph.
+God, do not stay silent!
+Do not be deaf or still, God!
+v02: Look, your enemies are in an uproar;
+those who hate you lift their heads.
 </p>
 
-## Do Not Keep Silent, O God
+<p>
+v03: They devise cunning plans against your people;
+they conspire against those you shelter.
+v04: “Come,” they say, “let us wipe them out as a nation,
+so Israel's name will never be remembered again.”
+</p>
 
 <p>
-v01: O God, do not remain silent;
-do not be quiet, and do not be still, O God.
-v02: For look, your enemies are in an uproar;
-people who hate you have raised their heads.
-v03: They make crafty plans against your people
-and conspire against those you treasure.
-v04: They say, “Come, let us wipe them out as a nation,
-so that the name of Israel is remembered no more.”
-v05: For they conspire together with one heart;
-against you they make a covenant:
+v05: They plot with a single purpose;
+they have made a covenant against you:
 v06: the tents of Edom and the Ishmaelites,
 Moab and the Hagrites,
-v07: Gebal and Ammon and Amalek,
-Philistia with the inhabitants of Tyre;
-v08: Assyria also has joined them;
-they have become an arm for the children of Lot.
-Selah.
+v07: Gebal, Ammon and Amalek,
+Philistia with the people of Tyre.
+v08: Assyria has joined them too,
+lending its arm to the descendants of Lot. Selah.
 </p>
 
-## Make Them Like Midian
-
 <p>
-v09: Do to them as you did to Midian,
-as to Sisera and Jabin at the river Kishon,
-v10: who were destroyed at En-dor
-and became dung for the ground.
+v09: Do to them what you did to Midian,
+to Sisera and Jabin at the Kishon stream.
+v10: They were destroyed at En-dor;
+they became manure for the ground.
 v11: Make their nobles like Oreb and Zeeb,
 all their princes like Zebah and Zalmunna,
-v12: who said, “Let us take for ourselves
-the pastures of God.”
+v12: who said, “Let us take God's pastures
+as our own possession.”
 </p>
 
-## Let Them Seek Your Name
+<p>
+v13: My God, make them like whirling tumbleweed,
+like straw before the wind.
+v14: As fire burns a forest,
+as flame sets mountains ablaze,
+v15: so pursue them with your storm
+and terrify them with your whirlwind.
+</p>
 
 <p>
-v13: My God, make them like tumbleweed,
-like chaff before the wind.
-v14: As fire burns a forest,
-and as flame sets mountains ablaze,
-v15: so pursue them with your tempest
-and terrify them with your storm.
-v16: Fill their faces with shame,
-so that they may seek your name, O LORD.
-v17: Let them be ashamed and dismayed forever;
+v16: Fill their faces with disgrace
+so that they seek your name, LORD.
+v17: Let them be ashamed and terrified forever;
 let them be disgraced and perish.
-v18: Let them know that you alone—
-whose name is the LORD—
+v18: Let them know that you alone, whose name is the LORD,
 are Most High over all the earth.
 </p>
 
 ## Notes
 
-v06–08: The list gathers neighboring peoples and powers into a single poetic coalition. It should not be read as a chronological roster of one clearly identifiable historical campaign.
+v04–12: The poem names an alliance threatening Israel's existence and recalls defeats described in Judges. These ancient names are not codes for modern states.
 
-v16: The petition for shame is not only punitive; it is ordered toward recognition of the LORD’s name, a tension preserved by the sequence of the psalm.
+v16–18: The prayer asks both that enemies seek the LORD's name and that they perish in disgrace. Both demands remain visible.
 
 ## Vocabulary
 
-v03: צְפוּנֶיךָ (tsefunekha)
-“Literally, “your hidden/treasured ones,” describing those kept or cherished by God.”
+v08: **Descendants of Lot**: Moab and Ammon are associated with Lot in Genesis 19:30–38.
 
-v13: גַּלְגַּל (galgal)
-“A rolling thing driven by wind, often understood here as tumbleweed or whirling dust.”
+v13: **Tumbleweed**: A rendering of a whirling, wind-driven object; the precise plant or image is uncertain.

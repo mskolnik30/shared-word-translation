@@ -4,50 +4,54 @@ testament: OT
 chapter: 82
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## Judgment in the divine assembly
+
 <p>
-A psalm of Asaph.
+v01: A psalm of Asaph.
+God stands in the divine assembly;
+among the gods he gives judgment:
 </p>
 
-## God Judges in the Divine Council
-
 <p>
-v01: God stands in the divine council;
-among the gods, God judges:
 v02: “How long will you judge unjustly
-and show partiality to the wicked?
-Selah.
-v03: Give justice to the weak and the orphan;
-uphold the right of the afflicted and the destitute.
-v04: Rescue the weak and the needy;
-deliver them from the hand of the wicked.”
+and favor the wicked? Selah.
 </p>
 
-## Rise Up, O God
+<p>
+v03: Give justice to the weak and the fatherless;
+uphold the rights of the afflicted and the poor.
+v04: Rescue the weak and the needy;
+free them from the hand of the wicked.
+</p>
 
 <p>
-v05: They do not know, and they do not understand;
+v05: They neither know nor understand;
 they walk about in darkness.
-All the foundations of the earth are shaken.
-v06: I said, “You are gods,
-children of the Most High, all of you;
-v07: yet like human beings you will die,
-and like one of the princes you will fall.”
-v08: Rise up, O God; judge the earth,
-for you will inherit all the nations.
+All the foundations of the earth are shaking.
+</p>
+
+<p>
+v06: I said, ‘You are gods,
+all of you sons of the Most High.’
+v07: Yet you will die like human beings;
+you will fall like any ruler.”
+</p>
+
+<p>
+v08: Rise, God, and judge the earth,
+for all the nations are yours to inherit.
 </p>
 
 ## Notes
 
-v01: The Hebrew describes God standing in the assembly of El and judging “in the midst of gods.” The main text preserves the divine-council language rather than replacing it with a human court.
-
-v06: The address “you are gods” remains intentionally direct. The psalm’s point is not clarified by identifying these figures more narrowly than the Hebrew does.
+v01,06–07: The poem calls the judged assembly “gods” and “sons of the Most High.” Interpreters differ over heavenly beings and human rulers. The translation preserves the designations and the verdict that they will die like humans.
 
 ## Vocabulary
 
-v01: אֱלֹהִים (ʾelohim)
-“Depending on context, the form can refer to God or to divine beings.” Both senses are active in this verse.
-
-v03: שָׁפַט (shafat)
-“Judge” or “give justice.” In biblical usage, judgment includes defending those whose rights are being denied.
+v03: **Fatherless**: Children without a father to protect their household interests in this ancient social setting.

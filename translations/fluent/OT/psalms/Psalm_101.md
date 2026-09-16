@@ -4,52 +4,59 @@ testament: OT
 chapter: 101
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## Integrity in house and city
+
 <p>
-A psalm of David.
+v01: Of David. A psalm.
+I will sing of faithful love and justice;
+to you, LORD, I will make music.
 </p>
 
-## I Will Walk with Integrity
-
 <p>
-v01: I will sing of steadfast love and justice;
-to you, O LORD, I will make music.
-v02: I will attend to the way of integrity.
+v02: I will give careful thought to the way of integrity.
 When will you come to me?
-I will walk with integrity of heart
-within my house.
-v03: I will set no worthless thing before my eyes.
-I hate the work of people who fall away;
-it will not cling to me.
-v04: A crooked heart will be far from me;
-I will know nothing of evil.
+Within my house I will walk with an undivided heart.
 </p>
 
-## My Eyes Will Be on the Faithful
+<p>
+v03: I will set nothing worthless before my eyes.
+I hate the deeds of those who turn aside;
+they will not cling to me.
+v04: A crooked heart will stay far from me;
+I will have nothing to do with evil.
+</p>
 
 <p>
-v05: Whoever secretly slanders a neighbor, I will silence;
-one with haughty eyes and a proud heart I will not endure.
-v06: My eyes will be on the faithful of the land,
-that they may dwell with me.
-Whoever walks in the way of integrity
-will minister to me.
-v07: No one who practices deceit will dwell within my house;
-no one who speaks lies will stand before my eyes.
-v08: Morning by morning I will silence all the wicked of the land,
-cutting off from the city of the LORD
-everyone who do evil.
+v05: I will destroy anyone who secretly slanders a neighbor.
+I will not tolerate haughty eyes and an arrogant heart.
+</p>
+
+<p>
+v06: My eyes will seek the faithful in the land,
+so they may live with me.
+The one who walks with integrity will serve me.
+</p>
+
+<p>
+v07: No one who practices deceit will live in my house;
+no liar will remain before my eyes.
+</p>
+
+<p>
+v08: Morning after morning I will destroy all the wicked in the land,
+cutting off everyone who does wrong from the LORD's city.
 </p>
 
 ## Notes
 
-v02: The question “When will you come to me?” interrupts the royal commitments with a direct appeal for God’s presence. It is retained rather than absorbed into the surrounding vows.
-v05, v08: The Hebrew verb can mean “destroy” or “silence/cut off.” The translation uses “silence” where the immediate offense is destructive speech while retaining “cutting off” in the civic conclusion.
-
-v05: The Hebrew verb used here and again in verse 8 can mean “destroy,” “silence,” or “cut off.”
+v02,05,08: The question about God's coming interrupts a ruler's pledges. The promises to destroy wrongdoers remain severe royal language, not merely a vow to avoid bad habits.
 
 ## Vocabulary
 
-v02: תָּמִים (tamim)
-“Complete,” “whole,” or “integral.” In ethical contexts it describes integrity or wholehearted conduct.
+v02,06: **Integrity**: A whole, undivided commitment, here applied to private conduct and the choice of those who serve the ruler.

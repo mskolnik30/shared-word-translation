@@ -4,485 +4,249 @@ testament: OT
 chapter: 78
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## A Call to Remember
+## Tell the coming generation
 
 <p>
-v01: Give ear, O my people, to my teaching;
-
-incline your ears to the words of my mouth.
-
-v02: I will open my mouth in a parable;
-
-I will utter riddles from of old,
+v01: A maskil of Asaph.
+My people, listen to my instruction;
+turn your ears toward the words I speak.
+v02: I will open my mouth with a parable;
+I will bring forth riddles from long ago—
+v03: things we have heard and known,
+things our fathers told us.
+v04: We will not hide them from their children.
+We will tell the coming generation the LORD's praiseworthy deeds,
+his strength and the wonders he has done.
 </p>
-
-<p>
-v03: things that we have heard and known,
-
-that our ancestors have told us.
-
-v04: We will not hide them from their children,
-
-but tell to the coming generation
-
-the praises of the LORD,
-
-and his strength,
-
-and the wonders that he has done.
-</p>
-
-## Teaching the Next Generation
 
 <p>
 v05: He established a testimony in Jacob
-
-and appointed a law in Israel,
-
-which he commanded our ancestors
-
-to teach to their children,
-
-v06: that the next generation might know them,
-
-the children yet unborn,
-
-and arise and tell them to their children,
+and set instruction in Israel.
+He commanded our fathers to teach these things to their children,
+v06: so the next generation would know—
+children yet to be born—
+and rise to tell their own children.
+v07: Then they would put their confidence in God,
+remember God's deeds
+and keep his commands.
+v08: They would not be like their fathers,
+a stubborn, rebellious generation,
+whose hearts were not steadfast
+and whose spirits were not faithful to God.
 </p>
 
 <p>
-v07: so that they should set their hope in God
-
-and not forget the works of God,
-
-but keep his commandments,
-
-v08: and not be like their ancestors,
-
-a stubborn and rebellious generation,
-
-a generation whose heart was not steadfast,
-
-whose spirit was not faithful to God.
-</p>
-
-## Israel’s Rebellion in the Wilderness
-
-<p>
-v09: The Ephraimites, armed with the bow,
-
+v09: The men of Ephraim, armed with bows,
 turned back on the day of battle.
-
-v10: They did not keep God’s covenant,
-
-but refused to walk according to his law.
+v10: They did not keep God's covenant;
+they refused to walk in his instruction.
+v11: They forgot his deeds
+and the wonders he had shown them.
 </p>
 
 <p>
-v11: They forgot his works
-
-and the wonders that he had shown them.
-
-v12: In the sight of their ancestors he performed wonders
-
+v12: He worked wonders before their fathers
 in the land of Egypt, in the fields of Zoan.
-</p>
-
-<p>
-v13: He divided the sea and let them pass through it,
-
-and made the waters stand like a heap.
-
-v14: In the daytime he led them with a cloud,
-
-and all the night with a fiery light.
-</p>
-
-<p>
+v13: He split the sea and led them through;
+he made the waters stand like a heap.
+v14: He guided them with a cloud by day
+and with the light of fire all night.
 v15: He split rocks in the wilderness
-
-and gave them drink abundantly as from the deep.
-
-v16: He made streams come out of the rock
-
-and caused waters to flow down like rivers.
+and gave them abundant water, as from the depths.
+v16: He brought streams out of a crag
+and made water pour down like rivers.
 </p>
 
 <p>
-v17: Yet they continued to sin against him,
-
-rebelling against the Most High in the desert.
-
-v18: They tested God in their heart
-
-by demanding the food they craved.
-</p>
-
-<p>
+v17: Still they kept sinning against him,
+rebelling against the Most High in the dry land.
+v18: They tested God in their hearts
+by demanding food for their appetites.
 v19: They spoke against God, saying,
-
-“Can God spread a table in the wilderness?
-
-v20: He struck the rock so that water gushed out—
-
-but can he also give bread
-
-or provide meat for his people?”
+“Can God set a table in the wilderness?
+v20: He struck the rock, and water gushed out;
+streams overflowed.
+But can he also give bread?
+Can he provide meat for his people?”
 </p>
 
-## God’s Provision and Judgment
-
 <p>
-v21: So, when the LORD heard, he was full of wrath;
-
-a fire was kindled against Jacob,
-
-and anger rose against Israel,
-
-v22: because they did not believe in God
-
-and did not trust his saving power.
+v21: The LORD heard and was furious.
+Fire flared against Jacob;
+anger rose against Israel,
+v22: because they did not trust God
+or rely on his saving power.
 </p>
 
 <p>
 v23: Yet he commanded the skies above
-
-and opened the doors of heaven,
-
-v24: and he rained down on them manna to eat
-
+and opened heaven's doors.
+v24: He rained manna down for them to eat
 and gave them the grain of heaven.
+v25: Human beings ate the bread of mighty ones;
+he sent food until they had enough.
 </p>
 
 <p>
-v25: Humans ate the bread of angels;
-
-he sent them food in abundance.
-
-v26: He caused the east wind to blow in the heavens,
-
-and by his power he led out the south wind;
+v26: He stirred up the east wind in the heavens
+and drove the south wind by his strength.
+v27: He rained meat on them like dust,
+winged birds like sand beside the seas.
+v28: He made them fall inside his camp,
+all around his dwellings.
+v29: They ate and were thoroughly satisfied;
+he gave them what they craved.
 </p>
 
 <p>
-v27: he rained meat upon them like dust,
-
-winged birds like the sand of the seas;
-
-v28: he let them fall among their camp,
-
-all around their dwellings.
-</p>
-
-<p>
-v29: And they ate and were filled,
-
-for he gave them what they craved.
-
-v30: But before they had satisfied their desire,
-
+v30: But before their craving had left them,
 while the food was still in their mouths,
+v31: God's anger rose against them.
+He killed their strongest men
+and struck down Israel's young men.
+v32: Despite all this, they kept sinning;
+despite his wonders, they did not trust.
+v33: So he brought their days to an end like a breath,
+and their years in sudden terror.
 </p>
-
-<p>
-v31: the anger of God rose against them,
-
-and he killed the strongest among them
-
-and laid low the young men of Israel.
-</p>
-
-<p>
-v32: In spite of all this, they still sinned;
-
-they did not believe in his wondrous works.
-
-v33: So he made their days vanish like a breath,
-
-and their years in terror.
-</p>
-
-## A Pattern of Forgetting
 
 <p>
 v34: When he killed them, they sought him;
-
-they repented and sought God earnestly.
-
+they returned and searched earnestly for God.
 v35: They remembered that God was their rock,
-
-the Most High God their redeemer.
-</p>
-
-<p>
-v36: But they flattered him with their mouths;
-
-they lied to him with their tongues.
-
-v37: Their heart was not steadfast toward him;
-
+that God Most High was their redeemer.
+v36: But they tried to flatter him with their mouths
+and lied to him with their tongues.
+v37: Their hearts were not steadfast toward him;
 they were not faithful to his covenant.
 </p>
 
 <p>
-v38: Yet he, being compassionate, atoned for their iniquity
-
-and did not destroy them;
-
-he restrained his anger often
-
-and did not stir up all his wrath.
+v38: Yet he was compassionate:
+he made atonement for their wrongdoing instead of destroying them.
+Again and again he turned back his anger
+and did not unleash all his fury.
+v39: He remembered that they were only flesh,
+a passing wind that does not return.
 </p>
-
-<p>
-v39: He remembered that they were flesh,
-
-a wind that passes and does not return.
-</p>
-
-## Continued Rebellion and God’s Acts
 
 <p>
 v40: How often they rebelled against him in the wilderness
-
 and grieved him in the desert!
-
-v41: They tested God again and again
-
-and provoked the Holy One of Israel.
+v41: Again and again they tested God
+and pained the Holy One of Israel.
+v42: They did not remember his hand,
+the day he redeemed them from the foe,
 </p>
 
 <p>
-v42: They did not remember his power
-
-or the day when he redeemed them from the foe,
-
-v43: when he performed his signs in Egypt
-
-and his marvels in the fields of Zoan.
+v43: when he displayed his signs in Egypt
+and his wonders in the fields of Zoan.
+v44: He turned their rivers to blood;
+they could not drink from their streams.
+v45: He sent swarms of flies that devoured them
+and frogs that brought them ruin.
+v46: He gave their crops to the devouring locust,
+the fruit of their labor to the swarming locust.
+v47: He killed their vines with hail
+and their sycamore figs with frost.
+v48: He handed their cattle over to hail,
+their livestock to bolts of fire.
 </p>
 
 <p>
-v44: He turned their rivers to blood,
-
-so that they could not drink of their streams.
-
-v45: He sent among them swarms of flies, which devoured them,
-
-and frogs, which destroyed them.
+v49: He sent his burning anger against them—
+fury, indignation and distress—
+a company of messengers bringing disaster.
+v50: He cleared a path for his anger.
+He did not spare their lives from death
+but handed them over to plague.
+v51: He struck every firstborn in Egypt,
+the first fruits of their strength in the tents of Ham.
 </p>
 
 <p>
-v46: He gave their crops to the locust,
-
-and the fruit of their labor to the grasshopper.
-
-v47: He destroyed their vines with hail
-
-and their sycamores with frost.
+v52: Then he brought his people out like sheep
+and guided them like a flock through the wilderness.
+v53: He led them safely, so they were not afraid,
+but the sea covered their enemies.
+v54: He brought them to his holy territory,
+to this mountain his right hand had acquired.
+v55: He drove nations out before them,
+allotted their land as an inheritance by measuring line,
+and settled Israel's tribes in their tents.
 </p>
 
 <p>
-v48: He gave over their cattle to the hail
-
-and their flocks to thunderbolts.
-
-v49: He let loose on them his burning anger,
-
-wrath, indignation, and distress,
-
-a company of destroying angels.
+v56: But they tested God Most High and rebelled against him;
+they did not keep his testimonies.
+v57: They turned away and acted treacherously like their fathers;
+they twisted aside like an unreliable bow.
+v58: They angered him with their high places
+and provoked his jealousy with their carved images.
 </p>
 
 <p>
-v50: He made a path for his anger;
-
-he did not spare them from death
-
-but gave their lives over to plague.
-
-v51: He struck down every firstborn in Egypt,
-
-the firstfruits of their strength in the tents of Ham.
-</p>
-
-## Shepherding and Settlement
-
-<p>
-v52: Then he led out his people like sheep
-
-and guided them in the wilderness like a flock.
-
-v53: He led them in safety, so that they were not afraid,
-
-but the sea overwhelmed their enemies.
-</p>
-
-<p>
-v54: And he brought them to his holy land,
-
-to the mountain his right hand had won.
-
-v55: He drove out nations before them;
-
-he allotted them for a possession
-
-and settled the tribes of Israel in their tents.
-</p>
-
-## Final Rebellion and God’s Choice
-
-<p>
-v56: Yet they tested and rebelled against the Most High God
-
-and did not keep his testimonies,
-
-v57: but turned away and acted treacherously like their ancestors;
-
-they twisted like a deceitful bow.
-</p>
-
-<p>
-v58: For they provoked him to anger with their high places;
-
-they moved him to jealousy with their idols.
-
-v59: When God heard, he was full of wrath,
-
-and he utterly rejected Israel.
-</p>
-
-<p>
-v60: He forsook his dwelling at Shiloh,
-
-the tent where he dwelt among humanity,
-
-v61: and delivered his power to captivity,
-
-his glory to the hand of the foe.
-</p>
-
-<p>
-v62: He gave his people over to the sword
-
-and vented his wrath on his inheritance.
-
-v63: Fire devoured their young men,
-
-and their young women had no marriage song.
-</p>
-
-<p>
+v59: God heard and was furious;
+he utterly rejected Israel.
+v60: He abandoned his dwelling at Shiloh,
+the tent where he had lived among human beings.
+v61: He gave his strength into captivity,
+his splendor into the enemy's hand.
+v62: He handed his people over to the sword;
+he was furious with his own inheritance.
+v63: Fire consumed their young men,
+and their young women had no wedding songs.
 v64: Their priests fell by the sword,
-
-and their widows made no lamentation.
+and their widows did not weep.
 </p>
 
 <p>
-v65: Then the Lord awoke as from sleep,
-
-like a warrior shouting because of wine.
-
-v66: He struck his enemies backward;
-
-he put them to perpetual shame.
+v65: Then the Lord awoke as though from sleep,
+like a warrior shouting after wine.
+v66: He struck his enemies from behind
+and put them to lasting shame.
 </p>
 
 <p>
-v67: He rejected the tent of Joseph;
-
-he did not choose the tribe of Ephraim,
-
-v68: but he chose the tribe of Judah,
-
-Mount Zion, which he loves.
-</p>
-
-<p>
+v67: He rejected Joseph's tent
+and did not choose the tribe of Ephraim.
+v68: Instead he chose the tribe of Judah,
+Mount Zion, which he loved.
 v69: He built his sanctuary like the heights,
-
-like the earth, which he has founded forever.
-
-v70: He chose David his servant
-
-and took him from the sheepfolds;
+like the earth he established forever.
 </p>
 
 <p>
-v71: from following the nursing ewes he brought him
-
+v70: He chose David his servant
+and took him from the sheepfolds.
+v71: From tending nursing ewes he brought him
 to shepherd Jacob his people,
-
 Israel his inheritance.
-
-v72: With upright heart he shepherded them
-
-and guided them with skillful hand.
+v72: He shepherded them with an undivided heart
+and guided them with skillful hands.
 </p>
 
 ## Notes
 
-v01–04: Instruction is framed as communal memory, not abstract teaching.
+v01–08: This poem teaches history through retelling, so that each generation can remember and respond. “Parable” and “riddles” frame the significance of that history rather than replacing it with a fictional story.
 
-v05–08: Generational transmission is essential to covenant faithfulness.
+v25,28: “Mighty ones” may refer to heavenly beings. Verse 28 retains the singular “his camp” and “his dwellings” rather than silently changing them to plural possessives.
 
-v09–11: Forgetting is the root failure, not ignorance.
+v43–51: The poem selects and orders the Egyptian plagues for its own retelling. Its sequence is not silently rearranged to match Exodus. The weather term rendered frost is rare and uncertain.
 
-v12–16: Divine acts establish a pattern of provision and power.
-
-v17–20: Testing God arises from desire and doubt.
-
-v21–31: Provision and judgment coexist without resolution.
-
-v32–39: Repentance is temporary; God’s compassion is persistent.
-
-v40–51: Repetition of rebellion highlights the cycle of forgetting.
-
-v52–55: God’s leadership is pastoral (“like sheep”).
-
-v56–64: Idolatry leads to rejection and loss.
-
-v65–68: Divine choice shifts toward Judah and Zion.
-
-v70–72: Leadership is redefined through David—shepherding rather than domination.
+v61,65–66: Strength and splendor in captivity evoke the captured ark. The Lord's awakening like a warrior after wine and the rearward blow are intentionally striking images, not prose descriptions of divine biology.
 
 ## Vocabulary
 
-v02: מָשָׁל (mashal)
+v01,05,10: **Instruction**: Hebrew torah includes teaching and direction, here involving remembered history as well as commands.
 
-“Parable.” Figurative teaching.
+v51: **Ham**: An ancestral name used poetically for Egypt.
 
-v04: תְּהִלָּה (tehillah)
-
-“Praise.” Expression of honor.
-
-v08: סָרַר (sarar)
-
-“To rebel.” To resist authority.
-
-v13: בָּקַע (baqa)
-“To split.” Divide forcefully.
-
-v18: נָסָה (nasah)
-“To test.” To try or provoke.
-
-v24: מָן (man)
-
-“Manna.” Provision from heaven.
-
-v38: רָחַם (racham)
-“To have compassion.” Show mercy.
-
-v52: נָהַג (nahag)
-
-“To lead.” Guide like a flock.
-
-v68: בָּחַר (bachar)
-
-“To choose.” Select.
-
-v72: תָּם (tam)
-
-“Blameless.” Whole or upright.
+v58: **High places**: Cultic sites; their name is retained rather than replaced by a general moral label.

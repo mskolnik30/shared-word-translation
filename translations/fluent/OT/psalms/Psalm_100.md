@@ -4,72 +4,43 @@ testament: OT
 chapter: 100
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
----
-book: Psalms
-testament: OT
-chapter: 100
-translation: TSW
----
+## Enter with thanksgiving
 
-## A Psalm for Thanksgiving
 <p>
-v01: Shout for joy to the LORD, all the earth!
+v01: A psalm of thanksgiving.
+Shout to the LORD, all the earth!
 v02: Serve the LORD with gladness;
-come before him with joyful singing.
+come before him singing for joy.
 </p>
 
 <p>
-v03: Know that the LORD, he is God!
-It is he who made us, and we are his;
-we are his people and the sheep of his pasture.
+v03: Know that the LORD is God.
+He made us, and we belong to him—
+his people, the sheep of his pasture.
 </p>
 
 <p>
 v04: Enter his gates with thanksgiving,
-and his courts with praise!
-Give thanks to him; bless his name!
+his courts with praise.
+Thank him; bless his name.
 </p>
 
 <p>
 v05: For the LORD is good;
-his steadfast love endures forever,
-and his faithfulness to all generations.
+his faithful love lasts forever,
+and his faithfulness endures through every generation.
 </p>
 
 ## Notes
 
-v01–02: Worship is communal and global (“all the earth”) and marked by joy.
-
-v03: Identity is defined by belonging—created and claimed by God.
-
-v04: Movement into worship is intentional (“enter…give thanks…bless”).
-
-v05: God’s character (goodness, steadfast love, faithfulness) grounds praise.
+v03: The reading tradition has “we belong to him.” The written text has “and not we,” often understood as “not we ourselves.” The draft follows the reading tradition, while the source record preserves both.
 
 ## Vocabulary
 
-v01: רוּעַ (rua‘)
-“To shout.” Raise a joyful cry.
-
-v02: עָבַד (avad)
-“To serve.” Worship through action.
-
-v03: יָדַע (yada‘)
-“To know.” Recognize relationally.
-
-v03: רָעָה (ra‘ah)
-“To pasture.” Shepherding care.
-
-v04: תּוֹדָה (todah)
-“Thanksgiving.” Expression of gratitude.
-
-v05: טוֹב (tov)
-“Good.” Beneficial and right.
-
-v05: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
-
-v05: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability.
+v01,04: **Thanksgiving**: The title may also be associated with a thanksgiving offering; the psalm invites grateful worship.

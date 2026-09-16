@@ -4,137 +4,91 @@ testament: OT
 chapter: 80
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## Restore Us, O Shepherd of Israel
+## Restore your ravaged vine
+
 <p>
-v01: Give ear, O Shepherd of Israel,
-you who lead Joseph like a flock;
-you who are enthroned upon the cherubim, shine forth.
-v02: Before Ephraim and Benjamin and Manasseh,
-stir up your might
+v01: For the music leader. “Lilies.” A testimony. Of Asaph. A psalm.
+Shepherd of Israel, listen—
+you who lead Joseph like a flock!
+You who sit enthroned above the cherubim, shine forth!
+v02: Before Ephraim, Benjamin and Manasseh,
+rouse your strength
 and come to save us.
 </p>
 
 <p>
-v03: Restore us, O God;
-let your face shine,
-that we may be saved.
-</p>
-
-## Lament Over Divine Anger
-<p>
-v04: O LORD God of hosts,
-how long will you be angry with the prayers of your people?
-v05: You have fed them with the bread of tears
-and given them tears to drink in full measure.
+v03: God, restore us;
+let your face shine, and we will be saved.
 </p>
 
 <p>
-v06: You make us an object of contention for our neighbors,
-and our enemies laugh among themselves.
+v04: LORD, God of Armies,
+how long will your anger smoke against your people's prayer?
+v05: You have fed them bread made of tears
+and given them tears to drink by the measure.
+v06: You have made us a cause of strife among our neighbors;
+our enemies laugh among themselves.
 </p>
 
 <p>
-v07: Restore us, O God of hosts;
-let your face shine,
-that we may be saved.
+v07: God of Armies, restore us;
+let your face shine, and we will be saved.
 </p>
 
-## The Vine Brought Out of Egypt
 <p>
 v08: You brought a vine out of Egypt;
 you drove out nations and planted it.
-v09: You cleared the ground for it;
+v09: You cleared a place for it;
 it took deep root and filled the land.
+v10: Mountains lay under its shade,
+and mighty cedars beneath its branches.
+v11: It sent its branches as far as the sea,
+its shoots as far as the River.
 </p>
 
 <p>
-v10: The mountains were covered with its shade,
-and the mighty cedars with its branches.
-v11: It sent out its branches to the sea
-and its shoots to the River.
+v12: Why have you broken down its walls,
+so that everyone passing by plucks its fruit?
+v13: A boar from the forest tears it apart;
+creatures of the field feed on it.
 </p>
 
 <p>
-v12: Why then have you broken down its walls,
-so that everyone who pass along the way pluck its fruit?
-v13: The boar from the forest ravages it,
-and all that move in the field feed on it.
-</p>
-
-## Prayer for Restoration
-<p>
-v14: Turn again, O God of hosts!
+v14: God of Armies, please return!
 Look down from heaven and see;
-have regard for this vine,
-v15: the stock that your right hand planted,
-and the son whom you made strong for yourself.
+care for this vine,
+v15: the stock your right hand planted,
+the son you made strong for yourself.
+v16: It is burned with fire and cut down;
+at the rebuke of your face, they perish.
 </p>
 
 <p>
-v16: It is burned with fire, it is cut down;
-they perish at the rebuke of your face.
-v17: But let your hand be upon the man of your right hand,
-the son of man whom you have made strong for yourself.
+v17: Let your hand rest on the man at your right hand,
+the son of man you made strong for yourself.
+v18: Then we will not turn away from you.
+Give us life, and we will call on your name.
 </p>
 
 <p>
-v18: Then we will not turn back from you;
-give us life, and we will call upon your name.
-</p>
-
-<p>
-v19: Restore us, O LORD God of hosts;
-let your face shine,
-that we may be saved.
+v19: LORD, God of Armies, restore us;
+let your face shine, and we will be saved.
 </p>
 
 ## Notes
 
-v01–02: God is addressed as shepherd and king. Care and authority are held together.
+v03,07,19: The refrain's request stays the same while its address grows from “God” to “God of Armies” to “LORD, God of Armies.”
 
-v3,7,19: The repeated refrain structures the psalm. Restoration is tied to divine presence (“face shine”).
-
-v04–06: Suffering is interpreted as divine displeasure, not random misfortune.
-
-v05: “Bread of tears” intensifies the imagery of sustained grief.
-
-v08–11: Israel is portrayed as a vine—chosen, planted, and flourishing.
-
-v12–13: Destruction is framed as reversal of divine protection.
-
-v14–15: The appeal is grounded in God’s prior action (“your right hand planted”).
-
-v17: “Man of your right hand” introduces a figure of restoration, left undefined.
-
-v18: Renewal leads to renewed faithfulness.
+v05,15–17: The measure of tears is uncertain. The vine's “stock” and “son” language moves into the man at God's right hand; it can evoke Israel and its representative ruler. No later identification is inserted into the verse.
 
 ## Vocabulary
 
-v01: רֹעֶה (ro‘eh)
-“Shepherd.” One who leads and cares.
+v01: **Cherubim**: Heavenly beings associated with God's throne and sanctuary, not the winged infants of later art.
 
-v03: שׁוּב (shuv)
-“To restore” or “return.” Turn back.
-
-v04: חָרָה (charah)
-“To be angry.” Burn with anger.
-
-v08: גֶּפֶן (gefen)
-“Vine.” Cultivated plant, symbol of Israel.
-
-v12: פָּרַץ (parats)
-“To break down.” Breach or destroy.
-
-v13: חָזִיר (chazir)
-“Boar.” Wild destructive force.
-
-v14: פָּקַד (paqad)
-“To attend.” To visit or care for.
-
-v17: יָמִין (yamin)
-“Right hand.” Strength or favor.
-
-v19: יָשַׁע (yasha)
-“To save.” Deliver or rescue.
+v11: **The River**: The Euphrates, paired with the sea as a broad territorial boundary.

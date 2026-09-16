@@ -4,71 +4,76 @@ testament: OT
 chapter: 81
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-<p>
-For the director, according to the Gittith. Of Asaph.
-</p>
-
-## Sing Aloud to the God of Jacob
+## If only my people would listen
 
 <p>
-v01: Sing aloud to God our strength;
+v01: For the music leader. According to the Gittith. Of Asaph.
+Sing out to God our strength;
 shout for joy to the God of Jacob.
-v02: Raise a song; sound the tambourine,
-the sweet lyre with the harp.
-v03: Blow the horn at the new moon,
-at the full moon, for our feast day.
-v04: For this is a statute for Israel,
-an ordinance of the God of Jacob.
-v05: God established it as a testimony in Joseph
-when God went out against the land of Egypt.
-I heard a language I did not know:
+v02: Strike up a song and sound the tambourine,
+the sweet lyre together with the harp.
+v03: Blow the ram's horn at the new moon,
+at the full moon, on our festival day.
 </p>
 
-## Open Your Mouth, and I Will Fill It
+<p>
+v04: This is a statute for Israel,
+a ruling of the God of Jacob.
+v05: He established it as a testimony in Joseph
+when he went out against the land of Egypt.
+I hear a language I did not know:
+</p>
 
 <p>
-v06: “I relieved your shoulder of the burden;
-your hands were freed from the basket.
-v07: In distress you called, and I rescued you;
-I answered you from the hiding place of thunder;
-I tested you at the waters of Meribah.
-Selah.
-v08: Hear, my people, and I will warn you.
-O Israel, if only you would listen to me!
-v09: There will be no strange god among you;
-you will not bow down to a foreign god.
+v06: “I lifted the burden from his shoulder;
+his hands were freed from the basket.
+v07: You called in distress, and I rescued you.
+I answered you from thunder's hiding place;
+I tested you at the waters of Meribah. Selah.
+</p>
+
+<p>
+v08: Listen, my people, while I warn you.
+Israel, if only you would listen to me!
+v09: There must be no strange god among you;
+you must not bow down to a foreign god.
 v10: I am the LORD your God,
-who brought you up from the land of Egypt.
+who brought you up from Egypt.
 Open your mouth wide, and I will fill it.
 </p>
 
-## If Only My People Would Listen
-
 <p>
 v11: But my people did not listen to my voice;
-Israel would not yield to me.
-v12: So I gave them over to the stubbornness of their hearts,
-to walk in their own counsels.
+Israel would have none of me.
+v12: So I let them follow their stubborn hearts,
+to walk by their own plans.
+</p>
+
+<p>
 v13: If only my people would listen to me,
-if Israel would walk in my ways!
+if only Israel would walk in my ways!
 v14: I would soon subdue their enemies
 and turn my hand against their foes.
-v15: People who hate the LORD would cringe before God,
-and their time would be forever.
-v16: I would feed Israel with the finest wheat,
-and with honey from the rock I would satisfy you.”
+v15: Those who hate the LORD would cringe before him,
+and their time would last forever.
+v16: He would feed his people the finest wheat,
+and I would satisfy you with honey from the rock.”
 </p>
 
 ## Notes
 
-v05: The shift to a first-person divine voice begins in the second half of the verse. The sudden transition is part of the psalm’s rhetoric and is retained.
+v03,05: The moon term is commonly understood as full moon, but the precise festival reference is uncertain. Verse 5's going out can be read as God's action against Egypt or the people's departure. “I hear” introduces an abrupt change of voice.
+
+v15–16: “Their time” in verse 15 is not explained. Verse 16 shifts from he/him to I/you. The draft identifies the collective recipient as his people, Israel, while retaining the shift of speakers and address.
 
 ## Vocabulary
 
-v07: מְרִיבָה (Meribah)
-“Quarreling” or “contention,” the place-name associated with Israel’s testing in the wilderness.
+v01: **Gittith**: An uncertain musical designation, possibly related to Gath or an instrument.
 
-v12: שְׁרִירוּת (sherirut)
-“Stubbornness,” especially a self-directed firmness of heart that resists correction.
+v07: **Meribah**: A name associated with quarreling, recalling the wilderness dispute over water.

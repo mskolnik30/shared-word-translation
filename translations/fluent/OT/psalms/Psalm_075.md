@@ -4,84 +4,65 @@ testament: OT
 chapter: 75
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
+## The appointed time for judgment
+
 <p>
-For the leader. “Do Not Destroy.” A psalm of Asaph. A song.
+v01: For the music leader. “Do Not Destroy.” A psalm of Asaph. A song.
+We thank you, God; we thank you.
+Your name is near; people tell of your wonders.
 </p>
 
 <p>
-v01: We give thanks to you, O God;
-we give thanks, for your name is near.
-People declare your wondrous works.
-</p>
-
-<p>
-v02: “When I select the appointed time,
-I will judge with fairness.
-v03: The earth and all its inhabitants dissolve,
-but I uphold its pillars. Selah
+v02: “When I choose the appointed time,
+I will judge fairly.
+v03: When the earth and everyone in it give way,
+I am the one who holds its pillars firm. Selah.
 </p>
 
 <p>
 v04: I say to the boastful, ‘Do not boast,’
-and to the wicked, ‘Do not lift up the horn.
-v05: Do not lift up your horn on high,
-do not speak with insolent neck.’”
+and to the wicked, ‘Do not lift your horn.
+v05: Do not lift your horn on high
+or speak with your neck stiff in arrogance.’”
 </p>
 
 <p>
-v06: For neither from the east nor from the west,
-nor from the wilderness comes exaltation.
-v07: Yet God is the judge;
-he puts down one and exalts another.
+v06: For exaltation comes neither from the east nor from the west,
+nor from the wilderness.
+v07: God is the judge:
+he brings one down and raises another up.
 </p>
 
 <p>
-v08: For a cup is in the hand of the Lord,
-full of foaming wine mixed with spices,
-and he pours out from it.
-But its dregs, all the wicked of the earth
-will drink, draining it to the last drop.
+v08: The LORD holds a cup in his hand,
+full of foaming wine mixed with spices.
+He pours it out,
+and all the earth's wicked must drain it, down to the dregs.
 </p>
 
 <p>
-v09: Yet I will declare forever;
-I will sing praises to the God of Jacob.
-</p>
-
-<p>
-v10: All the horns of the wicked I will cut off,
-but the horns of the righteous will be exalted.
+v09: But I will tell of this forever;
+I will sing to the God of Jacob.
+v10: “I will cut off every horn of the wicked,
+but the horns of the righteous will be lifted high.”
 </p>
 
 ## Notes
 
-v01: The repetition of giving thanks emphasizes the community's recognition of God's proximity and continuous acts.
+v02–05,10: The first-person judgment speech is distinguished from the singer's praise. The final “I” may resume God's speech or voice a royal speaker; quotation marks are an editorial aid, not a Hebrew speaker label.
 
-v02–03: God's announcement of judgment highlights divine sovereignty over creation amid instability—a reassurance of divine order.
+v06: The final Hebrew word can be related to lifting up or read as mountains. The draft follows the raising/lowering wordplay that continues in verse 7.
 
-v04–05: Warnings to the boastful and wicked not to lift their horn—a symbol of strength or pride—serve as admonitions not to exalt themselves improperly.
-
-v06–07: Exaltation and judgment come from God alone, defying human expectations or regional powers.
-
-v08: The imagery of the cup signifies God's judgment. The robust mixed wine symbolizes the intensity of divine retribution, which the wicked must fully drink.
-
-v09–10: The psalmist's declaration of praise juxtaposes the fate of the wicked and the righteous, affirming God's ultimate justice.
+v08: The Hebrew describes wine mixed for drinking but does not name its ingredients; spices are a contextual interpretation.
 
 ## Vocabulary
 
-v03: מוֹעֵד (mo.ed) - Meaning appointed time or season, signifying a predetermined moment for God's fair judgment.
+v04–05,10: **Horn**: A visible image of strength and status, drawn from an animal's horn.
 
-v08: שֹׁפֵט (sho.phet) - Functions as a title for God, affirming God's role as the ultimate judge who decides the fate of individuals.
-
-v09: כוֹס (kos) - The cup represents God's judgment, a metaphoric vehicle for divine retribution against the wicked.
-
-v02: מוֹעֵד (moed)
-“Appointed time.” A fixed or designated time.
-
-v07: שֹׁפֵט (shophet)
-“Judge.” One who renders judgment or decides a case.
-
-v08: כוֹס (kos)
-“Cup.” In this image, the cup contains the wine of judgment to be drunk by the wicked.
+v08: **Dregs**: Sediment at the bottom of a wine cup; draining it pictures drinking judgment completely.

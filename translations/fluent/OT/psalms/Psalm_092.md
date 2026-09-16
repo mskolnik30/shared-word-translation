@@ -4,118 +4,76 @@ testament: OT
 chapter: 92
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## A Psalm for the Sabbath Day
+## A song for the Sabbath
 
 <p>
-v01: It is good to give thanks to the LORD,
-to sing praise to your name, Most High;
-
-v02: to declare your steadfast love in the morning,
-and your faithfulness by night,
-
+v01: A psalm. A song for the Sabbath day.
+It is good to thank the LORD
+and sing to your name, Most High,
+v02: to tell of your faithful love in the morning
+and your faithfulness through the nights,
 v03: with the ten-stringed instrument and the harp,
-with the melody of the lyre.
+with music resounding on the lyre.
 </p>
 
 <p>
-v04: For you, O LORD, have made me glad by your work;
-at the works of your hands I sing for joy.
-
-v05: How great are your works, O LORD!
-your thoughts are very deep.
+v04: For your work has made me glad, LORD;
+at the works of your hands I shout for joy.
+v05: How great your works are, LORD!
+How very deep your thoughts!
 </p>
 
 <p>
-v06: A dull person does not know,
-and a fool does not understand this:
-
-v07: that though the wicked sprout like grass,
-and all evildoers flourish,
-they are doomed to destruction forever;
-
-v08: but you, O LORD, are on high forever.
+v06: A senseless person does not know;
+a fool cannot understand this:
+v07: though the wicked sprout like grass
+and all who do wrong flourish,
+it is only for them to be destroyed forever.
 </p>
 
 <p>
-v09: For look, your enemies, O LORD,
-for look, your enemies will perish;
-all evildoers will be scattered.
-
-v10: But you have exalted my horn like that of a wild ox;
-you have poured over me fresh oil.
-
-v11: My eyes have seen the downfall of my enemies;
-my ears have heard the doom of the evildoers who rise against me.
+v08: But you, LORD, are exalted forever.
 </p>
 
 <p>
-v12: The righteous flourish like the palm tree,
-and grow like a cedar in Lebanon.
+v09: Look, your enemies, LORD—
+look, your enemies will perish!
+All who do wrong will be scattered.
+</p>
 
-v13: They are planted in the house of the LORD;
+<p>
+v10: You have raised my horn like a wild ox's;
+I am refreshed with fresh oil.
+v11: My eyes have looked upon those watching for my downfall;
+my ears have heard about the evildoers who rise against me.
+</p>
+
+<p>
+v12: The righteous flourish like a palm tree
+and grow tall like a cedar in Lebanon.
+v13: Planted in the LORD's house,
 they flourish in the courts of our God.
+v14: Even in old age they still bear fruit;
+they remain full of sap and green,
+</p>
 
-v14: In old age they still bear fruit;
-they are full of sap and green,
-
-v15: to declare that the LORD is upright;
-he is my rock, and there is no unrighteousness in him.
+<p>
+v15: declaring, “The LORD is upright.
+He is my rock; there is no injustice in him.”
 </p>
 
 ## Notes
 
-v01–03: Praise is structured across time (morning and night) and instrument, suggesting rhythm rather than momentary expression.
+v10–11: The oil verb is difficult and can suggest anointing or refreshing. Verse 11 does not state exactly what the eyes see and ears hear; the draft does not add delight in an enemy's death.
 
-v04–05: Joy arises not from circumstance but from recognizing the “works” and “thoughts” of the LORD, held together without explanation.
-
-v06–07: The contrast is not intellectual capacity but perception; the flourishing of the wicked is visible yet misunderstood.
-
-v07: “Sprout like grass” evokes rapid, temporary growth, implicitly contrasted with later tree imagery.
-
-v08: The psalm pivots with a simple contrast—human flourishing is temporary; the LORD’s exaltation is permanent.
-
-v09: Repetition (“behold…behold”) intensifies certainty without adding new information.
-
-v10: “Horn” signals strength and dignity; “fresh oil” suggests renewal rather than mere victory.
-
-v11: Seeing and hearing frame judgment as witnessed reality, not abstract doctrine.
-
-v12–14: The righteous are depicted as cultivated and rooted, not self-generated; longevity is marked by continued fruitfulness.
-
-v14: Old age is not decline but persistence; vitality is described without denying time.
-
-v15: The purpose of flourishing is declarative—bearing witness to the character of the LORD rather than self-display.
+v07,12–14: The wicked's quick-growing grass contrasts with enduring, fruitful palm and cedar trees, including fruit in old age.
 
 ## Vocabulary
 
-v01: טוֹב (tov)
-“Good.” Not merely pleasant, but fitting or right within God’s order.
-
-v02: חֶסֶד (chesed)
-“Steadfast love.” Covenantal loyalty expressed in enduring relationship.
-
-v02: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability or steadiness over time.
-
-v06: בַּעַר (baʿar)
-“Dull” or “brutish.” Lacking perception rather than intelligence.
-
-v07: צִיץ (tsits)
-“To sprout” or “blossom.” Suggests quick, surface-level growth.
-
-v10: קֶרֶן (qeren)
-“Horn.” Symbol of strength, honor, and vitality.
-
-v12: צַדִּיק (tsaddiq)
-“Righteous.” One aligned with God’s order and ways.
-
-v13: שָׁתַל (shatal)
-“Planted.” Indicates intentional placement rather than accidental growth.
-
-v14: דָּשֵׁן (dashen)
-“Full of sap” or “vigorous.” Conveys richness and sustained vitality.
-
-v15: צוּר (tsur)
-“Rock.” A metaphor for stability, refuge, and reliability.
+v01: **Sabbath**: The seventh-day rest; this is the only psalm whose Hebrew title names the Sabbath day.

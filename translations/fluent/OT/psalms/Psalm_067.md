@@ -4,116 +4,51 @@ testament: OT
 chapter: 67
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## Let the Nations Be Glad
+## A blessing for all nations
 
 <p>
-v01: May God be gracious to us and bless us
-
-and make his face shine upon us,
-
-v02: that your way may be known on earth,
-
-your saving power among all nations.
+v01: For the music leader. With stringed instruments. A psalm. A song.
+May God be gracious to us and bless us;
+may he make his face shine upon us. Selah.
+v02: Then your way will be known on earth,
+your salvation among all nations.
 </p>
 
 <p>
-v03: Let the peoples praise you, O God;
-
-let all the peoples praise you!
-
-v04: Let the nations be glad and sing for joy,
-
-for you judge the peoples with equity
-
-and guide the nations upon the earth.
+v03: Let the peoples thank you, God;
+let all the peoples thank you.
 </p>
 
 <p>
-v05: Let the peoples praise you, O God;
-
-let all the peoples praise you!
+v04: Let nations rejoice and sing aloud,
+for you judge peoples fairly
+and guide the nations on earth. Selah.
 </p>
 
 <p>
-v06: The earth has yielded its increase;
+v05: Let the peoples thank you, God;
+let all the peoples thank you.
+</p>
 
-God, our God, will bless us.
-
-v07: God will bless us;
-
-let all the ends of the earth fear him!
+<p>
+v06: The earth has yielded its harvest;
+may God, our God, bless us.
+v07: May God bless us,
+and may all the ends of the earth revere him.
 </p>
 
 ## Notes
 
-v01: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
+v01–02: The shining face echoes the priestly blessing in Numbers 6:24–26. Here the desired blessing opens outward toward all nations.
 
-v02: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
-
-v03–05: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
-
-v04: Divine rule is characterized by equity and guidance; governance is both just and directional.
-
-v06: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
-
-v07: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
+v06–07: The harvest has been given; the following blessing clauses can be heard as confident expectation or prayer.
 
 ## Vocabulary
 
-v01: חָנַן (ḥānan)
-
-“To be gracious.” To show favor.
-
-v01: בָּרַךְ (bāraḵ)
-
-“To bless.” To bestow benefit.
-
-v01: אוֹר (ʾôr)
-
-“To shine.” To give light.
-
-v02: דֶּרֶךְ (dereḵ)
-
-“Way.” Path, course.
-
-v02: יְשׁוּעָה (yĕšûʿāh)
-
-“Salvation.” Delivering power.
-
-v03: עַם (ʿam)
-
-“People.” Collective group.
-
-v04: שָׂמַח (śāmaḥ)
-
-“To be glad.” To rejoice.
-
-v04: רָנַן (rānan)
-
-“To sing for joy.” To shout in praise.
-
-v04: שָׁפַט (šāpaṭ)
-
-“To judge.” To govern justly.
-
-v04: מֵישָׁר (mêšār)
-
-“Equity.” Straightness, fairness.
-
-v04: נָחָה (nāḥāh)
-
-“To guide.” To lead.
-
-v06: יְבוּל (yĕḇûl)
-
-“Yield/increase.” Produce of the land.
-
-v07: יָרֵא (yārēʾ)
-
-“To fear.” Reverent awe.
-
-v07: קָצֶה (qāṣeh)
-
-“End.” Extremity, boundary.
+v03,05: **Peoples**: Distinct human communities are summoned repeatedly; the two refrains deliberately use the same words.

@@ -1,0 +1,271 @@
+{
+  "status": "PASSED",
+  "base_commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+  "new_chapters": 40,
+  "new_verses": 746,
+  "original_source_records_bound_exactly_once": 763,
+  "cumulative_coverage": {
+    "ledgers": 75,
+    "chapters": 587,
+    "verses": 15714
+  },
+  "preservation": {
+    "prior_ledgers_byte_identical": 74,
+    "prior_chapters_byte_identical": 547,
+    "historical_provenance_preserved": true,
+    "tsw_unchanged": true
+  },
+  "source_binding_audit": {
+    "status": "PASSED",
+    "errors": []
+  },
+  "public_source_offsets": {
+    "65": 1,
+    "66": 0,
+    "67": 1,
+    "68": 1,
+    "69": 1,
+    "70": 1,
+    "71": 0,
+    "72": 0,
+    "73": 0,
+    "74": 0,
+    "75": 1,
+    "76": 1,
+    "77": 1,
+    "78": 0,
+    "79": 0,
+    "80": 1,
+    "81": 1,
+    "82": 0,
+    "83": 1,
+    "84": 1,
+    "85": 1,
+    "86": 0,
+    "87": 0,
+    "88": 1,
+    "89": 1,
+    "90": 0,
+    "91": 0,
+    "92": 1,
+    "93": 0,
+    "94": 0,
+    "95": 0,
+    "96": 0,
+    "97": 0,
+    "98": 0,
+    "99": 0,
+    "100": 0,
+    "101": 0,
+    "102": 1,
+    "103": 0,
+    "104": 0
+  },
+  "first_source_reading": {
+    "original_records": 763,
+    "all_annotations_read": true
+  },
+  "tsw_comparator_verses_read_after_drafting": 746,
+  "focused_authoring_source_reread": 332,
+  "focused_assertions": {
+    "68:11": [
+      "women",
+      "army"
+    ],
+    "68:18": [
+      "received gifts",
+      "YAH"
+    ],
+    "68:23": [
+      "blood",
+      "dogs"
+    ],
+    "68:27": [
+      "Benjamin",
+      "Judah",
+      "Zebulun",
+      "Naphtali"
+    ],
+    "68:28": [
+      "Your God has commanded"
+    ],
+    "69:8": [
+      "brothers",
+      "mother’s sons"
+    ],
+    "69:26": [
+      "one you struck",
+      "those you wounded"
+    ],
+    "70:4": [
+      "Great is God"
+    ],
+    "71:20": [
+      "me see",
+      "revive me"
+    ],
+    "72:10": [
+      "Sheba",
+      "Seba"
+    ],
+    "72:20": [
+      "David son of Jesse"
+    ],
+    "73:10": [
+      "water"
+    ],
+    "73:24": [
+      "receive me with honor"
+    ],
+    "74:14": [
+      "Leviathan's heads"
+    ],
+    "77:10": [
+      "has changed"
+    ],
+    "78:20": [
+      "streams overflowed"
+    ],
+    "78:25": [
+      "mighty ones"
+    ],
+    "78:28": [
+      "his camp"
+    ],
+    "78:51": [
+      "firstborn",
+      "Ham"
+    ],
+    "78:63": [
+      "young men",
+      "young women"
+    ],
+    "78:65": [
+      "wine"
+    ],
+    "79:12": [
+      "sevenfold"
+    ],
+    "80:2": [
+      "Ephraim",
+      "Benjamin",
+      "Manasseh"
+    ],
+    "81:6": [
+      "his shoulder"
+    ],
+    "81:16": [
+      "He would",
+      "I would"
+    ],
+    "82:1": [
+      "among the gods"
+    ],
+    "82:6": [
+      "sons of the Most High"
+    ],
+    "83:11": [
+      "Oreb",
+      "Zeeb",
+      "Zebah",
+      "Zalmunna"
+    ],
+    "84:10": [
+      "thousand",
+      "threshold"
+    ],
+    "87:4": [
+      "Rahab",
+      "Babylon",
+      "Philistia",
+      "Tyre",
+      "Cush"
+    ],
+    "88:18": [
+      "darkness"
+    ],
+    "89:19": [
+      "faithful ones"
+    ],
+    "89:39": [
+      "renounced",
+      "covenant"
+    ],
+    "90:10": [
+      "seventy",
+      "eighty"
+    ],
+    "91:7": [
+      "thousand",
+      "ten thousand"
+    ],
+    "91:9": [
+      "my refuge",
+      "your dwelling"
+    ],
+    "92:3": [
+      "ten-stringed"
+    ],
+    "94:6": [
+      "kill",
+      "resident foreigner",
+      "murder"
+    ],
+    "95:10": [
+      "forty"
+    ],
+    "95:11": [
+      "never enter my rest"
+    ],
+    "97:7": [
+      "all you gods"
+    ],
+    "97:11": [
+      "sown"
+    ],
+    "99:6": [
+      "Moses and Aaron",
+      "priests",
+      "Samuel"
+    ],
+    "99:8": [
+      "forgiving",
+      "vengeance"
+    ],
+    "100:3": [
+      "we belong to him"
+    ],
+    "101:8": [
+      "destroy"
+    ],
+    "102:23": [
+      "my strength"
+    ],
+    "103:13": [
+      "father",
+      "children"
+    ],
+    "104:4": [
+      "winds his messengers"
+    ],
+    "104:26": [
+      "Leviathan",
+      "play"
+    ],
+    "104:30": [
+      "your breath"
+    ],
+    "104:35": [
+      "sinners",
+      "Praise YAH"
+    ]
+  },
+  "refrains_and_intentional_differences": "PASSED",
+  "divine_name_and_selah_counts": "PASSED; full divine name, short YAH, and Selah matched verse by verse without exceptions",
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_psalms_review": "PENDING; this is a selected forty-chapter authoring batch.",
+  "publication_allowed": false
+}

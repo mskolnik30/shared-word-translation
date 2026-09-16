@@ -4,104 +4,60 @@ testament: OT
 chapter: 85
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## Remembered Favor
+## Restore us and speak peace
+
 <p>
-v01: LORD, you were favorable to your land;
-you restored the fortunes of Jacob.
-v02: You forgave the iniquity of your people;
+v01: For the music leader. Of the sons of Korah. A psalm.
+LORD, you showed favor to your land;
+you restored Jacob's fortunes.
+v02: You lifted away your people's guilt;
 you covered all their sin. Selah.
+v03: You withdrew all your fury
+and turned away from your burning anger.
 </p>
 
 <p>
-v03: You withdrew all your wrath;
-you turned from your burning anger.
-</p>
-
-## Prayer for Renewal
-<p>
-v04: Restore us again, O God of our salvation,
-and put away your indignation toward us!
+v04: Restore us, God our savior;
+put an end to your anger toward us.
 v05: Will you be angry with us forever?
-Will you prolong your anger to all generations?
+Will your anger stretch from generation to generation?
+v06: Will you not give us life again,
+so your people can rejoice in you?
+v07: Show us your faithful love, LORD;
+grant us your salvation.
 </p>
 
 <p>
-v06: Will you not revive us again,
-that your people may rejoice in you?
-v07: Show us your steadfast love, O LORD,
-and grant us your salvation.
-</p>
-
-## Listening for God’s Answer
-<p>
-v08: Let me hear what God the LORD will speak,
-for he will speak peace to his people, to his holy ones—
+v08: Let me hear what God the LORD will say.
+He will speak peace to his people, his faithful ones—
 but let them not turn back to folly.
+v09: Surely his salvation is near those who fear him,
+so that glory may dwell in our land.
 </p>
 
 <p>
-v09: Surely his salvation is near to people who fear him,
-that glory may dwell in our land.
-</p>
-
-## The Meeting of God’s Attributes
-<p>
-v10: Steadfast love and faithfulness meet;
-righteousness and peace kiss each other.
-v11: Faithfulness springs up from the ground,
+v10: Faithful love and faithfulness meet;
+righteousness and peace kiss.
+v11: Faithfulness sprouts from the earth,
 and righteousness looks down from heaven.
-</p>
-
-<p>
 v12: The LORD will indeed give what is good,
-and our land will yield its increase.
-v13: Righteousness will go before him
-and will make a path for his steps.
+and our land will yield its harvest.
+v13: Righteousness will walk ahead of him
+and make a way for his footsteps.
 </p>
 
 ## Notes
 
-v01–03: The psalm begins with remembered restoration, grounding present hope in past action.
+v01–04: Past restoration grounds a fresh plea for restoration. Restoring fortunes can include return from captivity but is not limited to that situation.
 
-v04–07: Petition acknowledges ongoing need despite prior forgiveness.
-
-v06: Revival is communal and joy-oriented.
-
-v08: Listening becomes central. Response follows divine speech.
-
-v09: Salvation is near, but conditioned by reverence (“those who fear him”).
-
-v10–11: Abstract qualities are personified and unified, resolving tension.
-
-v12–13: Divine action results in both moral and material flourishing.
+v10–13: Love, faithfulness, righteousness, and peace act as persons. The last clause is compressed; it may describe righteousness preparing God's route or directing footsteps along the way.
 
 ## Vocabulary
 
-v01: רָצָה (ratsah)
-“To favor.” To show goodwill.
-
-v02: כָּסָה (kasah)
-“To cover.” To conceal or forgive.
-
-v04: שׁוּב (shuv)
-“To restore.” Turn back.
-
-v06: חָיָה (chayah)
-“To revive.” To give life.
-
-v07: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
-
-v10: אֱמֶת (emet)
-“Faithfulness.” Reliability or truth.
-
-v10: צֶדֶק (tsedeq)
-“Righteousness.” Right order.
-
-v10: שָׁלוֹם (shalom)
-“Peace.” Wholeness.
-
-v12: יְבוּל (yevul)
-“Yield.” Produce or increase.
+v08: **Peace**: Hebrew shalom includes wholeness and well-being, not only the absence of fighting.

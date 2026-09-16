@@ -4,241 +4,133 @@ testament: OT
 chapter: 104
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## The LORD the Creator and Sustainer
+## The earth is full of your creatures
 
 <p>
-v01: Bless the LORD, O my soul.
-O LORD my God, you are very great;
-
-you are clothed with splendor and majesty,
-v02: covering yourself with light as with a garment,
-stretching out the heavens like a tent,
-
-v03: laying the beams of his chambers on the waters,
-making the clouds his chariot,
-riding on the wings of the wind,
-
-v04: making his messengers winds,
-his ministers a flaming fire.
+v01: Bless the LORD, my whole being.
+LORD my God, you are very great,
+clothed in splendor and majesty.
+v02: You wrap yourself in light like a garment
+and stretch out the heavens like a tent curtain.
+v03: He lays the beams of his upper rooms in the waters;
+he makes clouds his chariot
+and rides on the wings of the wind.
+v04: He makes winds his messengers,
+flaming fire his ministers.
 </p>
 
 <p>
-v05: He set the earth on its foundations,
-so that it should never be moved.
-
-v06: You covered it with the deep as with a garment;
-the waters stood above the mountains.
-
+v05: He founded the earth on its supports,
+so it will never be shaken.
+v06: You covered it with the deep like a garment;
+waters stood above the mountains.
 v07: At your rebuke they fled;
-at the sound of your thunder they hurried away—
-
-v08: the mountains rose, the valleys sank down
-to the place that you appointed for them.
-
-v09: You set a boundary that they may not pass,
-so that they might not again cover the earth.
+at the sound of your thunder they hurried away.
+v08: Mountains rose and valleys sank
+to the place you had established for them.
+v09: You set a boundary they cannot cross;
+they will never return to cover the earth.
 </p>
 
 <p>
-v10: You send forth springs into the valleys;
-they flow between the mountains;
-
-v11: they give drink to every beast of the field;
-the wild donkeys quench their thirst.
-
-v12: Beside them the birds of the heavens dwell;
-they sing among the branches.
-
-v13: From your upper chambers you water the mountains;
-the earth is satisfied with the fruit of your work.
+v10: He sends springs into the ravines;
+they flow between the mountains.
+v11: They give drink to every beast of the field;
+wild donkeys quench their thirst.
+v12: Beside them the birds of the sky make their homes;
+from among the branches they sing.
+v13: He waters the mountains from his upper rooms;
+the earth is satisfied by the fruit of your work.
 </p>
 
 <p>
-v14: You cause the grass to grow for the cattle,
-and plants for the service of humankind,
-
-that he may bring forth food from the earth,
-v15: and wine to gladden the heart of man,
-oil to make his face shine,
-and bread to strengthen man’s heart.
+v14: He makes grass grow for livestock
+and plants for people to cultivate,
+bringing food out of the earth:
+v15: wine that gladdens the human heart,
+oil that makes the face shine,
+and bread that strengthens the human heart.
 </p>
 
 <p>
-v16: The trees of the LORD are watered abundantly,
+v16: The LORD's trees drink their fill,
 the cedars of Lebanon that he planted.
-
-v17: In them the birds build their nests;
-the stork has her home in the fir trees.
-
-v18: The high mountains are for the wild goats;
-the rocks are a refuge for the rock badgers.
+v17: Birds make their nests there;
+the stork makes her home in the cypresses.
+v18: The high mountains belong to the wild goats;
+the rocks provide refuge for the hyraxes.
 </p>
 
 <p>
-v19: He made the moon for appointed times;
-the sun knows its going down.
-
-v20: You make darkness, and it is night,
-when all the beasts of the forest creep out.
-
-v21: The young lions roar for their prey,
+v19: He made the moon to mark appointed times;
+the sun knows when to set.
+v20: You bring darkness, and night comes;
+all the forest animals move about in it.
+v21: Young lions roar for prey,
 seeking their food from God.
-
 v22: When the sun rises, they withdraw
 and lie down in their dens.
-
-v23: Man goes out to his work
-and to his labor until the evening.
+v23: People go out to their work,
+to their labor until evening.
 </p>
 
 <p>
-v24: O LORD, how many are your works!
-In wisdom you have made them all;
-
+v24: How many are your works, LORD!
+You made them all with wisdom;
 the earth is full of your creatures.
-
-v25: There is the sea, great and wide,
-teeming with creatures without number,
+v25: There is the sea, vast and wide,
+teeming with creatures beyond counting,
 living things both small and great.
-
-v26: There go the ships,
-and Leviathan, which you formed to play in it.
+v26: Ships travel there,
+and Leviathan, whom you formed to play in it.
 </p>
 
 <p>
-v27: These all look to you,
-to give them their food in due season.
-
-v28: When you give to them, they gather it;
-when you open your hand, they are filled with good things.
-
-v29: When you hide your face, they are dismayed;
-when you take away their breath, they die
+v27: All of them wait for you
+to give them food at the right time.
+v28: You give to them, and they gather it;
+you open your hand, and they are filled with good things.
+v29: You hide your face, and they are terrified;
+you take away their breath, and they die
 and return to their dust.
-
-v30: When you send forth your Spirit, they are created,
-and you renew the face of the ground.
+v30: You send your breath, and they are created;
+you renew the face of the ground.
 </p>
 
 <p>
-v31: May the glory of the LORD endure forever;
-may the LORD rejoice in his works,
+v31: May the LORD's glory last forever;
+may the LORD rejoice in his works—
+v32: he looks at the earth, and it trembles;
+he touches the mountains, and they smoke.
+</p>
 
-v32: who looks on the earth and it trembles,
-who touches the mountains and they smoke.
-
+<p>
 v33: I will sing to the LORD as long as I live;
-I will sing praise to my God while I have being.
-
-v34: May my meditation be pleasing to him,
-for I rejoice in the LORD.
-
-v35: Let sinners be consumed from the earth,
-and let the wicked be no more.
-
-Bless the LORD, O my soul.
-Praise the LORD.
+I will make music to my God while I have being.
+v34: May my meditation be pleasing to him;
+I will rejoice in the LORD.
+v35: May sinners vanish from the earth
+and the wicked be no more.
+Bless the LORD, my whole being.
+Praise YAH!
 </p>
 
 ## Notes
 
-v01–04: The psalm opens with clothing and architectural imagery. Creation is described as God’s dwelling and adornment, not merely his work.
+v04,08: Verse 4 may also be read “makes his messengers winds.” Verse 8 may describe mountains rising and valleys sinking, or waters going over mountains and down valleys. The draft follows the first reading in each case.
 
-v02: “Stretching out the heavens like a tent” preserves the image of ordered space rather than abstract cosmos.
+v17–18,26: Some tree identifications are uncertain. Hyraxes are small rock-dwelling mammals, not rabbits. Leviathan is playful here; the last phrase may mean that it plays in the sea or that God plays with it.
 
-v03–04: Wind, cloud, and fire are presented as instruments of divine activity, blurring the distinction between creation and servant.
-
-v05–09: The ordering of waters recalls primordial chaos. Boundaries are established through divine command rather than natural necessity.
-
-v06–08: The movement of waters is described dynamically. The sequence is not strictly linear, preserving poetic compression.
-
-v10–13: Provision is extended beyond humanity to all creatures. The ecosystem is sustained without hierarchy of concern.
-
-v14–15: Human life is situated within provision, not above it. Joy (wine), radiance (oil), and sustenance (bread) are named together.
-
-v16–18: Habitat is emphasized. Each creature is given a place suited to its life.
-
-v19–23: Time is structured through celestial bodies. Human labor is placed alongside animal rhythms rather than in opposition.
-
-v21: Even predation (“young lions”) is framed as seeking from God, preserving tension without resolution.
-
-v24–26: The sea introduces scale and mystery. Leviathan is not opposed to God but formed within God’s creative intent.
-
-v27–30: Dependence is total. Giving and withholding of breath define life and death.
-
-v29–30: Breath (life) and Spirit (renewal) are held together, linking mortality and ongoing creation.
-
-v31–32: Divine joy and power coexist. The same God who rejoices also unsettles creation.
-
-v33–34: The psalmist’s response is lifelong praise and meditation, aligning human speech with divine work.
-
-v35: The final petition introduces moral order into cosmic praise. The removal of wickedness is desired without elaboration.
-
-v35: The psalm closes as it began, with personal summons to bless the LORD, now expanded into communal praise.
+v29–30,35: Breath and spirit share the Hebrew word ruach; the draft keeps breath across death and renewed creation. The closing wish says sinners, not merely sins, should vanish, and its force is retained.
 
 ## Vocabulary
 
-v01: בָּרַךְ (barakh)
-“To bless.” To speak praise or invoke honor toward God.
+v03: **Upper rooms**: An ancient architectural image of God's dwelling above the waters.
 
-v01: הוֹד (hod)
-“Splendor” or “majesty.” Often associated with royal dignity.
-
-v02: אוֹר (ʾor)
-“Light.” A fundamental element of creation, here used as garment imagery.
-
-v02: נָטָה (natah)
-“To stretch out.” Used of extending the heavens.
-
-v08: עָלָה (ʿalah)
-“To go up” or “to ascend.” Here in architectural imagery of upper chambers.
-
-v04: מַלְאָךְ (malʾakh)
-“Messenger.” Can refer to agents, whether human or divine.
-
-v05: יָסַד (yasad)
-“To found.” Establishing a stable base.
-
-v06: תְּהוֹם (tehom)
-“The deep.” The primeval waters associated with chaos.
-
-v07: גָּעַר (gaʿar)
-“To rebuke.” Often denotes divine command over chaotic forces.
-
-v10: שָׁלַח (shalach)
-“To send.” Used of water flowing into valleys.
-
-v14: צָמַח (tsamach)
-“To cause to grow.” Divine action in sustaining vegetation.
-
-v15: יַיִן (yayin)
-“Wine.” Associated with joy and celebration.
-
-v19: מוֹעֵד (moʿed)
-“Appointed time.” Structured or sacred time.
-
-v21: דָּרַשׁ (darash)
-“To seek.” Here used of animals seeking food.
-
-v26: לִוְיָתָן (Livyatan)
-“Leviathan.” A great sea creature within God’s creation.
-
-v27: קָוָה (qavah)
-“To wait” or “to look to.” Indicates dependence.
-
-v29: רוּחַ (ruaḥ)
-“Breath” or “Spirit.” The animating force of life.
-
-v30: חָדַשׁ (ḥadash)
-“To renew.” Bringing forth newness or restoration.
-
-v31: כָּבוֹד (kavod)
-“Glory.” The weight and presence of divine majesty.
-
-v34: שִׂיחַ (siaḥ)
-“Meditation.” Reflective speech or inward thought.
-
-v35: חַטָּא (ḥattaʾ)
-“Sinner.” One who misses the mark or lives in opposition to God.
+v35: **Praise YAH**: Hebrew hallelu-yah, joining a plural call to praise with the short divine name.

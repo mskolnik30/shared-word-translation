@@ -2,237 +2,125 @@
   "book": "Psalms",
   "chapter": 79,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-65-104-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_079_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 79:1 (Hebrew; before kjv marker) + Psalms 79:1 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 1,
-            "source_ref": "Psalms 79:1 (Hebrew; before kjv marker)",
-            "segment_mode": "before_kjv_marker",
-            "sha256": "31fa7450b3f298dd6880fc79ac52e83081fcb4253fe9f955ad55e46f032acb4c"
-          },
-          {
-            "chapter": 79,
-            "verse": 1,
-            "source_ref": "Psalms 79:1 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "0646b46e6faadbd507c9d0e445783a5a6f0471a311023e6770b3815742eb09b8"
-          }
-        ],
-        "segment_mode": "before_kjv_marker+after_kjv_marker",
-        "sha256": "99224b3a61d7ae3cf9832c939de6ed4bf99bea63afd23e35bf2782aeaddf221c"
-      },
-      "2": {
-        "source_ref": "Psalms 79:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 2,
-            "source_ref": "Psalms 79:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "87d0b402beca3b2bf7d52ad4a821297f8179b8379317c59698d58c9b39092087"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "87d0b402beca3b2bf7d52ad4a821297f8179b8379317c59698d58c9b39092087"
-      },
-      "3": {
-        "source_ref": "Psalms 79:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 3,
-            "source_ref": "Psalms 79:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "474e5974cb972f1c4da9583b733990398c482c5a70de8ef60eff586bbc3c7cfb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "474e5974cb972f1c4da9583b733990398c482c5a70de8ef60eff586bbc3c7cfb"
-      },
-      "4": {
-        "source_ref": "Psalms 79:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 4,
-            "source_ref": "Psalms 79:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "ba6b9b8a1a6910bb45e47db32c9952d659fc948977566493f3ee42328c9003d6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ba6b9b8a1a6910bb45e47db32c9952d659fc948977566493f3ee42328c9003d6"
-      },
-      "5": {
-        "source_ref": "Psalms 79:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 5,
-            "source_ref": "Psalms 79:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "16fc50a20b05f1b4d02ccfcfcef97db20486e0215c0f590c72d2add529060605"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "16fc50a20b05f1b4d02ccfcfcef97db20486e0215c0f590c72d2add529060605"
-      },
-      "6": {
-        "source_ref": "Psalms 79:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 6,
-            "source_ref": "Psalms 79:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "4eb1ef390ecb7f280ee921770c37f23e676cdac6534b15f1e864253419314b00"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4eb1ef390ecb7f280ee921770c37f23e676cdac6534b15f1e864253419314b00"
-      },
-      "7": {
-        "source_ref": "Psalms 79:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 7,
-            "source_ref": "Psalms 79:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "bbbf47031f0b28c2bb73b5532bb4cda4f73cf25864832483ad64395db6e2be86"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bbbf47031f0b28c2bb73b5532bb4cda4f73cf25864832483ad64395db6e2be86"
-      },
-      "8": {
-        "source_ref": "Psalms 79:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 8,
-            "source_ref": "Psalms 79:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "c96bb6649a1dcc1d5dbf2c1466c4323235a05d3bb12ce638e13f86ddb0bee563"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c96bb6649a1dcc1d5dbf2c1466c4323235a05d3bb12ce638e13f86ddb0bee563"
-      },
-      "9": {
-        "source_ref": "Psalms 79:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 9,
-            "source_ref": "Psalms 79:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "d20517d97a6de5a7c4612b3829fce46760ba315a2f0ccacd9a1234fe936297af"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d20517d97a6de5a7c4612b3829fce46760ba315a2f0ccacd9a1234fe936297af"
-      },
-      "10": {
-        "source_ref": "Psalms 79:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 10,
-            "source_ref": "Psalms 79:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "de1987f615e9acb755a710510bd8edebb3687315cd421d10330c3044ecc5f6d9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "de1987f615e9acb755a710510bd8edebb3687315cd421d10330c3044ecc5f6d9"
-      },
-      "11": {
-        "source_ref": "Psalms 79:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 11,
-            "source_ref": "Psalms 79:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "f248c7cead761752cb9d756acaf0dd6deb60d6329ecea09e83129ac9fe2e4075"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f248c7cead761752cb9d756acaf0dd6deb60d6329ecea09e83129ac9fe2e4075"
-      },
-      "12": {
-        "source_ref": "Psalms 79:12 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 12,
-            "source_ref": "Psalms 79:12 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "8aa088b8ab8cd5107d7a11af86f3e11b24227278d0360f54212dbdd2a88ca0d9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8aa088b8ab8cd5107d7a11af86f3e11b24227278d0360f54212dbdd2a88ca0d9"
-      },
-      "13": {
-        "source_ref": "Psalms 79:13 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 79,
-            "verse": 13,
-            "source_ref": "Psalms 79:13 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b4eb31ae9011b089de450347fdc5ed164a3166b8f7b0efcdf9a75ff695cf678a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b4eb31ae9011b089de450347fdc5ed164a3166b8f7b0efcdf9a75ff695cf678a"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 79,
+    "verse_count": 13,
+    "path": "translations/fluent/OT/psalms/Psalm_079.md",
+    "before_sha256": "d167c551f26de85c47d70d8f364b8fe1a8f6e8577ddcc36cf622da8bc4ea3a70",
+    "after_sha256": "098bb50b0f30b987903832e8e9f5949ab006d8474edf5a3d3227b43aa4d6141b",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_079.md",
+    "tsw_comparator_sha256": "254b5258b0013d4162d721f12bc520bd978549edf947d45520a9bf943b2f572b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 79:1",
+      "decision": "Retains all three dimensions of invasion, desecration and destruction.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:2",
+      "decision": "Preserves the unburied bodies and physical violence.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:3",
+      "decision": "Keeps blood/water comparison and missing burial.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:8",
+      "decision": "Leaves past/ancestral wrongdoing scope open in note and preserves urgent compassion.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:9",
+      "decision": "Keeps doubled name appeal and atonement term.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:10",
+      "decision": "Preserves the requested visible vengeance and qere nations.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:11",
+      "decision": "Retains prisoner, arm and threatened lives without changing them to metaphors.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 79:12",
+      "decision": "Preserves exact sevenfold retaliation and lap image.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_079.md",
-    "blob_sha": "25e0cceb73a38212a791dad547294dcf0fec767d"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

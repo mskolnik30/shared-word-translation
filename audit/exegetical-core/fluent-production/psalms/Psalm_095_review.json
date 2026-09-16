@@ -2,200 +2,110 @@
   "book": "Psalms",
   "chapter": 95,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-65-104-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_095_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 95:1 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 1,
-            "source_ref": "Psalms 95:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "56c3d75325afd62dc21dcb2393adf9ea5a60ab8ea89143f29eda0eaec020131a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "56c3d75325afd62dc21dcb2393adf9ea5a60ab8ea89143f29eda0eaec020131a"
-      },
-      "2": {
-        "source_ref": "Psalms 95:2 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 2,
-            "source_ref": "Psalms 95:2 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "02959546601d475df5b637ed2c7b1bba87d2a51e57ddf0e0e7db8d4c245c71c7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "02959546601d475df5b637ed2c7b1bba87d2a51e57ddf0e0e7db8d4c245c71c7"
-      },
-      "3": {
-        "source_ref": "Psalms 95:3 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 3,
-            "source_ref": "Psalms 95:3 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "e30c61d41a904bc520219208932150ec8476ab254fa12ce3417b81d405493696"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e30c61d41a904bc520219208932150ec8476ab254fa12ce3417b81d405493696"
-      },
-      "4": {
-        "source_ref": "Psalms 95:4 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 4,
-            "source_ref": "Psalms 95:4 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "719f02d8f7a1974f7a7d0beba80d934307ae2a53032f23fa2a00afd05defaa76"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "719f02d8f7a1974f7a7d0beba80d934307ae2a53032f23fa2a00afd05defaa76"
-      },
-      "5": {
-        "source_ref": "Psalms 95:5 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 5,
-            "source_ref": "Psalms 95:5 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "3ccd0cbcd8950e20c6a3d1df6fe803ec84bcc6889a92cb4d831e3300d77386f8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3ccd0cbcd8950e20c6a3d1df6fe803ec84bcc6889a92cb4d831e3300d77386f8"
-      },
-      "6": {
-        "source_ref": "Psalms 95:6 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 6,
-            "source_ref": "Psalms 95:6 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b10a9b46c3b4cdef704587a4414c50621f722378b6a9b80816a9d5bc0ad7ab8e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b10a9b46c3b4cdef704587a4414c50621f722378b6a9b80816a9d5bc0ad7ab8e"
-      },
-      "7": {
-        "source_ref": "Psalms 95:7 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 7,
-            "source_ref": "Psalms 95:7 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "a96eeba370631d66013fba0a33ab63bc9d2402e04a100e7ca09529c755bb16eb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a96eeba370631d66013fba0a33ab63bc9d2402e04a100e7ca09529c755bb16eb"
-      },
-      "8": {
-        "source_ref": "Psalms 95:8 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 8,
-            "source_ref": "Psalms 95:8 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6ccafeee78adb3d7711cf3525cf1a241d39a6f617a85e013d2ce0f46f2896d9c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6ccafeee78adb3d7711cf3525cf1a241d39a6f617a85e013d2ce0f46f2896d9c"
-      },
-      "9": {
-        "source_ref": "Psalms 95:9 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 9,
-            "source_ref": "Psalms 95:9 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "6c6fa35e8815469a38b2852cd0c1dfe43c42733baf5fe1e99775851b88cc61b2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6c6fa35e8815469a38b2852cd0c1dfe43c42733baf5fe1e99775851b88cc61b2"
-      },
-      "10": {
-        "source_ref": "Psalms 95:10 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 10,
-            "source_ref": "Psalms 95:10 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "449504dcb7b8f5536c273388265cb945d7d6174a97522283d9206e2f9709d1cd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "449504dcb7b8f5536c273388265cb945d7d6174a97522283d9206e2f9709d1cd"
-      },
-      "11": {
-        "source_ref": "Psalms 95:11 (Hebrew; whole)",
-        "source_records": [
-          {
-            "chapter": 95,
-            "verse": 11,
-            "source_ref": "Psalms 95:11 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "19f777d25acf70e62fd25e1cf6f90e117bc08aad4c65a89ea3c2914893e89f65"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "19f777d25acf70e62fd25e1cf6f90e117bc08aad4c65a89ea3c2914893e89f65"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 95,
+    "verse_count": 11,
+    "path": "translations/fluent/OT/psalms/Psalm_095.md",
+    "before_sha256": "9cd642c5583d8298bf5738b404cdb8d3aae1dfc24b898002bb905898634f3f29",
+    "after_sha256": "552bd516825651fe6c4d706db077a5062382ac2cf8639856db4f4dd9a97c28b9",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_095.md",
+    "tsw_comparator_sha256": "c251c786f5ae1b72e7b2d81074d87e5ea49cc6a934b64c730988ab7b8ad46e06"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 95:3",
+      "decision": "Preserves the stated comparison and doubled greatness.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 95:7",
+      "decision": "Keeps people/flock imagery and the transition into the warning.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 95:8",
+      "decision": "Retains both place names and marks the divine voice.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 95:10",
+      "decision": "Retains exact forty and the force of divine aversion.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 95:11",
+      "decision": "Renders the oath's negative force explicitly without importing a later destination.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_095.md",
-    "blob_sha": "6bbf37bef70fd418dd9c7e8cbdfc4fe2034896be"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

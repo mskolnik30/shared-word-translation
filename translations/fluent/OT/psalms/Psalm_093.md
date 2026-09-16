@@ -4,93 +4,47 @@ testament: OT
 chapter: 93
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## The LORD Reigns
+## Mightier than the waters
 
 <p>
-v01: The LORD reigns;
-he is clothed with majesty.
-
-The LORD is clothed,
-he has girded himself with strength.
-
-Indeed, the world is established;
-it will not be moved.
-
-v02: Your throne is established from of old;
-you are from everlasting.
+v01: The LORD reigns, clothed in majesty;
+the LORD is clothed in strength and has fastened it around himself.
+The world stands firm; it cannot be shaken.
 </p>
 
 <p>
-v03: The floods have lifted up, O LORD,
-the floods have lifted up their voice;
+v02: Your throne has stood firm from long ago;
+you are from eternity.
+</p>
 
-the floods lift up their roaring.
+<p>
+v03: The rivers have risen, LORD;
+the rivers have raised their voice;
+the rivers raise their pounding waves.
+</p>
 
-v04: More than the voices of many waters,
-more than the mighty breakers of the sea,
-
+<p>
+v04: Mightier than the thunder of great waters,
+mightier than the breakers of the sea,
 the LORD on high is mighty.
 </p>
 
 <p>
-v05: Your testimonies are very sure;
-holiness befits your house, O LORD,
-for length of days.
+v05: Your testimonies are wholly trustworthy.
+Holiness adorns your house, LORD,
+for days without end.
 </p>
 
 ## Notes
 
-v01: The psalm opens with a declarative enthronement formula (“The LORD reigns”), not an argument but a proclamation.
-
-v01: Clothing imagery (“clothed with majesty,” “girded with strength”) presents kingship as both visible and active.
-
-v01: The stability of the world is linked to divine reign, not to natural permanence.
-
-v02: The throne is “established from of old,” yet God is “from everlasting.” The distinction preserves both historical imagery and divine transcendence.
-
-v03–04: The floods are personified and intensified through repetition. Their rising voice evokes chaos without narrating a specific event.
-
-v04: The comparison does not deny the power of the waters but places it within a greater hierarchy—“the LORD on high is mighty.”
-
-v05: “Testimonies” may refer to divine decrees or covenantal witness. Their reliability parallels the stability named earlier.
-
-v05: Holiness is not abstract but fitting (“befits”) to God’s house, linking divine character with sacred space.
-
-v05: “For length of days” suggests enduring order rather than a measured duration.
+v01–04: Royal clothing, earth's stability, and rising waters form a poetic portrayal of divine rule. The ancient images are not rewritten as modern scientific claims.
 
 ## Vocabulary
 
-v01: מָלַךְ (malak)
-“To reign.” Indicates active kingship, not merely title.
-
-v01: לָבֵשׁ (lavesh)
-“To clothe.” Used metaphorically for assuming visible attributes.
-
-v01: עֹז (ʿoz)
-“Strength.” Often associated with royal or divine power.
-
-v01: תֵּבֵל (tevel)
-“World.” Refers to the inhabited, ordered earth.
-
-v02: כִּסֵּא (kisseʾ)
-“Throne.” Symbol of rule and authority.
-
-v03: נָשָׂא (nasaʾ)
-“To lift up.” Repeated for emphasis, conveying rising force.
-
-v03: קוֹל (qol)
-“Voice” or “sound.” Can denote speech or natural noise such as waters.
-
-v04: אַדִּיר (addir)
-“Mighty” or “majestic.” Used of overwhelming strength or grandeur.
-
-v05: עֵדוֹת (ʿedot)
-“Testimonies.” Can refer to covenantal laws or divine witness.
-
-v05: קֹדֶשׁ (qodesh)
-“Holiness.” Denotes what is set apart, belonging properly to God.
-
-v05: אֹרֶךְ יָמִים (ʾorekh yamim)
-“Length of days.” A phrase expressing enduring duration or permanence.
+v05: **Testimonies**: God's trustworthy declarations or authoritative directions.

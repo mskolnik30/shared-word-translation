@@ -2,117 +2,100 @@
   "book": "Psalms",
   "chapter": 70,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-psalms-65-104-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "b9b77221c8025a2af40944a135fd7567f4758809",
+    "path": "audit/exegetical-core/fluent-production/psalms/Psalm_070_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Ps",
+    "book_verse_count": 2527,
+    "scope_chapters": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ps.xml",
-    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Ps.xml",
     "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Psalms 70:1 (Hebrew; whole) + Psalms 70:2 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 70,
-            "verse": 1,
-            "source_ref": "Psalms 70:1 (Hebrew; whole)",
-            "segment_mode": "whole",
-            "sha256": "b8b71e1c27f2952e00ddcdb7589f8b4e622c07a407ca9f901a56e6a1c2db3c35"
-          },
-          {
-            "chapter": 70,
-            "verse": 2,
-            "source_ref": "Psalms 70:2 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "8b8a1dac227632b5c0d82831d22a2d1c8444e351c74a7518e437909bb85bfa21"
-          }
-        ],
-        "segment_mode": "whole+after_kjv_marker",
-        "sha256": "2124643b97625eecfeb315f2bc8fb0d22d5c727e02377a3d5fc8966fdbf254c7"
-      },
-      "2": {
-        "source_ref": "Psalms 70:3 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 70,
-            "verse": 3,
-            "source_ref": "Psalms 70:3 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "13c1840d43894eaf8b423ea0fd3abe5fed4a2e8f1482413bd0dd0b3cbf4ae7f7"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "13c1840d43894eaf8b423ea0fd3abe5fed4a2e8f1482413bd0dd0b3cbf4ae7f7"
-      },
-      "3": {
-        "source_ref": "Psalms 70:4 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 70,
-            "verse": 4,
-            "source_ref": "Psalms 70:4 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "31c9bc4a35cb517a93892aa06191e0d05134433ddcfa03f3d0c33de3a056f294"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "31c9bc4a35cb517a93892aa06191e0d05134433ddcfa03f3d0c33de3a056f294"
-      },
-      "4": {
-        "source_ref": "Psalms 70:5 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 70,
-            "verse": 5,
-            "source_ref": "Psalms 70:5 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "cd3570eb5d6ff5643cc23d6ef7a98d33e5dad7aee5b6162e11bffe9e54a7935c"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "cd3570eb5d6ff5643cc23d6ef7a98d33e5dad7aee5b6162e11bffe9e54a7935c"
-      },
-      "5": {
-        "source_ref": "Psalms 70:6 (Hebrew; after kjv marker)",
-        "source_records": [
-          {
-            "chapter": 70,
-            "verse": 6,
-            "source_ref": "Psalms 70:6 (Hebrew; after kjv marker)",
-            "segment_mode": "after_kjv_marker",
-            "sha256": "9c6aa4ad65107e6f8bb6716b942e29398f8c0d9065ce5ef75fd28b59f5e131f3"
-          }
-        ],
-        "segment_mode": "after_kjv_marker",
-        "sha256": "9c6aa4ad65107e6f8bb6716b942e29398f8c0d9065ce5ef75fd28b59f5e131f3"
-      }
+    "sha256": "b33d919d39f26ede3daacfc9a06eacbab329142cde7ff41220d7a46dc3879724",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Ps.xml",
+    "verse_hash_method": "SHA-256 of exact original XML verse substrings including written/read and other notes; no normalized reconstruction.",
+    "languages": [
+      "Hebrew"
+    ],
+    "public_versification_note": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch."
+  },
+  "chapter_binding": {
+    "chapter": 70,
+    "verse_count": 5,
+    "path": "translations/fluent/OT/psalms/Psalm_070.md",
+    "before_sha256": "5522923973b717cdb73e33857cc07d8c4758594ce94830c8cae61be4c43264f6",
+    "after_sha256": "1f949c21bcf32cc19e130753dce87cb956f7614f008f80158b49b14fb3047e56",
+    "tsw_comparator_path": "books/OT/psalms/Psalm_070.md",
+    "tsw_comparator_sha256": "cd2e556c656215409053dba17cbcfbc46663952f64190da9e310949a29315841"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+  "public_versification": "All titles are inside public verse 1. Psalms 65, 67, 68, 69, 70, 75, 76, 77, 80, 81, 83, 84, 85, 88, 89, 92, 102 bind one separate title record plus Hebrew verse 2 to public verse 1; following labels are offset by one. Other selected labels match. All 763 original source records bind exactly once, including every note; no source record is partitioned in this batch.",
+  "key_decisions": [
+    {
+      "reference": "Psalms 70:1",
+      "decision": "Title included and compressed first clause supplied come.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 70:4",
+      "decision": "God name kept distinct from parallel Psalm 40 LORD.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Psalms 70:5",
+      "decision": "Keep urgent address and both divine names.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/psalms/Psalm_070.md",
-    "blob_sha": "b1ac9d6938aa1273c98569248f99c772de88f728"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

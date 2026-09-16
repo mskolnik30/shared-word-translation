@@ -371,11 +371,16 @@
       "scope": "Psalms 25–64",
       "verses": 609,
       "ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json"
+    },
+    {
+      "scope": "Psalms 65–104",
+      "verses": 746,
+      "ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Psalms 65–104",
+      "scope": "Psalms 105–144",
       "action": "Continue a forty-chapter target, reading every pinned Hebrew record and annotation before drafting. Preserve titles, poetry, communal history, difficult prayers, and source/public versification. TSW remains comparator only."
     },
     {
@@ -463,7 +468,7 @@
       "qualification": "All 85 English verses and apparatus read as a complete book; 22 selected Hebrew records reread after first complete source reading. Authoring self-check only; independent editorial review and reader testing pending."
     }
   ],
-  "batch_preference": "Matt requests forty chapters where careful source work permits. This batch drafts Psalms 25–64: 40 chapters and 609 public verses. Independent editorial review and reader testing remain pending.",
+  "batch_preference": "Matt authorizes successive forty-chapter blocks without routine approval pauses, with all source and QA standards retained. This batch drafts Psalms 65–104: 40 chapters and 746 public verses. Independent editorial review and reader testing remain pending.",
   "completed_authoring_consistency_reviews": [
     {
       "scope": "Esther 1–10",

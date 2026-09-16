@@ -4,148 +4,95 @@ testament: OT
 chapter: 103
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-psalms-65-104-biblical-fluency-2026-09-16
 ---
 
-## Bless the LORD, O My Soul
+## Bless the LORD, my whole being
+
 <p>
-v01: Bless the LORD, O my soul,
-and all that is within me, bless his holy name!
-v02: Bless the LORD, O my soul,
-and do not forget all his benefits,
+v01: Of David.
+Bless the LORD, my whole being;
+everything within me, bless his holy name.
+v02: Bless the LORD, my whole being,
+and do not forget any of his benefits:
 </p>
 
 <p>
-v03: who forgives all your iniquity,
-who heals all your diseases,
-v04: who redeems your life from the pit,
-who crowns you with steadfast love and compassion,
+v03: he forgives all your wrongdoing
+and heals all your diseases;
+v04: he redeems your life from the pit
+and crowns you with faithful love and compassion;
+v05: he satisfies your life with good things,
+so your youth is renewed like an eagle's.
 </p>
 
 <p>
-v05: who satisfies you with good
-so that your youth is renewed like the eagle’s.
-</p>
-
-## The LORD’s Compassion
-<p>
-v06: The LORD works righteousness
-and justice for everyone who are oppressed.
-v07: He revealed his ways to Moses,
-his acts to the children of Israel.
+v06: The LORD works acts of righteousness
+and brings justice to all who are oppressed.
+v07: He made his ways known to Moses,
+his deeds to the people of Israel.
+v08: The LORD is compassionate and gracious,
+slow to anger and rich in faithful love.
 </p>
 
 <p>
-v08: The LORD is merciful and gracious,
-slow to anger and abounding in steadfast love.
-v09: He will not always accuse,
-nor will he keep his anger forever.
+v09: He will not always bring charges
+or hold on to anger forever.
+v10: He has not treated us as our sins deserve
+or repaid us according to our wrongs.
 </p>
 
 <p>
-v10: He does not deal with us according to our sins,
-nor repay us according to our iniquities.
-v11: For as high as the heavens are above the earth,
-so great is his steadfast love toward people who fear him;
-</p>
-
-<p>
-v12: as far as the east is from the west,
-so far he removes our transgressions from us.
-v13: As a father shows compassion to his children,
-so the LORD shows compassion to people who fear him.
-</p>
-
-<p>
-v14: For he knows our frame;
+v11: As high as the heavens stand above the earth,
+so mighty is his faithful love toward those who fear him.
+v12: As far as east is from west,
+so far has he removed our rebellions from us.
+v13: As a father has compassion on his children,
+so the LORD has compassion on those who fear him.
+v14: For he knows how we are formed;
 he remembers that we are dust.
 </p>
 
-## Human Frailty and Divine Faithfulness
 <p>
-v15: As for humanity—his days are like grass;
-he flourishes like a flower of the field;
-v16: for the wind passes over it, and it is gone,
-and its place knows it no more.
+v15: Human days are like grass;
+we bloom like a flower in the field.
+v16: A wind passes over it, and it is gone;
+its place knows it no more.
 </p>
 
 <p>
-v17: But the steadfast love of the LORD
-is from everlasting to everlasting on people who fear him,
-and his righteousness to children’s children,
-v18: to people who keep his covenant
-and remember to do his commandments.
-</p>
-
-## The LORD’s Universal Reign
-<p>
-v19: The LORD has established his throne in the heavens,
-and his kingdom rules over all.
+v17: But the LORD's faithful love is from eternity to eternity
+toward those who fear him,
+and his righteousness reaches their children's children,
+v18: those who keep his covenant
+and remember his instructions by doing them.
 </p>
 
 <p>
-v20: Bless the LORD, O you his angels,
-you mighty ones who do his word,
-obeying the voice of his word!
-v21: Bless the LORD, all his hosts,
-his ministers, who do his will!
+v19: The LORD has established his throne in heaven;
+his kingdom rules over everything.
 </p>
 
 <p>
+v20: Bless the LORD, you his angels,
+mighty in strength, who carry out his word
+and listen to the voice of his word.
+v21: Bless the LORD, all his armies,
+his ministers who do his will.
 v22: Bless the LORD, all his works,
-in all places of his dominion.
-Bless the LORD, O my soul!
+in every place where he rules.
+Bless the LORD, my whole being.
 </p>
 
 ## Notes
 
-v01–02: The psalm begins with self-exhortation. Memory is central to praise.
+v01–05: The speaker addresses the whole self, grammatically feminine in Hebrew, not a separate female person. The word rendered life in verse 5 is difficult; alternatives include desire, years, or adornment.
 
-v03–05: God’s benefits are comprehensive—spiritual, physical, existential.
-
-v06–07: God’s justice is relational, especially toward the oppressed.
-
-v08–10: Divine mercy is emphasized over judgment.
-
-v11–12: Spatial metaphors express immeasurable forgiveness.
-
-v13–14: Compassion is grounded in God’s knowledge of human fragility.
-
-v15–16: Human life is fleeting and easily erased.
-
-v17–18: Covenant loyalty extends across generations.
-
-v19: Divine rule is universal and unchallenged.
-
-v20–22: Praise expands from the individual to all creation.
+v03,14–18: The praise says God heals all diseases and also dwells on human frailty and mortality. Both claims are retained in the poem's own sequence.
 
 ## Vocabulary
 
-v01: בָּרַךְ (barakh)
-“To bless.” To praise or honor.
-
-v03: סָלַח (salach)
-“To forgive.” To pardon.
-
-v04: גָּאַל (ga’al)
-“To redeem.” To rescue.
-
-v04: עֲטָרָה (atarah)
-“To crown.” To surround with honor.
-
-v08: רַחוּם (rachum)
-“Merciful.” Compassionate.
-
-v11: גָּבַהּ (gavah)
-“To be high.” Exalted measure.
-
-v12: רָחַק (rachak)
-“To remove.” Put far away.
-
-v14: יֵצֶר (yetser)
-“Frame.” Form or constitution.
-
-v17: עוֹלָם (olam)
-“Everlasting.” Unbounded time.
-
-v19: כִּסֵּא (kisse)
-“Throne.” Seat of rule.
+v04: **Redeems**: Recovers or frees a life from the pit; the verb draws on the action of a redeemer.

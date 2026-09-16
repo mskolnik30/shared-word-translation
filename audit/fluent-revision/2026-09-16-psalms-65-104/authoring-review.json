@@ -1,0 +1,61 @@
+{
+  "scope": "Psalms 65–104",
+  "authoring_status": "DRAFT_COMPLETED",
+  "source_records_read": 763,
+  "public_verses": 746,
+  "all_original_annotations_read": true,
+  "method": "Every selected pinned Hebrew verse and annotation read before drafting; individual English lines and rationales composed from the Hebrew. All 746 TSW comparator verses read afterward. No synonym replacement engine or overlap quota.",
+  "focused_reread": {
+    "count": 332,
+    "selection_file": "focused-selection.json",
+    "evidence_file": "focused-comparisons.json",
+    "status": "AUTHORING_REREAD_COMPLETED",
+    "qualification": "Reread by the drafting agent, not independent scholarly review."
+  },
+  "post_reread_adjustments": [
+    {
+      "reference": "65:13",
+      "decision": "Removed unsupported to-one-another from the shout; retained yes/also singing."
+    },
+    {
+      "reference": "68:23",
+      "decision": "Clarified the foot crushing enemies in blood; kept the pinned crush verb and the textual note."
+    },
+    {
+      "reference": "72:3",
+      "decision": "Made the relation of righteousness to the hills bringing peace explicit rather than dropping the preposition."
+    },
+    {
+      "reference": "76:5",
+      "decision": "Stripped bare avoids unnecessarily identifying what was taken as previously won spoils."
+    },
+    {
+      "reference": "81:16",
+      "decision": "Made collective Israel explicit as his people while preserving he-to-I and people-to-you changes."
+    },
+    {
+      "reference": "87:1",
+      "decision": "Supplied the city from the immediate Zion context to make the abrupt foundation clause intelligible."
+    },
+    {
+      "reference": "90:10",
+      "decision": "Rendered the years pride as what they boast of for clearer English."
+    }
+  ],
+  "priority_findings": [
+    "Complete title binding in 17 psalms; all other public labels match source labels. No source record partitioned.",
+    "YAH remains distinct from the full divine name; Lord plus LORD retained where both occur.",
+    "Psalm 68 preserves women heralds, received gifts, difficult victory imagery, and relevant textual alternatives.",
+    "Psalm 78 keeps its own history sequence, concrete violence, and memory-to-instruction structure.",
+    "Psalms 82 and 89 retain divine council language; Psalm 88 retains its dark ending.",
+    "Psalm 80 repeated refrain expands the divine address; Psalms 96 and 98 preserve their different endings.",
+    "Psalm 100:3 follows the qere and documents the written reading.",
+    "Psalm 104 preserves nonhuman life, predation, breath/spirit ambiguity, playful Leviathan and the severe final petition."
+  ],
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_review": "PENDING",
+  "publication_allowed": false,
+  "companion_impact": "Psalms 65–104 quotations and bindings need later reconciliation; Companion was not modified.",
+  "continuation_authorization": "Successive forty-chapter blocks authorized without routine approval pauses; source and QA standards unchanged."
+}
