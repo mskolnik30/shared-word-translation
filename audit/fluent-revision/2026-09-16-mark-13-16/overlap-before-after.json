@@ -1,0 +1,1244 @@
+{
+  "scope": "Mark 13–16",
+  "verses": 175,
+  "summary": {
+    "before": {
+      "identical": 2,
+      "near_identical_nonidentical": 33,
+      "mean_word_similarity": 0.781391
+    },
+    "after": {
+      "identical": 2,
+      "near_identical_nonidentical": 22,
+      "mean_word_similarity": 0.761853
+    }
+  },
+  "rows": [
+    {
+      "reference": "Mark 13:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Mark 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Mark 13:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Mark 13:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Mark 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Mark 13:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.978723
+    },
+    {
+      "reference": "Mark 13:8",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.90566,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Mark 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.861538,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "Mark 13:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Mark 13:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.794872
+    },
+    {
+      "reference": "Mark 13:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.93617
+    },
+    {
+      "reference": "Mark 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Mark 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Mark 13:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Mark 13:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 13:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Mark 13:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 13:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Mark 13:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Mark 13:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Mark 13:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Mark 13:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Mark 13:24",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Mark 13:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 13:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Mark 13:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Mark 13:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.653061,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Mark 13:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Mark 13:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Mark 13:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Mark 13:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Mark 13:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 13:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745763,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Mark 13:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.766667
+    },
+    {
+      "reference": "Mark 13:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Mark 13:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Mark 14:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.580645,
+      "after_similarity": 0.491803
+    },
+    {
+      "reference": "Mark 14:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Mark 14:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.698795,
+      "after_similarity": 0.650602
+    },
+    {
+      "reference": "Mark 14:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.333333,
+      "after_similarity": 0.413793
+    },
+    {
+      "reference": "Mark 14:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Mark 14:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Mark 14:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 14:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Mark 14:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.943396
+    },
+    {
+      "reference": "Mark 14:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Mark 14:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.470588,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Mark 14:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Mark 14:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90566,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Mark 14:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.945455
+    },
+    {
+      "reference": "Mark 14:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Mark 14:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Mark 14:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Mark 14:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Mark 14:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Mark 14:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Mark 14:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Mark 14:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "Mark 14:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Mark 14:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Mark 14:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862069,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Mark 14:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Mark 14:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.938776,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Mark 14:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Mark 14:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Mark 14:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Mark 14:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Mark 14:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Mark 14:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Mark 14:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Mark 14:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Mark 14:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.68,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Mark 14:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Mark 14:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Mark 14:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Mark 14:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Mark 14:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.852941,
+      "after_similarity": 0.885714
+    },
+    {
+      "reference": "Mark 14:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Mark 14:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.754098,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Mark 14:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Mark 14:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Mark 14:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 14:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Mark 14:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 14:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Mark 14:50",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.333333,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Mark 14:51",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Mark 14:52",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 14:53",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Mark 14:54",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Mark 14:55",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Mark 14:56",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Mark 14:57",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Mark 14:58",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Mark 14:59",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.333333,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Mark 14:60",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 14:61",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Mark 14:62",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.943396
+    },
+    {
+      "reference": "Mark 14:63",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Mark 14:64",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Mark 14:65",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Mark 14:66",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Mark 14:67",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Mark 14:68",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Mark 14:69",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Mark 14:70",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Mark 14:71",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Mark 14:72",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.852941,
+      "after_similarity": 0.776119
+    },
+    {
+      "reference": "Mark 15:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793651,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Mark 15:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Mark 15:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Mark 15:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Mark 15:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Mark 15:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Mark 15:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Mark 15:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.647059,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Mark 15:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 15:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Mark 15:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Mark 15:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.622222,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Mark 15:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Mark 15:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.628571,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Mark 15:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Mark 15:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Mark 15:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Mark 15:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Mark 15:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.578947,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Mark 15:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Mark 15:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Mark 15:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Mark 15:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Mark 15:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.529412,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Mark 15:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Mark 15:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Mark 15:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Mark 15:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Mark 15:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Mark 15:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.511628,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Mark 15:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.872727,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Mark 15:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Mark 15:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Mark 15:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.518519,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Mark 15:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.84375
+    },
+    {
+      "reference": "Mark 15:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Mark 15:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Mark 15:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Mark 15:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 15:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Mark 15:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Mark 15:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.677966,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Mark 15:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.608696,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Mark 15:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.538462,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Mark 15:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.767123,
+      "after_similarity": 0.704225
+    },
+    {
+      "reference": "Mark 15:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Mark 16:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Mark 16:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.702703,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Mark 16:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Mark 16:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Mark 16:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Mark 16:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.835821,
+      "after_similarity": 0.835821
+    },
+    {
+      "reference": "Mark 16:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Mark 16:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Mark 16:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Mark 16:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Mark 16:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Mark 16:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Mark 16:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Mark 16:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.873239,
+      "after_similarity": 0.84058
+    },
+    {
+      "reference": "Mark 16:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "Mark 16:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Mark 16:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "Mark 16:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.885246,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Mark 16:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Mark 16:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

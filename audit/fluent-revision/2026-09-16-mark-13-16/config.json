@@ -1,0 +1,111 @@
+{
+  "parent_commit": "2fa55910a51bdb1afb74a55d6eda2a3c383f2341",
+  "parent_library_version": 83,
+  "book": "Mark",
+  "slug": "mark",
+  "chapters": [13, 14, 15, 16],
+  "scope": "Mark 13–16",
+  "expected_verses": 175,
+  "source_filename": "mark-pinned-greek.txt",
+  "source_template_ledger": "audit/fluent-revision/2026-09-16-mark-9-12/mark-verse-review.json",
+  "next_scope": "Luke 1–24; John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–16",
+  "source_omissions": {"15": [28]},
+  "heading_overrides": {
+    "The Fig Tree and the Unknown Hour": "The Fig Tree and the Need to Stay Awake"
+  },
+  "f3": [
+    "13:6", "13:8", "13:10", "13:14", "13:19", "13:20", "13:21", "13:22", "13:25", "13:27", "13:29", "13:30", "13:32", "13:34", "13:35", "13:37",
+    "14:3", "14:5", "14:6", "14:7", "14:8", "14:9", "14:14", "14:18", "14:20", "14:21", "14:22", "14:24", "14:25", "14:27", "14:30", "14:31", "14:33", "14:34", "14:35", "14:36", "14:38", "14:41", "14:44", "14:45", "14:47", "14:49", "14:51", "14:52", "14:58", "14:61", "14:62", "14:65", "14:68", "14:70", "14:71", "14:72",
+    "15:2", "15:7", "15:15", "15:16", "15:19", "15:21", "15:23", "15:25", "15:27", "15:29", "15:32", "15:33", "15:34", "15:35", "15:36", "15:37", "15:38", "15:39", "15:40", "15:41", "15:42", "15:43", "15:44", "15:45", "15:47",
+    "16:1", "16:2", "16:4", "16:5", "16:6", "16:7", "16:8", "16:9", "16:12", "16:14", "16:16", "16:17", "16:18", "16:19", "16:20"
+  ],
+  "focused_extra_references": [
+    "13:1", "13:2", "13:3", "13:4", "13:5", "13:7", "13:9", "13:11", "13:12", "13:13", "13:15", "13:16", "13:17", "13:18", "13:23", "13:24", "13:26", "13:28", "13:31", "13:33", "13:36",
+    "14:1", "14:2", "14:4", "14:10", "14:11", "14:12", "14:13", "14:15", "14:16", "14:17", "14:19", "14:23", "14:26", "14:28", "14:29", "14:32", "14:37", "14:39", "14:40", "14:42", "14:43", "14:46", "14:48", "14:50", "14:53", "14:54", "14:55", "14:56", "14:57", "14:59", "14:60", "14:63", "14:64", "14:66", "14:67", "14:69",
+    "15:1", "15:3", "15:4", "15:5", "15:6", "15:8", "15:9", "15:10", "15:11", "15:12", "15:13", "15:14", "15:17", "15:18", "15:20", "15:22", "15:24", "15:26", "15:30", "15:31", "15:46",
+    "16:3", "16:10", "16:11", "16:13", "16:15"
+  ],
+  "apparatus": {
+    "13": {
+      "notes": [
+        ["06", "The claim is literally ‘I am.’ In this context it is rendered ‘I am he,’ the claim of false figures who come in Jesus’ name."],
+        ["07–08", "Wars, earthquakes, and famines are not called the end. They are ‘the beginning of birth pains.’"],
+        ["14", "‘Abomination of desolation’ echoes Daniel. The Greek has a masculine participle, ‘standing,’ and leaves the forbidden location indirect. ‘Let the reader understand’ interrupts the reported speech."],
+        ["20", "‘No one would survive’ is literally ‘no flesh would be saved.’ The verse repeats the related words ‘chosen’ and ‘chose.’"],
+        ["29", "The Greek does not state whether ‘he’ or ‘it’ is near. ‘It is near’ preserves the open referent."],
+        ["30", "‘This generation’ is retained without choosing among competing chronological and theological interpretations."],
+        ["32", "The Greek explicitly includes ‘nor the Son’ among those who do not know the day or hour."],
+        ["34–37", "Two related verbs urge alertness and staying awake. The four times in verse 35 correspond to successive watches of the night."]
+      ],
+      "vocabulary": [
+        ["09", "παραδίδωμι (paradidōmi)", "Hand over, deliver, or betray; the passion verb is applied here to Jesus’ followers."],
+        ["14", "βδέλυγμα τῆς ἐρημώσεως (bdelygma tēs erēmōseōs)", "Abomination of desolation, a scriptural image of desecration."],
+        ["19", "θλῖψις (thlipsis)", "Distress, affliction, or tribulation."],
+        ["20", "ἐκλεκτός (eklektos)", "Chosen or elect."],
+        ["33", "καιρός (kairos)", "The appointed or decisive time."],
+        ["34", "δοῦλος (doulos)", "Slave; here each receives authority and assigned work."]
+      ]
+    },
+    "14": {
+      "notes": [
+        ["03", "The adjective describing the nard can mean ‘pure’ or ‘genuine’; its exact nuance is uncertain. The perfume is explicitly very expensive."],
+        ["07", "The sentence says that the poor remain present and can be helped whenever the hearers choose. Its immediate contrast concerns Jesus’ approaching death."],
+        ["24", "The Greek text followed here says ‘my blood of the covenant,’ without the expanded word ‘new.’"],
+        ["30, 68, 72", "The Greek text followed here includes two rooster crowings. Other manuscript traditions vary in these details."],
+        ["36", "‘Abba’ is an Aramaic address retained alongside its Greek equivalent, ‘Father.’ Jesus’ desire and his submission are both stated."],
+        ["41", "The word rendered ‘Enough!’ is difficult and has been understood in several ways. Here it marks the transition to the arrived hour and betrayer."],
+        ["47", "The assailant is unnamed, the injured person is the high priest’s slave, and the object cut off is his ear. Details from other Gospel accounts are not added."],
+        ["62", "‘Power’ is a reverential way of referring to God. The answer joins the Son of Man’s enthronement with coming in heaven’s clouds."],
+        ["72", "The final verb is difficult. ‘He broke down and wept’ represents Peter’s collapse into weeping without claiming certainty about the verb’s every nuance."]
+      ],
+      "vocabulary": [
+        ["03", "μύρον (myron)", "Perfume or ointment."],
+        ["10", "παραδίδωμι (paradidōmi)", "Hand over, deliver, or betray; repeated through the chapter."],
+        ["24", "διαθήκη (diathēkē)", "Covenant."],
+        ["27", "σκανδαλίζω (skandalizō)", "Cause to stumble or fall away."],
+        ["34", "περίλυπος (perilypos)", "Overwhelmed or surrounded by sorrow."],
+        ["38", "πειρασμός (peirasmos)", "Testing, trial, or temptation."],
+        ["51", "σινδών (sindōn)", "Linen cloth."]
+      ]
+    },
+    "15": {
+      "notes": [
+        ["02", "‘You say so’ is an indirect reply. It is not expanded into either a straightforward denial or a simple affirmative."],
+        ["15", "Flogging was severe Roman violence preceding crucifixion. The concise narrative wording does not lessen the harm."],
+        ["25, 33–34", "The third, sixth, and ninth hours correspond roughly to nine in the morning, noon, and three in the afternoon."],
+        ["28", "Verse 28 is absent from the Greek text followed here. The numbering gap is retained."],
+        ["34", "Mark preserves Jesus’ Aramaic cry and then translates it. Both are retained."],
+        ["39", "The centurion’s confession lacks the Greek article before ‘God’s Son.’ The main text uses natural English without deciding whether his words express a full later Christian confession."],
+        ["40–41", "The women are named as witnesses and described with the same actions of following and serving that characterize discipleship."],
+        ["42", "Mark explains Preparation Day as the day before the Sabbath."],
+        ["45", "The Greek shifts from ‘body’ in Joseph’s request to the stark word ‘corpse’ when Pilate grants it."]
+      ],
+      "vocabulary": [
+        ["07", "στάσις (stasis)", "Uprising, revolt, or insurrection."],
+        ["15", "φραγελλόω (phragelloō)", "Flog or scourge."],
+        ["21", "ἀγγαρεύω (angareuō)", "Compel someone into service."],
+        ["29", "βλασφημέω (blasphēmeō)", "Revile, slander, or blaspheme."],
+        ["37", "ἐκπνέω (ekpneō)", "Breathe out or expire."],
+        ["39", "κεντυρίων (kentyriōn)", "Centurion, a Roman military officer."]
+      ]
+    },
+    "16": {
+      "notes": [
+        ["08", "The continuous main text followed here ends with trembling, astonishment, fear, and silence. The exact source record also preserves a bracketed shorter ending: ‘They briefly reported everything they had been told to those around Peter. Afterward Jesus himself sent out through them, from east to west, the sacred and imperishable proclamation of eternal salvation. Amen.’ This shorter ending is an alternative ancient textual tradition, not a continuation treated as identical to verses 1–8."],
+        ["09–20", "These verses are preserved in the source inside brackets as the longer ending. They are absent from important early witnesses and differ in style from 1:1–16:8, yet they are ancient and influential. The separate heading distinguishes their textual status without suppressing them."],
+        ["16", "Belief and baptism appear together in the positive statement; the negative statement names unbelief as the ground of condemnation."],
+        ["17–18", "The signs belong to the longer ending’s textual tradition. These statements are not commands to handle snakes, ingest poison, or test God."],
+        ["19–20", "The longer ending closes with Jesus’ exaltation, worldwide proclamation, the Lord’s continuing work, and confirming signs."]
+      ],
+      "vocabulary": [
+        ["05", "νεανίσκος (neaniskos)", "Young man; Mark does not call the figure an angel here."],
+        ["06", "ἐγείρω (egeirō)", "Raise; here passive, ‘he has been raised.’"],
+        ["08", "ἔκστασις (ekstasis)", "Astonishment, amazement, or displacement from ordinary composure."],
+        ["14", "σκληροκαρδία (sklērokardia)", "Hardness of heart."],
+        ["15", "κτίσις (ktisis)", "Creation or created order."],
+        ["19", "ἀναλαμβάνω (analambanō)", "Take up; here used of Jesus being taken into heaven."]
+      ]
+    }
+  }
+}
