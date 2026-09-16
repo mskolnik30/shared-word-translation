@@ -1,0 +1,99 @@
+{
+  "parent_commit": "3512d16310a79f3c2faeca187063cd3a8d4ccf51",
+  "parent_library_version": 81,
+  "book": "Mark",
+  "slug": "mark",
+  "chapters": [4, 5, 6, 7, 8],
+  "scope": "Mark 4–8",
+  "expected_verses": 214,
+  "source_filename": "mark-pinned-greek.txt",
+  "source_template_ledger": "audit/fluent-revision/2026-09-16-mark-1-3/mark-verse-review.json",
+  "next_scope": "Mark 9–16; Luke 1–24; John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–8",
+  "source_omissions": {"7": [16]},
+  "heading_overrides": {"A Deaf Man Is Opened": "A Deaf Man Hears and Speaks Clearly", "Peter Confesses Jesus as the Christ": "Peter Confesses Jesus as the Messiah"},
+  "f3": ["4:11", "4:12", "4:22", "4:31", "5:1", "5:7", "5:9", "5:10", "5:15", "5:23", "5:28", "5:34", "5:36", "5:39", "6:3", "6:5", "6:8", "6:9", "6:11", "6:14", "6:20", "6:22", "6:48", "6:50", "6:52", "6:56", "7:3", "7:4", "7:19", "7:22", "7:26", "7:27", "7:28", "8:12", "8:23", "8:24", "8:25", "8:31", "8:34", "8:35", "8:36", "8:37", "8:38"],
+  "apparatus": {
+    "4": {
+      "notes": [
+        ["11–12", "The quotation echoes Isaiah 6:9–10. The Greek connects the parables with not perceiving and not turning back. ‘So that’ and ‘lest’ retain the difficult wording; the relation of purpose and result remains a matter for interpretation."],
+        ["31", "The Greek says ‘smallest of all the seeds on earth.’ This translation retains the saying’s superlative rather than adding ‘among’ or limiting it to seeds a particular farmer used."]
+      ],
+      "vocabulary": [
+        ["11", "μυστήριον (mystērion)", "Mystery or secret; here something given to the hearers."],
+        ["14", "λόγος (logos)", "Word or message; repeated throughout the explanation of the sower."],
+        ["21", "μόδιος (modios)", "A container used for measuring grain, here placed over a lamp."],
+        ["28", "αὐτομάτη (automatē)", "On its own, without the sower directing the growth."],
+        ["40", "πίστις (pistis)", "Faith or trust."]
+      ]
+    },
+    "5": {
+      "notes": [
+        ["09–10", "The reply shifts from ‘my’ to ‘we,’ and the next sentence has one speaker pleading for ‘them.’ These shifts are retained."],
+        ["15", "‘Possessed by demons’ translates the narrator’s description. It is not a modern medical diagnosis."],
+        ["23, 28, 34", "The same Greek verb can mean ‘save’ or ‘heal.’ The immediate setting concerns bodily healing; the wider sense of rescue is not excluded."],
+        ["36", "The verb rendered ‘overheard’ can also mean ‘disregarded.’ Either reading has Jesus responding to the report of the girl’s death."],
+        ["41", "‘Talitha koum’ is an Aramaic expression retained in the Greek narrative, which then gives its meaning."]
+      ],
+      "vocabulary": [
+        ["02", "πνεῦμα ἀκάθαρτον (pneuma akatharton)", "Unclean spirit."],
+        ["09", "λεγιών (legiōn)", "Legion, a large Roman military unit; the name here is explained by ‘we are many.’"],
+        ["20", "Δεκάπολις (Dekapolis)", "Decapolis, literally ‘Ten Cities,’ the name of a region."],
+        ["34", "σῴζω (sōzō)", "Save, rescue, or heal; here ‘has made you well.’"],
+        ["36", "πιστεύω (pisteuō)", "Believe or trust; related to ‘faith’ in verse 34."]
+      ]
+    },
+    "7": {
+      "notes": [
+        ["03", "‘In the prescribed way’ renders an uncertain expression, literally ‘with the fist.’ It may describe how the hands were washed; ‘carefully’ is another interpretation. The exact gesture is uncertain."],
+        ["03–04", "These verses are the narrator’s explanation of the customs at issue. The broad phrase ‘all the Jews’ is retained as part of that description, not expanded into a claim about every Jewish community in every period."],
+        ["16", "Verse 16 is absent from the Greek text followed here. The numbering gap is retained."],
+        ["19", "The closing words are literally ‘cleansing all foods.’ The masculine participle is taken here as a comment about Jesus and his teaching. Another interpretation connects it with the process of digestion and elimination."],
+        ["22", "‘Envy’ renders the expression ‘evil eye,’ which can suggest a begrudging or ungenerous attitude."],
+        ["26", "‘Gentile’ is literally ‘Greek’ here, in contrast to Jewish identity. ‘Syrophoenician by birth’ gives the woman’s more specific background."],
+        ["27–28", "The word for ‘dogs’ is a diminutive that can refer to small or household dogs. This does not remove the contrast between children and dogs in the exchange. ‘Lord’ can also be a respectful address, ‘Sir.’"]
+      ],
+      "vocabulary": [
+        ["02", "κοινός (koinos)", "Common or defiled; here contrasted with hands washed according to the tradition."],
+        ["03", "παράδοσις (paradosis)", "Tradition, something handed down."],
+        ["11", "Κορβᾶν (Korban)", "Corban, a gift dedicated to God; the designation here affects what can be given to a parent."],
+        ["32", "μογιλάλος (mogilalos)", "Having difficulty speaking."],
+        ["34", "Εφφαθα (Ephphatha)", "An Aramaic command, explained in the narrative as ‘Be opened.’"]
+      ]
+    },
+    "8": {
+      "notes": [
+        ["08, 19–20", "Mark uses two words for baskets. The larger baskets in this feeding and verse 20 translate spyris; the baskets in verse 19 and the earlier feeding translate kophinos."],
+        ["12", "The Greek uses a shortened oath formula, literally ‘if a sign will be given.’ Here it expresses a firm refusal, not uncertainty about whether a sign will come."],
+        ["23–25", "The man’s sight returns in two stages. His first report and Jesus’ second touch are both retained."],
+        ["31", "‘Must’ preserves the stated necessity without explaining its basis. ‘After three days’ follows Mark’s wording here."],
+        ["35–37", "The same Greek word, psychē, is rendered ‘life’ throughout these sayings. It can also refer to the self or soul; the translation does not impose a separation of body and soul on the passage."]
+      ],
+      "vocabulary": [
+        ["15", "ζύμη (zymē)", "Yeast or leaven; retained as the warning’s image without supplying its interpretation."],
+        ["29", "χριστός (christos)", "Messiah or Christ, meaning ‘anointed one.’"],
+        ["31", "υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)", "Son of Man, Jesus’ recurring self-designation."],
+        ["34", "σταυρός (stauros)", "Cross, an instrument of execution."],
+        ["35", "ψυχή (psychē)", "Life, self, or soul; here repeated in the save–lose and gain–forfeit sayings."]
+      ]
+    },
+    "6": {
+      "notes": [
+        ["05", "The Greek says that he ‘could not,’ not merely that he chose not to. It then names the healings that did occur."],
+        ["08–09", "Mark explicitly permits a staff and sandals. These instructions are not adjusted to match the other Gospel accounts."],
+        ["11", "‘A testimony to them’ can carry the force of testimony against them in this setting."],
+        ["22", "The Greek wording followed here identifies the girl as Herodias’s own daughter; it does not give the girl a personal name."],
+        ["48", "The fourth watch was the last part of the night, roughly three to six in the morning. ‘He intended to pass by them’ is retained without explaining his intention."],
+        ["50", "‘It is I’ translates egō eimi, literally ‘I am.’ It can serve as ordinary self-identification; possible scriptural echoes are left open."],
+        ["56", "The final pronoun may refer to Jesus or to his garment or its fringe. The preceding request specifically concerns touching the fringe."]
+      ],
+      "vocabulary": [
+        ["03", "τέκτων (tektōn)", "Carpenter, builder, or skilled craftworker."],
+        ["09", "χιτών (chitōn)", "Tunic, a basic garment worn beneath an outer cloak."],
+        ["30", "ἀπόστολος (apostolos)", "Apostle or one sent out; here the returning Twelve."],
+        ["37", "δηνάριον (dēnarion)", "Denarius, a Roman coin; two hundred are named here."],
+        ["52", "πωρόω (pōroō)", "Harden or make unresponsive; the Greek describes their heart as hardened."]
+      ]
+    }
+  }
+}

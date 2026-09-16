@@ -3408,25 +3408,32 @@
   "editorial_review_pending_chapters": [
     1,
     2,
-    3
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
   ],
   "current_revision": {
-    "id": "fluent-mark-1-3-biblical-fluency-2026-09-16",
+    "id": "fluent-mark-4-8-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2,
-      3
+      4,
+      5,
+      6,
+      7,
+      8
     ],
-    "verse_count": 108,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-mark-1-3/mark-verse-review.json",
+    "verse_count": 214,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-mark-4-8/mark-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "cd51fb21efb0b9967dc4fc4ccd7e5fe2bc8f5781",
+      "commit": "3512d16310a79f3c2faeca187063cd3a8d4ccf51",
       "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
     },
-    "note": "Earlier wording approvals and Companion bindings do not transfer."
+    "note": "Previous wording approvals and Companion bindings do not transfer."
   },
   "revision_batches": [
     {
@@ -3446,6 +3453,26 @@
         "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
       },
       "note": "Earlier wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-mark-4-8-biblical-fluency-2026-09-16",
+      "chapters": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "verse_count": 214,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-mark-4-8/mark-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "3512d16310a79f3c2faeca187063cd3a8d4ccf51",
+        "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
     }
   ],
   "current_English_binding_note": "Original source bindings remain valid; revised English is bound in current_revision.verse_ledger. Earlier wording reviews do not transfer."
