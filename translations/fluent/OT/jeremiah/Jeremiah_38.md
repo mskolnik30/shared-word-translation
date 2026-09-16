@@ -4,132 +4,85 @@ testament: OT
 chapter: 38
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Officials Demand Jeremiah’s Death
+## Jeremiah thrown into a cistern
 
 <p>
-v01: Shephatiah son of Mattan, Gedaliah son of Pashhur, Jehucal son of Shelemiah, and Pashhur son of Malchijah heard the words that Jeremiah was speaking to all the people, saying,
-
-v02: “Thus says the LORD: Whoever remains in this city will die by sword, famine, or plague, but whoever goes out to the Chaldeans will live. His life will be to him as plunder, and he will live.
-
-v03: Thus says the LORD: This city will surely be given into the hand of the army of the king of Babylon, and he will capture it.”
-
-v04: Then the officials said to the king, “Please let this man be put to death, for in this way he weakens the hands of the men of war who remain in this city and the hands of all the people by speaking such words to them. For this man does not seek the peace of this people but their harm.”
-
-v05: King Zedekiah said, “Look, he is in your hand, for the king can do nothing against you.”
+v01: Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah, and Pashhur son of Malchijah heard what Jeremiah was telling all the people:
+v02: “The **LORD** says: Anyone who stays in this city will die by sword, famine, or plague. Anyone who goes out to the Chaldeans will live; that person's own life will be their plunder, and they will live.
+v03: The **LORD** says: This city will certainly be handed over to the army of the king of Babylon, and he will capture it.”
+v04: The officials told the king, “This man must be put to death. By saying such things, he is weakening the hands of the soldiers still in this city and of all the people. This man is seeking harm for this people, not their well-being.”
+v05: King Zedekiah answered, “He is in your hands. The king can do nothing against you.”
 </p>
 
-## Jeremiah Is Lowered into the Cistern
-
 <p>
-v06: So they took Jeremiah and cast him into the cistern of Malchijah the king’s son, which was in the court of the guard. They lowered Jeremiah with ropes. There was no water in the cistern, only mud, and Jeremiah sank in the mud.
-
-v07: Ebed-Melech the Cushite, a court official who was in the king’s house, heard that they had put Jeremiah in the cistern. The king was sitting at the Benjamin Gate.
-
-v08: Ebed-Melech went out from the king’s house and spoke to the king, saying,
-
-v09: “My lord the king, these men have done evil in all that they did to Jeremiah the prophet, whom they cast into the cistern. He will die there from hunger, for there is no more bread in the city.”
-
-v10: Then the king commanded Ebed-Melech the Cushite, saying, “Take thirty men with you from here and bring Jeremiah the prophet up from the cistern before he dies.”
+v06: They took Jeremiah and threw him into the cistern of Malchijah the king's son, in the guard courtyard, lowering him with ropes. There was no water in the cistern, only mud, and Jeremiah sank into the mud.
 </p>
 
-## Ebed-Melech Rescues Jeremiah
+## Ebed-melech intervenes
 
 <p>
-v11: So Ebed-Melech took the men with him and went into the king’s house, beneath the treasury, and took from there worn-out rags and worn-out clothes and lowered them by ropes to Jeremiah in the cistern.
-
-v12: Ebed-Melech the Cushite said to Jeremiah, “Please put these worn-out rags and clothes between your armpits and the ropes.” Jeremiah did so.
-
-v13: Then they pulled Jeremiah up with the ropes and brought him up from the cistern. And Jeremiah remained in the court of the guard.
+v07: Ebed-melech the Cushite, a eunuch in the royal palace, heard that they had put Jeremiah in the cistern. The king was sitting at the Benjamin Gate.
+v08: Ebed-melech left the palace and spoke to the king:
+v09: “My lord the king, these men have acted wickedly in everything they have done to Jeremiah the prophet. They threw him into the cistern, and he will die there of hunger, for there is no bread left in the city.”
+v10: The king ordered Ebed-melech the Cushite, “Take thirty men from here under your command and lift Jeremiah the prophet out of the cistern before he dies.”
 </p>
 
-## Zedekiah Secretly Questions Jeremiah
-
 <p>
-v14: King Zedekiah sent and had Jeremiah the prophet brought to him at the third entrance that is in the house of the LORD. The king said to Jeremiah, “I am asking you a matter. Do not hide anything from me.”
-
-v15: Jeremiah said to Zedekiah, “If I tell you, will you not surely put me to death? And if I give you counsel, you will not listen to me.”
-
-v16: Then King Zedekiah swore secretly to Jeremiah, saying, “As the LORD lives, who made this life for us, I will not put you to death, nor will I give you into the hand of these men who seek your life.”
+v11: Ebed-melech took the men with him and went into the palace, to a place beneath the storeroom. From there he took worn-out rags and scraps of cloth and lowered them by ropes to Jeremiah in the cistern.
+v12: Ebed-melech the Cushite told Jeremiah, “Put these worn-out rags and scraps under your armpits, beneath the ropes.” Jeremiah did so.
+v13: They pulled Jeremiah up with the ropes and lifted him out of the cistern. He remained in the guard courtyard.
 </p>
 
-## Surrender and Live
+## Another private conversation
 
 <p>
-v17: Jeremiah said to Zedekiah, “Thus says the LORD, the God of Hosts, the God of Israel: If you will surely go out to the officials of the king of Babylon, then your life will live, and this city will not be burned with fire. You and your household will live.
+v14: King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance of the house of the **LORD**. The king said, “I want to ask you something. Hide nothing from me.”
+v15: Jeremiah answered Zedekiah, “If I tell you, will you not put me to death? And if I advise you, you will not listen to me.”
+v16: King Zedekiah swore secretly to Jeremiah, “As the **LORD** lives, who gave us this life, I will not put you to death or hand you over to these men who seek your life.”
+</p>
 
-v18: But if you do not go out to the officials of the king of Babylon, then this city will be given into the hand of the Chaldeans, and they will burn it with fire, and you will not escape from their hand.”
-
-v19: King Zedekiah said to Jeremiah, “I am afraid of the Judeans who have fallen away to the Chaldeans, lest they give me into their hand and they abuse me.”
-
-v20: Jeremiah said, “They will not give you over. Please listen to the voice of the LORD in what I am speaking to you, and it will be well with you, and your life will live.
-
-v21: But if you refuse to go out, this is the word that the LORD has shown me:
-
-v22: Look, all the women who remain in the house of the king of Judah will be brought out to the officials of the king of Babylon, and they will say:
-
-‘Your trusted friends have enticed you
+<p>
+v17: Jeremiah told Zedekiah, “The **LORD**, the God of hosts, the God of Israel, says: If you go out and surrender to the officers of the king of Babylon, your life will be spared and this city will not be burned. You and your household will live.
+v18: But if you do not go out to the officers of the king of Babylon, this city will be handed over to the Chaldeans. They will burn it down, and you will not escape them.”
+v19: King Zedekiah told Jeremiah, “I am afraid of the Judeans who have deserted to the Chaldeans. They may hand me over to them, and they will abuse me.”
+v20: Jeremiah said, “They will not hand you over. Please listen to the voice of the **LORD** in what I am telling you. Then things will go well for you, and your life will be spared.
+v21: But if you refuse to go out, this is what the **LORD** has shown me:
+v22: All the women left in the palace of the king of Judah are being led out to the officers of the king of Babylon. They are saying:
+‘Your trusted friends have misled you
 and prevailed over you.
 Your feet have sunk in the mud,
-and they have turned away from you.’
-
-v23: All your wives and your sons will be brought out to the Chaldeans, and you yourself will not escape from their hand, but will be seized by the hand of the king of Babylon, and this city will be burned with fire.”
+and they have turned away.’
+v23: All your wives and sons will be led out to the Chaldeans. You yourself will not escape them; you will be captured by the king of Babylon. And you will bring about the burning of this city.”
 </p>
 
-## Keep the Conversation Secret
+## The conversation concealed
 
 <p>
-v24: Then Zedekiah said to Jeremiah, “Let no one know of these words, and you will not die.
-
-v25: If the officials hear that I have spoken with you and come to you and say, ‘Tell us what you spoke to the king. Do not hide it from us, and we will not put you to death; and what did the king say to you?’
-
-v26: then you will say to them, ‘I was presenting my plea before the king, that he would not send me back to Jonathan’s house to die there.’”
-
-v27: Then all the officials came to Jeremiah and questioned him, and he told them according to all these words that the king had commanded. So they stopped speaking with him, for the conversation had not been heard.
-
-v28: Jeremiah remained in the court of the guard until the day Jerusalem was captured.
-
-And it happened when Jerusalem was captured—
+v24: Zedekiah told Jeremiah, “Do not let anyone know about this conversation, and you will not die.
+v25: If the officials hear that I have spoken with you and come to ask, ‘Tell us what you said to the king and what the king said to you. Hide nothing from us, and we will not put you to death,’
+v26: tell them, ‘I was laying my plea before the king, asking him not to send me back to Jonathan's house to die there.’”
+v27: All the officials came to Jeremiah and questioned him. He answered them exactly as the king had instructed. They left him alone, because the conversation had not been overheard.
+v28: Jeremiah remained in the guard courtyard until the day Jerusalem was captured. This is what happened when Jerusalem was captured:
 </p>
 
 ## Notes
 
-v02: Jeremiah’s public message of survival through surrender is interpreted by officials as military demoralization. The same words can appear as treason politically and obedience prophetically.
+v01,07: Jucal is the shorter form of Jehucal in 37:3. The term rendered “eunuch” for Ebed-melech can also mean a court officer; his Cushite identity is explicit.
 
-v05: Zedekiah’s statement exposes his political weakness: though king, he claims inability to resist his own officials.
+v10–13: The pinned Hebrew says thirty men. The rags and cloth are padding between Jeremiah's body and the lifting ropes, an important practical detail in the rescue.
 
-v06: The cistern contains mud rather than water, turning an ordinary water-storage structure into a place of slow death.
+v22–23: The women's mud image recalls Jeremiah's cistern. Verse 23 literally says “you will burn this city”; the active wording places responsibility for its burning on the king rather than using a passive sentence.
 
-v07: Ebed-Melech is identified as Cushite and as a court official. A foreign member of the royal household acts more justly toward the prophet than Judah’s leaders.
-
-v11–12: The worn rags placed under Jeremiah’s arms are an unusually detailed act of practical compassion within the violence of the siege.
-
-v17–23: Jeremiah’s counsel remains unchanged even in private: surrender is the path to life. Zedekiah’s fear of humiliation prevents him from accepting the offered path.
-
-v22: The women’s taunt reuses the image of sinking in mud, now applied metaphorically to Zedekiah’s political collapse after Jeremiah literally experienced the cistern mud.
-
-v28: The final phrase begins a transition that is completed in chapter 39. TSW retains the abrupt narrative hinge.
+v28: The final clause, “when Jerusalem was captured,” introduces the next account. It remains within this verse instead of becoming unbound text between chapters.
 
 ## Vocabulary
 
-v04: רָפָה יָדַיִם (raphah yadayim)
-“To weaken the hands.” An idiom for discouraging or demoralizing people.
+v02: **Life as plunder**: Surviving the disaster with one's life as the gain; compare 21:9 and 39:18.
 
-v06: בּוֹר (bor)
-“Cistern” or “pit.” A dug space for water storage, here used as imprisonment.
-
-v06: טִיט (tit)
-“Mud” or “mire.” Jeremiah sinks into the bottom of the empty cistern.
-
-v07: סָרִיס (saris)
-“Court official,” sometimes “eunuch.” The term denotes royal service and may also indicate physical status in some contexts.
-
-v17: יָצָא (yatsa)
-“To go out.” Here surrendering by going out to Babylonian officials.
-
-v19: עָלַל (alal)
-“To abuse” or “deal harshly.” Zedekiah fears mistreatment by Judean defectors.
-
-v22: אַנְשֵׁי שְׁלֹמֶךָ (anshei shelomekha)
-“Your trusted friends,” literally “men of your peace.”
+v06: **Cistern**: A pit or reservoir intended to hold water; this one contains mud instead.

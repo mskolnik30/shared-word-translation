@@ -4,113 +4,72 @@ testament: OT
 chapter: 26
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Jeremiah Speaks in the Temple
+## A warning in the temple
 
 <p>
-v01: In the beginning of the reign of Jehoiakim son of Josiah, king of Judah, this word came from the LORD, saying,
-
-v02: “Thus says the LORD: Stand in the court of the house of the LORD and speak to all the cities of Judah who come to worship in the house of the LORD all the words that I command you to speak to them. Do not hold back a word.
-
-v03: Perhaps they will listen and turn, each from his evil way, so that I may relent concerning the harm that I intend to do to them because of the evil of their deeds.
-
-v04: You will say to them: Thus says the LORD: If you will not listen to me, to walk in my instruction that I have set before you,
-
-v05: to listen to the words of my servants the prophets whom I send to you, rising early and sending them, though you have not listened,
-
-v06: then I will make this house like Shiloh, and I will make this city a curse to all the nations of the earth.”
+v01: At the beginning of the reign of Jehoiakim son of Josiah, king of Judah, this word came from the **LORD**:
+v02: “The **LORD** says: Stand in the courtyard of the house of the **LORD**. Speak to the people of all Judah's towns who come to worship at the house of the **LORD**. Tell them everything I command you to say. Do not leave out a word.
+v03: Perhaps they will listen and turn back, each from their evil way. Then I will relent from the disaster I intend to bring on them because of their evil deeds.
+v04: Tell them: ‘The **LORD** says: If you will not listen to me and follow the instruction I have set before you,
+v05: or listen to the words of my servants the prophets whom I keep sending to you again and again—though you have not listened—
+v06: then I will make this house like Shiloh and make this city a curse among all the nations of the earth.’”
 </p>
 
-## Priests and Prophets Seize Jeremiah
+## A demand for Jeremiah’s death
 
 <p>
-v07: The priests, the prophets, and all the people heard Jeremiah speaking these words in the house of the LORD.
-
-v08: When Jeremiah had finished speaking all that the LORD had commanded him to speak to all the people, the priests, the prophets, and all the people seized him, saying, “You will surely die!
-
-v09: Why have you prophesied in the name of the LORD, saying, ‘This house will become like Shiloh, and this city will be desolate, without inhabitant’?” And all the people gathered around Jeremiah in the house of the LORD.
-
-v10: When the officials of Judah heard these things, they went up from the king’s house to the house of the LORD and sat at the entrance of the New Gate of the LORD’s house.
+v07: The priests, the prophets, and all the people heard Jeremiah speak these words in the house of the **LORD**.
+v08: When Jeremiah finished saying everything the **LORD** had commanded him to say to all the people, the priests, the prophets, and all the people seized him. “You must die!” they said.
+v09: “Why have you prophesied in the name of the **LORD** that this house will become like Shiloh and this city will be ruined and uninhabited?” All the people crowded around Jeremiah in the house of the **LORD**.
+v10: When Judah's officials heard about this, they came up from the royal palace to the house of the **LORD** and took their seats at the entrance of the New Gate of the **LORD**'s house.
 </p>
 
-## Jeremiah Is Put on Trial
-
 <p>
-v11: Then the priests and the prophets spoke to the officials and to all the people, saying, “A sentence of death belongs to this man, for he has prophesied against this city, as you have heard with your own ears.”
-
-v12: Jeremiah spoke to all the officials and to all the people, saying, “The LORD sent me to prophesy against this house and against this city all the words that you have heard.
-
-v13: Now therefore make your ways and your deeds good, and listen to the voice of the LORD your God, and the LORD will relent concerning the harm that he has spoken against you.
-
-v14: But as for me, look, I am in your hand. Do with me as is good and right in your eyes.
-
-v15: Only know for certain that if you put me to death, you will bring innocent blood upon yourselves, upon this city, and upon its inhabitants, for in truth the LORD sent me to you to speak all these words in your ears.”
+v11: The priests and prophets said to the officials and all the people, “This man deserves a death sentence! He has prophesied against this city, as you heard with your own ears.”
+v12: Jeremiah answered all the officials and all the people: “The **LORD** sent me to prophesy against this house and this city all the words you have heard.
+v13: Now put your ways and your deeds right. Listen to the voice of the **LORD** your God, and the **LORD** will relent from the disaster he has announced against you.
+v14: As for me, here I am in your hands. Do to me whatever seems good and right to you.
+v15: But know this for certain: if you put me to death, you will bring innocent blood upon yourselves, this city, and its inhabitants. For the **LORD** truly sent me to speak all these words in your hearing.”
 </p>
 
-## The Officials Defend Jeremiah
+## An earlier warning remembered
 
 <p>
-v16: Then the officials and all the people said to the priests and the prophets, “There is no sentence of death for this man, for he has spoken to us in the name of the LORD our God.”
-
-v17: Some of the elders of the land rose and spoke to all the assembly of the people, saying,
-
-v18: “Micah of Moresheth prophesied in the days of Hezekiah king of Judah and spoke to all the people of Judah, saying:
-
-‘Thus says the LORD of Hosts:
-
-Zion will be plowed like a field,
-Jerusalem will become heaps of ruins,
-and the mountain of the house
-a wooded height.’
-
-v19: Did Hezekiah king of Judah and all Judah put him to death? Did he not fear the LORD and seek the favor of the LORD, and did the LORD not relent concerning the harm he had spoken against them? But we are about to bring great harm upon ourselves.”
+v16: Then the officials and all the people told the priests and prophets, “This man does not deserve a death sentence. He has spoken to us in the name of the **LORD** our God.”
+v17: Some of the elders of the land stood up and addressed the whole assembly of the people:
+v18: “Micah of Moresheth prophesied in the days of Hezekiah king of Judah. He told all the people of Judah, ‘The **LORD** of hosts says:
+Zion will be plowed like a field;
+Jerusalem will become heaps of rubble,
+and the temple hill a wooded height.’
+v19: Did Hezekiah king of Judah and all Judah put him to death? Did he not fear the **LORD** and seek the favor of the **LORD**, so that the **LORD** relented from the disaster he had announced against them? We are about to bring great harm on ourselves!”
 </p>
 
-## Uriah Is Killed
+## Uriah’s death and Jeremiah’s protection
 
 <p>
-v20: There was also a man who prophesied in the name of the LORD, Uriah son of Shemaiah from Kiriath-Jearim. He prophesied against this city and against this land according to all the words of Jeremiah.
-
-v21: When King Jehoiakim, all his warriors, and all the officials heard his words, the king sought to put him to death. But Uriah heard and was afraid and fled and went to Egypt.
-
-v22: Then King Jehoiakim sent men to Egypt: Elnathan son of Achbor and men with him to Egypt.
-
-v23: They brought Uriah out from Egypt and brought him to King Jehoiakim, who struck him with the sword and threw his dead body into the burial place of the common people.
-
-v24: But the hand of Ahikam son of Shaphan was with Jeremiah so that he was not given into the hand of the people to put him to death.
+v20: There was also a man who prophesied in the name of the **LORD**: Uriah son of Shemaiah, from Kiriath-jearim. He prophesied against this city and this land in words like Jeremiah's.
+v21: King Jehoiakim, all his warriors, and all his officials heard his words, and the king sought to kill him. When Uriah heard about it, he became afraid, fled, and went to Egypt.
+v22: King Jehoiakim sent men to Egypt—Elnathan son of Achbor and other men with him.
+v23: They brought Uriah out of Egypt and took him to King Jehoiakim. The king struck him down with the sword and threw his body into the graves of the common people.
+v24: But Ahikam son of Shaphan supported Jeremiah, so he was not handed over to the people to be put to death.
 </p>
 
 ## Notes
 
-v02: “Do not hold back a word” emphasizes the completeness of Jeremiah’s commission even when the message threatens the temple itself.
+v03,13,19: The repeated verb “relent” concerns the announced disaster. The passage presents the people's turning and God's relenting as real possibilities, without explaining them through a later doctrinal scheme.
 
-v03, v13: The announced judgment remains responsive to repentance. “Relent” preserves the biblical language of divine response without implying ignorance or instability.
+v18: The marginal reading gives the short name Micah; the written form is Micaiah. The elders cite the earlier prophet's warning as a precedent.
 
-v06: Shiloh was an earlier sanctuary site associated with destruction. Invoking it challenges any assumption that the Jerusalem temple is automatically immune from judgment.
-
-v11: Priests and prophets, rather than foreign rulers, seek the death sentence. The conflict concerns whether a word against temple and city can truly come from the LORD.
-
-v18: The elders cite Micah 3:12, showing an earlier prophetic threat functioning as precedent in Jeremiah’s defense.
-
-v20–23: Uriah’s death demonstrates that Jeremiah’s escape is not inevitable and that prophets speaking similar words could be killed under Jehoiakim.
+v20–24: Uriah's death is set beside Jeremiah's protection. The account does not promise every truthful prophet the same outcome.
 
 ## Vocabulary
 
-v02: גָּרַע (gara)
-“To diminish” or “hold back.” Jeremiah is forbidden to omit any commanded word.
+v06: **Shiloh**: An earlier sanctuary location invoked here as a warning about the temple's fate.
 
-v03: נָחַם (nacham)
-“To relent” or “be moved.” Used of the LORD’s response if the people turn.
-
-v06: קְלָלָה (qelalah)
-“Curse.” Jerusalem is threatened with becoming a byword of judgment among nations.
-
-v11: מִשְׁפַּט־מָוֶת (mishpat-mavet)
-“Sentence of death.” A legal judgment requiring execution.
-
-v15: דָּם נָקִי (dam naqi)
-“Innocent blood.” Blood shed without just cause.
-
-v19: חָלָה אֶת־פְּנֵי (chalah et-pene)
-“To seek favor,” literally to soften or entreat the face.
+v15: **Innocent blood**: The killing of someone not guilty of the offense used to justify the killing, bringing bloodguilt on those responsible.

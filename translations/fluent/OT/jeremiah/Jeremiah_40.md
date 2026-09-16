@@ -4,80 +4,49 @@ testament: OT
 chapter: 40
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Jeremiah Is Freed at Ramah
+## Jeremiah freed at Ramah
 
 <p>
-v01: The word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had sent him from Ramah, when he took him bound in chains among all the exiles of Jerusalem and Judah who were being carried into exile to Babylon.
-
-v02: The captain of the guard took Jeremiah and said to him, “The LORD your God spoke this disaster against this place.
-
-v03: And the LORD has brought it and done just as he spoke, because you sinned against the LORD and did not listen to his voice. Therefore this thing has come upon you.
-
-v04: And now, look, I release you today from the chains that are on your hands. If it is good in your eyes to come with me to Babylon, come, and I will set my eyes upon you. But if it is evil in your eyes to come with me to Babylon, refrain. See, the whole land is before you. Wherever it is good and right in your eyes to go, go there.”
-
-v05: While Jeremiah had not yet turned away, Nebuzaradan said, “Return to Gedaliah son of Ahikam, son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and live with him among the people. Or go wherever it is right in your eyes to go.” Then the captain of the guard gave him provisions and a gift and sent him away.
-
-v06: Jeremiah went to Gedaliah son of Ahikam at Mizpah and lived with him among the people who were left in the land.
+v01: This is the word that came to Jeremiah from the **LORD** after Nebuzaradan, captain of the guard, released him at Ramah. He had taken Jeremiah while he was bound in chains among all the exiles from Jerusalem and Judah who were being taken to Babylon.
+v02: The captain of the guard took Jeremiah aside and said, “The **LORD** your God announced this disaster against this place.
+v03: The **LORD** has brought it about and done just as he said. Because you people sinned against the **LORD** and did not listen to his voice, this has happened to you.
+v04: Now, today, I am freeing you from the chains on your hands. If you would like to come with me to Babylon, come, and I will look after you. If you do not want to come with me to Babylon, stay. The whole land lies before you. Go wherever seems good and right to you.”
+v05: Before Jeremiah turned to go, the captain added, “Go back to Gedaliah son of Ahikam, son of Shaphan, whom the king of Babylon has appointed over Judah's towns. Live with him among the people, or go wherever you think best.” The captain of the guard gave him food and a gift and sent him away.
+v06: Jeremiah went to Gedaliah son of Ahikam at Mizpah and lived with him among the people left in the land.
 </p>
 
-## Gedaliah Governs the Remnant
+## The community at Mizpah
 
 <p>
-v07: When all the commanders of the armies who were in the field, they and their men, heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and had entrusted to him men, women, little children, and some of the poor of the land who had not been carried into exile to Babylon,
-
-v08: they came to Gedaliah at Mizpah: Ishmael son of Nethaniah, Johanan and Jonathan sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite, they and their men.
-
-v09: Gedaliah son of Ahikam, son of Shaphan, swore to them and their men, saying, “Do not fear serving the Chaldeans. Live in the land and serve the king of Babylon, and it will be well with you.
-
-v10: As for me, look, I will live at Mizpah to stand before the Chaldeans who come to us. But you, gather wine, summer fruit, and oil, put them in your vessels, and live in your cities that you have taken.”
-
-v11: Likewise, when all the Judeans who were in Moab, among the children of Ammon, in Edom, and in all the lands heard that the king of Babylon had left a remnant in Judah and had appointed over them Gedaliah son of Ahikam, son of Shaphan,
-
-v12: then all the Judeans returned from all the places where they had been driven and came to the land of Judah, to Gedaliah at Mizpah. They gathered wine and summer fruit in very great abundance.
+v07: All the army commanders in the open country and their men heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and put him in charge of the men, women, children, and poorest people who had not been exiled to Babylon.
+v08: They came with their men to Gedaliah at Mizpah: Ishmael son of Nethaniah, Johanan and Jonathan sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jezaniah son of the Maacathite.
+v09: Gedaliah son of Ahikam, son of Shaphan, swore to them and their men, “Do not be afraid to serve the Chaldeans. Stay in the land and serve the king of Babylon, and things will go well for you.
+v10: I will stay at Mizpah to represent you before the Chaldeans who come to us. You should gather wine, summer fruit, and oil, store them in your containers, and live in the towns you have taken over.”
+v11: All the Judeans in Moab, among the Ammonites, in Edom, and in all the other lands also heard that the king of Babylon had left a remnant in Judah and appointed Gedaliah son of Ahikam, son of Shaphan, over them.
+v12: So all these Judeans returned from every place where they had been scattered. They came to Gedaliah at Mizpah in the land of Judah and gathered a great abundance of wine and summer fruit.
 </p>
 
-## Johanan Warns Gedaliah
+## A warning Gedaliah rejects
 
 <p>
-v13: Johanan son of Kareah and all the commanders of the armies who were in the field came to Gedaliah at Mizpah
-
-v14: and said to him, “Do you know that Baalis king of the children of Ammon has sent Ishmael son of Nethaniah to strike your life?” But Gedaliah son of Ahikam did not believe them.
-
-v15: Then Johanan son of Kareah spoke secretly to Gedaliah at Mizpah, saying, “Please let me go and strike Ishmael son of Nethaniah, and no one will know. Why should he strike your life, so that all the Judeans gathered to you are scattered and the remnant of Judah perishes?”
-
-v16: Yet Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do this thing, for you are speaking falsehood concerning Ishmael.”
+v13: Johanan son of Kareah and all the army commanders in the open country came to Gedaliah at Mizpah.
+v14: They said, “Do you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to kill you?” But Gedaliah son of Ahikam did not believe them.
+v15: Johanan son of Kareah spoke privately to Gedaliah at Mizpah: “Please let me go and kill Ishmael son of Nethaniah. No one will know. Why should he kill you, scatter all the Judeans gathered around you, and destroy what remains of Judah?”
+v16: Gedaliah son of Ahikam told Johanan son of Kareah, “Do not do this. What you are saying about Ishmael is a lie.”
 </p>
 
 ## Notes
 
-v01: The chapter’s opening says a word of the LORD came after Jeremiah’s release but does not immediately quote a new oracle. The phrase functions as a heading into the post-fall narrative.
+v01–05: This account places Jeremiah in chains at Ramah before his release. It is not expanded to explain its relationship to 39:14. The opening of verse 5 is difficult; the translation takes it as speaking before Jeremiah turns to leave.
 
-v02–03: Nebuzaradan, a Babylonian officer, interprets Jerusalem’s fall in terms closely resembling Jeremiah’s own preaching: the LORD spoke, Judah did not listen, and judgment came.
-
-v04–06: Jeremiah is offered unusual freedom of movement by the conquerors and chooses to remain with the remnant under Gedaliah rather than go to Babylon.
-
-v09–12: Gedaliah’s policy of submission to Babylon produces a brief period of agricultural recovery and the return of Judean refugees.
-
-v14–16: Gedaliah refuses to believe the warning concerning Ishmael. His refusal of preventive violence is followed in chapter 41 by the assassination Johanan predicted.
+v03,08: The officer's “you” in verse 3 is plural, addressing the people's conduct. Verse 8 follows the marginal name Ephai.
 
 ## Vocabulary
 
-v01: אֲזִקִּים (aziqqim)
-“Chains” or “fetters.” Jeremiah is found bound among the deportees.
-
-v04: פָּקַח (paqach)
-“To release” or “open.” Used of freeing Jeremiah from his chains.
-
-v07: שְׁאֵרִית (she'erit)
-“Remnant.” Those left in Judah after deportation.
-
-v09: עָבַד (avad)
-“To serve.” Gedaliah urges service to Babylon as the path of survival.
-
-v10: קַיִץ (qayits)
-“Summer fruit.” Seasonal produce gathered by the remnant.
-
-v14: נָכָה נֶפֶשׁ (nakhah nefesh)
-“To strike the life.” An idiom for killing someone.
+v10: **Summer fruit**: Seasonal produce gathered and stored along with wine and oil.

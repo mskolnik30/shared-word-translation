@@ -1,0 +1,67 @@
+{
+  "scope": "Jeremiah 21–40",
+  "chapters": 20,
+  "verses": 517,
+  "status": "COMPLETED_PORTION_OF_FIFTY_CHAPTER_BLOCK",
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 33,
+    "completed_scope": "Jeremiah 8–40",
+    "completed_verses": 804,
+    "remaining_scope": "Jeremiah 41–52; Lamentations 1–5",
+    "remaining_chapters": 17,
+    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+  },
+  "books": [
+    {
+      "book": "jeremiah",
+      "rel": "audit/fluent-revision/2026-09-16-jeremiah-21-40",
+      "verses": 517,
+      "chapters": 20,
+      "focused": 194,
+      "overlap": {
+        "before": {
+          "identical": 434,
+          "near_identical_nonidentical": 79,
+          "mean_word_similarity": 0.992925
+        },
+        "after": {
+          "identical": 9,
+          "near_identical_nonidentical": 61,
+          "mean_word_similarity": 0.753912
+        }
+      }
+    }
+  ],
+  "source_first_drafting": true,
+  "all_annotations_read": true,
+  "all_comparators_read_after_drafting": true,
+  "focused_source_english_rereads": 194,
+  "post_reread_refinements": [
+    "Clarified the agent speaking in 40:5.",
+    "Reordered 25:12 to keep Babylon, its king, and the Chaldean land connected to accountability.",
+    "Used neck restraint in 29:26 without asserting the material.",
+    "Clarified the difficult pity reading in 22:23 while retaining a note on uncertainty.",
+    "Kept the date conflict at 27:1, kinship wording at 32:12, and name grouping at 39:3 visible in notes.",
+    "Restored the final capture clause to the verse paragraph at 38:28."
+  ],
+  "overlap": {
+    "before": {
+      "identical": 434,
+      "near_identical_nonidentical": 79,
+      "mean_word_similarity": 0.992925
+    },
+    "after": {
+      "identical": 9,
+      "near_identical_nonidentical": 61,
+      "mean_word_similarity": 0.753912
+    }
+  },
+  "overlap_qualification": "Normalized whole-verse overlap is triage, not proof of fidelity, originality, or comprehension. Nine identical verses and shared phrases were retained where clear.",
+  "review_status": "Independent editorial review and reader testing pending.",
+  "publication_allowed": false,
+  "next_work": "Continue remaining 17 chapters: Jeremiah 41–52 and Lamentations 1–5. No routine approval required.",
+  "github": "Authorized upload remains blocked by prior missing terminal authentication and connector 403. No rejected write retried."
+}

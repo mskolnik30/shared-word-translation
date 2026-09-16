@@ -4,95 +4,60 @@ testament: OT
 chapter: 28
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Hananiah Promises a Quick Return
+## Hananiah promises a quick return
 
 <p>
-v01: In that same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah son of Azzur, the prophet who was from Gibeon, spoke to me in the house of the LORD in the sight of the priests and all the people, saying,
-
-v02: “Thus says the LORD of Hosts, the God of Israel: I have broken the yoke of the king of Babylon.
-
-v03: Within two years I will bring back to this place all the vessels of the house of the LORD that Nebuchadnezzar king of Babylon took from this place and carried to Babylon.
-
-v04: Jeconiah son of Jehoiakim, king of Judah, and all the exiles from Judah who went to Babylon I will bring back to this place,” says the LORD, “for I will break the yoke of the king of Babylon.”
+v01: That same year, early in the reign of Zedekiah king of Judah, in the fifth month of the fourth year, the prophet Hananiah son of Azzur, from Gibeon, spoke to me in the house of the **LORD** before the priests and all the people:
+v02: “The **LORD** of hosts, the God of Israel, says: I have broken the yoke of the king of Babylon.
+v03: Within two full years I will bring back to this place all the vessels of the house of the **LORD** that Nebuchadnezzar king of Babylon took from here and brought to Babylon.
+v04: I will also bring back to this place Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who went to Babylon, declares the **LORD**, for I will break the yoke of the king of Babylon.”
 </p>
 
-## Jeremiah Answers Hananiah
+## Jeremiah’s answer
 
 <p>
-v05: Then Jeremiah the prophet spoke to Hananiah the prophet in the sight of the priests and in the sight of all the people who stood in the house of the LORD.
-
-v06: Jeremiah the prophet said, “Amen! May the LORD do so. May the LORD establish your words that you have prophesied, to bring back the vessels of the house of the LORD and all the exiles from Babylon to this place.
-
-v07: Yet please hear this word that I speak in your hearing and in the hearing of all the people:
-
-v08: The prophets who were before me and before you from ancient times prophesied against many lands and against great kingdoms of war, disaster, and plague.
-
-v09: As for the prophet who prophesies peace, when the word of that prophet happens, then the prophet will be known as one whom the LORD truly sent.”
+v05: Then Jeremiah the prophet spoke to Hananiah the prophet before the priests and all the people standing in the house of the **LORD**.
+v06: Jeremiah the prophet said, “Amen! May the **LORD** do so! May the **LORD** fulfill the words you have prophesied by bringing the vessels of the house of the **LORD** and all the exiles back from Babylon to this place.
+v07: But listen to this word I am speaking in your hearing and in the hearing of all the people.
+v08: The prophets who came before you and me, from long ago, prophesied war, disaster, and plague against many lands and great kingdoms.
+v09: As for a prophet who prophesies peace, only when that prophet's word comes true will it be known that the **LORD** truly sent him.”
 </p>
 
-## Hananiah Breaks Jeremiah’s Yoke
+## The broken yoke
 
 <p>
 v10: Then Hananiah the prophet took the yoke bar from the neck of Jeremiah the prophet and broke it.
-
-v11: Hananiah spoke in the sight of all the people, saying, “Thus says the LORD: In this way, within two years, I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all the nations.” And Jeremiah the prophet went his way.
+v11: Before all the people, Hananiah said, “The **LORD** says: In just this way, within two full years, I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all the nations.” Then Jeremiah the prophet went on his way.
 </p>
 
-## A Yoke of Iron
+## Iron in place of wood
 
 <p>
-v12: After Hananiah the prophet had broken the yoke bar from the neck of Jeremiah the prophet, the word of the LORD came to Jeremiah, saying,
-
-v13: “Go and say to Hananiah: Thus says the LORD: You have broken yoke bars of wood, but in their place you have made yoke bars of iron.
-
-v14: For thus says the LORD of Hosts, the God of Israel: I have put an iron yoke upon the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon, and they will serve him. Even the animals of the field I have given him.”
+v12: After Hananiah the prophet had broken the yoke bar from the neck of Jeremiah the prophet, the word of the **LORD** came to Jeremiah:
+v13: “Go and tell Hananiah: ‘The **LORD** says: You have broken wooden yoke bars, but in their place you have made iron yoke bars.
+v14: For the **LORD** of hosts, the God of Israel, says: I have put an iron yoke on the neck of all these nations, so that they will serve Nebuchadnezzar king of Babylon. They will serve him. I have even given him the wild animals.’”
 </p>
 
-## Hananiah Dies
-
 <p>
-v15: Jeremiah the prophet said to Hananiah the prophet, “Please hear, Hananiah. The LORD has not sent you, but you have made this people trust in falsehood.
-
-v16: So thus says the LORD: Look, I am sending you away from the face of the ground. This year you will die, because you have spoken rebellion against the LORD.”
-
-v17: Hananiah the prophet died in that year, in the seventh month.
+v15: Jeremiah the prophet told Hananiah the prophet, “Listen, Hananiah. The **LORD** did not send you, yet you have made this people trust a lie.
+v16: So the **LORD** says: I am sending you away from the face of the earth. This year you will die, because you have preached rebellion against the **LORD**.”
+v17: Hananiah the prophet died that same year, in the seventh month.
 </p>
 
 ## Notes
 
-v01: Hananiah is called “the prophet” throughout the narrative, allowing the conflict to unfold as a contest between competing prophetic claims rather than labeling him from the outset.
+v01,03,17: Hananiah speaks in the fifth month and dies in the seventh month of the same year. His promised two-year return and Jeremiah's this-year warning have different deadlines.
 
-v03–04: Hananiah promises restoration within two years, directly contradicting Jeremiah’s message of extended Babylonian domination.
+v06–09: Jeremiah's “Amen” expresses a wish that the promised return would happen. His following words still challenge whether Hananiah has been sent.
 
-v06: Jeremiah’s “Amen” expresses genuine desire that Hananiah’s hopeful message might be true, even while Jeremiah immediately subjects it to prophetic testing.
-
-v08–09: Jeremiah appeals to the broader prophetic tradition. A prophet of peace bears a distinctive burden of verification because such a message departs from the repeated warnings of judgment.
-
-v10–14: Hananiah turns Jeremiah’s symbolic yoke into a counter-sign by breaking it. The LORD’s response intensifies rather than cancels the sign: wood becomes iron.
-
-v16: “rebellion against the LORD” describes speech that claims divine authority while opposing the LORD’s actual word.
+v13: The Hebrew says “you have made” iron yoke bars. The action remains addressed to Hananiah; verse 14 then speaks of God's imposition of the iron yoke.
 
 ## Vocabulary
 
-v02: שָׁבַר (shavar)
-“To break.” Hananiah announces and symbolically enacts the breaking of Babylon’s yoke.
-
-v06: אָמֵן (amen)
-“Amen,” “truly,” or “may it be so.” Jeremiah voices desire that the promised restoration occur.
-
-v09: שָׁלוֹם (shalom)
-“Peace,” “well-being,” or “wholeness.” The content of Hananiah’s hopeful prophecy.
-
-v10: מוֹטָה (motah)
-“Yoke bar.” Jeremiah’s wooden prophetic sign.
-
-v13: בַּרְזֶל (barzel)
-“Iron.” The replacement yoke symbolizes intensified and unavoidable subjection.
-
-v15: שֶׁקֶר (sheqer)
-“Falsehood.” That upon which Hananiah has caused the people to rely.
-
-v16: סָרָה (sarah)
-“Rebellion.” Defiant turning away from the LORD’s authority.
+v06: **Amen**: An expression of assent or desire: “May it be so.”

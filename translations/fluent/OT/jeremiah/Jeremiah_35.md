@@ -4,90 +4,55 @@ testament: OT
 chapter: 35
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Jeremiah Brings the Rechabites to the Temple
+## The Rechabites refuse wine
 
 <p>
-v01: The word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah, king of Judah, saying,
-
-v02: “Go to the house of the Rechabites, speak with them, and bring them into the house of the LORD, into one of the chambers, and give them wine to drink.”
-
-v03: So I took Jaazaniah son of Jeremiah, son of Habazziniah, and his brothers and all his sons and the whole house of the Rechabites.
-
-v04: I brought them into the house of the LORD, into the chamber of the sons of Hanan son of Igdaliah, the man of God, which was beside the chamber of the officials, above the chamber of Maaseiah son of Shallum, keeper of the threshold.
-
-v05: Then I set before the sons of the house of the Rechabites bowls full of wine and cups and said to them, “Drink wine.”
+v01: This word came to Jeremiah from the **LORD** in the days of Jehoiakim son of Josiah, king of Judah:
+v02: “Go to the Rechabite family and speak with them. Bring them into one of the rooms in the house of the **LORD** and give them wine to drink.”
+v03: So I took Jaazaniah son of Jeremiah, son of Habazziniah, his brothers, all his sons, and the whole Rechabite family.
+v04: I brought them into the house of the **LORD**, into the room of the sons of Hanan son of Igdaliah, the man of God. It was beside the officials' room, above the room of Maaseiah son of Shallum, the doorkeeper.
+v05: I set bowls full of wine and cups before the members of the Rechabite family and told them, “Drink some wine.”
 </p>
 
-## The Rechabites Refuse Wine
-
 <p>
-v06: But they said, “We will not drink wine, for Jonadab son of Rechab, our ancestor, commanded us, saying, ‘You will not drink wine, you or your children, forever.
-
-v07: You will not build a house, sow seed, plant a vineyard, or possess one. But all your days you will live in tents, so that you may live many days upon the face of the land where you are staying.’
-
-v08: We have listened to the voice of Jonadab son of Rechab our ancestor in all that he commanded us, not drinking wine all our days—we, our wives, our sons, and our daughters—
-
-v09: and not building houses for ourselves to live in. We have no vineyard or field or seed,
-
-v10: but we have lived in tents and listened and done according to all that Jonadab our ancestor commanded us.
-
-v11: But when Nebuchadnezzar king of Babylon came up against the land, we said, ‘Come, let us go to Jerusalem because of the army of the Chaldeans and because of the army of Aram.’ So we have lived in Jerusalem.”
+v06: They answered, “We will not drink wine. Our ancestor Jonadab son of Rechab commanded us, ‘Neither you nor your descendants must ever drink wine.
+v07: You must not build a house, sow seed, plant a vineyard, or own one. You must live in tents all your days, so that you may live a long time on the soil where you reside as foreigners.’
+v08: We have obeyed our ancestor Jonadab son of Rechab in everything he commanded us. We have never drunk wine—neither we nor our wives, sons, or daughters.
+v09: We have not built houses to live in, and we have no vineyards, fields, or sown crops.
+v10: We have lived in tents and have obeyed and done everything our ancestor Jonadab commanded us.
+v11: But when Nebuchadnezzar king of Babylon invaded the land, we said, ‘Come, let us go to Jerusalem to escape the Chaldean and Aramean armies.’ That is why we are living in Jerusalem.”
 </p>
 
-## Judah Has Not Listened
+## Obedience and refusal
 
 <p>
-v12: Then the word of the LORD came to Jeremiah, saying,
-
-v13: “Thus says the LORD of Hosts, the God of Israel: Go and say to the men of Judah and the inhabitants of Jerusalem: Will you not receive discipline and listen to my words?” says the LORD.
-
-v14: “The words of Jonadab son of Rechab, which he commanded his children not to drink wine, have been established, and they have not drunk to this day, for they have listened to the command of their ancestor. But I have spoken to you, rising early and speaking, and you have not listened to me.
-
-v15: I have sent to you all my servants the prophets, rising early and sending them, saying, ‘Turn now, each of you, from your evil way, make your deeds good, and do not go after other gods to serve them. Then you will dwell in the land that I gave to you and your ancestors.’ But you did not incline your ear or listen to me.
-
-v16: Indeed, the children of Jonadab son of Rechab have established the command of their ancestor that he commanded them, but this people has not listened to me.
-
-v17: So thus says the LORD, the God of Hosts, the God of Israel: Look, I am bringing upon Judah and upon all the inhabitants of Jerusalem all the disaster that I spoke against them, because I spoke to them but they did not listen, and I called to them but they did not answer.”
+v12: Then the word of the **LORD** came to Jeremiah:
+v13: “The **LORD** of hosts, the God of Israel, says: Go and tell the people of Judah and the inhabitants of Jerusalem, ‘Will you not accept correction and listen to my words? declares the **LORD**.
+v14: The command of Jonadab son of Rechab that his descendants must not drink wine has been kept. They have drunk none to this day because they obeyed their ancestor's command. But I have spoken to you again and again, and you have not listened to me.
+v15: I have sent all my servants the prophets to you again and again, saying, “Turn back, each of you, from your evil way. Put your deeds right. Do not follow other gods to serve them. Then live on the soil I gave you and your ancestors.” But you have not inclined your ears or listened to me.
+v16: The descendants of Jonadab son of Rechab have carried out their ancestor's command, but this people has not listened to me.’
+v17: “So the **LORD**, the God of hosts, the God of Israel, says: I am bringing on Judah and all Jerusalem's inhabitants all the disaster I announced against them, because I spoke to them and they did not listen; I called to them and they did not answer.”
 </p>
 
-## A Promise to the Rechabites
+## A promise to the Rechabites
 
 <p>
-v18: Jeremiah said to the house of the Rechabites, “Thus says the LORD of Hosts, the God of Israel: Because you listened to the command of Jonadab your ancestor and kept all his commands and did according to all that he commanded you,
-
-v19: so thus says the LORD of Hosts, the God of Israel: Jonadab son of Rechab will never lack a man to stand before me all the days.”
+v18: But Jeremiah told the Rechabite family, “The **LORD** of hosts, the God of Israel, says: Because you obeyed your ancestor Jonadab's command, kept all his commands, and did everything he told you,
+v19: the **LORD** of hosts, the God of Israel, says: Jonadab son of Rechab will never lack a man to stand before me.”
 </p>
 
 ## Notes
 
-v02–05: Jeremiah’s offer of wine is a prophetic test, not an invitation to disobey the LORD. The Rechabites’ refusal becomes an enacted comparison with Judah’s refusal to hear divine instruction.
+v06–10: The chapter uses both Jonadab and the longer Hebrew form Jehonadab for the same ancestor. Jonadab is used consistently here. His family's obedience is the comparison; the text does not issue their lifestyle rules to everyone.
 
-v06–10: The Rechabite way of life includes abstention from wine, agriculture, permanent houses, and land possession. The chapter reports this ancestral discipline without making it a universal command for Israel.
-
-v11: Their residence in Jerusalem is an emergency adaptation to war, not abandonment of their ancestral commitment.
-
-v14: The contrast turns on listening: the Rechabites obey a human ancestor across generations, while Judah refuses repeated speech from the LORD.
-
-v19: “stand before me” can describe enduring service or recognized standing in the LORD’s presence. The precise institutional form of the promise is not specified.
+v11,19: War explains why the tent-dwelling family is now in Jerusalem. “Stand before me” in the closing promise expresses enduring access or service without specifying a new priestly office.
 
 ## Vocabulary
 
-v02: רֵכָבִים (Rekhabim)
-“Rechabites.” The clan descended from or associated with Rechab and Jonadab.
-
-v06: צִוָּה (tsivvah)
-“To command.” Jonadab’s instruction is repeatedly described as binding within the clan.
-
-v07: גּוּר (gur)
-“To sojourn” or “reside as an outsider.” The Rechabites live without permanent landed settlement.
-
-v13: מוּסָר (musar)
-“Discipline” or “instruction.” Correction that should produce attentive obedience.
-
-v14: קוּם (qum)
-“To establish” or “carry out.” The Rechabites have maintained their ancestor’s words.
-
-v19: עָמַד לְפָנַי (amad lefanai)
-“To stand before me.” An idiom of service, access, or enduring presence.
+v07: **Reside as foreigners**: Live in a land without the standing of its native landholding families.

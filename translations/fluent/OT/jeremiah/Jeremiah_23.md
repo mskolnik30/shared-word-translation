@@ -4,230 +4,165 @@ testament: OT
 chapter: 23
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Woe to the Shepherds
+## Shepherds and a righteous Branch
 
 <p>
-v01: “Woe to the shepherds who destroy and scatter the sheep of my pasture!” says the LORD.
-
-v02: So thus says the LORD, the God of Israel, concerning the shepherds who shepherd my people: “You have scattered my flock and driven them away, and you have not attended to them. Look, I am attending to you for the evil of your deeds,” says the LORD.
-
-v03: “Then I myself will gather the remnant of my flock from all the lands where I drove them, and I will bring them back to their pasture, and they will be fruitful and multiply.
-
-v04: I will raise up shepherds over them who will shepherd them. They will no longer fear or be terrified, and none will be missing,” says the LORD.
+v01: “Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the **LORD**.
+v02: So this is what the **LORD**, the God of Israel, says about the shepherds who tend my people: “You have scattered my flock and driven them away. You have not attended to them. Now I will attend to you for your evil deeds, declares the **LORD**.
+v03: I myself will gather what remains of my flock from all the countries where I drove them. I will bring them back to their pasture, and they will be fruitful and multiply.
+v04: I will appoint shepherds over them who will tend them. They will no longer be afraid or dismayed, and none will be missing, declares the **LORD**.
 </p>
-
-## A Righteous Branch for David
 
 <p>
-v05: “Look, days are coming,” says the LORD,
-“when I will raise up for David
-a righteous Branch.
-He will reign as king and act wisely
-and practice justice and righteousness
-in the land.
-
-v06: In his days Judah will be saved,
-and Israel will dwell securely.
-And this is the name by which he will be called:
-‘The LORD Is Our Righteousness.’
-
-v07: So look, days are coming,” says the LORD, “when they will no longer say, ‘As the LORD lives, who brought up the children of Israel from the land of Egypt,’
-
-v08: but, ‘As the LORD lives, who brought up and brought back the offspring of the house of Israel from the land of the north and from all the lands where I had driven them.’ And they will dwell in their own land.”
+v05: “Look, days are coming, declares the **LORD**,
+when I will raise up a righteous Branch for David.
+A king will reign and act wisely,
+doing what is just and right in the land.
+v06: In his days Judah will be saved
+and Israel will live securely.
+This is the name by which he will be called:
+‘The **LORD** is our righteousness.’
+v07: “So look, days are coming, declares the **LORD**, when people will no longer say, ‘As the **LORD** lives, who brought the Israelites up from the land of Egypt,’
+v08: but, ‘As the **LORD** lives, who brought up and led the offspring of the house of Israel out of the land of the north and all the countries where I drove them.’ Then they will live on their own soil.”
 </p>
 
-## Concerning the Prophets
+## Concerning the prophets
 
 <p>
 v09: Concerning the prophets:
-
 My heart is broken within me;
-all my bones tremble.
-I have become like a drunken man,
+all my bones shake.
+I have become like a drunk,
 like a man overcome by wine,
-because of the LORD
+because of the **LORD**
 and because of his holy words.
-
-v10: For the land is full of adulterers;
-because of the curse the land mourns,
-the pastures of the wilderness are dried up.
+v10: For the land is full of adulterers.
+Because of the curse the land mourns,
+and the wilderness pastures have dried up.
 Their course is evil,
-and their strength is not right.
-
-v11: “For both prophet and priest are profane;
-even in my house I have found their evil,”
-says the LORD.
-
-v12: “Therefore their way will be to them
-like slippery places in darkness.
-They will be driven on and fall in it,
-for I will bring disaster upon them
-in the year of their visitation,”
-says the LORD.
+and their strength serves what is wrong.
+v11: “Both prophet and priest are godless;
+even in my own house I have found their evil,”
+declares the **LORD**.
+v12: “So their way will become slippery ground in the dark.
+They will be driven along it and fall,
+for I will bring disaster on them
+in the year when I call them to account,”
+declares the **LORD**.
 </p>
-
-## Prophets of Samaria and Jerusalem
 
 <p>
 v13: “Among the prophets of Samaria
-I saw something offensive:
+I saw a repulsive thing:
 they prophesied by Baal
 and led my people Israel astray.
-
 v14: But among the prophets of Jerusalem
-I have seen something horrifying:
-committing adultery and walking in falsehood.
-They strengthen the hands of evildoers
-so that no one turns from evil.
-All of them have become to me like Sodom,
-and its inhabitants like Gomorrah.
-
-v15: So thus says the LORD of Hosts concerning the prophets:
-
-Look, I will feed them wormwood
+I have seen a horrifying thing:
+adultery and a life of lies.
+They strengthen the hands of evildoers,
+so no one turns back from wickedness.
+To me they have all become like Sodom,
+and the city's inhabitants like Gomorrah.”
+v15: So the **LORD** of hosts says this about the prophets:
+“Look, I will feed them wormwood
 and give them poisoned water to drink,
-for from the prophets of Jerusalem
-profaneness has gone out
-into all the land.”
+for godlessness has spread from the prophets of Jerusalem
+throughout the land.”
 </p>
 
-## Do Not Listen to False Prophets
-
 <p>
-v16: Thus says the LORD of Hosts:
-
-“Do not listen to the words of the prophets who prophesy to you. They make you empty; they speak a vision from their own heart, not from the mouth of the LORD.
-
-v17: They continually say to people who despise me, ‘The LORD has spoken: You will have peace.’ And to everyone who walks in the stubbornness of his heart they say, ‘No disaster will come upon you.’
-
-v18: For who has stood in the council of the LORD
-and seen and heard his word?
-Who has paid attention to his word
-and listened?
-
-v19: Look, the storm of the LORD—wrath—
-has gone out,
-a whirling storm.
-It will whirl upon the head
-of the wicked.
-
-v20: The anger of the LORD will not turn back
-until he has done
-and established the purposes of his heart.
-In the latter days
-you will understand it clearly.
+v16: The **LORD** of hosts says:
+“Do not listen to the words of the prophets who prophesy to you.
+They fill you with empty hopes.
+They speak visions from their own hearts,
+not from the mouth of the **LORD**.
+v17: They keep telling those who despise me,
+‘The **LORD** has said: You will have peace.’
+To everyone who follows a stubborn heart they say,
+‘No disaster will come upon you.’
+v18: But who has stood in the council of the **LORD**
+to see and hear his word?
+Who has paid attention to his word and listened?
+v19: Look! The storm of the **LORD**!
+Wrath has burst out, a whirling storm;
+it whirls down on the heads of the wicked.
+v20: The anger of the **LORD** will not turn back
+until he has done and accomplished
+what his heart intends.
+In days to come you will understand it clearly.
 </p>
 
-## I Did Not Send These Prophets
-
 <p>
-v21: “I did not send the prophets,
-yet they ran.
+v21: I did not send these prophets,
+but they ran.
 I did not speak to them,
-yet they prophesied.
-
-v22: But if they had stood in my council,
-they would have caused my people to hear my words
-and turned them from their evil way
-and from the evil of their deeds.
-
-v23: Am I a God nearby,” says the LORD,
-“and not a God far away?
-
+but they prophesied.
+v22: If they had stood in my council,
+they would have made my people hear my words
+and turned them back from their evil way
+and from their evil deeds.
+v23: Am I a God only nearby, declares the **LORD**,
+and not a God far away?
 v24: Can anyone hide in secret places
-so that I do not see them?” says the LORD.
-“Do I not fill heaven and earth?”
-says the LORD.
+where I cannot see them? declares the **LORD**.
+Do I not fill heaven and earth? declares the **LORD**.
 </p>
 
-## Dreams and the Word of the LORD
+## Dreams and faithful words
 
 <p>
-v25: “I have heard what the prophets have said who prophesy falsehood in my name, saying, ‘I dreamed! I dreamed!’
-
-v26: How long will this be in the heart of the prophets who prophesy falsehood, prophets of the deceit of their own heart,
-
-v27: who think to make my people forget my name by their dreams that they tell each to his neighbor, just as their ancestors forgot my name for Baal?
-
-v28: The prophet who has a dream, let him tell the dream; but the one who has my word, let him speak my word faithfully.
-
-What does straw have in common with grain?”
-says the LORD.
-
-v29: “Is not my word like fire,” says the LORD,
-“and like a hammer
-that shatters rock?
+v25: “I have heard what the prophets say who prophesy lies in my name: ‘I had a dream! I had a dream!’
+v26: How long will this go on in the hearts of the prophets who prophesy lies, who prophesy the deceit of their own hearts?
+v27: With the dreams they tell one another, they intend to make my people forget my name, just as their ancestors forgot my name for Baal.
+v28: Let the prophet who has a dream tell the dream. But let the one who has my word speak my word faithfully. What does straw have in common with grain? declares the **LORD**.
+v29: Is not my word like fire, declares the **LORD**, and like a hammer that shatters rock?
 </p>
 
-## I Am Against the Prophets
-
 <p>
-v30: “Therefore look, I am against the prophets,” says the LORD, “who steal my words from one another.
-
-v31: Look, I am against the prophets,” says the LORD, “who use their tongues and declare, ‘He says.’
-
-v32: Look, I am against people who prophesy false dreams,” says the LORD, “and tell them and lead my people astray by their falsehoods and reckless boasting. Yet I did not send them or command them, and they do not profit this people at all,” says the LORD.
+v30: “So I am against the prophets, declares the **LORD**, who steal my words from one another.
+v31: I am against the prophets, declares the **LORD**, who use their tongues to pronounce oracles.
+v32: I am against those who prophesy false dreams, declares the **LORD**. They tell them and lead my people astray with their lies and their reckless boasting. I did not send them or commission them. They bring this people no benefit at all, declares the **LORD**.
 </p>
 
-## The Burden of the LORD
+## The burden of the LORD
 
 <p>
-v33: “When this people, or a prophet, or a priest asks you, saying, ‘What is the burden of the LORD?’ then you will say to them, ‘You are the burden, and I will cast you off,’ says the LORD.
-
-v34: And as for the prophet, priest, or people who says, ‘The burden of the LORD,’ I will attend to that person and his household.
-
-v35: Thus you will say, each to his neighbor and each to his brother: ‘What has the LORD answered?’ or ‘What has the LORD spoken?’
-
-v36: But you will no longer mention ‘the burden of the LORD,’ for each person’s own word becomes his burden, and you twist the words of the living God, the LORD of Hosts, our God.
-
-v37: Thus you will say to the prophet: ‘What has the LORD answered you?’ or ‘What has the LORD spoken?’
-
-v38: But if you say, ‘The burden of the LORD,’ therefore thus says the LORD: Because you have said this word, ‘The burden of the LORD,’ though I sent to you saying, ‘You will not say, “The burden of the LORD,”’
-
-v39: so look, I will surely forget you and cast you away from my presence, you and the city that I gave to you and your ancestors.
-
-v40: I will place upon you everlasting reproach and everlasting humiliation that will not be forgotten.”
+v33: “When this people, or a prophet or a priest, asks you, ‘What is the burden of the **LORD**?’ tell them, ‘What burden? I will abandon you, declares the **LORD**.’
+v34: If a prophet, priest, or anyone among the people says, ‘The burden of the **LORD**,’ I will call that person and their household to account.
+v35: This is what each of you should ask your neighbor and your brother: ‘What has the **LORD** answered?’ or ‘What has the **LORD** spoken?’
+v36: But do not mention ‘the burden of the **LORD**’ again. Each person's own word will become their burden, because you have twisted the words of the living God, the **LORD** of hosts, our God.
+v37: This is what you should ask the prophet: ‘What has the **LORD** answered you?’ or ‘What has the **LORD** spoken?’
+v38: But if you say, ‘The burden of the **LORD**,’ then the **LORD** says: Because you have used these words, ‘The burden of the **LORD**,’ even though I sent word to you not to say, ‘The burden of the **LORD**,’
+v39: I will utterly forget you and cast you away from my presence, along with the city I gave you and your ancestors.
+v40: I will bring everlasting disgrace on you and everlasting shame that will not be forgotten.”
 </p>
 
 ## Notes
 
-v01–04: Kings and leaders are addressed as “shepherds.” Their failure is measured by what happens to the flock entrusted to them.
+v02–04: The same Hebrew root connects the shepherds' failure to “attend” to the flock, the warning that God will “attend” to them, and the promise that none will be “missing.”
 
-v05: “Branch” translates *tsemach*, a growth image used for renewed Davidic rule. TSW retains the metaphor rather than replacing it with a later title.
+v05–06: “Branch” is a growing shoot and an image for the promised Davidic ruler. The name “The LORD is our righteousness” is also given to Jerusalem in 33:16; the translation does not resolve its later theological interpretation.
 
-v06: “The LORD Is Our Righteousness” is a royal name or designation that wordplays with Zedekiah’s name, which is formed from the same Hebrew roots in reverse relationship.
+v08: The Hebrew changes to “I drove them” within the quoted oath. That change of person is retained.
 
-v09: Jeremiah’s bodily response to the LORD’s words resembles intoxication but arises from the weight of prophetic revelation rather than wine.
+v18: “His word” follows the marginal reading. The written form at the second occurrence is “my word.” The council is the setting of authorized hearing and speaking in verses 18–22.
 
-v18, v22: The “council of the LORD” portrays genuine prophecy as participation in divine deliberation and hearing, contrasted with speech generated from the prophet’s own heart.
+v26: The Hebrew question is compressed and difficult. The translation supplies a verbal connection while retaining the question about the prophets' deceptive hearts.
 
-v23–24: Divine nearness is not limitation. The LORD is both near and far and cannot be escaped through secrecy.
+v31: The prophets claim to utter a declaration, the formula used for an authoritative oracle. The Hebrew does not repeat the divine name within their claim here.
 
-v28–29: Dream and word are not simply equated. The contrast is between straw and grain, while the LORD’s word is also fire and a hammer.
-
-v33–40: Hebrew *massa* can mean both “oracle/burden” and a literal burden. The passage turns the people’s repeated demand for “the burden of the LORD” back upon them through wordplay.
+v33–39: “Burden” can name a prophetic message and also a load to carry. Verse 33 follows the Hebrew word division “What burden?”; redividing the consonants gives “You are the burden.” Verse 39 is also difficult: the pointed verb suggests forgetting, while the accompanying form suggests lifting or carrying. “I will lift you up” would continue the burden wordplay. These alternatives remain matters for review.
 
 ## Vocabulary
 
-v01: רֹעִים (ro'im)
-“Shepherds.” A metaphor for rulers and leaders responsible for the people.
+v15: **Wormwood**: A bitter plant, used here as an image of the prophets' bitter fate.
 
-v05: צֶמַח (tsemach)
-“Branch” or “sprout.” New growth used for renewed Davidic kingship.
+v15: **LORD of hosts**: A divine title evoking command over armies or heavenly forces; “hosts” means assembled forces.
 
-v06: יְהוָה צִדְקֵנוּ (YHWH tsidqenu)
-“The LORD Is Our Righteousness.” The name given to the coming king.
-
-v18: סוֹד (sod)
-“Council” or “confidential assembly.” The divine council in which true prophetic speech is heard.
-
-v28: תֶּבֶן (teven)
-“Straw.” Contrasted with grain as empty prophetic speech is contrasted with the LORD’s word.
-
-v29: פַּטִּישׁ (pattish)
-“Hammer.” An image of the LORD’s word shattering rock.
-
-v33: מַשָּׂא (massa)
-“Burden” or “oracle.” The ambiguous term becomes the focus of prophetic wordplay.
+v33: **Burden**: Both a load and, in prophetic usage, an oracle; the double sense drives this exchange.

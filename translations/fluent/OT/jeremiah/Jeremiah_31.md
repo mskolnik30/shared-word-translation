@@ -4,421 +4,285 @@ testament: OT
 chapter: 31
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## The LORD Will Restore Israel
+## Israel gathered again
 
 <p>
-v01: “At that time,” says the LORD, “I will be God to all the clans of Israel, and they will be my people.”
+v01: “At that time, declares the **LORD**, I will be God to all the clans of Israel, and they will be my people.”
 </p>
 
 <p>
-v02: Thus says the LORD:
-  “The people who survived the sword
-  found grace in the wilderness;
-  when Israel sought rest,
+v02: The **LORD** says:
+“The people who survived the sword
+found favor in the wilderness,
+as Israel went to find rest.”
 </p>
 
 <p>
-v03: the LORD appeared to them from far away:
-  ‘Yes, I have loved you with an everlasting love;
-  therefore I have continued my steadfast love toward you.
+v03: From far away the **LORD** appeared to me:
+“I have loved you with an everlasting love;
+therefore I have drawn you with steadfast love.
 </p>
 
 <p>
-v04: Again I will build you, and you will be built,
-  O virgin Israel!
-  Again you will take up your tambourines
-  and go out in the dance of people who rejoice.
+v04: I will build you again, and you will be rebuilt,
+virgin Israel.
+Again you will take up your tambourines
+and go out dancing with those who celebrate.
 </p>
 
 <p>
 v05: Again you will plant vineyards
-  on the mountains of Samaria;
-  the planters will plant and will enjoy the fruit.
+on the hills of Samaria.
+Those who plant them will enjoy their fruit.
 </p>
 
 <p>
-v06: For there will be a day when watchmen will call
-  on the hills of Ephraim:
-  ‘Rise up—let us go up to Zion,
-  to the LORD our God.’”
-</p>
-
-## Return from Exile
-
-<p>
-v07: For thus says the LORD:
-  “Sing aloud with gladness for Jacob,
-  and shout among the chief of the nations;
-  proclaim, give praise, and say,
-  ‘O LORD, save your people,
-  the remnant of Israel!’
+v06: For a day is coming when watchmen
+will call out on the hills of Ephraim:
+‘Come, let us go up to Zion,
+to the **LORD** our God!’”
 </p>
 
 <p>
-v08: Look—I am bringing them from the land of the north,
-  and gathering them from the farthest parts of the earth,
-  among them the blind and the lame,
-  the one who is pregnant and the one in labor together—
-  a great company, they will return here.
+v07: For the **LORD** says:
+“Sing with joy for Jacob!
+Shout for the foremost of the nations!
+Make your praise heard and say,
+‘**LORD**, save your people,
+the remnant of Israel!’
 </p>
 
 <p>
-v09: With weeping they will come,
-  and with pleas for mercy I will lead them back.
-  I will cause them to walk by streams of water,
-  on a level path in which they will not stumble,
-  for I have become a father to Israel,
-  and Ephraim is my firstborn.
+v08: Look, I will bring them from the land of the north
+and gather them from the farthest reaches of the earth.
+Among them will be the blind and those who are lame,
+pregnant women and women in labor together.
+A great assembly will return here.
 </p>
 
 <p>
-v10: Hear the word of the LORD, O nations,
-  and declare it in the coastlands far away:
-  ‘The one who scattered Israel will gather Israel,
-  and will keep watch over Israel like a shepherd over a flock.’
+v09: They will come with weeping;
+with pleas for mercy I will lead them.
+I will guide them beside streams of water
+on a level path where they will not stumble.
+For I am a father to Israel,
+and Ephraim is my firstborn.
 </p>
 
 <p>
-v11: For the LORD has redeemed Jacob
-  and ransomed him from a hand stronger than his.
+v10: Hear the word of the **LORD**, nations!
+Announce it on distant coastlands.
+Say, ‘The one who scattered Israel will gather him
+and guard him as a shepherd guards his flock.’
 </p>
 
 <p>
-v12: They will come and sing aloud on the height of Zion,
-  and they will be radiant over the goodness of the LORD—
-  over the grain, the wine, and the oil,
-  and over the young of the flock and the herd;
-  their whole being will be like a watered garden,
-  and they will languish no more.
+v11: For the **LORD** has ransomed Jacob
+and redeemed him from a hand stronger than his.
 </p>
 
 <p>
-v13: Then will the virgin rejoice in the dance,
-  and the young men and the old together;
-  for I will turn their mourning into joy,
-  I will comfort them,
-  and give them gladness for sorrow.
+v12: They will come and sing on Zion's height,
+streaming toward the goodness of the **LORD**—
+the grain, new wine, and oil,
+the young of the flocks and herds.
+Their life will be like a well-watered garden,
+and they will languish no more.
 </p>
 
 <p>
-v14: I will satisfy the priests with abundance,
-  and my people will be satisfied with my goodness,”
-  says the LORD.
-</p>
-
-## Rachel Weeps; Hope Is Promised
-
-<p>
-v15: Thus says the LORD:
-  “A voice is heard in Ramah,
-  lamentation and bitter weeping.
-  Rachel is weeping for her children;
-  she refuses to be comforted for her children,
-  because they are no more.”
+v13: Then young women will rejoice in dancing,
+and young men and old men together.
+I will turn their mourning into joy;
+I will comfort them and give them gladness in place of grief.
 </p>
 
 <p>
-v16: Thus says the LORD:
-  “Keep your voice from weeping,
-  and your eyes from tears;
-  for there is a reward for your work,” says the LORD,
-  “and they will return from the land of the enemy.
+v14: I will satisfy the priests with rich food,
+and my people will be filled with my goodness,
+declares the **LORD**.”
+</p>
+
+## Rachel and Ephraim
+
+<p>
+v15: The **LORD** says:
+“A voice is heard in Ramah,
+lament and bitter weeping:
+Rachel weeps for her children.
+She refuses to be comforted for her children,
+because they are no more.”
 </p>
 
 <p>
-v17: There is hope for your future,” says the LORD,
-  “and your children will return to their own border.
+v16: The **LORD** says:
+“Hold back your voice from weeping
+and your eyes from tears,
+for there is a reward for your labor,
+declares the **LORD**.
+They will return from the enemy's land.
+</p>
+
+<p>
+v17: There is hope for your future, declares the **LORD**;
+your children will return to their own territory.
 </p>
 
 <p>
 v18: I have surely heard Ephraim grieving:
-  ‘You have disciplined me, and I was disciplined,
-  like an untrained calf.
-  Bring me back, and I will return,
-  for you are the LORD my God.
+‘You disciplined me, and I was disciplined
+like a calf not yet trained.
+Bring me back, and I will return,
+for you are the **LORD** my God.
 </p>
 
 <p>
-v19: For after I turned away, I repented;
-  and after I was instructed, I struck my thigh;
-  I was ashamed, and I was humiliated,
-  for I bore the reproach of my youth.’
+v19: After I turned back, I repented;
+after I came to understand, I struck my thigh.
+I was ashamed and humiliated,
+for I bore the disgrace of my youth.’
 </p>
 
 <p>
-v20: Is Ephraim my dear son?
-  Is he my precious child?
-  For as often as I speak against him,
-  I still remember him.
-  Therefore my inner being yearns for him;
-  I will surely have compassion on him,” says the LORD.
+v20: Is Ephraim not a dear son to me,
+a child in whom I delight?
+Whenever I speak against him,
+I still remember him.
+That is why my inward parts stir for him;
+I will surely have compassion on him,
+declares the **LORD**.
+</p>
+
+## The road home
+
+<p>
+v21: Set up road markers for yourself;
+put up signposts.
+Set your heart on the highway,
+the road by which you went.
+Return, virgin Israel;
+return to these towns of yours.
 </p>
 
 <p>
-v21: “Set up road markers for yourself;
-  make yourself guideposts.
-  Pay attention to the highway,
-  the road by which you went.
-  Return, O virgin Israel—
-  return to these your cities!
+v22: How long will you wander about,
+faithless daughter?
+For the **LORD** has created something new in the land:
+a woman will surround a man.”
 </p>
 
 <p>
-v22: How long will you wander,
-  O faithless daughter?
-  For the LORD has created a new thing on the earth:
-  a woman will encompass a man.”
-</p>
-
-## Judah Also Will Be Restored
-
-<p>
-v23: Thus says the LORD of Hosts, the God of Israel:
-  “Once more they will say in the land of Judah and in its towns,
-  when I restore their fortunes:
-  ‘The LORD bless you, O habitation of righteousness,
-  O holy mountain!’
+v23: The **LORD** of hosts, the God of Israel, says: “When I restore their fortunes, they will again say this in the land of Judah and its towns: ‘May the **LORD** bless you, dwelling of righteousness, holy mountain.’
 </p>
 
 <p>
-v24: Judah and all its towns will live there together,
-  the farmers and people who wander with their flocks.
+v24: Judah and all its towns will live there together—farmers and those who travel with the flocks.
 </p>
 
 <p>
-v25: For I will satisfy the weary soul,
-  and every faint soul I will replenish.”
+v25: For I will refresh every weary person and satisfy every person who languishes.”
 </p>
 
 <p>
-v26: At this I awoke and looked,
-  and my sleep was pleasant to me.
+v26: At this I awoke and looked around. My sleep had been pleasant to me.
 </p>
 
-## The LORD Will Rebuild and Replant
+## Building and planting
 
 <p>
-v27: “Look—the days are coming,” says the LORD,
-  “when I will sow the house of Israel and the house of Judah
-  with the seed of humans and the seed of animals.
+v27: “Look, days are coming, declares the **LORD**, when I will sow the house of Israel and the house of Judah with the seed of people and the seed of animals.
 </p>
 
 <p>
-v28: And just as I have watched over them
-  to pluck up and break down,
-  to overthrow, destroy, and bring disaster,
-  so I will watch over them
-  to build and to plant,” says the LORD.
+v28: Just as I watched over them to uproot, tear down, overthrow, destroy, and bring harm, so I will watch over them to build and plant, declares the **LORD**.
 </p>
 
 <p>
-v29: “In those days they will no longer say:
-  ‘The parents have eaten sour grapes,
-  and the children’s teeth are set on edge.’
+v29: In those days they will no longer say, ‘The fathers have eaten sour grapes, and the children's teeth are set on edge.’
 </p>
 
 <p>
-v30: But each person will die for their own iniquity;
-  everyone who eats sour grapes,
-  their teeth will be set on edge.
+v30: Instead, each person will die for their own guilt. Everyone who eats sour grapes will have their own teeth set on edge.
 </p>
 
-## The New Covenant
+## A new covenant
 
 <p>
-v31: “Look—the days are coming,” says the LORD,
-  “when I will cut a new covenant
-  with the house of Israel and the house of Judah—
+v31: “Look, days are coming, declares the **LORD**, when I will make a new covenant with the house of Israel and the house of Judah.
 </p>
 
 <p>
-v32: not like the covenant that I cut with their ancestors
-  in the day when I took them by the hand
-  to bring them out of the land of Egypt—
-  my covenant that they broke,
-  though I was their husband,” says the LORD.
+v32: It will not be like the covenant I made with their ancestors when I took them by the hand to bring them out of the land of Egypt. They broke my covenant, though I was their husband, declares the **LORD**.
 </p>
 
 <p>
-v33: “For this is the covenant that I will cut
-  with the house of Israel after those days,” says the LORD:
-  “I will put my instruction within them,
-  and I will write it on their hearts.
-  And I will be their God,
-  and they will be my people.
+v33: This is the covenant I will make with the house of Israel after those days, declares the **LORD**: I will put my instruction within them and write it on their hearts. I will be their God, and they will be my people.
 </p>
 
 <p>
-v34: And they will no longer teach—each person their neighbor
-  and each person their sister or brother—saying,
-  ‘Know the LORD,’
-  for they will all know me,
-  from the least of them to the greatest,” says the LORD,
-  “for I will forgive their iniquity,
-  and I will remember their sin no more.”
+v34: No longer will each person teach their neighbor or their brother, saying, ‘Know the **LORD**,’ for they will all know me, from the least to the greatest, declares the **LORD**. For I will forgive their guilt and remember their sin no more.
 </p>
 
-## The Covenant Secured by Creation
+## The order of creation and the rebuilt city
 
 <p>
-v35: Thus says the LORD,
-  who gives the sun for light by day,
-  and the fixed order of the moon and the stars for light by night,
-  who stirs up the sea so that its waves roar—
-  the LORD of Hosts is his name:
+v35: The **LORD** says—
+the one who gives the sun for light by day,
+the fixed order of moon and stars for light by night,
+who stirs the sea so its waves roar,
+whose name is the **LORD** of hosts:
 </p>
 
 <p>
-v36: “If this fixed order departs from before me,” says the LORD,
-  “then the offspring of Israel also will cease
-  from being a nation before me forever.”
+v36: “Only if this fixed order departs from before me,
+declares the **LORD**,
+will Israel's offspring cease
+to be a nation before me for all time.”
 </p>
 
 <p>
-v37: Thus says the LORD:
-  “If the heavens above can be measured,
-  and the foundations of the earth below can be explored,
-  then I will also reject all the offspring of Israel
-  because of all that they have done,” says the LORD.
-</p>
-
-## Jerusalem Rebuilt
-
-<p>
-v38: “Look—the days are coming,” says the LORD,
-  “when the city will be rebuilt for the LORD
-  from the tower of Hananel to the Corner Gate.
+v37: The **LORD** says:
+“Only if the heavens above can be measured
+and the foundations of the earth below explored
+will I reject all Israel's offspring
+because of all they have done,”
+declares the **LORD**.
 </p>
 
 <p>
-v39: The measuring line will go out farther straight ahead
-  to the hill Gareb,
-  and then turn to Goah.
+v38: “Look, days are coming, declares the **LORD**, when the city will be rebuilt for the **LORD**, from the Tower of Hananel to the Corner Gate.
 </p>
 
 <p>
-v40: The whole valley of the dead bodies and the ashes,
-  and all the fields as far as the Wadi Kidron,
-  to the corner of the Horse Gate toward the east,
-  will be holy to the LORD.
-  It will not be plucked up or overthrown any more forever.”
+v39: The measuring line will extend from there to the hill of Gareb and turn toward Goah.
+</p>
+
+<p>
+v40: The whole valley of corpses and ashes, and all the fields as far as the Kidron Valley, to the corner of the Horse Gate on the east, will be holy to the **LORD**. It will never again be uprooted or demolished.”
 </p>
 
 ## Notes
 
-v01: “all the clans… my people” — Restoration is covenant-wide and communal; God’s promise gathers scattered family-lines into one belonging.
+v02–03: The final phrase of verse 2 is compressed: Israel may be going to find rest, or the speaker may be going to give Israel rest. “From far away” in verse 3 may also mean “long ago”; “drawn you with steadfast love” can be understood as continuing steadfast love toward Israel.
 
-v02–03: “grace in the wilderness… everlasting love… steadfast love” — Exile is re-narrated as a wilderness where God’s love persists. The ground of return is not Israel’s merit but God’s enduring ḥesed.
+v07,09: The source says “Save your people,” a plea, and “with pleas for mercy,” language of supplication. Neither expression is silently replaced with a statement of completed rescue or consolation.
 
-v04–06: tambourines / vineyards / watchmen — Restoration is embodied and economic: worship, agriculture, and communal vigilance return to normal life and joy.
+v15–20: Rachel and Ephraim give the community's grief family voices. Verse 19 can be read “after I turned back” or “after I turned away.” Striking the thigh is a gesture of grief or remorse.
 
-v08: “blind and lame… pregnant… in labor” — Return is inclusive and tender: the vulnerable are not left behind; God’s redemption is paced for those least able to keep up.
+v21–22: Verse 21 follows the marginal “you went,” addressed to feminine Israel. “A woman will surround a man” in verse 22 is an obscure image; the translation leaves its action and gender contrast intact.
 
-v09–10: “streams… level path… father… shepherd” — God’s leadership is pastoral: guiding, protecting, and naming Israel as family.
+v31–34: The new covenant is promised to Israel and Judah. “I was their husband” in verse 32 can also express being their master. The Hebrew wording is retained; the note does not decide later interpretations of the covenant.
 
-v11–14: “ransomed… radiant… watered garden… mourning into joy” — Redemption becomes abundance and renewed vitality; consolation is not vague comfort but replenished life.
-
-v15: Rachel weeps — Jeremiah holds grief without rushing past it; national catastrophe is pictured as maternal bereavement.
-
-v16–17: “keep… from weeping… hope for your future” — Hope is promised without denying tears. God honors the labor of sorrow and announces return as future.
-
-v18–19: Ephraim’s confession — Repentance is portrayed as being re-taught and re-formed; shame becomes honest ownership of the past.
-
-v20: “my inner being yearns… compassion” — One of Scripture’s most intimate portraits of divine mercy: God’s judgment does not erase God’s parental longing.
-
-v21: “road markers… return” — Restoration involves human participation: remember the way home; repentance is practical and directional.
-
-v22: “a new thing… a woman shall encompass a man” — A famously cryptic line. At minimum it signals reversal and new-creation surprise—God doing something socially unexpected that reorders old patterns.
-
-v29–30: “sour grapes” proverb — Responsibility is personalized: inherited blame is rejected; each life is accountable for its own wrongdoing.
-
-v31–34: “new covenant… write on hearts… all shall know… remember sin no more” — The center of the chapter: covenant renewal is internal and relational—God’s instruction becomes inscribed within, knowledge of the LORD is democratized, and forgiveness is definitive.
-
-v32: “though I was their husband” — Covenant is framed as faithful marital bond; betrayal is real, but God’s recommitment is stronger.
-
-v35–37: creation as guarantee — Sun, moon, stars, sea: cosmic regularity is invoked as covenant security. God stakes Israel’s continued peoplehood on creation’s enduring order.
-
-v38–40: rebuilt city / “shall be holy” — Restoration is spatial and public: the city is re-measured, reclaimed, and re-consecrated—places marked by death are promised holiness and permanence.
+v38–40: “Coming” in verse 38 is supplied by the marginal reading. Verses 39–40 also follow the marginal readings “measuring line” and “fields.” The city boundaries include the valley of corpses and ashes rather than avoiding its description.
 
 ## Vocabulary
 
-v02: חֵן (ḥen) — grace; favor
+v04: **Virgin Israel**: A feminine personification of the people, addressed as a young woman.
 
-v02: חֵן (ḥen)
-“Grace; favor.”
-
-v03: אַהֲבַת עוֹלָם (’ahavat ʿolam) — everlasting love
-
-v03: חֶסֶד (ḥesed)
-“Steadfast love; covenant loyalty.”
-
-v04: בָּנָה (banah) — to build; to rebuild
-
-v04: תֹּף (tof) — tambourine; hand drum
-
-v05: כֶּרֶם (kerem) — vineyard
-
-v06: צָפָה (tsafah) — to watch; to keep lookout
-
-v08: קָבַץ (qavats) — to gather; to collect
-
-v09: אָב (’av) — father
-
-v09: בְּכוֹר (bekhor) — firstborn
-
-v10: רָעָה (raʿah) — to shepherd; to tend
-
-v11: גָּאַל (ga’al)
-“To redeem; to reclaim.”
-
-v11: פָּדָה (padah)
-“To ransom; to redeem.”
-
-v12: דָּשֵׁן (dashen) — to be made rich; to be fattened (abundant)
-
-v12: נֶפֶשׁ (nefesh) — life; self; whole being
-
-v13: מָחוֹל (maḥol) — dance
-
-v13: נָחַם (naḥam) — to comfort; to console
-
-v15: נְהִי (nehi) — lamentation; wailing
-
-v15: בְּכִי (bekhi) — weeping
-
-v16: תִּקְוָה (tiqvah) — hope
-
-v18: יָסַר (yasar) — to discipline; to correct; to instruct
-
-v19: שׁוּב (shuv) — to return; to turn back
-
-v20: רָחַם (raḥam)
-“To have compassion; to show mercy.”
-
-v21: צִיּוּן (tsiyyun) — marker; signpost
-
-v21: מְסִלָּה (mesillah) — highway; raised road
-
-v22: חָדָשׁ (ḥadash) — new
-
-v29: בֹּסֶר (boser) — unripe/sour grapes
-
-v31: בְּרִית (berit) — covenant
-
-v31: כָּרַת (karat) — to cut (a covenant)
-
-v33: תּוֹרָה (torah) — instruction; teaching; law
-
-v33: לֵב (lev) — heart; inner self; will
-
-v34: יָדַע (yadaʿ) — to know (relational knowing)
-
-v34: סָלַח (salaḥ) — to forgive
-
-v35: חֹק (ḥoq) — fixed order; statute; decree
-
-v38: בָּנָה (banah) — to rebuild
-
-v40: קֹדֶשׁ (qodesh) — holiness; holy thing/place
+v33: **Instruction**: Hebrew torah: authoritative teaching, including the covenant's requirements.

@@ -426,12 +426,17 @@
       "scope": "Jeremiah 8–20",
       "verses": 287,
       "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "scope": "Jeremiah 21–40",
+      "verses": 517,
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-21-40/jeremiah-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Jeremiah 21–52; Lamentations 1–5",
-      "action": "Complete the remaining 37 chapters of the current fifty-chapter block, begun with Jeremiah 8–20. Continue source-first drafting and exact source bindings; preserve pending consistency reviews."
+      "scope": "Jeremiah 41–52; Lamentations 1–5",
+      "action": "Complete the remaining 17 chapters of the current fifty-chapter block, now drafted through Jeremiah 40. Continue source-first drafting and exact source bindings; preserve pending consistency reviews."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -551,11 +556,11 @@
     "scope": "Jeremiah 8–52; Lamentations 1–5",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 13,
-    "completed_scope": "Jeremiah 8–20",
-    "completed_verses": 287,
-    "remaining_scope": "Jeremiah 21–52; Lamentations 1–5",
-    "remaining_chapters": 37,
+    "completed_chapters": 33,
+    "completed_scope": "Jeremiah 8–40",
+    "completed_verses": 804,
+    "remaining_scope": "Jeremiah 41–52; Lamentations 1–5",
+    "remaining_chapters": 17,
     "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
   }
 }

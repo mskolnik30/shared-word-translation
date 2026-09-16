@@ -4,144 +4,90 @@ testament: OT
 chapter: 33
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Great and Hidden Things
+## A second word in confinement
 
 <p>
-v01: The word of the LORD came to Jeremiah a second time while he was still confined in the court of the guard, saying,
-
-v02: “Thus says the LORD who makes it, the LORD who forms it to establish it—the LORD is his name:
-
-v03: Call to me, and I will answer you and tell you great and inaccessible things that you have not known.
+v01: The word of the **LORD** came to Jeremiah a second time while he was still confined in the guard courtyard:
+v02: “The **LORD** who does it, the **LORD** who shapes it and establishes it, whose name is the **LORD**, says:
+v03: Call to me, and I will answer you. I will tell you great things beyond your reach, things you do not know.
 </p>
 
-## Houses Torn Down for the Siege
-
 <p>
-v04: “For thus says the LORD, the God of Israel, concerning the houses of this city and concerning the houses of the kings of Judah that are torn down against the siege ramps and against the sword:
-
-v05: They are coming to fight the Chaldeans, but only to fill them with the corpses of those whom I struck in my anger and fury, because I hid my face from this city because of all their evil.
+v04: For the **LORD**, the God of Israel, says this about the houses of this city and the royal houses of Judah that have been torn down to face the siege ramps and the sword:
+v05: People come to fight the Chaldeans, but only to fill those houses with the bodies of people I have struck down in my anger and wrath. I have hidden my face from this city because of all their evil.
 </p>
 
-## I Will Bring Healing and Peace
-
 <p>
-v06: “Look, I will bring it healing and cure, and I will heal them. I will reveal to them an abundance of peace and faithfulness.
-
-v07: I will restore the fortunes of Judah and the fortunes of Israel and build them as at first.
-
-v08: I will cleanse them from all their guilt by which they sinned against me, and I will forgive all their guilt by which they sinned against me and rebelled against me.
-
-v09: This city will be to me a name of joy, praise, and glory before all the nations of the earth who hear all the good that I do for them. They will fear and tremble because of all the good and all the peace that I provide for it.
+v06: Yet I will bring her recovery and healing. I will heal them and reveal to them an abundance of peace and faithfulness.
+v07: I will restore the fortunes of Judah and Israel and build them up as they were before.
+v08: I will cleanse them from all the guilt of their sin against me. I will forgive all the guilt of their sins and their rebellion against me.
+v09: This city will bring me a joyful name, praise, and splendor before all the nations of the earth. They will hear of all the good I do for its people, and they will tremble in fear at all the good and peace I bring it.
 </p>
 
-## The Sound of Joy Will Return
+## Joy and ordinary life restored
 
 <p>
-v10: “Thus says the LORD: In this place of which you say, ‘It is a ruin, without human or animal,’ in the cities of Judah and in the streets of Jerusalem that are desolate, without human, without inhabitant, and without animal, there will again be heard
-
-v11: the sound of joy and the sound of gladness, the voice of bridegroom and the voice of bride, the voice of people who say,
-
-‘Give thanks to the LORD of Hosts,
-for the LORD is good,
-for his steadfast love is forever,’
-
-and of people who bring thanksgiving offerings into the house of the LORD. For I will restore the fortunes of the land as at first,” says the LORD.
+v10: “The **LORD** says: In this place that you call a waste, without people or animals—in Judah's towns and Jerusalem's streets, desolate, without people, inhabitants, or animals—there will once again be heard
+v11: the sound of joy and gladness, the voice of bridegroom and bride, and the voices of those who say,
+‘Give thanks to the **LORD** of hosts,
+for the **LORD** is good;
+his steadfast love endures forever,’
+as they bring thanksgiving offerings to the house of the **LORD**. For I will restore the land's fortunes as they were before, says the **LORD**.
 </p>
 
-## Flocks Will Again Pass Under the Hand
-
 <p>
-v12: Thus says the LORD of Hosts: “In this place that is a ruin, without human or animal, and in all its cities, there will again be pasture for shepherds resting their flocks.
-
-v13: In the cities of the hill country, in the cities of the foothills, in the cities of the Negev, in the land of Benjamin, in the places around Jerusalem, and in the cities of Judah, flocks will again pass under the hands of the one who counts them,” says the LORD.
+v12: “The **LORD** of hosts says: In this place, now a waste without people or animals, and in all its towns, there will again be pastures where shepherds let their flocks rest.
+v13: In the towns of the hill country, the Shephelah, and the Negeb, in the land of Benjamin, around Jerusalem, and in Judah's towns, flocks will again pass under the hands of the one who counts them, says the **LORD**.
 </p>
 
-## A Righteous Branch for David
+## David’s Branch and the covenant
 
 <p>
-v14: “Look, days are coming,” says the LORD, “when I will establish the good word that I spoke concerning the house of Israel and concerning the house of Judah.
-
-v15: In those days and at that time
-I will cause a righteous Branch
-to sprout for David,
-and he will practice justice and righteousness
-in the land.
-
-v16: In those days Judah will be saved,
-and Jerusalem will dwell securely.
-And this is what she will be called:
-‘The LORD Is Our Righteousness.’
+v14: “Look, days are coming, declares the **LORD**, when I will fulfill the good promise I made to the house of Israel and the house of Judah.
+v15: In those days, at that time,
+I will make a righteous Branch sprout for David.
+He will do what is just and right in the land.
+v16: In those days Judah will be saved
+and Jerusalem will live securely.
+This is what she will be called:
+‘The **LORD** is our righteousness.’
 </p>
 
-## David and the Levitical Priests
-
 <p>
-v17: For thus says the LORD: “David will never lack a man to sit on the throne of the house of Israel,
-
-v18: and the Levitical priests will never lack a man before me to offer burnt offerings, burn grain offerings, and make sacrifices all the days.”
+v17: For the **LORD** says: David will never lack a man to sit on the throne of the house of Israel.
+v18: Nor will the Levitical priests ever lack a man before me to offer burnt offerings, burn grain offerings, and make sacrifices continually.”
 </p>
 
-## Covenant with Day and Night
-
 <p>
-v19: The word of the LORD came to Jeremiah, saying,
-
-v20: “Thus says the LORD: If you can break my covenant with the day and my covenant with the night, so that day and night do not come at their appointed time,
-
-v21: then my covenant with David my servant may also be broken, so that he has no son reigning on his throne, and my covenant with the Levitical priests, my servants.
-
-v22: As the host of heaven cannot be counted and the sand of the sea cannot be measured, so I will multiply the offspring of David my servant and the Levites who minister to me.”
+v19: The word of the **LORD** came to Jeremiah:
+v20: “The **LORD** says: If you can break my covenant with the day and my covenant with the night, so that day and night no longer come at their appointed times,
+v21: then my covenant with my servant David can also be broken, so that he has no son to reign on his throne—and my covenant with the Levitical priests who serve me.
+v22: As the host of heaven cannot be counted and the sand of the sea cannot be measured, so I will multiply the offspring of my servant David and the Levites who serve me.”
 </p>
 
-## I Will Restore Their Fortunes
-
 <p>
-v23: The word of the LORD came to Jeremiah, saying,
-
-v24: “Have you not seen what this people has spoken, saying, ‘The two families that the LORD chose, he has rejected them’? Thus they despise my people so that they are no longer regarded as a nation before them.
-
-v25: Thus says the LORD: If my covenant with day and night does not stand, if I did not appoint the ordinances of heaven and earth,
-
-v26: then I would reject the offspring of Jacob and David my servant, not taking from his offspring rulers over the offspring of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.”
+v23: The word of the **LORD** came to Jeremiah:
+v24: “Have you not noticed what this people says: ‘The **LORD** has rejected the two clans he chose’? They despise my people and no longer regard them as a nation.
+v25: The **LORD** says: If I had not made my covenant with day and night and established the fixed order of heaven and earth,
+v26: then I would also reject the offspring of Jacob and my servant David, and would not choose rulers from his offspring over the offspring of Abraham, Isaac, and Jacob. But I will restore their fortunes and have compassion on them.”
 </p>
 
 ## Notes
 
-v03: The Hebrew term translated “inaccessible” literally describes things fortified or enclosed. The promise is of knowledge beyond Jeremiah’s present reach.
+v02–05: Verse 2 leaves the object of “does,” “shapes,” and “establishes” unstated. Verses 4–5 are syntactically difficult; the reading here connects the demolished houses with defense against siege, followed by their filling with bodies.
 
-v06: “healing and cure” extends the wound imagery of Jeremiah 30. Restoration is described as both bodily healing and revelation of abundant peace and faithfulness.
+v11,15–16: The returning wedding and thanksgiving sounds reverse earlier silence. The righteous Branch recalls 23:5, but in verse 16 the name “The LORD is our righteousness” belongs to Jerusalem, not directly to the ruler.
 
-v11: The thanksgiving refrain echoes liturgical language found elsewhere in Israel’s worship and places restored temple praise in the streets once silenced by judgment.
-
-v15–16: The Branch promise parallels Jeremiah 23:5–6, but here the name “The LORD Is Our Righteousness” is applied to Jerusalem rather than directly to the king.
-
-v17–18: Davidic kingship and Levitical priesthood are set together as enduring institutions within the promise.
-
-v20–26: The regularity of day, night, heaven, and earth becomes the analogy for divine covenant faithfulness.
-
-v14–26: These verses are absent from the ancient Greek form of Jeremiah, which is substantially shorter than the Masoretic form. TSW follows the Masoretic Text as its primary source and notes the significant textual difference.
+v24–26: The “two clans” may refer to Israel and Judah or to the royal and priestly lines just discussed. The main text does not choose between them. Verse 26 follows the marginal causative “restore.”
 
 ## Vocabulary
 
-v03: בְּצֻרוֹת (betsurot)
-“Inaccessible,” “fortified,” or “hidden things.” Things beyond ordinary access or knowledge.
+v03: **Beyond your reach**: The Hebrew image is of things fortified or inaccessible; the promise concerns what the speaker will disclose.
 
-v06: אֲרוּכָה (arukhah)
-“Healing” or “restoration.” Recovery from severe injury.
-
-v11: תּוֹדָה (todah)
-“Thanksgiving.” Praise expressed in worship and offering.
-
-v15: צֶמַח צְדָקָה (tsemach tsedaqah)
-“Righteous Branch.” Growth imagery for renewed Davidic rule.
-
-v20: בְּרִית (berit)
-“Covenant.” Used even of the dependable ordering of day and night.
-
-v25: חֻקּוֹת (chuqqot)
-“Ordinances” or “fixed orders.” The established patterns of heaven and earth.
-
-v26: רָחַם (racham)
-“To have compassion.” The final promise of merciful restoration.
+v18: **Levitical priests**: Priests identified with Levi's lineage; the promise here concerns continuing service before God.

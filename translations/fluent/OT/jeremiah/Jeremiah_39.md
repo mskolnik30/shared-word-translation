@@ -4,94 +4,63 @@ testament: OT
 chapter: 39
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Jerusalem Is Captured
+## Jerusalem falls
 
 <p>
-v01: In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came against Jerusalem and besieged it.
-
-v02: In the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month, the city wall was broken through.
-
-v03: Then all the officials of the king of Babylon came and sat in the Middle Gate: Nergal-Sharezer, Samgar-Nebo, Sarsekim the Rab-Saris, Nergal-Sharezer the Rab-Mag, and all the rest of the officials of the king of Babylon.
+v01: In the tenth month of the ninth year of Zedekiah king of Judah, Nebuchadnezzar king of Babylon and his whole army came against Jerusalem and besieged it.
+v02: In Zedekiah's eleventh year, on the ninth day of the fourth month, the city wall was breached.
+v03: All the officers of the king of Babylon entered and took their seats at the Middle Gate: Nergal-sharezer, Samgar-nebo, Sarsekim the chief court officer, Nergal-sharezer the Rab-mag, and all the rest of the king of Babylon's officers.
 </p>
 
-## Zedekiah Is Captured
+## Zedekiah captured
 
 <p>
-v04: When Zedekiah king of Judah and all the men of war saw them, they fled and went out from the city by night by the way of the king’s garden, through the gate between the two walls, and he went out toward the Arabah.
-
-v05: But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, and he pronounced judgments upon him.
-
-v06: The king of Babylon slaughtered the sons of Zedekiah before his eyes at Riblah. The king of Babylon also slaughtered all the nobles of Judah.
-
-v07: Then he blinded Zedekiah’s eyes and bound him with bronze chains to bring him to Babylon.
+v04: When Zedekiah king of Judah and all the soldiers saw them, they fled. They left the city at night by way of the king's garden, through the gate between the two walls, and the king headed toward the Arabah.
+v05: The Chaldean army pursued them and overtook Zedekiah on the plains of Jericho. They captured him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced sentence on him.
+v06: At Riblah the king of Babylon slaughtered Zedekiah's sons before his eyes. The king of Babylon also slaughtered all the nobles of Judah.
+v07: Then he blinded Zedekiah and bound him in bronze shackles to take him to Babylon.
 </p>
 
-## Jerusalem Is Burned
+## Destruction and release
 
 <p>
-v08: The Chaldeans burned the king’s house and the houses of the people with fire and tore down the walls of Jerusalem.
-
-v09: Nebuzaradan, captain of the guard, carried into exile to Babylon the rest of the people who remained in the city, the deserters who had fallen away to him, and the rest of the people who remained.
-
-v10: Yet Nebuzaradan, captain of the guard, left in the land of Judah some of the poor people who had nothing, and at that time he gave them vineyards and fields.
+v08: The Chaldeans burned the royal palace and the people's houses and tore down Jerusalem's walls.
+v09: Nebuzaradan, captain of the guard, exiled to Babylon the people remaining in the city, the deserters who had gone over to him, and the rest of the remaining people.
+v10: But Nebuzaradan, captain of the guard, left some of the poorest people, who owned nothing, in the land of Judah. That day he gave them vineyards and fields.
 </p>
 
-## Jeremiah Is Released
-
 <p>
-v11: Nebuchadnezzar king of Babylon gave a command concerning Jeremiah by the hand of Nebuzaradan, captain of the guard, saying,
-
-v12: “Take him, set your eyes upon him, and do him no harm, but deal with him just as he speaks to you.”
-
-v13: So Nebuzaradan captain of the guard, Nebushazban the Rab-Saris, Nergal-Sharezer the Rab-Mag, and all the chief officers of the king of Babylon sent,
-
-v14: and they took Jeremiah from the court of the guard and gave him to Gedaliah son of Ahikam, son of Shaphan, to take him home. So he lived among the people.
+v11: Nebuchadnezzar king of Babylon gave Nebuzaradan, captain of the guard, these orders about Jeremiah:
+v12: “Take him and look after him. Do him no harm. Do whatever he asks of you.”
+v13: So Nebuzaradan, captain of the guard, Nebushazban the chief court officer, Nergal-sharezer the Rab-mag, and all the king of Babylon's senior officers
+v14: sent for Jeremiah and took him out of the guard courtyard. They handed him over to Gedaliah son of Ahikam, son of Shaphan, to take him home. So he lived among the people.
 </p>
 
-## A Word for Ebed-Melech
+## A promise to Ebed-melech
 
 <p>
-v15: The word of the LORD had come to Jeremiah while he was shut up in the court of the guard, saying,
-
-v16: “Go and speak to Ebed-Melech the Cushite, saying: Thus says the LORD of Hosts, the God of Israel: Look, I am bringing my words upon this city for harm and not for good, and they will come to pass before you on that day.
-
-v17: Yet I will deliver you on that day,” says the LORD, “and you will not be given into the hand of the men whom you fear.
-
-v18: For I will surely rescue you, and you will not fall by the sword. Your life will be to you as plunder, because you trusted in me,” says the LORD.
+v15: While Jeremiah was still confined in the guard courtyard, the word of the **LORD** had come to him:
+v16: “Go and tell Ebed-melech the Cushite: ‘The **LORD** of hosts, the God of Israel, says: I am bringing my words against this city to fulfillment for harm, not for good. On that day you will see it happen.
+v17: But I will rescue you on that day, declares the **LORD**. You will not be handed over to the men you fear.
+v18: I will certainly deliver you. You will not fall by the sword; your own life will be your plunder, because you trusted in me, declares the **LORD**.’”
 </p>
 
 ## Notes
 
-v02: The breach of Jerusalem’s wall fulfills the repeated warnings of the preceding chapters and marks the military collapse of the city.
+v03,13: The Babylonian names and titles are difficult to divide. Verse 3 follows the Masoretic grouping Samgar-nebo and Sarsekim; another division groups Nebo-sarsechim and treats Samgar as a title. Rab-mag is retained as an official title whose precise office is uncertain.
 
-v03: Several Babylonian titles and names are difficult to divide and transliterate. TSW preserves the received sequence rather than simplifying the list.
+v06–10: The account keeps the king's sons' killing, his blinding, deportation, and the grant of land to some of the poorest survivors distinct.
 
-v06–07: Zedekiah’s final sight is the killing of his sons before he is blinded. The narrative presents the brutality directly and without embellishment.
-
-v10: The poorest people, previously without property, receive vineyards and fields after the elite are deported, creating a stark social reversal.
-
-v11–14: Babylonian authorities protect Jeremiah, while Judah’s own officials had imprisoned him. The irony is central to the narrative.
-
-v15–18: Ebed-Melech’s earlier act of trust and rescue is answered with a personal promise of deliverance. His life, like that of those who surrender in chapter 21, becomes “plunder.”
+v15–18: This message looks back to Jeremiah's confinement. Ebed-melech is promised survival, expressed again as life gained as plunder.
 
 ## Vocabulary
 
-v02: בָּקַע (baqa)
-“To break through” or “breach.” Used of the city wall.
+v04: **Arabah**: The rift-valley region toward which the king fled.
 
-v05: שָׁפַט (shafat)
-“To judge.” Nebuchadnezzar pronounces judgment on Zedekiah.
-
-v07: נְחֹשֶׁת (nechoshet)
-“Bronze.” Zedekiah is bound with bronze chains.
-
-v09: נָפַל אֶל (nafal el)
-“To fall away to” or “desert to.” Used of those who surrendered to Babylon.
-
-v12: שִׂים עֵינֶיךָ (sim einekha)
-“Set your eyes upon him.” An idiom of attentive care or oversight.
-
-v18: בָּטַח (batach)
-“To trust.” Ebed-Melech’s confidence in the LORD is named as the ground of his deliverance.
+v09: **Captain of the guard**: The Babylonian officer responsible here for deportations and Jeremiah's release.

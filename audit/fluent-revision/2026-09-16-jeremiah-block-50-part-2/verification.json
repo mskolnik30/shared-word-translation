@@ -1,0 +1,205 @@
+{
+  "status": "PASSED",
+  "base_commit": "5e54ee1d98ad89c2fc37d3927004dca07acd406a",
+  "new_chapters": 20,
+  "new_verses": 517,
+  "unique_original_source_records": {
+    "jeremiah": 517
+  },
+  "cumulative_coverage": {
+    "ledgers": 86,
+    "chapters": 790,
+    "verses": 20065
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 85,
+    "chapters_byte_identical": 770,
+    "verses": 19548,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for affected Jeremiah ledger",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Jeremiah 21:1": [
+      "Pashhur",
+      "Malchijah",
+      "Zephaniah",
+      "Maaseiah"
+    ],
+    "Jeremiah 22:30": [
+      "childless",
+      "David"
+    ],
+    "Jeremiah 23:6": [
+      "righteousness"
+    ],
+    "Jeremiah 25:1": [
+      "fourth",
+      "first"
+    ],
+    "Jeremiah 25:3": [
+      "twenty-three",
+      "thirteenth"
+    ],
+    "Jeremiah 25:11": [
+      "seventy"
+    ],
+    "Jeremiah 27:1": [
+      "Jehoiakim"
+    ],
+    "Jeremiah 27:3": [
+      "Zedekiah"
+    ],
+    "Jeremiah 27:7": [
+      "grandson"
+    ],
+    "Jeremiah 28:1": [
+      "fourth",
+      "fifth"
+    ],
+    "Jeremiah 28:3": [
+      "two"
+    ],
+    "Jeremiah 28:17": [
+      "seventh"
+    ],
+    "Jeremiah 29:10": [
+      "seventy",
+      "Babylon"
+    ],
+    "Jeremiah 30:9": [
+      "David"
+    ],
+    "Jeremiah 31:9": [
+      "Ephraim",
+      "firstborn"
+    ],
+    "Jeremiah 31:22": [
+      "woman",
+      "man"
+    ],
+    "Jeremiah 31:31": [
+      "Israel",
+      "Judah"
+    ],
+    "Jeremiah 31:32": [
+      "husband"
+    ],
+    "Jeremiah 31:40": [
+      "corpses",
+      "ashes"
+    ],
+    "Jeremiah 32:1": [
+      "tenth",
+      "eighteenth"
+    ],
+    "Jeremiah 32:9": [
+      "seventeen"
+    ],
+    "Jeremiah 32:12": [
+      "Hanamel",
+      "Baruch",
+      "Neriah",
+      "Mahseiah"
+    ],
+    "Jeremiah 32:35": [
+      "sons",
+      "daughters",
+      "sacrifice"
+    ],
+    "Jeremiah 32:44": [
+      "Shephelah",
+      "Negeb"
+    ],
+    "Jeremiah 33:16": [
+      "she",
+      "righteousness"
+    ],
+    "Jeremiah 34:7": [
+      "Lachish",
+      "Azekah"
+    ],
+    "Jeremiah 34:14": [
+      "seven",
+      "six"
+    ],
+    "Jeremiah 34:18": [
+      "calf"
+    ],
+    "Jeremiah 35:8": [
+      "wives",
+      "sons",
+      "daughters"
+    ],
+    "Jeremiah 35:11": [
+      "Chaldean",
+      "Aramean"
+    ],
+    "Jeremiah 36:1": [
+      "fourth"
+    ],
+    "Jeremiah 36:9": [
+      "fifth",
+      "ninth"
+    ],
+    "Jeremiah 36:23": [
+      "three",
+      "four"
+    ],
+    "Jeremiah 36:32": [
+      "added"
+    ],
+    "Jeremiah 37:3": [
+      "Jehucal"
+    ],
+    "Jeremiah 38:1": [
+      "Jucal"
+    ],
+    "Jeremiah 38:10": [
+      "thirty"
+    ],
+    "Jeremiah 38:12": [
+      "armpits"
+    ],
+    "Jeremiah 38:28": [
+      "captured"
+    ],
+    "Jeremiah 39:1": [
+      "ninth",
+      "tenth"
+    ],
+    "Jeremiah 39:2": [
+      "eleventh",
+      "ninth",
+      "fourth"
+    ],
+    "Jeremiah 39:6": [
+      "sons"
+    ],
+    "Jeremiah 39:7": [
+      "blinded",
+      "bronze"
+    ]
+  },
+  "versification": "All 517 public labels match original Hebrew records. Final capture clause is inside 38:28.",
+  "repeated_refrains": "Divine-name repetitions checked verse by verse; recurring promise and judgment phrases reread.",
+  "focused_authoring_reread": 194,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "All prior pending reviews preserved.",
+  "active_fifty_chapter_block": {
+    "scope": "Jeremiah 8–52; Lamentations 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 33,
+    "completed_scope": "Jeremiah 8–40",
+    "completed_verses": 804,
+    "remaining_scope": "Jeremiah 41–52; Lamentations 1–5",
+    "remaining_chapters": 17,
+    "qualification": "Completed portion checked and checkpointed; the fifty-chapter block is not yet complete. No approval pause is required."
+  },
+  "publication_allowed": false
+}

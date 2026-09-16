@@ -4,94 +4,67 @@ testament: OT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Zedekiah Seeks a Word from the LORD
+## A message for Zedekiah
 
 <p>
-v01: The word that came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malchijah and Zephaniah son of Maaseiah the priest, saying,
-
-v02: “Please inquire of the LORD for us, because Nebuchadnezzar king of Babylon is making war against us. Perhaps the LORD will deal with us according to all his wonders, so that he will withdraw from us.”
-
-v03: Then Jeremiah said to them, “Thus you will say to Zedekiah:
-
-v04: Thus says the LORD, the God of Israel: Look, I am turning back the weapons of war that are in your hands, with which you are fighting the king of Babylon and the Chaldeans who are besieging you outside the wall, and I will gather them into the midst of this city.
-
-v05: I myself will fight against you with an outstretched hand and a strong arm, in anger and fury and great wrath.
-
-v06: I will strike the inhabitants of this city, both human and animal. They will die by a great plague.
-
-v07: Afterward, says the LORD, I will give Zedekiah king of Judah, his servants, the people, and people who survive in this city from plague, sword, and famine into the hand of Nebuchadnezzar king of Babylon, into the hand of their enemies, and into the hand of people who seek their lives. He will strike them with the edge of the sword. He will not spare them or have pity or compassion.”
+v01: This is the word that came to Jeremiah from the **LORD** when King Zedekiah sent Pashhur son of Malchijah and the priest Zephaniah son of Maaseiah to him. They said,
+v02: “Please inquire of the **LORD** for us. Nebuchadnezzar king of Babylon is making war on us. Perhaps the **LORD** will act for us with all his wonders and make him withdraw.”
+v03: Jeremiah told them, “This is what you must say to Zedekiah:
+v04: ‘The **LORD**, the God of Israel, says: I am turning back the weapons in your hands—the weapons you are using against the king of Babylon and the Chaldeans besieging you outside the wall. I will gather them into the middle of this city.
+v05: I myself will fight against you with an outstretched hand and a strong arm, in anger, wrath, and great fury.
+v06: I will strike down the inhabitants of this city, both people and animals. A terrible plague will kill them.
+v07: After that, declares the **LORD**, I will hand over Zedekiah king of Judah, his servants, and the people—those left in this city after the plague, the sword, and the famine—to Nebuchadnezzar king of Babylon, to their enemies, to those seeking their lives. He will put them to the sword without sparing them, without pity, without compassion.’
 </p>
 
-## The Way of Life and the Way of Death
+## The way of life and the way of death
 
 <p>
-v08: “And to this people you will say: Thus says the LORD: Look, I set before you the way of life and the way of death.
-
-v09: Whoever remains in this city will die by sword, famine, or plague; but whoever goes out and falls away to the Chaldeans who are besieging you will live, and their life will be to them as plunder.
-
-v10: For I have set my face against this city for harm and not for good, says the LORD. It will be given into the hand of the king of Babylon, and he will burn it with fire.
+v08: “Tell this people: ‘The **LORD** says: Look, I am setting before you the way of life and the way of death.
+v09: Anyone who stays in this city will die by sword, famine, or plague. Anyone who goes out and surrenders to the Chaldeans besieging you will live; that person's own life will be their plunder.
+v10: For I have set my face against this city for harm, not for good, declares the **LORD**. It will be handed over to the king of Babylon, and he will burn it down.’
 </p>
 
-## To the House of David
+## Justice in the royal house
 
 <p>
-v11: “And concerning the house of the king of Judah:
-
-Hear the word of the LORD,
-house of David.
-
-v12: Thus says the LORD:
-
-Execute justice in the morning,
-and rescue the one who has been robbed
-from the hand of the oppressor,
-lest my fury go out like fire
-and burn with no one to extinguish it
-because of the evil of your deeds.
-
-v13: Look, I am against you,
-inhabitant of the valley,
-rock of the plain,
-says the LORD,
-you who say,
-‘Who can come down against us?
-Who can enter our dwellings?’
-
-v14: I will attend to you
-according to the fruit of your deeds,
-says the LORD.
-I will kindle a fire in her forest,
-and it will consume
-all that is around her.”
+v11: “To the house of the king of Judah: Hear the word of the **LORD**!
+v12: House of David, the **LORD** says:
+Administer justice each morning.
+Rescue the one who has been robbed from the oppressor's hand,
+or my fury will break out like fire
+and burn with no one to put it out
+because of your evil deeds.
+v13: I am against you,
+you who live in the valley, on the rock of the plateau,
+declares the **LORD**—
+you who say, ‘Who can come down against us?
+Who can enter our homes?’
+v14: I will call you to account for the fruit of your deeds,
+declares the **LORD**.
+I will set fire to her forest,
+and it will consume everything around her.”
 </p>
 
 ## Notes
 
-v01: Pashhur son of Malchijah is distinct from Pashhur son of Immer in Jeremiah 20. The repeated name should not be harmonized into one person.
+v01: Pashhur son of Malchijah is not Pashhur son of Immer, who struck Jeremiah in 20:1–2.
 
-v02: Zedekiah seeks a miraculous reversal comparable to earlier acts of divine deliverance, but Jeremiah announces that the LORD will oppose Jerusalem rather than defend it.
+v02: The Hebrew uses a form often transliterated Nebuchadrezzar here; this translation uses Nebuchadnezzar consistently for the same king.
 
-v05: The language of “outstretched hand and strong arm,” often associated with the LORD’s deliverance of Israel from Egypt, is turned here toward judgment against Jerusalem.
+v04: “Them” can refer back to the weapons or to the besieging forces. The wording leaves the reference open.
 
-v08–09: “the way of life and the way of death” is startling because survival requires surrender to Babylon. Covenant language is retained while expected categories of loyalty are reversed.
+v09: “Life will be their plunder” means escaping with life as the gain from the conflict. The image recurs in 38:2 and 39:18.
 
-v13: Jerusalem is addressed through difficult topographical imagery. “Inhabitant of the valley, rock of the plain” may evoke the city’s sense of natural defensibility without precisely identifying a single feature.
+v12: “Your evil deeds” follows the marginal reading; the written form says “their evil deeds.”
 
 ## Vocabulary
 
-v02: דָּרַשׁ (darash)
-“To inquire” or “seek.” Zedekiah asks Jeremiah to seek a word from the LORD.
+v09: **Chaldeans**: The people associated here with Babylon's army and rule.
 
-v05: אַף (af)
-“Anger.” Often paired with stronger terms for fury and wrath.
-
-v08: דֶּרֶךְ חַיִּים (derekh chayyim)
-“Way of life.” The path leading to survival in the LORD’s announced judgment.
-
-v09: שָׁלַל (shalal)
-“Plunder.” In the idiom “life as plunder,” one escapes with life itself as the only spoil.
-
-v12: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right ordering that the royal house is commanded to practice.
+v12: **House of David**: The royal dynasty descended from David.

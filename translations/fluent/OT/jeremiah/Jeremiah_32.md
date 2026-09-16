@@ -4,153 +4,93 @@ testament: OT
 chapter: 32
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## Jeremiah Is Imprisoned
+## Confined during the siege
 
 <p>
-v01: The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
-
-v02: At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was shut up in the court of the guard that was in the house of the king of Judah.
-
-v03: For Zedekiah king of Judah had shut him up, saying, “Why do you prophesy, saying, ‘Thus says the LORD: Look, I am giving this city into the hand of the king of Babylon, and he will capture it;
-
-v04: and Zedekiah king of Judah will not escape from the hand of the Chaldeans, but will surely be given into the hand of the king of Babylon and speak with him mouth to mouth and see him eye to eye;
-
-v05: and he will take Zedekiah to Babylon, and there he will remain until I attend to him, says the LORD. Though you fight against the Chaldeans, you will not succeed’?”
+v01: This word came to Jeremiah from the **LORD** in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
+v02: At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was confined in the guard courtyard of the palace of the king of Judah.
+v03: Zedekiah king of Judah had confined him, saying, “Why do you prophesy this: ‘The **LORD** says: I am handing this city over to the king of Babylon, and he will capture it?
+v04: Zedekiah king of Judah will not escape the Chaldeans. He will certainly be handed over to the king of Babylon and speak with him face to face, looking him in the eyes.
+v05: He will take Zedekiah to Babylon, where he will remain until I attend to him, declares the **LORD**. Though you fight the Chaldeans, you will not succeed.’”
 </p>
 
-## Jeremiah Buys a Field
+## A field purchased at Anathoth
 
 <p>
-v06: Jeremiah said, “The word of the LORD came to me, saying,
-
-v07: ‘Look, Hanamel son of Shallum your uncle is coming to you, saying, “Buy for yourself my field that is at Anathoth, for the right of redemption to buy it belongs to you.”’
-
-v08: Then Hanamel my cousin came to me in the court of the guard according to the word of the LORD and said to me, ‘Please buy my field that is at Anathoth in the land of Benjamin, for the right of inheritance is yours and the redemption is yours. Buy it for yourself.’ Then I knew that this was the word of the LORD.
-
-v09: So I bought the field at Anathoth from Hanamel my cousin and weighed out the silver to him: seventeen shekels of silver.
-
+v06: Jeremiah said, “The word of the **LORD** came to me:
+v07: ‘Hanamel, the son of your uncle Shallum, is coming to you. He will say, “Buy my field at Anathoth, because you have the right of redemption to buy it.”’
+v08: Just as the **LORD** had said, my cousin Hanamel came to me in the guard courtyard. He said, ‘Please buy my field at Anathoth in the land of Benjamin. You have the inheritance right and the right of redemption. Buy it for yourself.’ Then I knew this was the word of the **LORD**.
+v09: “So I bought the field at Anathoth from my cousin Hanamel and weighed out the silver for him: seventeen shekels.
 v10: I wrote the deed, sealed it, called witnesses, and weighed the silver on scales.
-
-v11: Then I took the deed of purchase, both the sealed copy containing the terms and conditions and the open copy,
-
-v12: and I gave the deed of purchase to Baruch son of Neriah, son of Mahseiah, in the sight of Hanamel my cousin, in the sight of the witnesses who signed the deed of purchase, and in the sight of all the Judeans who were sitting in the court of the guard.
-
-v13: I commanded Baruch in their sight, saying,
-
-v14: ‘Thus says the LORD of Hosts, the God of Israel: Take these deeds, this sealed deed of purchase and this open deed, and put them in an earthen jar so that they may last many days.
-
-v15: For thus says the LORD of Hosts, the God of Israel: Houses and fields and vineyards will again be bought in this land.’
+v11: Then I took the purchase deed, the sealed document containing the terms and conditions, and the open copy.
+v12: I gave the purchase deed to Baruch son of Neriah, son of Mahseiah, in the presence of my kinsman Hanamel, the witnesses who signed the purchase deed, and all the Judeans sitting in the guard courtyard.
+v13: In their presence I gave Baruch these instructions:
+v14: ‘The **LORD** of hosts, the God of Israel, says: Take these documents, this purchase deed—the sealed one—and this open document, and put them in an earthenware jar so they will last a long time.
+v15: For the **LORD** of hosts, the God of Israel, says: Houses, fields, and vineyards will again be bought in this land.’
 </p>
 
-## Jeremiah Prays
+## Jeremiah’s prayer
 
 <p>
-v16: After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD, saying:
-
-v17: “Ah, Lord GOD! Look, you made the heavens and the earth by your great power and your outstretched arm. Nothing is too wonderful for you.
-
-v18: You show steadfast love to thousands, but repay the guilt of fathers into the bosom of their children after them—the great and mighty God, whose name is the LORD of Hosts,
-
-v19: great in counsel and mighty in deed, whose eyes are open upon all the ways of human beings, giving to each according to his ways and according to the fruit of his deeds.
-
-v20: You set signs and wonders in the land of Egypt, and to this day in Israel and among humanity, and you made for yourself a name as it is this day.
-
-v21: You brought your people Israel out from the land of Egypt with signs and wonders, with a strong hand and an outstretched arm, and with great terror.
-
-v22: You gave them this land, which you swore to their ancestors to give them, a land flowing with milk and honey.
-
-v23: They entered and possessed it, but they did not listen to your voice or walk in your instruction. They did nothing of all that you commanded them to do. Therefore you caused all this disaster to meet them.
-
-v24: Look, the siege ramps have come to the city to capture it, and the city is given into the hand of the Chaldeans who fight against it because of sword, famine, and plague. What you spoke has happened, and look, you see it.
-
-v25: Yet you, Lord GOD, said to me, ‘Buy the field with silver and call witnesses,’ though the city is given into the hand of the Chaldeans!”
+v16: “After giving the purchase deed to Baruch son of Neriah, I prayed to the **LORD**:
+v17: ‘Ah, Lord **GOD**! You made the heavens and the earth by your great power and your outstretched arm. Nothing is too difficult for you.
+v18: You show steadfast love to thousands and repay the guilt of fathers into the laps of their children after them. Great and mighty God, whose name is the **LORD** of hosts,
+v19: you are great in counsel and mighty in deeds. Your eyes are open to all the ways of human beings, to give each person according to their ways and the fruit of their deeds.
+v20: You performed signs and wonders in the land of Egypt and have continued them to this day, in Israel and among humankind. You made a name for yourself that remains to this day.
+v21: You brought your people Israel out of the land of Egypt with signs and wonders, a strong hand, an outstretched arm, and great terror.
+v22: You gave them this land, which you swore to give their ancestors, a land flowing with milk and honey.
+v23: They entered and possessed it, but they did not listen to your voice or follow your instruction. They did none of what you commanded them to do. So you brought all this disaster upon them.
+v24: Look, the siege ramps have reached the city to capture it. Through sword, famine, and plague, the city is being handed over to the Chaldeans who are fighting against it. What you said has happened, as you can see.
+v25: Yet you, Lord **GOD**, told me, “Buy the field with silver and call witnesses,” even though the city is being handed over to the Chaldeans!’”
 </p>
 
-## Nothing Is Too Wonderful for the LORD
+## The answer: disaster and restoration
 
 <p>
-v26: Then the word of the LORD came to Jeremiah, saying,
-
-v27: “Look, I am the LORD, the God of all flesh. Is anything too wonderful for me?
-
-v28: So thus says the LORD: Look, I am giving this city into the hand of the Chaldeans and into the hand of Nebuchadnezzar king of Babylon, and he will capture it.
-
-v29: The Chaldeans who fight against this city will come and set this city on fire and burn it, along with the houses upon whose roofs they burned incense to Baal and poured out drink offerings to other gods to provoke me to anger.
-
-v30: For the children of Israel and the children of Judah have done only evil in my eyes from their youth. Indeed, the children of Israel have only provoked me to anger by the work of their hands,” says the LORD.
-
-v31: “For this city has been to me a cause of anger and fury from the day they built it to this day, so that I will remove it from before my face,
-
-v32: because of all the evil of the children of Israel and the children of Judah that they did to provoke me to anger—they, their kings, their officials, their priests, their prophets, the men of Judah, and the inhabitants of Jerusalem.
-
-v33: They turned to me the back and not the face. Though I taught them, rising early and teaching, they did not listen to receive discipline.
-
-v34: They put their detestable things in the house that is called by my name, to defile it.
-
-v35: They built the high places of Baal that are in the Valley of Ben-Hinnom to make their sons and daughters pass through the fire to Molech, which I did not command them, nor did it enter my heart that they should do this abomination, causing Judah to sin.
+v26: Then the word of the **LORD** came to Jeremiah:
+v27: “Look, I am the **LORD**, the God of all flesh. Is anything too difficult for me?
+v28: So the **LORD** says: I am handing this city over to the Chaldeans and to Nebuchadnezzar king of Babylon, and he will capture it.
+v29: The Chaldeans fighting against this city will come in, set it on fire, and burn it down, along with the houses on whose roofs people burned offerings to Baal and poured out drink offerings to other gods, provoking me.
+v30: From their youth, the people of Israel and Judah have done nothing but evil in my eyes. The people of Israel have done nothing but provoke me with the work of their hands, declares the **LORD**.
+v31: From the day it was built until today, this city has stirred my anger and wrath, so that I must remove it from my presence.
+v32: This is because of all the evil the people of Israel and Judah have done to provoke me—they, their kings, their officials, their priests, their prophets, the people of Judah, and the inhabitants of Jerusalem.
+v33: They turned their backs to me, not their faces. Though I taught them again and again, they would not listen and accept correction.
+v34: They put their detestable things in the house that bears my name and defiled it.
+v35: They built the high places of Baal in the Valley of Ben-hinnom to sacrifice their sons and daughters to Molech. I never commanded them to do this; it never entered my heart that they should commit such an abomination and lead Judah into sin.
 </p>
 
-## Fields Will Again Be Bought
-
 <p>
-v36: “And now therefore thus says the LORD, the God of Israel, concerning this city of which you say, ‘It is given into the hand of the king of Babylon by sword, famine, and plague’:
-
-v37: Look, I will gather them from all the lands where I drove them in my anger, fury, and great wrath. I will bring them back to this place and make them dwell securely.
-
+v36: “Now, therefore, the **LORD**, the God of Israel, says this about the city you say is being handed over to the king of Babylon through sword, famine, and plague:
+v37: I will gather them from all the lands where I drove them in my anger, wrath, and great fury. I will bring them back to this place and let them live in safety.
 v38: They will be my people, and I will be their God.
-
-v39: I will give them one heart and one way, that they may fear me all their days, for their good and for the good of their children after them.
-
-v40: I will make an everlasting covenant with them, that I will not turn away from doing good to them. I will put the fear of me in their hearts, so that they will not turn away from me.
-
-v41: I will rejoice over them to do good to them, and I will plant them in this land in faithfulness, with all my heart and with all my life.
-
-v42: For thus says the LORD: Just as I have brought all this great disaster upon this people, so I will bring upon them all the good that I am speaking concerning them.
-
-v43: Fields will be bought in this land of which you say, ‘It is desolate, without human or animal; it is given into the hand of the Chaldeans.’
-
-v44: They will buy fields with silver, write deeds, seal them, and call witnesses in the land of Benjamin, in the places around Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the foothills, and in the cities of the Negev, for I will restore their fortunes,” says the LORD.
+v39: I will give them one heart and one way, so that they will fear me always, for their own good and the good of their children after them.
+v40: I will make an everlasting covenant with them: I will never turn away from doing them good. I will put the fear of me in their hearts, so that they will not turn away from me.
+v41: I will rejoice in doing them good, and I will faithfully plant them in this land with all my heart and all my soul.
+v42: “For the **LORD** says: Just as I brought all this great disaster on this people, so I will bring on them all the good I am promising them.
+v43: Fields will again be bought in this land that you call a desolate waste, without people or animals, handed over to the Chaldeans.
+v44: People will buy fields with silver, write and seal deeds, and call witnesses in the land of Benjamin, around Jerusalem, in the towns of Judah, and in the towns of the hill country, the Shephelah, and the Negeb. For I will restore their fortunes, declares the **LORD**.”
 </p>
 
 ## Notes
 
-v01: The chapter is set during the final siege of Jerusalem. The symbolic purchase of land therefore occurs precisely when ordinary confidence in Judean property has collapsed.
+v07–12: Hanamel is identified as Jeremiah's cousin in verses 7–9. Verse 12 uses the word normally meaning “uncle”; “kinsman” preserves the family relationship while this discrepancy remains visible here.
 
-v07–08: The “right of redemption” reflects kinship responsibility for preserving family land. Jeremiah’s legal obligation becomes a prophetic sign of future restoration.
+v11–14: The wording distinguishes sealed and open documents. It does not fully describe the physical arrangement of the copies. The earthenware jar is intended to preserve them.
 
-v10–14: The legal details—deed, seal, witnesses, scales, copies, and storage jar—give the promise a concrete documentary form intended to outlast the siege.
+v17–18,27: “Too difficult” can also be rendered “too wonderful.” The prayer retains both abundant steadfast love and the image of repaying fathers' guilt into their children's laps, alongside the individual accountability language in chapter 31.
 
-v17, v27: Jeremiah’s confession that nothing is too wonderful for the LORD is returned to him as a divine question. Creation power becomes the basis both for judgment and restoration.
-
-v18: The language of guilt reaching later generations is held within a prayer that also immediately names the LORD’s steadfast love to thousands. The chapter does not reduce covenant consequence to a simple formula of inherited blame.
-
-v35: The LORD explicitly denies commanding child sacrifice and says it did not enter the divine heart. The text refuses to identify such acts with legitimate worship.
-
-v39–40: Future faithfulness is described through divine transformation of the heart, fear, and covenant, not merely external return to land.
-
-v41: The LORD is unusually described as planting the people “with all my heart and with all my life,” applying whole-person covenant language to divine commitment.
+v35: Literally, they “caused their sons and daughters to pass over to Molech.” In this sacrificial setting the expression concerns offering children, not ordinary dedication; the violence is also explicit in 19:5.
 
 ## Vocabulary
 
-v07: גְּאֻלָּה (ge'ullah)
-“Redemption right.” The kinship right or responsibility to reclaim family property.
+v07: **Right of redemption**: A relative's claim to recover or purchase family property.
 
-v10: סֵפֶר מִקְנָה (sefer miqnah)
-“Deed of purchase.” A written legal record of property acquisition.
+v09: **Shekel**: A unit of weight for the silver payment; the text describes weighed silver, not seventeen minted coins.
 
-v14: כְּלִי חֶרֶשׂ (keli cheres)
-“Earthen jar.” A pottery vessel used for long-term preservation of the deeds.
-
-v17: פָּלָא (pala)
-“To be wonderful” or “too difficult.” Nothing lies beyond the LORD’s power.
-
-v35: תּוֹעֵבָה (toevah)
-“Abomination.” A deeply detestable act.
-
-v40: בְּרִית עוֹלָם (berit olam)
-“Everlasting covenant.” A covenant described as enduring.
-
-v44: שׁוּב שְׁבוּת (shuv shevut)
-“To restore the fortunes.” The promised reversal concluding the chapter.
+v44: **Shephelah; Negeb**: The lowland or foothill region and the southern region, named alongside the hill country.

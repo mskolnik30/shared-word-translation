@@ -4,98 +4,62 @@ testament: OT
 chapter: 34
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-jeremiah-21-40-biblical-fluency-2026-09-16
 ---
 
-## A Word to Zedekiah During the Siege
+## A word for Zedekiah
 
 <p>
-v01: The word that came to Jeremiah from the LORD when Nebuchadnezzar king of Babylon and all his army, all the kingdoms of the earth under his rule, and all the peoples were fighting against Jerusalem and all its cities, saying,
-
-v02: “Thus says the LORD, the God of Israel: Go and speak to Zedekiah king of Judah and say to him: Thus says the LORD: Look, I am giving this city into the hand of the king of Babylon, and he will burn it with fire.
-
-v03: You will not escape from his hand, but will surely be captured and given into his hand. Your eyes will see the eyes of the king of Babylon, and his mouth will speak with your mouth, and you will go to Babylon.
-
-v04: Yet hear the word of the LORD, Zedekiah king of Judah. Thus says the LORD concerning you: You will not die by the sword.
-
-v05: You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you, and they will lament for you, ‘Alas, lord!’ For I have spoken the word,” says the LORD.
-
-v06: Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem,
-
-v07: while the army of the king of Babylon was fighting against Jerusalem and against all the cities of Judah that remained: Lachish and Azekah, for these fortified cities remained among the cities of Judah.
+v01: This word came to Jeremiah from the **LORD** while Nebuchadnezzar king of Babylon, all his army, all the kingdoms under his rule, and all the peoples were fighting Jerusalem and all its towns:
+v02: “The **LORD**, the God of Israel, says: Go to Zedekiah king of Judah and tell him, ‘The **LORD** says: I am handing this city over to the king of Babylon, and he will burn it down.
+v03: You will not escape him. You will certainly be captured and handed over to him. You will look the king of Babylon in the eyes, and he will speak with you face to face. You will go to Babylon.
+v04: Yet hear the word of the **LORD**, Zedekiah king of Judah. The **LORD** says this about you: You will not die by the sword.
+v05: You will die in peace. As people made funeral burnings for your ancestors, the kings before you, so they will make burnings for you and mourn you, saying, “Alas, lord!” I myself have spoken this word, declares the **LORD**.’”
+v06: Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem.
+v07: The army of the king of Babylon was fighting Jerusalem and the towns of Judah still holding out—Lachish and Azekah, the only fortified towns of Judah that remained.
 </p>
 
-## A Covenant to Release Hebrew Servants
+## Freedom proclaimed and taken back
 
 <p>
-v08: The word that came to Jeremiah from the LORD after King Zedekiah had made a covenant with all the people who were in Jerusalem to proclaim release to them:
-
-v09: that each person should release his Hebrew male servant and female servant, a Hebrew man or woman, so that no Judean should hold his brother or sister in service.
-
-v10: All the officials and all the people who entered into the covenant listened, each releasing his male servant and female servant so that they would no longer hold them in service. They listened and released them.
-
-v11: But afterward they turned back and took again the male servants and female servants whom they had released as free and forced them again into male and female servitude.
+v08: This word came to Jeremiah from the **LORD** after King Zedekiah made a covenant with all the people in Jerusalem to proclaim freedom for them:
+v09: Everyone was to free their Hebrew slaves, male and female, so that no one would keep a fellow Judean, a brother, enslaved.
+v10: All the officials and all the people who entered the covenant agreed to free their male and female slaves and no longer keep them enslaved. They obeyed and set them free.
+v11: But afterward they changed course. They took back the male and female slaves they had freed and forced them into slavery again.
 </p>
 
-## You Turned Back and Profaned My Name
+## A broken covenant
 
 <p>
-v12: Then the word of the LORD came to Jeremiah from the LORD, saying,
-
-v13: “Thus says the LORD, the God of Israel: I made a covenant with your ancestors on the day I brought them out from the land of Egypt, from the house of slavery, saying,
-
-v14: ‘At the end of seven years, each of you will release his Hebrew brother who has been sold to you and has served you six years. You will let him go free from you.’ But your ancestors did not listen to me or incline their ear.
-
-v15: You yourselves had turned today and done what is right in my eyes by proclaiming release each to his neighbor, and you made a covenant before me in the house that is called by my name.
-
-v16: But you turned back and profaned my name, each taking back his male servant and female servant whom you had released as free according to their desire, and you forced them to become your male and female servants.
+v12: Then the word of the **LORD** came to Jeremiah from the **LORD**:
+v13: “The **LORD**, the God of Israel, says: I made a covenant with your ancestors when I brought them out of the land of Egypt, out of the house of slavery. I said:
+v14: ‘At the end of seven years, each of you must release a Hebrew brother who has been sold to you and has served you six years. You must set him free from your service.’ But your ancestors did not listen to me or incline their ears.
+v15: Recently you turned back and did what was right in my eyes: each of you proclaimed freedom for your neighbor. You made a covenant before me in the house that bears my name.
+v16: Then you turned back again and profaned my name. Each of you took back the male and female slaves you had set free to live as they wished, and forced them to be your slaves again.
 </p>
 
-## I Proclaim Release to the Sword
-
 <p>
-v17: So thus says the LORD: “You have not listened to me, to proclaim release each to his brother and each to his neighbor. Look, I am proclaiming release to you,” says the LORD, “to the sword, to plague, and to famine. I will make you a horror to all the kingdoms of the earth.
-
-v18: I will give the men who transgressed my covenant, who did not establish the words of the covenant that they made before me when they cut the calf in two and passed between its parts—
-
-v19: the officials of Judah, the officials of Jerusalem, the court officials, the priests, and all the people of the land who passed between the parts of the calf—
-
-v20: I will give them into the hand of their enemies and into the hand of people who seek their lives. Their dead bodies will become food for the birds of the heavens and the animals of the earth.
-
-v21: Zedekiah king of Judah and his officials I will give into the hand of their enemies and into the hand of people who seek their lives, into the hand of the army of the king of Babylon that has withdrawn from you.
-
-v22: Look, I am commanding,” says the LORD, “and I will bring them back to this city. They will fight against it, capture it, and burn it with fire. I will make the cities of Judah a desolation without inhabitant.”
+v17: So the **LORD** says: You have not listened to me by proclaiming freedom for your brother and your neighbor. Now I proclaim freedom for you, declares the **LORD**—freedom to the sword, to plague, and to famine! I will make you an object of horror to all the kingdoms of the earth.
+v18: I will make the men who violated my covenant, who did not carry out the terms of the covenant they made before me, like the calf they cut in two and passed between its pieces:
+v19: the officials of Judah and Jerusalem, the court officers, the priests, and all the people of the land who passed between the calf's pieces.
+v20: I will hand them over to their enemies, to those seeking their lives. Their bodies will become food for the birds of the sky and the animals of the earth.
+v21: I will also hand Zedekiah king of Judah and his officials over to their enemies, to those seeking their lives, and to the army of the king of Babylon that has withdrawn from you.
+v22: I will give the command, declares the **LORD**, and bring them back to this city. They will fight it, capture it, and burn it down. I will make Judah's towns a waste, without inhabitants.”
 </p>
 
 ## Notes
 
-v04–05: Zedekiah is promised a peaceful death and royal lament even though he will be captured and taken to Babylon. The promise concerns the manner and honor of his death rather than escape from exile.
+v05: The text speaks of funeral burnings but does not name what is burned. It should not be taken as an explicit statement that the body is cremated.
 
-v08–11: The release of Hebrew servants occurs under siege pressure and is then reversed. The chapter treats the reversal not simply as social injustice but as covenant violation.
+v09–11,16–17: The people actually freed enslaved men and women, then forcibly enslaved them again. The resulting “freedom” to sword, plague, and famine is a bitter reversal of their broken pledge.
 
-v14: The wording reflects Israel’s instruction concerning release after six years of service. Jeremiah interprets the practice through the memory of liberation from Egypt.
+v14: The source retains both “at the end of seven years” and “served you six years.” The translation does not replace either number to simplify their relationship.
 
-v17: The LORD answers the people’s refusal to “proclaim release” with bitter wordplay: the LORD proclaims “release” to sword, plague, and famine.
-
-v18–19: Cutting an animal and passing between its parts was a covenant-making action. The enacted curse becomes the framework for judgment upon those who violated the covenant.
-
-v21: Babylon’s army had temporarily withdrawn, likely because of Egyptian military movement. The LORD declares that the reprieve will not last.
+v18–20: Passing between the cut calf's pieces accompanies the covenant. The threatened fate of the covenant breakers is set beside that of the animal.
 
 ## Vocabulary
 
-v08: דְּרוֹר (deror)
-“Release” or “liberty.” Freedom proclaimed to those held in servitude.
-
-v13: בֵּית עֲבָדִים (bet avadim)
-“House of slavery.” A traditional description of Egypt.
-
-v16: חָלַל (chalal)
-“To profane.” To treat what is holy as common or dishonor the divine name.
-
-v18: עָבַר בְּרִית (avar berit)
-“To transgress a covenant.” To violate its binding terms.
-
-v18: בָּתַר (batar)
-“To cut in two.” Used of dividing the covenantal calf.
-
-v22: שְׁמָמָה (shemamah)
-“Desolation.” A condition of devastation and abandonment.
+v08: **Covenant**: A binding commitment; here a public pledge made before God to release enslaved people.
