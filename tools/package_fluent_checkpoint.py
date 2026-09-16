@@ -87,7 +87,7 @@ def main():
             active_reader.append(rendered);active_count+=1
     assert active_count==block['completed_chapters']
     (O/'Fluent-Reader.md').write_text('\n'.join(reader))
-    (O/'Fluent-Mark-4-8.md').write_text('\n'.join(scope_reader))
+    (O/('Fluent-'+cfg['slug'].title()+'-'+str(min(cfg['chapters']))+'-'+str(max(cfg['chapters']))+'.md')).write_text('\n'.join(scope_reader))
     (O/'Fluent-Active-Block.md').write_text('\n'.join(active_reader))
     shutil.copy2(A/'overlap-before-after.json',O/'Current-scope-overlap-summary.json')
     instructions=f'''Continue Matt Skolnik’s Fluent revision without routine approval pauses.
@@ -111,24 +111,27 @@ Report only verified progress and the saved file link. No routine approval reque
 
 New draft work: {cfg['scope']}, {n} chapters and {nv} verses. The active fifty-chapter block is IN_PROGRESS: {block['completed_chapters']} draft-covered and {block['remaining_chapters']} remaining. Next: {cfg['next_scope']}. This is an intermediate checkpoint, not a completed block.
 
-All {nv} Greek payloads were read before authoring. Each verse has its own rationale, before/after English, exact source binding, TSW comparator and provisional F0–F3 decision. Seventy-five focused bilingual self-rereads are documented. Structural checks passed; no human or independent scholarly review is claimed. Publication is not allowed. Companion quotation/binding reconciliation and all queued whole-book reviews remain pending.
+All {nv} Greek payloads were read before authoring. Each verse has its own rationale, before/after English, exact source binding, TSW comparator and provisional F0–F3 decision. {verification['focused_authoring_reread_count']} focused bilingual self-rereads are documented. Structural checks passed; no human or independent scholarly review is claimed. Publication is not allowed. Companion quotation/binding reconciliation and all queued whole-book reviews remain pending.
 
-All 108 prior ledgers and 965 previously revised chapters are byte-identical to the parent. TSW, Companion and unrelated work are unchanged. Exact source files, including additional Gospel bindings, are preserved. The prior checkpoint manifest and continuation are retained under provenance. The bundle preserves {len(hist)} revision commits since base {base}. Current head: {head}; parent: {parent}; branch: {branch}.
+All {verification['prior_preservation']['ledgers_byte_identical']} prior ledgers and {verification['prior_preservation']['chapters_byte_identical']} previously revised chapters are byte-identical to the parent. TSW, Companion and unrelated work are unchanged. Exact source files, including additional Gospel bindings, are preserved. The prior checkpoint manifest and continuation are retained under provenance. The bundle preserves {len(hist)} revision commits since base {base}. Current head: {head}; parent: {parent}; branch: {branch}.
 
 ## Recovery
 
 Resolve the latest canonical Library file before any write. Reuse a matching checkout or clone a repository containing the required base, then fetch Fluent-Revision.bundle and check out its branch. Verify manifest.json before trusting payloads. The repository directory contains every changed file; the patch is supplementary, not a substitute for Git history.
 
-Run `python3 tools/verify_fluent_mark_checkpoint.py audit/fluent-revision/2026-09-16-mark-4-8 --source-directory /path/to/checkpoint/sources` at this head. Historical audit scripts with fixed counts belong to their historical commits. Read CONTINUATION.json and CONTINUATION_TASK.txt for the authoritative partial-block queue and operational constraints. No rejected GitHub write was retried; no public deployment occurred.
+Run `python3 {rel}/verify_checkpoint.py {rel} --source-directory /path/to/checkpoint/sources` at this head. Historical audit scripts with fixed counts belong to their historical commits. Read CONTINUATION.json and CONTINUATION_TASK.txt for the authoritative partial-block queue and operational constraints. No rejected GitHub write was retried; no public deployment occurred.
 ''')
     m=dict(base_commit=base,head_commit=head,branch=branch,**counts,repository_file_count=len(files),files={})
     for p in sorted(O.rglob('*')):
+        if p == O/'Fluent-Revision.bundle.lock':
+            continue  # Git's transient bundle lock is never a checkpoint payload.
         if p.is_file():b=p.read_bytes();m['files'][str(p.relative_to(O))]=dict(bytes=len(b),sha256=sha(b))
     dump(O/'manifest.json',m)
     out=O.parent/'Fluent-Revision-Checkpoint.zip'
     with zipfile.ZipFile(out,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
-        for p in sorted(O.rglob('*')):
-            if p.is_file():z.write(p,str(p.relative_to(O)))
+        # Archive the exact manifest set, excluding late transient files.
+        for f in sorted([*m['files'], 'manifest.json']):
+            z.write(O/f, f)
     with zipfile.ZipFile(out) as z:
         assert z.testzip() is None and len(z.namelist())==len(m['files'])+1
         for f,meta in m['files'].items():

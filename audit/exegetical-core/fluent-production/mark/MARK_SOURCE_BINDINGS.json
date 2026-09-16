@@ -3413,24 +3413,27 @@
     5,
     6,
     7,
-    8
+    8,
+    9,
+    10,
+    11,
+    12
   ],
   "current_revision": {
-    "id": "fluent-mark-4-8-biblical-fluency-2026-09-16",
+    "id": "fluent-mark-9-12-biblical-fluency-2026-09-16",
     "chapters": [
-      4,
-      5,
-      6,
-      7,
-      8
+      9,
+      10,
+      11,
+      12
     ],
-    "verse_count": 214,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-mark-4-8/mark-verse-review.json",
+    "verse_count": 176,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-mark-9-12/mark-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "3512d16310a79f3c2faeca187063cd3a8d4ccf51",
+      "commit": "b13929ae4f4aecbe69e60ddbdd137746e8d64013",
       "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
     },
     "note": "Previous wording approvals and Companion bindings do not transfer."
@@ -3470,6 +3473,25 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "3512d16310a79f3c2faeca187063cd3a8d4ccf51",
+        "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-mark-9-12-biblical-fluency-2026-09-16",
+      "chapters": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "verse_count": 176,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-mark-9-12/mark-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "b13929ae4f4aecbe69e60ddbdd137746e8d64013",
         "path": "audit/exegetical-core/fluent-production/mark/MARK_SOURCE_BINDINGS.json"
       },
       "note": "Previous wording approvals and Companion bindings do not transfer."
