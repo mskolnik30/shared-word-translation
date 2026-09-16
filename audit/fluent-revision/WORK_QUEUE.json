@@ -561,12 +561,17 @@
       "scope": "Luke 1–4",
       "verses": 214,
       "ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json"
+    },
+    {
+      "scope": "Luke 5–8",
+      "verses": 194,
+      "ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Luke 5–24; John 1–5",
-      "action": "Continue the remaining 25 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "Luke 9–24; John 1–5",
+      "action": "Continue the remaining 21 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -754,11 +759,11 @@
     "scope": "Matthew 24–28; Mark 1–16; Luke 1–24; John 1–5",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 25,
-    "completed_scope": "Matthew 24–28; Mark 1–16; Luke 1–4",
-    "completed_verses": 1145,
-    "remaining_scope": "Luke 5–24; John 1–5",
-    "remaining_chapters": 25,
+    "completed_chapters": 29,
+    "completed_scope": "Matthew 24–28; Mark 1–16; Luke 1–8",
+    "completed_verses": 1339,
+    "remaining_scope": "Luke 9–24; John 1–5",
+    "remaining_chapters": 21,
     "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. Source and structural checks passed; independent editorial review and reader testing pending."
   }
 }

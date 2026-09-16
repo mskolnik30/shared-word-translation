@@ -1,0 +1,121 @@
+{
+  "parent_commit": "32a93b3d75f8740853704415f9c68eabc429abc2",
+  "parent_library_version": 85,
+  "book": "Luke",
+  "slug": "luke",
+  "chapters": [5, 6, 7, 8],
+  "scope": "Luke 5–8",
+  "expected_verses": 194,
+  "source_filename": "luke-pinned-greek.txt",
+  "book_record_files": ["LUKE_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Luke 9–24; John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–16; Luke 1–8",
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "5:1", "5:5", "5:8", "5:10", "5:12", "5:14", "5:16", "5:17", "5:20", "5:21", "5:24", "5:26", "5:30", "5:32", "5:34", "5:35", "5:36", "5:37", "5:38", "5:39",
+    "6:1", "6:4", "6:5", "6:6", "6:9", "6:11", "6:12", "6:13", "6:16", "6:17", "6:20", "6:21", "6:22", "6:23", "6:24", "6:25", "6:26", "6:29", "6:30", "6:32", "6:33", "6:34", "6:35", "6:36", "6:37", "6:38", "6:39", "6:40", "6:42", "6:45", "6:48", "6:49",
+    "7:2", "7:3", "7:6", "7:7", "7:8", "7:9", "7:11", "7:12", "7:13", "7:14", "7:15", "7:16", "7:17", "7:19", "7:21", "7:22", "7:23", "7:24", "7:25", "7:26", "7:27", "7:28", "7:29", "7:30", "7:32", "7:33", "7:34", "7:35", "7:37", "7:38", "7:39", "7:42", "7:47", "7:50",
+    "8:1", "8:2", "8:3", "8:8", "8:10", "8:12", "8:13", "8:14", "8:15", "8:16", "8:17", "8:18", "8:21", "8:23", "8:24", "8:25", "8:26", "8:27", "8:28", "8:29", "8:30", "8:31", "8:35", "8:36", "8:37", "8:38", "8:39", "8:42", "8:43", "8:44", "8:45", "8:46", "8:47", "8:48", "8:49", "8:50", "8:52", "8:53", "8:54", "8:55", "8:56"
+  ],
+  "focused_extra_references": [],
+  "apparatus": {
+    "5": {
+      "notes": [
+        ["10", "The verb translated ‘catching people alive’ differs from ordinary fishing language and explicitly includes keeping the catch alive. The image is retained without turning people into prey."],
+        ["12", "‘Leprosy’ represents a range of ancient skin conditions and does not establish a modern medical diagnosis."],
+        ["14", "‘As a testimony to them’ does not state whether ‘them’ refers specifically to the priests or more broadly to the people. The open pronoun is retained."],
+        ["17", "The wording connects the Lord's power with Jesus' healing. It does not portray healing as an impersonal technique."],
+        ["20", "Jesus sees ‘their faith,’ including the action of those who carried the man. The address translated ‘Friend’ is literally ‘human being’ or ‘man.’"],
+        ["34", "‘Wedding guests’ is literally ‘sons of the bridal chamber,’ an idiom for those accompanying the bridegroom."],
+        ["36–39", "Luke's paired images emphasize the damage caused by joining new and old in the wrong way, then add the old-wine drinker's preference. The saying itself does not identify every item in the images."]
+      ],
+      "vocabulary": [
+        ["08", "ἁμαρτωλός (hamartōlos)", "Sinful or a sinner; Peter applies the term to himself."],
+        ["10", "ζωγρέω (zōgreō)", "Catch alive or take captive alive."],
+        ["20", "πίστις (pistis)", "Faith, trust, or faithfulness."],
+        ["24", "ἐξουσία (exousia)", "Authority or delegated right."],
+        ["32", "μετάνοια (metanoia)", "Repentance, a turning of mind and direction."],
+        ["37", "ἀσκός (askos)", "A skin container used for liquids such as wine."]
+      ]
+    },
+    "6": {
+      "notes": [
+        ["20–26", "Luke's blessings and woes directly name poverty, hunger, grief, wealth, fullness, laughter, exclusion, and reputation. The translation does not add qualifications from a parallel Gospel."],
+        ["29–30", "The concrete commands resist retaliation and possessiveness. They should not be used to require a person to remain in abuse or to prevent protection of someone in danger; those applications are beyond the wording of these verses."],
+        ["32–34", "The repeated question uses the word often translated ‘grace’ or ‘thanks.’ ‘What credit is that to you?’ conveys the contrast with merely reciprocal conduct."],
+        ["35", "The phrase rendered ‘expecting nothing in return’ is difficult and has also been understood as ‘despairing of no one.’ The surrounding discussion of lending supports the main rendering."],
+        ["37", "The final pair can mean ‘release, and you will be released’ or ‘forgive, and you will be forgiven.’ The context of judgment and condemnation supports ‘forgive’ here."],
+        ["38", "The overflowing measure is pictured being placed into the fold of a garment used like a carrying pouch."],
+        ["48", "The pinned text says the house stood because it ‘had been built well.’ Other readings more explicitly repeat its foundation on rock."]
+      ],
+      "vocabulary": [
+        ["13", "ἀπόστολος (apostolos)", "One who is sent; here Jesus names the selected Twelve apostles."],
+        ["20", "μακάριος (makarios)", "Blessed, fortunate, or flourishing under God's favor."],
+        ["24", "παράκλησις (paraklēsis)", "Comfort, consolation, or encouragement."],
+        ["36", "οἰκτίρμων (oiktirmōn)", "Merciful or compassionate."],
+        ["40", "καταρτίζω (katartizō)", "Prepare, restore, or train fully."],
+        ["42", "ὑποκριτής (hypokritēs)", "Hypocrite, originally a term associated with playing a role."]
+      ]
+    },
+    "7": {
+      "notes": [
+        ["02, 07–10", "The centurion's household worker is called a ‘slave’ in verses 2, 3, 8, and 10 and a term that can mean child or servant in verse 7. The translation preserves ‘slave’ where Luke uses it explicitly and ‘servant’ in the reported request."],
+        ["11", "The opening can mean ‘on the next day’ or more generally ‘soon afterward.’ The pinned text's variant marking does not remove the temporal connection."],
+        ["13", "This is the first place in Luke where the narrator directly calls Jesus ‘the Lord.’"],
+        ["16", "‘God has visited his people’ uses visitation language for God's active intervention, not merely observation."],
+        ["22", "The sequence echoes prophetic promises through concrete acts: sight, walking, cleansing, hearing, resurrection, and good news for the poor."],
+        ["23", "‘Stumble because of me’ can also be rendered ‘take offense at me.’ The saying leaves the particular cause of stumbling unstated."],
+        ["29–30", "The paired response says the people acknowledged God as just, while the Pharisees and legal experts rejected God's purpose for themselves. Both responses are linked with John's baptism."],
+        ["35", "Wisdom is personified as a mother whose children vindicate her. The image is retained rather than replaced with an abstract explanation."],
+        ["47", "The relation between forgiveness and love is expressed compactly. The preceding parable presents love as the response to forgiven debt, while the clause ‘for she loved much’ can sound causal in English; both features should inform interpretation."]
+      ],
+      "vocabulary": [
+        ["02", "δοῦλος (doulos)", "Slave; a person held under another's authority."],
+        ["13", "σπλαγχνίζομαι (splagchnizomai)", "Be moved with deep compassion."],
+        ["16", "ἐπισκέπτομαι (episkeptomai)", "Visit, attend to, or intervene for someone."],
+        ["23", "σκανδαλίζω (skandalizō)", "Cause to stumble or take offense."],
+        ["41", "δηνάριον (dēnarion)", "Denarius, a common Roman silver coin."],
+        ["50", "σῴζω (sōzō)", "Save, rescue, or make well."]
+      ]
+    },
+    "8": {
+      "notes": [
+        ["01–03", "The women travel with Jesus and the Twelve and support the group from their own resources. Their agency is part of Luke's description, not background detail."],
+        ["10", "The quotation's ‘so that’ wording preserves a difficult relationship between parables, seeing, hearing, and understanding. It is not softened into a simple claim that parables always make teaching easier."],
+        ["14–15", "The contrast is between fruit that never reaches maturity and fruit borne with endurance. Hearing alone appears in both descriptions."],
+        ["18", "The warning concerns how people listen. The final clause distinguishes what someone has from what the person only thinks they have."],
+        ["26", "The pinned Greek text reads ‘Gerasenes.’ Ancient manuscripts preserve several place-name forms in this account."],
+        ["27–29", "The narrative describes prolonged nakedness, isolation among tombs, restraint, broken chains, and being driven into deserted places. The translation does not romanticize the man's suffering or equate it with a modern diagnosis."],
+        ["30", "‘Legion’ is a Roman military term and is explained in the verse by the presence of many demons."],
+        ["36", "The verb can mean saved, delivered, or made well. ‘Delivered’ fits the immediate account of release from demons while retaining rescue language."],
+        ["39", "Jesus tells the man to report what God has done; the narrator says he reports what Jesus has done. Luke places the statements in deliberate correspondence."],
+        ["43", "The pinned text includes the woman's spending of her whole livelihood on physicians. The verse names both economic loss and the failure of available treatment without blaming her."],
+        ["48, 50", "The same verb can mean save or make well. Verse 48 retains ‘saved’ in Jesus' address to the woman; verse 50 uses ‘made well’ for the dying girl while preserving the shared language of rescue."]
+      ],
+      "vocabulary": [
+        ["03", "διακονέω (diakoneō)", "Serve, provide for, or minister."],
+        ["10", "μυστήριον (mystērion)", "Mystery, a divine purpose made known rather than a puzzle solved by ingenuity."],
+        ["15", "ὑπομονή (hypomonē)", "Endurance, steadfastness, or patient persistence."],
+        ["31", "ἄβυσσος (abyssos)", "Abyss or bottomless depth, here a place feared by the demons."],
+        ["44", "κράσπεδον (kraspedon)", "Edge, fringe, or tassel of a garment."],
+        ["48", "πίστις (pistis)", "Faith or trust; Jesus names the woman's faith in connection with salvation."]
+      ]
+    }
+  }
+}

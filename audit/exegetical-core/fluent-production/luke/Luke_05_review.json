@@ -2,294 +2,307 @@
   "book": "Luke",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 39,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-5-8-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "32a93b3d75f8740853704415f9c68eabc429abc2",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "c4a504552a93a47051b8fec3a98afcf7d968d21d0cbcb648c005beec72dc18bb"
-      },
-      "2": {
-        "source_ref": "Luke 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "27249022c03a623b046858a9d5207285de64049cedfed2c88dd95999fe0bcfaa"
-      },
-      "3": {
-        "source_ref": "Luke 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "2852498bc32b7ff3b50f32721ee021f04a987c30e588c3f5263b0ad66d13c4fc"
-      },
-      "4": {
-        "source_ref": "Luke 5:4",
-        "source_chapter": 5,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "36ddb206f75f47955dacd365d56b51717b4c192e557c7fc39ed1d02615738dc3"
-      },
-      "5": {
-        "source_ref": "Luke 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "2488bc52af85af652dbafd10dcef7f9deaa21584f7a54220e316d70e237569d3"
-      },
-      "6": {
-        "source_ref": "Luke 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f744b31f3af999ad5d3b65fa48c1e596263ae00dd9ed108c180003885ec62aa8"
-      },
-      "7": {
-        "source_ref": "Luke 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "0633a47b011910be983a97853efc1665ea9f98440d80a91a8885c5336011249d"
-      },
-      "8": {
-        "source_ref": "Luke 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "8db0edfecb64087dba2462c8f3e38833b648b76d83a5b04f383fc79101b69ecf"
-      },
-      "9": {
-        "source_ref": "Luke 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "9f53a93fe9178206195cf5b780443d7ec9d66d3de6e0043c9fab0748793b11e0"
-      },
-      "10": {
-        "source_ref": "Luke 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "52c6b0de37d425b9bdc463f073bf81617486f116c72fbe322c5656359d5964ab"
-      },
-      "11": {
-        "source_ref": "Luke 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "01fcdbb135b073331cf8218c9d768060d734ef3b993a9a0276003c824e86e383"
-      },
-      "12": {
-        "source_ref": "Luke 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "edb3851517ed545cd6ad0ee91f3a5cb509580a9eddf414f20a8d8fe6a7a66956"
-      },
-      "13": {
-        "source_ref": "Luke 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "fb8fcbd92059987b9fd25f1b1d471f1f4fc4af68a09023579dd042de49aafd1a"
-      },
-      "14": {
-        "source_ref": "Luke 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "de8d0d0f8aa3dc5178e9a5b66ac6a5b203365f47d78ef93efa4bec23096aa4a7"
-      },
-      "15": {
-        "source_ref": "Luke 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "b2dd98159e2ae217ffd9c931c9a581df12debd2f3351ac6af343542fb1275510"
-      },
-      "16": {
-        "source_ref": "Luke 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "639359c98e57f74545c1a1ed80d4d0205901d069e0fcc3a3f03817df96f08ba3"
-      },
-      "17": {
-        "source_ref": "Luke 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "0332545b9cb82df09ae9f2f318bd1d1aac5e953e9c9cc40b90374b6a979e8a4e"
-      },
-      "18": {
-        "source_ref": "Luke 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8329128eefce60e221102e0155933b0a2f48c6d37c7cd4d376269672fc57f135"
-      },
-      "19": {
-        "source_ref": "Luke 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "9d1f76573147f749658a283b00b364b497a045eec8e1d07901fa030e9357d2cd"
-      },
-      "20": {
-        "source_ref": "Luke 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "2b424f5e5d99da2778f92e70d6593651f149b24d6b4451e4efbed9ff80cfa1f2"
-      },
-      "21": {
-        "source_ref": "Luke 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "c61c0fa9e04c72b0fe6617d8aeb20308acaf58e67a84ba8f68f2455ce9d99dd3"
-      },
-      "22": {
-        "source_ref": "Luke 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "c0b98d6db10fc86a6f5bd37ba12a764b5a09e93c4675b18dfa0eddd0adcee539"
-      },
-      "23": {
-        "source_ref": "Luke 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "f56c064494c095a5c6fdc9312b21f55569e80ab6d74cf1d7fcffb7a5c272dfdc"
-      },
-      "24": {
-        "source_ref": "Luke 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "d73903e6ec79a5acd7b1504735a5f84a4283725161d2774a8edbc953ce6b9682"
-      },
-      "25": {
-        "source_ref": "Luke 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "962d839250523d4d74dda58a43f5b0fc66c99ce1c0e6387987b88fa4ce6a26ba"
-      },
-      "26": {
-        "source_ref": "Luke 5:26",
-        "source_chapter": 5,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "82d2ba485f04aabb48c81832da11add53cf911edd88efa2bf39d1a1fbeb5b3b0"
-      },
-      "27": {
-        "source_ref": "Luke 5:27",
-        "source_chapter": 5,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "98b4464ad4c6da0679fb86a07ba33167e3af48bdbea3371ac86519e0009b6075"
-      },
-      "28": {
-        "source_ref": "Luke 5:28",
-        "source_chapter": 5,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "019b57cd8b4867580e042233ce74e3b2de8cfe430895445caa3d56c2fdd71102"
-      },
-      "29": {
-        "source_ref": "Luke 5:29",
-        "source_chapter": 5,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "f33d45dc2e6d076b2ff12be7b74a41a3cd30936200cedb309a7eef04360f2437"
-      },
-      "30": {
-        "source_ref": "Luke 5:30",
-        "source_chapter": 5,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "0a21a8bc7a95e0db6b062d054d4a98d73e7ace36eec052ba1a81c6db5fd26cb3"
-      },
-      "31": {
-        "source_ref": "Luke 5:31",
-        "source_chapter": 5,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "56f08858eb86ac5be69c66f7a2c03a84f191130def16d2e5b6662f976d666e54"
-      },
-      "32": {
-        "source_ref": "Luke 5:32",
-        "source_chapter": 5,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "ee8bf385d5cf69fe136766d41a7b8e6241186faa6f0f0c3d267302a4bce03a45"
-      },
-      "33": {
-        "source_ref": "Luke 5:33",
-        "source_chapter": 5,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "d2a2afbaf272e645977b093fb711dd707cdf46061dc34fa23e326ebac2012b92"
-      },
-      "34": {
-        "source_ref": "Luke 5:34",
-        "source_chapter": 5,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "b1c6046b186f785f7f48af2314bc31f3d3a4091b8dd5d57f65061c3d9bae877a"
-      },
-      "35": {
-        "source_ref": "Luke 5:35",
-        "source_chapter": 5,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "6e1f17172cf8046e9dfc71035a13d1b9fcd6396a0805270377935d29a3ba2fc1"
-      },
-      "36": {
-        "source_ref": "Luke 5:36",
-        "source_chapter": 5,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "181c4933a7442228e5d3b4dad8d57e14d00803526afafdbc77928d9c86af0890"
-      },
-      "37": {
-        "source_ref": "Luke 5:37",
-        "source_chapter": 5,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "63e75dc18a2fd777835590ce8ba65c0bb4c4079043151fed510fbc9de91f28a3"
-      },
-      "38": {
-        "source_ref": "Luke 5:38",
-        "source_chapter": 5,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "6898efb69a4993042e3de628adf9e5661749f9959abfb23a55480ed6759b2f42"
-      },
-      "39": {
-        "source_ref": "Luke 5:39",
-        "source_chapter": 5,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "399a30d57e194837e05ff937709578d1cc277897de9855bce3b9f6066b3c682f"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 39,
+    "path": "translations/fluent/NT/luke/Luke_05.md",
+    "before_sha256": "26c83c5721b1c190ee5c541c4354490ab8fdee832672b32d785ff1565b4e837e",
+    "after_sha256": "4b2347554c72f7e598da09ac16fcf04e36e0e3310278239f81dab981204518b9",
+    "tsw_comparator_path": "books/NT/luke/Luke_05.md",
+    "tsw_comparator_sha256": "245f46e889643df6e518531176a669020da01117d30494253d523b02a799d97b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 5:1",
+      "delta": "F3",
+      "rationale": "Keeps the crowd’s pressure, the divine-word purpose, and Luke’s lake name.",
+      "source_reference": "Luke 5:1",
+      "source_verse_sha256": "ca8fa784fc0d46f33fbddda79f66406493f741720408f7b3b4dfb141ce41e4de",
+      "before": "One day, while the crowd was pressing around Jesus and listening to God’s word, he was standing beside Lake Gennesaret.",
+      "after": "One day, while the crowd pressed around Jesus to hear the word of God, he was standing beside Lake Gennesaret.",
+      "tsw_comparator": "Now it happened that while the crowd was pressing upon him and hearing the word of God, he was standing by the lake of Gennesaret.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:5",
+      "delta": "F3",
+      "rationale": "Keeps the failed night’s work and makes Simon’s trust rest on Jesus’ word.",
+      "source_reference": "Luke 5:5",
+      "source_verse_sha256": "5cf1a568adaf856773f61c68d6db95cfb910329a2fb74ec88e895342cd411cae",
+      "before": "Simon answered, “Master, we worked hard all night and caught nothing. But at your word, I will let down the nets.”",
+      "after": "Simon answered, “Master, we worked hard all night and caught nothing. But because you say so, I will let down the nets.”",
+      "tsw_comparator": "And Simon answered and said, “Master, we labored all night and took nothing, but at your word I will let down the nets.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:8",
+      "delta": "F3",
+      "rationale": "Keeps Luke’s full name, bodily posture, direct address, and self-description.",
+      "source_reference": "Luke 5:8",
+      "source_verse_sha256": "267768e6bbadeb2fd6c8963165f56f9216a6b5ed32f7f0827c6d2a954bc11d57",
+      "before": "When Simon Peter saw this, he fell at Jesus’ knees and said, “Go away from me, Lord, because I am a sinful man.”",
+      "after": "When Simon Peter saw this, he fell at Jesus’ knees and said, “Go away from me, Lord, because I am a sinful man.”",
+      "tsw_comparator": "But Simon Peter, seeing it, fell at the knees of Jesus, saying, “Depart from me, for I am a sinful man, Lord.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:10",
+      "delta": "F3",
+      "rationale": "Preserves the named partners and the unusual life-catching force of zōgreō.",
+      "source_reference": "Luke 5:10",
+      "source_verse_sha256": "b8c9445cc4896c34dc6084f4dd5b1c68d864a3a102bf683a19a8cab4f53687f7",
+      "before": "and the same was true of James and John, sons of Zebedee, who were Simon’s partners. Jesus said to Simon, “Do not be afraid. From now on you will be catching people alive.”",
+      "after": "James and John, the sons of Zebedee, Simon’s partners, were astonished too. Jesus said to Simon, “Do not be afraid. From now on you will be catching people alive.”",
+      "tsw_comparator": "and likewise also James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, “Do not fear; from now on you will be catching people.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711864,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:12",
+      "delta": "F3",
+      "rationale": "Retains the ancient disease term, the man’s posture, and the distinction between ability and will.",
+      "source_reference": "Luke 5:12",
+      "source_verse_sha256": "9830dd91c8d1c9604b1f8e5ff2724735237372fc474c4320f8e0fb2abb8a9714",
+      "before": "While Jesus was in one of the towns, look—there was a man covered with a serious skin disease. When he saw Jesus, he fell facedown and pleaded, “Lord, if you are willing, you can make me clean.”",
+      "after": "While Jesus was in one of the towns, a man covered with leprosy saw him, fell facedown, and pleaded, “Lord, if you are willing, you can make me clean.”",
+      "tsw_comparator": "And it happened, while he was in one of the cities, behold, there was a man full of leprosy. And seeing Jesus, he fell on his face and begged him, saying, “Lord, if you are willing, you are able to make me clean.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.527778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:14",
+      "delta": "F3",
+      "rationale": "Preserves secrecy, priestly examination, Mosaic offering, and the open referent of “them.”",
+      "source_reference": "Luke 5:14",
+      "source_verse_sha256": "a83904cbf50c5bb24703744cbc52f449883f9dbbc9056469b02334f91864ebd6",
+      "before": "Jesus ordered him to tell no one: “Go, show yourself to the priest and offer for your cleansing what Moses commanded, as a testimony to them.”",
+      "after": "Then Jesus ordered him not to tell anyone: “Instead, go and show yourself to the priest, and offer what Moses commanded for your cleansing, as a testimony to them.”",
+      "tsw_comparator": "And he ordered him to tell no one, but said, “Go, show yourself to the priest, and offer for your cleansing as Moses commanded, for a testimony to them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.689655,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:16",
+      "delta": "F3",
+      "rationale": "Retains Luke’s habitual pattern of withdrawal and prayer.",
+      "source_reference": "Luke 5:16",
+      "source_verse_sha256": "6d8a8e6d0b6fc994b97b6af292d314c117cee41969563af2e7aa1f3c014ce127",
+      "before": "Yet he would withdraw to deserted places and pray.",
+      "after": "Yet Jesus would withdraw to deserted places and pray.",
+      "tsw_comparator": "But he would withdraw into deserted places and pray.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:17",
+      "delta": "F3",
+      "rationale": "Preserves the wide geographic gathering and Luke’s explicit statement about the Lord’s power.",
+      "source_reference": "Luke 5:17",
+      "source_verse_sha256": "954f2820c15f7fa694402fc81670952bb80460d9f352b0cd6dacc04de7038de2",
+      "before": "One day while Jesus was teaching, Pharisees and teachers of the Law were sitting there. They had come from every village of Galilee and Judea and from Jerusalem, and the Lord’s power was present for him to heal.",
+      "after": "One day, as Jesus was teaching, Pharisees and teachers of the law were sitting there. They had come from every village of Galilee and Judea and from Jerusalem, and the Lord’s power was with him to heal.",
+      "tsw_comparator": "And it happened on one of the days that he was teaching, and Pharisees and teachers of the law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem. And the power of the Lord was present for him to heal.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.738095,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:20",
+      "delta": "F3",
+      "rationale": "Keeps the plural faith and renders the direct address naturally without making it a name.",
+      "source_reference": "Luke 5:20",
+      "source_verse_sha256": "152ad612d50641f677f3071fb453004512a414d37cc04b83cc59969eaf80db51",
+      "before": "When Jesus saw their faith, he said, “Man, your sins are forgiven.”",
+      "after": "When Jesus saw their faith, he said, “Friend, your sins are forgiven.”",
+      "tsw_comparator": "And seeing their faith, he said, “Man, your sins are forgiven you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:21",
+      "delta": "F3",
+      "rationale": "Preserves their inner reasoning, accusation, and exclusive claim about God.",
+      "source_reference": "Luke 5:21",
+      "source_verse_sha256": "4eabc827758f05863a33f93bf32471fa620b4cf48ec00b10579835ff6e34effc",
+      "before": "The scribes and Pharisees began reasoning, “Who is this who speaks blasphemies? Who can forgive sins except God alone?”",
+      "after": "The scribes and Pharisees began reasoning, “Who is this man who speaks blasphemies? Who can forgive sins except God alone?”",
+      "tsw_comparator": "And the scribes and the Pharisees began to reason, saying, “Who is this who speaks blasphemies? Who is able to forgive sins except God alone?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:24",
+      "delta": "F3",
+      "rationale": "Preserves the interrupted sentence, the authority claim, and all three commands.",
+      "source_reference": "Luke 5:24",
+      "source_verse_sha256": "3adf908d0bc4eae398898d1dca6014fe98d5e42a4e531c1afbbd1746b65eb5a5",
+      "before": "But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralyzed man—“I tell you, get up, pick up your bed, and go home.”",
+      "after": "But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralyzed man—“I tell you, get up, pick up your mat, and go home.”",
+      "tsw_comparator": "But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the one who was paralyzed—“I say to you, rise, and taking up your bed, go to your house.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:26",
+      "delta": "F3",
+      "rationale": "Distinguishes amazement and fear while retaining the crowd’s conclusion.",
+      "source_reference": "Luke 5:26",
+      "source_verse_sha256": "99cfccc122527afde1422e422539b10256a9424676eedc0f0f1df84e5dadb62a",
+      "before": "Amazement seized everyone. They glorified God and were filled with fear, saying, “We have seen extraordinary things today.”",
+      "after": "Amazement seized them all, and they glorified God. Filled with fear, they said, “We have seen extraordinary things today.”",
+      "tsw_comparator": "And amazement seized them all, and they glorified God and were filled with fear, saying, “We have seen extraordinary things today.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:30",
+      "delta": "F3",
+      "rationale": "Keeps the source’s group relationship and directs their complaint to the disciples.",
+      "source_reference": "Luke 5:30",
+      "source_verse_sha256": "a02715154652e3d992f4525c287f138dfdcdca66ed8990e28c6f965f3e506ab6",
+      "before": "The Pharisees and their scribes grumbled to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”",
+      "after": "The Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”",
+      "tsw_comparator": "And the Pharisees and their scribes were grumbling to his disciples, saying, “Why do you eat and drink with tax collectors and sinners?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:32",
+      "delta": "F3",
+      "rationale": "Keeps both groups and names repentance as the purpose of the call.",
+      "source_reference": "Luke 5:32",
+      "source_verse_sha256": "1da257581ec7c76d6abd6217b3c148bb37a4b860ab563571c7becdb7d357ff41",
+      "before": "I have not come to call righteous people, but sinners to repentance.”",
+      "after": "I have not come to call righteous people, but sinners to repentance.”",
+      "tsw_comparator": "I have not come to call the righteous, but sinners to repentance.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:34",
+      "delta": "F3",
+      "rationale": "Renders “sons of the bridal chamber” naturally while preserving the bridegroom image and rhetorical question.",
+      "source_reference": "Luke 5:34",
+      "source_verse_sha256": "ec865848c72ae84122ca5c44c0f5e16ce638bc46bba7ecfc50d934b154781162",
+      "before": "Jesus said to them, “Can you make the wedding guests fast while the bridegroom is with them?",
+      "after": "Jesus said to them, “You cannot make the wedding guests fast while the bridegroom is with them, can you?",
+      "tsw_comparator": "And Jesus said to them, “Can you make the sons of the wedding chamber fast while the bridegroom is with them?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:35",
+      "delta": "F3",
+      "rationale": "Keeps the forceful removal, future timing, and resulting fast.",
+      "source_reference": "Luke 5:35",
+      "source_verse_sha256": "cddbae0fbbc207db752347e6358bf34627b5873f519bbdcc49a12693ec01d7ef",
+      "before": "Days will come when the bridegroom is taken away from them; then they will fast in those days.”",
+      "after": "But days will come when the bridegroom is taken away from them. Then, in those days, they will fast.”",
+      "tsw_comparator": "But days will come, and when the bridegroom is taken away from them, then they will fast in those days.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:36",
+      "delta": "F3",
+      "rationale": "Preserves both harms in Luke’s distinctive garment image.",
+      "source_reference": "Luke 5:36",
+      "source_verse_sha256": "68ce588d2d799bf83bacd2ba05dde734fc3ed2fbe034ea0b141a23c6142886e2",
+      "before": "He also told them a parable: “No one tears a piece from a new garment and puts it on an old garment. Otherwise the new garment will be torn, and the piece from the new will not match the old.",
+      "after": "He also told them a parable: “No one tears a patch from a new garment and puts it on an old one. Otherwise, the new garment will be torn, and the patch from the new will not match the old.",
+      "tsw_comparator": "And he was also telling a parable to them: “No one tears a piece from a new garment and puts it on an old garment. Otherwise, he will both tear the new, and the piece from the new will not match the old.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746988,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:37",
+      "delta": "F3",
+      "rationale": "Keeps wine and skins distinct through all three consequences.",
+      "source_reference": "Luke 5:37",
+      "source_verse_sha256": "562ebaacbfe3ab5935ba35d9d487d22cfba6a855d01382520884c61c969634b8",
+      "before": "No one puts new wine into old wineskins. Otherwise the new wine will burst the skins; the wine will spill, and the skins will be ruined.",
+      "after": "And no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins; it will spill out, and the skins will be ruined.",
+      "tsw_comparator": "And no one puts new wine into old wineskins. Otherwise, the new wine will burst the skins, and it will be spilled, and the skins will be destroyed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:38",
+      "delta": "F3",
+      "rationale": "Retains the impersonal necessity expressed by the Greek verbal adjective.",
+      "source_reference": "Luke 5:38",
+      "source_verse_sha256": "294340e818e1208830ed8d1872f785c63723e9e84f622c6d295915efaad6d916",
+      "before": "New wine must be put into fresh wineskins.",
+      "after": "Instead, new wine must be poured into new wineskins.",
+      "tsw_comparator": "But new wine must be put into fresh wineskins.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 5:39",
+      "delta": "F3",
+      "rationale": "Preserves Luke’s additional saying and the drinker’s stated preference without explaining it away.",
+      "source_reference": "Luke 5:39",
+      "source_verse_sha256": "0acb7ffab68630e6cda2133cc2e00667f070f3f7c5ea292734b48929c3aa7153",
+      "before": "And no one after drinking old wine wants new, because they say, ‘The old is good.’”",
+      "after": "And no one who has drunk old wine wants new, for he says, ‘The old is good.’”",
+      "tsw_comparator": "And no one drinking old wine desires new, for he says, ‘The old is good.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_05.md",
-    "blob_sha": "fc834bcb848cba5d7bae82ad668a9b76a664842e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,371 +2,489 @@
   "book": "Luke",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 50,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-5-8-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "32a93b3d75f8740853704415f9c68eabc429abc2",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_07_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 7:1",
-        "source_chapter": 7,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "b3cd97659245622d04a8a883b49cc9168e74175c7949d149dca5a639eb6ea2df"
-      },
-      "2": {
-        "source_ref": "Luke 7:2",
-        "source_chapter": 7,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "71dc0ee732dd3c6be33279adbb1b51431893175737f6e21f35213a60ea9b785c"
-      },
-      "3": {
-        "source_ref": "Luke 7:3",
-        "source_chapter": 7,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "cba6742ce80e32f18335b3f390408afea8eec65afc82acfe1da33047142798c3"
-      },
-      "4": {
-        "source_ref": "Luke 7:4",
-        "source_chapter": 7,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "ebbe4fab30ee93a60b38f529856e7c001c5e394742681d3a4c24c02aa2de49e3"
-      },
-      "5": {
-        "source_ref": "Luke 7:5",
-        "source_chapter": 7,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "d63c8f8a8bd1df431eb5f6ddae566e495f2294164b27098cbc825fe84e6c9cc3"
-      },
-      "6": {
-        "source_ref": "Luke 7:6",
-        "source_chapter": 7,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b50b76c173b4bad82cae5beece9f9d5af6335422c1d35f6a3635e8171d5e3994"
-      },
-      "7": {
-        "source_ref": "Luke 7:7",
-        "source_chapter": 7,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "3ed689357ef44e94efad7c20f26e10b21fc1fa755612c694faed82d497e2dbaf"
-      },
-      "8": {
-        "source_ref": "Luke 7:8",
-        "source_chapter": 7,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "e0f0639d646b9c4babd5736afd2c579d24c5f5a775b97061e20acf0027f6088c"
-      },
-      "9": {
-        "source_ref": "Luke 7:9",
-        "source_chapter": 7,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "0bcfac39c299badc3040e3060e29736e36a4b3beabe7aacc041afdf380d74bcd"
-      },
-      "10": {
-        "source_ref": "Luke 7:10",
-        "source_chapter": 7,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "4c0b55276fc8a4ce871b3a8e4bf7ec73c21bf1df97e195fad15ab3139d0d6803"
-      },
-      "11": {
-        "source_ref": "Luke 7:11",
-        "source_chapter": 7,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "5ab3419f86330fc9b89c6d4710e2309404d3cbdef70bc58a002aed9332efaaba"
-      },
-      "12": {
-        "source_ref": "Luke 7:12",
-        "source_chapter": 7,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "3068cfab983a9ffa9c1b212a3c2ed25b0066dd12a0f477046ce8e6a7956e3289"
-      },
-      "13": {
-        "source_ref": "Luke 7:13",
-        "source_chapter": 7,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "d778f3e21c6edcf7413977d635954c5cc155a24a7f91696885bfb014cd0402ee"
-      },
-      "14": {
-        "source_ref": "Luke 7:14",
-        "source_chapter": 7,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "de4ff67c1435d1d0c492b466e9d96e10bd69cc4b833f43b195055d161962eb91"
-      },
-      "15": {
-        "source_ref": "Luke 7:15",
-        "source_chapter": 7,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "f7c90794c8895a0ee80c69149e957b9b016b245e5f5199593c59b56b4803804b"
-      },
-      "16": {
-        "source_ref": "Luke 7:16",
-        "source_chapter": 7,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "cdca82797f6f506f6c586a42b58658a0875e633a15f373f316f82548900607b3"
-      },
-      "17": {
-        "source_ref": "Luke 7:17",
-        "source_chapter": 7,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "079e1e49eb406481a9a245ed54ad1753116960203e283a7f0c1c1a85585d47df"
-      },
-      "18": {
-        "source_ref": "Luke 7:18",
-        "source_chapter": 7,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "e123735dbf4a0bc67693824ecace36697e24c723cce6fd103f70d2887978281d"
-      },
-      "19": {
-        "source_ref": "Luke 7:19",
-        "source_chapter": 7,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "af075ff8e367edcf3bb8dce8553fa9b308c28d3ada2cad80f6cc625a61570db5"
-      },
-      "20": {
-        "source_ref": "Luke 7:20",
-        "source_chapter": 7,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "2cfc507de6c7d468d0a55d5b9111d96d06807747233ea3a05d958cee89c33f2b"
-      },
-      "21": {
-        "source_ref": "Luke 7:21",
-        "source_chapter": 7,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "050f731361fcfa2d1a49993ae65de9886235b4a9fdcdf6c21cb35561b16a928e"
-      },
-      "22": {
-        "source_ref": "Luke 7:22",
-        "source_chapter": 7,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "c1fd41d34e72984580ff43ade3253e0f07aa41553f46a879f368bcecf6cb6ccf"
-      },
-      "23": {
-        "source_ref": "Luke 7:23",
-        "source_chapter": 7,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "0124451b7a1a637c98241ffc2c57488c0fcf6a2493d7f567163cc601d88e1a55"
-      },
-      "24": {
-        "source_ref": "Luke 7:24",
-        "source_chapter": 7,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "67112abc0e19716677fc70bad1db125672da25bcc4eb06a801fdc718b70fcc6d"
-      },
-      "25": {
-        "source_ref": "Luke 7:25",
-        "source_chapter": 7,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "19631073db9cd53a4546cdb1349414eac1be8ae3a3397c67e02aa755e510d31c"
-      },
-      "26": {
-        "source_ref": "Luke 7:26",
-        "source_chapter": 7,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "4fe7161fdb28e42d3c2af65bd854a7d80d79cf33e97805d5b8be6d97769763a0"
-      },
-      "27": {
-        "source_ref": "Luke 7:27",
-        "source_chapter": 7,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "2f2ff52775a4ff462181d99fad8af51c1bb7a80cd198ab013a1c679611c44ec9"
-      },
-      "28": {
-        "source_ref": "Luke 7:28",
-        "source_chapter": 7,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "a112ff6d28417da2bcfa883d1c724db62d6818c1b014957c9af8e01c82923e36"
-      },
-      "29": {
-        "source_ref": "Luke 7:29",
-        "source_chapter": 7,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "649c6c7a6bd872fe9a0b5813ae347fb44d54c9edbe584129ab8cb7b28eddc770"
-      },
-      "30": {
-        "source_ref": "Luke 7:30",
-        "source_chapter": 7,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "4556ffdd3b00dc0d6d0c3d777a9d009f8356fadc922776260ebcbcb07e162002"
-      },
-      "31": {
-        "source_ref": "Luke 7:31",
-        "source_chapter": 7,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "b312155f4433e6725385ace1613c3cf44e00264a1786b66f3dadafb566a653a1"
-      },
-      "32": {
-        "source_ref": "Luke 7:32",
-        "source_chapter": 7,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "8a29fb45bf69f94c855d2324094dffb18c719a6e9a715eafffef926fe6f360b6"
-      },
-      "33": {
-        "source_ref": "Luke 7:33",
-        "source_chapter": 7,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "5d5a2ab7105421ffb69fadb634c31e592969dada7c1ac40a294281afb8acd3ee"
-      },
-      "34": {
-        "source_ref": "Luke 7:34",
-        "source_chapter": 7,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "4b62c2d6643b8b1b481060776f81a1c6e46232b3bca200136f497772c5030570"
-      },
-      "35": {
-        "source_ref": "Luke 7:35",
-        "source_chapter": 7,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "9a499cb322e89850c99d7bfa8e71a735fcf7c9dd5a1ff48b2ab455b2d9a09775"
-      },
-      "36": {
-        "source_ref": "Luke 7:36",
-        "source_chapter": 7,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "e1861e469488a49cb65809693ddf93fc9756b6fa57ec962864025155ec251d4a"
-      },
-      "37": {
-        "source_ref": "Luke 7:37",
-        "source_chapter": 7,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "381734c1cee1f94654526f8e1fbfc72a338d89ddb56483b784969da78397a83d"
-      },
-      "38": {
-        "source_ref": "Luke 7:38",
-        "source_chapter": 7,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "22c7c5951058702fa25a346a2ef68d5426e920d73dfdcd09f204925d4c13a436"
-      },
-      "39": {
-        "source_ref": "Luke 7:39",
-        "source_chapter": 7,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "116c6b2a271c4b0b14906824d0211a5f4a3464caa7bbbc8c54c78f417b1e95cb"
-      },
-      "40": {
-        "source_ref": "Luke 7:40",
-        "source_chapter": 7,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "7207ea964eadec0fd1cbe94da18a1c455b9e0f03796669b98251ef8b6ecde279"
-      },
-      "41": {
-        "source_ref": "Luke 7:41",
-        "source_chapter": 7,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "71cb52fdd82e924c8d82c024069f42cbd02654cd9bd66bb2d22259cabcf757de"
-      },
-      "42": {
-        "source_ref": "Luke 7:42",
-        "source_chapter": 7,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "1f85faee0bb7b95048d1cfdb149769ced98833394c1caf18fa7342c62f6675c3"
-      },
-      "43": {
-        "source_ref": "Luke 7:43",
-        "source_chapter": 7,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "4fe784204025bcec714db5208a1db2e4478e364118ba0d36c97ff1db24f36ae8"
-      },
-      "44": {
-        "source_ref": "Luke 7:44",
-        "source_chapter": 7,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "bfeb065ac9d162e30ace14ec1732d584be257bc6e2e14f8c09fd435d334f4011"
-      },
-      "45": {
-        "source_ref": "Luke 7:45",
-        "source_chapter": 7,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "2abc46d6fc47088cd0bf102eb9d8253282cba0105d29b78c14c4feb4d8573714"
-      },
-      "46": {
-        "source_ref": "Luke 7:46",
-        "source_chapter": 7,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "2ffe6760931b5b89197df4ee72fb177eb5071881c5d0c7193b465d88f1dfcc47"
-      },
-      "47": {
-        "source_ref": "Luke 7:47",
-        "source_chapter": 7,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "75cbbfa462b7ee7973f2c7e5c0ab7db41ce14ad240e3369005cc2b59eb4ce756"
-      },
-      "48": {
-        "source_ref": "Luke 7:48",
-        "source_chapter": 7,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "1966106b8a92d8da8f1dc926beb7b86e483a9a8b9815806cc5b7ce2458018898"
-      },
-      "49": {
-        "source_ref": "Luke 7:49",
-        "source_chapter": 7,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "c9fca7a941f36c7095a722e1055088a8a2f88b9328340cd748612afac693fea1"
-      },
-      "50": {
-        "source_ref": "Luke 7:50",
-        "source_chapter": 7,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "8fda74d16789a1aca3afd0ec02b15ad9193c90e82a74cc8850b8073d010f837e"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 50,
+    "path": "translations/fluent/NT/luke/Luke_07.md",
+    "before_sha256": "4814aa49cd5a56324d8d45eb5b2e80307507b97889695e11fb76849894fd540d",
+    "after_sha256": "e04114991a35d62653b10df6071d723b64af26207e9aeaa5debae339d91c40ee",
+    "tsw_comparator_path": "books/NT/luke/Luke_07.md",
+    "tsw_comparator_sha256": "f96d854f46cd389fd82dfb94dedc7dbb85e5e12197475f2207e42b0d2aecd2f5"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 7:2",
+      "delta": "F3",
+      "rationale": "Keeps slave status, the centurion’s valuation, and mortal danger.",
+      "source_reference": "Luke 7:2",
+      "source_verse_sha256": "412a96b680d9e75f77fd8bbecd41a0cd6f91a08d75c2522793d8cbbc1d998833",
+      "before": "A centurion had a slave who was sick and near death, and the slave was highly valued by him.",
+      "after": "A centurion had a slave whom he valued highly. The slave was sick and near death.",
+      "tsw_comparator": "Now a certain centurion had a slave who was ill and about to die, who was valuable to him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.4,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:3",
+      "delta": "F3",
+      "rationale": "Preserves intermediaries, their identity, and the strong verb “save.”",
+      "source_reference": "Luke 7:3",
+      "source_verse_sha256": "351f52fa3bb0bb189e9c477cb3ee9b2fa2b564fe77c90dd8a6163606699c54e9",
+      "before": "When the centurion heard about Jesus, he sent Jewish elders to ask him to come and save his slave.",
+      "after": "When the centurion heard about Jesus, he sent Jewish elders to ask him to come and save his slave.",
+      "tsw_comparator": "And hearing about Jesus, he sent elders of the Jews to him, asking him to come and save his slave.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:6",
+      "delta": "F3",
+      "rationale": "Keeps the second group of messengers and contrasts the elders’ valuation with his own.",
+      "source_reference": "Luke 7:6",
+      "source_verse_sha256": "b515de8eeba17649997a10833b8c1ba1662b345058c9010d1a83ac9dec76f93d",
+      "before": "Jesus went with them. But when he was not far from the house, the centurion sent friends to say, “Lord, do not trouble yourself, because I am not worthy for you to come under my roof.",
+      "after": "So Jesus went with them. When he was not far from the house, the centurion sent friends to tell him, “Lord, do not trouble yourself, because I am not worthy to have you come under my roof.",
+      "tsw_comparator": "And Jesus was going with them. But when he was already not far from the house, the centurion sent friends, saying to him, “Lord, do not trouble yourself, for I am not worthy that you should enter under my roof.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.779221,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:7",
+      "delta": "F3",
+      "rationale": "Retains his unworthiness, the effective word, and the servant reference.",
+      "source_reference": "Luke 7:7",
+      "source_verse_sha256": "f3a679f6b9718cbbb8a1b68c86e1bbb67974be3f03f326a8375df428063941a4",
+      "before": "That is why I did not consider myself worthy to come to you. But say the word, and my servant will be healed.",
+      "after": "That is why I did not consider myself worthy to come to you. But say the word, and let my servant be healed.",
+      "tsw_comparator": "Therefore I did not consider myself worthy to come to you. But say the word, and my servant will be healed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:8",
+      "delta": "F3",
+      "rationale": "Preserves the centurion’s position under and over authority and all three commands.",
+      "source_reference": "Luke 7:8",
+      "source_verse_sha256": "2a1a74a86294d5f06d596ef3395e9cb6ae15c39a34f14de3d21ab11b738c59b6",
+      "before": "For I too am a man placed under authority, with soldiers under me. I tell one, ‘Go,’ and he goes; another, ‘Come,’ and he comes; and my slave, ‘Do this,’ and he does it.”",
+      "after": "For I too am a man placed under authority, with soldiers under me. I tell one, ‘Go,’ and he goes; another, ‘Come,’ and he comes; and my slave, ‘Do this,’ and he does it.”",
+      "tsw_comparator": "For I also am a man set under authority, having soldiers under me, and I say to this one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my slave, ‘Do this,’ and he does it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:9",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ wonder, turn to the crowd, and Israel comparison.",
+      "source_reference": "Luke 7:9",
+      "source_verse_sha256": "343adcfdff82ad53b888b3ff52e2e44e5068ae6e958c35e72b05c34bb8fddbce",
+      "before": "When Jesus heard these things, he was amazed at him. Turning to the crowd following him, he said, “I tell you, not even in Israel have I found such faith.”",
+      "after": "When Jesus heard this, he marveled at him. Turning to the crowd following him, he said, “I tell you, not even in Israel have I found such great faith.”",
+      "tsw_comparator": "And hearing these things, Jesus marveled at him, and turning to the crowd following him, said, “I say to you, not even in Israel have I found such faith.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:11",
+      "delta": "F3",
+      "rationale": "Preserves the temporal sequence, named town, and two accompanying groups.",
+      "source_reference": "Luke 7:11",
+      "source_verse_sha256": "0dbb58a2a7ac0eb618c26ce9f4f1264e8a8f7ebf77eea5abe02a057f5c5ff89a",
+      "before": "Soon afterward, Jesus went to a town called Nain. His disciples and a large crowd went with him.",
+      "after": "Soon afterward, Jesus went to a town called Nain. His disciples and a large crowd went with him.",
+      "tsw_comparator": "And it happened soon afterward that he went to a town called Nain, and his disciples and a great crowd were going with him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:12",
+      "delta": "F3",
+      "rationale": "Keeps the funeral movement and compounds the mother’s social and familial loss.",
+      "source_reference": "Luke 7:12",
+      "source_verse_sha256": "673331dc01fc61435a4223c851e1eff8184b70624b193995a44d9a343740c24d",
+      "before": "As he approached the town gate, look—a man who had died was being carried out. He was his mother’s only son, and she was a widow. A considerable crowd from the town was with her.",
+      "after": "As he approached the town gate, a dead man was being carried out—the only son of his mother, and she was a widow. A large crowd from the town was with her.",
+      "tsw_comparator": "And as he drew near to the gate of the town, behold, a man who had died was being carried out, the only son of his mother, and she was a widow; and a considerable crowd from the town was with her.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.773333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:13",
+      "delta": "F3",
+      "rationale": "Retains Luke’s narrative title “Lord,” compassion, and direct address to the widow.",
+      "source_reference": "Luke 7:13",
+      "source_verse_sha256": "c19c7ca129158dba0eb3197b0aabce419b02cc91610c2bcec799cf556f402dfc",
+      "before": "When the Lord saw her, he was moved with compassion and said, “Do not weep.”",
+      "after": "When the Lord saw her, he had compassion for her and said, “Do not weep.”",
+      "tsw_comparator": "And seeing her, the Lord had compassion on her and said to her, “Do not weep.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.645161,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:14",
+      "delta": "F3",
+      "rationale": "Preserves the touch, halted procession, and authoritative command.",
+      "source_reference": "Luke 7:14",
+      "source_verse_sha256": "384f440510b77b2a4e366d2aaa987838f1a61eed1581aacc52cbd4d9da8b17c6",
+      "before": "He came near and touched the bier, and the bearers stood still. He said, “Young man, I tell you, get up.”",
+      "after": "He came forward and touched the bier, and the bearers stopped. He said, “Young man, I tell you, get up!”",
+      "tsw_comparator": "And coming near, he touched the bier, and those carrying it stood still. And he said, “Young man, I say to you, arise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.511628,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:15",
+      "delta": "F3",
+      "rationale": "Keeps the stark identification as dead and the restoration to his mother.",
+      "source_reference": "Luke 7:15",
+      "source_verse_sha256": "e6b57cb1c64bd41b64e658c1117e7eae637a9343183b89bf44f6adff5f6ffcc7",
+      "before": "The dead man sat up and began speaking, and Jesus gave him back to his mother.",
+      "after": "The dead man sat up and began to speak, and Jesus gave him to his mother.",
+      "tsw_comparator": "And the dead man sat up and began to speak, and he gave him to his mother.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:16",
+      "delta": "F3",
+      "rationale": "Retains fear, praise, both acclamations, and visitation language.",
+      "source_reference": "Luke 7:16",
+      "source_verse_sha256": "099b3978a54bcd98b9ec859a4da97eb3b1e0916d9b343190042c52b68ef4a2f5",
+      "before": "Fear seized everyone, and they glorified God, saying, “A great prophet has arisen among us,” and, “God has visited his people.”",
+      "after": "Fear seized them all, and they glorified God, saying, “A great prophet has arisen among us,” and, “God has visited his people.”",
+      "tsw_comparator": "And fear seized all, and they were glorifying God, saying, “A great prophet has arisen among us,” and “God has visited his people.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:17",
+      "delta": "F3",
+      "rationale": "Keeps the report’s geographic reach without narrowing it.",
+      "source_reference": "Luke 7:17",
+      "source_verse_sha256": "37a4e8dc95e1b91941dce62f3384cb434f82791424b649b8a1cbdc3fe1f7c810",
+      "before": "This report about him spread throughout Judea and all the surrounding region.",
+      "after": "This report about Jesus spread throughout Judea and all the surrounding region.",
+      "tsw_comparator": "And this word about him went out in the whole of Judea and all the surrounding region.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.551724,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:19",
+      "delta": "F3",
+      "rationale": "Keeps Luke’s title “Lord” and the expectation question open.",
+      "source_reference": "Luke 7:19",
+      "source_verse_sha256": "97a6dbaf80ab47c61b52e7cf6da73bf97360a0aed666a59d966a9a50c5fe070a",
+      "before": "John sent them to the Lord to ask, “Are you the one who is to come, or should we expect another?”",
+      "after": "and sent them to the Lord to ask, “Are you the one who is to come, or should we expect someone else?”",
+      "tsw_comparator": "John sent them to the Lord, saying, “Are you the one who is to come, or should we expect another?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:21",
+      "delta": "F3",
+      "rationale": "Preserves the three forms of suffering and the verb of gracious giving.",
+      "source_reference": "Luke 7:21",
+      "source_verse_sha256": "0c6fa8aca0d4cd68c76a7d92bc51ca1cd04837952d6f7dd21370dd439a4bcd79",
+      "before": "In that hour Jesus healed many people of diseases, afflictions, and evil spirits, and he gave sight to many who were blind.",
+      "after": "At that very hour Jesus healed many people of diseases, afflictions, and evil spirits, and he graciously gave sight to many who were blind.",
+      "tsw_comparator": "In that hour he healed many from diseases and afflictions and evil spirits, and to many blind he granted sight.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.590909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:22",
+      "delta": "F3",
+      "rationale": "Keeps observation, report, all six signs, and passive good-news language.",
+      "source_reference": "Luke 7:22",
+      "source_verse_sha256": "2747c14edd239a28493069f308f666949c3dc38de76021a80b1bf5c6d93f96f0",
+      "before": "Then he answered them, “Go and report to John what you have seen and heard: blind people receive sight, those with impaired legs walk, people with skin diseases are cleansed, deaf people hear, the dead are raised, and the poor are told good news.",
+      "after": "Then he answered them, “Go and report to John what you have seen and heard: blind people see, those who are lame walk, people with leprosy are made clean, those who are deaf hear, the dead are raised, and the poor receive good news.",
+      "tsw_comparator": "And answering, he said to them, “Go and report to John what you have seen and heard: the blind receive sight, the lame walk, lepers are cleansed, the deaf hear, the dead are raised, the poor have good news proclaimed to them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627907,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:23",
+      "delta": "F3",
+      "rationale": "Retains the consequential but unexplained stumbling image.",
+      "source_reference": "Luke 7:23",
+      "source_verse_sha256": "9f068f608ac193fb63741f71b5061026a5d41ffa00d4733120e7ac013f0a00a3",
+      "before": "Blessed is anyone who does not stumble because of me.”",
+      "after": "Blessed is anyone who does not stumble because of me.”",
+      "tsw_comparator": "And blessed is whoever is not offended by me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.421053,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:24",
+      "delta": "F3",
+      "rationale": "Keeps the departure, audience, wilderness, and first rhetorical image.",
+      "source_reference": "Luke 7:24",
+      "source_verse_sha256": "7a0e8674b711e03ea13f9677a28f550107f56c141fdcaf522721a57e80b03814",
+      "before": "After John’s messengers left, Jesus began speaking to the crowds about John: “What did you go out into the wilderness to see? A reed shaken by the wind?",
+      "after": "After John’s messengers left, Jesus began speaking to the crowds about John: “What did you go out into the wilderness to see? A reed shaken by the wind?",
+      "tsw_comparator": "And when the messengers of John had gone, he began to speak to the crowds concerning John: “What did you go out into the wilderness to see? A reed shaken by the wind?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.721311,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:25",
+      "delta": "F3",
+      "rationale": "Preserves the repeated question and contrast between wilderness and courts.",
+      "source_reference": "Luke 7:25",
+      "source_verse_sha256": "b6d980d59527a43d69d67ad7c7aa8556b93136d184a6c2577d408f2bcf80935d",
+      "before": "What then did you go out to see? A man dressed in soft clothing? Look, those in splendid clothing and luxury are in royal palaces.",
+      "after": "What then did you go out to see? A man dressed in soft clothing? Look, those who wear splendid clothes and live in luxury are in royal palaces.",
+      "tsw_comparator": "But what did you go out to see? A man clothed in soft garments? Behold, those in splendid clothing and luxury are in royal palaces.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.679245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:26",
+      "delta": "F3",
+      "rationale": "Keeps the third question and Jesus’ intensifying answer.",
+      "source_reference": "Luke 7:26",
+      "source_verse_sha256": "c16f947ba8c5dc207ff1d2ca868f70f9cfcc096280525fc823b42176da78b9a9",
+      "before": "What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.",
+      "after": "What then did you go out to see? A prophet? Yes, I tell you, and far more than a prophet.",
+      "tsw_comparator": "But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:27",
+      "delta": "F3",
+      "rationale": "Preserves the messenger quotation’s second-person relationships and repetition of “before.”",
+      "source_reference": "Luke 7:27",
+      "source_verse_sha256": "cc1766dcd47462246b2e572f3ecbf75630c6494a817da1f2c529bd24a17e0ee1",
+      "before": "This is the one about whom it is written: ‘Look, I am sending my messenger ahead of you, who will prepare your way before you.’",
+      "after": "This is the one about whom it is written: ‘Look, I am sending my messenger ahead of you, who will prepare your way before you.’",
+      "tsw_comparator": "This is he of whom it is written, ‘Behold, I send my messenger before your face, who will prepare your way before you.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:28",
+      "delta": "F3",
+      "rationale": "Keeps John’s greatness and the unresolved kingdom comparison.",
+      "source_reference": "Luke 7:28",
+      "source_verse_sha256": "a3884a9ca40e8dcd8be5d4332ec8cde93ae4dbbd205855787479b3417118aebf",
+      "before": "I tell you, among those born of women no one is greater than John. Yet the least in God’s kingdom is greater than he.”",
+      "after": "I tell you, among those born of women no one is greater than John. Yet the least in the kingdom of God is greater than he.”",
+      "tsw_comparator": "I say to you, among those born of women no one is greater than John; but the least in the kingdom of God is greater than he.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90566,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:29",
+      "delta": "F3",
+      "rationale": "Retains the tax collectors’ inclusion and links their judgment to baptism.",
+      "source_reference": "Luke 7:29",
+      "source_verse_sha256": "113e502c89560b2505b7502109b23ecacecd1f4ab44c84d62879edbfd705d280",
+      "before": "When all the people heard this, including the tax collectors, they acknowledged God as right, because they had been baptized with John’s baptism.",
+      "after": "When all the people, including the tax collectors, heard this, they acknowledged that God was just, because they had received John’s baptism.",
+      "tsw_comparator": "And all the people who heard, and the tax collectors, justified God, having been baptized with the baptism of John;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.380952,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:30",
+      "delta": "F3",
+      "rationale": "Keeps their rejection, its self-directed consequence, and baptismal contrast.",
+      "source_reference": "Luke 7:30",
+      "source_verse_sha256": "cc138bef04c9402b1854a7f5a0ca5ea86645a03290df7f5c1a1b46fafa10cd61",
+      "before": "But the Pharisees and experts in the Law rejected God’s purpose for themselves because they had not been baptized by John.",
+      "after": "But the Pharisees and experts in the law rejected God’s purpose for themselves, because they had not been baptized by John.",
+      "tsw_comparator": "but the Pharisees and the lawyers rejected the purpose of God for themselves, not having been baptized by him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:32",
+      "delta": "F3",
+      "rationale": "Retains the children’s paired games and the listeners’ opposite refusals.",
+      "source_reference": "Luke 7:32",
+      "source_verse_sha256": "dd78cbf2f0dbadb0caca65154682211c94ef9735832252ab9ce8bda435b3cf47",
+      "before": "They are like children sitting in the marketplace and calling to one another: ‘We played the flute for you, and you did not dance; we sang a funeral song, and you did not weep.’",
+      "after": "They are like children sitting in the marketplace and calling to one another: ‘We played the flute for you, but you did not dance; we sang a funeral song, but you did not weep.’",
+      "tsw_comparator": "They are like children sitting in the marketplace and calling to one another, who say: ‘We played the flute for you, and you did not dance; we sang a lament, and you did not weep.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.869565,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:33",
+      "delta": "F3",
+      "rationale": "Keeps Luke’s specific bread and wine abstention and the hostile accusation.",
+      "source_reference": "Luke 7:33",
+      "source_verse_sha256": "acd5c803a626d20c3b2126c37cf5fb30f98be381754924feaa0d13c0844b92f1",
+      "before": "For John the Baptist came eating no bread and drinking no wine, and you say, ‘He has a demon.’",
+      "after": "For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’",
+      "tsw_comparator": "For John the Baptist has come eating no bread and drinking no wine, and you say, ‘He has a demon.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:34",
+      "delta": "F3",
+      "rationale": "Preserves the slurs, social accusation, and Son of Man title.",
+      "source_reference": "Luke 7:34",
+      "source_verse_sha256": "fc126c2305e00f962de65f2b90ef5a5f760bc711c03955cc612c2d7690d1e17d",
+      "before": "The Son of Man came eating and drinking, and you say, ‘Look, a glutton and a drunkard, a friend of tax collectors and sinners!’",
+      "after": "The Son of Man has come eating and drinking, and you say, ‘Look, a glutton and a drunkard, a friend of tax collectors and sinners!’",
+      "tsw_comparator": "The Son of Man has come eating and drinking, and you say, ‘Behold, a gluttonous man and a drunkard, a friend of tax collectors and sinners.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.901961,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:35",
+      "delta": "F3",
+      "rationale": "Keeps personified wisdom, her children, and the judicial image.",
+      "source_reference": "Luke 7:35",
+      "source_verse_sha256": "16b70891dd9be63cbbeedf6a36856b9a6c3c55ede6626d8e31762cba04ec2778",
+      "before": "Yet wisdom is shown to be right by all her children.”",
+      "after": "Yet wisdom is vindicated by all her children.”",
+      "tsw_comparator": "And wisdom is justified by all her children.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:37",
+      "delta": "F3",
+      "rationale": "Preserves her social labeling, knowledge, and the costly vessel without identifying her further.",
+      "source_reference": "Luke 7:37",
+      "source_verse_sha256": "6e96d60932541864aef5cf72272d929ce14994efe10dc9203616a20a9b1d6d83",
+      "before": "Look—a woman in the town who was known as a sinner learned that Jesus was reclining in the Pharisee’s house. She brought an alabaster jar of perfume.",
+      "after": "A woman in that town who was known as a sinner learned that Jesus was reclining in the Pharisee’s house. She brought an alabaster jar of perfume",
+      "tsw_comparator": "And behold, a woman in the city who was a sinner, learning that he was reclining in the house of the Pharisee, brought an alabaster jar of ointment,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:38",
+      "delta": "F3",
+      "rationale": "Keeps her position and the repeated, embodied acts without eroticizing or sanitizing them.",
+      "source_reference": "Luke 7:38",
+      "source_verse_sha256": "b3a4ad105866ec59ae7b435c185fb58c0ed991e0256740de4a2385f5e7b341cd",
+      "before": "Standing behind him at his feet and weeping, she began wetting his feet with her tears. She wiped them with her hair, kissed his feet, and anointed them with the perfume.",
+      "after": "and stood behind Jesus at his feet, weeping. She began to wet his feet with her tears and wiped them with her hair. She kept kissing his feet and anointing them with the perfume.",
+      "tsw_comparator": "and standing behind him at his feet, weeping, she began to wet his feet with her tears and was wiping them with the hair of her head and kissing his feet and anointing them with the ointment.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:39",
+      "delta": "F3",
+      "rationale": "Preserves the host’s internal judgment and his focus on her identity and touch.",
+      "source_reference": "Luke 7:39",
+      "source_verse_sha256": "234a4d926c1e3e629aa80612316ca5b1840893b7792d08ea70461e25b1dc7648",
+      "before": "When the Pharisee who had invited Jesus saw this, he said to himself, “If this man were a prophet, he would know who and what kind of woman is touching him—that she is a sinner.”",
+      "after": "When the Pharisee who had invited Jesus saw this, he said to himself, “If this man were a prophet, he would know who and what kind of woman is touching him—that she is a sinner.”",
+      "tsw_comparator": "Now when the Pharisee who had invited him saw it, he said within himself, “If this man were a prophet, he would know who and what sort of woman this is who is touching him, that she is a sinner.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:42",
+      "delta": "F3",
+      "rationale": "Preserves inability, gracious cancellation, and the question’s future love.",
+      "source_reference": "Luke 7:42",
+      "source_verse_sha256": "afc5e256bd4d5e3143f6c98373002679ca67a1f5336089b3f04ee4edc8731694",
+      "before": "When they could not repay, he freely forgave both of them. Which of them, then, will love him more?”",
+      "after": "When they could not repay, he freely forgave the debts of both. Which of them, then, will love him more?”",
+      "tsw_comparator": "When they were not able to repay, he freely forgave both. Which of them, therefore, will love him more?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:47",
+      "delta": "F3",
+      "rationale": "Retains forgiveness, much love, and the difficult causal wording rather than silently resolving it.",
+      "source_reference": "Luke 7:47",
+      "source_verse_sha256": "703cfc6cd9c97e4bfcbb525e9868fe86f348f8886574778f976cd12d583fcb90",
+      "before": "Therefore I tell you, her many sins have been forgiven—that is why she loved much. But the one who is forgiven little loves little.”",
+      "after": "Therefore I tell you, her many sins have been forgiven, for she loved much. But the one who is forgiven little loves little.”",
+      "tsw_comparator": "Therefore I say to you, her sins, which are many, are forgiven—for she loved much. But the one to whom little is forgiven, loves little.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693878,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 7:50",
+      "delta": "F3",
+      "rationale": "Preserves faith, salvation, and the commission into peace.",
+      "source_reference": "Luke 7:50",
+      "source_verse_sha256": "c1cda386e9a73c775d4c31a6fe04788c7a6507a97d57fb34a6902a1cebceea1e",
+      "before": "He said to the woman, “Your faith has saved you. Go in peace.”",
+      "after": "But Jesus said to the woman, “Your faith has saved you. Go in peace.”",
+      "tsw_comparator": "And he said to the woman, “Your faith has saved you; go in peace.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_07.md",
-    "blob_sha": "50553eb7f8ee67c4ab8a534e770cff867e8c2f31"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

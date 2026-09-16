@@ -1,0 +1,1377 @@
+{
+  "scope": "Luke 5–8",
+  "verses": 194,
+  "summary": {
+    "before": {
+      "identical": 3,
+      "near_identical_nonidentical": 30,
+      "mean_word_similarity": 0.758945
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 19,
+      "mean_word_similarity": 0.721278
+    }
+  },
+  "rows": [
+    {
+      "reference": "Luke 5:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Luke 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Luke 5:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Luke 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.470588,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Luke 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.892857,
+      "after_similarity": 0.892857
+    },
+    {
+      "reference": "Luke 5:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Luke 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Luke 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Luke 5:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Luke 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.567901,
+      "after_similarity": 0.527778
+    },
+    {
+      "reference": "Luke 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Luke 5:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Luke 5:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Luke 5:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.776471,
+      "after_similarity": 0.738095
+    },
+    {
+      "reference": "Luke 5:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.583333,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Luke 5:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816901,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Luke 5:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Luke 5:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Luke 5:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Luke 5:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763158,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Luke 5:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.604651,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Luke 5:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Luke 5:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Luke 5:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Luke 5:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Luke 5:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Luke 5:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.352941,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Luke 5:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.708333,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Luke 5:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 5:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Luke 5:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.819277,
+      "after_similarity": 0.746988
+    },
+    {
+      "reference": "Luke 5:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Luke 5:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 5:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Luke 6:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.730769,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Luke 6:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Luke 6:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 6:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.707692,
+      "after_similarity": 0.548387
+    },
+    {
+      "reference": "Luke 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Luke 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.622222,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Luke 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.627451,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Luke 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.716981,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Luke 6:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Luke 6:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.695652,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Luke 6:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Luke 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Luke 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Luke 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Luke 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Luke 6:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Luke 6:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.746667,
+      "after_similarity": 0.746667
+    },
+    {
+      "reference": "Luke 6:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Luke 6:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Luke 6:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.45,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Luke 6:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Luke 6:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Luke 6:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.612245,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Luke 6:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Luke 6:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Luke 6:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Luke 6:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Luke 6:28",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Luke 6:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Luke 6:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Luke 6:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.24
+    },
+    {
+      "reference": "Luke 6:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Luke 6:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Luke 6:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Luke 6:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90411,
+      "after_similarity": 0.891892
+    },
+    {
+      "reference": "Luke 6:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Luke 6:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Luke 6:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Luke 6:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Luke 6:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Luke 6:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Luke 6:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.849057,
+      "after_similarity": 0.912621
+    },
+    {
+      "reference": "Luke 6:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "Luke 6:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.511628,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Luke 6:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.647059,
+      "after_similarity": 0.515152
+    },
+    {
+      "reference": "Luke 6:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Luke 6:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Luke 6:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Luke 6:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.835443,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Luke 7:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 7:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.526316,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Luke 7:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 7:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.540541,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Luke 7:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 7:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.779221
+    },
+    {
+      "reference": "Luke 7:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Luke 7:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Luke 7:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745763,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Luke 7:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Luke 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Luke 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.74359,
+      "after_similarity": 0.773333
+    },
+    {
+      "reference": "Luke 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.516129,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Luke 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.590909,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Luke 7:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Luke 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Luke 7:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Luke 7:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Luke 7:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Luke 7:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.745763
+    },
+    {
+      "reference": "Luke 7:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Luke 7:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.674419,
+      "after_similarity": 0.627907
+    },
+    {
+      "reference": "Luke 7:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.421053,
+      "after_similarity": 0.421053
+    },
+    {
+      "reference": "Luke 7:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.721311,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Luke 7:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Luke 7:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Luke 7:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 7:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Luke 7:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.55814,
+      "after_similarity": 0.380952
+    },
+    {
+      "reference": "Luke 7:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Luke 7:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Luke 7:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.927536,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Luke 7:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Luke 7:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Luke 7:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 7:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.590909,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Luke 7:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.678571,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Luke 7:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.676471,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Luke 7:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Luke 7:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Luke 7:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Luke 7:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Luke 7:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.702703,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Luke 7:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95122,
+      "after_similarity": 0.926829
+    },
+    {
+      "reference": "Luke 7:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Luke 7:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Luke 7:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.627451,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Luke 7:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Luke 7:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Luke 7:50",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Luke 8:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.627451,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Luke 8:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Luke 8:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Luke 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Luke 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 8:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Luke 8:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Luke 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.596491,
+      "after_similarity": 0.52459
+    },
+    {
+      "reference": "Luke 8:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Luke 8:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90411,
+      "after_similarity": 0.788732
+    },
+    {
+      "reference": "Luke 8:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.521739,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Luke 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.885246,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Luke 8:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.788732
+    },
+    {
+      "reference": "Luke 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638889,
+      "after_similarity": 0.591549
+    },
+    {
+      "reference": "Luke 8:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763636,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 8:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 8:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.610169
+    },
+    {
+      "reference": "Luke 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Luke 8:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Luke 8:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Luke 8:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Luke 8:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Luke 8:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.754098,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Luke 8:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.830769
+    },
+    {
+      "reference": "Luke 8:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Luke 8:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.746667,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Luke 8:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Luke 8:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.813187,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Luke 8:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Luke 8:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Luke 8:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.592593,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 8:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.901961,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Luke 8:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Luke 8:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897436,
+      "after_similarity": 0.825
+    },
+    {
+      "reference": "Luke 8:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Luke 8:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.677419
+    },
+    {
+      "reference": "Luke 8:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.681818,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Luke 8:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745098,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Luke 8:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Luke 8:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.703704,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Luke 8:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5625,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Luke 8:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.481481
+    },
+    {
+      "reference": "Luke 8:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Luke 8:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.541667
+    },
+    {
+      "reference": "Luke 8:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.733333,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Luke 8:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.676471,
+      "after_similarity": 0.676056
+    },
+    {
+      "reference": "Luke 8:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Luke 8:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Luke 8:50",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Luke 8:51",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.603774,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Luke 8:52",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Luke 8:53",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.380952
+    },
+    {
+      "reference": "Luke 8:54",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.64,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Luke 8:55",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Luke 8:56",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.709677
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

@@ -2,413 +2,580 @@
   "book": "Luke",
   "chapter": 8,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 56,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-5-8-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "32a93b3d75f8740853704415f9c68eabc429abc2",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_08_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 8:1",
-        "source_chapter": 8,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "2d189d63a286d30ab5ba9532cdb210a501f79bef111053960cadd0dff4121033"
-      },
-      "2": {
-        "source_ref": "Luke 8:2",
-        "source_chapter": 8,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "560be7798ed0733f5bd5364c05cddac1aae033ba70e093bb63f606b2efd45ca6"
-      },
-      "3": {
-        "source_ref": "Luke 8:3",
-        "source_chapter": 8,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b0af0fce9c1d8ef26697cee36492e68efff24377def98bd8591e5a471a67c22a"
-      },
-      "4": {
-        "source_ref": "Luke 8:4",
-        "source_chapter": 8,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "0e58a740d2d6405408d46cbe9b7dc432663b760d7cdcf545ef7a755ad51c0ca5"
-      },
-      "5": {
-        "source_ref": "Luke 8:5",
-        "source_chapter": 8,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "22d9bc4f4281dd6fe076372bce973fb90a66f416d5f386798f9ff30af8ea7ea1"
-      },
-      "6": {
-        "source_ref": "Luke 8:6",
-        "source_chapter": 8,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f06d6edf39488636e94e31286ecf6388193fdc2e012395760e1d6305eb0b490a"
-      },
-      "7": {
-        "source_ref": "Luke 8:7",
-        "source_chapter": 8,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d3c86437f1e2c584a8a6e30b66b0020e2be66c7989c033f2538b02e533d09ea4"
-      },
-      "8": {
-        "source_ref": "Luke 8:8",
-        "source_chapter": 8,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "6fc6276e455b2e1bb7a919db3ed083881991a98efad9d55346194b1f90b98822"
-      },
-      "9": {
-        "source_ref": "Luke 8:9",
-        "source_chapter": 8,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "5981e7184f3c2edbe57fb0f4a9eb67ca17ea3bbd91b28ba0ea6a07345d834257"
-      },
-      "10": {
-        "source_ref": "Luke 8:10",
-        "source_chapter": 8,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "28bf60e7a8b7bb9493db85d658173b68c12d709684df7722733735e3c89c49bf"
-      },
-      "11": {
-        "source_ref": "Luke 8:11",
-        "source_chapter": 8,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "f7be9b560f6fa0e511826b18ef09ec766318cac6ae887c7fe9cb26e13e6e9eee"
-      },
-      "12": {
-        "source_ref": "Luke 8:12",
-        "source_chapter": 8,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "cc97f7b301e6251ddbf38f8ed219f173769eae87c3005d895b09d20528a4dee2"
-      },
-      "13": {
-        "source_ref": "Luke 8:13",
-        "source_chapter": 8,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "77d4534095b1d14865b7095572bbde373978f2164cda35bd151a87eed09ececc"
-      },
-      "14": {
-        "source_ref": "Luke 8:14",
-        "source_chapter": 8,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "814c942307ca51b0cd26b977b8a47d501bac4ee88e54ef02509927d99d308379"
-      },
-      "15": {
-        "source_ref": "Luke 8:15",
-        "source_chapter": 8,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "243ef7eeaaec79174116f388eaeed9c65ab824afac213150770e0fab84f5adbd"
-      },
-      "16": {
-        "source_ref": "Luke 8:16",
-        "source_chapter": 8,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "9ada04da19bc8b4043ed3566e7d2010cc4437d1ea849867650f0a340faf1318e"
-      },
-      "17": {
-        "source_ref": "Luke 8:17",
-        "source_chapter": 8,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "3965018036781b4a57771b06d9f0423da1c237f12719ffd53fa9574fda309ffb"
-      },
-      "18": {
-        "source_ref": "Luke 8:18",
-        "source_chapter": 8,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "a60167139da4cdecaaf64b3339f86e0584a1a458f004f25387c1397049a862bf"
-      },
-      "19": {
-        "source_ref": "Luke 8:19",
-        "source_chapter": 8,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "122bfd683534ec9eb4ca47cf0dbcebfa480d76af60b535f71c7ba7e655030052"
-      },
-      "20": {
-        "source_ref": "Luke 8:20",
-        "source_chapter": 8,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "293b843c97eb8397a32971f98cc5e22eac90b5c7cab1a25870e32915e4727a5a"
-      },
-      "21": {
-        "source_ref": "Luke 8:21",
-        "source_chapter": 8,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "ca5951d1e553db2a3fcf35e825cd0d7549a6e7a49f99ce7fc443451760467869"
-      },
-      "22": {
-        "source_ref": "Luke 8:22",
-        "source_chapter": 8,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "93fbf2d06967ea19d666cae0c2c04d8f23862afdd74441ca8af357340273eafe"
-      },
-      "23": {
-        "source_ref": "Luke 8:23",
-        "source_chapter": 8,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "5aadc323d91fdaffa2c2c55aae0292fae01bb37f2d2bdd6fdc1aef571a79ff79"
-      },
-      "24": {
-        "source_ref": "Luke 8:24",
-        "source_chapter": 8,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "7a7b2f79e3da9bd4a2dc2417af9b89d82d48f674e55674dcc625013ed3ff0476"
-      },
-      "25": {
-        "source_ref": "Luke 8:25",
-        "source_chapter": 8,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "35131edb82d1b522edd120c4a805f841b86a7ebe5a031bd9e40964dd860ce5cc"
-      },
-      "26": {
-        "source_ref": "Luke 8:26",
-        "source_chapter": 8,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "e1c2f378db4234e84d3ed27962295b79dad062c6c8aa361356f8d649486c1415"
-      },
-      "27": {
-        "source_ref": "Luke 8:27",
-        "source_chapter": 8,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "1065c3bca2bd243a5e7e3a8c039391d4fb80bf2017b678898e49c15e62518ad5"
-      },
-      "28": {
-        "source_ref": "Luke 8:28",
-        "source_chapter": 8,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "a7f0a361f91550bbd312129d57ba963f0bebf3a0fca694a8aae2394affa2faef"
-      },
-      "29": {
-        "source_ref": "Luke 8:29",
-        "source_chapter": 8,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "f052b546c0f207dca5004734f7208d1643378ece64eb8d7f40f16e647616dce0"
-      },
-      "30": {
-        "source_ref": "Luke 8:30",
-        "source_chapter": 8,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "4923658d11152f6062f267819cc598ade36a9b46f310996a81c5e06c7cbe5681"
-      },
-      "31": {
-        "source_ref": "Luke 8:31",
-        "source_chapter": 8,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "36b967642e169bb8bc067cb2ce0ff427d72b43b386d5f87caf872661d573ad75"
-      },
-      "32": {
-        "source_ref": "Luke 8:32",
-        "source_chapter": 8,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "0b09b9516fb3875539c80b878f36d8058c4f9cf59587ad6cd986bbb7d59bcbad"
-      },
-      "33": {
-        "source_ref": "Luke 8:33",
-        "source_chapter": 8,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "a2850dccfb897aaf976b85f459810fc13421a576160ee3565406a27b7813e8a0"
-      },
-      "34": {
-        "source_ref": "Luke 8:34",
-        "source_chapter": 8,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "0fd31d060740446b515cf988b1d5c4487e0211f3c4459b02fbf685ab916a89b0"
-      },
-      "35": {
-        "source_ref": "Luke 8:35",
-        "source_chapter": 8,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "82f78342df0eb0ef5bce095944e1e872f0c49f8380c4528612736fd98034d2a8"
-      },
-      "36": {
-        "source_ref": "Luke 8:36",
-        "source_chapter": 8,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "869762c8babb3564493f846fb35b2810762cb921b72b6c6a4d25a6c7515754be"
-      },
-      "37": {
-        "source_ref": "Luke 8:37",
-        "source_chapter": 8,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "524fee01b12afb4dd1a648bfd713973e26f75835309b0ada061d4b1aaae2b8a0"
-      },
-      "38": {
-        "source_ref": "Luke 8:38",
-        "source_chapter": 8,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "584f06dc1be087616b236113d0f58293067f0e8a37dbc096732571de2d80d33d"
-      },
-      "39": {
-        "source_ref": "Luke 8:39",
-        "source_chapter": 8,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "727195828a9936a33bce5201183d89ef1854cf956899aa14bd2596a2b1e61f73"
-      },
-      "40": {
-        "source_ref": "Luke 8:40",
-        "source_chapter": 8,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "f4b74501ebf8498ef7773f64d5c50266f70fb203b5f8a54cafec907c326197b8"
-      },
-      "41": {
-        "source_ref": "Luke 8:41",
-        "source_chapter": 8,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "16e497b3ce2e2ffac82ff95caefd73f39569be4ce2e146154355f77a9c824a68"
-      },
-      "42": {
-        "source_ref": "Luke 8:42",
-        "source_chapter": 8,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "3b81fd12e75e6755db5ec00ac733cc419d7bf2da4414f59596c1332c2d329e86"
-      },
-      "43": {
-        "source_ref": "Luke 8:43",
-        "source_chapter": 8,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "44dfc4cfa30110cf3788132d58281910076759565d6f744b064fa90c715a13e8"
-      },
-      "44": {
-        "source_ref": "Luke 8:44",
-        "source_chapter": 8,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "623309487bb0f4519bb149768c7b8d0d13c2fa5844d496c4bc0e2a397dc25ad0"
-      },
-      "45": {
-        "source_ref": "Luke 8:45",
-        "source_chapter": 8,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "8e77efeab5a5eaf5c237fc40fae916fbedd49a3d3a478fcb2e1e4dd47cead701"
-      },
-      "46": {
-        "source_ref": "Luke 8:46",
-        "source_chapter": 8,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "3a361db3c73807f0767b5f6d39c408451a0df9a2b90f49aba4e7cbb1b340b899"
-      },
-      "47": {
-        "source_ref": "Luke 8:47",
-        "source_chapter": 8,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "1c6631117e6ad385ac1318dd0b4287980af98bac122e57de52d79dd5d5af5b88"
-      },
-      "48": {
-        "source_ref": "Luke 8:48",
-        "source_chapter": 8,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "d8e59866306015d4e037ca14a0b19b36826d92b44dc6b19875047ecc40fb1a6c"
-      },
-      "49": {
-        "source_ref": "Luke 8:49",
-        "source_chapter": 8,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "5857d41fbdc89e6bfd227b579be0f9934e2d00ad50d1ce87ab556d25fe8921e0"
-      },
-      "50": {
-        "source_ref": "Luke 8:50",
-        "source_chapter": 8,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "65d01ff6cb82de6b920e59dedf53de48e5151ba23296a9296e78a6655893b83f"
-      },
-      "51": {
-        "source_ref": "Luke 8:51",
-        "source_chapter": 8,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "50e4bad527c23210b5abf905225871bd708c1239971ad13025c4bb2b8aa49d4f"
-      },
-      "52": {
-        "source_ref": "Luke 8:52",
-        "source_chapter": 8,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "b6e6caad388335ab94650d9138d9a7aa480c1421265fa48527f734a6cfff8cff"
-      },
-      "53": {
-        "source_ref": "Luke 8:53",
-        "source_chapter": 8,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "82aa2c010f77deb5e6a459d56fc54a4abd74d6e9060cbebbe440912e3b24a734"
-      },
-      "54": {
-        "source_ref": "Luke 8:54",
-        "source_chapter": 8,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "8d37c24eac21c4f5c88b8378de35e162ab464451ab823c1b8280e95ae2d5edc7"
-      },
-      "55": {
-        "source_ref": "Luke 8:55",
-        "source_chapter": 8,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "c998d19db6a4721bdfb1d3ace5a7eb959b898480a8788e6cacc73a8b1d1c4d17"
-      },
-      "56": {
-        "source_ref": "Luke 8:56",
-        "source_chapter": 8,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "237fd0acd129c801e51e9fa349715b1596e5a1cbc5631d4036fc4adc6f93ad1e"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 8,
+    "verse_count": 56,
+    "path": "translations/fluent/NT/luke/Luke_08.md",
+    "before_sha256": "ae38385995b7cb4fa08079cfe871d67cddc0a415ae4de1ddf72f115b283a7709",
+    "after_sha256": "df7c7dcd611ddc111a24cccaf754127fd31992c8c7c780e6cb8d68cb692e6ba8",
+    "tsw_comparator_path": "books/NT/luke/Luke_08.md",
+    "tsw_comparator_sha256": "71dc5e1439be65e492c061d00a5da8d059801ed12b8a2b2bd17e731174f08c34"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 8:1",
+      "delta": "F3",
+      "rationale": "Keeps Luke’s paired proclamation verbs, kingdom content, and traveling group.",
+      "source_reference": "Luke 8:1",
+      "source_verse_sha256": "54c99afd9f123fe969bf005d0217cd746612e9d4781d1337aa098a2aadfa730f",
+      "before": "Soon afterward Jesus went through towns and villages, proclaiming and announcing the good news of God’s kingdom. The twelve were with him,",
+      "after": "Soon afterward, Jesus traveled from one town and village to another, proclaiming and bringing the good news of God’s kingdom. The Twelve were with him,",
+      "tsw_comparator": "And it happened soon afterward that he was going through cities and villages, proclaiming and bringing good news of the kingdom of God, and the twelve were with him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.555556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:2",
+      "delta": "F3",
+      "rationale": "Preserves the women’s presence, two forms of healing, Mary’s name, and the number seven.",
+      "source_reference": "Luke 8:2",
+      "source_verse_sha256": "97ce11fd7fb04a760e13361cdc6778d6921dae2549867104311066a130e13910",
+      "before": "along with some women who had been healed of evil spirits and illnesses: Mary called Magdalene, from whom seven demons had gone out;",
+      "after": "as were some women who had been healed of evil spirits and illnesses: Mary called Magdalene, from whom seven demons had gone out;",
+      "tsw_comparator": "and certain women who had been healed from evil spirits and infirmities: Mary, called Magdalene, from whom seven demons had gone out,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:3",
+      "delta": "F3",
+      "rationale": "Retains each named relationship and the women’s material agency toward the group.",
+      "source_reference": "Luke 8:3",
+      "source_verse_sha256": "ccc79870dd877fbdc3cb3a91529a13835ea19ca408c3ac8213e80948acc449d5",
+      "before": "Joanna, the wife of Chuza, Herod’s steward; Susanna; and many others. These women were supporting them from their own resources.",
+      "after": "Joanna the wife of Chuza, Herod’s household manager; Susanna; and many other women. They supported them from their own resources.",
+      "tsw_comparator": "and Joanna, the wife of Chuza, Herod’s steward, and Susanna, and many others, who were providing for them out of their resources.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:8",
+      "delta": "F3",
+      "rationale": "Preserves the hundredfold yield and intensifies the final hearing summons.",
+      "source_reference": "Luke 8:8",
+      "source_verse_sha256": "4a0d636182265ae8750cdf6a4a47358c60d509a6b5b80395accee4982dafc67c",
+      "before": "Some fell into good soil and, when it grew, produced a hundredfold.” As he said these things he called out, “Let anyone with ears to hear listen.”",
+      "after": "Other seed fell into good soil. It grew and produced a hundred times as much fruit.” As Jesus said this, he called out, “Let anyone who has ears to hear, listen!”",
+      "tsw_comparator": "And other fell into good soil, and growing up, it produced fruit a hundredfold.” Saying these things, he called out, “The one who has ears to hear, let him hear.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.52459,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:10",
+      "delta": "F3",
+      "rationale": "Retains divine giving, mysteries, contrast, and the difficult purpose quotation.",
+      "source_reference": "Luke 8:10",
+      "source_verse_sha256": "e0f5423aa92bc734f67536b067de0c76a498175771d7219b7ed356c70e06bea4",
+      "before": "He said, “To you it has been given to know the mysteries of God’s kingdom, but to the rest it comes in parables, so that ‘seeing they may not see, and hearing they may not understand.’",
+      "after": "He said, “You have been given knowledge of the mysteries of God’s kingdom, but to the rest it comes in parables, so that ‘seeing they may not see, and hearing they may not understand.’”",
+      "tsw_comparator": "And he said, “To you it has been given to know the mysteries of the kingdom of God, but to the rest in parables, so that ‘seeing they may not see, and hearing they may not understand.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.788732,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:12",
+      "delta": "F3",
+      "rationale": "Preserves heart, the devil’s agency, and the linked prevention of belief and salvation.",
+      "source_reference": "Luke 8:12",
+      "source_verse_sha256": "e2fda2755592fb2d03d07b59033f0b72ddc12cdb64217119e7f7c056ef9622ce",
+      "before": "Those along the path are the ones who hear; then the devil comes and takes the word away from their hearts so that they may not trust and be saved.",
+      "after": "Those along the path are the ones who hear. Then the devil comes and takes the word from their hearts so that they may not believe and be saved.",
+      "tsw_comparator": "Those along the path are the ones who have heard; then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:13",
+      "delta": "F3",
+      "rationale": "Keeps joy, rootlessness, temporary belief, testing, and departure.",
+      "source_reference": "Luke 8:13",
+      "source_verse_sha256": "275419e88d65885e745def602dc272d8f688e524e1d67363b1bca65bb26192da",
+      "before": "Those on the rock are the ones who receive the word with joy when they hear it, but they have no root. They trust for a time and fall away in a time of testing.",
+      "after": "Those on the rock are the ones who receive the word with joy when they hear it, but they have no root. They believe for a time, but in a time of testing they fall away.",
+      "tsw_comparator": "And those on the rock are the ones who, when they hear, receive the word with joy; but these have no root, who believe for a time, and in a time of testing fall away.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.788732,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:14",
+      "delta": "F3",
+      "rationale": "Preserves the three pressures and the failure to bring fruit to maturity.",
+      "source_reference": "Luke 8:14",
+      "source_verse_sha256": "45bdbe33f9505d54ec8da0a058c26eabf14faeb653bfa715e2ebe62e554ce756",
+      "before": "What fell among thorns are those who hear, but as they go on their way they are choked by the cares, wealth, and pleasures of life, and their fruit does not mature.",
+      "after": "The seed that fell among thorns represents those who hear, but as they go on their way they are choked by life’s worries, riches, and pleasures, and their fruit never matures.",
+      "tsw_comparator": "And that which fell among the thorns—these are the ones who have heard, but as they go on their way they are choked by cares and riches and pleasures of life, and they do not bring fruit to maturity.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.591549,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:15",
+      "delta": "F3",
+      "rationale": "Keeps both heart adjectives, holding fast, fruit, and patient endurance.",
+      "source_reference": "Luke 8:15",
+      "source_verse_sha256": "eeecf125b5ecfa256274985662bf5d7267fb417b9f91e6728638444a4e02bc30",
+      "before": "But what fell in good soil are those who hear the word with a good and upright heart, hold it firmly, and bear fruit with endurance.",
+      "after": "But the seed in the good soil represents those who hear the word with a noble and good heart, hold firmly to it, and bear fruit with endurance.”",
+      "tsw_comparator": "But that in the good soil—these are the ones who, having heard the word with a good and upright heart, hold it fast and bear fruit with endurance.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:16",
+      "delta": "F3",
+      "rationale": "Retains the two acts that hide light and the household purpose of display.",
+      "source_reference": "Luke 8:16",
+      "source_verse_sha256": "5f64ca965611e51ec3bb74a14f926b1c0551064b432448a36ae2982b6e95224c",
+      "before": "“No one lights a lamp and covers it with a jar or puts it under a bed. Instead, they put it on a stand so that those entering may see the light.",
+      "after": "“No one lights a lamp and covers it with a container or puts it under a bed. Instead, it is put on a lampstand so that those who enter may see the light.",
+      "tsw_comparator": "“No one after lighting a lamp covers it with a jar or puts it under a bed, but puts it on a stand, so that those entering may see the light.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:17",
+      "delta": "F3",
+      "rationale": "Preserves both parallel movements from hiddenness to disclosure.",
+      "source_reference": "Luke 8:17",
+      "source_verse_sha256": "b846f030a110f4d2db333f1c7c08f220549221248ee4232fb4fe6fa81c62c729",
+      "before": "Nothing is hidden that will not be revealed, and nothing secret that will not become known and come to light.",
+      "after": "For nothing is hidden that will not be made visible, and nothing is concealed that will not become known and come into the open.",
+      "tsw_comparator": "For nothing is hidden that will not be made manifest, nor secret that will not be known and come to light.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:18",
+      "delta": "F3",
+      "rationale": "Keeps “how” one hears and the distinction between possession and imagined possession.",
+      "source_reference": "Luke 8:18",
+      "source_verse_sha256": "0cc8a10972d33a5508ce76c86ef51d57aa26b84154c635c7077bc2aef8eba2ed",
+      "before": "Therefore pay attention to how you hear. Whoever has will be given more, and whoever does not have, even what they think they have will be taken away.”",
+      "after": "Therefore, pay attention to how you listen. Whoever has will be given more; whoever does not have, even what they think they have will be taken away.”",
+      "tsw_comparator": "Therefore take care how you hear; for whoever has, to him more will be given, and whoever does not have, even what he thinks he has will be taken away from him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.610169,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:21",
+      "delta": "F3",
+      "rationale": "Retains hearing and doing as the family-defining pair.",
+      "source_reference": "Luke 8:21",
+      "source_verse_sha256": "5075b5e7dae8391c5820530b18e7b8d350bd8243de32bcbe826ad7ebbbada864",
+      "before": "He answered, “My mother and my brothers are those who hear God’s word and do it.”",
+      "after": "But he answered them, “My mother and my brothers are those who hear the word of God and do it.”",
+      "tsw_comparator": "But answering, he said to them, “My mother and my brothers are these who hear the word of God and do it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:23",
+      "delta": "F3",
+      "rationale": "Preserves Jesus’ sleep, the descending squall, filling boat, and real danger.",
+      "source_reference": "Luke 8:23",
+      "source_verse_sha256": "1bd85e7de354dca64df6fd54d3eda73bc0f5254bfae9619c0096c9517a142eb1",
+      "before": "As they sailed, he fell asleep. A windstorm came down on the lake, the boat began filling with water, and they were in danger.",
+      "after": "As they sailed, he fell asleep. A windstorm swept down on the lake, and the boat was filling with water, putting them in danger.",
+      "tsw_comparator": "And as they were sailing, he fell asleep. And a windstorm came down on the lake, and they were being filled with water and were in danger.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627451,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:24",
+      "delta": "F3",
+      "rationale": "Keeps doubled address, mortal fear, rebuke of both forces, and sudden calm.",
+      "source_reference": "Luke 8:24",
+      "source_verse_sha256": "d7921dba9aa87446e220c24b7550bb48ece73144af66333d5609bc1ae3eed0fb",
+      "before": "They came and woke him: “Master! Master! We are perishing!” He got up, rebuked the wind and the raging water, and they stopped, and there was a calm.",
+      "after": "They went to him and woke him, saying, “Master, Master, we are perishing!” He got up and rebuked the wind and the surging water. They ceased, and there was a calm.",
+      "tsw_comparator": "And coming to him, they woke him, saying, “Master, Master, we are perishing!” And rising, he rebuked the wind and the raging of the water, and they ceased, and there was a calm.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:25",
+      "delta": "F3",
+      "rationale": "Preserves Jesus’ question, both reactions, and the disciples’ identity question.",
+      "source_reference": "Luke 8:25",
+      "source_verse_sha256": "0a3aa70cf9a7dd0107b7c1daf00dfdf74481103c720bc304d045f6c682832ce4",
+      "before": "He said to them, “Where is your faith?” They were afraid and amazed and said to one another, “Who then is this? He commands even the winds and the water, and they obey him!”",
+      "after": "He said to them, “Where is your faith?” They were afraid and amazed, saying to one another, “Who then is this? He commands even the winds and the water, and they obey him!”",
+      "tsw_comparator": "And he said to them, “Where is your faith?” And fearing, they marveled, saying to one another, “Who then is this, that he commands even winds and water, and they obey him?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830769,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:26",
+      "delta": "F3",
+      "rationale": "Retains the pinned source’s place name and geographic relation.",
+      "source_reference": "Luke 8:26",
+      "source_verse_sha256": "143872b217c23743d9edc6b16a5952aad897266645521f2941b5a61717fbc785",
+      "before": "They sailed to the region of the Gerasenes, across from Galilee.",
+      "after": "They sailed to the region of the Gerasenes, across the lake from Galilee.",
+      "tsw_comparator": "And they sailed to the region of the Gerasenes, which is opposite Galilee.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:27",
+      "delta": "F3",
+      "rationale": "Keeps the man’s origin, prolonged nakedness, homelessness, and tomb dwelling without euphemism.",
+      "source_reference": "Luke 8:27",
+      "source_verse_sha256": "7a3fc80d2acaa99e091ef5a4541e59789988638ef6d6329fcc105e975471eee8",
+      "before": "When Jesus stepped onto land, a man from the town met him who had demons. For a long time he had worn no clothes and lived not in a house but among the tombs.",
+      "after": "When Jesus stepped onto land, a man from the town who had demons met him. For a long time he had worn no clothes and had not lived in a house but among the tombs.",
+      "tsw_comparator": "And when he stepped out on the land, a certain man from the city met him who had demons; and for a long time he had not worn clothing, and he was not living in a house but among the tombs.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684211,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:28",
+      "delta": "F3",
+      "rationale": "Preserves the body movement, shouted title, alienation idiom, plea, and threatened torment.",
+      "source_reference": "Luke 8:28",
+      "source_verse_sha256": "7b8978ef29864b99f0f61edbd33b104f2d4a0f295e92eaef16029dbb7a865895",
+      "before": "When he saw Jesus, he cried out, fell before him, and shouted, “What do you want with me, Jesus, Son of the Most High God? I beg you, do not torment me!”",
+      "after": "When he saw Jesus, he cried out, fell before him, and said loudly, “What do you want with me, Jesus, Son of the Most High God? I beg you, do not torment me!”",
+      "tsw_comparator": "And seeing Jesus, he cried out and fell down before him, and said with a loud voice, “What have you to do with me, Jesus, Son of the Most High God? I beg you, do not torment me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:29",
+      "delta": "F3",
+      "rationale": "Keeps repeated seizure, restraint, broken bonds, and coerced movement into isolation.",
+      "source_reference": "Luke 8:29",
+      "source_verse_sha256": "5d740e51db356fb47feecd285cc9357b0a8c575ff61c13873a328364b2a91103",
+      "before": "For Jesus had been commanding the unclean spirit to come out of the man. Many times it had seized him. He had been kept under guard and bound with chains and shackles, but he broke the bonds and was driven by the demon into deserted places.",
+      "after": "For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him. Though he was kept under guard and bound with chains and shackles, he would break the bonds and be driven by the demon into deserted places.",
+      "tsw_comparator": "For he had been commanding the unclean spirit to come out of the man. For many times it had seized him; and he was kept under guard, bound with chains and shackles, but breaking the bonds, he was driven by the demon into the deserts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:30",
+      "delta": "F3",
+      "rationale": "Preserves the name question and Luke’s explanation of the military-scale name.",
+      "source_reference": "Luke 8:30",
+      "source_verse_sha256": "dc43a4312f861434ad6a8cfbf3d25dff2ed6f07df067c73ed071067e7cbe24fe",
+      "before": "Jesus asked him, “What is your name?” He said, “Legion,” because many demons had entered him.",
+      "after": "Jesus asked him, “What is your name?” “Legion,” he answered, because many demons had entered him.",
+      "tsw_comparator": "And Jesus asked him, “What is your name?” And he said, “Legion,” for many demons had entered him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:31",
+      "delta": "F3",
+      "rationale": "Keeps their repeated plea, Jesus’ authority, and the abyss image.",
+      "source_reference": "Luke 8:31",
+      "source_verse_sha256": "737ff5a16d9556cde819349926ec5b203769c07f956176aec3c5f9f013eeae76",
+      "before": "They begged Jesus not to command them to go into the abyss.",
+      "after": "The demons kept begging Jesus not to command them to go into the abyss.",
+      "tsw_comparator": "And they were begging him that he would not command them to depart into the abyss.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:35",
+      "delta": "F3",
+      "rationale": "Keeps the man’s restored clothing, mind, discipleship posture, and the crowd’s fear.",
+      "source_reference": "Luke 8:35",
+      "source_verse_sha256": "04351aeb2049d089d792dd79f22d8fb64a2c4d7d5276a9ff41dae2a1be5b23d8",
+      "before": "People came out to see what had happened. They came to Jesus and found the man from whom the demons had gone out sitting at Jesus’ feet, clothed and in his right mind, and they were afraid.",
+      "after": "The people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had gone out sitting at Jesus’ feet, clothed and in his right mind, and they were afraid.",
+      "tsw_comparator": "And they came out to see what had happened, and they came to Jesus and found the man from whom the demons had gone out, sitting at the feet of Jesus, clothed and in his right mind, and they were afraid.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.825,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:36",
+      "delta": "F3",
+      "rationale": "Renders esōthē as delivered in this healing-exorcism context while retaining passive rescue.",
+      "source_reference": "Luke 8:36",
+      "source_verse_sha256": "63249b2b4b2328915ca333f250efb41312af2e68012431da4cbaffbcf5921fdb",
+      "before": "Those who had seen it told them how the demonized man had been saved.",
+      "after": "Those who had seen it told them how the demon-possessed man had been delivered.",
+      "tsw_comparator": "And those who had seen it reported to them how the one who had been demon-possessed was saved.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:37",
+      "delta": "F3",
+      "rationale": "Preserves the whole region’s request, great fear, and Jesus’ departure.",
+      "source_reference": "Luke 8:37",
+      "source_verse_sha256": "29b7352779b4e5af3b14eb4ffa62632923c34b7eb9e1c6f7940cf270aa47a60a",
+      "before": "Then all the people of the surrounding region of the Gerasenes asked Jesus to leave them because they were seized with great fear. He got into the boat and returned.",
+      "after": "Then all the people from the surrounding region of the Gerasenes asked Jesus to leave them, because they were gripped by great fear. So he got into the boat and returned.",
+      "tsw_comparator": "And all the people of the surrounding region of the Gerasenes asked him to depart from them, because they were seized with great fear. And entering into the boat, he returned.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.677419,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:38",
+      "delta": "F3",
+      "rationale": "Keeps the man’s discipleship desire and Jesus’ contrasting commission.",
+      "source_reference": "Luke 8:38",
+      "source_verse_sha256": "52b0ceb0c7f8dc21a5de3b6392c6e37972f4984c9af96bc160fe3a6d6a581eab",
+      "before": "The man from whom the demons had gone out begged to be with Jesus, but Jesus sent him away:",
+      "after": "The man from whom the demons had gone out begged to be with Jesus, but Jesus sent him away, saying,",
+      "tsw_comparator": "And the man from whom the demons had gone out was begging him that he might be with him, but he sent him away, saying,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:39",
+      "delta": "F3",
+      "rationale": "Preserves Luke’s deliberate God-Jesus correspondence and the public scope.",
+      "source_reference": "Luke 8:39",
+      "source_verse_sha256": "132bdf2dc4201ee5457b9ecc61efcd0e0006534ad8df9f48b8be5619ed6bf53f",
+      "before": "“Return home and tell what God has done for you.” The man went away, proclaiming throughout the town what Jesus had done for him.",
+      "after": "“Return home and tell how much God has done for you.” So he went through the whole town proclaiming how much Jesus had done for him.",
+      "tsw_comparator": "“Return to your house and declare what God has done for you.” And he went away, proclaiming throughout the whole city what Jesus had done for him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.603774,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:42",
+      "delta": "F3",
+      "rationale": "Keeps only-child status, age, imminent death, and crowd pressure.",
+      "source_reference": "Luke 8:42",
+      "source_verse_sha256": "33dc04b47b4f83add223ae00dcc745acb50c4d1de1d58a5e3e5da707ed539ac0",
+      "before": "because his only daughter, about twelve years old, was dying. As Jesus went, the crowds pressed around him.",
+      "after": "because his only daughter, about twelve years old, was dying. As Jesus went, the crowds pressed in around him.",
+      "tsw_comparator": "because he had an only daughter, about twelve years old, and she was dying.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:43",
+      "delta": "F3",
+      "rationale": "Preserves duration, economic cost in the pinned reading, and unsuccessful care without blaming her.",
+      "source_reference": "Luke 8:43",
+      "source_verse_sha256": "01f3b45e8c87b2b314d5dfa6d46438d1afde1ca2391294c6b7a6fcc1a15aa939",
+      "before": "A woman had suffered from bleeding for twelve years and could not be healed by anyone.",
+      "after": "A woman who had suffered from bleeding for twelve years had spent her whole livelihood on physicians, but no one had been able to heal her.",
+      "tsw_comparator": "And a woman having a flow of blood for twelve years, who had spent all her livelihood on physicians and was not able to be healed by anyone,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.481481,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:44",
+      "delta": "F3",
+      "rationale": "Retains her approach, the garment fringe, and immediate bodily change.",
+      "source_reference": "Luke 8:44",
+      "source_verse_sha256": "87f6f0fbb019c8d02ed1111fdd8a77d982fbaa57d5dd6c53de16191bf9b43fac",
+      "before": "She came up behind Jesus and touched the fringe of his garment. Immediately her bleeding stopped.",
+      "after": "She came up behind Jesus and touched the fringe of his garment. Immediately her bleeding stopped.",
+      "tsw_comparator": "came up behind him and touched the fringe of his garment, and immediately the flow of her blood stopped.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:45",
+      "delta": "F3",
+      "rationale": "Keeps the question, general denial, named speaker, and physical crowding.",
+      "source_reference": "Luke 8:45",
+      "source_verse_sha256": "d565a45287b3f082c481e9e9ea67b1ec16aa603e35957323d1cedc49777f4a25",
+      "before": "Jesus asked, “Who touched me?” When everyone denied it, Peter said, “Master, the crowds surround you and press against you.”",
+      "after": "Jesus asked, “Who touched me?” When everyone denied it, Peter said, “Master, the crowds are surrounding you and pressing against you.”",
+      "tsw_comparator": "And Jesus said, “Who is the one who touched me?” And while all were denying it, Peter said, “Master, the crowds surround you and press upon you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.541667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:46",
+      "delta": "F3",
+      "rationale": "Preserves Jesus’ insistence and awareness of outgoing power.",
+      "source_reference": "Luke 8:46",
+      "source_verse_sha256": "01688f918126ead6d9a615795db076f4f005fa18294abc265e6a5359a9d7a871",
+      "before": "But Jesus said, “Someone touched me, because I knew that power had gone out from me.”",
+      "after": "But Jesus said, “Someone touched me, because I know that power has gone out from me.”",
+      "tsw_comparator": "But Jesus said, “Someone touched me, for I perceived power going out from me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:47",
+      "delta": "F3",
+      "rationale": "Keeps her fear, public disclosure, reason, and immediate healing without inventing her words.",
+      "source_reference": "Luke 8:47",
+      "source_verse_sha256": "c903f86a0f6377c3e28c49f99c4665c2688478787bee1e930ab32191fdd3b4c1",
+      "before": "When the woman saw that she had not remained hidden, she came trembling, fell before him, and declared before all the people why she had touched him and how she had been healed immediately.",
+      "after": "When the woman saw that she had not escaped notice, she came trembling and fell before him. In front of all the people, she explained why she had touched him and how she had been healed immediately.",
+      "tsw_comparator": "And the woman, seeing that she was not hidden, came trembling and falling before him declared in the presence of all the people why she had touched him and how she was immediately healed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.676056,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:48",
+      "delta": "F3",
+      "rationale": "Retains relational address, salvation language, and peace.",
+      "source_reference": "Luke 8:48",
+      "source_verse_sha256": "3692abbbce54fd119d963362fe93cbecda7e04f097ae8646becd53d2e884a634",
+      "before": "He said to her, “Daughter, your faith has saved you. Go in peace.”",
+      "after": "He said to her, “Daughter, your faith has saved you. Go in peace.”",
+      "tsw_comparator": "And he said to her, “Daughter, your faith has saved you; go in peace.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:49",
+      "delta": "F3",
+      "rationale": "Keeps the interruption, reported death, and request to stop burdening Jesus.",
+      "source_reference": "Luke 8:49",
+      "source_verse_sha256": "f9272915ff2ed3f72f39494692591301511902d09fe44b98d2951ba8f4af4d59",
+      "before": "While he was still speaking, someone came from the synagogue ruler’s house and said, “Your daughter has died. Do not trouble the teacher any longer.”",
+      "after": "While Jesus was still speaking, someone came from the synagogue leader’s house and said, “Your daughter has died. Do not trouble the teacher any longer.”",
+      "tsw_comparator": "While he was still speaking, someone came from the ruler’s house, saying, “Your daughter has died; do not trouble the teacher any longer.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:50",
+      "delta": "F3",
+      "rationale": "Names the addressed father for clarity and preserves fear, faith, and future rescue-healing.",
+      "source_reference": "Luke 8:50",
+      "source_verse_sha256": "058f19d90785fc3cccf2f299bd7af793c8509449887b30ff3b55442ed131daf1",
+      "before": "But Jesus heard and answered Jairus, “Do not be afraid. Only trust, and she will be saved.”",
+      "after": "When Jesus heard this, he answered Jairus, “Do not be afraid; only believe, and she will be made well.”",
+      "tsw_comparator": "But Jesus, hearing it, answered him, “Do not fear; only believe, and she will be saved.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:52",
+      "delta": "F3",
+      "rationale": "Preserves genuine mourning and Jesus’ contrasting statement without narratorial explanation.",
+      "source_reference": "Luke 8:52",
+      "source_verse_sha256": "1537350d610696c71ee68db39a4e6dd75b8840510ad90767c10e1ac9533d771f",
+      "before": "Everyone was weeping and mourning for her, but he said, “Do not weep. She has not died but is sleeping.”",
+      "after": "Everyone was weeping and mourning for her, but Jesus said, “Do not weep. She is not dead but asleep.”",
+      "tsw_comparator": "And all were weeping and mourning for her, but he said, “Do not weep, for she has not died but sleeps.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:53",
+      "delta": "F3",
+      "rationale": "Keeps their derision and explicit knowledge of death.",
+      "source_reference": "Luke 8:53",
+      "source_verse_sha256": "3dad12397c5c4f6b6211c173cc985cb76debed3ae2222c4eb5b5d727324835ed",
+      "before": "They laughed at him because they knew she had died.",
+      "after": "They laughed at him because they knew she was dead.",
+      "tsw_comparator": "And they were laughing at him, knowing that she had died.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.380952,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:54",
+      "delta": "F3",
+      "rationale": "Retains physical touch, loud voice, and direct command.",
+      "source_reference": "Luke 8:54",
+      "source_verse_sha256": "d781dea5ad235ace88263328edc52030af7c9a0cbd6270fe51b4a6ffe4dd2e50",
+      "before": "But Jesus took her by the hand and called out, “Child, get up!”",
+      "after": "But Jesus took her by the hand and called out, “Child, get up!”",
+      "tsw_comparator": "But taking her by the hand, he called out, saying, “Child, arise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:55",
+      "delta": "F3",
+      "rationale": "Keeps spirit, immediate rising, and concrete provision of food.",
+      "source_reference": "Luke 8:55",
+      "source_verse_sha256": "87b2afe568fc9e915046f9828ccf11854cd7f58b546158445689eaf84706492f",
+      "before": "Her spirit returned, and she got up immediately. He ordered that she be given something to eat.",
+      "after": "Her spirit returned, and she immediately got up. Jesus ordered that she be given something to eat.",
+      "tsw_comparator": "And her spirit returned, and she rose immediately, and he ordered that something be given to her to eat.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 8:56",
+      "delta": "F3",
+      "rationale": "Retains parental response, secrecy command, and event reference.",
+      "source_reference": "Luke 8:56",
+      "source_verse_sha256": "2b2de89cf65b24b89452c9e461e28748cdb3c8770f62c05758885dd5caaa0c5d",
+      "before": "Her parents were amazed, but he ordered them not to tell anyone what had happened.",
+      "after": "Her parents were astonished, but Jesus ordered them not to tell anyone what had happened.",
+      "tsw_comparator": "And her parents were amazed, but he ordered them to tell no one what had happened.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_08.md",
-    "blob_sha": "5c8642074788edd4449d6b84d0aad14944236595"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

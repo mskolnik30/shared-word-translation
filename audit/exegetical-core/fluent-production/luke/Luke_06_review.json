@@ -2,364 +2,463 @@
   "book": "Luke",
   "chapter": 6,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 49,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-5-8-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "32a93b3d75f8740853704415f9c68eabc429abc2",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_06_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 6:1",
-        "source_chapter": 6,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "c70d33a2e107d5965f362eb77ed7cb5cca98ff53e32a1de3d31b30f338d0c85d"
-      },
-      "2": {
-        "source_ref": "Luke 6:2",
-        "source_chapter": 6,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "a317e49d154421f31a39babac520311266de5366578d645fa3db8431cf26446b"
-      },
-      "3": {
-        "source_ref": "Luke 6:3",
-        "source_chapter": 6,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "7318929ee382aa8d080d71ee4b8c44f86452f0a111b8ea30c85e1859effc0082"
-      },
-      "4": {
-        "source_ref": "Luke 6:4",
-        "source_chapter": 6,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "2808684e1ff1c3daf2808072dbc4e92317cdd9594272d0a8dbcc4cbc7e2fe484"
-      },
-      "5": {
-        "source_ref": "Luke 6:5",
-        "source_chapter": 6,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "0fb8bc4322b4e7d09998b8ef867694d633c3822746dc7e3c54e8a302a15a833e"
-      },
-      "6": {
-        "source_ref": "Luke 6:6",
-        "source_chapter": 6,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "743c48041953d0d00a7b995c419b8a8244c45178cd8cb78b40cf945f1a7c52bf"
-      },
-      "7": {
-        "source_ref": "Luke 6:7",
-        "source_chapter": 6,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "bec55e92027097496f776b3ccc1c7788f8ebdacb796d88661eb17e1c87e11b9c"
-      },
-      "8": {
-        "source_ref": "Luke 6:8",
-        "source_chapter": 6,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3cdcfd39f0210bfea24ebe3fd48c8bb1f6068d5987cf2bc4b1aedd033656f7c9"
-      },
-      "9": {
-        "source_ref": "Luke 6:9",
-        "source_chapter": 6,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "033784cba2b1b59e3efe55ee264405613b4400fff4674e141361a87710f4cf2a"
-      },
-      "10": {
-        "source_ref": "Luke 6:10",
-        "source_chapter": 6,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "af81c52b3c130631526507a06ed57c3a8c1bfff054622c32969c2c5b76ff5445"
-      },
-      "11": {
-        "source_ref": "Luke 6:11",
-        "source_chapter": 6,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "f88e79d4bcf62462ad07a086a4361a1bae6066a2337e304cae04accb2610b54a"
-      },
-      "12": {
-        "source_ref": "Luke 6:12",
-        "source_chapter": 6,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "d9335465300b8125df108dd320def958f67c69ae8e6f21d4b2b0302a2c1c2929"
-      },
-      "13": {
-        "source_ref": "Luke 6:13",
-        "source_chapter": 6,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "502d7eafc3f7fc8a9d85fc5a128ddd04ab21530f20059b7122eadea7f55558b6"
-      },
-      "14": {
-        "source_ref": "Luke 6:14",
-        "source_chapter": 6,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "51e78ee70291c730851fe197a1acf0de078d32194df106b09d4a458482b4f4e5"
-      },
-      "15": {
-        "source_ref": "Luke 6:15",
-        "source_chapter": 6,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "2e908731f43e4303ac9c70e77d8a5af5c8fed4e91a3c922db248eddb8c777cef"
-      },
-      "16": {
-        "source_ref": "Luke 6:16",
-        "source_chapter": 6,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "2f6b24da4ee1f3b0120bee6fcc57a095ea542663caf86518f0ec23e9c2785909"
-      },
-      "17": {
-        "source_ref": "Luke 6:17",
-        "source_chapter": 6,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "1c5ecbd2f119dd4d1a0d86a3271ca4e10102b4ec7561f4ac5b6b8248800bf5ae"
-      },
-      "18": {
-        "source_ref": "Luke 6:18",
-        "source_chapter": 6,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "5ad7caa37be2d2270d6c2c00f2e5c1ead020c9937a6e89f3b480b2cf0a42bf7b"
-      },
-      "19": {
-        "source_ref": "Luke 6:19",
-        "source_chapter": 6,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "13e40e4a03b1e07bb3f2e44c5bc918233c18b7dfe542e5852679bf43a07e69b9"
-      },
-      "20": {
-        "source_ref": "Luke 6:20",
-        "source_chapter": 6,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "0866931025c195fa5fae63524d989bf914568b65a7c9d146ba5ffb04ca609871"
-      },
-      "21": {
-        "source_ref": "Luke 6:21",
-        "source_chapter": 6,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "b57924288d7de07ea57918714f592eeabaf215ed2516b1d1f3f32e33c435c1c6"
-      },
-      "22": {
-        "source_ref": "Luke 6:22",
-        "source_chapter": 6,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "33e6c6d19e9e28d2bbefd794618b0c0d1d0fdb06934b31ebd93b270d2a9af713"
-      },
-      "23": {
-        "source_ref": "Luke 6:23",
-        "source_chapter": 6,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "8ed90e28484613d4669b81aa98584eb1b451456f0ee801cafee9437a2fa9eab6"
-      },
-      "24": {
-        "source_ref": "Luke 6:24",
-        "source_chapter": 6,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "945bc57f0c655622075161983bfd5015266f3834e38490cf04ce91c242e887bc"
-      },
-      "25": {
-        "source_ref": "Luke 6:25",
-        "source_chapter": 6,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e72557bb9fc02e7db13818f05f92b60d0c54f4dbd891c0893272d58bb856e44a"
-      },
-      "26": {
-        "source_ref": "Luke 6:26",
-        "source_chapter": 6,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "56115b3c37255b95eb555834184722041c392562be04ef6fc682477923a0d764"
-      },
-      "27": {
-        "source_ref": "Luke 6:27",
-        "source_chapter": 6,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "c4d01f9965595a6239753ace2c2e990cf91eb2d64e9ddbc5a62990ef227dfc05"
-      },
-      "28": {
-        "source_ref": "Luke 6:28",
-        "source_chapter": 6,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "7829c541e3fb050d9c80f536f405caabcf9edd71568e094a5ad9099ebcca7e3a"
-      },
-      "29": {
-        "source_ref": "Luke 6:29",
-        "source_chapter": 6,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "3e8fcfcf549cf48b46ec23d6d4954dbf7cd3d36a7468c5b5f078c1917bcdca23"
-      },
-      "30": {
-        "source_ref": "Luke 6:30",
-        "source_chapter": 6,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "acddc7452bb108c0915df98092405d2e8d2eef53e12ff343cd84d4c3410d63d3"
-      },
-      "31": {
-        "source_ref": "Luke 6:31",
-        "source_chapter": 6,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "8ebbc627455e6fb1e487c01e10e75514a69de0f1eca098795de1f51700ef182f"
-      },
-      "32": {
-        "source_ref": "Luke 6:32",
-        "source_chapter": 6,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "7814292b9e899647ee76396cecbe7ef92ea54fdc7193898e0edead85c4d00a69"
-      },
-      "33": {
-        "source_ref": "Luke 6:33",
-        "source_chapter": 6,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "e659ce5dccabaa1b8ec816d88c996b5f669c5925a46b990b9576bcf3c0926da3"
-      },
-      "34": {
-        "source_ref": "Luke 6:34",
-        "source_chapter": 6,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "b5497adb4f9e20ded55df4b7742ee7256ea1cad5b61b5114b27ce3aaeecd8b5d"
-      },
-      "35": {
-        "source_ref": "Luke 6:35",
-        "source_chapter": 6,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "f45097d980528300596559d1cc7cafa65f15451a6c30d736edaef90a120c6892"
-      },
-      "36": {
-        "source_ref": "Luke 6:36",
-        "source_chapter": 6,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "91730f9aad692a876648e26d79b4c9ef46fb44431d45419e7d28008aac099ee9"
-      },
-      "37": {
-        "source_ref": "Luke 6:37",
-        "source_chapter": 6,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "9798c5311fb9d2244effddefcc8d6b7f52d5791f3f5a1dde1300f2c00fac4d66"
-      },
-      "38": {
-        "source_ref": "Luke 6:38",
-        "source_chapter": 6,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "4356dd475aa76d637046c3157d68cfe72696229f1c515f174a897227a9b6aed0"
-      },
-      "39": {
-        "source_ref": "Luke 6:39",
-        "source_chapter": 6,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "1a18349cd6b6778f0f11d94a683848656bbedab5c30e978a77d2c6a2bf976bae"
-      },
-      "40": {
-        "source_ref": "Luke 6:40",
-        "source_chapter": 6,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "71a674e0106e841ccbc08775c70044d913f20664b07199d087a1fca3a1b46e6a"
-      },
-      "41": {
-        "source_ref": "Luke 6:41",
-        "source_chapter": 6,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "320c7df430df69b3710a653c9c541351c0814d9b81d51be263f91800ca66972e"
-      },
-      "42": {
-        "source_ref": "Luke 6:42",
-        "source_chapter": 6,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "5874b6e3cbd1e1a41418f5e944f4d630d1f1a87a7267968cdc0a2aacaaf6e91b"
-      },
-      "43": {
-        "source_ref": "Luke 6:43",
-        "source_chapter": 6,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "e0d0e13ad9ce04187b5b07c5e81a6e7c14a3637e5f1429c708122af02a3f7927"
-      },
-      "44": {
-        "source_ref": "Luke 6:44",
-        "source_chapter": 6,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "7dbffce163647833e182a83d2b3d832b054e9a41048fb471f131180ca18db9cc"
-      },
-      "45": {
-        "source_ref": "Luke 6:45",
-        "source_chapter": 6,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "cacf7076fdb870162e428c7feedfc5f03c2790071bc635b19caac7fe2c600943"
-      },
-      "46": {
-        "source_ref": "Luke 6:46",
-        "source_chapter": 6,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "db7bf12368796ea911e9876647188baabfca6a334e8ffd0478b25d8a28decf31"
-      },
-      "47": {
-        "source_ref": "Luke 6:47",
-        "source_chapter": 6,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "2a8dae8bdfb0016adc41074824e04680203d3fbabfcf23118bdc052aeb013e0c"
-      },
-      "48": {
-        "source_ref": "Luke 6:48",
-        "source_chapter": 6,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "35a57df4f9143c8b588318ae97f0a50c63343cf0694b0b3fdf17e4934e075f41"
-      },
-      "49": {
-        "source_ref": "Luke 6:49",
-        "source_chapter": 6,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "27dfc612f136ecaa9640522bd17cab8fb76084abb56b97fec59f10076b490955"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 6,
+    "verse_count": 49,
+    "path": "translations/fluent/NT/luke/Luke_06.md",
+    "before_sha256": "2f69263b3a66e07c7b21e087e0b3cad41deafb9b82cff104b70bdf5ad19e7626",
+    "after_sha256": "0f150bed02085ccade8466362f39c41ed562de07be9a167b6c7312955902c7e9",
+    "tsw_comparator_path": "books/NT/luke/Luke_06.md",
+    "tsw_comparator_sha256": "91c5faa0971fa4b16e051333f740081ae13e6c10bf381c6cc7b3f0fa46a78873"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 6:1",
+      "delta": "F3",
+      "rationale": "Keeps the Sabbath setting and the concrete sequence of picking, rubbing, and eating.",
+      "source_reference": "Luke 6:1",
+      "source_verse_sha256": "e667e5c1d2fb2de7d2f09209be365ea10d2318f71655c48f690dab65532523ba",
+      "before": "On a Sabbath Jesus was passing through grainfields, and his disciples were picking heads of grain, rubbing them in their hands, and eating them.",
+      "after": "On a Sabbath, Jesus was passing through grainfields. His disciples were picking heads of grain, rubbing them in their hands, and eating them.",
+      "tsw_comparator": "Now it happened on a Sabbath that he was passing through grainfields, and his disciples were plucking and eating the heads of grain, rubbing them in their hands.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:4",
+      "delta": "F3",
+      "rationale": "Retains David’s taking, eating, sharing, and the priestly restriction.",
+      "source_reference": "Luke 6:4",
+      "source_verse_sha256": "c0e78c38bb863838553cb7c18036d88c790f481f702e7c8c25a3fbc8f50e5868",
+      "before": "He entered God’s house, took the bread of the Presence, ate it, and gave some to those with him—bread that is not lawful for anyone except the priests to eat.”",
+      "after": "He entered the house of God, took and ate the consecrated bread, and gave some to those with him—bread that only the priests are permitted to eat.”",
+      "tsw_comparator": "how he entered the house of God and took the bread of the Presence and ate and gave to those with him, which it is not lawful for any to eat except the priests?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.548387,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:5",
+      "delta": "F3",
+      "rationale": "Preserves the predicate emphasis and the full title.",
+      "source_reference": "Luke 6:5",
+      "source_verse_sha256": "28887c1b34856cdb21cbf5f85ab6222b536f0ebb9b68240f9f48aa6a5a35e80b",
+      "before": "Then he said to them, “The Son of Man is Lord of the Sabbath.”",
+      "after": "Then he told them, “The Son of Man is Lord of the Sabbath.”",
+      "tsw_comparator": "And he said to them, “The Son of Man is lord of the Sabbath.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:6",
+      "delta": "F3",
+      "rationale": "Keeps the second Sabbath, teaching setting, and specific right hand.",
+      "source_reference": "Luke 6:6",
+      "source_verse_sha256": "78d01c9191a1bf2e980504c5b802532c93eb32554954c8b24b09ec05e2d7cf5f",
+      "before": "On another Sabbath Jesus entered the synagogue and taught. A man was there whose right hand was withered.",
+      "after": "On another Sabbath, Jesus entered the synagogue and taught. A man was there whose right hand was withered.",
+      "tsw_comparator": "And it happened on another Sabbath that he entered into the synagogue and was teaching, and there was a man there, and his right hand was withered.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:9",
+      "delta": "F3",
+      "rationale": "Keeps both moral pairs and “life” rather than reducing the question to health.",
+      "source_reference": "Luke 6:9",
+      "source_verse_sha256": "14e9572c055c66fcc8eaf97720ba8df3096eab57eb9b29605551d4422c7cec6e",
+      "before": "Jesus said to them, “I ask you: Is it lawful on the Sabbath to do good or to do harm, to save life or to destroy it?”",
+      "after": "Then Jesus said to them, “I ask you: Is it lawful on the Sabbath to do good or to do harm, to save a life or to destroy it?”",
+      "tsw_comparator": "And Jesus said to them, “I ask you whether it is lawful on the Sabbath to do good or to do harm, to save life or to destroy it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:11",
+      "delta": "F3",
+      "rationale": "Conveys anoia as irrational fury and preserves their deliberation.",
+      "source_reference": "Luke 6:11",
+      "source_verse_sha256": "426b799532aa5daf77281976f924fb5998699e449e8c313fb30ea6f19f206098",
+      "before": "But they were filled with senseless rage and began discussing with one another what they might do to Jesus.",
+      "after": "But they were filled with senseless rage and discussed with one another what they might do to Jesus.",
+      "tsw_comparator": "But they were filled with rage and were discussing with one another what they might do to Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:12",
+      "delta": "F3",
+      "rationale": "Keeps the mountain, all-night duration, and prayer directed to God.",
+      "source_reference": "Luke 6:12",
+      "source_verse_sha256": "8ba09c6d73b02279fdda5b4f7b7e380e616beb8cdacd2880248da194cafb725e",
+      "before": "In those days Jesus went out to the mountain to pray, and he spent the night in prayer to God.",
+      "after": "In those days Jesus went out to the mountain to pray, and he spent the whole night in prayer to God.",
+      "tsw_comparator": "And it happened in those days that he went out to the mountain to pray, and he was spending the night in prayer to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:13",
+      "delta": "F3",
+      "rationale": "Distinguishes the larger disciple group from the selected Twelve and retains their naming.",
+      "source_reference": "Luke 6:13",
+      "source_verse_sha256": "dbaa057c44af4fc82f5bef018643003096567adc535c174f07a43fcc703f353e",
+      "before": "When day came, he called his disciples and chose twelve of them, whom he also named apostles:",
+      "after": "When day came, he called his disciples and chose twelve of them, whom he also named apostles:",
+      "tsw_comparator": "And when day came, he called his disciples and chose from them twelve, whom he also named apostles:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:16",
+      "delta": "F3",
+      "rationale": "Preserves the ambiguous filial construction conventionally and Luke’s becoming language.",
+      "source_reference": "Luke 6:16",
+      "source_verse_sha256": "dd241d5fa4a36f8455a143a7151a896e5ba22ce19327fc87cea65d59b3adcb9a",
+      "before": "Judas son of James; and Judas Iscariot, who became a traitor.",
+      "after": "Judas son of James; and Judas Iscariot, who became a traitor.",
+      "tsw_comparator": "and Judas the son of James, and Judas Iscariot, who became a traitor.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:17",
+      "delta": "F3",
+      "rationale": "Keeps the level place, two groups, and full geographic range.",
+      "source_reference": "Luke 6:17",
+      "source_verse_sha256": "1852e5b7709198a25ab7f57dd5ef00dfc8494993aa93e9a8d2871c09cfe4917e",
+      "before": "Jesus came down with them and stood on a level place. A large crowd of his disciples was there, along with a great multitude of people from all Judea, Jerusalem, and the coastal region of Tyre and Sidon.",
+      "after": "Jesus came down with them and stood on a level place. A large crowd of his disciples was there, along with a great multitude of people from all Judea, Jerusalem, and the coastal region of Tyre and Sidon.",
+      "tsw_comparator": "And coming down with them, he stood on a level place, and a great crowd of his disciples and a great multitude of the people from all Judea and Jerusalem and the seacoast of Tyre and Sidon,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:20",
+      "delta": "F3",
+      "rationale": "Keeps Luke’s direct address and does not add “in spirit.”",
+      "source_reference": "Luke 6:20",
+      "source_verse_sha256": "2d72bad987f5ca20bbb65ddfee6aef5694c692989d1e5a2362a3a4de45c170ae",
+      "before": "Jesus looked at his disciples and said: “Blessed are you who are poor, because yours is God’s kingdom.",
+      "after": "Jesus looked up at his disciples and said: “Blessed are you who are poor, because the kingdom of God is yours.",
+      "tsw_comparator": "And lifting up his eyes to his disciples, he was saying: “Blessed are you poor, for yours is the kingdom of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.511628,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:21",
+      "delta": "F3",
+      "rationale": "Retains “now” in both reversals and their concrete future outcomes.",
+      "source_reference": "Luke 6:21",
+      "source_verse_sha256": "3925e2021c25e11e2f6315da1e55c7e668313046e5a0a44ad6a2594f848a92c4",
+      "before": "Blessed are you who are hungry now, because you will be filled. Blessed are you who weep now, because you will laugh.",
+      "after": "Blessed are you who hunger now, because you will be filled. Blessed are you who weep now, because you will laugh.",
+      "tsw_comparator": "Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:22",
+      "delta": "F3",
+      "rationale": "Preserves the escalating social harms and their stated cause.",
+      "source_reference": "Luke 6:22",
+      "source_verse_sha256": "f13ea29ccab1864ef64c4bce4601d84df72f4926b41583b1128602e0b0d460b8",
+      "before": "Blessed are you when people hate you, exclude you, insult you, and reject your name as evil because of the Son of Man.",
+      "after": "Blessed are you when people hate you, exclude you, insult you, and reject your name as evil because of the Son of Man.",
+      "tsw_comparator": "Blessed are you when people hate you and when they exclude you and insult you and cast out your name as evil on account of the Son of Man.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:23",
+      "delta": "F3",
+      "rationale": "Keeps bodily joy, heavenly reward, and the ancestral pattern.",
+      "source_reference": "Luke 6:23",
+      "source_verse_sha256": "e0ebc10564b4b16b7a36e079d440a86636f6b531eb640750d6f084271add21b9",
+      "before": "Rejoice on that day and leap for joy! Look—your reward is great in heaven, because their ancestors treated the prophets the same way.",
+      "after": "Rejoice on that day and leap for joy, because your reward is great in heaven. Their ancestors treated the prophets in the same way.",
+      "tsw_comparator": "Rejoice in that day and leap, for behold, your reward is great in heaven; for in the same way their fathers did to the prophets.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.653061,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:24",
+      "delta": "F3",
+      "rationale": "Retains direct address and the completed receipt of consolation.",
+      "source_reference": "Luke 6:24",
+      "source_verse_sha256": "e013f3ad7a614b881b497b197fbff702cc21aaf6b9e410420644601711416588",
+      "before": "“But woe to you who are rich, because you have received your comfort.",
+      "after": "But woe to you who are rich, because you have received your comfort.",
+      "tsw_comparator": "But woe to you who are rich, for you have received your comfort.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:25",
+      "delta": "F3",
+      "rationale": "Keeps both present conditions and future reversals without spiritualizing them.",
+      "source_reference": "Luke 6:25",
+      "source_verse_sha256": "a9ce4c33b1a4c241d8ff03cd756c9c7b90a3fca1ab4e581d699ad61b27788634",
+      "before": "Woe to you who are full now, because you will be hungry. Woe to you who laugh now, because you will mourn and weep.",
+      "after": "Woe to you who are well fed now, because you will hunger. Woe to you who laugh now, because you will mourn and weep.",
+      "tsw_comparator": "Woe to you who are full now, for you will hunger. Woe to you who laugh now, for you will mourn and weep.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851064,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:26",
+      "delta": "F3",
+      "rationale": "Preserves universal praise as the warning and the false-prophet comparison.",
+      "source_reference": "Luke 6:26",
+      "source_verse_sha256": "e74d2ab859e7e4ea841622e92549439a573471b7b115300c875dc5a7a3a34864",
+      "before": "Woe when all people speak well of you, because their ancestors treated the false prophets the same way.",
+      "after": "Woe to you when everyone speaks well of you, for their ancestors treated the false prophets in the same way.”",
+      "tsw_comparator": "Woe when all people speak well of you, for in the same way their fathers did to the false prophets.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:29",
+      "delta": "F3",
+      "rationale": "Preserves the bodily and clothing examples with ancient garment distinction.",
+      "source_reference": "Luke 6:29",
+      "source_verse_sha256": "e3f11e1dc045b110cb5da38f3bd77ca6d33aed0fda3564925a053e9f45063e9d",
+      "before": "To the one who strikes you on the cheek, offer the other also. From the one who takes your cloak, do not withhold your tunic.",
+      "after": "If someone strikes you on the cheek, offer the other also. If someone takes your outer garment, do not withhold your tunic either.",
+      "tsw_comparator": "To the one who strikes you on the cheek, offer also the other, and from the one who takes your cloak, do not withhold your tunic.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:30",
+      "delta": "F3",
+      "rationale": "Keeps the broad commands and the stronger sense of reclaiming possessions.",
+      "source_reference": "Luke 6:30",
+      "source_verse_sha256": "643c94155c963b420ae71c5fea92d322e12cb1a5d1c91fcace075796112c8439",
+      "before": "Give to everyone who asks you, and from the one who takes what belongs to you, do not demand it back.",
+      "after": "Give to everyone who asks you, and if someone takes what belongs to you, do not demand it back.",
+      "tsw_comparator": "Give to everyone who asks of you, and from the one who takes what is yours, do not demand it back.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:32",
+      "delta": "F3",
+      "rationale": "Renders charis as credit in the rhetorical comparison and preserves repetition.",
+      "source_reference": "Luke 6:32",
+      "source_verse_sha256": "6484885f504ebc4f507b3485ad3c358256cb7defd43315995c4b70e4d832e526",
+      "before": "“If you love those who love you, what credit is that to you? Even sinners love those who love them.",
+      "after": "If you love those who love you, what credit is that to you? Even sinners love those who love them.",
+      "tsw_comparator": "And if you love those who love you, what grace is that to you? For even sinners love those who love them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:33",
+      "delta": "F3",
+      "rationale": "Keeps the second parallel question and its moral action.",
+      "source_reference": "Luke 6:33",
+      "source_verse_sha256": "4df6a5f02eb7a984520ed44b7a18bd94bd4aa6894360468fb37da74c399fb35a",
+      "before": "If you do good to those who do good to you, what credit is that to you? Even sinners do the same.",
+      "after": "If you do good to those who do good to you, what credit is that to you? Even sinners do the same.",
+      "tsw_comparator": "And if you do good to those who do good to you, what grace is that to you? Even sinners do the same.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:34",
+      "delta": "F3",
+      "rationale": "Preserves lending, expected return, and equal repayment.",
+      "source_reference": "Luke 6:34",
+      "source_verse_sha256": "930cb23869a6d2cdd11cdcc2255b455fdd75c819f3063e38378268abfcb940af",
+      "before": "If you lend to those from whom you expect to receive, what credit is that to you? Even sinners lend to sinners so they may receive the same amount back.",
+      "after": "If you lend to those from whom you expect repayment, what credit is that to you? Even sinners lend to sinners to receive the same amount back.",
+      "tsw_comparator": "And if you lend to those from whom you hope to receive, what grace is that to you? Even sinners lend to sinners, to receive equal things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:35",
+      "delta": "F3",
+      "rationale": "Keeps the difficult lending clause’s common construal and God’s kindness to both named groups.",
+      "source_reference": "Luke 6:35",
+      "source_verse_sha256": "011debb4243547ea03ff9095fc7366d9169e2440c677f5e1b578fe21cb212e5e",
+      "before": "Instead, love your enemies, do good, and lend expecting nothing in return. Your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and evil.",
+      "after": "Instead, love your enemies, do good, and lend, expecting nothing in return. Then your reward will be great, and you will be children of the Most High, because he is kind to the ungrateful and evil.",
+      "tsw_comparator": "But love your enemies, and do good, and lend, expecting nothing in return; and your reward will be great, and you will be sons of the Most High, because he is kind to the ungrateful and the evil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.891892,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:36",
+      "delta": "F3",
+      "rationale": "Retains mercy rather than substituting Matthew’s “perfect.”",
+      "source_reference": "Luke 6:36",
+      "source_verse_sha256": "92b450c865f505f7e468ec706a781cde99a1e53bc6e0e067ee84dc889ffe2d56",
+      "before": "Become merciful, just as your Father is merciful.",
+      "after": "Be merciful, just as your Father is merciful.",
+      "tsw_comparator": "Become merciful, just as your Father is merciful.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:37",
+      "delta": "F3",
+      "rationale": "Keeps the three paired imperatives and emphatic negative promises.",
+      "source_reference": "Luke 6:37",
+      "source_verse_sha256": "f3fec466902209f98a53f48e76a6a379fa2df0fd61d2783c15d945a3b89a81bf",
+      "before": "“Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.",
+      "after": "Do not judge, and you will certainly not be judged. Do not condemn, and you will certainly not be condemned. Forgive, and you will be forgiven.",
+      "tsw_comparator": "And do not judge, and you will certainly not be judged; and do not condemn, and you will certainly not be condemned. Forgive, and you will be forgiven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:38",
+      "delta": "F3",
+      "rationale": "Preserves the market-measure image, lap, and reciprocal standard.",
+      "source_reference": "Luke 6:38",
+      "source_verse_sha256": "ffec7725678bc72afc3eb56fd1264985dfcb214aad733a6dce6a3fe05a518a4f",
+      "before": "Give, and it will be given to you—a good measure, pressed down, shaken together, and overflowing, will be poured into your lap. For the measure you use will be measured back to you.”",
+      "after": "Give, and it will be given to you. A good measure—pressed down, shaken together, and overflowing—will be poured into your lap. For the measure you use will be measured back to you.”",
+      "tsw_comparator": "Give, and it will be given to you; a good measure, pressed down, shaken together, running over, will be given into your lap. For with the measure you measure it will be measured back to you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:39",
+      "delta": "F3",
+      "rationale": "Keeps both rhetorical questions and the shared danger.",
+      "source_reference": "Luke 6:39",
+      "source_verse_sha256": "7b7e02ed9df747bd0adf46fccc7f23f7780b989b4f230c5fae1254c2f23287f8",
+      "before": "He also told them a parable: “Can a blind person guide a blind person? Will they not both fall into a pit?",
+      "after": "He also told them a parable: “Can one blind person guide another? Will they not both fall into a pit?",
+      "tsw_comparator": "And he also told them a parable: “Is a blind person able to guide a blind person? Will they not both fall into a pit?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:40",
+      "delta": "F3",
+      "rationale": "Retains hierarchy and the result of complete formation.",
+      "source_reference": "Luke 6:40",
+      "source_verse_sha256": "858340617dedd6595f1031bdabb10cc6878555245ad01a945092053baba0af4a",
+      "before": "A disciple is not above the teacher, but everyone who is fully trained will be like their teacher.",
+      "after": "A disciple is not above the teacher, but everyone who is fully trained will be like their teacher.",
+      "tsw_comparator": "A disciple is not above the teacher, but everyone who is fully trained will be like his teacher.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.944444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:42",
+      "delta": "F3",
+      "rationale": "Preserves repetition, direct address, sequence, and purpose of clearer sight.",
+      "source_reference": "Luke 6:42",
+      "source_verse_sha256": "2d1fd5fde22d0a3d8a8e4b0d7cb060b61a8e761927eb30115c6ea7c1a8c7cad6",
+      "before": "How can you say to your brother, ‘Brother, let me take out the speck in your eye,’ when you do not see the beam in your own eye? Hypocrite! First take the beam out of your own eye, and then you will see clearly to take out the speck in your brother’s eye.",
+      "after": "How can you say to your brother, ‘Brother, let me remove the speck from your eye,’ when you do not see the beam in your own eye? Hypocrite! First remove the beam from your own eye, and then you will see clearly to remove the speck from your brother’s eye.”",
+      "tsw_comparator": "How can you say to your brother, ‘Brother, let me remove the speck that is in your eye,’ while you yourself do not see the beam in your own eye? Hypocrite! First remove the beam from your own eye, and then you will see clearly to remove the speck in your brother’s eye.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.912621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:45",
+      "delta": "F3",
+      "rationale": "Preserves treasure, moral contrast, and heart-to-speech causation.",
+      "source_reference": "Luke 6:45",
+      "source_verse_sha256": "0ecc009ef7c28ebd4b9b08c792053a35e215eef72905f578692ed1a54e46090b",
+      "before": "A good person brings good out of the good treasure of the heart, and an evil person brings evil out of evil treasure. For the mouth speaks from the abundance of the heart.",
+      "after": "A good person brings good out of the heart’s good treasure, and an evil person brings evil out of evil treasure. For the mouth speaks from the overflow of the heart.”",
+      "tsw_comparator": "The good person out of the good treasure of the heart brings forth good, and the evil person out of evil brings forth evil; for out of the abundance of the heart the mouth speaks.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.515152,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:48",
+      "delta": "F3",
+      "rationale": "Keeps deep excavation, rock foundation, violent flood, stability, and source’s “built well.”",
+      "source_reference": "Luke 6:48",
+      "source_verse_sha256": "ce11cc1016fd1e9bb8d44eebe0c2dbdd4162f00f950caeac94ff4148d529ea0c",
+      "before": "That person is like someone building a house who dug deep and laid the foundation on rock. When a flood came, the river crashed against that house but could not shake it because it had been well built.",
+      "after": "That person is like someone building a house who dug down deep and laid its foundation on rock. When a flood came, the river crashed against that house but could not shake it, because it had been built well.",
+      "tsw_comparator": "he is like a man building a house, who dug deep and laid the foundation on the rock; and when a flood came, the river burst against that house and was not able to shake it, because it had been well built.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 6:49",
+      "delta": "F3",
+      "rationale": "Preserves the missing foundation, immediate collapse, and emphatic final ruin.",
+      "source_reference": "Luke 6:49",
+      "source_verse_sha256": "cd5e19684f139e31e299891252a50dbffb33ed8a67e64b0e9b28924d9654188c",
+      "before": "But the one who hears and does not act is like someone who built a house on the ground without a foundation. The river crashed against it, and immediately it collapsed, and the ruin of that house was great.”",
+      "after": "But the one who hears and does not act is like someone who built a house on the ground without a foundation. The river crashed against it, and it immediately collapsed. The destruction of that house was great.”",
+      "tsw_comparator": "But the one who hears and does not do is like a man who built a house on the ground without a foundation, against which the river burst, and immediately it fell, and the ruin of that house was great.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_06.md",
-    "blob_sha": "ce2038f3af7cd3ac92e72193f5f6f5a7e62bfcdd"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }
