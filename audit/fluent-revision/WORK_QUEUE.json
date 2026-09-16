@@ -441,12 +441,17 @@
       "scope": "Lamentations 1–5",
       "verses": 154,
       "ledger": "audit/fluent-revision/2026-09-16-lamentations-1-5/lamentations-verse-review.json"
+    },
+    {
+      "scope": "Ezekiel 1–24",
+      "verses": 619,
+      "ledger": "audit/fluent-revision/2026-09-16-ezekiel-1-24/ezekiel-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Ezekiel 1–48; Daniel 1–2",
-      "action": "Next authorized fifty-chapter block. Verify pinned Hebrew/Aramaic sources and versification before independent drafting; complete source bindings and structural checks, preserving independent review limits."
+      "scope": "Ezekiel 25–48; Daniel 1–2",
+      "action": "Continue remaining twenty-six chapters of the authorized fifty-chapter block. Preserve pinned Hebrew/Aramaic and public numbering; independent review pending."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -571,14 +576,14 @@
     }
   ],
   "active_fifty_chapter_block": {
-    "scope": "Jeremiah 8–52; Lamentations 1–5",
-    "status": "DRAFT_COMPLETED",
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 50,
-    "completed_scope": "Jeremiah 8–52; Lamentations 1–5",
-    "completed_verses": 1311,
-    "remaining_scope": null,
-    "remaining_chapters": 0,
-    "qualification": "All fifty chapters drafted and source-bound. Independent editorial review and reader testing pending; publication not allowed."
+    "completed_chapters": 24,
+    "completed_scope": "Ezekiel 1–24",
+    "completed_verses": 619,
+    "remaining_scope": "Ezekiel 25–48; Daniel 1–2",
+    "remaining_chapters": 26,
+    "qualification": "Verified intermediate draft checkpoint; block incomplete. Independent review and reader testing pending; publication not allowed."
   }
 }

@@ -4,80 +4,51 @@ testament: OT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: Then certain men of the elders of Israel came to me and sat before me.
-</p>
+## Idols in the heart
 
 <p>
+v01: Some of Israel’s elders came to me and sat down before me.
 v02: The word of the LORD came to me:
-v03: "Son of man, these men have taken their idols into their hearts and placed the stumbling block of their iniquity before their faces. Should I indeed let myself be consulted by them?
-v04: So speak to them and say to them, Thus says the LORD GOD: Every person of the house of Israel who takes idols into their heart and sets the stumbling block of their iniquity before their face and yet comes to the prophet, I the LORD will answer them according to the multitude of their idols,
-v05: so that I may seize the house of Israel by their heart because they are all estranged from me through their idols.
+v03: “Son of man, these men have raised their idols in their hearts and set the stumbling block of their guilt before their faces. Should I really let them consult me?
+v04: Therefore speak to them. Tell them: This is what the Lord GOD says: If anyone of the house of Israel raises idols in their heart, sets the stumbling block of their guilt before their face, and comes to the prophet, I, the LORD, will answer that person when they come, according to their many idols.
+v05: I will seize the house of Israel by their hearts, for all of them have estranged themselves from me through their idols.
+v06: Therefore tell the house of Israel: This is what the Lord GOD says: Turn back! Turn away from your idols and turn your faces away from all your abominations.
+v07: If anyone of the house of Israel, or any foreigner residing in Israel, turns away from following me, raises idols in their heart, and sets the stumbling block of their guilt before their face, then comes to a prophet to consult me, I, the LORD, will answer that person myself.
+v08: I will set my face against that person and make them a sign and a byword. I will cut them off from my people. Then you will know that I am the LORD.
+v09: If a prophet is deceived into speaking a word, I, the LORD, have deceived that prophet. I will stretch out my hand against him and destroy him from among my people Israel.
+v10: They will bear their guilt. The guilt of the one who consults will be like the guilt of the prophet,
+v11: so that the house of Israel may no longer wander away from me or defile themselves with all their rebellions. They will be my people, and I will be their God, declares the Lord GOD.”
 </p>
 
-<p>
-v06: So say to the house of Israel, Thus says the LORD GOD: Repent and turn away from your idols, and turn away your faces from all your abominations.
-</p>
-
-<p>
-v07: For anyone of the house of Israel or of the stranger who dwells in Israel, who separates himself from following me, taking his idols into his heart and putting the stumbling block of his iniquity before his face, and then comes to a prophet to inquire of me through him—I the LORD will answer him myself.
-v08: I will set my face against that one and make him a sign and a proverb, and I will cut him off from the midst of my people, and you will know that I am the LORD.
-</p>
-
-<p>
-v09: And if the prophet is deceived and speaks a word, I the LORD have deceived that prophet, and I will stretch out my hand against him and destroy him from the midst of my people Israel.
-v10: They will bear their punishment—the punishment of the inquirer will be the same as that of the prophet
-v11: that the house of Israel may not stray from following me, nor defile themselves with any of their transgressions. They will be my people, and I will be their God, declares the LORD GOD."
-</p>
+## Four judgments
 
 <p>
 v12: The word of the LORD came to me:
-v13: "Son of man, if a country sins against me by acting faithlessly, and I stretch out my hand against it and break its supply of bread and send famine upon it and cut off from it man and beast,
-v14: even if these three men—Noah, Daniel, and Job—were in it, they would deliver only their own lives by their righteousness, declares the LORD GOD.
-</p>
-
-<p>
-v15: If I cause wild beasts to pass through the land and they depopulate it, and it becomes desolate so that no one passes through because of the beasts,
-v16: though these three men were in it, as I live, declares the LORD GOD, they would deliver neither sons nor daughters. They alone would be delivered, but the land would be desolate.
-</p>
-
-<p>
-v17: Or if I bring a sword upon that land and say, 'Let a sword pass through the land!' and I cut off from it man and beast,
-v18: though these three men were in it, as I live, declares the LORD GOD, they would deliver neither sons nor daughters, but they alone would be delivered.
-</p>
-
-<p>
-v19: Or if I send pestilence into that land and pour out my wrath upon it with blood, to cut off from it man and beast,
-v20: even if Noah, Daniel, and Job were in it, as I live, declares the LORD GOD, they would deliver neither son nor daughter; they would deliver only their own lives by their righteousness.
-</p>
-
-<p>
-v21: For thus says the LORD GOD: How much more when I send my four dreadful judgments upon Jerusalem—sword, famine, wild beasts, and pestilence—to cut off from it man and beast!
-v22: Yet look, some survivors will be left in it, sons and daughters, who will be brought out. Look, they will come out to you, and you will see their ways and their deeds; you will be consoled concerning the disaster that I brought upon Jerusalem, all that I brought upon it.
-</p>
-
-<p>
-v23: They will console you when you see their ways and their deeds, and you will know that I have not done all that I have done in it without cause, declares the LORD GOD."
+v13: “Son of man, if a land sins against me by acting unfaithfully, and I stretch out my hand against it, break its staff of bread, send famine into it, and cut off humans and animals from it,
+v14: even if these three men were in it—Noah, Daniel, and Job—they would save only their own lives by their righteousness, declares the Lord GOD.
+v15: If I send wild beasts through the land and they bereave it, leaving it so desolate that no one passes through because of the beasts,
+v16: even if these three men were in it, as I live, declares the Lord GOD, they would save neither sons nor daughters. They alone would be saved, and the land would be desolate.
+v17: Or if I bring a sword against that land and say, ‘Sword, pass through the land,’ cutting off humans and animals from it,
+v18: even if these three men were in it, as I live, declares the Lord GOD, they would save neither sons nor daughters. They alone would be saved.
+v19: Or if I send plague into that land and pour out my fury on it in bloodshed, cutting off humans and animals from it,
+v20: even if Noah, Daniel, and Job were in it, as I live, declares the Lord GOD, they would save neither son nor daughter. By their righteousness they would save only their own lives.
+v21: “For this is what the Lord GOD says: How much more when I send my four terrible judgments against Jerusalem—sword, famine, wild beasts, and plague—to cut off humans and animals from it!
+v22: Yet some survivors will remain in it, sons and daughters brought out. They will come to you, and you will see their ways and their deeds. Then you will be consoled over the disaster I brought upon Jerusalem, over everything I brought upon it.
+v23: They will console you when you see their ways and their deeds. Then you will know that I did nothing I did there without cause, declares the Lord GOD.”
 </p>
 
 ## Notes
 
-v03: **idols into their hearts** — This phrase emphasizes inward rebellion against the Lord rather than merely external actions. The heart, in biblical thought, is the center of will and desire.
+v09: The Hebrew repeats the same verb for the prophet being deceived and God deceiving him. The translation preserves that attribution; the passage also holds prophet and inquirer accountable.
 
-v14: **Noah, Daniel, and Job** — These three are exemplars of righteousness in the biblical tradition, suggesting unimaginable sinfulness in the land when even their righteousness would be ineffective to save others. Their inclusion here serves as a rhetorical device to emphasize the inescapability of the divine judgment being described.
-
-v21: **four dreadful judgments** — A summary of the comprehensive nature of the judgments God can send: sword (conflict), famine, wild beasts, and pestilence. This expression reinforces the totality of the devastation decreed upon the land for its faithlessness.
+v14,20: The written form is Danel; the reading tradition supplied in the pinned source has Daniel. The identity of the figure is disputed. The translation follows the supplied reading without settling that identification.
 
 ## Vocabulary
 
-v03: **גִּלֻּלִים (gil.lu.lim)** — Often translated "idols," these are vile objects of worship that mislead Israel’s heart away from the Lord. They serve as a primary stumbling block inviting divine displeasure.
-
-v14: **צְדָקָה (tse.da.qah)** — "righteousness," indicating a life that aligns with God's will. The repetition in connection with Noah, Daniel, and Job underscores their personal integrity before God, distinct from their surroundings.
-
-v14: צְדָקָה (tsedaqah)
-“righteousness," indicating a life that aligns with God's will.
-
-v03: גִּלֻּלִים (gillulim)
-“Idols.” A contemptuous Hebrew term for cult images or objects of illicit worship.
+v03: **Stumbling block of guilt**: An image for what draws a person into guilt; here it is placed before the face as idols are raised in the heart.

@@ -4,65 +4,39 @@ testament: OT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: Then he called out in my hearing with a loud voice, saying, "Let people who have charge over the city draw near, each with his destructive weapon in his hand."
-</p>
+## The mark and the destruction
 
 <p>
-v02: And look, six men came from the direction of the upper gate, which faces north, each with his weapon of destruction in his hand. One man among them was clothed in linen, with a writing case at his waist. They went in and stood beside the bronze altar.
+v01: Then he called out loudly within my hearing: “Bring near those appointed over the city, each with a weapon of destruction in his hand!”
+v02: Six men came from the direction of the upper gate facing north, each carrying a smashing weapon. Among them was a man dressed in linen, with a scribe’s writing kit at his waist. They came and stood beside the bronze altar.
+v03: The glory of the God of Israel rose from above the cherub where it had rested and moved to the threshold of the house. He called to the man dressed in linen with the writing kit at his waist.
+v04: The LORD told him, “Go through the city, through Jerusalem, and put a mark on the foreheads of those who sigh and groan over all the abominations committed within it.”
+v05: To the others he said within my hearing, “Follow him through the city and strike. Let your eye spare no one; show no pity.
+v06: Kill old men, young men, virgins, little children, and women—wipe them out. But do not go near anyone bearing the mark. Begin at my sanctuary.” So they began with the old men in front of the house.
+v07: He said to them, “Defile the house and fill the courts with the slain. Go!” They went out and struck people down in the city.
 </p>
 
-<p>
-v03: Now the glory of the God of Israel had gone up from the cherub on which it rested to the threshold of the house. He called to the man clothed in linen, who had the writing case at his waist,
-v04: and said to him, "Pass through the midst of the city, through the midst of Jerusalem, and put a mark on the foreheads of the men who sigh and groan over all the abominations that are being done in it."
-</p>
+## Ezekiel’s protest
 
 <p>
-v05: To the others he said in my hearing, "Pass through the city after him and strike. Your eye will not spare, and you will show no pity.
-v06: Kill old men outright, young men and young women, little children and women, but do not come near anyone on whom is the mark. Begin at my sanctuary." So they began with the elders who were before the house.
-v07: Then he said to them, "Defile the house and fill the courts with the slain. Go out!" And they went out and struck in the city.
-</p>
-
-<p>
-v08: While they were striking, and I was left alone, I fell on my face and cried out, "Ah, Lord GOD! Will you destroy all the remnant of Israel in pouring out your wrath on Jerusalem?"
-</p>
-
-<p>
-v09: Then he said to me, "The guilt of the house of Israel and Judah is exceedingly great. The land is filled with blood, and the city full of injustice; for they say, 'the LORD has forsaken the land, and the LORD does not see.'
-v10: As for me, my eye will not spare, nor will I have pity. I will bring their way upon their heads."
-</p>
-
-<p>
-v11: And look, the man clothed in linen, who had the writing case at his waist, brought word, saying, "I have done as you commanded me."
+v08: As they struck, I was left alone. I fell facedown and cried, “Ah, Lord GOD! Will you destroy all who remain of Israel as you pour out your fury on Jerusalem?”
+v09: He answered, “The guilt of the house of Israel and Judah is exceedingly great. The land is full of bloodshed and the city full of injustice. They say, ‘The LORD has abandoned the land. The LORD does not see.’
+v10: As for me, my eye will not spare, and I will show no pity. I will bring their ways down on their own heads.”
+v11: Then the man dressed in linen, with the writing kit at his waist, brought back this report: “I have done everything you commanded me.”
 </p>
 
 ## Notes
 
-v01: "destructive weapon" — The Hebrew term implies an instrument intended for acts of ruin or violence. This sets the tone for the judgment about to be executed.
+v02: Six armed men appear, with a linen-clad man “among them.” The wording does not explicitly settle whether the linen-clad man is counted among the six.
 
-v04: "put a mark on the foreheads" — This marking serves as a symbol of divine protection, differentiating between those who lament over sin and those complicit in the city's abominations.
-
-v06: "Begin at my sanctuary" — Judgment starts where holiness is most expected, at the house of God, highlighting the seriousness of defilement among the religious leaders.
-
-v08: "Ah, Lord Yahweh!" — Ezekiel's cry reflects the theological tension between divine justice and mercy. This invocation acknowledges God as sovereign while pleading for the survival of the remnant.
-
-v09: The people’s claim that “the LORD has forsaken the land” and “does not see” is reported within a description of bloodshed and injustice. The narrative presents perceived divine absence as part of the moral world of the city, not as the LORD’s own verdict.
+v06-08: The vision names the killing of children as well as adults and then records Ezekiel’s anguished protest. Both are retained without turning the account into a general instruction.
 
 ## Vocabulary
 
-v02: אִישׁ (ish) — "man," used for the six executors of judgment, emphasizing their role as agents of divine will.
-
-v03: כָּבוֹד (ka.vod) — "glory," signifying God's presence, now moving as a sign of impending judgment and withdrawal.
-
-v04: תָּו (tav) — "mark," a symbol of protection amidst judgment, reminiscent of Passover identification and preservation.
-
-v02: אִישׁ (ish)
-“man," used for the six executors of judgment, with a sense of their role as agents of divine will.
-
-v03: כָּבוֹד (kavod)
-“glory," denoting God's presence, now moving as a sign of impending judgment and withdrawal.
-
-v04: תָּו (tav)
-“mark," a symbol of protection amidst judgment, reminiscent of Passover identification and preservation.
+v04: **Mark**: Hebrew taw, “mark,” also the name of a Hebrew letter. The text identifies its protective function but does not specify a theological interpretation of its shape.

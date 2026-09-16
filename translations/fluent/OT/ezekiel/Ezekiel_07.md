@@ -4,84 +4,120 @@ testament: OT
 chapter: 7
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: The word of the LORD came to me, saying,
-</p>
+## The end has come
 
 <p>
-v02: "As for you, son of man, thus says the LORD GOD to the land of Israel: An end! The end has come upon the four corners of the land.
-v03: Now the end is upon you, and I will send my anger on you. I will judge you according to your ways, and I will place all your abominations against you.
-v04: My eye will not spare you, nor will I have pity. I will repay your ways upon you, and your abominations will be in your midst. Then you will know that I am the LORD."
+v01: The word of the LORD came to me:
+v02: “And you, son of man—this is what the Lord GOD says to the land of Israel:
+An end! The end has come
+to the four corners of the land.
+v03: Now the end is upon you.
+I will unleash my anger against you,
+judge you by your ways,
+and bring all your abominations back upon you.
+v04: My eye will not spare you;
+I will show no pity.
+I will bring your ways back upon you,
+and your abominations will remain among you.
+Then you will know that I am the LORD.
+v05: “This is what the Lord GOD says:
+Disaster—a singular disaster!
+Look, it is coming.
+v06: An end has come;
+the end has come!
+It has awakened against you.
+Look, it is coming.
+v07: Doom has come to you who live in the land.
+The time has come; the day is near—
+tumult, not joyful shouts on the mountains.
+v08: Very soon I will pour out my fury on you
+and spend my anger against you.
+I will judge you by your ways
+and bring all your abominations back upon you.
+v09: My eye will not spare;
+I will show no pity.
+I will repay you according to your ways,
+and your abominations will remain among you.
+Then you will know that I am the LORD who strikes.
 </p>
 
-<p>
-v05: Thus says the LORD GOD: A disaster, a unique disaster, look, it is coming!
-v06: An end has come; the end has come; it has awakened against you. Look, it is coming!
-v07: Doom has come upon you, dweller in the land. The time has come; the day is near. There is tumult and not joyful shouting on the mountains.
-v08: Now I will shortly pour out my wrath upon you and spend my anger against you. I will judge you according to your ways, and I will repay you for all your abominations.
-v09: My eye will not spare you, nor will I have pity. I will make your ways upon you, and your abominations will be in your midst. Then you will know that I, the LORD, strike.
-</p>
+## The day arrives
 
 <p>
-v10: Look, the day! Look, it comes! Doom has gone forth. The rod has blossomed; arrogance has budded.
-v11: Violence has grown into a rod of wickedness. None of them will remain, none of their multitude, none of their wealth, nor anything eminent among them.
+v10: Look—the day! Look, it comes!
+Doom has gone out.
+The rod has budded;
+arrogance has blossomed.
+v11: Violence has risen into a rod of wickedness.
+None of them will remain,
+none of their multitude, none of their wealth,
+nothing of distinction among them.
+v12: The time has come; the day has arrived.
+Let the buyer not rejoice
+or the seller mourn,
+for wrath is upon the whole multitude.
+v13: The seller will not return to what was sold, even if both remain alive. The vision against the whole multitude will not be reversed. No one will hold on to life through their guilt.
+v14: They have sounded the trumpet
+and made everything ready,
+but no one goes to battle,
+for my wrath is upon the whole multitude.
+v15: Outside is the sword;
+inside are plague and famine.
+Whoever is in the field will die by the sword;
+whoever is in the city, famine and plague will devour.
+v16: Those who escape will flee to the mountains,
+like doves from the valleys,
+all of them moaning,
+each over their own guilt.
+v17: Every hand will hang limp,
+and every knee will run with water.
+v18: They will put on sackcloth,
+and trembling will cover them.
+Every face will be ashamed,
+every head shaved bare.
 </p>
 
-<p>
-v12: The time has come; the day has drawn near. Let not the buyer rejoice, nor the seller mourn, for wrath is against all their multitude.
-v13: For the seller will not return to what he has sold while they live, for the vision is against all their multitude. It will not turn back, and no one will preserve their life in their iniquity.
-</p>
+## Wealth that cannot save
 
 <p>
-v14: They have blown the trumpet and prepared everything, but none goes to battle, for my wrath is against all their multitude.
-v15: The sword is outside, and the plague and famine are inside. Whoever is in the field will die by the sword, and whoever is in the city, famine and plague will consume them.
-v16: But people who escape of them will escape and be on the mountains like doves of the valleys, all of them moaning, each for his iniquity.
-v17: All hands will be feeble, and all knees will flow with water.
-v18: They will wear sackcloth, and trembling will cover them. Shame will be on all their faces, and baldness on all their heads.
-v19: They will cast their silver in the streets, and their gold will be like an unclean thing. Their silver and gold will not be able to deliver them in the day of the LORD’s wrath. They will not satisfy their souls, nor fill their stomachs, for it has become a stumbling block of their iniquity.
-</p>
-
-<p>
-v20: As for the beauty of their ornaments, they set it for pride, and they made the images of their abominations and their detestable things in it. Therefore, I have made it an unclean thing to them.
-v21: I will give it into the hands of foreigners as spoil and to the wicked of the earth as plunder, and they will profane it.
-v22: I will turn my face from them, and they will profane my treasured place. Robbers will come into it and profane it.
-</p>
-
-<p>
-v23: "Forge a chain, for the land is full of bloody crimes and the city is full of violence.
-v24: So I will bring the worst of the nations, and they will possess their houses. I will end the pride of the mighty, and their holy places will be profaned.
-</p>
-
-<p>
-v25: Anguish comes, and they will seek peace, but there will be none.
-</p>
-
-<p>
-v26: Disaster upon disaster will come, and rumor will be upon rumor. They will seek a vision from the prophet, but the law will perish from the priest and counsel from the elders.
-v27: The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will tremble. According to their way, I will deal with them, and by their judgments, I will judge them. Then they will know that I am the LORD."
+v19: They will throw their silver into the streets and treat their gold as something unclean. Their silver and gold cannot rescue them on the day of the LORD’s fury. It cannot satisfy their appetite or fill their stomachs, for it became the stumbling block of their guilt.
+v20: They made their beautiful ornaments a source of pride and fashioned from them their abominable images, their detestable things. So I have made that treasure unclean to them.
+v21: I will hand it over to foreigners as plunder, to the wicked of the earth as loot, and they will profane it.
+v22: I will turn my face away from them. They will profane my treasured place; violent men will enter it and profane it.
+v23: “Make the chain!
+The land is full of bloodstained judgments,
+and the city is full of violence.
+v24: I will bring the worst of the nations, and they will take possession of their houses. I will end the pride of the strong, and their sanctuaries will be profaned.
+v25: Anguish is coming.
+They will look for peace,
+but there will be none.
+v26: Disaster will follow disaster,
+report will follow report.
+They will seek a vision from a prophet,
+but instruction will vanish from the priest
+and counsel from the elders.
+v27: The king will mourn,
+the prince will put on desolation,
+and the hands of the people of the land will shake.
+I will deal with them according to their ways
+and judge them by their own judgments.
+Then they will know that I am the LORD.”
 </p>
 
 ## Notes
 
-v03: v3 The transition "now the end is upon you," with the use of "now," signals urgency and immediacy in the unveiling of divine judgment.
+v05-07,10-11: Several expressions are difficult. Verse 5 literally has “disaster, one disaster.” The rare word rendered “doom” can also be understood as a turn or cycle; the mountain sound and final terms in verse 11 are uncertain. The repeated arrival of judgment remains clear.
 
-v09: v9 The repetition of the expression "my eye will not spare, nor will I have pity," emphasizes the completeness and rigidity of Yahweh's judgment.
+v17: Literally, “all knees will go with water.” The image may describe weakness or water running down the legs through loss of bladder control in terror.
+
+v20-22: The beautiful ornament may be jewelry or the temple’s splendor. The translation follows the ornament/treasure reading while retaining the sacred place in verse 22.
 
 ## Vocabulary
 
-v01: v1 דָבָר (da.var) - The word rendered as "word" signifies not only speech but also a communication bearing weight and authority, often associated with divine messages.
-
-v02: v2 קֵץ (qets) - Translated as "end," this term suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.
-
-v26: v26 חָזוֹן (cha.zon) - Meaning "vision," this refers to revelation typically received by prophets. The absence of vision indicates a dire spiritual drought.
-
-v26: חָזוֹן (chazon)
-“Vision.” A prophetic vision or revelatory sight.
-
-v01: דָבָר (davar)
-“Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.
-
-v02: קֵץ (qets)
-“End.” Suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.
+v19: **Unclean**: The word can refer to ritual impurity. Wealth once prized is now treated as something to discard.

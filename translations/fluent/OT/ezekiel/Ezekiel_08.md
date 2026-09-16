@@ -4,71 +4,55 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the LORD GOD fell upon me there.
-v02: I looked, and look, a form that appeared as fire. From what seemed the appearance of his waist downward was fire, and from his waist upward, the appearance of a bright glow, like glowing metal.
-</p>
+## The vision in Jerusalem
 
 <p>
-v03: He stretched out the form of a hand and took me by the lock of my head, and the Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the inner gate that faces north, where was the seat of the image of jealousy, which provokes to jealousy.
-v04: And look, the glory of the God of Israel was there, like the vision that I saw in the valley.
-v05: Then he said to me, “Son of man, lift up your eyes now toward the north.” So I lifted up my eyes toward the north, and look, north of the altar gate was this image of jealousy at the entrance.
-v06: And he said to me, “Son of man, do you see what they are doing? The great abominations that the house of Israel is committing here, to drive me far from my sanctuary? But you will see still greater abominations.”
+v01: In the sixth year, on the fifth day of the sixth month, I was sitting in my house with the elders of Judah seated before me. There the hand of the Lord GOD fell upon me.
+v02: I looked and saw a likeness with the appearance of fire. From what looked like his waist downward was fire; from his waist upward was a radiant gleam like glowing metal.
+v03: He stretched out what looked like a hand and took me by a lock of hair. A spirit lifted me between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the inner gate facing north. There stood the image of jealousy that provokes jealousy.
+v04: There was the glory of the God of Israel, like the vision I had seen in the valley.
+v05: He said, “Son of man, look toward the north.” I looked north, and there, north of the altar gate at the entrance, was that image of jealousy.
+v06: He said, “Son of man, do you see what they are doing? The great abominations the house of Israel commits here drive me far from my sanctuary. But you will see still greater abominations.”
 </p>
 
-<p>
-v07: Then he brought me to the door of the court, and I looked, and look, a hole in the wall.
-v08: He said to me, “Son of man, dig through the wall.” So I dug through the wall, and look, an entrance.
-v09: And he said to me, “Go in and see the wicked abominations they are doing here.”
-v10: So I went in and saw, and look, all kinds of forms of creeping things, abominable animals, and all the idols of the house of Israel, carved on the wall around.
-v11: Seventy men of the elders of the house of Israel were standing before them, with Jaazaniah the son of Shaphan standing among them. Each had his censer in his hand, and the smoke of the incense went up.
-v12: Then he said to me, “Son of man, have you seen what the elders of the house of Israel do in the dark, each in his room of pictures? For they say, ‘The Lord does not see us; the LORD has forsaken the land.’”
-v13: He also said to me, “You will see still greater abominations that they commit.”
-</p>
+## Behind the wall
 
 <p>
-v14: Then he brought me to the entrance of the north gate of the house of the LORD, and look, there sat women weeping for Tammuz.
-v15: Then he said to me, “Have you seen this, son of man? You will see still greater abominations than these.”
+v07: He brought me to the entrance of the court. I looked and saw a hole in the wall.
+v08: He said, “Son of man, dig through the wall.” I dug through it and found a doorway.
+v09: He said, “Go in and see the evil abominations they are committing here.”
+v10: I went in and looked. All around the walls were engraved every kind of creeping creature and detestable animal, and all the idols of the house of Israel.
+v11: Seventy men from the elders of the house of Israel stood before them, with Jaazaniah son of Shaphan among them. Each held a censer, and a thick cloud of incense rose.
+v12: He said, “Son of man, have you seen what the elders of the house of Israel do in the dark, each in his chamber of images? They say, ‘The LORD does not see us. The LORD has abandoned the land.’”
+v13: He said, “You will see still greater abominations that they are committing.”
 </p>
 
+## At the temple gates
+
 <p>
-v16: And he brought me into the inner court of the house of the LORD. And look, at the entrance of the temple of the LORD, between the porch and the altar, were about twenty-five men, with their backs to the temple of the LORD and their faces toward the east, worshiping the sun toward the east.
-v17: Then he said to me, “Have you seen this, son of man? Is it too light a thing for the house of Judah to commit the abominations that they commit here, that they should also fill the land with violence and provoke me further to anger? And look, they are sending the branch to their nose.
-v18: So I will also act in fury. My eye will not spare, nor will I have pity. Though they cry in my ears with a loud voice, I will not hear them.”
+v14: He brought me to the entrance of the north gate of the LORD’s house. There women sat weeping for Tammuz.
+v15: He said, “Have you seen this, son of man? You will see abominations even greater than these.”
+v16: He brought me into the inner court of the LORD’s house. At the entrance to the LORD’s temple, between the porch and the altar, were about twenty-five men. Their backs were toward the LORD’s temple and their faces eastward; they were bowing eastward to the sun.
+v17: He said, “Have you seen this, son of man? Is it a small thing for the house of Judah to commit the abominations they have committed here? They have filled the land with violence and keep provoking me. Look at them putting the branch to their noses!
+v18: So I too will act in fury. My eye will not spare, and I will show no pity. Even if they shout loudly in my ears, I will not listen to them.”
 </p>
 
 ## Notes
 
-v01: - **v1** "hand of the Lord God" denotes divine agency and prophetic inspiration. The phrase initiates visions and revelations in prophetic literature.
+v02: The pinned Hebrew reads “fire.” A reading “man” is sometimes proposed because of the human form in the vision; it is not adopted here.
 
-v03: - **v3** "lock of my head" suggests the prophet's complete submission to God's will as he is transported in the spirit.
+v06: The Hebrew says “to be far from my sanctuary” without an explicit subject. The translation understands the abominations as driving God away; it can also describe the people’s distancing themselves.
 
-v05: - **v5** "image of jealousy" indicates an idolatrous object provoking God's jealousy, central to the depiction of Israel's unfaithfulness.
-
-v14: - **v14** "weeping for Tammuz" describes a ritual mourning practice tied to pagan worship, underscoring the extent of Israel's apostasy.
-
-v17: - **v17** "sending the branch to their nose" is a phrase whose exact significance is debated, possibly indicating an act of defiance or ritual pollution.
+v17: The meaning of putting a branch to their noses is uncertain. The translation preserves the gesture without reconstructing a ritual or obscenity.
 
 ## Vocabulary
 
-v01: - **v1 "hand of the Lord God" (יְהֹוִה יָד, yad Adonai):** In prophetic literature, this phrase signals divine empowerment or control, often leading prophets to visions or commissioning tasks.
+v03: **Image of jealousy**: An image that provokes divine jealousy. The text does not identify the deity represented.
 
-v03: - **v3 "Spirit" (רוּחַ, ruach):** Often denotes God's active presence or energy accomplishing divine purposes, especially in visions or prophetic action.
-
-v04: - **v4 "glory" (כָּבוֹד, kavod):** Refers to the visible manifestation of God's majesty and holiness, often experienced in visions or the temple context.
-
-v17: - **v17 "the branch" (הַזְּמוֹרָה, ha-zemorah):** This term’s meaning is uncertain, possibly indicating a gesture with cultic or idolatrous connotations.
-
-v17: הַזְּמוֹרָה (ha-zemorah)
-“The branch.” The precise cultic gesture described by the phrase is uncertain.
-
-v01: יַד אֲדֹנָי יְהוִה (yad Adonai YHWH)
-“Hand of the Lord GOD.” A prophetic idiom for divine action upon the prophet.
-
-v03: רוּחַ (ruach)
-“Spirit; wind; breath.” Here the term refers to the spirit active in the vision.
-
-v04: כָּבוֹד (kavod)
-“Glory; weight; honor.” Here it names the visible glory associated with the God of Israel.
+v14: **Tammuz**: A named deity mourned by the women in this vision. The verse does not describe the full rite.

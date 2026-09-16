@@ -4,61 +4,52 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: And you, son of man, take for yourself a brick and set it before you and engrave on it a city, Jerusalem—
-v02: Set siege against it, build a siege wall against it, cast up a ramp against it, set camps against it, position battering rams all around it.
-v03: And you, take an iron plate and place it as an iron wall between you and the city. Set your face against it; it will be under siege, and you will besiege it. This is a sign to the house of Israel.
-</p>
+## A siege enacted
 
 <p>
-v04: Lie on your left side and lay the iniquity of the house of Israel upon it. According to the number of days that you lie on it, you will bear their iniquity.
-v05: For I assign to you the years of their iniquity, according to the number of days, three hundred and ninety days, and you will bear the iniquity of the house of Israel.
-v06: And when you have completed these, lie again on your right side. You will bear the iniquity of the house of Judah for forty days; a day for each year I assign to you.
-v07: Direct your face toward the siege of Jerusalem, and your arm will be bared, and you will prophesy against it.
-v08: Look, I will put cords on you so that you cannot turn from one side to another until you have completed the days of your siege.
+v01: “Now you, son of man, take a brick, set it before you, and inscribe a city on it—Jerusalem.
+v02: Lay siege to it: build siegeworks against it, heap up a ramp, set up camps, and place battering rams around it.
+v03: Take an iron griddle and set it as an iron wall between you and the city. Turn your face toward it: it will be under siege, and you will besiege it. This is a sign for the house of Israel.
 </p>
 
-<p>
-v09: Take for yourself wheat, barley, beans, lentils, millet, and emmer, and put them in a single vessel, and make bread of them for yourself. You will eat it according to the number of the days that you lie on your side, three hundred and ninety days.
-v10: Your food that you eat will be by weight, twenty shekels a day; from time to time you will eat it.
-v11: And water you will drink by measure, a sixth of a hin; from time to time you will drink.
-v12: Eat it as a barley cake, baking it in their sight on human dung.
-</p>
+## Bearing the guilt
 
 <p>
-v13: Then the LORD said, "Thus will the people of Israel eat their bread unclean among the nations where I will drive them."
+v04: Then lie on your left side and put the guilt of the house of Israel on it. For as many days as you lie on that side, you will bear their guilt.
+v05: I have assigned you the years of their guilt as a number of days: 390 days. You will bear the guilt of the house of Israel.
+v06: When you have finished those days, lie down again, this time on your right side. Bear the guilt of the house of Judah for forty days. I have assigned you a day for a year, a day for a year.
+v07: Turn your face toward the siege of Jerusalem, bare your arm, and prophesy against it.
+v08: Look, I will put ropes on you so that you cannot turn from one side to the other until you have completed the days of your siege.
 </p>
 
-<p>
-v14: Then I said, "Ah, Lord GOD! Look, I have never defiled myself. From my youth until now, I have never eaten what died of itself or was torn by beasts, nor has abominable flesh entered my mouth."
-v15: Then he said to me, "Look, I have given you cow dung instead of human dung, on which you may prepare your bread."
-</p>
+## Bread and water by measure
 
 <p>
-v16: He also said to me, "Son of man, look, I will break the supply of bread in Jerusalem. They will eat bread by weight and in anxiety, and drink water by measure and in dismay.
-v17: Because they lack bread and water, they will look at each other in dismay and waste away because of their iniquity."
+v09: Take wheat, barley, beans, lentils, millet, and spelt. Put them in one vessel and make bread from them. Eat it throughout the 390 days you lie on your side.
+v10: Weigh out your food: twenty shekels a day, eaten at set times.
+v11: Measure your drinking water: one-sixth of a hin, drunk at set times.
+v12: Eat the bread as a barley cake, baking it over human dung in their sight.”
+v13: The LORD said, “This is how the Israelites will eat their food unclean among the nations where I drive them.”
+v14: I said, “Ah, Lord GOD! I have never defiled myself. From my youth until now I have never eaten an animal that died on its own or was torn by beasts. No tainted meat has entered my mouth.”
+v15: He answered, “Then I will allow you cattle dung instead of human dung. Bake your bread over that.”
+v16: He said, “Son of man, I am about to break Jerusalem’s staff of bread. They will eat bread by weight in anxiety and drink water by measure in dismay.
+v17: Food and water will run short. They will look at one another in horror and waste away in their guilt.”
 </p>
 
 ## Notes
 
-v04–06: The prophet Ezekiel is commanded to symbolize Israel's and Judah's iniquity through his lying on different sides, with each day representing a year of their iniquity.
+v05-06: The pinned Hebrew assigns 390 days to Israel and forty to Judah, one day for a year. It does not identify a starting date for calculating those years.
 
-v09: "Emmer" (כֻּסֶּמֶת, kusemet) is a type of ancient wheat.
-
-v12: The striking image of bread baked on human dung underscores the depth of Israel's defilement. Ezekiel's protest emphasizes his personal purity within this symbolic act.
-
-v13: Use of "unclean" signifies ritual impurity, highlighting the spiritual and physical separation from God that exile entails.
+v12-15: Dung is the fuel used to bake the bread, not an ingredient. The concession changes human dung to cattle dung.
 
 ## Vocabulary
 
-v01: אָדָם ('adam) - "man, human": Used frequently in Ezekiel to address the prophet ("son of man"), emphasizing his human nature in juxtaposition to the divine messages he conveys.
+v10-11: **Shekel; hin**: A shekel is a weight and a hin a liquid measure. These small daily rations enact shortage; ancient values should not be treated as exact modern measurements.
 
-v13: טָמֵא (tamei) - "unclean": A term denoting ritual impurity and separation from the holiness expected in Israel. This reflects the spiritual state of exile.
-
-v13: טָמֵא (tamei)
-“unclean": A term denoting ritual impurity and separation from the holiness expected in Israel.
-
-v01: אָדָם ('adam)
-“man, human": Used frequently in Ezekiel to address the prophet ("son of man"), with a sense of his human nature in juxtaposition to the divine messages he conveys.
+v16: **Staff of bread**: An image of food as the support of life. Breaking it means removing that support.

@@ -1,0 +1,4352 @@
+{
+  "scope": "Ezekiel 1–24, all 619 verses.",
+  "verses": 619,
+  "method": "Normalized word sequence; near identical >=0.90 excluding identical. Triage only, not proof of fidelity, originality, or comprehension.",
+  "summary": {
+    "before": {
+      "identical": 409,
+      "near_identical_nonidentical": 199,
+      "mean_word_similarity": 0.983245
+    },
+    "after": {
+      "identical": 11,
+      "near_identical_nonidentical": 46,
+      "mean_word_similarity": 0.711176
+    }
+  },
+  "rows": [
+    {
+      "reference": "Ezekiel 1:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 1:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Ezekiel 1:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Ezekiel 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.898551,
+      "after_similarity": 0.550725
+    },
+    {
+      "reference": "Ezekiel 1:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Ezekiel 1:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 1:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Ezekiel 1:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.315789
+    },
+    {
+      "reference": "Ezekiel 1:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Ezekiel 1:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Ezekiel 1:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Ezekiel 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Ezekiel 1:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Ezekiel 1:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ezekiel 1:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 1:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.440678
+    },
+    {
+      "reference": "Ezekiel 1:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Ezekiel 1:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Ezekiel 1:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Ezekiel 1:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Ezekiel 1:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.60274
+    },
+    {
+      "reference": "Ezekiel 1:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Ezekiel 1:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Ezekiel 1:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.775
+    },
+    {
+      "reference": "Ezekiel 1:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Ezekiel 1:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Ezekiel 1:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.494118
+    },
+    {
+      "reference": "Ezekiel 1:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.520833
+    },
+    {
+      "reference": "Ezekiel 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "Ezekiel 2:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Ezekiel 2:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.753623
+    },
+    {
+      "reference": "Ezekiel 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Ezekiel 2:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Ezekiel 2:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Ezekiel 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Ezekiel 2:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Ezekiel 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Ezekiel 2:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ezekiel 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Ezekiel 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Ezekiel 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985915,
+      "after_similarity": 0.80597
+    },
+    {
+      "reference": "Ezekiel 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Ezekiel 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.363636
+    },
+    {
+      "reference": "Ezekiel 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.745763
+    },
+    {
+      "reference": "Ezekiel 3:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65625
+    },
+    {
+      "reference": "Ezekiel 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Ezekiel 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62963
+    },
+    {
+      "reference": "Ezekiel 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Ezekiel 3:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Ezekiel 3:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ezekiel 3:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 3:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Ezekiel 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.984127,
+      "after_similarity": 0.576271
+    },
+    {
+      "reference": "Ezekiel 3:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Ezekiel 3:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Ezekiel 3:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.446809
+    },
+    {
+      "reference": "Ezekiel 3:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.53125
+    },
+    {
+      "reference": "Ezekiel 3:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.946429,
+      "after_similarity": 0.523364
+    },
+    {
+      "reference": "Ezekiel 3:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Ezekiel 3:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Ezekiel 3:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.603175
+    },
+    {
+      "reference": "Ezekiel 3:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 3:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ezekiel 3:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953846,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Ezekiel 3:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97561,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Ezekiel 4:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.804878
+    },
+    {
+      "reference": "Ezekiel 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ezekiel 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Ezekiel 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.621622
+    },
+    {
+      "reference": "Ezekiel 4:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ezekiel 4:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Ezekiel 4:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978261,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Ezekiel 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.363636
+    },
+    {
+      "reference": "Ezekiel 4:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.3125
+    },
+    {
+      "reference": "Ezekiel 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Ezekiel 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 4:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.773333
+    },
+    {
+      "reference": "Ezekiel 4:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.487805
+    },
+    {
+      "reference": "Ezekiel 4:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.942857,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Ezekiel 4:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "Ezekiel 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Ezekiel 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.505263
+    },
+    {
+      "reference": "Ezekiel 5:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Ezekiel 5:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.596491
+    },
+    {
+      "reference": "Ezekiel 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Ezekiel 5:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Ezekiel 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977778,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Ezekiel 5:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Ezekiel 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980392,
+      "after_similarity": 0.217391
+    },
+    {
+      "reference": "Ezekiel 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Ezekiel 5:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97561,
+      "after_similarity": 0.78481
+    },
+    {
+      "reference": "Ezekiel 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.955556,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ezekiel 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.556962
+    },
+    {
+      "reference": "Ezekiel 5:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 5:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.597403
+    },
+    {
+      "reference": "Ezekiel 5:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.716418
+    },
+    {
+      "reference": "Ezekiel 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.811594
+    },
+    {
+      "reference": "Ezekiel 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Ezekiel 6:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ezekiel 6:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Ezekiel 6:5",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Ezekiel 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Ezekiel 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685185
+    },
+    {
+      "reference": "Ezekiel 6:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Ezekiel 6:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.619718
+    },
+    {
+      "reference": "Ezekiel 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.424242
+    },
+    {
+      "reference": "Ezekiel 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Ezekiel 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953846,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "Ezekiel 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.813559
+    },
+    {
+      "reference": "Ezekiel 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Ezekiel 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.771429
+    },
+    {
+      "reference": "Ezekiel 7:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Ezekiel 7:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Ezekiel 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Ezekiel 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647887
+    },
+    {
+      "reference": "Ezekiel 7:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ezekiel 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Ezekiel 7:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Ezekiel 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.450704
+    },
+    {
+      "reference": "Ezekiel 7:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Ezekiel 7:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Ezekiel 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Ezekiel 7:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Ezekiel 7:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.487805
+    },
+    {
+      "reference": "Ezekiel 7:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981818,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Ezekiel 7:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.40625
+    },
+    {
+      "reference": "Ezekiel 7:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Ezekiel 7:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Ezekiel 7:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ezekiel 7:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 7:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Ezekiel 7:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Ezekiel 7:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979167,
+      "after_similarity": 0.702128
+    },
+    {
+      "reference": "Ezekiel 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.826667
+    },
+    {
+      "reference": "Ezekiel 8:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Ezekiel 8:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.745455
+    },
+    {
+      "reference": "Ezekiel 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ezekiel 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.975,
+      "after_similarity": 0.567164
+    },
+    {
+      "reference": "Ezekiel 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.891892
+    },
+    {
+      "reference": "Ezekiel 8:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Ezekiel 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.684211
+    },
+    {
+      "reference": "Ezekiel 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ezekiel 8:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Ezekiel 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 8:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.880952
+    },
+    {
+      "reference": "Ezekiel 8:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Ezekiel 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 8:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Ezekiel 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.982456,
+      "after_similarity": 0.673077
+    },
+    {
+      "reference": "Ezekiel 8:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.982143,
+      "after_similarity": 0.679612
+    },
+    {
+      "reference": "Ezekiel 8:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ezekiel 9:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Ezekiel 9:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979167,
+      "after_similarity": 0.696629
+    },
+    {
+      "reference": "Ezekiel 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.759494
+    },
+    {
+      "reference": "Ezekiel 9:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Ezekiel 9:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ezekiel 9:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961039,
+      "after_similarity": 0.710526
+    },
+    {
+      "reference": "Ezekiel 9:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Ezekiel 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819277
+    },
+    {
+      "reference": "Ezekiel 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Ezekiel 9:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Ezekiel 10:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Ezekiel 10:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.775
+    },
+    {
+      "reference": "Ezekiel 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.977778
+    },
+    {
+      "reference": "Ezekiel 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Ezekiel 10:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Ezekiel 10:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.786885
+    },
+    {
+      "reference": "Ezekiel 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.60274
+    },
+    {
+      "reference": "Ezekiel 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Ezekiel 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 10:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Ezekiel 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Ezekiel 10:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 10:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Ezekiel 10:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.59375
+    },
+    {
+      "reference": "Ezekiel 10:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Ezekiel 10:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.730159
+    },
+    {
+      "reference": "Ezekiel 10:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Ezekiel 10:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 10:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.704545
+    },
+    {
+      "reference": "Ezekiel 10:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Ezekiel 10:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ezekiel 10:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "Ezekiel 11:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 11:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Ezekiel 11:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Ezekiel 11:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 11:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Ezekiel 11:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Ezekiel 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "Ezekiel 11:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Ezekiel 11:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 11:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Ezekiel 11:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.553846
+    },
+    {
+      "reference": "Ezekiel 11:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 11:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Ezekiel 11:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977273,
+      "after_similarity": 0.729412
+    },
+    {
+      "reference": "Ezekiel 11:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.805556
+    },
+    {
+      "reference": "Ezekiel 11:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Ezekiel 11:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.984615,
+      "after_similarity": 0.920635
+    },
+    {
+      "reference": "Ezekiel 11:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Ezekiel 11:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Ezekiel 11:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Ezekiel 11:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Ezekiel 11:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.793651
+    },
+    {
+      "reference": "Ezekiel 11:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 12:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 12:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.927536,
+      "after_similarity": 0.776119
+    },
+    {
+      "reference": "Ezekiel 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953488,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 12:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.245614
+    },
+    {
+      "reference": "Ezekiel 12:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 12:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953488,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Ezekiel 12:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.729412
+    },
+    {
+      "reference": "Ezekiel 12:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Ezekiel 12:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Ezekiel 12:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Ezekiel 12:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Ezekiel 12:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.719101
+    },
+    {
+      "reference": "Ezekiel 12:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.891892
+    },
+    {
+      "reference": "Ezekiel 12:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Ezekiel 12:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Ezekiel 12:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.816901
+    },
+    {
+      "reference": "Ezekiel 12:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 12:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Ezekiel 12:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.948276,
+      "after_similarity": 0.707965
+    },
+    {
+      "reference": "Ezekiel 12:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Ezekiel 12:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 12:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Ezekiel 12:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953488,
+      "after_similarity": 0.690476
+    },
+    {
+      "reference": "Ezekiel 12:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ezekiel 12:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Ezekiel 12:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 12:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "Ezekiel 12:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.754098
+    },
+    {
+      "reference": "Ezekiel 13:1",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Ezekiel 13:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Ezekiel 13:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Ezekiel 13:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Ezekiel 13:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Ezekiel 13:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Ezekiel 13:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Ezekiel 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980769,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Ezekiel 13:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Ezekiel 13:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.508475
+    },
+    {
+      "reference": "Ezekiel 13:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Ezekiel 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ezekiel 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978261,
+      "after_similarity": 0.722892
+    },
+    {
+      "reference": "Ezekiel 13:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ezekiel 13:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.938776
+    },
+    {
+      "reference": "Ezekiel 13:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Ezekiel 13:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.549451
+    },
+    {
+      "reference": "Ezekiel 13:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 13:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.589744
+    },
+    {
+      "reference": "Ezekiel 13:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 13:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 13:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Ezekiel 14:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 14:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 14:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Ezekiel 14:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.982143,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Ezekiel 14:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Ezekiel 14:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ezekiel 14:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.635514
+    },
+    {
+      "reference": "Ezekiel 14:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 14:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Ezekiel 14:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Ezekiel 14:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.753623
+    },
+    {
+      "reference": "Ezekiel 14:12",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 14:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Ezekiel 14:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Ezekiel 14:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Ezekiel 14:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "Ezekiel 14:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Ezekiel 14:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Ezekiel 14:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Ezekiel 14:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ezekiel 14:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 14:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.960784,
+      "after_similarity": 0.821053
+    },
+    {
+      "reference": "Ezekiel 14:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Ezekiel 15:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 15:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 15:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ezekiel 15:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Ezekiel 15:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.561404
+    },
+    {
+      "reference": "Ezekiel 15:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Ezekiel 15:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.986301,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Ezekiel 15:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Ezekiel 16:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 16:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Ezekiel 16:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Ezekiel 16:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ezekiel 16:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816901
+    },
+    {
+      "reference": "Ezekiel 16:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 16:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 16:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.829787
+    },
+    {
+      "reference": "Ezekiel 16:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Ezekiel 16:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ezekiel 16:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ezekiel 16:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Ezekiel 16:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Ezekiel 16:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Ezekiel 16:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Ezekiel 16:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Ezekiel 16:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 16:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 16:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Ezekiel 16:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Ezekiel 16:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Ezekiel 16:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Ezekiel 16:23",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 16:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ezekiel 16:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Ezekiel 16:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Ezekiel 16:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 16:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Ezekiel 16:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ezekiel 16:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 16:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ezekiel 16:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Ezekiel 16:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Ezekiel 16:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.508475
+    },
+    {
+      "reference": "Ezekiel 16:35",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.875,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 16:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 16:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.804878
+    },
+    {
+      "reference": "Ezekiel 16:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Ezekiel 16:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.575758
+    },
+    {
+      "reference": "Ezekiel 16:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Ezekiel 16:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Ezekiel 16:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Ezekiel 16:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.902439
+    },
+    {
+      "reference": "Ezekiel 16:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Ezekiel 16:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Ezekiel 16:46",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Ezekiel 16:47",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Ezekiel 16:48",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Ezekiel 16:49",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Ezekiel 16:50",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Ezekiel 16:51",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Ezekiel 16:52",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.746988
+    },
+    {
+      "reference": "Ezekiel 16:53",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Ezekiel 16:54",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 16:55",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Ezekiel 16:56",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 16:57",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.870968
+    },
+    {
+      "reference": "Ezekiel 16:58",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Ezekiel 16:59",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ezekiel 16:60",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Ezekiel 16:61",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ezekiel 16:62",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 16:63",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.865672
+    },
+    {
+      "reference": "Ezekiel 17:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 17:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Ezekiel 17:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Ezekiel 17:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 17:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 17:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.766667
+    },
+    {
+      "reference": "Ezekiel 17:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "Ezekiel 17:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Ezekiel 17:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.539326
+    },
+    {
+      "reference": "Ezekiel 17:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.607143
+    },
+    {
+      "reference": "Ezekiel 17:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 17:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 17:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "Ezekiel 17:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.411765
+    },
+    {
+      "reference": "Ezekiel 17:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.732394
+    },
+    {
+      "reference": "Ezekiel 17:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.793651
+    },
+    {
+      "reference": "Ezekiel 17:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Ezekiel 17:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Ezekiel 17:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Ezekiel 17:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Ezekiel 17:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.698413
+    },
+    {
+      "reference": "Ezekiel 17:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.659341
+    },
+    {
+      "reference": "Ezekiel 17:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Ezekiel 17:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ezekiel 18:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 18:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Ezekiel 18:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Ezekiel 18:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.307692
+    },
+    {
+      "reference": "Ezekiel 18:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Ezekiel 18:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Ezekiel 18:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.528302
+    },
+    {
+      "reference": "Ezekiel 18:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Ezekiel 18:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Ezekiel 18:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 18:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Ezekiel 18:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Ezekiel 18:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Ezekiel 18:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 18:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Ezekiel 18:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Ezekiel 18:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.935484,
+      "after_similarity": 0.553846
+    },
+    {
+      "reference": "Ezekiel 18:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 18:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.492754
+    },
+    {
+      "reference": "Ezekiel 18:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Ezekiel 18:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.59375
+    },
+    {
+      "reference": "Ezekiel 18:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.285714
+    },
+    {
+      "reference": "Ezekiel 18:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Ezekiel 18:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.537634
+    },
+    {
+      "reference": "Ezekiel 18:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Ezekiel 18:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Ezekiel 18:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 18:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Ezekiel 18:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Ezekiel 18:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Ezekiel 18:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Ezekiel 18:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Ezekiel 19:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ezekiel 19:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Ezekiel 19:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 19:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Ezekiel 19:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Ezekiel 19:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Ezekiel 19:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 19:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Ezekiel 19:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Ezekiel 19:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Ezekiel 19:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Ezekiel 19:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Ezekiel 19:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ezekiel 19:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Ezekiel 20:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Ezekiel 20:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 20:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.74359
+    },
+    {
+      "reference": "Ezekiel 20:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 20:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.825688
+    },
+    {
+      "reference": "Ezekiel 20:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Ezekiel 20:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.984127,
+      "after_similarity": 0.754098
+    },
+    {
+      "reference": "Ezekiel 20:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Ezekiel 20:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97561,
+      "after_similarity": 0.843373
+    },
+    {
+      "reference": "Ezekiel 20:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Ezekiel 20:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Ezekiel 20:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Ezekiel 20:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 20:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "Ezekiel 20:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.876712
+    },
+    {
+      "reference": "Ezekiel 20:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Ezekiel 20:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.938776,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Ezekiel 20:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981818,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Ezekiel 20:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 20:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Ezekiel 20:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.752294
+    },
+    {
+      "reference": "Ezekiel 20:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.757576
+    },
+    {
+      "reference": "Ezekiel 20:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ezekiel 20:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Ezekiel 20:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 20:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Ezekiel 20:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Ezekiel 20:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Ezekiel 20:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Ezekiel 20:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.586207
+    },
+    {
+      "reference": "Ezekiel 20:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 20:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Ezekiel 20:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Ezekiel 20:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Ezekiel 20:35",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Ezekiel 20:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Ezekiel 20:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Ezekiel 20:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.860465
+    },
+    {
+      "reference": "Ezekiel 20:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.72093
+    },
+    {
+      "reference": "Ezekiel 20:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808081
+    },
+    {
+      "reference": "Ezekiel 20:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.716049
+    },
+    {
+      "reference": "Ezekiel 20:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Ezekiel 20:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Ezekiel 20:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Ezekiel 20:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 20:46",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Ezekiel 20:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.983333,
+      "after_similarity": 0.765217
+    },
+    {
+      "reference": "Ezekiel 20:48",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 20:49",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Ezekiel 21:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 21:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Ezekiel 21:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 21:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Ezekiel 21:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Ezekiel 21:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Ezekiel 21:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.54902
+    },
+    {
+      "reference": "Ezekiel 21:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 21:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Ezekiel 21:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Ezekiel 21:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Ezekiel 21:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 21:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Ezekiel 21:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Ezekiel 21:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.415094
+    },
+    {
+      "reference": "Ezekiel 21:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Ezekiel 21:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Ezekiel 21:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 21:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.507042
+    },
+    {
+      "reference": "Ezekiel 21:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Ezekiel 21:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 21:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.632911
+    },
+    {
+      "reference": "Ezekiel 21:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.392157
+    },
+    {
+      "reference": "Ezekiel 21:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.541176
+    },
+    {
+      "reference": "Ezekiel 21:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 21:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.464286
+    },
+    {
+      "reference": "Ezekiel 21:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.618182
+    },
+    {
+      "reference": "Ezekiel 21:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Ezekiel 21:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.523077
+    },
+    {
+      "reference": "Ezekiel 21:30",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 21:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Ezekiel 21:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Ezekiel 22:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 22:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Ezekiel 22:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.431373
+    },
+    {
+      "reference": "Ezekiel 22:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.674157
+    },
+    {
+      "reference": "Ezekiel 22:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Ezekiel 22:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.322581
+    },
+    {
+      "reference": "Ezekiel 22:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.553191
+    },
+    {
+      "reference": "Ezekiel 22:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ezekiel 22:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.307692
+    },
+    {
+      "reference": "Ezekiel 22:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Ezekiel 22:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Ezekiel 22:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Ezekiel 22:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Ezekiel 22:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Ezekiel 22:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "Ezekiel 22:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Ezekiel 22:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 22:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925373,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Ezekiel 22:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Ezekiel 22:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.613636
+    },
+    {
+      "reference": "Ezekiel 22:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Ezekiel 22:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.745763
+    },
+    {
+      "reference": "Ezekiel 22:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Ezekiel 22:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Ezekiel 22:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 22:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.644444
+    },
+    {
+      "reference": "Ezekiel 22:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Ezekiel 22:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Ezekiel 22:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Ezekiel 22:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985075,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Ezekiel 22:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Ezekiel 23:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 23:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ezekiel 23:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 23:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Ezekiel 23:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Ezekiel 23:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Ezekiel 23:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Ezekiel 23:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.779661
+    },
+    {
+      "reference": "Ezekiel 23:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Ezekiel 23:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.644068
+    },
+    {
+      "reference": "Ezekiel 23:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366
+    },
+    {
+      "reference": "Ezekiel 23:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Ezekiel 23:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Ezekiel 23:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Ezekiel 23:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.327273
+    },
+    {
+      "reference": "Ezekiel 23:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Ezekiel 23:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "Ezekiel 23:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "Ezekiel 23:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Ezekiel 23:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Ezekiel 23:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Ezekiel 23:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.646154
+    },
+    {
+      "reference": "Ezekiel 23:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Ezekiel 23:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.698795
+    },
+    {
+      "reference": "Ezekiel 23:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.824742
+    },
+    {
+      "reference": "Ezekiel 23:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Ezekiel 23:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 23:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.481481
+    },
+    {
+      "reference": "Ezekiel 23:29",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "Ezekiel 23:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Ezekiel 23:31",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Ezekiel 23:32",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Ezekiel 23:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.926829
+    },
+    {
+      "reference": "Ezekiel 23:34",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Ezekiel 23:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Ezekiel 23:36",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Ezekiel 23:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.637681
+    },
+    {
+      "reference": "Ezekiel 23:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ezekiel 23:39",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Ezekiel 23:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Ezekiel 23:41",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "Ezekiel 23:42",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.485714
+    },
+    {
+      "reference": "Ezekiel 23:43",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Ezekiel 23:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Ezekiel 23:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Ezekiel 23:46",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Ezekiel 23:47",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Ezekiel 23:48",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Ezekiel 23:49",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Ezekiel 24:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.355556
+    },
+    {
+      "reference": "Ezekiel 24:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Ezekiel 24:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.490566
+    },
+    {
+      "reference": "Ezekiel 24:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Ezekiel 24:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Ezekiel 24:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "Ezekiel 24:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Ezekiel 24:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.585366
+    },
+    {
+      "reference": "Ezekiel 24:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 24:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Ezekiel 24:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.509804
+    },
+    {
+      "reference": "Ezekiel 24:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.292683
+    },
+    {
+      "reference": "Ezekiel 24:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Ezekiel 24:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ezekiel 24:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Ezekiel 24:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.644068
+    },
+    {
+      "reference": "Ezekiel 24:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.537313
+    },
+    {
+      "reference": "Ezekiel 24:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Ezekiel 24:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Ezekiel 24:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Ezekiel 24:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.673913
+    },
+    {
+      "reference": "Ezekiel 24:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Ezekiel 24:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Ezekiel 24:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.935484,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Ezekiel 24:25",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.527778
+    },
+    {
+      "reference": "Ezekiel 24:26",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Ezekiel 24:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.921053,
+      "after_similarity": 0.684932
+    }
+  ]
+}

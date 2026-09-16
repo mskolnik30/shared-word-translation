@@ -4,55 +4,47 @@ testament: OT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: The word of the LORD came to me, saying,
-</p>
+## Against the mountains
 
 <p>
-v02: "Son of man, set your face toward the mountains of Israel and prophesy against them,
-v03: saying, 'Mountains of Israel, hear the word of the LORD GOD: Thus says the LORD GOD to the mountains and the hills, to the ravines and valleys: Look, I am bringing a sword upon you, and I will destroy your high places.
-v04: Your altars will be desolate, your incense altars shattered, and I will cast down your slain before your idols.
-v05: I will lay the corpses of the Israelites before their idols, and scatter your bones around your altars.
-v06: In all your dwellings the cities will be laid waste, and the high places will be desolate, so that your altars may be destroyed and be made desolate, your idols may be broken and come to an end, your incense altars may be cut down, and your works may be blotted out.
-v07: The slain will fall in your midst, and you will know that I am the LORD.
+v01: The word of the LORD came to me:
+v02: “Son of man, turn your face toward the mountains of Israel and prophesy against them.
+v03: Say, ‘Mountains of Israel, hear the word of the Lord GOD! This is what the Lord GOD says to the mountains and hills, the ravines and valleys: I myself am bringing a sword against you, and I will destroy your high places.
+v04: Your altars will be devastated and your incense altars broken. I will throw your slain down before your idols.
+v05: I will lay the corpses of the Israelites before their idols and scatter your bones around your altars.
+v06: Wherever you live, the towns will be ruined and the high places devastated. Your altars will lie ruined and desolate, your idols shattered and gone, your incense altars cut down, and your handiwork wiped out.
+v07: The slain will fall among you, and you will know that I am the LORD.
 </p>
 
-<p>
-v08: Yet I will leave a remnant, when you have some who escape the sword among the nations, when you are scattered among the countries.
-v09: Then those of you who escape will remember me among the nations where they are carried captive, how I have been broken with their adulterous heart that has turned away from me, and with their eyes that have turned after their idols. And they will loathe themselves for the evils which they committed in all their abominations.
-v10: And they will know that I am the LORD; I did not speak in vain concerning bringing this evil upon them.
-</p>
+## Survivors among the nations
 
 <p>
-v11: Thus says the LORD GOD: Clap your hands, stamp your feet, and say, 'Alas,' because of all the evil abominations of the house of Israel. By the sword, by famine, and by pestilence they will fall.
-v12: He who is far off will die of pestilence; he who is near will fall by the sword; he who remains and is besieged will die by famine. Thus will I spend my fury upon them.
-v13: And you will know that I am the LORD, when their slain are among their idols, around their altars, on every high hill, on all the mountaintops, under every green tree, and under every leafy oak, the places where they offered pleasing aromas to all their idols.
-v14: I will stretch out my hand against them and make the land desolate and waste, from the wilderness of Diblah wherever they dwell. Then they will know that I am the LORD.'"
+v08: “‘Yet I will leave some alive. Some of you will escape the sword among the nations when you are scattered through other lands.
+v09: Then your survivors will remember me among the nations where they have been taken captive—how I was broken by their unfaithful heart that turned away from me, and by their eyes that went whoring after their idols. They will loathe themselves for the evil they did, for all their abominations.
+v10: They will know that I am the LORD, that I did not speak idly when I said I would bring this disaster on them.’
+</p>
+
+## The scattered slain
+
+<p>
+v11: “This is what the Lord GOD says: Strike your hands together, stamp your foot, and cry, ‘Alas for all the evil abominations of the house of Israel!’ They will fall by sword, famine, and plague.
+v12: Those far away will die of plague; those nearby will fall by the sword. Those who remain, shut inside, will die of famine. I will spend my fury on them.
+v13: You will know that I am the LORD when their slain lie among their idols, around their altars, on every high hill and every mountaintop, beneath every green tree and every leafy oak—wherever they offered a pleasing aroma to all their idols.
+v14: I will stretch out my hand against them and make the land a desolate waste, from the wilderness to Diblah, wherever they live. Then they will know that I am the LORD.”
 </p>
 
 ## Notes
 
-v03: v03 "Mountains of Israel": The prophetic word is directed against the geographical high places, often sites of idol worship, symbolizing the nation's apostasy.
+v09: “I was broken by” follows the passive Hebrew form. The syntax is difficult; another interpretation understands God as breaking the people’s unfaithful heart.
 
-v05: v05 "corpses of the Israelites before their idols": This imagery links the physical and spiritual downfall of Israel with its idolatry, vividly depicting judgment.
-
-v07: v07 "you shall know that I am the Lord": This repeated refrain emphasizes the ultimate goal of the judgment: a renewed recognition of Yahweh's sovereignty.
+v14: The pinned text names Diblah. Its location is uncertain; the translation does not silently replace it with Riblah. The phrase may also compare the desolation with a wilderness toward Diblah.
 
 ## Vocabulary
 
-v01: v01 יְהוָ֖ה (ye.ho.vah) - "Lord": The covenant name of God, emphasizing His faithfulness and sovereign authority.
-
-v02: v03 אָדָ֕ם (a.dam) - "Son of man": A title for Ezekiel emphasizing his humanity and role as representative and messenger.
-
-v09: v09 זוֹנֶ֗ה (za.nah) - "adulterous": Implies unfaithfulness to God, using strong matrimonial imagery to describe Israel's idolatry.
-
-v01: יְהוָ֖ה (yehovah)
-“Lord": The covenant name of God, with a sense of His faithfulness and sovereign authority.
-
-v02: אָדָ֕ם (adam)
-“Son of man": A title for Ezekiel with a sense of his humanity and role as representative and messenger.
-
-v09: זוֹנֶ֗ה (zanah)
-“adulterous": Implies unfaithfulness to God, using strong matrimonial imagery to describe Israel's idolatry.
+v03: **High places**: Hebrew bamot, sites of worship. The surrounding references to altars and idols identify their role here.

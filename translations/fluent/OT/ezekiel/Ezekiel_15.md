@@ -4,44 +4,29 @@ testament: OT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: The word of the LORD came to me, saying,
-</p>
+## The wood of the vine
 
 <p>
-v02: "Son of man, what is the vine tree compared to any other tree, the vine branch that is among the trees of the forest?
-v03: Is wood taken from it to make any useful item? Or do they take a peg from it to hang any vessel on?
-v04: Look, it is thrown into the fire for fuel; the fire devours both its ends and its middle is charred. Is it useful for any work?
-v05: Look, when it was whole, it could not be made into anything useful. How much less, when the fire has devoured and charred it, can it ever be made into anything useful?
-</p>
-
-<p>
-v06: So, this is what the LORD GOD says: Like the vine tree among the trees of the forest, which I have given to the fire for fuel, so I have given up the inhabitants of Jerusalem.
-v07: I will set my face against them. They have come out of the fire, but the fire will consume them. And you will know that I am the LORD, when I set my face against them.
-v08: I will make the land desolate because they have been unfaithful, declares the LORD GOD."
+v01: The word of the LORD came to me:
+v02: “Son of man, how is the wood of a vine better than any other wood, a vine branch among the trees of the forest?
+v03: Can its wood be used to make anything? Can people even make a peg from it to hang a vessel on?
+v04: It is given to the fire for fuel. When fire has consumed both ends and charred the middle, is it useful for anything?
+v05: Even when it was whole, nothing could be made from it. How much less can it be used when fire has consumed and charred it!
+v06: “Therefore this is what the Lord GOD says: Like the vine wood among the forest trees that I give to the fire for fuel, so I will give up the inhabitants of Jerusalem.
+v07: I will set my face against them. They have come out of the fire, but fire will consume them. When I set my face against them, you will know that I am the LORD.
+v08: I will make the land desolate because they have acted unfaithfully, declares the Lord GOD.”
 </p>
 
 ## Notes
 
-v02: "Son of man" — A term used for Ezekiel that emphasizes his humanity in contrast to the divine authority of his visions.
-
-v04: The imagery of the vine — The vine symbolizes something that should be fruitful but is instead good only for burning, representing the inhabitants of Jerusalem who have failed to fulfill their intended purpose.
+v02-05: The comparison concerns vine wood’s usefulness for making objects, not the value of grapes. Adding fruitfulness here would change the argument.
 
 ## Vocabulary
 
-v01: דְבַר Yehovah (davar Yehovah) — "The word of Yahweh" — A common biblical phrase indicating the communication of Yahweh's will through a prophet.
-
-v02: גֶפֶן (gephen) — "Vine" — Symbolic of the people of Israel or Jerusalem, emphasizing their intended purpose to bear fruit, or their failure in bearing fruit.
-
-v06: עֵץ הַגֶפֶן (etz ha-gephen) — "The vine tree" — The focus of the analogy in comparison to other trees; it highlights the uniqueness and purpose of the vine among trees.
-
-v01: דְבַר Yehovah (davar Yehovah)
-“Word of the LORD.” A standard prophetic formula introducing a received message.
-
-v02: גֶפֶן (gephen)
-“Vine" — Symbolic of the people of Israel or Jerusalem, with a sense of their intended purpose to bear fruit, or their failure in bearing fruit.
-
-v06: עֵץ הַגֶפֶן (etz ha-gephen)
-“The vine tree" — The focus of the analogy in comparison to other trees; it highlights the uniqueness and purpose of the vine among trees.
+v08: **Unfaithfulness**: Hebrew maal describes a breach of trust or obligation. The land’s desolation is linked to that breach.

@@ -1,0 +1,55 @@
+{
+  "scope": "Ezekiel 1–24",
+  "chapters": 24,
+  "verses": 619,
+  "status": "INTERMEDIATE_DRAFT_COMPLETED",
+  "fifty_chapter_block": {
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 24,
+    "completed_scope": "Ezekiel 1–24",
+    "completed_verses": 619,
+    "remaining_scope": "Ezekiel 25–48; Daniel 1–2",
+    "remaining_chapters": 26,
+    "qualification": "Verified intermediate draft checkpoint; block incomplete. Independent review and reader testing pending; publication not allowed."
+  },
+  "books": [
+    {
+      "book": "ezekiel",
+      "rel": "audit/fluent-revision/2026-09-16-ezekiel-1-24",
+      "verses": 619,
+      "chapters": 24,
+      "focused": 136,
+      "overlap": {
+        "before": {
+          "identical": 409,
+          "near_identical_nonidentical": 199,
+          "mean_word_similarity": 0.983245
+        },
+        "after": {
+          "identical": 11,
+          "near_identical_nonidentical": 46,
+          "mean_word_similarity": 0.711176
+        }
+      }
+    }
+  ],
+  "focused_authoring_rereads": 136,
+  "refinements": [
+    "Preserved the plural rebellious nations in 2:3 and the pronoun shift in 11:19.",
+    "Preserved source numbering through the public 20/21 chapter boundary.",
+    "Retained obscure pinned readings at 19:7 and 19:10 with explicit notes; independent assessment remains needed.",
+    "Kept the difficult divine agency in 14:9 and 20:25–26 explicit.",
+    "Distinguished specific sexual violence from metaphorical city personification and preserved the prophet’s protests."
+  ],
+  "overlap_qualification": "Overlap is triage only, not proof of fidelity, originality, or comprehension.",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "publication_allowed": false,
+  "next_work": {
+    "scope": "Ezekiel 25–48; Daniel 1–2",
+    "action": "Continue remaining twenty-six chapters of the authorized fifty-chapter block. Preserve pinned Hebrew/Aramaic and public numbering; independent review pending."
+  },
+  "github": "Previously blocked; no rejected write retried."
+}

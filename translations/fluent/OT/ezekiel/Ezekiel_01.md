@@ -4,77 +4,70 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the Chebar canal, the heavens were opened, and I saw visions of God.
-v02: On the fifth day of the month, it was the fifth year of the exile of King Jehoiachin,
-v03: the word of the LORD came to Ezekiel the son of Buzi, the priest, in the land of the Chaldeans by the Chebar canal, and there the hand of the LORD was upon him.
-</p>
+## Among the exiles
 
 <p>
-v04: I looked, and look, a stormy wind came from the north, a great cloud with a brightness around it, and fire flashing forth continually, and among the fire was something like gleaming metal.
-v05: From within it came the likeness of four living creatures. And this was their appearance: they had a human likeness,
-v06: but each had four faces, and each of them had four wings.
-v07: Their legs were straight, and the soles of their feet were like the sole of a calf's foot, and they sparkled like burnished bronze.
-v08: Under their wings on their four sides they had human hands. And the four had their faces and their wings thus:
-v09: their wings touched one another. Each one of them went straight forward, not turning as they went.
-v10: As for the likeness of their faces, each had the face of a human, the face of a lion on the right, the face of an ox on the left, and the face of an eagle for each.
-v11: Such were their faces. Their wings were spread out above; each creature had two wings touching the wing of another, while two covered their bodies.
-v12: And each person went straight forward; wherever the spirit was to go, they went, not turning as they went.
-v13: As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches moving to and fro among the living creatures. And the fire was bright, and from the fire went forth lightning.
-v14: And the living creatures darted back and forth, like the appearance of a flash of lightning.
+v01: In the thirtieth year, on the fifth day of the fourth month, I was among the exiles beside the Kebar River. The heavens opened, and I saw visions of God.
+v02: It was the fifth day of the month, in the fifth year of King Jehoiachin’s exile.
+v03: The word of the LORD came to Ezekiel the priest, son of Buzi, in the land of the Chaldeans beside the Kebar River. There the hand of the LORD came upon him.
 </p>
 
-<p>
-v15: Now as I looked at the living creatures, I saw a wheel on the earth beside each living creature, one for each of the four of them.
-v16: As for the appearance of the wheels and their construction, their appearance was like the gleaming of beryl. And the four had the same likeness, their construction being like a wheel within a wheel.
-v17: When they went, they went in any one of their four directions without turning as they went.
-v18: Their rims were high and fearsome, and the rims of all four were full of eyes all around.
-v19: When the living creatures went, the wheels went beside them; and when the living creatures rose from the earth, the wheels rose.
-v20: Wherever the spirit was to go, they went, and the wheels rose along with them; for the spirit of the living creatures was in the wheels.
-v21: When those went, these went; and when those stood, these stood; and when those rose from the earth, the wheels rose along with them, for the spirit of the living creatures was in the wheels.
-</p>
+## The living creatures
 
 <p>
-v22: Over the heads of the living creatures there was the likeness of an expanse, shining like awe-inspiring crystal, spread out above their heads.
-v23: And under the expanse their wings were stretched out straight, one toward another. And each creature had two wings covering its body on either side.
+v04: I looked: a storm wind was coming from the north, a great cloud with fire flashing within it and brightness all around. At its center, within the fire, something gleamed like glowing metal.
+v05: Within it was the likeness of four living creatures. This is how they appeared: they had a human likeness,
+v06: but each had four faces and four wings.
+v07: Their legs were straight, and the soles of their feet were like the soles of a calf’s feet. They sparkled like polished bronze.
+v08: They had human hands beneath their wings on all four sides. All four had faces and wings.
+v09: Their wings touched one another. They did not turn as they moved; each went straight ahead.
+v10: As for their faces, all four had a human face, a lion’s face on the right, an ox’s face on the left, and an eagle’s face.
+v11: Such were their faces. Their wings spread upward; each had two wings touching another creature’s wings and two covering its body.
+v12: Each went straight ahead. Wherever the spirit would go, they went, without turning as they moved.
+v13: The living creatures looked like burning coals of fire, like torches. Fire moved back and forth among the creatures; it shone brightly, and lightning flashed from it.
+v14: The creatures darted back and forth like flashes of lightning.
 </p>
 
-<p>
-v24: And when they went, I heard the sound of their wings like the sound of many waters, like the sound of the Almighty, a sound of tumult like the sound of an army. When they stood still, they let down their wings.
-v25: And there came a voice from above the expanse over their heads. When they stood still, they let down their wings.
-</p>
+## The wheels
 
 <p>
-v26: And above the expanse over their heads there was the likeness of a throne, in appearance like sapphire, and seated above the likeness of a throne was a likeness with a human appearance.
-v27: And upward from what had the appearance of his waist I saw, as it were, gleaming metal, like the appearance of fire enclosed all around. And downward from what had the appearance of his waist, I saw, as it were, the appearance of fire, and there was brightness around him.
-v28: Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell on my face, and I heard the voice of one speaking.
+v15: As I looked at the living creatures, I saw a wheel on the ground beside each of the four-faced creatures.
+v16: The wheels and their workmanship gleamed like beryl. All four had the same likeness, and each looked as though one wheel were set within another.
+v17: They could move in any of their four directions without turning as they went.
+v18: Their rims were high and awe-inspiring, and the rims of all four were full of eyes all around.
+v19: When the living creatures moved, the wheels moved beside them. When the creatures rose from the ground, the wheels rose too.
+v20: Wherever the spirit would go, they went—that was where the spirit would go. The wheels rose alongside them, because the spirit of the living creatures was in the wheels.
+v21: When the creatures moved, the wheels moved; when they stood still, the wheels stood still. When the creatures rose from the ground, the wheels rose alongside them, because the spirit of the living creatures was in the wheels.
+</p>
+
+## The expanse and the throne
+
+<p>
+v22: Above the heads of the living creatures was the likeness of an expanse, stretched out over them, gleaming like awe-inspiring ice.
+v23: Beneath the expanse their wings stretched straight toward one another. Each had two wings covering its body—two covering its body.
+v24: As they moved, I heard the sound of their wings, like the roar of great waters, like the voice of the Almighty, a tumult like the noise of an army. When they stood still, they lowered their wings.
+v25: A voice came from above the expanse over their heads. When they stood still, they lowered their wings.
+v26: Above the expanse over their heads was the likeness of a throne, with the appearance of sapphire. High above, on that throne-like form, was a likeness with a human appearance.
+v27: From what looked like his waist upward, I saw a gleam like glowing metal, like fire enclosed all around. From what looked like his waist downward, I saw something like fire, with brightness surrounding him.
+v28: The brightness around him looked like the rainbow in a cloud on a rainy day. This was the appearance of the likeness of the glory of the LORD. When I saw it, I fell facedown and heard a voice speaking.
 </p>
 
 ## Notes
 
-v01: - **v01**: The mention of "the thirtieth year" is debated among scholars, with some interpreting it as Ezekiel's age while others see it as a reference to a Jubilee cycle. The text remains ambiguous, highlighting a specific timing of divine vision.
+v01: The starting point of “the thirtieth year” is not stated. Verse 2 gives a separate date relative to Jehoiachin’s exile.
 
-v03: - **v03**: "The hand of the Lord was upon him" suggests a significant divine interaction, a moment of commissioning and empowerment for Ezekiel's prophetic task.
+v04,16,26: The identifications of the gleaming metal and gemstones are uncertain. “Sapphire” may denote lapis lazuli. These are comparisons describing the vision’s appearance.
 
-v04–28: - **v04-28**: This section describes a theophany — an appearance of God, marked by awe-inspiring imagery. The visions reveal the glory of God in transcendent, symbolic terms, packed with rich visual and auditory details.
-
-v24–25: - **v24-28**: The repeated mention of sound emphasizes the powerful presence of the divine voice accompanying the visual phenomena, symbolizing authority and revelation.
+v15,23: Verse 15 compresses the relation between the wheel and the four faces; the translation reads it distributively, in light of the four wheels in verse 16. Verse 23 repeats the phrase about two wings covering the body.
 
 ## Vocabulary
 
-v04: - **v04 — רוּחַ (ruach)**: Translated as "wind," this term also denotes spirit or breath, reinforcing the powerful, dynamic nature of God's presence and actions. The usage here conveys an enveloping, divine force arriving from the north.
+v05,28: **Likeness**: Hebrew demut qualifies what Ezekiel sees; the repeated word keeps resemblance distinct from exact identification.
 
-v28: - **v28 — כָּבוֹד (kabod)**: "Glory" often refers to the weighty, radiant presence of God. This verse portrays God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.
-
-v28: כָּבוֹד (kabod)
-“Glory" often refers to the weighty, radiant presence of God. This verse describes God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.
-
-v05: - **v05 — חַיָּה (chayah)**: Translated as "living creature," it indicates celestial beings associated with divine presence, combining various earthly and mythical forms to convey vitality and holiness.
-
-v04: רוּחַ (ruach)
-“Wind; spirit; breath.” Here the immediate image is a powerful wind coming from the north.
-
-v05: חַיָּה (chayah)
-“Living creature.” The term names the animate beings within the throne vision.
+v12,20: **Spirit**: Hebrew ruach can mean wind, breath, or spirit. Its use connects the creatures’ movement with the wheels without explaining the vision’s mechanics.

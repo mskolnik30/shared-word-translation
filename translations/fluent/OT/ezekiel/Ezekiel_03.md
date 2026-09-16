@@ -4,88 +4,67 @@ testament: OT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: He said to me, "Son of man, eat what you find; eat this scroll and go, speak to the house of Israel."
-v02: So I opened my mouth, and He gave me this scroll to eat.
-v03: He said to me, "Son of man, feed your belly and fill your stomach with this scroll that I give you." So I ate it, and it was in my mouth as sweet as honey.
-</p>
+## Eat and speak
 
 <p>
-v04: Then He said to me, "Son of man, go to the house of Israel and speak my words to them.
-v05: For you are not sent to a people of unfamiliar speech and difficult tongue, but to the house of Israel,
-v06: not to many peoples of unfamiliar speech and difficult tongue, whose words you cannot understand. Surely, if I sent you to them, they would listen to you.
-v07: But the house of Israel will not be willing to listen to you, for they are not willing to listen to me. For all the house of Israel are hardened of forehead and stubborn of heart.
-v08: Look, I have made your face as hard as their faces, and your forehead as hard as their foreheads.
-v09: Like the hardest stone, harder than flint, I have made your forehead. Do not fear them, nor be dismayed at their faces, though they are a rebellious house."
+v01: He said to me, “Son of man, eat what is here. Eat this scroll, then go and speak to the house of Israel.”
+v02: I opened my mouth, and he fed me the scroll.
+v03: He said, “Son of man, feed your belly and fill your stomach with this scroll I am giving you.” I ate it, and in my mouth it was sweet as honey.
+v04: Then he said, “Son of man, go to the house of Israel and speak my words to them.
+v05: You are being sent to the house of Israel, not to a people whose speech is unfamiliar and whose language is hard to understand.
+v06: Nor are you being sent to many peoples with unfamiliar speech and difficult languages whose words you cannot understand. If I had sent you to them, they would have listened to you.
+v07: But the house of Israel will refuse to listen to you, because they refuse to listen to me. The whole house of Israel is hardheaded and stubborn-hearted.
+v08: Look, I have made your face as hard as their faces, and your forehead as hard as theirs.
+v09: I have made your forehead like adamant, harder than flint. Do not fear them or be dismayed by their faces, for they are a rebellious household.”
+v10: He said, “Son of man, take to heart every word I speak to you, and listen with your ears.
+v11: Go to the exiles, to your own people. Speak to them and tell them, ‘This is what the Lord GOD says,’ whether they listen or refuse.”
 </p>
 
-<p>
-v10: He said to me, "Son of man, all my words that I will speak to you, receive in your heart and hear with your ears.
-v11: And go, get you to the exiles, to your people, and speak to them. Say to them, 'Thus says the LORD GOD,' whether they hear or refuse."
-</p>
+## Among the exiles
 
 <p>
-v12: Then the Spirit lifted me up, and I heard behind me the sound of a great earthquake: "Blessed be the glory of the LORD from its place!"
-v13: It was the sound of the wings of the living creatures touching one another, and the sound of the wheels beside them, and a sound of a great earthquake.
+v12: Then a spirit lifted me, and behind me I heard a great rumbling sound: “Blessed be the glory of the LORD from his place!”
+v13: I heard the wings of the living creatures brushing against one another, the wheels beside them, and a great rumbling sound.
+v14: The spirit lifted me and carried me away. I went in bitterness, my spirit burning, while the hand of the LORD rested heavily on me.
+v15: I came to the exiles at Tel-abib, who lived beside the Kebar River, and sat where they sat. For seven days I sat among them, stunned.
 </p>
 
-<p>
-v14: The Spirit lifted me up and took me away, and I went in bitterness in the heat of my spirit, the hand of the LORD being strong upon me.
-</p>
+## The watchman
 
 <p>
-v15: I came to the exiles at Tel Abib, who were dwelling by the Chebar Canal, and I sat where they were dwelling. And I sat there overwhelmed among them seven days.
+v16: At the end of seven days, the word of the LORD came to me:
+v17: “Son of man, I have appointed you a watchman for the house of Israel. Whenever you hear a word from my mouth, warn them for me.
+v18: When I tell a wicked person, ‘You will certainly die,’ and you give no warning, saying nothing to warn that person away from a wicked path so they may live, that wicked person will die in their guilt. But I will hold you accountable for their blood.
+v19: If you warn a wicked person and they do not turn from their wickedness and their wicked path, they will die in their guilt, but you will have saved your own life.
+v20: Again, if a righteous person turns from doing right and does wrong, and I put a stumbling block before them, they will die. Because you did not warn them, they will die in their sin, and their righteous deeds will not be remembered. I will hold you accountable for their blood.
+v21: But if you warn a righteous person not to sin, and they do not sin, they will certainly live because they took warning, and you will have saved your own life.”
 </p>
 
-<p>
-v16: And at the end of seven days, the word of the LORD came to me:
-v17: "Son of man, I have made you a watchman for the house of Israel. Whenever you hear a word from my mouth, you will give them warning from me.
-v18: If I say to the wicked, 'You will surely die,' and you give him no warning, nor speak to warn the wicked from his wicked way, to save his life, that wicked person will die in his iniquity, but his blood I will require at your hand.
-v19: But if you warn the wicked, and he does not turn from his wickedness or from his wicked way, he will die in his iniquity, but you will have delivered your soul.
-</p>
+## Silence and speech
 
 <p>
-v20: Again, if a righteous person turns from his righteousness and commits injustice, and I lay a stumbling block before him, he will die. Because you have not warned him, he will die for his sin, and his righteous deeds that he has done will not be remembered, but his blood I will require at your hand.
-v21: But if you warn the righteous person not to sin, and he does not sin, he will surely live, because he took warning, and you will have delivered your soul."
-</p>
-
-<p>
-v22: And the hand of the LORD was upon me there, and He said to me, "Rise, go out into the valley, and there I will speak with you."
-v23: So I rose and went out into the valley, and look, the glory of the LORD stood there, like the glory that I had seen by the Chebar Canal. And I fell on my face.
-</p>
-
-<p>
-v24: But the Spirit entered into me and set me on my feet, and He spoke with me and said to me, "Go, shut yourself within your house.
-v25: And you, son of man, look, cords will be placed upon you, and you will be bound with them, so that you cannot go out among the people.
-v26: I will make your tongue cling to the roof of your mouth, so that you will be mute and unable to be a reprover to them, for they are a rebellious house.
-v27: But when I speak with you, I will open your mouth, and you will say to them, 'Thus says the LORD GOD.' He who hears, let him hear; and he who refuses, let him refuse, for they are a rebellious house."
+v22: There the hand of the LORD came upon me. He said, “Get up and go out to the valley. I will speak with you there.”
+v23: I got up and went to the valley. There stood the glory of the LORD, like the glory I had seen beside the Kebar River. I fell facedown.
+v24: A spirit entered me and set me on my feet. He spoke to me: “Go and shut yourself inside your house.
+v25: As for you, son of man, they will put ropes on you and bind you, so that you cannot go out among them.
+v26: I will make your tongue stick to the roof of your mouth. You will be silent, unable to rebuke them, for they are a rebellious household.
+v27: But when I speak with you, I will open your mouth, and you will tell them, ‘This is what the Lord GOD says.’ Let whoever listens listen, and whoever refuses refuse, for they are a rebellious household.”
 </p>
 
 ## Notes
 
-v01: "Son of man" emphasizes Ezekiel's humanity and role as a mortal messenger for God. The term is used frequently in Ezekiel to denote the prophet's status.
+v12: The pinned Hebrew reads “Blessed be the glory of the LORD from his place.” The translation retains this blessing rather than changing the consonants to describe the glory rising.
 
-v02–03: Eating the scroll symbolizes internalizing God's message, which Ezekiel must deliver. The sweetness implies the message's divine origin and significance regardless of its content.
-
-v10: "Receive in your heart and hear with your ears" highlights the thoroughness of the prophet's reception of God's words, demanding both understanding and attentiveness.
-
-v17: "Watchman" reflects the prophet's responsibility to alert Israel to impending danger from ignoring God's commands, analogous to a lookout on a city wall.
-
-v20: The image of a stumbling block indicates God's active involvement in judging a righteous person who turns to iniquity, while highlighting the prophet's role in attempting to avert their downfall.
+v20: The text explicitly makes God the one who puts the stumbling block before the person. It does not explain away the tension between this action and the person’s responsibility.
 
 ## Vocabulary
 
-v01: בֶּן אָדָם (ben adam) – "Son of man," a title for Ezekiel emphasizing his human nature and role as a representative of humanity before God.
+v09: **Adamant**: A very hard substance; its precise identification is uncertain. The comparison emphasizes hardness greater than flint.
 
-v17: צֹפֶה (tsa.phah) – "watchman," signifying the prophet's duty to listen to God and alert the people to spiritual danger.
-
-v17: צֹפֶה (tsaphah)
-“Watchman.” One stationed to observe and give warning; here applied to Ezekiel’s prophetic responsibility.
-
-v22: יַד יְהוָה (yad yehovah)
-“hand of the Lord," indicating God's direct influence and power upon the prophet.
-
-v01: בֶּן אָדָם (ben adam)
-“Son of man," a title for Ezekiel with a sense of his human nature and role as a representative of humanity before God.
+v17: **Watchman**: A lookout responsible for warning of danger. Verses 18–21 apply that responsibility to the prophet’s speech.

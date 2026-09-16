@@ -1,0 +1,126 @@
+{
+  "status": "PASSED",
+  "base_commit": "e1238360da0bbce966d2d56162ed480fd570f273",
+  "new_chapters": 24,
+  "new_verses": 619,
+  "unique_original_source_records": {
+    "ezekiel": 619
+  },
+  "cumulative_coverage": {
+    "ledgers": 89,
+    "chapters": 831,
+    "verses": 21191
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 88,
+    "chapters_byte_identical": 807,
+    "verses": 20572,
+    "tsw_unchanged": true,
+    "historical_provenance_preserved": true
+  },
+  "source_binding_audit": "PASSED for affected Ezekiel ledger",
+  "divine_names": "PASSED verse by verse, including LORD/GOD and YAH separately",
+  "focused_assertions": {
+    "Ezekiel 1:1": [
+      "thirtieth",
+      "fourth",
+      "fifth",
+      "Kebar"
+    ],
+    "Ezekiel 2:3": [
+      "nations"
+    ],
+    "Ezekiel 4:5": [
+      "390"
+    ],
+    "Ezekiel 4:6": [
+      "forty"
+    ],
+    "Ezekiel 4:9": [
+      "wheat",
+      "barley",
+      "beans",
+      "lentils",
+      "millet",
+      "spelt"
+    ],
+    "Ezekiel 4:10": [
+      "twenty shekels"
+    ],
+    "Ezekiel 4:11": [
+      "sixth of a hin"
+    ],
+    "Ezekiel 4:15": [
+      "cattle dung"
+    ],
+    "Ezekiel 8:2": [
+      "fire"
+    ],
+    "Ezekiel 9:6": [
+      "children"
+    ],
+    "Ezekiel 10:14": [
+      "cherub"
+    ],
+    "Ezekiel 11:19": [
+      "one heart",
+      "within you"
+    ],
+    "Ezekiel 14:9": [
+      "I, the LORD, have deceived"
+    ],
+    "Ezekiel 16:49": [
+      "pride",
+      "poor",
+      "needy"
+    ],
+    "Ezekiel 19:7": [
+      "his widows"
+    ],
+    "Ezekiel 19:10": [
+      "your blood"
+    ],
+    "Ezekiel 20:25": [
+      "not good"
+    ],
+    "Ezekiel 21:17": [
+      "I too"
+    ],
+    "Ezekiel 22:25": [
+      "prophets"
+    ],
+    "Ezekiel 23:20": [
+      "sexual organs",
+      "donkeys",
+      "emissions",
+      "horses"
+    ],
+    "Ezekiel 24:1": [
+      "ninth",
+      "tenth"
+    ],
+    "Ezekiel 24:18": [
+      "my wife died"
+    ]
+  },
+  "versification": "619 unique exact original records; public 20:45–49 maps to Hebrew21:1–5 and public21:1–32 maps to Hebrew21:6–37.",
+  "repeated_refrains": "Divine-name repetitions checked verse by verse; recurring promise and judgment phrases reread.",
+  "focused_authoring_reread": 136,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "git_diff_check": "",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "All prior pending reviews preserved.",
+  "active_fifty_chapter_block": {
+    "scope": "Ezekiel 1–48; Daniel 1–2",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 24,
+    "completed_scope": "Ezekiel 1–24",
+    "completed_verses": 619,
+    "remaining_scope": "Ezekiel 25–48; Daniel 1–2",
+    "remaining_chapters": 26,
+    "qualification": "Verified intermediate draft checkpoint; block incomplete. Independent review and reader testing pending; publication not allowed."
+  },
+  "publication_allowed": false
+}

@@ -4,102 +4,60 @@ testament: OT
 chapter: 11
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-ezekiel-1-24-biblical-fluency-2026-09-16
 ---
 
-<p>
-v01: Then the Spirit lifted me up and brought me to the east gate of the house of the LORD that faces east. There, at the entrance of the gate, were twenty-five men. And among them I saw Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, leaders of the people.
-</p>
+## The leaders at the gate
 
 <p>
-v02: And he said to me, "Son of man, these are the men who devise iniquity and give wicked counsel in this city."
+v01: A spirit lifted me and brought me to the east gate of the LORD’s house, the gate facing east. At its entrance were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.
+v02: He said, “Son of man, these are the men who plan wrongdoing and give evil counsel in this city.
+v03: They say, ‘The time to build houses is not near. The city is the pot, and we are the meat.’
+v04: So prophesy against them. Prophesy, son of man!”
+v05: The spirit of the LORD fell upon me. He told me, “Say: This is what the LORD says: That is what you say, house of Israel. I know the thoughts that rise in your spirit.
+v06: You have multiplied the slain in this city and filled its streets with the dead.
+v07: Therefore this is what the Lord GOD says: The slain you have laid within the city are the meat, and the city is the pot. But you will be brought out of it.
+v08: You fear the sword, and I will bring a sword against you, declares the Lord GOD.
+v09: I will bring you out of the city, hand you over to foreigners, and carry out judgments against you.
+v10: You will fall by the sword. I will judge you at Israel’s border, and you will know that I am the LORD.
+v11: This city will not be your pot, nor will you be the meat within it. I will judge you at Israel’s border.
+v12: Then you will know that I am the LORD. You have not lived by my statutes or carried out my judgments, but have followed the judgments of the nations around you.”
+v13: While I was prophesying, Pelatiah son of Benaiah died. I fell facedown and cried out loudly, “Ah, Lord GOD! Are you making an end of all who remain of Israel?”
 </p>
 
-<p>
-v03: They say, 'It is not near; let us build houses. This city is the pot, and we are the meat.'
-</p>
+## A sanctuary among the nations
 
 <p>
-v04: So prophesy against them. Prophesy, son of man."
+v14: The word of the LORD came to me:
+v15: “Son of man, your brothers—your brothers, your own kin—and the whole house of Israel, all of them, are the ones the people of Jerusalem have told, ‘Stay far from the LORD. The land has been given to us as our possession.’
+v16: Therefore say: This is what the Lord GOD says: Though I sent them far away among the nations and scattered them through other lands, I have been a sanctuary for them for a little while in the lands where they went.
+v17: Therefore say: This is what the Lord GOD says: I will gather you from the peoples and bring you together from the lands where you have been scattered. I will give you the land of Israel.
+v18: They will come there and remove all its detestable things and all its abominations.
+v19: I will give them one heart and put a new spirit within you. I will remove the heart of stone from their flesh and give them a heart of flesh,
+v20: so that they may live by my statutes, keep my judgments, and carry them out. They will be my people, and I will be their God.
+v21: But those whose hearts pursue their detestable things and abominations—I will bring their ways down on their own heads, declares the Lord GOD.”
 </p>
 
-<p>
-v05: Then the Spirit of the LORD fell upon me, and he said to me, "Say this: Thus says the LORD, so you have spoken, house of Israel, and I know the thoughts that come into your mind.
-v06: You have multiplied your slain in this city and filled its streets with the dead.
-</p>
+## The vision departs
 
 <p>
-v07: So thus says the LORD GOD: Your slain whom you have laid among it, they are the meat, and this city is the pot, but you will be brought out of its midst.
-v08: You have feared the sword, and I will bring the sword upon you," declares the LORD GOD.
-v09: "And I will bring you out of its midst and deliver you into the hands of foreigners and execute judgments upon you.
-</p>
-
-<p>
-v10: By the sword you will fall. I will judge you at the border of Israel, and you will know that I am the LORD.
-v11: This city will not be a pot for you, nor will you be meat in its midst. I will judge you at the border of Israel,
-v12: and you will know that I am the LORD. For you have not walked in my statutes nor executed my judgments, but you have acted according to the rules of the nations around you."
-</p>
-
-<p>
-v13: As I prophesied, Pelatiah the son of Benaiah died. Then I fell on my face and cried with a loud voice, "Ah, Lord GOD! Will you make a full end of the remnant of Israel?"
-</p>
-
-<p>
-v14: And the word of the LORD came to me:
-v15: "Son of man, your brothers, your brothers, the men of your redemption, and the whole house of Israel— they are those to whom the inhabitants of Jerusalem have said, ‘Go far from the LORD; this land is given to us for a possession.’
-</p>
-
-<p>
-v16: So say this: Thus says the LORD GOD: Though I removed them far away among the nations, and though I scattered them among the countries, yet I have been a sanctuary to them for a little while in the countries where they have gone.
-</p>
-
-<p>
-v17: So say this: Thus says the LORD GOD: I will gather you from the peoples and assemble you out of the countries where you have been scattered, and I will give you the land of Israel.
-</p>
-
-<p>
-v18: When they come there, they will remove all its detestable things and all its abominations from it.
-v19: I will give them one heart, and I will put a new spirit within them. I will remove the heart of stone from their flesh and give them a heart of flesh,
-v20: so that they may walk in my statutes and keep my judgments and do them. And they will be my people, and I will be their God.
-</p>
-
-<p>
-v21: But as for those whose hearts go after their detestable things and their abominations, I will bring their deeds upon their own heads," declares the LORD GOD.
-</p>
-
-<p>
-v22: Then the cherubim lifted their wings, with the wheels beside them, and the glory of the God of Israel was above them.
-</p>
-
-<p>
-v23: The glory of the LORD went up from the midst of the city and stood on the mountain east of the city.
-</p>
-
-<p>
-v24: And the Spirit lifted me up and brought me in the vision by the Spirit of God into Chaldea, to the exiles. Then the vision that I had seen went up from me.
-</p>
-
-<p>
-v25: I told the exiles all the things that the LORD had shown me.
+v22: The cherubim lifted their wings, with the wheels beside them and the glory of the God of Israel above them.
+v23: The glory of the LORD rose from the middle of the city and stopped on the mountain east of it.
+v24: A spirit lifted me and brought me in the vision, by the spirit of God, to the exiles in Chaldea. Then the vision I had seen rose away from me.
+v25: I told the exiles everything the LORD had shown me.
 </p>
 
 ## Notes
 
-v01: - **v1**: Twenty-five men are described, drawing attention to their role and numbers, which may symbolize representative leadership or governance within the city.
+v03: The first clause is difficult. It can be read as a statement, “The time to build houses is not near,” or as a question, “Is it not time to build houses?” The pot-and-meat saying is answered in verses 7–11.
 
-v05: - **v5**: The Spirit falling upon Ezekiel underscores divine inspiration, indicating the prophetic message's authority.
+v11: “Nor” carries the first clause’s negative into the coordinated second clause. The Hebrew has no second explicit negative.
 
-v13: - **v13**: Pelatiah's death is an immediate fulfillment of the prophetic word, heightening the urgency and reality of divine judgment.
-
-v19–20: - **v19-20**: The promise of a new heart and spirit highlights the transformative work of God, emphasizing inner renewal necessary for true obedience.
+v16,19: “For a little while” can also mean “in small measure.” Verse 19 retains the Hebrew’s shift from “them” to “you” and its “one heart,” rather than replacing it with “a new heart.”
 
 ## Vocabulary
 
-v01: - **v1 רוּחַ (ruach)**: Spirit, referring to God's presence and activity, indicating divine initiative in moving Ezekiel to see and understand God's will.
-
-v19: - **v19 לֵב (lev)**: Heart, symbolizing the center of will and emotion, highlighting the profound change God promises for his people.
-
-v19: לֵב (lev)
-“Heart.” The center of intention, judgment, desire, and will.
-
-v01: רוּחַ (ruach)
-“Spirit; wind; breath.” Here the term describes the force that lifts and carries Ezekiel.
+v19: **Heart of flesh**: A living heart contrasted with stone. “Flesh” here does not itself mean moral corruption.
