@@ -4,187 +4,77 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-malachi-1-4-biblical-fluency-2026-09-16
 ---
 
-## A Rebuke for the Priests
+## A warning to the priests
+
 <p>
-v01: “And now, O priests, this command is for you.
-v02: If you will not listen,
-and if you will not set it upon your heart
-to give honor to my name,”
-says the LORD of Hosts,
-“then I will send the curse upon you,
-and I will curse your blessings.
-Indeed, I have already cursed them,
-because you do not set it upon your heart.
+v01: Now, priests, this command is for you.
+v02: If you will not listen and will not take it to heart to honor my name,” says the LORD of Armies, “I will send the curse upon you and curse your blessings. Indeed, I have already cursed them, because you do not take it to heart.
 </p>
 
 <p>
-v03: Look, I will rebuke your offspring,
-and I will spread dung upon your faces,
-the dung of your festival sacrifices,
-and you will be taken away with it.
-v04: Then you will know
-that I have sent this command to you,
-that my covenant with Levi may stand,”
-says the LORD of Hosts.
+v03: I will rebuke your offspring and smear dung on your faces, dung from your festivals, and you will be carried away with it.
+v04: Then you will know that I sent you this command so my covenant with Levi might continue,” says the LORD of Armies.
 </p>
 
 <p>
-v05: “My covenant with him
-was one of life and peace,
-and I gave them to him.
-It was a covenant of fear,
-and he feared me.
-He stood in awe of my name.
-v06: True instruction was in his mouth,
-and no injustice was found on his lips.
-He walked with me in peace and uprightness,
-and he turned many from iniquity.
-v07: For the lips of a priest should guard knowledge,
-and people should seek instruction from his mouth,
-for he is the messenger of the LORD of Hosts.
+v05: “My covenant with him was life and peace. I gave these to him for reverence, and he revered me; he stood in awe of my name.
+v06: True instruction was in his mouth, and no injustice was found on his lips. He walked with me in peace and uprightness and turned many away from guilt.
+v07: For a priest’s lips should guard knowledge, and people should seek instruction from his mouth, because he is a messenger of the LORD of Armies.
 </p>
 
 <p>
-v08: But you have turned aside from the way.
-You have caused many to stumble by your instruction.
-You have corrupted the covenant of Levi,”
-says the LORD of Hosts.
-v09: “So I also have made you despised and abased before all the people,
-inasmuch as you do not keep my ways
-but show partiality in your instruction.”
+v08: But you have turned from the way. You have made many stumble through instruction. You have corrupted Levi’s covenant,” says the LORD of Armies.
+v09: “So I have made you despised and low before all the people, because you do not keep my ways and show partiality in instruction.”
 </p>
 
-## Judah’s Unfaithfulness
+## Unfaithfulness to the covenant
+
 <p>
-v10: Have we not all one Father?
-Has not one God created us?
-Why then are we faithless to one another,
-profaning the covenant of our fathers?
+v10: Do we not all have one father? Did not one God create us? Why do we betray one another, profaning our ancestors’ covenant?
 </p>
 
 <p>
-v11: Judah has been faithless,
-and an abomination has been committed in Israel and in Jerusalem.
-For Judah has profaned the sanctuary of the LORD,
-which he loves,
-and has married the daughter of a foreign god.
-v12: May the LORD cut off from the tents of Jacob
-the man who does this,
-whoever he may be,
-even if he brings an offering
-to the LORD of Hosts.
+v11: Judah has betrayed, and an abomination has been committed in Israel and Jerusalem. Judah has profaned the LORD’s holy place, which he loves, and married the daughter of a foreign god.
+v12: May the LORD cut off from Jacob’s tents anyone who does this—one who wakes and one who answers—even one who presents an offering to the LORD of Armies.
 </p>
 
 <p>
-v13: And this second thing you do:
-You cover the altar of the LORD with tears,
-with weeping and groaning,
-because he no longer regards the offering
-or accepts it with favor from your hand.
-v14: But you say,
-“Why does he not?”
-Because the LORD was witness
-between you and the wife of your youth,
-to whom you have been faithless,
-though she is your companion
-and your wife by covenant.
+v13: And this is another thing you do: you cover the LORD’s altar with tears, weeping, and groaning, because he no longer regards the offering or accepts it favorably from your hands.
+v14: You ask, “Why?” Because the LORD was witness between you and the wife of your youth, whom you have betrayed, though she is your companion and your wife by covenant.
 </p>
 
 <p>
-v15: Did he not make them one,
-with a portion of the Spirit in their union?
-And what was the one God seeking?
-Godly offspring.
-So guard yourselves in your spirit,
-and let none be faithless
-to the wife of his youth.
+v15: Did not the one make them, with a remnant of spirit belonging to him? And what was the one seeking? Offspring for God. So guard your spirit, and let no one betray the wife of his youth.
 </p>
 
 <p>
-v16: “For I hate divorce,”
-says the LORD, the God of Israel,
-“and him who covers his garment with violence,”
-says the LORD of Hosts.
-“So guard yourselves in your spirit,
-and do not be faithless.”
+v16: “For the man who hates and divorces,” says the LORD, the God of Israel, “covers his garment with violence,” says the LORD of Armies. So guard your spirit, and do not betray.
 </p>
 
-## The LORD Will Come in Judgment
+## Where is the God of justice?
+
 <p>
-v17: You have wearied the LORD with your words.
-But you say,
-“How have we wearied him?”
-By saying,
-“Everyone who does evil is good in the sight of the LORD,
-and he delights in them,”
-or by asking,
-“Where is the God of justice?”
+v17: You have wearied the LORD with your words. Yet you ask, “How have we wearied him?” By saying, “Everyone who does evil is good in the LORD’s eyes, and he delights in them,” or, “Where is the God of justice?”
 </p>
 
 ## Notes
 
-v01–09: The priests are rebuked for failing in their covenant responsibility to teach and model faithfulness.
+v03: The Hebrew “seed” can refer to offspring or seed for sowing; the draft uses offspring while retaining the ambiguity here.
 
-v02: Honor for God's name remains the central concern introduced in chapter 1.
+v12: The wake-and-answer expression is obscure. It is retained as a paired expression rather than turned into a confident identification of two social offices.
 
-v03: The graphic imagery of sacrificial refuse symbolizes the disgrace awaiting corrupt priests.
+v15: The verse’s “one,” remaining spirit, and offspring language is difficult to connect syntactically. The draft preserves the terms and marks the uncertainty rather than claiming a settled argument.
 
-v05–06: Levi is presented as an example of covenant faithfulness, reverence, and truthful instruction.
-
-v07: Priests are entrusted with preserving knowledge and communicating God's instruction to the people.
-
-v08: Corrupt teaching harms not only the teachers but also those who follow them.
-
-v10: The argument moves from priestly failure to broader covenant unfaithfulness within Judah.
-
-v11: Marriage with those devoted to foreign gods threatens covenant loyalty and spiritual identity.
-
-v13–14: The people's worship is rejected because their treatment of their spouses contradicts covenant faithfulness.
-
-v14: Marriage is described not merely as a social arrangement but as a covenant witnessed by God.
-
-v15: Faithfulness in marriage is linked to God's desire for a faithful covenant community.
-
-v16: The verse emphasizes God's opposition to covenant-breaking and relational violence.
-
-v17: The chapter closes by exposing cynical attitudes that question God's justice and moral order.
+v16: The Hebrew third-person construction is rendered as the man who hates and divorces. “I hate divorce” is another traditional construal; it is not the wording adopted here. The violence image is retained.
 
 ## Vocabulary
 
-v02: קָלַל (qālal)
-“To curse.” To place under judgment or remove blessing.
+v08: **Covenant of Levi**: The relationship invoked for priestly instruction and responsibility.
 
-v04: בְּרִית (bĕrîṯ)
-“Covenant.” A binding relationship established by solemn commitment.
-
-v05: שָׁלוֹם (šālôm)
-“Peace.” Wholeness, well-being, and covenant harmony.
-
-v06: תּוֹרַת אֱמֶת (tôraṯ ʾĕmeṯ)
-“True instruction.” Reliable teaching that accords with God's truth.
-
-v07: מַלְאַךְ (malʾāḵ)
-“Messenger.” One who represents and communicates on behalf of another.
-
-v08: מִכְשׁוֹל (miḵšôl)
-“Stumbling block.” Something that causes another to fall or go astray.
-
-v10: בָּגַד (bāgaḏ)
-“To act faithlessly.” To betray trust or violate covenant obligations.
-
-v11: תּוֹעֵבָה (tôʿēḇâ)
-“Abomination.” A detestable act that violates God's standards.
-
-v14: חָבֵר (ḥāḇēr)
-“Companion.” A close associate joined in relationship and loyalty.
-
-v14: אֵשֶׁת בְּרִיתֶךָ (ʾēšeṯ bĕrîṯeḵā)
-“Your wife by covenant.” A spouse joined through a binding covenant relationship.
-
-v16: חָמָס (ḥāmās)
-“Violence.” Harmful, destructive wrongdoing against another.
-
-v17: מִשְׁפָּט (mišpāṭ)
-“Justice.” Righteous judgment and the proper ordering of human affairs.
+v14: **Wife of your covenant**: Marriage described through a binding relationship to which the LORD is witness.

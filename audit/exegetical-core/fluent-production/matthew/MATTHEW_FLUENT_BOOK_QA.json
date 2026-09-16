@@ -1,8 +1,8 @@
 {
   "book": "Matthew",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 28,
   "public_verse_slots": 1071,
   "included_verse_labels": 1068,
@@ -255,5 +255,110 @@
       "F3": 6
     }
   },
-  "mark_comparator_main_commit": "23bd51c8380216c5f403529f8cddde22a42d7cc4"
+  "mark_comparator_main_commit": "23bd51c8380216c5f403529f8cddde22a42d7cc4",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "current_revision": {
+    "id": "fluent-matthew-1-23-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "verse_count": 810,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/matthew/MATTHEW_FLUENT_BOOK_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-matthew-1-23-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "verse_count": 810,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/matthew/MATTHEW_FLUENT_BOOK_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ],
+  "historical_publication_status_before_revision": "READY_FOR_PR_AFTER_INSTALL"
 }

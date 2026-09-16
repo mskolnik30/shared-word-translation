@@ -4,142 +4,87 @@ testament: OT
 chapter: 10
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zechariah-1-14-biblical-fluency-2026-09-16
 ---
 
-## Ask the LORD for Rain
+## Ask the LORD for rain
 
 <p>
-v01: Ask the LORD for rain
-in the season of the spring rain.
-The LORD makes the storm clouds
-and gives showers of rain to everyone,
-and plants of the field.
-
-v02: For the household gods speak emptiness,
-and the diviners see falsehood.
-They tell empty dreams
-and give comfort in vain.
-So the people wander like sheep;
-they are afflicted
-because there is no shepherd.
+v01: Ask the LORD for rain in the season of spring rain.
+The LORD makes storm clouds;
+he gives them showers of rain,
+plants in the field for everyone.
+v02: For the household gods speak nonsense,
+the diviners see lies;
+they tell empty dreams and offer empty comfort.
+So the people wander like sheep,
+afflicted because there is no shepherd.
 </p>
 
-## The LORD Will Care for the Flock
+## The flock strengthened
 
 <p>
-v03: My anger burns against the shepherds,
-and I will punish the male goats.
-For the LORD of Hosts has attended to the flock,
-the house of Judah,
-and will make them
-like a majestic horse in battle.
-
-v04: From Judah will come the cornerstone,
+v03: “My anger burns against the shepherds;
+I will punish the leading goats.”
+For the LORD of Armies attends to his flock, the house of Judah,
+and makes them like his majestic warhorse.
+v04: From Judah comes the cornerstone,
 from Judah the tent peg,
 from Judah the battle bow,
-from Judah every ruler, all together.
-
-v05: They will be like warriors in battle,
-trampling their enemies
-in the mud of the streets.
+from Judah every ruler together.
+v05: They will be like warriors
+trampling the mud of the streets in battle.
 They will fight because the LORD is with them,
-and the riders on horses will be put to shame.
+and horsemen will be put to shame.
 </p>
 
-## I Will Bring Them Back
-
 <p>
-v06: I will strengthen the house of Judah,
-and I will save the house of Joseph.
-I will bring them back,
-because I have compassion on them,
-and they will be as if
-I had never rejected them.
-For I am the LORD their God,
-and I will answer them.
-
-v07: Ephraim will be like a warrior,
-and their heart will rejoice as with wine.
+v06: “I will strengthen the house of Judah
+and save the house of Joseph.
+I will bring them back because I have compassion on them;
+they will be as though I had not rejected them.
+For I am the LORD their God, and I will answer them.
+v07: Ephraim will be like a warrior;
+their hearts will rejoice as with wine.
 Their children will see and rejoice;
-their hearts will exult in the LORD.
+their hearts will celebrate in the LORD.
+</p>
 
-v08: I will whistle for them
-and gather them,
-for I have redeemed them,
-and they will become as numerous
-as they once were.
+## The scattered gathered
+
+<p>
+v08: I will whistle for them and gather them,
+for I have redeemed them.
+They will be as numerous as before.
 </p>
 
 <p>
-v09: Though I scattered them among the peoples,
-they will remember me in distant lands.
-They will live with their children
-and return.
-
-v10: I will bring them back from the land of Egypt
+v09: I will sow them among the peoples,
+and in distant lands they will remember me.
+They will live with their children and return.
+v10: I will bring them back from Egypt
 and gather them from Assyria.
-I will bring them into the land of Gilead
-and Lebanon,
+I will bring them to Gilead and Lebanon,
 until there is no room for them.
-
-v11: They will pass through the sea of distress;
-the waves of the sea will be struck,
-and all the depths of the Nile will dry up.
-The pride of Assyria will be brought down,
-and the scepter of Egypt will depart.
-
+v11: He will pass through the sea of distress
+and strike the waves of the sea;
+all the depths of the Nile will dry up.
+Assyria’s pride will be brought down,
+and Egypt’s scepter will depart.
 v12: I will strengthen them in the LORD,
-and they will walk in the LORD’s name,
-says the LORD.
+and they will walk in his name,”
+declares the LORD.
 </p>
 
 ## Notes
 
-v01: “spring rain” — The later seasonal rains were especially important for bringing crops toward maturity. The verse contrasts dependence upon the LORD with the false religious practices condemned immediately afterward.
-
-v02: “household gods” — The Hebrew *teraphim* refers to cultic or household objects associated with divination or domestic religious practice.
-
-v03: “shepherds … male goats” — Both images refer to leaders. The LORD condemns failed leadership and then personally attends to the flock.
-
-v04: “cornerstone … tent peg … battle bow” — Several images of stability, support, military strength, and leadership accumulate around Judah without being reduced to a single figure.
-
-v06: “as though I had never rejected them” — Restoration is described so fully that the former experience of rejection no longer determines the relationship.
-
-v08: “I will whistle for them” — The image portrays the LORD summoning a scattered people with a simple signal they recognize.
-
-v09: “they will remember me” — Dispersion among the nations does not end the covenant relationship. Memory becomes part of the movement toward return.
-
-v10: Egypt and Assyria represent major places of historical oppression and dispersion. The gathering extends beyond the immediate Babylonian exile.
-
-v11: “sea of distress” — The Hebrew wording evokes both literal waters and the experience of oppression. The following references to sea and Nile recall earlier biblical deliverance traditions without explicitly identifying one event.
-
-v12: “walk in the LORD’s name” — The restored community’s life is characterized by belonging to and acting under the identity of the LORD.
+v11: The subject of the passage through the sea of distress is not fully explicit. The draft preserves the singular movement without naming a new actor.
 
 ## Vocabulary
 
-v01: מַלְקוֹשׁ (malqosh)
-“Spring rain” or “latter rain.” Seasonal rain arriving toward the end of the rainy season.
+v02: **Household gods (teraphim)**: Household cult objects associated here with deceptive guidance.
 
-v02: תְּרָפִים (teraphim)
-“Household gods.” Cultic objects associated with domestic religion or divination.
-
-v02: קָסַם (qasam)
-“To divine.” To seek hidden knowledge or guidance through divinatory practice.
-
-v03: פָּקַד (paqad)
-“To attend to,” “visit,” or “call to account.” The same root can describe both judgment and attentive care depending on context.
-
-v04: פִּנָּה (pinnah)
-“Corner” or “cornerstone.” That which gives strength or orientation to a structure.
-
-v06: רָחַם (racham)
-“To have compassion.” To show deep mercy or care toward one in distress.
-
-v08: שָׁרַק (sharaq)
-“To whistle.” To summon by a sharp sound, here used for the LORD gathering the dispersed people.
-
-v08: פָּדָה (padah)
-“To redeem” or “ransom.” To secure release or reclaim someone from bondage.
-
-v12: הָלַךְ (halakh)
-“To walk.” Frequently used metaphorically for a manner or pattern of life.
+v04: **Cornerstone; tent peg**: Images of stable support joined to images of leadership and strength.

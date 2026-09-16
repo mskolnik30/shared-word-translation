@@ -2,200 +2,70 @@
   "book": "Zechariah",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "publication_allowed": false,
+  "revision_id": "fluent-zechariah-1-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+    "path": "audit/exegetical-core/fluent-production/zechariah/Zechariah_05_review.json"
+  },
   "source": {
-    "type": "oshb",
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Zech",
+    "book_verse_count": 211,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "repository": "openscriptures/morphhb",
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Zech.xml",
-    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "openscriptures/morphhb",
-    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
-    "file": "wlc/Zech.xml",
     "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Zechariah 5:1",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 1,
-            "source_ref": "Zechariah 5:1",
-            "segment_mode": "whole",
-            "sha256": "d45a147c8c22d7b4dc776e3f6380a4b369047a84452c694a4ebc528b9859d90a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d45a147c8c22d7b4dc776e3f6380a4b369047a84452c694a4ebc528b9859d90a"
-      },
-      "2": {
-        "source_ref": "Zechariah 5:2",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 2,
-            "source_ref": "Zechariah 5:2",
-            "segment_mode": "whole",
-            "sha256": "d63db012bdd383ed8f0f947a5ee2a89ecab0bacbcae08a799b81c45e2c72e4bb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d63db012bdd383ed8f0f947a5ee2a89ecab0bacbcae08a799b81c45e2c72e4bb"
-      },
-      "3": {
-        "source_ref": "Zechariah 5:3",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 3,
-            "source_ref": "Zechariah 5:3",
-            "segment_mode": "whole",
-            "sha256": "af8144f13100ed48c5b104a727acdfbde49c855ceb40e0cf2c43e5c50070c963"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af8144f13100ed48c5b104a727acdfbde49c855ceb40e0cf2c43e5c50070c963"
-      },
-      "4": {
-        "source_ref": "Zechariah 5:4",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 4,
-            "source_ref": "Zechariah 5:4",
-            "segment_mode": "whole",
-            "sha256": "1b4975dc56b3c4973c947a20b0003818f602a85019d318f86181deaa74902963"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1b4975dc56b3c4973c947a20b0003818f602a85019d318f86181deaa74902963"
-      },
-      "5": {
-        "source_ref": "Zechariah 5:5",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 5,
-            "source_ref": "Zechariah 5:5",
-            "segment_mode": "whole",
-            "sha256": "baab2024df628405fd0f6e2b07de377d1bda3575d1b6dcc1363e4a6577ed7c61"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "baab2024df628405fd0f6e2b07de377d1bda3575d1b6dcc1363e4a6577ed7c61"
-      },
-      "6": {
-        "source_ref": "Zechariah 5:6",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 6,
-            "source_ref": "Zechariah 5:6",
-            "segment_mode": "whole",
-            "sha256": "07a6de34bda381d974d26ba6a1199b2887db93c1a4b49d272ebba84fcccea01e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "07a6de34bda381d974d26ba6a1199b2887db93c1a4b49d272ebba84fcccea01e"
-      },
-      "7": {
-        "source_ref": "Zechariah 5:7",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 7,
-            "source_ref": "Zechariah 5:7",
-            "segment_mode": "whole",
-            "sha256": "7c4faee8092e650a3ca10f0554a628203dfa33eb53973f4c52519e626f0bcf1e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7c4faee8092e650a3ca10f0554a628203dfa33eb53973f4c52519e626f0bcf1e"
-      },
-      "8": {
-        "source_ref": "Zechariah 5:8",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 8,
-            "source_ref": "Zechariah 5:8",
-            "segment_mode": "whole",
-            "sha256": "3bb919e26ec8f8bff20df18ee5c4a247b2bb4e9778ad5cc7cc534a536370e5ae"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3bb919e26ec8f8bff20df18ee5c4a247b2bb4e9778ad5cc7cc534a536370e5ae"
-      },
-      "9": {
-        "source_ref": "Zechariah 5:9",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 9,
-            "source_ref": "Zechariah 5:9",
-            "segment_mode": "whole",
-            "sha256": "50dc037a859a00cbba9bf866e73ffdeb2466a585e3aec4b112f0dcc853de8f19"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "50dc037a859a00cbba9bf866e73ffdeb2466a585e3aec4b112f0dcc853de8f19"
-      },
-      "10": {
-        "source_ref": "Zechariah 5:10",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 10,
-            "source_ref": "Zechariah 5:10",
-            "segment_mode": "whole",
-            "sha256": "b8ecabe4877822d79c803ea712437a69236095e32b97d771883335026ae24e25"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8ecabe4877822d79c803ea712437a69236095e32b97d771883335026ae24e25"
-      },
-      "11": {
-        "source_ref": "Zechariah 5:11",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 11,
-            "source_ref": "Zechariah 5:11",
-            "segment_mode": "whole",
-            "sha256": "30d448c09ea759ec73c2271df4fc41e3c4c07f297f6e1221f3d8a0153ebcbf5b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "30d448c09ea759ec73c2271df4fc41e3c4c07f297f6e1221f3d8a0153ebcbf5b"
-      }
+    "sha256": "7c602e934dea8e5e4d10d578a8dacd9e0a814c2cdacee233547dcfe44df37c64",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Zech.xml",
+    "languages": [
+      "Hebrew"
+    ],
+    "verse_hash_method": "SHA-256 of exact original XML verse substring including written/read and other annotations.",
+    "extra_source_references": [],
+    "excluded_source_references": [],
+    "public_versification_note": "Exact XML records mapped to public labels; Zechariah 1:18–2:13 and Malachi 4 have different Hebrew chapter boundaries."
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 11,
+    "path": "translations/fluent/OT/zechariah/Zechariah_05.md",
+    "before_sha256": "8f741435e7d86c382284e41dde766c38584721cd36f96f196853e88e0312d541",
+    "after_sha256": "fd112dbda4d9eb960c71035152e73e8ee22eb295d61c6643e572b731031a7fdd",
+    "tsw_comparator_path": "books/OT/zechariah/Zechariah_05.md",
+    "tsw_comparator_sha256": "a284337e298fe9a5950711b02e9e04fb486f5edbe6d9b5589c245e4aff47c5f2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-zechariah-1-14/zechariah-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Zechariah 5:3",
+      "decision": "Chooses swept-away and two-sided reading for difficult wording, with alternatives identified in notes.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Zechariah 5:6",
+      "decision": "Preserves ephah and the pinned eye/appearance reading rather than silently changing to iniquity.",
+      "delta": "F3"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/OT/zechariah/Zechariah_05.md",
-    "blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

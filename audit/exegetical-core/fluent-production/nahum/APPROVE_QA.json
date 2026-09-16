@@ -5,28 +5,28 @@
   "chapter_reviews_complete": false,
   "curated_f3_decisions_acknowledged": 3,
   "required_disposition": "REVIEW_PENDING",
-  "publication_note": "Changed wording is an editorial draft. Earlier approval is historical and does not transfer.",
+  "publication_note": "Prior wording approval does not transfer.",
   "publication_allowed": false,
   "editorial_review_pending_chapters": [
     1,
-    2
+    2,
+    3
   ],
   "current_revision": {
-    "id": "fluent-nahum-1-2-biblical-fluency-2026-09-16",
+    "id": "fluent-nahum-3-3-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2
+      3
     ],
-    "verse_count": 28,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-nahum-1-2/nahum-verse-review.json",
+    "verse_count": 19,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-nahum-3-3/nahum-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "f3479755c5b890a8d1d03254bd18a6eaa77c26e1",
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
       "path": "audit/exegetical-core/fluent-production/nahum/APPROVE_QA.json"
     },
-    "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
   },
   "revision_batches": [
     {
@@ -45,10 +45,27 @@
         "path": "audit/exegetical-core/fluent-production/nahum/APPROVE_QA.json"
       },
       "note": "Changed chapters supersede old wording approvals/bindings only. Historical records retained; independent editorial review and reader testing pending. Companion quotes and bindings require later reconciliation."
+    },
+    {
+      "id": "fluent-nahum-3-3-biblical-fluency-2026-09-16",
+      "chapters": [
+        3
+      ],
+      "verse_count": 19,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-nahum-3-3/nahum-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/nahum/APPROVE_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
     }
   ],
   "chapter_reviews_pending": [
     1,
-    2
+    2,
+    3
   ]
 }

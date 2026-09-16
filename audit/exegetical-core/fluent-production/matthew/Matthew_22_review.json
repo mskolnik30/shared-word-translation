@@ -2,43 +2,106 @@
   "book": "Matthew",
   "chapter": 22,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_22.md",
-  "canonical_tsw_sha": "04914caa297e6d0e2666d2dded7f77c41e9c1b6d",
+  "revision_id": "fluent-matthew-1-23-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_22_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of original tab-separated Greek verse text, retaining variant markers and whitespace."
   },
-  "chapter_focus": [
-    "wedding banquet",
-    "Caesar/God",
-    "resurrection",
-    "great commandments"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 22,
+    "verse_count": 46,
+    "path": "translations/fluent/NT/matthew/Matthew_22.md",
+    "before_sha256": "7f85504a580e3dd463b39c489fc498af6bc44acc50d85d746adb7a7232df6303",
+    "after_sha256": "535006c0d02825e85d87b54c44e9d8ec833e1a6bc4e4435507f3809931ae05fd",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_22.md",
+    "tsw_comparator_sha256": "33b88169bd23cde84092153d2567faa3d62a70b2e5c7bf140b8b3676ddc84f02"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "11",
-      "decision": "wedding garment not interpreted"
+      "reference": "Matthew 22:11",
+      "decision": "Preserves the missing attire without inventing a provision custom.",
+      "delta": "F3"
     },
     {
-      "location": "21",
-      "decision": "give back Caesar/God"
+      "reference": "Matthew 22:12",
+      "decision": "Keeps the address, question, and silence.",
+      "delta": "F3"
     },
     {
-      "location": "37",
-      "decision": "psychē as life"
+      "reference": "Matthew 22:13",
+      "decision": "Distinguishes attendants from slaves and retains the judgment refrain.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 22:14",
+      "decision": "Keeps the concise called/chosen contrast without doctrinal expansion.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 22:21",
+      "decision": "Keeps give-back force and the parallel claims without a political system added.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 22:30",
+      "decision": "Retains simile rather than saying humans become angels.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 22:37",
+      "decision": "Keeps all three faculties and repeated totality without adding strength.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 22:44",
+      "decision": "Preserves two Lords, right-hand position, and pinned beneath rather than footstool.",
+      "delta": "F3"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 3,
-    "F1": 15,
-    "F2": 21,
-    "F3": 7
-  }
+  ]
 }

@@ -4,173 +4,63 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-malachi-1-4-biblical-fluency-2026-09-16
 ---
 
-## The LORD's Love for Israel
+## The LORD’s word
+
 <p>
-v01: The oracle of the word of the LORD to Israel by Malachi.
+v01: An oracle: the word of the LORD to Israel through Malachi.
+</p>
+
+## Love and contempt
+
+<p>
+v02: “I have loved you,” says the LORD. But you ask, “How have you loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet I loved Jacob,
+v03: but Esau I hated. I made his mountains a wasteland and his inheritance a place for desert jackals.”
+v04: Edom may say, “We are shattered, but we will return and rebuild the ruins.” Yet the LORD of Armies says, “They may build, but I will tear down. They will be called ‘Wicked Territory’ and ‘The People with Whom the LORD Is Angry Forever.’”
+v05: You will see it with your own eyes and say, “Great is the LORD beyond Israel’s borders!”
+</p>
+
+## Offerings that dishonor the LORD
+
+<p>
+v06: “A son honors his father, and a slave his master. If I am a father, where is my honor? If I am a master, where is the fear of me?” says the LORD of Armies to you priests who despise my name. “But you ask, ‘How have we despised your name?’
 </p>
 
 <p>
-v02: “I have loved you,” says the LORD.
-But you say,
-“How have you loved us?”
-“Was not Esau Jacob's brother?” declares the LORD.
-“Yet I loved Jacob,
-v03: but Esau I hated.
-I laid waste his hill country
-and gave his inheritance
-to the jackals of the wilderness.”
-v04: If Edom says,
-“We are shattered,
-but we will rebuild the ruins,”
-the LORD of Hosts says:
-“They may build,
-but I will tear down,
-and they will be called
-‘The Wicked Land’
-and
-‘The People Against Whom the LORD Is Indignant Forever.’
-v05: Your eyes will see this,
-and you will say,
-‘Great is the LORD
-beyond the borders of Israel.’”
-</p>
-
-## Polluted Offerings on the Altar
-<p>
-v06: “A son honors his father,
-and a servant his master.
-If then I am a father,
-where is my honor?
-And if I am a master,
-where is my fear?”
-says the LORD of Hosts to you,
-O priests who despise my name.
-But you say,
-‘How have we despised your name?’
+v07: By presenting polluted food on my altar. You ask, ‘How have we polluted you?’ By saying, ‘The LORD’s table deserves contempt.’
+v08: When you present blind animals for sacrifice, is that not wrong? When you present lame or sick animals, is that not wrong? Offer one to your governor! Would he be pleased with you or receive you favorably?” says the LORD of Armies.
 </p>
 
 <p>
-v07: “By offering polluted food upon my altar.
-But you say,
-‘How have we polluted you?’
-By saying that the table of the LORD may be despised.
-v08: When you offer blind animals in sacrifice,
-is that not evil?
-And when you offer those that are lame or sick,
-is that not evil?
-Present that to your governor.
-Will he accept you
-or show you favor?”
-says the LORD of Hosts.
+v09: “Now seek God’s favor, so he may be gracious to us. With this coming from your hands, will he receive any of you favorably?” says the LORD of Armies.
+v10: “If only someone among you would shut the doors, so you would not kindle my altar for nothing! I take no pleasure in you,” says the LORD of Armies, “and I will accept no offering from your hands.
 </p>
 
 <p>
-v09: “And now entreat the favor of God,
-that he may be gracious to us.
-With such a gift from your hand,
-will he show favor to any of you?”
-says the LORD of Hosts.
-v10: “Oh that there were one among you
-who would shut the doors,
-so that you might not kindle fire on my altar in vain.
-I have no pleasure in you,”
-says the LORD of Hosts,
-“and I will not accept an offering from your hand.
+v11: For from sunrise to sunset my name is great among the nations. In every place incense and a pure offering are presented to my name, for my name is great among the nations,” says the LORD of Armies.
+v12: “But you profane it by saying, ‘The Lord’s table is polluted, and its food is contemptible.’
+v13: You say, ‘What a burden!’ and sniff at it,” says the LORD of Armies. “You bring stolen, lame, and sick animals as your offering. Should I accept that from your hands?” says the LORD.
 </p>
 
 <p>
-v11: For from the rising of the sun
-to its setting
-my name is great among the nations.
-In every place
-incense is offered to my name,
-and a pure offering.
-For my name is great among the nations,”
-says the LORD of Hosts.
-
-v12: “But you profane it when you say,
-‘The table of the LORD is polluted,
-and its fruit, that is, its food, may be despised.’
-v13: You also say,
-‘What a weariness this is,’
-and you snort at it,”
-says the LORD of Hosts.
-“You bring what has been taken by violence,
-or is lame,
-or sick,
-and this you bring as your offering.
-Will I accept that from your hand?”
-says the LORD.
-</p>
-
-<p>
-v14: “Cursed be the deceiver
-who has a male in his flock
-and vows it,
-yet sacrifices to the Lord
-what is blemished.
-For I am a great King,”
-says the LORD of Hosts,
-“and my name is feared among the nations.”
+v14: “Cursed is the cheat who has a male in his flock and makes a vow but sacrifices a blemished animal to the Lord. For I am a great King,” says the LORD of Armies, “and my name is feared among the nations.
 </p>
 
 ## Notes
 
-v02–05: God's love for Israel is demonstrated through his covenant choice of Jacob and his preservation of Israel in contrast to Edom.
+v01: Malachi can be read as a personal name or as “my messenger.”
 
-v06: The priests are addressed directly because they bear responsibility for the condition of Israel's worship.
+v02–03: Loved and hated are retained with their force in the contrast between Jacob and Esau; the note does not reduce them to mild preference.
 
-v07–08: The issue is not merely ritual correctness but the attitude behind the offerings. Animals unfit for ordinary civic honor are presented to God.
-
-v10: The LORD declares that empty religious activity is worse than no sacrifice at all.
-
-v11: God's name will be honored among the nations, anticipating a worldwide recognition of his greatness.
-
-v12–13: The priests treat worship as a burden rather than a privilege, revealing contempt for the LORD.
-
-v13: The offerings violate the standards established in the law by presenting damaged and defective animals.
-
-v14: The chapter concludes by emphasizing God's kingship over all nations, not merely Israel.
+v11: The Hebrew describes the offering with present participial language. The draft leaves its relation to the surrounding future hope open.
 
 ## Vocabulary
 
-v01: מַשָּׂא (maśśāʾ)
-“Oracle” or “burden.” A prophetic message bearing divine authority.
+v06: **Honor**: The respect due within the father/son and master/servant comparisons.
 
-v02: אָהַב (ʾāhaḇ)
-“To love.” Covenant affection and commitment.
-
-v03: שָׂנֵא (śānēʾ)
-“To hate.” Here expressing covenant rejection in contrast to covenant choice.
-
-v06: כָּבֵד (kāḇēḏ)
-“To honor.” To give proper weight, respect, and glory.
-
-v14: יָרֵא (yārēʾ)
-“To fear.” Reverent awe and respect toward God.
-
-v14: נֶדֶר (neder)
-“Vow.” A solemn promise made before God.
-
-v14: מֶלֶךְ גָּדוֹל (meleḵ gādôl)
-“Great King.” A title emphasizing God's universal sovereignty.
-
-v14: נוֹרָא (nôrāʾ)
-“Feared” or “awesome.” Inspiring reverence and awe.
-
-v07: גָּאַל (gāʾal)
-“To defile” or “pollute.” To treat as common what is holy.
-
-v08: עִוֵּר (ʿiwwēr)
-“Blind.” An animal disqualified for sacrifice.
-
-v10: רָצוֹן (rāṣôn)
-“Acceptance” or “favor.” Divine approval of worship.
-
-v11: שֵׁם (šēm)
-“Name.” Representing God's character, reputation, and authority.
-
-v13: גָּזַל (gāzal)
-“To seize” or “take by violence.” Property obtained unjustly.
+v11: **Incense**: A fragrant offering associated with worship.

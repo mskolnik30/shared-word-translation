@@ -1,7 +1,7 @@
 {
   "book": "Zechariah",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 14,
   "public_verse_slots": 211,
   "included_verse_labels": 211,
@@ -132,5 +132,82 @@
         "blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "current_revision": {
+    "id": "fluent-zechariah-1-14-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "verse_count": 211,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-zechariah-1-14/zechariah-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/zechariah/ZECHARIAH_FLUENT_BOOK_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-zechariah-1-14-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "verse_count": 211,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-zechariah-1-14/zechariah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/zechariah/ZECHARIAH_FLUENT_BOOK_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ]
 }

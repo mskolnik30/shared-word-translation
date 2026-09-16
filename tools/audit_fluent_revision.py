@@ -50,11 +50,26 @@ def audit(root, ledger, source_bytes):
                 check(reference not in source_verses, f'duplicate source reference: {reference}')
                 source_verses[reference] = record
     else:
+        all_source_verses = {}
         for line in source_bytes.decode().splitlines():
             match = re.match(r'([^\t]+)\t(.*)', line)
             if match:
-                check(match[1] not in source_verses, f'duplicate source reference: {match[1]}')
-                source_verses[match[1]] = match[2]
+                check(match[1] not in all_source_verses, f'duplicate source reference: {match[1]}')
+                all_source_verses[match[1]] = match[2]
+        if 'scope_chapters' in source:
+            scope = source['scope_chapters']
+            check(scope == sorted(set(scope)) and bool(scope), 'invalid source chapter scope')
+            check(scope == [c['chapter'] for c in ledger['chapters']], 'chapter/source scope differs')
+            check(len(all_source_verses) == source['book_verse_count'], 'source book count differs')
+            for ref, value in all_source_verses.items():
+                parsed = re.fullmatch(r'(.+) (\d+):(\d+)', ref)
+                check(bool(parsed), f'invalid source reference: {ref}')
+                if parsed:
+                    check(parsed[1] == source['osis_book_id'], f'unexpected source book: {ref}')
+                    if parsed[1] == source['osis_book_id'] and int(parsed[2]) in scope:
+                        source_verses[ref] = value
+        else:
+            source_verses = all_source_verses
     # A public verse can contain several complete source records (e.g. Num 26:1).
     # Keep each original record and hash separately; never hash normalized joins.
     references = []
@@ -164,7 +179,19 @@ def audit(root, ledger, source_bytes):
                   f"missing omission explanation: {chapter['path']}")
         expected = [f'{v:02}' for v in range(1, maximum + 1) if v not in omitted]
         check(list(after) == expected, f"verse sequence mismatch: {chapter['path']}")
-        comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)]
+        comparator_omitted = chapter.get('tsw_omitted_public_labels', [])
+        valid_comparator_omission = (isinstance(comparator_omitted, list)
+                                    and all(type(v) is int for v in comparator_omitted)
+                                    and comparator_omitted == sorted(set(comparator_omitted))
+                                    and set(comparator_omitted).issubset(omitted))
+        check(valid_comparator_omission, f'invalid comparator omitted labels: {chapter["path"]}')
+        if not valid_comparator_omission:
+            comparator_omitted = []
+        if comparator_omitted:
+            check(bool(chapter.get('tsw_omission_reason', '').strip()),
+                  f'missing comparator omission explanation: {chapter["path"]}')
+        comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)
+                               if v not in comparator_omitted]
         check(list(old) == list(after) and list(tsw) == comparator_expected,
               f"verse alignment mismatch: {chapter['path']}")
         chapters[chapter['chapter']] = (after, old, tsw)

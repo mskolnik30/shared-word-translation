@@ -4,211 +4,73 @@ testament: OT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zechariah-1-14-biblical-fluency-2026-09-16
 ---
 
-## The LORD Returns to Zion
+## Jerusalem restored
 
 <p>
-v01: Then the word of the LORD of Hosts came:
-
-v02: Thus says the LORD of Hosts:
-
-“I am deeply jealous for Zion,
-with great jealousy,
-and with great fury
-I am jealous for her.
-
-v03: Thus says the LORD:
-
-I have returned to Zion
-and will dwell among Jerusalem.
-Jerusalem will be called
-the City of Truth,
-and the mountain of the LORD of Hosts,
-the Holy Mountain.
-</p>
-
-## Old and Young in the Streets
-
-<p>
-v04: Thus says the LORD of Hosts:
-
-Old men and old women
-will again sit in the streets of Jerusalem,
-each with a staff in hand
-because of great age.
-
-v05: And the streets of the city
-will be filled with boys and girls
-playing in its streets.
-
-v06: Thus says the LORD of Hosts:
-
-If this is marvelous
-in the eyes of the remnant of this people
-in those days,
-will it also be marvelous in my eyes?
-says the LORD of Hosts.
-</p>
-
-## I Will Bring My People Home
-
-<p>
-v07: Thus says the LORD of Hosts:
-
-Look, I am saving my people
-from the land of the sunrise
-and from the land of the setting sun.
-
-v08: I will bring them,
-and they will dwell in Jerusalem.
-They will be my people,
-and I will be their God,
-in truth and in righteousness.
-</p>
-
-## Let Your Hands Be Strong
-
-<p>
-v09: Thus says the LORD of Hosts:
-
-“Let your hands be strong, you who in these days hear these words from the mouth of the prophets who were present when the foundation of the house of the LORD of Hosts was laid, so that the temple might be built.
-
-v10: For before those days there was no wage for a person and no wage for an animal. There was no peace from the enemy for the one going out or coming in, for I set everyone against their neighbor.
-
-v11: But now I will not be toward the remnant of this people as in former days, says the LORD of Hosts.
-
-v12: For there will be a sowing of peace:
-the vine will give its fruit,
-the ground will give its produce,
-and the heavens will give their dew.
-I will cause the remnant of this people
-to inherit all these things.
-
-v13: And just as you were a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will become a blessing. Do not be afraid; let your hands be strong.”
-</p>
-
-## I Have Purposed to Do Good
-
-<p>
-v14: For thus says the LORD of Hosts:
-
-“Just as I purposed to bring disaster upon you when your ancestors provoked me to wrath, says the LORD of Hosts, and I did not relent,
-
-v15: so again in these days I have purposed to do good to Jerusalem and to the house of Judah. Do not be afraid.
-
-v16: These are the things you will do:
-
-Speak truth to one another;
-judge with truth and peaceful justice
-in your gates.
-
-v17: Do not devise evil
-against one another in your hearts,
-and do not love a false oath,
-for all these are things that I hate,
-says the LORD.”
-</p>
-
-## Fasts Will Become Feasts
-
-<p>
-v18: Then the word of the LORD of Hosts came to me:
-
-v19: Thus says the LORD of Hosts:
-
-“The fast of the fourth month,
-the fast of the fifth,
-the fast of the seventh,
-and the fast of the tenth
-will become joy and gladness
-and good appointed festivals
-for the house of Judah.
-
-So love truth and peace.”
-</p>
-
-## Many Peoples Will Seek the LORD
-
-<p>
-v20: Thus says the LORD of Hosts:
-
-“Peoples will yet come,
-and inhabitants of many cities.
-
-v21: The inhabitants of one city will go to another, saying,
-‘Let us go at once
-to seek the favor of the LORD
-and to seek the LORD of Hosts.
-I myself am going.’
-
-v22: Many peoples and mighty nations will come to seek the LORD of Hosts in Jerusalem and to seek the favor of the LORD.
+v01: The word of the LORD of Armies came:
+v02: The LORD of Armies says, “I am deeply jealous for Zion; with great fury I am jealous for her.”
+v03: The LORD says, “I have returned to Zion and will dwell within Jerusalem. Jerusalem will be called the City of Faithfulness, and the mountain of the LORD of Armies, the Holy Mountain.”
 </p>
 
 <p>
-v23: Thus says the LORD of Hosts:
+v04: The LORD of Armies says, “Old men and old women will again sit in Jerusalem’s squares, each with a staff in hand because of their great age.
+v05: The city’s squares will be full of boys and girls playing there.”
+v06: The LORD of Armies says, “If this seems impossible to the remnant of these people in those days, must it seem impossible to me?” declares the LORD of Armies.
+</p>
 
-“In those days ten people from every language of the nations will take hold of the robe of a Jewish person, saying, ‘Let us go with you, for we have heard that God is with you.’”
+<p>
+v07: The LORD of Armies says, “I will save my people from the eastern land and from the land of the setting sun.
+v08: I will bring them back, and they will live within Jerusalem. They will be my people, and I will be their God in faithfulness and righteousness.”
+</p>
+
+## Let your hands be strong
+
+<p>
+v09: The LORD of Armies says, “Let your hands be strong, you who now hear these words from the prophets who spoke when the foundation of the house of the LORD of Armies was laid, for the temple to be built.
+v10: Before those days there were no wages for people or payment for animals. No one could come or go safely because of the enemy, and I set everyone against their neighbor.
+v11: But now I will not deal with the remnant of these people as in the former days,” declares the LORD of Armies.
+v12: “For there will be a sowing of peace: the vine will yield its fruit, the earth its produce, and the heavens their dew. I will give the remnant of these people all these things as an inheritance.
+v13: Just as you became a curse among the nations, house of Judah and house of Israel, so I will save you, and you will become a blessing. Do not be afraid; let your hands be strong.”
+</p>
+
+<p>
+v14: For the LORD of Armies says, “Just as I planned to bring harm on you when your ancestors provoked me to anger,” says the LORD of Armies, “and did not relent,
+v15: so in these days I have again planned to do good to Jerusalem and the house of Judah. Do not be afraid.
+v16: These are the things you must do: speak truth to one another; in your gates, judge with truth and judgments that bring peace.
+v17: Do not plan harm against your neighbor in your hearts, and do not love false oaths. I hate all these things,” declares the LORD.
+</p>
+
+## Fasts become festivals
+
+<p>
+v18: The word of the LORD of Armies came to me:
+v19: The LORD of Armies says, “The fasts of the fourth, fifth, seventh, and tenth months will become joy, gladness, and good festivals for the house of Judah. So love truth and peace.”
+</p>
+
+<p>
+v20: The LORD of Armies says, “Peoples and residents of many cities will yet come.
+v21: Residents of one city will go to another and say, ‘Let us go at once to seek the LORD’s favor and to seek the LORD of Armies. I too will go!’
+v22: Many peoples and powerful nations will come to seek the LORD of Armies in Jerusalem and to seek the LORD’s favor.”
+</p>
+
+<p>
+v23: The LORD of Armies says, “In those days ten men from every language of the nations will grasp the edge of a Jewish man’s garment and say, ‘Let us go with you, because we have heard that God is with you.’”
 </p>
 
 ## Notes
 
-v02: “jealous” — The Hebrew *qana* describes intense, exclusive commitment. The same word can carry the senses of jealousy and zeal; the surrounding language emphasizes the LORD’s passionate commitment to Zion.
+v03: The naming of Jerusalem and the mountain describes their restored character; it does not rename every earlier occurrence.
 
-v03: “City of Truth” — “Truth” can also carry the sense of faithfulness or reliability. The restored city is characterized by the qualities expected of the LORD and the renewed community.
-
-v04–05: Restoration is pictured through ordinary public life: elderly people living long enough to sit safely in the streets and children able to play there.
-
-v06: “marvelous” — The Hebrew can mean extraordinary, difficult, or beyond ordinary possibility. What appears impossible to the remnant is not thereby impossible for the LORD.
-
-v07: “land of the sunrise … land of the setting sun” — East and west function together to describe the broad reach of the LORD’s gathering work.
-
-v08: “They shall be my people, and I will be their God” — Covenant language is renewed within the promise of return and dwelling.
-
-v10: “I set everyone against their neighbor” — The instability preceding restoration is described not only as external conflict but as social fragmentation within the community.
-
-v12: “a sowing of peace” — The Hebrew phrase is compressed and unusual. Peace is associated with the renewed fertility of vine, ground, and heavens.
-
-v13: “a curse … a blessing” — The community’s former reputation among the nations is reversed. Restoration is expressed in language recalling earlier biblical promises concerning blessing.
-
-v16: “in your gates” — City gates served as places of judgment and public decision. Truth and peace are therefore to shape concrete communal institutions, not merely private conduct.
-
-v19: The four fasts correspond to stages in Jerusalem’s destruction and its aftermath. The answer to the question raised in chapter 7 is not simply that fasting stops; days of mourning are transformed into communal joy.
-
-v19: “love truth and peace” — The transformation of religious practice is inseparable from the ethical life demanded in the preceding verses.
-
-v21–22: The nations do not merely observe Zion’s restoration. They actively seek the LORD and invite one another to make the journey.
-
-v23: “ten people” — Ten functions as an image of abundance rather than necessarily as a limit. People from the nations recognize God’s presence with the restored people and seek to accompany them.
+v19: The four fast months remain distinct even as their observance is transformed into joy.
 
 ## Vocabulary
 
-v02: קָנָא (qana)
-“To be jealous” or “zealous.” Intense commitment directed here toward Zion.
+v08: **Faithfulness and righteousness**: Terms describing the reliability and rightness of the restored relationship.
 
-v03: אֱמֶת (emet)
-“Truth,” “faithfulness,” or “reliability.” That which is firm and trustworthy.
-
-v06: פָּלָא (pala)
-“To be marvelous,” “extraordinary,” or “difficult.” Something beyond ordinary human expectation or ability.
-
-v08: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness expressed in relationship, conduct, and faithful ordering.
-
-v12: שָׁלוֹם (shalom)
-“Peace,” “wholeness,” or “well-being.” Here peace includes social security, agricultural abundance, and restored communal life.
-
-v13: בְּרָכָה (berakhah)
-“Blessing.” Favor that gives life, flourishing, and benefit to others.
-
-v16: מִשְׁפַּט שָׁלוֹם (mishpat shalom)
-“Peaceful justice” or “judgment of peace.” Judicial action ordered toward truth and communal wholeness.
-
-v19: מוֹעֵד (moed)
-“Appointed time,” “festival,” or “appointed gathering.” A designated occasion, especially for communal worship.
-
-v21: חָלָה פְנֵי (chalah pene)
-“To seek favor.” Literally to entreat or soften the face of another, here describing earnest approach to the LORD.
-
-v23: כָּנָף (kanaf)
-“Wing,” “edge,” or “corner.” Here the edge or corner of a garment that people from the nations grasp as they ask to accompany one of Judah.
+v23: **Garment corner**: The edge grasped in the image of people seeking to accompany a Judean.

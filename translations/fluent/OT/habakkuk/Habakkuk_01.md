@@ -4,172 +4,99 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-habakkuk-1-3-biblical-fluency-2026-09-16
 ---
 
-## The Oracle Habakkuk Saw
+## The prophet’s burden
 
 <p>
 v01: The oracle that Habakkuk the prophet saw.
 </p>
 
-## How Long Will I Cry for Help?
+## How long?
 
 <p>
-v02: How long, O LORD,
-will I cry for help,
-and you do not hear?
-I cry to you, “Violence!”
-and you do not save.
-
-v03: Why do you make me see iniquity,
-and why do you look upon trouble?
-Destruction and violence are before me;
-strife arises,
-and contention lifts itself up.
-
-v04: So instruction grows numb,
-and justice never goes forth.
-For the wicked surrounds the righteous;
-so justice goes forth twisted.
+v02: How long, LORD, must I cry for help
+while you do not listen?
+I cry out to you, “Violence!”
+but you do not save.
+v03: Why do you make me see wrongdoing
+and look on at misery?
+Destruction and violence confront me;
+strife breaks out and conflict rises.
+v04: So instruction is paralyzed,
+and justice never prevails.
+The wicked surround the righteous;
+that is why justice comes out twisted.
 </p>
 
-## I Am Raising Up the Chaldeans
+## The Chaldeans are coming
 
 <p>
-v05: Look among the nations and see;
-be astonished—be amazed.
-For I am working a work in your days
-that you would not trust
-if it were told.
-
-v06: For look, I am raising up the Chaldeans,
-that bitter and hasty nation,
-who march through the breadth of the earth
-to possess dwelling places
-that are not theirs.
-
-v07: They are terrifying and fearsome;
-their judgment and their dignity
-come from themselves.
-
-v08: Their horses are swifter than leopards,
-fiercer than wolves of evening.
-Their horsemen spring forward;
-their horsemen come from far away.
-They fly like an eagle
-hastening to devour.
-
-v09: All of them come for violence;
-the direction of their faces is forward.
-They gather captives
-like sand.
-
-v10: They mock kings,
-and rulers are a joke to them.
-They laugh at every fortress;
-they heap up earth
-and capture it.
-
-v11: Then they sweep by like wind
-and pass on.
-They become guilty—
-this strength of theirs
-is their god.
+v05: “Look among the nations! Look closely!
+Be utterly astonished!
+For a work is being done in your days
+that you would not believe if told.
+v06: I am raising up the Chaldeans,
+that bitter, headlong nation,
+who march across the breadth of the earth
+to seize homes that are not theirs.
+v07: They are frightening and fearsome;
+their justice and authority come from themselves.
+v08: Their horses are faster than leopards,
+fiercer than wolves at dusk.
+Their horsemen spread out;
+their horsemen come from far away,
+flying like an eagle rushing to feed.
+v09: They all come for violence,
+their faces pressing eastward.
+They gather captives like sand.
+v10: They mock kings
+and laugh at rulers.
+They laugh at every fortress,
+heap up earth, and capture it.
+v11: Then they sweep on like the wind and pass through—
+guilty people, whose strength is their god.”
 </p>
 
-## Are You Not from Everlasting?
+## Why do you watch in silence?
 
 <p>
-v12: Are you not from everlasting,
-O LORD my God,
-my Holy One?
+v12: Are you not from ancient times,
+LORD my God, my Holy One?
 We will not die.
-
-O LORD, you appointed them for judgment;
-O Rock, you established them
-for correction.
-
-v13: Your eyes are too pure
-to look upon evil,
-and you cannot gaze upon trouble.
-Why do you gaze upon people who act treacherously?
-Why are you silent
-when the wicked swallows
-one more righteous than himself?
-
-v14: You make humanity
-like the fish of the sea,
-like crawling things
-that have no ruler.
-
-v15: He brings all of them up with a hook;
-he drags them away with his net
-and gathers them in his dragnet.
-So he rejoices
-and is glad.
-
-v16: So he sacrifices to his net
-and burns incense to his dragnet,
-for by them his portion is rich
-and his food is abundant.
-
-v17: Will he therefore keep emptying his net
-and continually killing nations
-without compassion?
+LORD, you appointed them for judgment;
+Rock, you established them for correction.
+v13: Your eyes are too pure to look on evil;
+you cannot gaze at misery.
+Why, then, do you look on at traitors
+and stay silent when the wicked swallow
+those more righteous than themselves?
+v14: You make human beings like fish in the sea,
+like crawling creatures with no ruler.
+v15: The enemy hauls them all up with a hook,
+drags them in his net,
+gathers them in his dragnet.
+That is why he rejoices and celebrates.
+v16: That is why he sacrifices to his net
+and burns incense to his dragnet:
+through them his share is rich
+and his food plentiful.
+v17: Will he keep emptying his net, then,
+and killing nations without mercy?
 </p>
 
 ## Notes
 
-v01: “oracle” — Hebrew *massa* can mean an oracle or a burden. Habakkuk is said to “see” it, joining prophetic speech and vision.
+v09: The phrase about the direction of their faces is difficult; “eastward” preserves the directional term without resolving the whole image.
 
-v02–04: Habakkuk’s first complaint concerns violence and failed justice within his own horizon. The prophet does not begin by asking why foreign nations are wicked, but why the LORD allows injustice to persist.
-
-v04: “instruction grows numb” — The Hebrew verb can mean become slack, weak, or paralyzed. TSW preserves the bodily metaphor rather than simply saying that the law “fails.”
-
-v05: “trust” — The Hebrew verb is the ordinary verb for believing or trusting. The statement emphasizes that the coming work would be difficult to receive even if announced.
-
-v06: “Chaldeans” — The term refers here to the Babylonian imperial power that the LORD is raising as an instrument of judgment.
-
-v07: “their judgment and their dignity come from themselves” — The Chaldeans recognize no higher authority for the order and status they impose. The two Hebrew nouns permit several English nuances, including justice, judgment, dignity, or authority.
-
-v09: “the direction of their faces is forward” — The Hebrew phrase is difficult and has been rendered in several ways, including language of an east wind. TSW retains a directional sense without resolving the image more narrowly.
-
-v11: “this strength of theirs is their god” — The Hebrew is compressed. The line can be read as identifying the invader’s own military power as the object of his allegiance.
-
-v12: “We shall not die” — The Masoretic Text reads “we shall not die.” A traditional scribal note preserves awareness of a reading understood as “you do not die,” apparently altered out of reverence for God. TSW follows the Masoretic reading and notes the significant textual tradition.
-
-v13: Habakkuk’s second complaint presses the problem created by the LORD’s answer: how can a pure God use a nation more wicked than Judah as the instrument of judgment?
-
-v15–16: Hook, net, and dragnet portray nations as helpless fish. The conqueror then worships the very instruments by which wealth and power are acquired.
+v12: “We will not die” follows the pinned Hebrew wording. The prophet’s appeal holds this confidence beside the violence he questions.
 
 ## Vocabulary
 
-v01: מַשָּׂא (massa)
-“Oracle” or “burden.” A weighty prophetic pronouncement.
+v06: **Chaldeans**: The people associated here with the advancing Babylonian power.
 
-v02: חָמָס (chamas)
-“Violence.” Destructive wrongdoing and social brutality.
-
-v03: אָוֶן (aven)
-“Iniquity,” “trouble,” or “harm.” A term with overlapping moral and experiential senses.
-
-v04: תּוֹרָה (torah)
-“Instruction.” Divine teaching or ordering that has become ineffective within the corrupt society.
-
-v04: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right ordering that is being distorted.
-
-v06: כַּשְׂדִּים (Kasdim)
-“Chaldeans.” The Babylonian power raised up in the oracle.
-
-v11: אָשֵׁם (ashem)
-“To become guilty.” The conquering power itself comes under moral judgment.
-
-v12: צוּר (tsur)
-“Rock.” A divine designation emphasizing stability and strength.
-
-v15: חֶרֶם (cherem)
-“Net.” Here a fishing net used as an image of imperial conquest.
-
-v17: חָמַל (chamal)
-“To have compassion” or “spare.” The final question asks whether the nations will be killed without mercy.
+v15: **Dragnet**: A large fishing net; people are pictured as a conqueror’s catch.

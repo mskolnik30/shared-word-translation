@@ -1,9 +1,62 @@
 {
   "book": "Malachi",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "chapter_reviews_complete": 4,
+  "status": "REVIEW_PENDING",
+  "chapter_reviews_complete": false,
   "curated_f3_decisions_acknowledged": 6,
-  "required_disposition": "APPROVE_QA",
-  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision."
+  "required_disposition": "REVIEW_PENDING",
+  "publication_note": "Prior wording approval does not transfer.",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-malachi-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 55,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-malachi-1-4/malachi-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/malachi/APPROVE_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-malachi-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 55,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-malachi-1-4/malachi-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/malachi/APPROVE_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ],
+  "chapter_reviews_pending": [
+    1,
+    2,
+    3,
+    4
+  ]
 }

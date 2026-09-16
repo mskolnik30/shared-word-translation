@@ -1,0 +1,5689 @@
+{
+  "scope": "Matthew 1–23, all 810 included verses.",
+  "verses": 810,
+  "method": "Normalized word sequence; near identity >=0.90, excluding identity. Triage only.",
+  "summary": {
+    "before": {
+      "identical": 33,
+      "near_identical_nonidentical": 162,
+      "mean_word_similarity": 0.799913
+    },
+    "after": {
+      "identical": 21,
+      "near_identical_nonidentical": 73,
+      "mean_word_similarity": 0.744429
+    }
+  },
+  "rows": [
+    {
+      "reference": "Matthew 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Matthew 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Matthew 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Matthew 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.37037,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.37037,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Matthew 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.482759,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 1:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.779661
+    },
+    {
+      "reference": "Matthew 1:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.657143,
+      "after_similarity": 0.657143
+    },
+    {
+      "reference": "Matthew 1:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 1:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.795455,
+      "after_similarity": 0.752941
+    },
+    {
+      "reference": "Matthew 1:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 1:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 1:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.651163,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Matthew 1:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Matthew 1:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Matthew 2:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Matthew 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.690909,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Matthew 2:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Matthew 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.628571,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Matthew 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Matthew 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.646154,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.716418
+    },
+    {
+      "reference": "Matthew 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 2:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.757576,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 2:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Matthew 2:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821053,
+      "after_similarity": 0.787234
+    },
+    {
+      "reference": "Matthew 2:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5625,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Matthew 2:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.641509,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 2:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.708333,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Matthew 2:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.47619,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Matthew 2:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 2:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Matthew 2:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Matthew 2:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Matthew 2:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.927536,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Matthew 2:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763636,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Matthew 3:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Matthew 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.847458,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Matthew 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Matthew 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Matthew 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.912281,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Matthew 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 3:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.819672,
+      "after_similarity": 0.655172
+    },
+    {
+      "reference": "Matthew 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821429,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Matthew 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.929577,
+      "after_similarity": 0.861111
+    },
+    {
+      "reference": "Matthew 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95082,
+      "after_similarity": 0.806452
+    },
+    {
+      "reference": "Matthew 3:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 3:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Matthew 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Matthew 3:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Matthew 3:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Matthew 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Matthew 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Matthew 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Matthew 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.691358
+    },
+    {
+      "reference": "Matthew 4:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 4:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Matthew 4:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Matthew 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Matthew 4:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 4:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 4:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Matthew 4:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Matthew 4:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Matthew 4:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 4:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Matthew 4:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.733333,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 4:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 4:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 4:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 4:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 4:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.492308,
+      "after_similarity": 0.354839
+    },
+    {
+      "reference": "Matthew 4:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 5:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Matthew 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.461538,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Matthew 5:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 5:4",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.9,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Matthew 5:6",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.928571,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 5:7",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 5:8",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.909091,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 5:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.604651,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Matthew 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Matthew 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Matthew 5:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 5:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Matthew 5:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Matthew 5:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Matthew 5:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939759,
+      "after_similarity": 0.843373
+    },
+    {
+      "reference": "Matthew 5:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 5:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 5:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.729167,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Matthew 5:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 5:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Matthew 5:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897436,
+      "after_similarity": 0.826667
+    },
+    {
+      "reference": "Matthew 5:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 5:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 5:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "Matthew 5:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958904,
+      "after_similarity": 0.929577
+    },
+    {
+      "reference": "Matthew 5:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958904,
+      "after_similarity": 0.929577
+    },
+    {
+      "reference": "Matthew 5:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Matthew 5:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.754098,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Matthew 5:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.603774,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Matthew 5:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.702703,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Matthew 5:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Matthew 5:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Matthew 5:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 5:38",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.875,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 5:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.791667,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 5:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 5:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Matthew 5:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "Matthew 5:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 5:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Matthew 5:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 5:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Matthew 5:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Matthew 5:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 6:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.701754,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Matthew 6:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765432,
+      "after_similarity": 0.658228
+    },
+    {
+      "reference": "Matthew 6:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Matthew 6:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Matthew 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95082,
+      "after_similarity": 0.966667
+    },
+    {
+      "reference": "Matthew 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Matthew 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Matthew 6:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Matthew 6:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 6:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Matthew 6:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 6:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 6:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 6:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 6:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 6:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Matthew 6:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Matthew 6:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 6:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Matthew 6:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.90625
+    },
+    {
+      "reference": "Matthew 6:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961039,
+      "after_similarity": 0.815789
+    },
+    {
+      "reference": "Matthew 6:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 6:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Matthew 6:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Matthew 6:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Matthew 6:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.852459,
+      "after_similarity": 0.677419
+    },
+    {
+      "reference": "Matthew 6:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 6:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 6:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 6:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.619048,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Matthew 7:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Matthew 7:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 7:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765957,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Matthew 7:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Matthew 7:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90566,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Matthew 7:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Matthew 7:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "Matthew 7:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Matthew 7:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.322581
+    },
+    {
+      "reference": "Matthew 7:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Matthew 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.935484,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Matthew 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.590909,
+      "after_similarity": 0.465116
+    },
+    {
+      "reference": "Matthew 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 7:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Matthew 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 7:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Matthew 7:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 7:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 7:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 7:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Matthew 7:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84375,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 7:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 7:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.93617
+    },
+    {
+      "reference": "Matthew 7:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862069,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Matthew 7:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980392,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Matthew 7:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 7:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 7:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.48
+    },
+    {
+      "reference": "Matthew 8:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Matthew 8:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.510638,
+      "after_similarity": 0.488889
+    },
+    {
+      "reference": "Matthew 8:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.390244
+    },
+    {
+      "reference": "Matthew 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.724138
+    },
+    {
+      "reference": "Matthew 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Matthew 8:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 8:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.792453,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 8:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.945946,
+      "after_similarity": 0.828571
+    },
+    {
+      "reference": "Matthew 8:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Matthew 8:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 8:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 8:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Matthew 8:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.564103,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Matthew 8:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Matthew 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 8:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 8:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Matthew 8:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 8:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 8:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.380952
+    },
+    {
+      "reference": "Matthew 8:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Matthew 8:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.877193,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 8:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 8:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.753623,
+      "after_similarity": 0.591549
+    },
+    {
+      "reference": "Matthew 8:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Matthew 8:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.521739,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 8:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 8:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Matthew 8:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.585366
+    },
+    {
+      "reference": "Matthew 8:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 9:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Matthew 9:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Matthew 9:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 9:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "Matthew 9:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 9:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.80597,
+      "after_similarity": 0.746269
+    },
+    {
+      "reference": "Matthew 9:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.266667,
+      "after_similarity": 0.266667
+    },
+    {
+      "reference": "Matthew 9:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Matthew 9:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Matthew 9:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Matthew 9:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Matthew 9:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.277778
+    },
+    {
+      "reference": "Matthew 9:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 9:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Matthew 9:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.895522,
+      "after_similarity": 0.892308
+    },
+    {
+      "reference": "Matthew 9:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745098,
+      "after_similarity": 0.653061
+    },
+    {
+      "reference": "Matthew 9:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816901,
+      "after_similarity": 0.805556
+    },
+    {
+      "reference": "Matthew 9:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 9:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Matthew 9:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.76,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 9:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 9:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Matthew 9:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 9:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Matthew 9:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 9:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.222222,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Matthew 9:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 9:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Matthew 9:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5625,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Matthew 9:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 9:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.48,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 9:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.4375
+    },
+    {
+      "reference": "Matthew 9:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Matthew 9:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Matthew 9:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851852,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 9:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Matthew 9:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Matthew 9:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 10:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Matthew 10:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90566,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Matthew 10:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Matthew 10:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Matthew 10:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.465116,
+      "after_similarity": 0.473684
+    },
+    {
+      "reference": "Matthew 10:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 10:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 10:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 10:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Matthew 10:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.486486,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Matthew 10:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 10:12",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.714286,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 10:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 10:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.612245,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Matthew 10:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.76,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 10:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 10:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 10:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 10:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Matthew 10:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 10:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 10:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Matthew 10:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.852459
+    },
+    {
+      "reference": "Matthew 10:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 10:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 10:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.652174,
+      "after_similarity": 0.153846
+    },
+    {
+      "reference": "Matthew 10:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 10:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.884615
+    },
+    {
+      "reference": "Matthew 10:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Matthew 10:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Matthew 10:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.608696,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Matthew 10:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 10:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 10:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Matthew 10:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Matthew 10:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 10:37",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.981132
+    },
+    {
+      "reference": "Matthew 10:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 10:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Matthew 10:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Matthew 10:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Matthew 10:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.603175,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 11:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Matthew 11:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Matthew 11:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.529412,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Matthew 11:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Matthew 11:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.576271,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 11:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Matthew 11:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "Matthew 11:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.958333,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Matthew 11:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Matthew 11:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 11:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "Matthew 11:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.636364,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Matthew 11:13",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 11:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 11:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.142857,
+      "after_similarity": 0.142857
+    },
+    {
+      "reference": "Matthew 11:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 11:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Matthew 11:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Matthew 11:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "Matthew 11:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 11:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.953846
+    },
+    {
+      "reference": "Matthew 11:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 11:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.901408,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 11:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.73913,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Matthew 11:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90625,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 11:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.470588,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 11:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.921053,
+      "after_similarity": 0.921053
+    },
+    {
+      "reference": "Matthew 11:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Matthew 11:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.92
+    },
+    {
+      "reference": "Matthew 11:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Matthew 12:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Matthew 12:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Matthew 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Matthew 12:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.612903
+    },
+    {
+      "reference": "Matthew 12:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Matthew 12:6",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.952381,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 12:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 12:8",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 12:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Matthew 12:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Matthew 12:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.870968,
+      "after_similarity": 0.852459
+    },
+    {
+      "reference": "Matthew 12:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 12:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 12:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 12:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 12:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 12:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.434783,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Matthew 12:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.779661,
+      "after_similarity": 0.786885
+    },
+    {
+      "reference": "Matthew 12:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 12:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Matthew 12:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 12:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Matthew 12:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Matthew 12:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.577778,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Matthew 12:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Matthew 12:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Matthew 12:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 12:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 12:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90566,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Matthew 12:30",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 12:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 12:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985075,
+      "after_similarity": 0.865672
+    },
+    {
+      "reference": "Matthew 12:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 12:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765957,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Matthew 12:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.478261,
+      "after_similarity": 0.478261
+    },
+    {
+      "reference": "Matthew 12:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 12:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Matthew 12:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Matthew 12:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Matthew 12:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.657143,
+      "after_similarity": 0.56338
+    },
+    {
+      "reference": "Matthew 12:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Matthew 12:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883117,
+      "after_similarity": 0.883117
+    },
+    {
+      "reference": "Matthew 12:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.619048,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 12:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 12:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.839506,
+      "after_similarity": 0.763158
+    },
+    {
+      "reference": "Matthew 12:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 12:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Matthew 12:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 12:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Matthew 12:50",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.969697,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 13:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 13:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 13:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.595745,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Matthew 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 13:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 13:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.166667,
+      "after_similarity": 0.166667
+    },
+    {
+      "reference": "Matthew 13:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Matthew 13:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Matthew 13:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.566038
+    },
+    {
+      "reference": "Matthew 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Matthew 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.791667,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 13:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72093,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 13:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 13:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 13:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 13:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.927536,
+      "after_similarity": 0.735294
+    },
+    {
+      "reference": "Matthew 13:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 13:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 13:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.825397,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Matthew 13:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.80597,
+      "after_similarity": 0.557377
+    },
+    {
+      "reference": "Matthew 13:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 13:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 13:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Matthew 13:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Matthew 13:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Matthew 13:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.647059,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Matthew 13:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84058,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 13:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Matthew 13:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.794521
+    },
+    {
+      "reference": "Matthew 13:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807018,
+      "after_similarity": 0.964286
+    },
+    {
+      "reference": "Matthew 13:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Matthew 13:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.677966,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Matthew 13:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Matthew 13:37",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 13:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Matthew 13:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "Matthew 13:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 13:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Matthew 13:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 13:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Matthew 13:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.835821
+    },
+    {
+      "reference": "Matthew 13:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 13:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Matthew 13:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Matthew 13:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.622222,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Matthew 13:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 13:50",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 13:51",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 13:52",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.597015
+    },
+    {
+      "reference": "Matthew 13:53",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 13:54",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Matthew 13:55",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Matthew 13:56",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 13:57",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Matthew 13:58",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Matthew 14:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 14:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.964286,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Matthew 14:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 14:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Matthew 14:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.526316,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Matthew 14:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Matthew 14:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 14:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 14:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Matthew 14:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 14:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Matthew 14:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 14:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Matthew 14:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Matthew 14:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.794521,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 14:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 14:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Matthew 14:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 14:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.942529,
+      "after_similarity": 0.840909
+    },
+    {
+      "reference": "Matthew 14:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.648649,
+      "after_similarity": 0.363636
+    },
+    {
+      "reference": "Matthew 14:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 14:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 14:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 14:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.634146,
+      "after_similarity": 0.55
+    },
+    {
+      "reference": "Matthew 14:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Matthew 14:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Matthew 14:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 14:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "Matthew 14:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Matthew 14:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Matthew 14:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 14:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Matthew 14:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 14:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Matthew 14:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Matthew 14:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.697674,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 15:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Matthew 15:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Matthew 15:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Matthew 15:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 15:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Matthew 15:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.35,
+      "after_similarity": 0.432432
+    },
+    {
+      "reference": "Matthew 15:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.352941,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Matthew 15:8",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 15:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.521739,
+      "after_similarity": 0.307692
+    },
+    {
+      "reference": "Matthew 15:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.64,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 15:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 15:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 15:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Matthew 15:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Matthew 15:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Matthew 15:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 15:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 15:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 15:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 15:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 15:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Matthew 15:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.877193,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 15:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Matthew 15:24",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 15:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 15:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Matthew 15:27",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 15:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 15:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Matthew 15:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.644068,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Matthew 15:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.607143
+    },
+    {
+      "reference": "Matthew 15:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.72093
+    },
+    {
+      "reference": "Matthew 15:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Matthew 15:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 15:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Matthew 15:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Matthew 15:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.352941
+    },
+    {
+      "reference": "Matthew 15:38",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Matthew 15:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Matthew 16:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Matthew 16:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Matthew 16:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925373,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 16:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.892857,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 16:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 16:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 16:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.48,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Matthew 16:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Matthew 16:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Matthew 16:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Matthew 16:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 16:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Matthew 16:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Matthew 16:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 16:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Matthew 16:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Matthew 16:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Matthew 16:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "Matthew 16:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.776119
+    },
+    {
+      "reference": "Matthew 16:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 16:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957746,
+      "after_similarity": 0.753623
+    },
+    {
+      "reference": "Matthew 16:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.634146,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Matthew 16:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90411,
+      "after_similarity": 0.612903
+    },
+    {
+      "reference": "Matthew 16:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Matthew 16:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 16:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.490566
+    },
+    {
+      "reference": "Matthew 16:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.766667
+    },
+    {
+      "reference": "Matthew 16:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Matthew 17:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Matthew 17:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Matthew 17:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.434783,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Matthew 17:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953846,
+      "after_similarity": 0.953846
+    },
+    {
+      "reference": "Matthew 17:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Matthew 17:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 17:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 17:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Matthew 17:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.872727,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 17:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Matthew 17:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 17:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Matthew 17:13",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.857143,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 17:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 17:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Matthew 17:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Matthew 17:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Matthew 17:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Matthew 17:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 17:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894118,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 17:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 17:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 17:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Matthew 17:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.694444,
+      "after_similarity": 0.704225
+    },
+    {
+      "reference": "Matthew 17:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Matthew 17:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863158,
+      "after_similarity": 0.829787
+    },
+    {
+      "reference": "Matthew 18:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Matthew 18:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.190476,
+      "after_similarity": 0.173913
+    },
+    {
+      "reference": "Matthew 18:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Matthew 18:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 18:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 18:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "Matthew 18:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.541667,
+      "after_similarity": 0.541667
+    },
+    {
+      "reference": "Matthew 18:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894118,
+      "after_similarity": 0.880952
+    },
+    {
+      "reference": "Matthew 18:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.853333
+    },
+    {
+      "reference": "Matthew 18:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Matthew 18:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 18:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Matthew 18:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Matthew 18:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711864,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Matthew 18:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821429,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Matthew 18:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.852941,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 18:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.679245
+    },
+    {
+      "reference": "Matthew 18:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.62963
+    },
+    {
+      "reference": "Matthew 18:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 18:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Matthew 18:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Matthew 18:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Matthew 18:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.4375
+    },
+    {
+      "reference": "Matthew 18:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.415094
+    },
+    {
+      "reference": "Matthew 18:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.512821
+    },
+    {
+      "reference": "Matthew 18:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.516129,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "Matthew 18:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793651,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Matthew 18:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 18:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.484848
+    },
+    {
+      "reference": "Matthew 18:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.693878,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Matthew 18:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Matthew 18:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.628571,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 18:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Matthew 18:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Matthew 19:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 19:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Matthew 19:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.634146,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Matthew 19:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Matthew 19:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745098,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Matthew 19:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 19:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 19:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.938776,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Matthew 19:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Matthew 19:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Matthew 19:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 19:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.452381
+    },
+    {
+      "reference": "Matthew 19:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Matthew 19:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 19:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 19:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Matthew 19:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Matthew 19:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.653061,
+      "after_similarity": 0.489796
+    },
+    {
+      "reference": "Matthew 19:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Matthew 19:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 19:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.779661,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Matthew 19:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 19:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.73913,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Matthew 19:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 19:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Matthew 19:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Matthew 19:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.648649,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Matthew 19:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961039,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Matthew 19:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Matthew 19:30",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 20:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Matthew 20:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Matthew 20:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "Matthew 20:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.564103
+    },
+    {
+      "reference": "Matthew 20:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Matthew 20:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 20:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 20:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862069,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 20:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Matthew 20:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Matthew 20:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.380952,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 20:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.90566,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 20:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.619048
+    },
+    {
+      "reference": "Matthew 20:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Matthew 20:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 20:16",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 20:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 20:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.912281,
+      "after_similarity": 0.912281
+    },
+    {
+      "reference": "Matthew 20:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 20:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Matthew 20:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.865672,
+      "after_similarity": 0.656716
+    },
+    {
+      "reference": "Matthew 20:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.983051,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "Matthew 20:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.591549
+    },
+    {
+      "reference": "Matthew 20:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 20:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.945455,
+      "after_similarity": 0.945455
+    },
+    {
+      "reference": "Matthew 20:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Matthew 20:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Matthew 20:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Matthew 20:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 20:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Matthew 20:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.791667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Matthew 20:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Matthew 20:33",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 20:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 21:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Matthew 21:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.813559,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 21:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 21:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.56,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Matthew 21:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Matthew 21:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 21:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 21:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 21:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 21:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 21:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 21:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793651,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Matthew 21:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Matthew 21:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Matthew 21:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.847458
+    },
+    {
+      "reference": "Matthew 21:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.806452
+    },
+    {
+      "reference": "Matthew 21:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Matthew 21:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 21:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.805195,
+      "after_similarity": 0.779221
+    },
+    {
+      "reference": "Matthew 21:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 21:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 21:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 21:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.861111,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Matthew 21:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Matthew 21:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.732394,
+      "after_similarity": 0.59375
+    },
+    {
+      "reference": "Matthew 21:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Matthew 21:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 21:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.958333
+    },
+    {
+      "reference": "Matthew 21:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 21:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Matthew 21:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.760563,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 21:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 21:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.927536,
+      "after_similarity": 0.80597
+    },
+    {
+      "reference": "Matthew 21:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Matthew 21:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Matthew 21:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.516129
+    },
+    {
+      "reference": "Matthew 21:37",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 21:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 21:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 21:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Matthew 21:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.741935,
+      "after_similarity": 0.677419
+    },
+    {
+      "reference": "Matthew 21:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.984615,
+      "after_similarity": 0.984615
+    },
+    {
+      "reference": "Matthew 21:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Matthew 21:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 21:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Matthew 21:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.55,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Matthew 22:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 22:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Matthew 22:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 22:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.835821,
+      "after_similarity": 0.746269
+    },
+    {
+      "reference": "Matthew 22:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Matthew 22:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 22:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 22:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Matthew 22:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.516129,
+      "after_similarity": 0.5625
+    },
+    {
+      "reference": "Matthew 22:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Matthew 22:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 22:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Matthew 22:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821429,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Matthew 22:14",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 22:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.592593,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 22:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.649351,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Matthew 22:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 22:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.482759,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Matthew 22:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 22:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.4
+    },
+    {
+      "reference": "Matthew 22:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.382979
+    },
+    {
+      "reference": "Matthew 22:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 22:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Matthew 22:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 22:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Matthew 22:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.56,
+      "after_similarity": 0.347826
+    },
+    {
+      "reference": "Matthew 22:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Matthew 22:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Matthew 22:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.914286,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Matthew 22:30",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Matthew 22:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 22:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981132,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 22:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Matthew 22:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Matthew 22:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.461538,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Matthew 22:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 22:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Matthew 22:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 22:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Matthew 22:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Matthew 22:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 22:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Matthew 22:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Matthew 22:44",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Matthew 22:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Matthew 22:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.651163,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "Matthew 23:1",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 23:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Matthew 23:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Matthew 23:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Matthew 23:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "Matthew 23:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Matthew 23:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Matthew 23:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Matthew 23:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Matthew 23:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Matthew 23:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 23:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Matthew 23:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "Matthew 23:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816901,
+      "after_similarity": 0.771429
+    },
+    {
+      "reference": "Matthew 23:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Matthew 23:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Matthew 23:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 23:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Matthew 23:20",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.8,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Matthew 23:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Matthew 23:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Matthew 23:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.837838
+    },
+    {
+      "reference": "Matthew 23:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.636364,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Matthew 23:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Matthew 23:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Matthew 23:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Matthew 23:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Matthew 23:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Matthew 23:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Matthew 23:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Matthew 23:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Matthew 23:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Matthew 23:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.861538,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Matthew 23:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972222,
+      "after_similarity": 0.873239
+    },
+    {
+      "reference": "Matthew 23:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Matthew 23:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.605263,
+      "after_similarity": 0.60274
+    },
+    {
+      "reference": "Matthew 23:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Matthew 23:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.938776,
+      "after_similarity": 0.77551
+    }
+  ]
+}

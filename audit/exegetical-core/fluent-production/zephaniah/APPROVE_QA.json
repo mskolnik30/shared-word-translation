@@ -1,9 +1,58 @@
 {
   "book": "Zephaniah",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "chapter_reviews_complete": 3,
+  "status": "REVIEW_PENDING",
+  "chapter_reviews_complete": false,
   "curated_f3_decisions_acknowledged": 4,
-  "required_disposition": "APPROVE_QA",
-  "publication_note": "Eligible for review-branch installation; publication remains a separate repository decision."
+  "required_disposition": "REVIEW_PENDING",
+  "publication_note": "Prior wording approval does not transfer.",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3
+  ],
+  "current_revision": {
+    "id": "fluent-zephaniah-1-3-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3
+    ],
+    "verse_count": 53,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-zephaniah-1-3/zephaniah-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/zephaniah/APPROVE_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-zephaniah-1-3-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 53,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-zephaniah-1-3/zephaniah-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/zephaniah/APPROVE_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ],
+  "chapter_reviews_pending": [
+    1,
+    2,
+    3
+  ]
 }

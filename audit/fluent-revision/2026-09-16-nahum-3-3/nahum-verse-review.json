@@ -1,0 +1,307 @@
+{
+  "schema_version": 3,
+  "revision_id": "fluent-nahum-3-3-biblical-fluency-2026-09-16",
+  "base_commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+  "scope": "Nahum 3–3, all 19 included verses.",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "OT.OSHB.WLC",
+    "format": "osis_xml",
+    "osis_book_id": "Nah",
+    "book_verse_count": 47,
+    "scope_chapters": [
+      3
+    ],
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00",
+    "sha256": "5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c",
+    "url": "https://github.com/openscriptures/morphhb/blob/6a5db284c715c18b239422e57bb89684e6a19f00/wlc/Nah.xml",
+    "languages": [
+      "Hebrew"
+    ],
+    "verse_hash_method": "SHA-256 of exact original XML verse substring including written/read and other annotations.",
+    "extra_source_references": [],
+    "excluded_source_references": [],
+    "public_versification_note": "Exact XML records mapped to public labels; Zechariah 1:18–2:13 and Malachi 4 have different Hebrew chapter boundaries."
+  },
+  "delta_method": "F0 retained; F2 syntax/idiom; F3 consequential choices flagged by the selective apparatus. Classification remains provisional. Overlap is triage only, with no change quota.",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "comparative_references": [
+    {
+      "source": "TSW repository comparator",
+      "scope": "Programmatic alignment after recovery of unfinished original-language drafts; selected bilingual rereads recorded separately. TSW is not the base text."
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "path": "translations/fluent/OT/nahum/Nahum_03.md",
+      "before_sha256": "61fbe67b10a69040b8548fd5d1adede6d62816312255fa74d8aa043e302475b6",
+      "after_sha256": "b574816ffae7b5506e4f3d777771a9dfc818e629b282d1d008d8f350b712b3ba",
+      "tsw_comparator_path": "books/OT/nahum/Nahum_03.md",
+      "tsw_comparator_sha256": "9f25c1ef83f20154c9af726323511ed358dcac9d3c5b5fc0b43e1cafd23d405a"
+    }
+  ],
+  "verses": [
+    {
+      "reference": "Nahum 3:1",
+      "delta": "F2",
+      "rationale": "Keeps blood-city indictment and continuing predation as images rather than abstract wrongdoing.",
+      "source_reference": "Nah 3:1",
+      "source_verse_sha256": "571aa15c97d7f2752af87abbc8d65cfd57a9d0ebeea95f1aeeb32aed242710f3",
+      "before": "Woe to the city of blood, full of lies, full of plunder— its prey never departs!",
+      "after": "Woe to the city of blood! It is full of lies and plunder; the prey never runs out.",
+      "tsw_comparator": "Woe to the city of blood, full of lies, full of plunder— its prey never departs!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:2",
+      "delta": "F2",
+      "rationale": "Lets the Hebrew sound-and-motion fragments drive the battle scene.",
+      "source_reference": "Nah 3:2",
+      "source_verse_sha256": "fcbc9445e2b01b98076879d8150c862f1f70300a3be719aad9cef95a3e8d78d5",
+      "before": "The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!",
+      "after": "Whips crack, wheels rumble, horses gallop, chariots bounce.",
+      "tsw_comparator": "The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.173913,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:3",
+      "delta": "F2",
+      "rationale": "Preserves the accumulating bodies and follows the read form of stumble without suppressing the written form in the binding.",
+      "source_reference": "Nah 3:3",
+      "source_verse_sha256": "fc11672a64d05ff51f255c2567388ceff956a01ad64add0422877172ec772273",
+      "before": "Horsemen charging, flashing sword, glittering spear, a multitude of slain, heaps of corpses, without end to the bodies— they stumble over their bodies.",
+      "after": "Horsemen charge, swords flash, spears glitter! So many slain, heaps of corpses, bodies without end— they stumble over the bodies.",
+      "tsw_comparator": "Horsemen charging, flashing sword, glittering spear, a multitude of slain, heaps of corpses, without end to the bodies— they stumble over their bodies.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.511628,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:4",
+      "delta": "F2",
+      "rationale": "Retains the violent sexual and magical depiction of the imperial city and both repetitions.",
+      "source_reference": "Nah 3:4",
+      "source_verse_sha256": "62cf45d90a0700f78065af82ef75891355616cf3255978acb565e6071ea7525c",
+      "before": "Because of the many prostitutions of the prostitute, gracious in appearance, mistress of sorceries, who sells nations through her prostitutions and clans through her sorceries:",
+      "after": "All because of the countless prostitutions of the alluring prostitute, the mistress of sorcery, who sells nations through her prostitution and peoples through her sorcery.",
+      "tsw_comparator": "Because of the many prostitutions of the prostitute, gracious in appearance, mistress of sorceries, who sells nations through her prostitutions and clans through her sorceries:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:5",
+      "delta": "F3",
+      "rationale": "Makes the speaker explicit while preserving threatened sexual humiliation.",
+      "source_reference": "Nah 3:5",
+      "source_verse_sha256": "4ea7197811b3095e9d9de0c0f69857a8b93ccd708531f01ffb595512a03c861d",
+      "before": "“Look, I am against you,” says the LORD of Hosts. “I will lift your skirts over your face; I will show nations your nakedness and kingdoms your shame.",
+      "after": "“Look, I am against you,” declares the LORD of Armies. “I will lift your skirts over your face and show the nations your nakedness, the kingdoms your disgrace.",
+      "tsw_comparator": "“Look, I am against you,” says the LORD of Hosts. “I will lift your skirts over your face; I will show nations your nakedness and kingdoms your shame.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:6",
+      "delta": "F3",
+      "rationale": "Retains all three actions without softening their degrading force.",
+      "source_reference": "Nah 3:6",
+      "source_verse_sha256": "f79537155ccdece18d52a16efd6c099dd08f0be0c96d493a1a4cf92a2426e222",
+      "before": "I will throw filth upon you; I will treat you with contempt and make you a spectacle.",
+      "after": "I will throw filth on you, treat you with contempt, and make you a spectacle.",
+      "tsw_comparator": "I will throw filth upon you; I will treat you with contempt and make you a spectacle.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:7",
+      "delta": "F2",
+      "rationale": "Distinguishes the onlookers’ speech from the returning question addressed to Nineveh.",
+      "source_reference": "Nah 3:7",
+      "source_verse_sha256": "e4457127540afb0c22a68bf86e708cf50aae5c89131f1e0ddb3bc74a9daccf32",
+      "before": "Then everyone who sees you will flee from you and say, ‘Nineveh is devastated! Who will mourn for her?’ Where will I seek comforters for you?”",
+      "after": "Everyone who sees you will run away and say, ‘Nineveh is ruined! Who will mourn for her?’ Where can I find anyone to comfort you?”",
+      "tsw_comparator": "Then everyone who sees you will flee from you and say, ‘Nineveh is devastated! Who will mourn for her?’ Where will I seek comforters for you?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:8",
+      "delta": "F3",
+      "rationale": "Keeps the ancient place-name and aquatic defense rather than replacing the image with a modern geography claim.",
+      "source_reference": "Nah 3:8",
+      "source_verse_sha256": "285263a06d602cc00fddb7876de825af375d5dce35c9c41da8bc5e6756e49157",
+      "before": "Are you better than No-Amon, which sat among the Nile channels, with water surrounding her, whose rampart was the sea and whose wall was water?",
+      "after": "Are you better than No-amon, seated among the Nile’s channels, with water all around her, the sea her defense, water her wall?",
+      "tsw_comparator": "Are you better than No-Amon, which sat among the Nile channels, with water surrounding her, whose rampart was the sea and whose wall was water?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:9",
+      "delta": "F3",
+      "rationale": "Preserves the source switch from her to your rather than silently regularizing it.",
+      "source_reference": "Nah 3:9",
+      "source_verse_sha256": "6f11ec11e0c2965126eec9f504a84759f19fba432f84067bcd3a9b743ec73380",
+      "before": "Cush was her strength, and Egypt without limit; Put and the Libyans were among her helpers.",
+      "after": "Cush and Egypt were her boundless strength; Put and the Libyans were your helpers.",
+      "tsw_comparator": "Cush was her strength, and Egypt without limit; Put and the Libyans were among her helpers.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:10",
+      "delta": "F3",
+      "rationale": "States harm to children and the enslavement of leaders explicitly.",
+      "source_reference": "Nah 3:10",
+      "source_verse_sha256": "3a52a07b68e7184464f25e556705d252b2747b9c639158e196f00cdc91f55e94",
+      "before": "Yet she also went into exile, she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her honored ones, and all her great ones were bound in chains.",
+      "after": "Yet she too was carried away into captivity. Her little children were dashed to pieces at every street corner. Lots were cast for her honored men, and all her great men were bound in chains.",
+      "tsw_comparator": "Yet she also went into exile, she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her honored ones, and all her great ones were bound in chains.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.657534,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:11",
+      "delta": "F2",
+      "rationale": "Keeps the two you-too parallels and the intoxication image.",
+      "source_reference": "Nah 3:11",
+      "source_verse_sha256": "51d20b5b25cccd602426a65d895a4a0da96e22374d11440c8abc23dd7a955e1a",
+      "before": "You also will become drunk; you will hide yourself. You also will seek refuge from the enemy.",
+      "after": "You too will become drunk; you will go into hiding. You too will seek shelter from the enemy.",
+      "tsw_comparator": "You also will become drunk; you will hide yourself. You also will seek refuge from the enemy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:12",
+      "delta": "F2",
+      "rationale": "Unfolds the extended simile into readable lines without adding a siege explanation.",
+      "source_reference": "Nah 3:12",
+      "source_verse_sha256": "e3e7ead3640261ef0d4e209901dfb2b5fd9908c5312bcf6fe8dd1349120c8da0",
+      "before": "All your fortresses are like fig trees with first-ripe figs; when they are shaken, they fall into the mouth of the eater.",
+      "after": "All your fortresses are fig trees with early-ripe fruit. Shake them, and the figs fall straight into the eater’s mouth.",
+      "tsw_comparator": "All your fortresses are like fig trees with first-ripe figs; when they are shaken, they fall into the mouth of the eater.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.590909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:13",
+      "delta": "F3",
+      "rationale": "Preserves the gendered taunt and gate-bar image; its ancient insult is not converted into a claim about women today.",
+      "source_reference": "Nah 3:13",
+      "source_verse_sha256": "880f9411a67b870fb9758cb5388ecb4c4631f7fbdb05f2fd40df72dc698157c5",
+      "before": "Look, your troops within you are like women. The gates of your land are opened wide to your enemies; fire consumes your bars.",
+      "after": "Look at your people: women in your midst! Your land’s gates stand wide open to your enemies; fire has eaten through their bars.",
+      "tsw_comparator": "Look, your troops within you are like women. The gates of your land are opened wide to your enemies; fire consumes your bars.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.434783,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:14",
+      "delta": "F2",
+      "rationale": "Retains the urgent commands and concrete brickmaking work.",
+      "source_reference": "Nah 3:14",
+      "source_verse_sha256": "589e0f36efdb5ffbf6bfee0d3f1f6646142c3c2b750fc2d435520486377d32a1",
+      "before": "Draw water for the siege! Strengthen your forts! Go into the clay and tread the mortar; take hold of the brick mold!",
+      "after": "Draw water for the siege! Strengthen your fortresses! Step into the mud, tread the clay, take hold of the brick mold!",
+      "tsw_comparator": "Draw water for the siege! Strengthen your forts! Go into the clay and tread the mortar; take hold of the brick mold!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.790698,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:15",
+      "delta": "F2",
+      "rationale": "Preserves the taunt’s repeated multiplication and consuming insect imagery.",
+      "source_reference": "Nah 3:15",
+      "source_verse_sha256": "e2979bccbee4e369fe209c571266f137356a82e9ba39981937ca807eabdf2e17",
+      "before": "There the fire will consume you; the sword will cut you down. It will consume you like the locust. Multiply yourself like the locust! Multiply like the grasshopper!",
+      "after": "There the fire will consume you; the sword will cut you down, devouring you like a locust. Multiply like the locust! Multiply like the swarm!",
+      "tsw_comparator": "There the fire will consume you; the sword will cut you down. It will consume you like the locust. Multiply yourself like the locust! Multiply like the grasshopper!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830189,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:16",
+      "delta": "F3",
+      "rationale": "Keeps the comparison of commercial multitude and departing locust, noting the stripping/shedding ambiguity.",
+      "source_reference": "Nah 3:16",
+      "source_verse_sha256": "30e9704065c1d7918ed6f812212e09cab1606db9c323f56c56390726e4da0ce0",
+      "before": "You multiplied your merchants more than the stars of heaven. The locust strips the land and flies away.",
+      "after": "You made your merchants more numerous than the stars of heaven. The locust strips the land and flies away.",
+      "tsw_comparator": "You multiplied your merchants more than the stars of heaven. The locust strips the land and flies away.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918919,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:17",
+      "delta": "F2",
+      "rationale": "Clarifies the collective insect picture without assigning modern ranks to uncertain titles.",
+      "source_reference": "Nah 3:17",
+      "source_verse_sha256": "b943e5d170ba4d89535f646549994b227b47f94a1c63fc8413c002a0e701eaa8",
+      "before": "Your guards are like grasshoppers, and your officials like swarms of locusts that settle on walls on a cold day. When the sun rises, they fly away, and no one knows where they are.",
+      "after": "Your officials are like locusts, your marshals like swarms settling on walls on a cold day. When the sun rises, they flee; no one knows where they have gone.",
+      "tsw_comparator": "Your guards are like grasshoppers, and your officials like swarms of locusts that settle on walls on a cold day. When the sun rises, they fly away, and no one knows where they are.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.634921,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:18",
+      "delta": "F2",
+      "rationale": "Retains shepherd language for leaders and the ominous sleep/rest parallel.",
+      "source_reference": "Nah 3:18",
+      "source_verse_sha256": "fc37fca269c5b47a32ab6ba0d849e87e093ba4644412dee1112dda52ec4bb919",
+      "before": "Your shepherds are asleep, O king of Assyria; your nobles lie still. Your people are scattered on the mountains, and there is no one to gather them.",
+      "after": "Your shepherds sleep, king of Assyria; your nobles lie at rest. Your people are scattered over the mountains, and no one gathers them.",
+      "tsw_comparator": "Your shepherds are asleep, O king of Assyria; your nobles lie still. Your people are scattered on the mountains, and there is no one to gather them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Nahum 3:19",
+      "delta": "F2",
+      "rationale": "Keeps the final rhetorical question grounded in the empire’s repeated harm.",
+      "source_reference": "Nah 3:19",
+      "source_verse_sha256": "13959bd42eb79733cd3866aacf71da18f077605de970b9ea33e812ca614cc2af",
+      "before": "There is no relief for your fracture; your wound is grievous. Everyone who hear the news about you clap their hands over you, for upon whom has your evil not passed continually?",
+      "after": "There is no relief for your fracture; your wound is fatal. Everyone who hears the news about you claps their hands. For who has not suffered your endless cruelty?",
+      "tsw_comparator": "There is no relief for your fracture; your wound is grievous. All who hear the news about you clap their hands over you, for upon whom has your evil not passed continually?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655738,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "summary": {
+    "verses_drafted": 19,
+    "verses_with_changed_text": 19,
+    "delta_counts": {
+      "F2": 12,
+      "F3": 7
+    }
+  }
+}

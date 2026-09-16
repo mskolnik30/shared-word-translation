@@ -1,0 +1,152 @@
+{
+  "scope": "Nahum 3–3, all 19 included verses.",
+  "verses": 19,
+  "method": "Normalized word sequence; near identity >=0.90, excluding identity. Triage only.",
+  "summary": {
+    "before": {
+      "identical": 18,
+      "near_identical_nonidentical": 1,
+      "mean_word_similarity": 0.998355
+    },
+    "after": {
+      "identical": 0,
+      "near_identical_nonidentical": 1,
+      "mean_word_similarity": 0.659498
+    }
+  },
+  "rows": [
+    {
+      "reference": "Nahum 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Nahum 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.173913
+    },
+    {
+      "reference": "Nahum 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.511628
+    },
+    {
+      "reference": "Nahum 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Nahum 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Nahum 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Nahum 3:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Nahum 3:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Nahum 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Nahum 3:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.657534
+    },
+    {
+      "reference": "Nahum 3:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Nahum 3:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Nahum 3:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.434783
+    },
+    {
+      "reference": "Nahum 3:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Nahum 3:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Nahum 3:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Nahum 3:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.634921
+    },
+    {
+      "reference": "Nahum 3:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Nahum 3:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.655738
+    }
+  ]
+}

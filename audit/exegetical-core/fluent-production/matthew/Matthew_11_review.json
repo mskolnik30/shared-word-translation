@@ -2,47 +2,86 @@
   "book": "Matthew",
   "chapter": 11,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_11.md",
-  "canonical_tsw_sha": "bfa58613eb1e69572e1e7a4edc1b7aa8c07df8ac",
+  "revision_id": "fluent-matthew-1-23-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_11_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of original tab-separated Greek verse text, retaining variant markers and whitespace."
   },
-  "chapter_focus": [
-    "John/messianic works",
-    "kingdom force saying",
-    "Father/Son",
-    "rest/yoke"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 11,
+    "verse_count": 30,
+    "path": "translations/fluent/NT/matthew/Matthew_11.md",
+    "before_sha256": "ef0b3dfb16c1532fcc242e3f7dba19587adbfdea7d54755060786ae5a81b942a",
+    "after_sha256": "d10e6aa8f2b3ae8ad403078d1660b9848736d9cc2d0762d1d77df1909e3e45ed",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_11.md",
+    "tsw_comparator_sha256": "ac6ad2b19296e553e660c7af44d48246bbf9b5330a37bf53967dd147cde035d5"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "12",
-      "decision": "biazō force/violence disputed saying"
+      "reference": "Matthew 11:12",
+      "decision": "Chooses the passive reading of biazetai with the competing sense reserved for a note.",
+      "delta": "F3"
     },
     {
-      "location": "19",
-      "decision": "wisdom vindicated by works"
+      "reference": "Matthew 11:19",
+      "decision": "Follows deeds rather than children and retains wisdom’s female personification.",
+      "delta": "F3"
     },
     {
-      "location": "27",
-      "decision": "Father/Son mutual knowledge"
+      "reference": "Matthew 11:27",
+      "decision": "Preserves reciprocal knowledge and the final chosen recipient.",
+      "delta": "F3"
     },
     {
-      "location": "30",
-      "decision": "chrēstos kind/easy/good"
+      "reference": "Matthew 11:30",
+      "decision": "Renders chrestos with its positive quality while retaining the paradox of restful burden.",
+      "delta": "F3"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 3,
-    "F1": 8,
-    "F2": 12,
-    "F3": 7
-  }
+  ]
 }

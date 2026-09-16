@@ -4,132 +4,59 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zechariah-1-14-biblical-fluency-2026-09-16
 ---
 
-## Return to Me
+## Return to me
 
 <p>
-v01: In the eighth month, in the second year of Darius, the word of the LORD came to Zechariah son of Berechiah, son of Iddo, the prophet:
-
+v01: In the eighth month of Darius’s second year, the word of the LORD came to Zechariah son of Berechiah, son of Iddo, the prophet:
 v02: “The LORD was very angry with your ancestors.
-
-v03: So say to them: Thus says the LORD of Hosts: Return to me, says the LORD of Hosts, and I will return to you, says the LORD of Hosts.
-
-v04: Do not be like your ancestors, to whom the former prophets proclaimed, saying, ‘Thus says the LORD of Hosts: Return now from your evil ways and from your evil deeds.’ But they did not hear or pay attention to me, says the LORD.
-
-v05: Your ancestors—where are they? And the prophets—do they live forever?
-
-v06: But my words and my statutes, which I commanded my servants the prophets, did they not overtake your ancestors?”
-
-Then they returned and said, “Just as the LORD of Hosts intended to do to us according to our ways and our deeds, so the LORD has dealt with us.”
+v03: Tell them: The LORD of Armies says, ‘Return to me,’ declares the LORD of Armies, ‘and I will return to you,’ says the LORD of Armies.
+v04: ‘Do not be like your ancestors. The earlier prophets called to them: The LORD of Armies says, “Turn back from your evil ways and evil deeds.” But they would not listen or pay attention to me,’ declares the LORD.
+v05: ‘Your ancestors—where are they? And the prophets—do they live forever?
+v06: But did not my words and decrees, which I commanded my servants the prophets, overtake your ancestors?’ Then they turned back and said, ‘The LORD of Armies has done to us just as he planned, in keeping with our ways and deeds.’”
 </p>
 
-## First Vision: The Horsemen
+## The horses among the myrtles
 
 <p>
-v07: On the twenty-fourth day of the eleventh month, which is the month of Shebat, in the second year of Darius, the word of the LORD came to Zechariah son of Berechiah, son of Iddo, the prophet:
-
-v08: I saw in the night, and there was a man riding on a red horse. He was standing among the myrtle trees in the ravine, and behind him were red, sorrel, and white horses.
-
-v09: Then I said, “My lord, what are these?”
-
-And the angel who was speaking with me said to me, “I will show you what these are.”
-
-v10: Then the man who was standing among the myrtle trees answered, “These are the ones whom the LORD has sent to patrol the earth.”
-
-v11: And they answered the angel of the LORD who was standing among the myrtle trees and said, “We have patrolled the earth, and look—the entire earth is still and at rest.”
+v07: On the twenty-fourth day of the eleventh month, the month of Shebat, in Darius’s second year, the word of the LORD came to Zechariah son of Berechiah, son of Iddo, the prophet:
+v08: During the night I saw a man riding a red horse. He stood among the myrtle trees in the hollow, with red, sorrel, and white horses behind him.
+v09: I asked, “What are these, my lord?” The angel speaking with me answered, “I will show you what they are.”
+v10: The man standing among the myrtles said, “These are the ones the LORD has sent to patrol the earth.”
+v11: They answered the angel of the LORD standing among the myrtles: “We have patrolled the earth, and look—the whole earth is settled and quiet.”
 </p>
 
-## The LORD Will Comfort Zion
-
 <p>
-v12: Then the angel of the LORD answered and said, “O LORD of Hosts, how long will you withhold compassion from Jerusalem and the cities of Judah, against which you have been angry these seventy years?”
-
-v13: And the LORD answered the angel who was speaking with me with good words, comforting words.
-
-v14: Then the angel who was speaking with me said to me, “Proclaim, saying: Thus says the LORD of Hosts:
-
-I am deeply jealous for Jerusalem
-and for Zion,
-
-v15: and I am very angry
-with the nations that are at ease.
-For I was angry only a little,
-but they made the disaster worse.
-
-v16: So, thus says the LORD:
-
-I have returned to Jerusalem
-with compassion.
-My house will be built in it,
-says the LORD of Hosts,
-and a measuring line will be stretched
-over Jerusalem.
-
-v17: Proclaim again, saying: Thus says the LORD of Hosts:
-
-My cities will again overflow with good,
-and the LORD will again comfort Zion
-and again choose Jerusalem.”
+v12: Then the angel of the LORD said, “LORD of Armies, how long will you withhold compassion from Jerusalem and the cities of Judah, with which you have been angry these seventy years?”
+v13: The LORD answered the angel speaking with me with good words, words of comfort.
+v14: The angel speaking with me said, “Proclaim this: The LORD of Armies says, ‘I am deeply jealous for Jerusalem and Zion.
+v15: I am very angry with the nations at ease. I was angry for a little while, but they made the harm worse.’
+v16: So the LORD says, ‘I have returned to Jerusalem with compassion. My house will be rebuilt within her,’ declares the LORD of Armies, ‘and a measuring line will be stretched over Jerusalem.’
+v17: Proclaim again: The LORD of Armies says, ‘My cities will again overflow with good things. The LORD will again comfort Zion and again choose Jerusalem.’”
 </p>
 
-## Second Vision: The Horns and Craftsmen
+## Horns and craftsmen
 
 <p>
-v18: Then I lifted my eyes and looked, and there were four horns.
-
-v19: I said to the angel who was speaking with me, “What are these?”
-
-And he said to me, “These are the horns that scattered Judah, Israel, and Jerusalem.”
-
+v18: I looked up and saw four horns.
+v19: I asked the angel speaking with me, “What are these?” He answered, “These are the horns that scattered Judah, Israel, and Jerusalem.”
 v20: Then the LORD showed me four craftsmen.
-
-v21: I said, “What are these coming to do?”
-
-He said, “These are the horns that scattered Judah so completely that no one could raise their head. But these have come to terrify them, to cast down the horns of the nations that lifted up their horn against the land of Judah to scatter it.”
+v21: I asked, “What have they come to do?” He answered, “Those horns scattered Judah so thoroughly that no one could lift his head. These have come to terrify them and throw down the horns of the nations that raised a horn against Judah’s land to scatter it.”
 </p>
 
 ## Notes
 
-v01: “the second year of Darius” — The prophecy is situated within the Persian period. Zechariah dates several visions and oracles in relation to the reign of Darius, grounding the prophetic word within a particular historical setting.
+v08: The horse colors are retained without assigning them symbolic meanings that the vision does not explain.
 
-v03: “Return to me … and I will return to you” — The repetition of “return” preserves the reciprocal language of the Hebrew. Divine return is held together with the people’s turning without reducing either to a formula.
-
-v06: “did they not overtake your ancestors?” — God’s words are pictured as pursuing and finally catching those who had refused to hear them.
-
-v08: “sorrel” — The Hebrew color term is uncommon and its precise shade is uncertain. It probably describes a reddish or mottled color distinct from the red and white horses.
-
-v11: “still and at rest” — The apparent peace of the nations contrasts sharply with the ruined condition of Jerusalem and becomes the setting for the complaint that follows.
-
-v12: “seventy years” — The period evokes the prophetic tradition concerning Jerusalem’s devastation and restoration without requiring the number to function merely as a chronological calculation.
-
-v15: “they made the disaster worse” — The nations exceeded their role in Judah’s judgment. The Hebrew portrays them as contributing to or intensifying the harm.
-
-v16: “a measuring line” — Measuring Jerusalem signifies rebuilding and renewed habitation rather than destruction in this context.
-
-v18–21: “horns” — Horns commonly symbolize strength or political power. The vision does not identify the four horns and four craftsmen individually.
-
-v20: “craftsmen” — The Hebrew term can describe workers in wood, stone, or metal. Their precise activity is less important than their role in bringing down the powers represented by the horns.
+v18–21: These public verses correspond to Hebrew 2:1–4; all original source records are retained in the audit binding.
 
 ## Vocabulary
 
-v03: שׁוּב (shuv)
-“To return” or “turn back.” A major prophetic term that can describe physical return, changed direction, and renewed relationship.
+v03: **Return**: The repeated verb connects the people’s return to the LORD with his return to them.
 
-v08: הֲדַס (hadas)
-“Myrtle.” An evergreen shrub or tree, here marking the setting of the night vision.
-
-v12: רָחַם (racham)
-“To have compassion” or “show mercy.” Compassion expressed toward one in distress.
-
-v14: קָנָא (qana)
-“To be jealous” or “zealous.” Intense commitment associated here with the LORD’s concern for Jerusalem and Zion.
-
-v16: קַו (qav)
-“Line” or “measuring line.” An instrument used for measuring and construction.
-
-v18: קֶרֶן (qeren)
-“Horn.” A symbol of strength or power, especially when used figuratively of nations or rulers.
-
-v20: חָרָשׁ (charash)
-“Craftsman” or “artisan.” One skilled in working materials such as wood, stone, or metal.
+v18: **Horns**: Images of the powers that scattered Judah, Israel, and Jerusalem.

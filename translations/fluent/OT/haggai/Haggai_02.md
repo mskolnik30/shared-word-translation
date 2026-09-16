@@ -4,238 +4,90 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-haggai-1-2-biblical-fluency-2026-09-16
 ---
 
-## The Future Glory of the House
+## The house’s coming glory
+
 <p>
-v01: In the seventh month, on the twenty-first day of the month, the word of the LORD came by the hand of Haggai the prophet:
+v01: On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet:
 </p>
 
 <p>
-v02: “Speak now to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and to the remnant of the people, saying,
-v03: ‘Who is left among you
-who saw this house
-in its former glory?
-And how do you see it now?
-Is it not as nothing in your eyes?
+v02: “Speak to Zerubbabel son of Shealtiel, governor of Judah, to Joshua son of Jehozadak, the high priest, and to the remnant of the people. Say:
+v03: ‘Who is left among you who saw this house in its former glory? How does it look to you now? Does it not seem like nothing in your eyes?
 </p>
 
 <p>
-v04: Yet now be strong,
-O Zerubbabel,’
-declares the LORD.
-‘Be strong,
-O Joshua son of Jehozadak,
-the high priest.
-Be strong,
-all you people of the land,’
-declares the LORD.
-‘Work,
-for I am with you,’
-declares the LORD of Hosts,
-v05: ‘according to the covenant
-that I made with you
-when you came out of Egypt.
-My Spirit stands in your midst.
-Do not fear.’
+v04: But now, be strong, Zerubbabel,’ declares the LORD. ‘Be strong, Joshua son of Jehozadak, high priest. Be strong, all you people of the land,’ declares the LORD. ‘Get to work, for I am with you,’ declares the LORD of Armies.
+v05: ‘This is the word I covenanted with you when you came out of Egypt, and my spirit remains among you. Do not be afraid.’
 </p>
 
 <p>
-v06: For thus says the LORD of Hosts:
-‘Yet once more,
-in a little while,
-I will shake the heavens and the earth
-and the sea and the dry land.
-v07: I will shake all nations,
-and the treasures of all nations shall come in,
-and I will fill this house with glory,’
-says the LORD of Hosts.
-v08: ‘The silver is mine,
-and the gold is mine,’
-declares the LORD of Hosts.
-v09: ‘The latter glory of this house
-shall be greater than the former,’
-says the LORD of Hosts.
-‘And in this place
-I will give peace,’
-declares the LORD of Hosts.”
+v06: For the LORD of Armies says, ‘Once more, in a little while, I will shake the heavens and the earth, the sea and the dry land.
+v07: I will shake all the nations, and the treasures of all the nations will come. I will fill this house with glory,’ says the LORD of Armies.
+v08: ‘The silver is mine, and the gold is mine,’ declares the LORD of Armies.
+v09: ‘The later glory of this house will be greater than the former,’ says the LORD of Armies. ‘And in this place I will give peace,’ declares the LORD of Armies.”
 </p>
 
-## Blessing for Obedience
+## A question for the priests
+
 <p>
-v10: On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the LORD came by Haggai the prophet:
+v10: On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the LORD came to Haggai the prophet:
 </p>
 
 <p>
-v11: Thus says the LORD of Hosts:
-“Ask the priests about the law:
-v12: If someone carries holy meat
-in the fold of his garment,
-and with the fold touches bread,
-or stew,
-or wine,
-or oil,
-or any kind of food,
-does it become holy?”
-The priests answered and said,
-“No.”
+v11: The LORD of Armies says, “Ask the priests for instruction:
+v12: ‘If someone carries holy meat in the fold of his garment, and that fold touches bread, stew, wine, oil, or any food, does the food become holy?’” The priests answered, “No.”
 </p>
 
 <p>
-v13: Then Haggai said,
-“If one who is unclean by contact with a dead body
-touches any of these,
-does it become unclean?”
-The priests answered and said,
-“It becomes unclean.”
+v13: Haggai asked, “If someone made unclean by a dead body touches any of these, does it become unclean?” The priests answered, “It becomes unclean.”
 </p>
 
 <p>
-v14: Then Haggai answered and said,
-“So is this people,
-and so is this nation before me,”
-declares the LORD,
-“and so is every work of their hands.
-And what they offer there is unclean.
+v14: Then Haggai said, “That is how these people and this nation are before me,” declares the LORD. “So is all the work of their hands, and what they offer there is unclean.
 </p>
 
 <p>
-v15: Now then,
-consider from this day onward.
-Before stone was placed upon stone
-in the temple of the LORD,
-v16: how did you fare?
-When one came to a heap of twenty measures,
-there were but ten.
-When one came to the wine vat
-to draw fifty measures,
-there were but twenty.
-v17: I struck you
-and all the work of your hands
-with blight and mildew and hail,
-yet you did not turn to me,”
-declares the LORD.
+v15: Now think carefully, from this day onward, about the time before stone was laid on stone in the LORD’s temple.
+v16: When someone came to a heap expecting twenty measures, there were ten. When someone came to the wine vat to draw fifty, there were twenty.
+v17: I struck you and all the work of your hands with blight, mildew, and hail, yet you did not turn to me,” declares the LORD.
 </p>
 
 <p>
-v18: Consider from this day onward,
-from the twenty-fourth day of the ninth month.
-Since the day that the foundation
-of the LORD's temple was laid,
-consider:
-v19: Is the seed yet in the barn?
-Indeed,
-the vine,
-the fig tree,
-the pomegranate,
-and the olive tree
-have yielded nothing.
-But from this day on
-I will bless you.”
+v18: “Think carefully, from this day onward—from the twenty-fourth day of the ninth month, from the day the foundation of the LORD’s temple was laid. Think carefully!
+v19: Is there still seed in the storehouse? The vine, fig tree, pomegranate, and olive tree have not yet borne fruit. From this day on, I will bless you.”
 </p>
 
-## The LORD's Promise to Zerubbabel
+## A word to Zerubbabel
+
 <p>
-v20: The word of the LORD came a second time to Haggai on the twenty-fourth day of the month:
+v20: The word of the LORD came to Haggai a second time on the twenty-fourth day of the month:
 </p>
 
 <p>
-v21: “Speak to Zerubbabel,
-governor of Judah,
-saying,
-‘I am about to shake
-the heavens and the earth,
-v22: and to overthrow
-the throne of kingdoms.
-I am about to destroy
-the strength of the kingdoms of the nations,
-and overthrow the chariots and their riders.
-And the horses and their riders shall go down,
-every one by the sword of his brother.
+v21: “Tell Zerubbabel, governor of Judah: I am shaking the heavens and the earth.
+v22: I will overturn the throne of kingdoms and destroy the strength of the nations’ kingdoms. I will overturn chariots and their riders; horses and riders will fall, each by his brother’s sword.
 </p>
 
 <p>
-v23: In that day,’
-declares the LORD of Hosts,
-‘I will take you,
-O Zerubbabel my servant,
-son of Shealtiel,’
-declares the LORD,
-‘and make you like a signet ring,
-for I have chosen you,’
-declares the LORD of Hosts.”
+v23: On that day,” declares the LORD of Armies, “I will take you, Zerubbabel son of Shealtiel, my servant,” declares the LORD, “and make you like a signet ring, because I have chosen you,” declares the LORD of Armies.
 </p>
 
 ## Notes
 
-v01–03: Some of the older generation remembered Solomon's temple and were discouraged by the modest appearance of the new structure.
+v07: The Hebrew has a plural coming verb with the nations’ desirable things or treasures; the draft does not turn this into a single person’s title.
 
-v04–05: God's answer to discouragement is not architectural grandeur but his abiding presence.
+v12–14: The priests distinguish the transfer of holiness from the transfer of uncleanness. These are ritual categories within the analogy.
 
-v05: The covenant established at the exodus remains the foundation of God's relationship with his people.
-
-v06–07: The shaking of heaven, earth, and nations points beyond the immediate restoration to God's larger redemptive purposes.
-
-v07: The arrival of the nations' treasures emphasizes God's sovereignty over all peoples and resources.
-
-v08: God reminds the people that all wealth ultimately belongs to him.
-
-v09: The future glory of the temple will surpass its former glory because of God's presence and purpose.
-
-v09: Peace here reflects the broader concept of shalom—wholeness, blessing, and reconciliation.
-
-v11–14: The priests confirm that uncleanness spreads more readily than holiness, illustrating Israel's spiritual condition.
-
-v14: Ritual activity cannot compensate for covenant unfaithfulness.
-
-v15–19: The people are called to compare their former hardship with the blessing that follows renewed obedience.
-
-v19: God's promise of blessing comes before any visible harvest appears.
-
-v21–22: The overthrow of kingdoms demonstrates God's rule over world powers.
-
-v23: The signet ring symbolizes royal authority, legitimacy, and divine favor.
-
-v23: Zerubbabel becomes a representative of God's continuing covenant purposes for the line of David.
+v15–19: The repeated “from this day” marks a turning point. Verse 16 does not identify the unit behind the first quantity; “measures” leaves the unit unspecified.
 
 ## Vocabulary
 
-v03: כָּבוֹד (kāḇôḏ)
-“Glory.” Honor, splendor, and manifested significance.
+v09: **Peace**: Shalom includes well-being and wholeness, beyond the absence of conflict.
 
-v04: חָזַק (ḥāzaq)
-“Be strong.” To stand firm with courage and resolve.
-
-v05: בְּרִית (bĕrîṯ)
-“Covenant.” A binding relationship established by divine commitment.
-
-v05: רוּחַ (rûaḥ)
-“Spirit.” God's active and abiding presence among his people.
-
-v06: רָעַשׁ (rāʿaš)
-“To shake.” To cause trembling, upheaval, or disruption.
-
-v07: חֶמְדַּת (ḥemdaṯ)
-“Treasure” or “desirable things.” Valued wealth brought from the nations.
-
-v09: שָׁלוֹם (šālôm)
-
-v09: “Peace.” Wholeness, well-being, and covenant blessing.
-
-v12: קֹדֶשׁ (qōḏeš)
-“Holy.” Set apart for God and his purposes.
-
-v13: טָמֵא (ṭāmēʾ)
-“Unclean.” Ritually defiled and unfit for holy use.
-
-v17: שִׁדָּפוֹן (šiddāp̄ôn)
-“Blight.” Crop damage caused by harsh conditions.
-
-v17: יֵרָקוֹן (yērāqôn)
-“Mildew.” Plant disease causing agricultural loss.
-
-v23: חוֹתָם (ḥôṯām)
-“Signet ring.” An official seal representing authority and ownership.
-
-v23: בָּחַר (bāḥar)
-“To choose.” To select according to divine purpose and favor.
+v23: **Signet**: A seal associated with a bearer’s identity and authority.

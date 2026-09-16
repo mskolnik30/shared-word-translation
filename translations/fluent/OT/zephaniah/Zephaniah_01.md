@@ -4,161 +4,101 @@ testament: OT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zephaniah-1-3-biblical-fluency-2026-09-16
 ---
 
+## The word to Zephaniah
+
 <p>
-v01: The word of the LORD that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah.
+v01: The word of the LORD came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah.
 </p>
 
+## Judgment on the land
+
 <p>
-v02: “I will sweep away, sweep away everything
-from the face of the earth,”
+v02: “I will sweep everything away
+from the face of the ground,” declares the LORD.
+v03: “I will sweep away humans and animals;
+I will sweep away the birds of heaven and the fish of the sea,
+the stumbling blocks along with the wicked.
+I will cut humanity off from the face of the ground,”
 declares the LORD.
-
-v03: “I will sweep away human beings and animals;
-I will sweep away the birds of the heavens
-and the fish of the sea,
-and the stumbling blocks along with the wicked.
-I will cut off humanity
-from the face of the earth,”
-declares the LORD.
-
 v04: “I will stretch out my hand against Judah
-and against all the inhabitants of Jerusalem.
-I will cut off from this place
-the remnant of Baal,
-the name of the idolatrous priests along with the priests;
+and everyone who lives in Jerusalem.
+From this place I will cut off what remains of Baal,
+the name of the idol-priests along with the priests,
+v05: those who bow on the rooftops to heaven’s army,
+those who bow and swear allegiance to the LORD
+while also swearing by their king,
+v06: those who turn away from following the LORD,
+who neither seek the LORD nor inquire of him.”
+</p>
 
-v05: people who bow down on the rooftops
-to the host of the heavens;
-people who bow down, who swear by the LORD
-and swear by Milcom;
+## The day of the LORD
 
-v06: people who turn back from following the LORD,
-who have not sought the LORD
-or inquired of him.”
-
-v07: Be silent before the Lord GOD!
-For the day of the LORD is near.
-For the LORD has prepared a sacrifice;
-he has consecrated his invited guests.
-
-v08: “And on the day of the LORD’s sacrifice,
-I will punish the officials
-and the king’s sons,
-and everyone who wear foreign clothing.
-
-v09: On that day I will punish
-everyone who leap over the threshold,
-who fill their masters’ houses
-with violence and deceit.
-
-v10: “And on that day,” declares the LORD,
-“there will be a sound of outcry from the Fish Gate,
-a wailing from the Second Quarter,
+<p>
+v07: Be silent before the Lord GOD,
+for the day of the LORD is near!
+The LORD has prepared a sacrifice
+and consecrated his invited guests.
+v08: “On the day of the LORD’s sacrifice
+I will punish the officials, the king’s sons,
+and everyone dressed in foreign clothing.
+v09: On that day I will punish everyone who leaps over the threshold,
+who fills their master’s house with violence and deceit.
+v10: On that day,” declares the LORD,
+“a cry will rise from the Fish Gate,
+a wail from the Second Quarter,
 and a great crash from the hills.
-
-v11: Wail, inhabitants of the Mortar,
-for all the people of Canaan are silenced;
-everyone who weigh out silver are cut off.
-
-v12: “At that time I will search Jerusalem with lamps,
-and I will punish those
-who have congealed on their dregs,
+v11: Wail, you who live in the Mortar!
+All the merchant people are silenced;
+all who weigh out silver are cut off.
+v12: At that time I will search Jerusalem with lamps
+and punish the men settled on their dregs,
 who say in their hearts,
-‘The LORD will not do good,
-nor will he do evil.’
-
-v13: Their wealth will become plunder
-and their houses a desolation.
-They will build houses
-but not inhabit them;
-they will plant vineyards
-but not drink their wine.”
-
-v14: Near is the great day of the LORD,
-near and coming very quickly.
-The sound of the day of the LORD—
-bitter! There the warrior cries out.
-
-v15: That day is a day of wrath,
+‘The LORD will do neither good nor harm.’
+v13: Their wealth will become plunder,
+their houses a desolation.
+They will build houses but not live in them,
+plant vineyards but not drink their wine.”
+v14: The great day of the LORD is near—
+near and coming very quickly!
+Listen to the day of the LORD:
+there the warrior cries out bitterly.
+v15: That day is a day of fury,
 a day of distress and anguish,
-a day of devastation and desolation,
+a day of ruin and devastation,
 a day of darkness and gloom,
-a day of cloud and thick darkness,
-
-v16: a day of trumpet blast and battle cry
-against the fortified cities
-and against the high towers.
-
-v17: “I will bring distress upon people,
+a day of clouds and thick darkness,
+v16: a day of horn blast and battle cry
+against fortified cities
+and their high corner towers.
+v17: “I will bring distress upon humanity,
 and they will walk like the blind,
 because they have sinned against the LORD.
 Their blood will be poured out like dust,
-and their flesh like dung.
-
-v18: Neither their silver nor their gold
-will be able to deliver them
-on the day of the LORD’s wrath.
-By the fire of his jealousy
-the entire earth will be consumed;
-for he will make a complete end—
-indeed, a terrifying end—
-of all the inhabitants of the earth.”
+their flesh like dung.”
+v18: Neither their silver nor their gold can rescue them
+on the day of the LORD’s fury.
+The whole earth will be consumed
+by the fire of his jealousy,
+for he will make a sudden, complete end
+of everyone who lives on the earth.
 </p>
 
 ## Notes
 
-v02: The doubled expression translated “I will sweep away, sweep away” intensifies the announcement. The scope is deliberately total: “everything” is taken “from the face of the earth.”
+v03: The Hebrew phrase about stumbling blocks and the wicked is compressed; both are retained rather than replacing the first with an inferred class of idols.
 
-v03: The sequence of humans, animals, birds, and fish reverses the familiar order of creation. The phrase “the stumbling blocks along with the wicked” is syntactically compressed and may refer either to the things that cause ruin or to the consequences of wickedness themselves.
+v05: “Their king” translates the consonants as vocalized. The phrase can also be understood as a divine name, Milcom.
 
-v04: “Idolatrous priests” translates *kemarim*, a term used for non-Yahwistic cult personnel. The following “priests” may broaden the indictment beyond them, though the exact relation between the two groups remains open.
-
-v05: Milcom is the name of an Ammonite deity. The verse condemns divided allegiance: people swear by the LORD while also swearing by another god.
-
-v07: The LORD prepares a “sacrifice,” but the invited guests are consecrated rather than the sacrifice itself. The image is ominously open: those summoned may be participants in judgment or those set apart for it.
-
-v09: “Leap over the threshold” may allude to a ritual practice, but the verse immediately associates these people with violence and deceit filling their masters’ houses.
-
-v11: “The Mortar” likely names a district of Jerusalem, perhaps a low-lying market area. “People of Canaan” can also function as a designation for traders, fitting the reference to those who weigh out silver.
-
-v12: Those “congealed on their dregs” are compared to wine left undisturbed until it thickens on its sediment. The image portrays settled complacency and the conviction that the LORD will neither act for good nor for harm.
-
-v14: The repeated word “near” and the abrupt cry “bitter!” heighten the urgency of the coming day. Even the warrior, ordinarily a figure of strength, cries out.
-
-v15: The relentless repetition of “a day” gives the description a litany-like force. Darkness, cloud, and thick darkness evoke both catastrophe and the fearful divine presence.
-
-v18: “The fire of his jealousy” portrays the LORD’s intense covenantal opposition to unfaithfulness. Silver and gold, the usual means of securing safety, cannot rescue those under judgment.
-
-v03: The phrase “the stumbling blocks along with the wicked” is syntactically compressed and may refer either to the things that cause ruin or to the consequences of wickedness themselves.
+v11–12: The Mortar is a named district. The merchant term also carries the name Canaan; the settled-on-dregs image describes complacency through undisturbed wine.
 
 ## Vocabulary
 
-v02: **אָסַף — *ʾāsap***: “to gather” or “to sweep away.” Its repeated use here turns gathering into a comprehensive removal from the earth.
+v04: **Baal**: A divine title and name associated with the worship condemned here.
 
-v03: **מַכְשֵׁלָה — *makšēlâ***: “stumbling block.” In this judgment oracle, it names what is bound up with wickedness and leads toward ruin.
-
-v04: **כְּמָרִים — *kemārîm***: “idolatrous priests.” The term distinguishes cult personnel connected with unauthorized worship from the ordinary term for priests.
-
-v05: **צָבָא — *ṣābāʾ***: “host” or “army.” “The host of the heavens” refers to the celestial bodies worshiped as divine powers.
-
-v07: **זֶבַח — *zevaḥ***: “sacrifice.” The word frames the day of the LORD as a sacrificial feast, while leaving the identity of the sacrifice chillingly implicit.
-
-v12: **שֶׁמֶר — *šemer***: “dregs” or “sediment.” The wine image describes people who have become fixed and inactive in complacency.
-
-v15: **עֶבְרָה — *ʿebrâ***: “wrath.” Here it characterizes the day as the active outworking of the LORD’s judgment.
-
-v18: **קִנְאָה — *qinʾâ***: “jealousy” or “zeal.” In this passage it expresses the LORD’s consuming response to covenantal betrayal and idolatry.
-
-v02: אָסַף (ʾāsap)
-“to gather” or “to sweep away.” Its repeated use here turns gathering into a comprehensive removal from the earth.
-
-v03: מַכְשֵׁלָה (makšēlâ)
-“stumbling block.” In this judgment oracle, it names what is bound up with wickedness and leads toward ruin.
-
-v04: כְּמָרִים (kemārîm)
-“idolatrous priests.” The term distinguishes cult personnel connected with unauthorized worship from the ordinary term for priests.
-
-v07: זֶבַח (zevaḥ)
-“sacrifice.” The word frames the day of the LORD as a sacrificial feast, while leaving the identity of the sacrifice chillingly implicit.
+v07: **Day of the LORD**: The announced time of divine intervention and judgment.

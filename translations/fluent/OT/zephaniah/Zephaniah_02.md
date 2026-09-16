@@ -4,160 +4,115 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zephaniah-1-3-biblical-fluency-2026-09-16
 ---
 
+## Seek the LORD
+
 <p>
-v01: Gather yourselves, yes, gather,
-nation without shame,
+v01: Gather yourselves; gather together,
+unwanted nation,
 </p>
 
 <p>
-v02: before the decree gives birth—
-the day passes like chaff—
-before the burning anger of the LORD comes upon you,
+v02: before the decree gives birth,
+before the day passes like chaff,
+before the LORD’s burning anger comes upon you,
 before the day of the LORD’s anger comes upon you.
-v03: Seek the LORD, all you humble of the earth,
-who carry out his justice;
-seek righteousness,
-seek humility;
-perhaps you will be hidden
+v03: Seek the LORD, all you humble people of the earth
+who carry out his judgment.
+Seek righteousness; seek humility.
+Perhaps you will be hidden
 on the day of the LORD’s anger.
 </p>
 
+## The surrounding nations
+
 <p>
 v04: For Gaza will be abandoned,
-and Ashkelon a desolation;
-at noon they will drive out Ashdod,
-and Ekron will be uprooted.
+Ashkelon left desolate.
+Ashdod will be driven out at noon,
+and Ekron uprooted.
 </p>
 
 <p>
-v05: Woe to the inhabitants of the seacoast,
+v05: Woe to those who live along the coast,
 the nation of the Cherethites!
-The word of the LORD is against you:
-Canaan, land of the Philistines,
-I will destroy you until no inhabitant remains.
-v06: The seacoast will become pastures,
-meadows for shepherds
-and enclosures for flocks.
-v07: The coastland will belong to the remnant of the house of Judah;
-they will pasture there.
-In the houses of Ashkelon
-they will lie down at evening,
+The word of the LORD is against you,
+Canaan, land of the Philistines:
+“I will destroy you until no inhabitant remains.”
+v06: The coast will become pastureland,
+shepherds’ shelters and pens for flocks.
+v07: The coast will belong to the remnant of the house of Judah.
+There they will graze,
+and in Ashkelon’s houses they will lie down at evening,
 for the LORD their God will attend to them
 and restore their fortunes.
 </p>
 
 <p>
-v08: “I have heard the reproach of Moab
+v08: “I have heard Moab’s taunts
 and the insults of the Ammonites,
-with which they reproached my people
-and made themselves great against their border.”
+who taunted my people
+and boasted against their territory.
 </p>
 
 <p>
-v09: So, as I live,
-declares the LORD of Hosts, the God of Israel,
-Moab will become like Sodom,
-and the Ammonites like Gomorrah:
-a possession of nettles,
-a pit of salt,
-and a desolation forever.
-The remnant of my people will plunder them,
-and what remains of my nation will possess them.
-v10: This will be theirs in return for their pride,
-because they reproached
-and made themselves great
-against the people of the LORD of Hosts.
-v11: The LORD will be terrifying against them,
-for he will make all the gods of the earth waste away;
-then each person, from their own place,
-will bow down to him—
-all the coastlands of the nations.
+v09: So, as I live,” declares the LORD of Armies, the God of Israel,
+“Moab will become like Sodom
+and the Ammonites like Gomorrah—
+a tangle of nettles, a salt pit, a lasting wasteland.
+The remnant of my people will plunder them;
+those left of my nation will possess them.”
+v10: This is what they will receive for their pride,
+because they taunted and boasted
+against the people of the LORD of Armies.
+v11: The LORD will be fearsome against them,
+for he will starve all the gods of the earth.
+All the coastlands of the nations will bow to him,
+each from its own place.
 </p>
 
 <p>
-v12: You Cushites also,
-you will be slain by my sword.
+v12: “You Cushites too—
+they will be slain by my sword.”
 </p>
 
+## Nineveh brought low
+
 <p>
-v13: He will stretch out his hand against the north
-and destroy Assyria;
-he will make Nineveh a desolation,
+v13: He will stretch his hand northward
+and destroy Assyria.
+He will make Nineveh a wasteland,
 dry as the wilderness.
 </p>
 
 <p>
-v14: Flocks will lie down in her midst,
-every beast of the nation;
-both desert owl and hedgehog
-will spend the night among her capitals.
+v14: Herds will lie down within her,
+creatures of every kind.
+The desert owl and the hedgehog
+will lodge on her capitals.
 A voice will sing in the window;
-desolation will be on the threshold,
-for cedarwork has been laid bare.
-v15: This is the jubilant city,
-dwelling secure,
-saying in her heart,
-“I am, and there is none besides me.”
-How she has become a desolation,
+ruin will lie on the threshold,
+for her cedarwork is laid bare.
+v15: This is the carefree city that lived secure,
+saying in her heart, “I am, and no one else!”
+How she has become a wasteland,
 a resting place for wild animals!
-Everyone who passes by her
-will hiss
-and shake a hand.
+Everyone who passes hisses and waves a hand.
 </p>
 
 ## Notes
 
-v01: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.
+v01: The description of the nation is uncertain: “unwanted” can also be understood as shameless or without longing.
 
-v02: The images move quickly from a decree “giving birth” to a day passing like chaff. The compressed language conveys an approaching judgment whose arrival cannot be delayed.
-
-v03: “Perhaps” does not turn seeking the LORD into a technique for securing safety. It holds together the call to righteousness and humility with the uncertainty proper to those facing the LORD’s anger.
-
-v05: “Cherethites” identifies a people associated with the Philistine coast. The following address, “Canaan, land of the Philistines,” intensifies the oracle’s focus on that coastal region.
-
-v07: The LORD’s “attending to” the remnant can carry the sense of visiting, caring for, or intervening on their behalf. The restoration of their fortunes reverses the devastation announced against the coast.
-
-v09: “As I live” is an oath formula. The judgment of Moab and Ammon answers their contempt for Judah, yet the verse also anticipates that the remnant will receive what these nations lose.
-
-v11: To “make all the gods of the earth waste away” depicts the stripping away of their power and worship. The resulting bowing comes from “all the coastlands of the nations,” extending the LORD’s claim beyond Israel.
-
-v14: The identities of the two animals are uncertain; “desert owl” and “hedgehog” represent plausible renderings. The verse piles up sounds, abandoned architecture, and wild creatures to portray Nineveh’s reversal.
-
-v15: Nineveh’s claim, “I am, and there is none besides me,” is an assertion of unmatched self-sufficiency. Its language stands in sharp contrast to the LORD’s unique sovereignty elsewhere in Scripture.
+v14: The identities of the ruin-dwelling creatures are uncertain. The image of abandoned grandeur is clearer than the exact species.
 
 ## Vocabulary
 
-v01: קָשַׁשׁ (*qāshash*)
-— The repeated imperative presses the shameless nation to collect or gather itself before judgment comes.
+v05: **Cherethites**: A people named with the inhabitants of the seacoast.
 
-v03: עָנָו (*ʿānāw*)
-— “Humble” names those who live under the LORD’s justice, not merely those with a modest temperament. The verse calls them to seek both righteousness and humility.
-
-v07: שְׁאֵרִית (*sheʾērît*)
-— “Remnant” identifies those of Judah who remain after loss. Their future on the coast contrasts with the removal of its former inhabitants.
-
-v07: פָּקַד (*pāqad*)
-— Rendered “attend to,” this verb can describe the LORD’s decisive visitation, whether in judgment or care. Here it grounds the remnant’s restoration.
-
-v09: נְאֻם (*neʾum*)
-— “Declares” introduces the LORD’s solemn pronouncement and gives the oath in this verse prophetic authority.
-
-v10: גָּאוֹן (*gāʾôn*)
-— “Pride” is the exaltation of Moab and Ammon over the LORD’s people. Their self-magnifying speech becomes the stated reason for judgment.
-
-v11: רָזָה (*rāzāh*)
-— “Make … waste away” pictures the LORD reducing the gods of the earth to weakness and lack, exposing their inability to rival him.
-
-v01: קָשַׁשׁ (qāshash)
-“To gather; collect.” The repeated imperative creates an insistent summons.
-
-v03: עָנָו (ʿānāw)
-“Humble” names those who live under the LORD’s justice, not merely those with a modest temperament. The verse calls them to seek both righteousness and humility.
-
-v07: שְׁאֵרִית (sheʾērît)
-“Remnant” identifies those of Judah who remain after loss. Their future on the coast contrasts with the removal of its former inhabitants.
-
-v07: פָּקַד (pāqad)
-“Attend to.” Can describe the LORD’s decisive visitation, whether in judgment or care. Here it grounds the remnant’s restoration.
+v07: **Remnant**: Those remaining after devastation; the word carries the prospect of survival and restoration.

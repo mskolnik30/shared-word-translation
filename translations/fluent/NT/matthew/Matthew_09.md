@@ -4,122 +4,96 @@ testament: NT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-matthew-1-23-biblical-fluency-2026-09-16
 ---
 
-## A Paralytic Forgiven and Healed
+## Authority to forgive
 
 <p>
 v01: Jesus got into a boat, crossed over, and came to his own town.
-v02: And look—some people brought him a paralyzed man lying on a mat. When Jesus saw their faith, he said to the paralytic, “Take courage, child. Your sins are forgiven.”
-v03: Then some of the scribes said to themselves, “This man is blaspheming.”
-v04: Knowing their thoughts, Jesus said, “Why do you think evil in your hearts?
-v05: Which is easier—to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
-v06: But so that you may know that the Son of Man has authority on earth to forgive sins”—then he said to the paralytic—“Get up, pick up your mat, and go home.”
+v02: Some people brought him a paralyzed man lying on a mat. When Jesus saw their faith, he told the man, “Take courage, child. Your sins are forgiven.”
+v03: Some of the scribes said to themselves, “This man is blaspheming.”
+v04: Jesus knew what they were thinking. “Why are you thinking evil in your hearts?” he asked.
+v05: “Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
+v06: But so that you may know the Son of Man has authority on earth to forgive sins”—then he said to the paralyzed man, “Get up, pick up your mat, and go home.”
 v07: The man got up and went home.
 v08: When the crowds saw this, they were afraid and glorified God, who had given such authority to human beings.
 </p>
 
-## Matthew Is Called
+## Matthew follows Jesus
 
 <p>
-v09: As Jesus went on from there, he saw a man named Matthew sitting at the tax booth. He said to him, “Follow me.” Matthew got up and followed him.
-v10: While Jesus was reclining at the table in the house, many tax collectors and sinners came and ate with Jesus and his disciples.
-v11: When the Pharisees saw this, they asked his disciples, “Why does your teacher eat with tax collectors and sinners?”
-v12: When Jesus heard, he said, “Those who are healthy do not need a physician, but those who are sick do.
-v13: Go and learn what this means: ‘I desire mercy and not sacrifice.’ For I did not come to call the righteous, but sinners.”
+v09: As Jesus went on from there, he saw a man named Matthew sitting at the tax booth. “Follow me,” he told him. Matthew got up and followed him.
+v10: While Jesus was reclining at a meal in the house, many tax collectors and sinners came and reclined with him and his disciples.
+v11: The Pharisees saw this and asked his disciples, “Why does your teacher eat with tax collectors and sinners?”
+v12: Jesus heard them and said, “Healthy people don’t need a doctor; sick people do.
+v13: Go and learn what this means: ‘I desire mercy, not sacrifice.’ For I came to call sinners, not the righteous.”
 </p>
 
-## Questions About Fasting
+## Fasting, cloth, and wineskins
 
 <p>
-v14: Then John's disciples came to Jesus and asked, “Why do we and the Pharisees fast often, but your disciples do not fast?”
-v15: Jesus said to them, “Can the wedding guests mourn while the bridegroom is with them? But days will come when the bridegroom is taken away from them, and then they will fast.
-v16: No one puts a patch of unshrunk cloth on an old garment, because the patch pulls away from the garment and makes the tear worse.
-v17: Neither do people put new wine into old wineskins. Otherwise the skins burst, the wine spills, and the skins are ruined. Instead, new wine is put into fresh wineskins, and both are preserved.”
+v14: Then John’s disciples came to him. “Why do we and the Pharisees fast often,” they asked, “but your disciples don’t fast?”
+v15: Jesus said to them, “Can wedding guests mourn while the bridegroom is with them? The days will come when the bridegroom is taken away from them. Then they will fast.
+v16: No one sews a patch of unshrunk cloth onto an old garment. The patch pulls away from the garment, making the tear worse.
+v17: Nor do people put new wine into old wineskins. If they do, the skins burst, the wine spills, and the skins are ruined. They put new wine into fresh wineskins, and both are preserved.”
 </p>
 
-## A Girl Raised and a Woman Healed
+## A girl and a suffering woman
 
 <p>
-v18: While Jesus was saying these things, a ruler came, bowed before him, and said, “My daughter has just died. But come, lay your hand on her, and she will live.”
+v18: While he was telling them these things, a ruler came and bowed before him. “My daughter has just died,” he said. “But come and lay your hand on her, and she will live.”
 v19: Jesus got up and followed him, along with his disciples.
-v20: And look—a woman who had been suffering from bleeding for twelve years came up behind him and touched the fringe of his cloak.
-v21: For she was saying to herself, “If I only touch his cloak, I will be saved.”
-v22: Jesus turned, saw her, and said, “Take courage, daughter. Your faith has saved you.” And the woman was made well from that hour.
+v20: Just then, a woman who had been bleeding for twelve years came up behind him and touched the fringe of his garment.
+v21: She had been saying to herself, “If I only touch his garment, I will be healed.”
+v22: Jesus turned, saw her, and said, “Take courage, daughter. Your faith has made you well.” From that moment the woman was healed.
 </p>
 
 <p>
-v23: When Jesus came to the ruler's house and saw the flute players and the crowd making a commotion,
-v24: he said, “Go away. The girl has not died but is sleeping.” And they laughed at him.
-v25: After the crowd had been put outside, Jesus went in, took her by the hand, and the girl got up.
-v26: News about this spread throughout that entire region.
+v23: When Jesus reached the ruler’s house, he saw the flute players and the noisy crowd.
+v24: “Go away,” he said. “The girl isn’t dead; she is sleeping.” But they laughed at him.
+v25: After the crowd had been put outside, he went in and took her hand, and the girl got up.
+v26: News of this spread through that entire region.
 </p>
 
-## Two Blind Men Receive Sight
+## Two blind men
 
 <p>
-v27: As Jesus went on from there, two blind men followed him, crying out, “Have mercy on us, Son of David!”
-v28: When he entered the house, the blind men came to him. Jesus asked them, “Do you trust that I am able to do this?” They said to him, “Yes, Lord.”
+v27: As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!”
+v28: When he entered the house, the blind men came to him. Jesus asked them, “Do you believe I can do this?” “Yes, Lord,” they answered.
 v29: Then he touched their eyes and said, “Let it happen for you according to your faith.”
-v30: Their eyes were opened. Jesus sternly warned them, “See that no one knows about this.”
-v31: But they went out and spread news about him throughout that whole region.
+v30: Their eyes were opened. Jesus warned them sternly, “See that no one learns about this.”
+v31: But they went out and spread news of him throughout that region.
 </p>
 
-## A Mute Man Speaks
+## A man speaks
 
 <p>
-v32: As they were going out, look—a demonized man who could not speak was brought to Jesus.
-v33: After the demon was cast out, the man spoke. The crowds were amazed and said, “Nothing like this has ever been seen in Israel.”
-v34: But the Pharisees said, “He casts out demons by the ruler of the demons.”
+v32: As they were leaving, people brought him a demon-possessed man who could not speak.
+v33: Once the demon was driven out, the man spoke. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!”
+v34: But the Pharisees said, “He drives out demons by the ruler of demons.”
 </p>
 
-## Compassion for the Crowds
+## The harvest needs workers
 
 <p>
-v35: Jesus went through all the towns and villages, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and every sickness.
-v36: When he saw the crowds, he had compassion on them because they were harassed and helpless, like sheep without a shepherd.
-v37: Then he said to his disciples, “The harvest is plentiful, but the workers are few.
-v38: Therefore ask the Lord of the harvest to send out workers into his harvest.”
+v35: Jesus traveled through all the towns and villages, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and every infirmity.
+v36: When he saw the crowds, he was moved with compassion for them. They were harassed and helpless, like sheep without a shepherd.
+v37: Then he told his disciples, “The harvest is plentiful, but the workers are few.
+v38: So ask the Lord of the harvest to send workers out into his harvest.”
 </p>
 
 ## Notes
 
-v02–08: Forgiveness and healing are held together through the Son of Man's authority, as in Mark, but Matthew ends by saying God gave such authority “to human beings,” broadening the crowd's response.
+v08,18: Verse 8 speaks of authority given to human beings in the plural. In verse 18 the ruler says his daughter has just died; this sequence is preserved.
 
-v09: Matthew names the tax collector “Matthew,” while Mark names Levi. Fluent preserves each Gospel's form.
-
-v13: Matthew's Hosea citation becomes a key interpretive refrain for mercy over sacrificial status.
-
-v18: Matthew compresses the ruler's story: the daughter is already said to have died when he approaches Jesus.
-
-v21–22: `sōzō` can mean save, heal, or make well. Fluent preserves “saved” in the woman's expectation and Jesus' pronouncement while allowing the narrative result to be “made well.”
-
-v27: “Son of David” becomes an increasingly important royal/messianic title in Matthew.
-
-v36: Compassion leads into the mission discourse of chapter 10; the sheep/harvest images prepare for sending the disciples.
+v13: The pinned verse ends with calling sinners; it does not add “to repentance.”
 
 ## Vocabulary
 
-v02: ἄφεσις / ἀφίημι (aphesis / aphiēmi)
-“Forgiveness, release / to forgive.”
+v09: **Tax collector**: A person collecting revenue; the occupation is part of the social dispute over Jesus’ table companions.
 
-v06: ἐξουσία (exousia)
-“Authority.”
-
-v13: ἔλεος (eleos)
-“Mercy.”
-
-v18: ἄρχων (archōn)
-“Ruler, leader.”
-
-v22: σῴζω (sōzō)
-“To save, heal, make well.”
-
-v27: υἱὸς Δαυίδ (huios Dauid)
-“Son of David.”
-
-v36: σπλαγχνίζομαι (splagchnizomai)
-“To have compassion.”
-
-v38: θερισμός (therismos)
-“Harvest.”
+v17: **Wineskins**: Skin containers whose condition matters in the image of fermenting new wine.

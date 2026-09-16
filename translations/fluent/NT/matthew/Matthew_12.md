@@ -4,155 +4,121 @@ testament: NT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-matthew-1-23-biblical-fluency-2026-09-16
 ---
 
-## Lord of the Sabbath
+## Grain on the Sabbath
 
 <p>
-v01: At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began picking heads of grain and eating them.
-v02: When the Pharisees saw this, they said to him, “Look, your disciples are doing what is not lawful to do on the Sabbath.”
-v03: He said to them, “Have you not read what David did when he and those with him were hungry?
-v04: He entered the house of God and they ate the bread of the Presence, which was not lawful for him or those with him to eat, but only for the priests.
-v05: Or have you not read in the Law that on the Sabbath the priests in the temple break the Sabbath and are innocent?
-v06: But I tell you, something greater than the temple is here.
-v07: If you had known what this means, ‘I desire mercy and not sacrifice,’ you would not have condemned the innocent.
+v01: At that time Jesus walked through grainfields on the Sabbath. His disciples were hungry and began picking heads of grain and eating them.
+v02: The Pharisees saw it and told him, “Look! Your disciples are doing what is not permitted on the Sabbath.”
+v03: He answered them, “Haven’t you read what David did when he and his companions were hungry?
+v04: He entered the house of God, and they ate the bread of the Presence, which neither he nor his companions were permitted to eat—only the priests.
+v05: Or haven’t you read in the Law that on Sabbaths the priests in the temple profane the Sabbath and yet are innocent?
+v06: I tell you, something greater than the temple is here.
+v07: If you had understood, ‘I desire mercy, not sacrifice,’ you would not have condemned the innocent.
 v08: For the Son of Man is Lord of the Sabbath.”
 </p>
 
-## A Man's Hand Restored
+## A hand restored
 
 <p>
-v09: Jesus left there and entered their synagogue.
-v10: And look—a man there had a withered hand. They asked Jesus, “Is it lawful to heal on the Sabbath?” so that they might accuse him.
-v11: He said to them, “Which one of you, if you have a sheep that falls into a pit on the Sabbath, will not take hold of it and lift it out?
-v12: How much more valuable is a human being than a sheep! Therefore it is lawful to do good on the Sabbath.”
-v13: Then he said to the man, “Stretch out your hand.” He stretched it out, and it was restored, healthy like the other.
-v14: But the Pharisees went out and plotted against Jesus, how they might destroy him.
+v09: He left that place and entered their synagogue.
+v10: A man with a withered hand was there. They asked Jesus, “Is it permitted to heal on the Sabbath?” They wanted grounds to accuse him.
+v11: He said to them, “If one of you has a sheep and it falls into a pit on the Sabbath, won’t you take hold of it and lift it out?
+v12: How much more valuable a human being is than a sheep! So it is permitted to do good on the Sabbath.”
+v13: Then he told the man, “Stretch out your hand.” He stretched it out, and it was restored, as healthy as the other.
+v14: The Pharisees went out and plotted against him, discussing how to destroy him.
 </p>
 
-## God's Chosen Servant
+## The chosen servant
 
 <p>
-v15: Knowing this, Jesus withdrew from there. Many followed him, and he healed them all.
-v16: He warned them not to make him known,
-v17: so that what was spoken through Isaiah the prophet might be fulfilled:
-v18: “Look, my servant whom I chose,
+v15: Jesus learned of this and withdrew. Many followed him, and he healed them all.
+v16: He warned them not to make him known.
+v17: This fulfilled what was spoken through the prophet Isaiah:
+v18: “Here is my servant, whom I have chosen,
 my beloved, in whom my soul delights.
 I will put my Spirit upon him,
-and he will announce justice to the Gentiles.
-v19: He will not quarrel or cry out,
-and no one will hear his voice in the streets.
-v20: A crushed reed he will not break,
-and a smoldering wick he will not extinguish,
-until he brings justice to victory.
-v21: And in his name the Gentiles will hope.”
+and he will announce justice to the nations.
+v19: He will not quarrel or shout;
+no one will hear his voice in the streets.
+v20: He will not break a crushed reed
+or put out a smoldering wick,
+until he brings justice through to victory.
+v21: And the nations will hope in his name.”
 </p>
 
-## Jesus and Beelzebul
+## Whose power?
 
 <p>
-v22: Then a demonized man who was blind and unable to speak was brought to him. Jesus healed him, so that the man spoke and saw.
-v23: All the crowds were amazed and said, “Could this be the Son of David?”
-v24: But when the Pharisees heard, they said, “This man does not cast out demons except by Beelzebul, the ruler of the demons.”
-v25: Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself is brought to ruin, and no city or house divided against itself will stand.
-v26: If Satan casts out Satan, he is divided against himself. How then will his kingdom stand?
-v27: And if I cast out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.
-v28: But if I cast out demons by the Spirit of God, then the kingdom of God has come upon you.
-v29: Or how can someone enter a strong man's house and plunder his possessions unless he first binds the strong man? Then he will plunder his house.
+v22: Then a demon-possessed man who was blind and unable to speak was brought to him. Jesus healed him, so that the man could speak and see.
+v23: All the crowds were astonished. “Could this be the Son of David?” they asked.
+v24: But when the Pharisees heard this, they said, “This man drives out demons only by Beelzebul, the ruler of demons.”
+v25: Knowing their thoughts, he said to them, “Every kingdom divided against itself is laid waste. No town or household divided against itself will stand.
+v26: If Satan drives out Satan, he is divided against himself. How then will his kingdom stand?
+v27: And if I drive out demons by Beelzebul, by whom do your own followers drive them out? So they will be your judges.
+v28: But if I drive out demons by the Spirit of God, then the kingdom of God has reached you.
+v29: How can anyone enter a strong man’s house and seize his belongings without first tying up the strong man? Only then can the house be plundered.
 v30: Whoever is not with me is against me, and whoever does not gather with me scatters.
 </p>
 
-## Blasphemy Against the Spirit
-
 <p>
-v31: “Therefore I tell you, every sin and blasphemy will be forgiven people, but blasphemy against the Spirit will not be forgiven.
-v32: Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+v31: That is why I tell you: every sin and blasphemy will be forgiven people, but blasphemy against the Spirit will not be forgiven.
+v32: Anyone who speaks against the Son of Man will be forgiven. But anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
 </p>
 
-## Trees and Words
+## The tree and its fruit
 
 <p>
-v33: “Either make the tree good and its fruit good, or make the tree bad and its fruit bad, because a tree is known by its fruit.
-v34: Brood of vipers! How can you speak good things when you are evil? For the mouth speaks from the abundance of the heart.
-v35: A good person brings good things out of a good treasury, and an evil person brings evil things out of an evil treasury.
-v36: I tell you that on the day of judgment people will give account for every careless word they speak.
-v37: For by your words you will be set right, and by your words you will be condemned.”
+v33: “Either make the tree good and its fruit good, or make the tree rotten and its fruit rotten. A tree is recognized by its fruit.
+v34: You brood of vipers! How can you speak good things when you are evil? The mouth speaks from what overflows from the heart.
+v35: A good person brings good things out of a good store, and an evil person brings evil things out of an evil store.
+v36: I tell you, people will give an account on the day of judgment for every careless word they speak.
+v37: For by your words you will be vindicated, and by your words you will be condemned.”
 </p>
 
-## The Sign of Jonah
+## The sign of Jonah
 
 <p>
-v38: Then some of the scribes and Pharisees answered him, “Teacher, we want to see a sign from you.”
-v39: He answered them, “An evil and adulterous generation seeks a sign, but no sign will be given to it except the sign of Jonah the prophet.
-v40: For just as Jonah was in the belly of the great fish three days and three nights, so the Son of Man will be in the heart of the earth three days and three nights.
-v41: The people of Nineveh will rise at the judgment with this generation and condemn it, because they repented at Jonah's proclamation—and look, something greater than Jonah is here.
-v42: The queen of the south will rise at the judgment with this generation and condemn it, because she came from the ends of the earth to hear Solomon's wisdom—and look, something greater than Solomon is here.
+v38: Then some scribes and Pharisees said to him, “Teacher, we want to see a sign from you.”
+v39: He answered, “An evil and adulterous generation demands a sign, but no sign will be given to it except the sign of the prophet Jonah.
+v40: Just as Jonah was in the belly of the sea creature for three days and three nights, so the Son of Man will be in the heart of the earth for three days and three nights.
+v41: The men of Nineveh will rise at the judgment with this generation and condemn it, because they repented at Jonah’s proclamation. And look—something greater than Jonah is here.
+v42: The queen of the South will rise at the judgment with this generation and condemn it, because she came from the ends of the earth to hear Solomon’s wisdom. And look—something greater than Solomon is here.
 </p>
 
-## The Returning Unclean Spirit
+## The returning spirit
 
 <p>
-v43: “When an unclean spirit comes out of a person, it passes through waterless places looking for rest and does not find it.
-v44: Then it says, ‘I will return to my house that I left.’ When it comes, it finds the house empty, swept, and put in order.
-v45: Then it goes and brings with it seven other spirits more evil than itself, and they enter and live there. The final condition of that person becomes worse than the first. So it will also be with this evil generation.”
+v43: “When an unclean spirit leaves a person, it travels through waterless places seeking rest, but finds none.
+v44: Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house empty, swept, and put in order.
+v45: Then it goes and brings seven other spirits more evil than itself. They enter and settle there, and that person’s final condition becomes worse than the first. So it will be with this evil generation.”
 </p>
 
-## Jesus' True Family
+## Jesus’ family
 
 <p>
-v46: While Jesus was still speaking to the crowds, look—his mother and brothers stood outside, wanting to speak with him.
-v47: Someone told him, “Look, your mother and your brothers are standing outside, wanting to speak with you.”
-v48: But Jesus answered the person who told him, “Who is my mother, and who are my brothers?”
-v49: Stretching out his hand toward his disciples, he said, “Look—my mother and my brothers!
-v50: Whoever does the will of my Father in heaven is my brother and sister and mother.”
+v46: While he was still speaking to the crowds, his mother and brothers were standing outside, wanting to speak to him.
+v47: Someone told him, “Your mother and brothers are standing outside, wanting to speak to you.”
+v48: He answered the person who told him, “Who is my mother, and who are my brothers?”
+v49: Stretching his hand toward his disciples, he said, “Here are my mother and my brothers!
+v50: For whoever does the will of my Father in heaven is my brother and sister and mother.”
 </p>
 
 ## Notes
 
-v06: The neuter comparative means “something greater than the temple,” leaving the identity of that “greater” reality to the surrounding christological argument.
+v06,18–21: “Something greater” preserves the neuter Greek. The Isaiah quotation follows Matthew’s Greek wording, including justice brought to victory.
 
-v07: Matthew repeats Hosea 6:6, linking Sabbath controversy with mercy.
+v31–32,40: The warning about the Spirit is kept in the setting of the accusation about demonic power. The three days and three nights remain exactly stated without a supplied chronology.
 
-v18–21: Matthew's long Isaiah citation characterizes Jesus' mission through gentleness, Spirit, justice, and Gentile hope.
-
-v28: Matthew says “Spirit of God” where Luke has “finger of God.” Fluent preserves Matthew.
-
-v31–32: The warning arises in a context where God's liberating work is being attributed to demonic power. Fluent does not turn the saying into a checklist for anxious readers.
-
-v37: `dikaioō` is rendered “set right,” consistent with the project's vocabulary, but here words function as evidence at judgment rather than a full theory of justification.
-
-v40: Matthew interprets Jonah typologically in relation to the Son of Man's death and time in the earth.
-
-v47: SBLGNT includes v47, though the verse has manuscript variation. It remains in the public sequence.
+v47: This verse is included because it is printed in the pinned Greek text; its variant markers are retained in the source binding.
 
 ## Vocabulary
 
-v06: ἱερόν (hieron)
-“Temple precincts.”
+v04: **Bread of the Presence**: Sacred bread associated with the sanctuary and priestly use.
 
-v07: ἔλεος (eleos)
-“Mercy.”
-
-v18: κρίσις (krisis)
-“Justice, judgment.”
-
-v23: υἱὸς Δαυίδ (huios Dauid)
-“Son of David.”
-
-v28: πνεῦμα θεοῦ (pneuma theou)
-“Spirit of God.”
-
-v31: βλασφημία (blasphēmia)
-“Blasphemy, slander.”
-
-v37: δικαιόω (dikaioō)
-“To set right, justify, vindicate.”
-
-v39: σημεῖον (sēmeion)
-“Sign.”
-
-v40: κῆτος (kētos)
-“Great fish, sea creature.”
-
-v50: θέλημα (thelēma)
-“Will, purpose.”
+v50: **Brother, sister, mother**: Family terms extended to those who do the Father’s will.

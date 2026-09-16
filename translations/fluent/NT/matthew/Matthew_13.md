@@ -4,172 +4,138 @@ testament: NT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-matthew-1-23-biblical-fluency-2026-09-16
 ---
 
-## The Sower
+## The sower
 
 <p>
-v01: That same day Jesus went out of the house and sat beside the sea.
-v02: Such large crowds gathered around him that he got into a boat and sat down, while the whole crowd stood on the shore.
-v03: He told them many things in parables: “Look, a sower went out to sow.
-v04: As he sowed, some seed fell along the path, and the birds came and ate it.
-v05: Other seed fell on rocky ground where it did not have much soil. It sprang up quickly because the soil was shallow.
-v06: But when the sun rose, it was scorched, and because it had no root, it withered.
-v07: Other seed fell among thorns, and the thorns grew up and choked it.
-v08: Other seed fell on good soil and produced fruit—some a hundredfold, some sixty, and some thirty.
+v01: That same day Jesus left the house and sat beside the sea.
+v02: Large crowds gathered around him, so he got into a boat and sat there while the whole crowd stood on the shore.
+v03: He told them many things in parables: “Listen! A sower went out to sow.
+v04: As he sowed, some seeds fell beside the path, and birds came and ate them.
+v05: Others fell on rocky ground with little soil. They sprouted at once because the soil was shallow.
+v06: But when the sun rose, they were scorched. Because they had no root, they withered.
+v07: Others fell among thorns. The thorns grew up and choked them.
+v08: Others fell on good soil and produced a crop: some a hundredfold, some sixty, some thirty.
 v09: Let anyone with ears listen.”
 </p>
 
-## Why Jesus Speaks in Parables
+## Why parables?
 
 <p>
-v10: The disciples came and asked him, “Why do you speak to them in parables?”
-v11: He answered, “To you it has been given to know the mysteries of the kingdom of heaven, but to them it has not been given.
-v12: For whoever has, more will be given, and they will have abundance. But whoever does not have, even what they have will be taken away.
-v13: This is why I speak to them in parables: because though seeing, they do not see; and though hearing, they do not hear or understand.
-v14: In them Isaiah's prophecy is fulfilled:
-‘You will indeed hear but never understand,
-and you will indeed see but never perceive.
-v15: For this people's heart has become dull;
-they hear with heavy ears,
+v10: The disciples came to him and asked, “Why do you speak to them in parables?”
+v11: He answered, “You have been given knowledge of the mysteries of the kingdom of heaven, but they have not.
+v12: For whoever has will be given more and will have abundance. But whoever does not have will lose even what they have.
+v13: That is why I speak to them in parables: though they see, they do not see; though they hear, they do not hear or understand.
+v14: In them Isaiah’s prophecy is fulfilled:
+‘You will hear and hear, but never understand;
+you will look and look, but never see.
+v15: For this people’s heart has grown dull.
+Their ears are hard of hearing,
 and they have closed their eyes,
 so that they might not see with their eyes,
 hear with their ears,
 understand with their heart,
-turn,
-and I would heal them.’
-v16: But blessed are your eyes because they see, and your ears because they hear.
-v17: Truly I tell you, many prophets and righteous people longed to see what you see and did not see it, and to hear what you hear and did not hear it.
+and turn—and I would heal them.’
+v16: But blessed are your eyes, because they see, and your ears, because they hear.
+v17: Truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
 </p>
 
-## The Sower Explained
+## The sower explained
 
 <p>
-v18: “So hear the parable of the sower.
-v19: When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what was sown in the heart. This is what was sown along the path.
-v20: What was sown on rocky ground is the one who hears the word and immediately receives it with joy,
-v21: yet has no root within and lasts only a while. When trouble or persecution comes because of the word, that person immediately falls away.
-v22: What was sown among thorns is the one who hears the word, but the anxiety of the age and the deception of wealth choke the word, and it becomes unfruitful.
-v23: But what was sown on good soil is the one who hears the word and understands it, who indeed bears fruit and produces—one a hundredfold, another sixty, another thirty.”
+v18: “So listen to the parable of the sower.
+v19: When anyone hears the word of the kingdom without understanding it, the evil one comes and snatches away what was sown in that person’s heart. This is the one sown beside the path.
+v20: The one sown on rocky ground is someone who hears the word and immediately receives it with joy,
+v21: but has no root within and lasts only a little while. When trouble or persecution comes because of the word, that person immediately falls away.
+v22: The one sown among thorns hears the word, but the anxiety of this age and the deceitfulness of wealth choke the word, and it becomes unfruitful.
+v23: The one sown on good soil hears the word and understands it. That person bears fruit and produces a hundredfold, or sixty, or thirty.”
 </p>
 
-## Weeds Among Wheat
+## Wheat and darnel
 
 <p>
-v24: He put another parable before them: “The kingdom of heaven is like a man who sowed good seed in his field.
-v25: But while everyone was sleeping, his enemy came, sowed weeds among the wheat, and went away.
-v26: When the plants grew and produced grain, then the weeds also appeared.
-v27: The landowner's servants came and said to him, ‘Master, did you not sow good seed in your field? Where did the weeds come from?’
-v28: He told them, ‘An enemy did this.’ The servants asked, ‘Do you want us to go and gather them?’
-v29: But he said, ‘No, because when you gather the weeds you might uproot the wheat with them.
-v30: Let both grow together until the harvest. At harvest time I will tell the harvesters: Gather the weeds first and tie them into bundles to burn them, but gather the wheat into my barn.’”
+v24: He set another parable before them: “The kingdom of heaven is like a man who sowed good seed in his field.
+v25: While people were sleeping, his enemy came, sowed darnel among the wheat, and went away.
+v26: When the plants sprouted and formed grain, the darnel appeared as well.
+v27: The owner’s slaves came and asked him, ‘Master, didn’t you sow good seed in your field? Where did the darnel come from?’
+v28: ‘An enemy has done this,’ he told them. The slaves asked him, ‘Do you want us to go and gather it?’
+v29: ‘No,’ he said. ‘While gathering the darnel you might uproot the wheat along with it.
+v30: Let both grow together until the harvest. At harvest time I will tell the reapers: Gather the darnel first and tie it in bundles to burn, but bring the wheat into my barn.’”
 </p>
 
-## Mustard Seed and Yeast
+## Mustard seed and leaven
 
 <p>
-v31: He put another parable before them: “The kingdom of heaven is like a mustard seed that a man took and sowed in his field.
-v32: It is smaller than all the other seeds, but when it grows it becomes larger than the garden plants and becomes a tree, so that the birds of the sky come and nest in its branches.”
-v33: He told them another parable: “The kingdom of heaven is like yeast that a woman took and mixed into three measures of flour until all of it was leavened.”
+v31: He set another parable before them: “The kingdom of heaven is like a mustard seed that a man took and sowed in his field.
+v32: It is smaller than all the seeds, but when it grows it is larger than the garden plants and becomes a tree, so that the birds of the sky come and nest in its branches.”
+v33: He told them another parable: “The kingdom of heaven is like leaven that a woman took and hid in three measures of flour until it was all leavened.”
 </p>
 
-## Hidden Things Revealed
+## Hidden things spoken
 
 <p>
-v34: Jesus spoke all these things to the crowds in parables, and he did not speak to them without a parable,
-v35: so that what was spoken through the prophet might be fulfilled:
+v34: Jesus spoke all these things to the crowds in parables. He said nothing to them without a parable,
+v35: fulfilling what was spoken through the prophet:
 “I will open my mouth in parables;
-I will proclaim things hidden from the foundation of the world.”
+I will utter things hidden since the foundation.”
 </p>
 
-## The Weeds Explained
+## The darnel explained
 
 <p>
-v36: Then Jesus left the crowds and went into the house. His disciples came to him and said, “Explain to us the parable of the weeds in the field.”
-v37: He answered, “The one sowing the good seed is the Son of Man.
-v38: The field is the world. The good seed are the children of the kingdom; the weeds are the children of the evil one.
-v39: The enemy who sowed them is the devil. The harvest is the completion of the age, and the harvesters are angels.
-v40: Therefore, just as the weeds are gathered and burned with fire, so it will be at the completion of the age.
+v36: Then he left the crowds and went into the house. His disciples came to him and said, “Explain the parable of the darnel in the field to us.”
+v37: He answered, “The one who sows the good seed is the Son of Man.
+v38: The field is the world. The good seed are the children of the kingdom; the darnel are the children of the evil one.
+v39: The enemy who sowed them is the devil. The harvest is the completion of the age, and the reapers are angels.
+v40: Just as darnel is gathered and burned in fire, so it will be at the completion of the age.
 v41: The Son of Man will send his angels, and they will gather out of his kingdom everything that causes stumbling and everyone who practices lawlessness.
-v42: They will throw them into the furnace of fire. There will be weeping and grinding of teeth.
-v43: Then the righteous will shine like the sun in the kingdom of their Father. Let anyone with ears listen.
+v42: They will throw them into the blazing furnace. There will be weeping and grinding of teeth.
+v43: Then the righteous will shine like the sun in their Father’s kingdom. Let anyone with ears listen.
 </p>
 
-## Treasure, Pearl, and Net
+## Treasure, pearl, and net
 
 <p>
-v44: “The kingdom of heaven is like treasure hidden in a field. A man found it and hid it again, and in his joy he goes and sells everything he has and buys that field.
-v45: Again, the kingdom of heaven is like a merchant searching for fine pearls.
-v46: When he found one pearl of great value, he went, sold everything he had, and bought it.
-v47: Again, the kingdom of heaven is like a net thrown into the sea that gathered fish of every kind.
-v48: When it was full, they pulled it onto the shore, sat down, gathered the good fish into containers, and threw the bad away.
-v49: So it will be at the completion of the age. The angels will go out, separate the evil from among the righteous,
-v50: and throw them into the furnace of fire. There will be weeping and grinding of teeth.”
+v44: “The kingdom of heaven is like treasure hidden in a field. A man found it and hid it again. In his joy he goes and sells everything he has and buys that field.
+v45: “Again, the kingdom of heaven is like a merchant searching for fine pearls.
+v46: When he found one pearl of great value, he went and sold everything he had and bought it.
+v47: “Again, the kingdom of heaven is like a dragnet thrown into the sea that gathered fish of every kind.
+v48: When it was full, they pulled it ashore, sat down, and sorted the good fish into containers, throwing the worthless ones away.
+v49: So it will be at the completion of the age. The angels will come out and separate the evil from among the righteous
+v50: and throw them into the blazing furnace. There will be weeping and grinding of teeth.
 </p>
 
-## Treasures New and Old
+## New and old
 
 <p>
-v51: “Have you understood all these things?” They said to him, “Yes.”
-v52: He said to them, “Therefore every scribe trained for the kingdom of heaven is like a householder who brings out of the treasure things new and old.”
+v51: “Have you understood all these things?” They answered him, “Yes.”
+v52: He said to them, “So every scribe trained as a disciple of the kingdom of heaven is like a householder who brings out new things and old from his store.”
 </p>
 
-## Jesus Rejected in His Hometown
+## Rejection at home
 
 <p>
-v53: When Jesus finished these parables, he left there.
-v54: Coming to his hometown, he taught them in their synagogue, so that they were astonished and said, “Where did this man get this wisdom and these works of power?
-v55: Is this not the carpenter's son? Is not his mother called Mary, and his brothers James, Joseph, Simon, and Judas?
-v56: And are not all his sisters with us? Where then did this man get all these things?”
-v57: And they took offense at him. But Jesus said to them, “A prophet is not without honor except in his hometown and in his own house.”
-v58: He did not do many works of power there because of their unbelief.
+v53: When Jesus finished these parables, he left that place.
+v54: He came to his hometown and taught in their synagogue. They were astonished and said, “Where did this man get this wisdom and these mighty works?
+v55: Isn’t this the carpenter’s son? Isn’t his mother called Mary, and aren’t his brothers James, Joseph, Simon, and Judas?
+v56: And aren’t all his sisters here with us? Then where did he get all this?”
+v57: They took offense at him. But Jesus told them, “A prophet is not without honor except in his hometown and his own household.”
+v58: He did not do many mighty works there because of their unbelief.
 </p>
 
 ## Notes
 
-v11: “Mysteries” are realities of God's kingdom being disclosed, not esoteric information reserved for elites.
+v08,23,32–33: The yields remain a hundred, sixty, and thirty. The mustard seed’s size description belongs to the parable’s scale comparison. The leaven is hidden in three measures, and it affects the whole batch.
 
-v13–15: Matthew's citation from Isaiah is fuller than Mark's and emphasizes a hardened pattern of hearing without understanding.
-
-v19: Matthew uniquely calls the message “the word of the kingdom.”
-
-v24–30: The weeds parable warns against premature separation before the final harvest.
-
-v31–33: Mustard seed and yeast both picture hidden beginnings becoming pervasive outcomes.
-
-v35: The citation is from Psalm 78, though Matthew introduces it simply through “the prophet.”
-
-v44: The man's re-hiding of the treasure is part of the story and is not turned into an ethical lesson about property acquisition.
-
-v52: The trained scribe image gives positive value to disciplined scriptural interpretation in service of the kingdom.
-
-v57–58: As in Mark, familiarity becomes offense, but Matthew says Jesus “did not do many” works of power rather than Mark's stronger wording.
+v35,38–39: Verse 35 says “since the foundation” without the noun world in this pinned text. The explanation distinguishes the world, the field, from the age that reaches its completion.
 
 ## Vocabulary
 
-v03: παραβολή (parabolē)
-“Parable, comparison.”
+v25: **Darnel**: A weed growing among grain; the story stresses the risk of uprooting wheat during separation.
 
-v11: μυστήριον (mystērion)
-“Mystery, disclosed divine reality.”
-
-v19: λόγος τῆς βασιλείας (logos tēs basileias)
-“Word of the kingdom.”
-
-v21: θλῖψις (thlipsis)
-“Trouble, affliction.”
-
-v22: ἀπάτη (apatē)
-“Deception.”
-
-v30: θερισμός (therismos)
-“Harvest.”
-
-v39: συντέλεια τοῦ αἰῶνος (synteleia tou aiōnos)
-“Completion of the age.”
-
-v41: σκάνδαλον (skandalon)
-“Cause of stumbling.”
-
-v52: γραμματεύς (grammateus)
-“Scribe.”
+v52: **Scribe**: A person trained in written teaching, here also trained as a disciple of the kingdom.

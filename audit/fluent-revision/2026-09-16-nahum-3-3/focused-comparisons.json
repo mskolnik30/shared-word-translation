@@ -1,0 +1,62 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "qualification": "Selected source/English/TSW rereads by the drafting assistant. Not independent editorial review; not a claim that all original-language verses were read before recovery in this turn. All 50 English chapters and their apparatus were read continuously.",
+  "rows": [
+    {
+      "reference": "Nahum 3:5",
+      "delta": "F3",
+      "rationale": "Makes the speaker explicit while preserving threatened sexual humiliation.",
+      "source_reference": "Nah 3:5",
+      "source_verse_sha256": "4ea7197811b3095e9d9de0c0f69857a8b93ccd708531f01ffb595512a03c861d",
+      "before": "“Look, I am against you,” says the LORD of Hosts. “I will lift your skirts over your face; I will show nations your nakedness and kingdoms your shame.",
+      "after": "“Look, I am against you,” declares the LORD of Armies. “I will lift your skirts over your face and show the nations your nakedness, the kingdoms your disgrace.",
+      "tsw_comparator": "“Look, I am against you,” says the LORD of Hosts. “I will lift your skirts over your face; I will show nations your nakedness and kingdoms your shame.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Nah.3.5\">\n          <w lemma=\"2005\" morph=\"HTm/Sp1cs\" id=\"34FMa\">הִנְ/נִ֣י</w>\n          <w lemma=\"413\" n=\"1.1.1\" morph=\"HR/Sp2fs\" id=\"34KPU\">אֵלַ֗יִ/ךְ</w>\n          <w lemma=\"5002\" n=\"1.1.0\" morph=\"HNcmsc\" id=\"34ki2\">נְאֻם֙</w>\n          <w lemma=\"3068\" morph=\"HNp\" id=\"345pZ\">יְהוָ֣ה</w>\n          <w lemma=\"6635 b\" n=\"1.1\" morph=\"HNcbpa\" id=\"34HWo\">צְבָא֔וֹת</w>\n          <w lemma=\"c/1540\" morph=\"HC/Vpp1cs\" id=\"34zkA\">וְ/גִלֵּיתִ֥י</w>\n          <w lemma=\"7757\" n=\"1.0\" morph=\"HNcmpc/Sp2fs\" id=\"34JMT\">שׁוּלַ֖יִ/ךְ</w>\n          <w lemma=\"5921 a\" morph=\"HR\" id=\"34jEX\">עַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"6440\" n=\"1\" morph=\"HNcbpc/Sp2fs\" id=\"34uUA\">פָּנָ֑יִ/ךְ</w>\n          <w lemma=\"c/7200\" morph=\"HC/Vhp1cs\" id=\"34tKf\">וְ/הַרְאֵיתִ֤י</w>\n          <w lemma=\"1471 a\" n=\"0.1.0\" morph=\"HNcmpa\" id=\"34awE\">גוֹיִם֙</w>\n          <w lemma=\"4626\" n=\"0.1\" morph=\"HNcmsc/Sp2fs\" id=\"34yNT\">מַעְרֵ֔/ךְ</w>\n          <w lemma=\"c/4467\" n=\"0.0\" morph=\"HC/Ncfpa\" id=\"34Azu\">וּ/מַמְלָכ֖וֹת</w>\n          <w lemma=\"7036\" n=\"0\" morph=\"HNcmsc/Sp2fs\" id=\"34884\">קְלוֹנֵֽ/ךְ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 3:6",
+      "delta": "F3",
+      "rationale": "Retains all three actions without softening their degrading force.",
+      "source_reference": "Nah 3:6",
+      "source_verse_sha256": "f79537155ccdece18d52a16efd6c099dd08f0be0c96d493a1a4cf92a2426e222",
+      "before": "I will throw filth upon you; I will treat you with contempt and make you a spectacle.",
+      "after": "I will throw filth on you, treat you with contempt, and make you a spectacle.",
+      "tsw_comparator": "I will throw filth upon you; I will treat you with contempt and make you a spectacle.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Nah.3.6\">\n          <w lemma=\"c/7993\" morph=\"HC/Vhp1cs\" id=\"34XMu\">וְ/הִשְׁלַכְתִּ֥י</w>\n          <w lemma=\"5921 a\" n=\"1.0.0\" morph=\"HR/Sp2fs\" id=\"34mrn\">עָלַ֛יִ/ךְ</w>\n          <w lemma=\"8251\" n=\"1.0\" morph=\"HNcmpa\" id=\"34Xh9\">שִׁקֻּצִ֖ים</w>\n          <w lemma=\"c/5034 a\" n=\"1\" morph=\"HC/Vpp1cs/Sp2fs\" id=\"34D3a\">וְ/נִבַּלְתִּ֑י/ךְ</w>\n          <w lemma=\"c/7760 a\" n=\"0.0\" morph=\"HC/Vqp1cs/Sp2fs\" id=\"34wEr\">וְ/שַׂמְתִּ֖י/ךְ</w>\n          <w lemma=\"k/7210\" n=\"0\" morph=\"HR/Ncmsa\" id=\"34Rvc\">כְּ/רֹֽאִי</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 3:10",
+      "delta": "F3",
+      "rationale": "States harm to children and the enslavement of leaders explicitly.",
+      "source_reference": "Nah 3:10",
+      "source_verse_sha256": "3a52a07b68e7184464f25e556705d252b2747b9c639158e196f00cdc91f55e94",
+      "before": "Yet she also went into exile, she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her honored ones, and all her great ones were bound in chains.",
+      "after": "Yet she too was carried away into captivity. Her little children were dashed to pieces at every street corner. Lots were cast for her honored men, and all her great men were bound in chains.",
+      "tsw_comparator": "Yet she also went into exile, she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her honored ones, and all her great ones were bound in chains.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.657534,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Nah.3.10\">\n          <w lemma=\"1571\" morph=\"HTa\" id=\"34NLD\">גַּם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1931\" n=\"1.1.1\" morph=\"HPp3fs\" id=\"34GUh\">הִ֗יא</w>\n          <w lemma=\"l/1473\" n=\"1.1.0\" morph=\"HRd/Ncfsa\" id=\"345aF\">לַ/גֹּלָה֙</w>\n          <w lemma=\"1980\" morph=\"HVqp3fs\" id=\"34taY\">הָלְכָ֣ה</w>\n          <w lemma=\"b/7628 a\" n=\"1.1\" morph=\"HRd/Ncbsa\" id=\"34EZz\">בַ/שֶּׁ֔בִי</w>\n          <w lemma=\"1571\" morph=\"HTa\" id=\"34Hnw\">גַּ֧ם</w>\n          <w lemma=\"5768\" n=\"1.0.0\" morph=\"HNcmpc/Sp3fs\" id=\"34pXi\">עֹלָלֶ֛י/הָ</w>\n          <w lemma=\"7376\" n=\"1.0\" morph=\"HVPi3mp\" id=\"34Nq4\">יְרֻטְּשׁ֖וּ</w>\n          <w lemma=\"b/7218 a\" morph=\"HR/Ncmsc\" id=\"34rZH\">בְּ/רֹ֣אשׁ</w>\n          <w lemma=\"3605\" morph=\"HNcmsc\" id=\"34GtT\">כָּל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2351\" n=\"1\" morph=\"HNcmpa\" id=\"34kwz\">חוּצ֑וֹת</w>\n          <w lemma=\"c/5921 a\" morph=\"HC/R\" id=\"34tc4\">וְ/עַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3513\" n=\"0.1.0\" morph=\"HVNsmpc/Sp3fs\" id=\"34CMD\">נִכְבַּדֶּ֨י/הָ֙</w>\n          <w lemma=\"3032\" morph=\"HVqp3cp\" id=\"345eq\">יַדּ֣וּ</w>\n          <w lemma=\"1486\" n=\"0.1\" morph=\"HNcmsa\" id=\"34Cj2\">גוֹרָ֔ל</w>\n          <w lemma=\"c/3605\" morph=\"HC/Ncmsc\" id=\"34Ttm\">וְ/כָל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1419 a\" n=\"0.0\" morph=\"HAampc/Sp3fs\" id=\"346Vi\">גְּדוֹלֶ֖י/הָ</w>\n          <w lemma=\"7576\" morph=\"HVPp3cp\" id=\"34V8W\">רֻתְּק֥וּ</w>\n          <w lemma=\"b/2131 b\" n=\"0\" morph=\"HRd/Ncmpa\" id=\"34zg2\">בַ/זִּקִּֽים</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Nahum 3:13",
+      "delta": "F3",
+      "rationale": "Preserves the gendered taunt and gate-bar image; its ancient insult is not converted into a claim about women today.",
+      "source_reference": "Nah 3:13",
+      "source_verse_sha256": "880f9411a67b870fb9758cb5388ecb4c4631f7fbdb05f2fd40df72dc698157c5",
+      "before": "Look, your troops within you are like women. The gates of your land are opened wide to your enemies; fire consumes your bars.",
+      "after": "Look at your people: women in your midst! Your land’s gates stand wide open to your enemies; fire has eaten through their bars.",
+      "tsw_comparator": "Look, your troops within you are like women. The gates of your land are opened wide to your enemies; fire consumes your bars.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.434783,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Nah.3.13\">\n          <w lemma=\"2009\" morph=\"HTm\" id=\"34bYm\">הִנֵּ֨ה</w>\n          <w lemma=\"5971 a\" morph=\"HNcmsc/Sp2fs\" id=\"34M7H\">עַמֵּ֤/ךְ</w>\n          <w lemma=\"802\" n=\"1.2.0\" morph=\"HNcfpa\" id=\"34gcK\">נָשִׁים֙</w>\n          <w lemma=\"b/7130\" n=\"1.2\" morph=\"HR/Ncmsc/Sp2fs\" id=\"34p7s\">בְּ/קִרְבֵּ֔/ךְ</w>\n          <w lemma=\"l/341\" n=\"1.1\" morph=\"HR/Vqrmpc/Sp2fs\" id=\"34ZBR\">לְ/אֹ֣יְבַ֔יִ/ךְ</w>\n          <w lemma=\"6605 a\" morph=\"HVqa\" id=\"34ACh\">פָּת֥וֹחַ</w>\n          <w lemma=\"6605 a\" n=\"1.0\" morph=\"HVNp3cp\" id=\"34mnL\">נִפְתְּח֖וּ</w>\n          <w lemma=\"8179\" morph=\"HNcmpc\" id=\"3489r\">שַׁעֲרֵ֣י</w>\n          <w lemma=\"776\" n=\"1\" morph=\"HNcbsc/Sp2fs\" id=\"34GmF\">אַרְצֵ֑/ךְ</w>\n          <w lemma=\"398\" morph=\"HVqp3fs\" id=\"34fcv\">אָכְלָ֥ה</w>\n          <w lemma=\"784\" n=\"0.0\" morph=\"HNcbsa\" id=\"34knb\">אֵ֖שׁ</w>\n          <w lemma=\"1280\" n=\"0\" morph=\"HNcmpc/Sp2fs\" id=\"34Qpj\">בְּרִיחָֽיִ/ך</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    }
+  ]
+}

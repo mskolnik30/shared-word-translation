@@ -1,0 +1,76 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "qualification": "Selected source/English/TSW rereads by the drafting assistant. Not independent editorial review; not a claim that all original-language verses were read before recovery in this turn. All 50 English chapters and their apparatus were read continuously.",
+  "rows": [
+    {
+      "reference": "Haggai 1:1",
+      "delta": "F3",
+      "rationale": "Retains the precise date, both patronymics, and distinct offices.",
+      "source_reference": "Hag 1:1",
+      "source_verse_sha256": "c1deffde69f50296ca3a5ff1e8e57e475866602dce2fed197a8fa6157312fd5e",
+      "before": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the LORD came by the hand of Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:",
+      "after": "In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:",
+      "tsw_comparator": "In the second year of King Darius, in the sixth month, on the first day of the month, the word of the LORD came by the hand of Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Hag.1.1\">\n          <w lemma=\"b/8141\" morph=\"HR/Ncfsc\" id=\"37xeN\">בִּ/שְׁנַ֤ת</w>\n          <w lemma=\"8147\" n=\"1.2.0\" morph=\"HAcfda\" id=\"37Nvk\">שְׁתַּ֨יִם֙</w>\n          <w lemma=\"l/1867\" morph=\"HR/Np\" id=\"37TyA\">לְ/דָרְיָ֣וֶשׁ</w>\n          <w lemma=\"d/4428\" n=\"1.2\" morph=\"HTd/Ncmsa\" id=\"37vuQ\">הַ/מֶּ֔לֶךְ</w>\n          <w lemma=\"b/2320\" n=\"1.1.0\" morph=\"HRd/Ncmsa\" id=\"37TSc\">בַּ/חֹ֨דֶשׁ֙</w>\n          <w lemma=\"d/8345\" n=\"1.1\" morph=\"HTd/Aomsa\" id=\"37k5P\">הַ/שִּׁשִּׁ֔י</w>\n          <w lemma=\"b/3117\" morph=\"HR/Ncmsa\" id=\"37nPh\">בְּ/י֥וֹם</w>\n          <w lemma=\"259\" n=\"1.0\" morph=\"HAcmsa\" id=\"37LN3\">אֶחָ֖ד</w>\n          <w lemma=\"l/2320\" n=\"1\" morph=\"HRd/Ncmsa\" id=\"37Qzf\">לַ/חֹ֑דֶשׁ</w>\n          <w lemma=\"1961\" morph=\"HVqp3ms\" id=\"37aPd\">הָיָ֨ה</w>\n          <w lemma=\"1697\" morph=\"HNcmsc\" id=\"37eYX\">דְבַר</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3068\" n=\"0.1.1.0\" morph=\"HNp\" id=\"37C5U\">יְהוָ֜ה</w>\n          <w lemma=\"b/3027\" morph=\"HR/Ncbsc\" id=\"37qNN\">בְּ/יַד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2292 a\" morph=\"HNp\" id=\"37EVS\">חַגַּ֣י</w>\n          <w lemma=\"d/5030\" n=\"0.1.1\" morph=\"HTd/Ncmsa\" id=\"37PB6\">הַ/נָּבִ֗יא</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"3737c\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2216\" morph=\"HNp\" id=\"37x9c\">זְרֻבָּבֶ֤ל</w>\n          <w lemma=\"1121 a\" morph=\"HNcmsc\" id=\"37yNB\">בֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7597 a\" n=\"0.1.0\" morph=\"HNp\" id=\"3729t\">שְׁאַלְתִּיאֵל֙</w>\n          <w lemma=\"6346\" morph=\"HNcmsc\" id=\"37KZG\">פַּחַ֣ת</w>\n          <w lemma=\"3063\" n=\"0.1\" morph=\"HNp\" id=\"37TZE\">יְהוּדָ֔ה</w>\n          <w lemma=\"c/413\" morph=\"HC/R\" id=\"37thY\">וְ/אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3091\" morph=\"HNp\" id=\"37JM7\">יְהוֹשֻׁ֧עַ</w>\n          <w lemma=\"1121 a\" morph=\"HNcmsc\" id=\"37fpo\">בֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3087\" n=\"0.0.0\" morph=\"HNp\" id=\"37W26\">יְהוֹצָדָ֛ק</w>\n          <w lemma=\"d/3548\" morph=\"HTd/Ncmsa\" id=\"37yw4\">הַ/כֹּהֵ֥ן</w>\n          <w lemma=\"d/1419 a\" n=\"0.0\" morph=\"HTd/Aamsa\" id=\"37jbg\">הַ/גָּד֖וֹל</w>\n          <w lemma=\"l/559\" n=\"0\" morph=\"HR/Vqc\" id=\"37USR\">לֵ/אמֹֽר</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Haggai 1:5",
+      "delta": "F3",
+      "rationale": "Gives the set-your-heart idiom a repeatable natural rendering.",
+      "source_reference": "Hag 1:5",
+      "source_verse_sha256": "22aeaeaa3c5a3ed44b399eedc44cf71afa7313b06d345a90103945f836d4abe2",
+      "before": "Now therefore, thus says the LORD of Hosts: Consider your ways.",
+      "after": "Now the LORD of Armies says, “Think carefully about your ways.",
+      "tsw_comparator": "Now therefore, thus says the LORD of Hosts: Consider your ways.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Hag.1.5\">\n          <w lemma=\"c/6258\" n=\"1.1\" morph=\"HC/D\" id=\"375gQ\">וְ/עַתָּ֕ה</w>\n          <w lemma=\"3541\" morph=\"HD\" id=\"37Xw6\">כֹּ֥ה</w>\n          <w lemma=\"559\" n=\"1.0\" morph=\"HVqp3ms\" id=\"37eHJ\">אָמַ֖ר</w>\n          <w lemma=\"3068\" morph=\"HNp\" id=\"37H6L\">יְהוָ֣ה</w>\n          <w lemma=\"6635 b\" n=\"1\" morph=\"HNcbpa\" id=\"37bmv\">צְבָא֑וֹת</w>\n          <w lemma=\"7760 a\" morph=\"HVqv2mp\" id=\"37FV9\">שִׂ֥ימוּ</w>\n          <w lemma=\"3824\" n=\"0.0\" morph=\"HNcmsc/Sp2mp\" id=\"37Xm1\">לְבַבְ/כֶ֖ם</w>\n          <w lemma=\"5921 a\" morph=\"HR\" id=\"37UE6\">עַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1870\" n=\"0\" morph=\"HNcbpc/Sp2mp\" id=\"37goK\">דַּרְכֵי/כֶֽם</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Haggai 2:7",
+      "delta": "F3",
+      "rationale": "Reads the desired things collectively with the plural verb, without imposing a personal messianic referent.",
+      "source_reference": "Hag 2:7",
+      "source_verse_sha256": "88c9e42451693ff53e8fad04887d441af3e2238204156dcec3bd0ea0d8413e3b",
+      "before": "I will shake all nations, and the treasures of all nations shall come in, and I will fill this house with glory,’ says the LORD of Hosts.",
+      "after": "I will shake all the nations, and the treasures of all the nations will come. I will fill this house with glory,’ says the LORD of Armies.",
+      "tsw_comparator": "And I will shake all nations, and the treasures of all nations shall come in, and I will fill this house with glory,’ says the LORD of Hosts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Hag.2.7\">\n          <w lemma=\"c/7493\" n=\"1.1.0\" morph=\"HC/Vhp1cs\" id=\"37BnR\">וְ/הִרְעַשְׁתִּי֙</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"37PUg\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3605\" morph=\"HNcmsc\" id=\"37pUN\">כָּל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1471 a\" n=\"1.1\" morph=\"HTd/Ncmpa\" id=\"37gc8\">הַ/גּוֹיִ֔ם</w>\n          <w lemma=\"c/935\" n=\"1.0\" morph=\"HC/Vqp3cp\" id=\"37Lsp\">וּ/בָ֖אוּ</w>\n          <w lemma=\"2532 a\" morph=\"HNcfsc\" id=\"37SAE\">חֶמְדַּ֣ת</w>\n          <w lemma=\"3605\" morph=\"HNcmsc\" id=\"373gY\">כָּל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1471 a\" n=\"1\" morph=\"HTd/Ncmpa\" id=\"37RuM\">הַ/גּוֹיִ֑ם</w>\n          <w lemma=\"c/4390\" n=\"0.1.0.0\" morph=\"HC/Vpp1cs\" id=\"37WFU\">וּ/מִלֵּאתִ֞י</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"37BJv\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1004 b\" morph=\"HTd/Ncmsa\" id=\"37ExP\">הַ/בַּ֤יִת</w>\n          <w lemma=\"d/2088\" n=\"0.1.0\" morph=\"HTd/Pdxms\" id=\"37ypu\">הַ/זֶּה֙</w>\n          <w lemma=\"3519\" n=\"0.1\" morph=\"HNcbsa\" id=\"37mP3\">כָּב֔וֹד</w>\n          <w lemma=\"559\" n=\"0.0\" morph=\"HVqp3ms\" id=\"37V8b\">אָמַ֖ר</w>\n          <w lemma=\"3068\" morph=\"HNp\" id=\"37suQ\">יְהוָ֥ה</w>\n          <w lemma=\"6635 b\" n=\"0\" morph=\"HNcbpa\" id=\"371Su\">צְבָאֽוֹת</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Haggai 2:12",
+      "delta": "F3",
+      "rationale": "Keeps the indirect-contact distinction essential to the question and the full food list.",
+      "source_reference": "Hag 2:12",
+      "source_verse_sha256": "d6e70a987c6a188b53ac3d3345a0efb62614035d9b54293683aeb2f8cf4ac30d",
+      "before": "If someone carries holy meat in the fold of his garment, and with the fold touches bread, or stew, or wine, or oil, or any kind of food, does it become holy?” The priests answered and said, “No.”",
+      "after": "‘If someone carries holy meat in the fold of his garment, and that fold touches bread, stew, wine, oil, or any food, does the food become holy?’” The priests answered, “No.”",
+      "tsw_comparator": "If someone carries holy meat in the fold of his garment, and with the fold touches bread, or stew, or wine, or oil, or any kind of food, does it become holy?” The priests answered and said, “No.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Hag.2.12\">\n          <w lemma=\"2005\" n=\"1.0.1.1\" morph=\"HTm\" id=\"3793F\">הֵ֣ן</w>\n          <seg type=\"x-paseq\">׀</seg>\n          <w lemma=\"5375\" morph=\"HVqi3ms\" id=\"37eyL\">יִשָּׂא</w><seg type=\"x-maqqef\">־</seg><w lemma=\"376\" morph=\"HNcmsa\" id=\"37pm7\">אִ֨ישׁ</w>\n          <w lemma=\"1320\" morph=\"HNcmsc\" id=\"37teU\">בְּשַׂר</w><seg type=\"x-maqqef\">־</seg><w lemma=\"6944\" n=\"1.0.1.0\" morph=\"HNcmsa\" id=\"37c58\">קֹ֜דֶשׁ</w>\n          <w lemma=\"b/3671\" morph=\"HR/Ncfsc\" id=\"37MRA\">בִּ/כְנַ֣ף</w>\n          <w lemma=\"899 b\" n=\"1.0.1\" morph=\"HNcmsc/Sp3ms\" id=\"37xp4\">בִּגְד֗/וֹ</w>\n          <w lemma=\"c/5060\" morph=\"HC/Vqp3ms\" id=\"37Hki\">וְ/נָגַ֣ע</w>\n          <w lemma=\"b/3671\" n=\"1.0.0.1\" morph=\"HR/Ncfsc/Sp3ms\" id=\"37QvZ\">בִּ֠/כְנָפ/וֹ</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"37S38\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/3899\" morph=\"HTd/Ncbsa\" id=\"37eN1\">הַ/לֶּ֨חֶם</w>\n          <w lemma=\"c/413\" morph=\"HC/R\" id=\"37HoD\">וְ/אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/5138\" n=\"1.0.0.0\" morph=\"HTd/Ncmsa\" id=\"37P5s\">הַ/נָּזִ֜יד</w>\n          <w lemma=\"c/413\" morph=\"HC/R\" id=\"375QX\">וְ/אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/3196\" morph=\"HTd/Ncmsa\" id=\"37Mxy\">הַ/יַּ֧יִן</w>\n          <w lemma=\"c/413\" morph=\"HC/R\" id=\"37w6u\">וְ/אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"8081\" n=\"1.0.0\" morph=\"HNcmsa\" id=\"37e3z\">שֶׁ֛מֶן</w>\n          <w lemma=\"c/413\" morph=\"HC/R\" id=\"372c6\">וְ/אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3605\" morph=\"HNcmsc\" id=\"373RL\">כָּל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3978\" n=\"1.0\" morph=\"HNcmsa\" id=\"37JUf\">מַאֲכָ֖ל</w>\n          <w lemma=\"i/6942\" n=\"1\" morph=\"HTi/Vqi3ms\" id=\"37ce9\">הֲ/יִקְדָּ֑שׁ</w>\n          <w lemma=\"c/6030 b\" morph=\"HC/Vqw3mp\" id=\"37dPK\">וַ/יַּעֲנ֧וּ</w>\n          <w lemma=\"d/3548\" n=\"0.0.0\" morph=\"HTd/Ncmpa\" id=\"37vLv\">הַ/כֹּהֲנִ֛ים</w>\n          <w lemma=\"c/559\" n=\"0.0\" morph=\"HC/Vqw3mp\" id=\"37UrG\">וַ/יֹּאמְר֖וּ</w>\n          <w lemma=\"3808\" n=\"0\" morph=\"HTn\" id=\"37Sxc\">לֹֽא</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    },
+    {
+      "reference": "Haggai 2:16",
+      "delta": "F3",
+      "rationale": "Preserves all four numbers while leaving the source’s unstated units nonspecific.",
+      "source_reference": "Hag 2:16",
+      "source_verse_sha256": "697c109a21692fdf9368492e80d643d22499fa68f0e0e383b4d5cd6708d55a48",
+      "before": "how did you fare? When one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty.",
+      "after": "When someone came to a heap expecting twenty measures, there were ten. When someone came to the wine vat to draw fifty, there were twenty.",
+      "tsw_comparator": "how did you fare? When one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77193,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "<verse osisID=\"Hag.2.16\">\n          <w lemma=\"m/1961\" morph=\"HR/Vqc/Sp3mp\" id=\"37mnL\">מִֽ/הְיוֹתָ֥/ם</w>\n          <w lemma=\"935\" n=\"1.1.0\" morph=\"HVqp3ms\" id=\"3789r\">בָּא֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"37GmF\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"6194\" morph=\"HNcfsc\" id=\"37fcv\">עֲרֵמַ֣ת</w>\n          <w lemma=\"6242\" n=\"1.1\" morph=\"HAcbpa\" id=\"37knb\">עֶשְׂרִ֔ים</w>\n          <w lemma=\"c/1961\" n=\"1.0\" morph=\"HC/Vqp3fs\" id=\"37Qpj\">וְ/הָיְתָ֖ה</w>\n          <w lemma=\"6235\" n=\"1\" morph=\"HAcmsa\" id=\"37MDS\">עֲשָׂרָ֑ה</w>\n          <w lemma=\"935\" morph=\"HVqp3ms\" id=\"37YBx\">בָּ֣א</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"37kMZ\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/3342\" n=\"0.1.1\" morph=\"HTd/Ncmsa\" id=\"37uqC\">הַ/יֶּ֗קֶב</w>\n          <w lemma=\"l/2834\" n=\"0.1.0\" morph=\"HR/Vqc\" id=\"37VY5\">לַ/חְשֹׂף֙</w>\n          <w lemma=\"2572\" morph=\"HAcbpa\" id=\"37WJY\">חֲמִשִּׁ֣ים</w>\n          <w lemma=\"6333\" n=\"0.1\" morph=\"HNcfsa\" id=\"37brh\">פּוּרָ֔ה</w>\n          <w lemma=\"c/1961\" n=\"0.0\" morph=\"HC/Vqp3fs\" id=\"37w1U\">וְ/הָיְתָ֖ה</w>\n          <w lemma=\"6242\" n=\"0\" morph=\"HAcbpa\" id=\"37aqT\">עֶשְׂרִֽים</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>"
+    }
+  ]
+}

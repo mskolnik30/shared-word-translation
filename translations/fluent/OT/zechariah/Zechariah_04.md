@@ -4,113 +4,56 @@ testament: OT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zechariah-1-14-biblical-fluency-2026-09-16
 ---
 
-## Fifth Vision: The Lampstand and Olive Trees
+## The lampstand and olive trees
 
 <p>
-v01: Then the angel who was speaking with me returned and woke me, like someone awakened from sleep.
-
-v02: And he said to me, “What do you see?”
-
-I said, “I see, and look—a lampstand all of gold, with a bowl on its top and seven lamps on it, with seven channels for each of the lamps that are on its top.
-
-v03: And there are two olive trees beside it, one on the right of the bowl and one on its left.”
-
-v04: Then I answered and said to the angel who was speaking with me, “What are these, my lord?”
-
-v05: The angel who was speaking with me answered and said to me, “Do you not know what these are?”
-
-I said, “No, my lord.”
+v01: The angel speaking with me returned and roused me, as someone is awakened from sleep.
+v02: He asked, “What do you see?” I answered, “A lampstand entirely of gold, with a bowl on top and seven lamps on it, and seven channels for each of the lamps on top.
+v03: Beside it are two olive trees, one to the bowl’s right and one to its left.”
+v04: I asked the angel speaking with me, “What are these, my lord?”
+v05: He answered, “Do you not know what these are?” “No, my lord,” I said.
 </p>
 
-## Not by Might, but by My Spirit
+## By my Spirit
 
 <p>
-v06: Then he answered and said to me, “This is the word of the LORD to Zerubbabel:
-
-Not by might,
-and not by power,
-but by my Spirit,
-says the LORD of Hosts.
-
-v07: Who are you, O great mountain?
-Before Zerubbabel you will become a plain.
-And he will bring out the top stone
-with shouts of,
-‘Grace, grace to it!’”
+v06: He said to me, “This is the word of the LORD to Zerubbabel: ‘Not by military strength, nor by power, but by my spirit,’ says the LORD of Armies.
+v07: Who are you, great mountain? Before Zerubbabel you will become level ground. He will bring out the top stone amid shouts of ‘Grace, grace to it!’”
 </p>
 
 <p>
-v08: Then the word of the LORD came to me:
-
-v09: “The hands of Zerubbabel have laid the foundation of this house, and his hands will finish it. Then you will know that the LORD of Hosts has sent me to you.
-
-v10: For who has despised the day of small things? They will rejoice when they see the plumb line in the hand of Zerubbabel.
-
-These seven are the eyes of the LORD, which range through the entire earth.”
+v08: The word of the LORD came to me:
+v09: “Zerubbabel’s hands laid the foundation of this house, and his hands will finish it. Then you will know that the LORD of Armies sent me to you.
+v10: Who has despised the day of small things? These seven will rejoice when they see the plumb stone in Zerubbabel’s hand. They are the eyes of the LORD, ranging through the whole earth.”
 </p>
 
-## The Two Anointed Ones
+## The two sons of oil
 
 <p>
-v11: Then I answered and said to him, “What are these two olive trees on the right and on the left of the lampstand?”
-
-v12: And a second time I answered and said to him, “What are the two branches of the olive trees beside the two golden pipes that pour out the golden oil?”
-
-v13: And he said to me, “Do you not know what these are?”
-
-I said, “No, my lord.”
-
-v14: Then he said, “These are the two anointed ones who stand beside the Lord of all the earth.”
+v11: I asked him, “What are these two olive trees on the right and left of the lampstand?”
+v12: I asked him a second time, “What are the two olive branches beside the two golden pipes that pour out the gold?”
+v13: He said, “Do you not know what these are?” “No, my lord,” I answered.
+v14: He said, “These are the two anointed ones who stand beside the Lord of all the earth.”
 </p>
 
 ## Notes
 
-v02: “seven channels for each of the lamps” — The Hebrew repeats the number seven and can be understood in more than one way, possibly indicating seven channels for each lamp. The translation preserves the abundant supply implied by the image without attempting to reconstruct the lampstand mechanically.
+v02: The lamp-and-channel arrangement is difficult. The draft keeps the repeated seven without claiming a fully reconstructable design.
 
-v03: The two olive trees stand beside the lampstand and provide the imagery interpreted only at the end of the vision.
+v07: The repeated cry “Grace, grace” is retained; it can also express a wish for favor or blessing upon the stone.
 
-v06: “Not by might, and not by power, but by my Spirit” — The rebuilding associated with Zerubbabel is grounded in the activity of the LORD’s Spirit rather than military, political, or human capacity.
+v10: The Hebrew calls the object a tin stone, commonly understood as a plumb weight. The seven eyes range over the earth.
 
-v07: “great mountain” — The mountain functions as an image of formidable obstruction. Before Zerubbabel it becomes level ground.
-
-v07: “Grace, grace to it!” — The Hebrew acclamation can express grace, favor, or beauty directed toward the finishing stone. Its concise form is retained.
-
-v09: The completion of the temple becomes confirmation that the prophetic message and its messenger have been sent by the LORD of Hosts.
-
-v10: “the day of small things” — The expression warns against despising beginnings that appear insignificant when judged by visible scale.
-
-v10: “plumb line” — The Hebrew expression is difficult and literally includes a stone associated with tin or lead. In context it functions as a builder’s measuring or leveling tool.
-
-v10: “the eyes of the LORD” — The sevenfold imagery connects the vision with divine awareness extending throughout the earth.
-
-v12: “golden oil” — The Hebrew literally speaks of what is golden being poured through the pipes. The context of olive trees supports understanding the image as oil.
-
-v14: “the two anointed ones” — The Hebrew literally says “sons of oil.” The figures are not named within the vision itself, and the translation does not identify them beyond the language given.
+v12–14: The flowing substance is literally “gold.” The two “anointed ones” are literally “sons of oil”; the translation does not name the figures.
 
 ## Vocabulary
 
-v02: מְנוֹרָה (menorah)
-“Lampstand.” A stand supporting lamps, here made entirely of gold and central to the vision.
+v06: **Spirit**: The LORD’s enabling presence, contrasted with military might and human strength.
 
-v03: זַיִת (zayit)
-“Olive” or “olive tree.” The source of oil and the central living image beside the lampstand.
-
-v06: חַיִל (chayil)
-“Might,” “strength,” or “force.” The word can describe military capacity, resources, or human strength.
-
-v06: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” Here explicitly the Spirit of the LORD as the source of what human strength cannot accomplish.
-
-v07: חֵן (chen)
-“Grace,” “favor,” or “beauty.” The word shouted over the finishing stone.
-
-v10: בָּזָה (bazah)
-“To despise” or “regard as insignificant.” To treat something as lacking worth or importance.
-
-v10: עַיִן (ayin)
-“Eye.” Used symbolically of the LORD’s seven eyes ranging throughout the earth.
-
-v14: בְּנֵי־הַיִּצְהָר (bene hayitshar)
-“Sons of oil,” rendered “anointed ones.” A Hebrew expression for figures marked by or associated with anointing.
+v10: **Plumb stone**: A suspended weight used to establish a vertical line.

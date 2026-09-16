@@ -1,0 +1,1496 @@
+{
+  "scope": "Zechariah 1–14, all 211 included verses.",
+  "verses": 211,
+  "method": "Normalized word sequence; near identity >=0.90, excluding identity. Triage only.",
+  "summary": {
+    "before": {
+      "identical": 165,
+      "near_identical_nonidentical": 44,
+      "mean_word_similarity": 0.990188
+    },
+    "after": {
+      "identical": 3,
+      "near_identical_nonidentical": 23,
+      "mean_word_similarity": 0.756921
+    }
+  },
+  "rows": [
+    {
+      "reference": "Zechariah 1:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Zechariah 1:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Zechariah 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Zechariah 1:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Zechariah 1:5",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Zechariah 1:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.593407
+    },
+    {
+      "reference": "Zechariah 1:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.914286
+    },
+    {
+      "reference": "Zechariah 1:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Zechariah 1:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Zechariah 1:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Zechariah 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96875,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "Zechariah 1:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.895522
+    },
+    {
+      "reference": "Zechariah 1:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Zechariah 1:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.734694
+    },
+    {
+      "reference": "Zechariah 1:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Zechariah 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Zechariah 1:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Zechariah 1:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "Zechariah 1:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Zechariah 1:20",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Zechariah 1:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.990826,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Zechariah 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Zechariah 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Zechariah 2:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Zechariah 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Zechariah 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Zechariah 2:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Zechariah 2:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Zechariah 2:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Zechariah 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Zechariah 2:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Zechariah 2:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.906667,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Zechariah 2:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Zechariah 2:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Zechariah 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.92
+    },
+    {
+      "reference": "Zechariah 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.847458
+    },
+    {
+      "reference": "Zechariah 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.47619
+    },
+    {
+      "reference": "Zechariah 3:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Zechariah 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.985075,
+      "after_similarity": 0.830769
+    },
+    {
+      "reference": "Zechariah 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Zechariah 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.975,
+      "after_similarity": 0.783784
+    },
+    {
+      "reference": "Zechariah 3:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Zechariah 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.864198
+    },
+    {
+      "reference": "Zechariah 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Zechariah 4:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Zechariah 4:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.753247
+    },
+    {
+      "reference": "Zechariah 4:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Zechariah 4:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Zechariah 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.564103
+    },
+    {
+      "reference": "Zechariah 4:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Zechariah 4:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Zechariah 4:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Zechariah 4:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Zechariah 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.771429
+    },
+    {
+      "reference": "Zechariah 4:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Zechariah 4:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.653846
+    },
+    {
+      "reference": "Zechariah 4:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Zechariah 4:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "Zechariah 5:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Zechariah 5:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Zechariah 5:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Zechariah 5:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Zechariah 5:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Zechariah 5:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.981132,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Zechariah 5:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Zechariah 5:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Zechariah 5:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.69697
+    },
+    {
+      "reference": "Zechariah 5:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Zechariah 5:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Zechariah 6:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Zechariah 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "Zechariah 6:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Zechariah 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Zechariah 6:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "Zechariah 6:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.421053
+    },
+    {
+      "reference": "Zechariah 6:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Zechariah 6:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Zechariah 6:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Zechariah 6:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Zechariah 6:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Zechariah 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.566667
+    },
+    {
+      "reference": "Zechariah 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.704225
+    },
+    {
+      "reference": "Zechariah 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Zechariah 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.906977,
+      "after_similarity": 0.756098
+    },
+    {
+      "reference": "Zechariah 7:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "Zechariah 7:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Zechariah 7:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.716418
+    },
+    {
+      "reference": "Zechariah 7:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Zechariah 7:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.925373
+    },
+    {
+      "reference": "Zechariah 7:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Zechariah 7:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Zechariah 7:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Zechariah 7:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Zechariah 7:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Zechariah 7:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Zechariah 7:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.657895
+    },
+    {
+      "reference": "Zechariah 7:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Zechariah 7:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.735294
+    },
+    {
+      "reference": "Zechariah 8:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Zechariah 8:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Zechariah 8:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.898551,
+      "after_similarity": 0.794118
+    },
+    {
+      "reference": "Zechariah 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Zechariah 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.413793
+    },
+    {
+      "reference": "Zechariah 8:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Zechariah 8:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Zechariah 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Zechariah 8:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Zechariah 8:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Zechariah 8:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Zechariah 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Zechariah 8:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Zechariah 8:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Zechariah 8:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Zechariah 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Zechariah 8:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.576923
+    },
+    {
+      "reference": "Zechariah 8:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Zechariah 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.658228
+    },
+    {
+      "reference": "Zechariah 8:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.551724
+    },
+    {
+      "reference": "Zechariah 8:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Zechariah 8:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Zechariah 8:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.97619,
+      "after_similarity": 0.722892
+    },
+    {
+      "reference": "Zechariah 9:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.878788
+    },
+    {
+      "reference": "Zechariah 9:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Zechariah 9:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Zechariah 9:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Zechariah 9:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Zechariah 9:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Zechariah 9:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.973684,
+      "after_similarity": 0.684932
+    },
+    {
+      "reference": "Zechariah 9:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Zechariah 9:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Zechariah 9:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.911111
+    },
+    {
+      "reference": "Zechariah 9:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Zechariah 9:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "Zechariah 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Zechariah 9:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Zechariah 9:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.767123
+    },
+    {
+      "reference": "Zechariah 9:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Zechariah 9:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Zechariah 10:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Zechariah 10:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.970588,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Zechariah 10:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.724638
+    },
+    {
+      "reference": "Zechariah 10:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Zechariah 10:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Zechariah 10:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.979592,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Zechariah 10:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Zechariah 10:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Zechariah 10:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Zechariah 10:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Zechariah 10:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Zechariah 10:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Zechariah 11:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Zechariah 11:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Zechariah 11:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Zechariah 11:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Zechariah 11:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.939394,
+      "after_similarity": 0.517241
+    },
+    {
+      "reference": "Zechariah 11:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.674157
+    },
+    {
+      "reference": "Zechariah 11:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Zechariah 11:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Zechariah 11:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.966667,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "Zechariah 11:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Zechariah 11:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Zechariah 11:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Zechariah 11:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "Zechariah 11:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Zechariah 11:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Zechariah 11:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980392,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Zechariah 11:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.935484
+    },
+    {
+      "reference": "Zechariah 12:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.877193
+    },
+    {
+      "reference": "Zechariah 12:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "Zechariah 12:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Zechariah 12:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.779221
+    },
+    {
+      "reference": "Zechariah 12:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Zechariah 12:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.813187
+    },
+    {
+      "reference": "Zechariah 12:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.490566
+    },
+    {
+      "reference": "Zechariah 12:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.763158
+    },
+    {
+      "reference": "Zechariah 12:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Zechariah 12:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.990826,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Zechariah 12:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "Zechariah 12:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.372881
+    },
+    {
+      "reference": "Zechariah 12:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.390244
+    },
+    {
+      "reference": "Zechariah 12:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Zechariah 13:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Zechariah 13:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.839506
+    },
+    {
+      "reference": "Zechariah 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.957447,
+      "after_similarity": 0.629213
+    },
+    {
+      "reference": "Zechariah 13:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Zechariah 13:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.439024
+    },
+    {
+      "reference": "Zechariah 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Zechariah 13:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.816901
+    },
+    {
+      "reference": "Zechariah 13:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Zechariah 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.990291,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Zechariah 14:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "Zechariah 14:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.898876
+    },
+    {
+      "reference": "Zechariah 14:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Zechariah 14:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.76087
+    },
+    {
+      "reference": "Zechariah 14:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Zechariah 14:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Zechariah 14:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Zechariah 14:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Zechariah 14:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Zechariah 14:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.843137
+    },
+    {
+      "reference": "Zechariah 14:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Zechariah 14:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.822222
+    },
+    {
+      "reference": "Zechariah 14:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Zechariah 14:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "Zechariah 14:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.390244
+    },
+    {
+      "reference": "Zechariah 14:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Zechariah 14:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.701754
+    },
+    {
+      "reference": "Zechariah 14:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.648649
+    },
+    {
+      "reference": "Zechariah 14:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Zechariah 14:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.707692
+    },
+    {
+      "reference": "Zechariah 14:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.681319
+    }
+  ]
+}

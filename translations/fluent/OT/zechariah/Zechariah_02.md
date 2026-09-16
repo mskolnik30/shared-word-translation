@@ -4,108 +4,50 @@ testament: OT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-zechariah-1-14-biblical-fluency-2026-09-16
 ---
 
-## Third Vision: The Measuring Line
+## A man with a measuring line
 
 <p>
-v01: Then I lifted my eyes and looked, and there was a man with a measuring line in his hand.
-
-v02: I said, “Where are you going?”
-
-He said to me, “To measure Jerusalem, to see what its width is and what its length is.”
-
-v03: Then the angel who was speaking with me went out, and another angel came out to meet him.
-
-v04: And he said to him, “Run, speak to that young man, saying:
-
-Jerusalem will be inhabited
-like villages without walls
-because of the multitude of people
-and livestock within it.
-
-v05: I myself will be for it,
-says the LORD,
-a wall of fire all around,
-and I will be glory
-in its midst.”
+v01: I looked up and saw a man with a measuring cord in his hand.
+v02: I asked, “Where are you going?” He answered, “To measure Jerusalem, to see how wide and how long it is.”
+v03: Then the angel speaking with me went out, and another angel came out to meet him.
+v04: He said to him, “Run and tell that young man: ‘Jerusalem will be inhabited like open country because of the many people and animals within her.
+v05: I myself will be a wall of fire around her,’ declares the LORD, ‘and I will be glory within her.’”
 </p>
 
-## Zion Called Home
+## Come away from the north
 
 <p>
-v06: “Ho! Ho! Flee from the land of the north, says the LORD, for I have scattered you like the four winds of heaven, says the LORD.
-
-v07: Ho, Zion! Escape, you who dwell with daughter Babylon.
-
-v08: For thus says the LORD of Hosts: After glory, he sent me against the nations that plundered you, for whoever touches you touches the pupil of his eye.
-
-v09: For look, I am about to wave my hand over them, and they will become plunder for people who served them. Then you will know that the LORD of Hosts has sent me.
+v06: “Come! Come! Flee from the land of the north,” declares the LORD. “For I have spread you out like the four winds of heaven,” declares the LORD.
+v07: “Come, Zion! Escape, you who live with daughter Babylon!”
+v08: For the LORD of Armies says—after glory he sent me to the nations that plundered you—“Whoever touches you touches the pupil of his eye.
+v09: I will wave my hand over them, and they will become plunder for their own slaves.” Then you will know that the LORD of Armies sent me.
 </p>
 
-## The LORD Will Dwell in Zion
+## The LORD will dwell among you
 
 <p>
-v10: Sing and rejoice, daughter Zion,
-for look, I am coming,
-and I will dwell in your midst,
-says the LORD.
-
-v11: Many nations will join themselves
-to the LORD on that day,
-and they will become my people.
-I will dwell in your midst,
-and you will know
-that the LORD of Hosts has sent me to you.
-
-v12: The LORD will inherit Judah
-as a portion in the holy land
-and will again choose Jerusalem.
-
-v13: Be silent, all flesh, before the LORD,
-for the LORD has roused himself
-from his holy dwelling.
+v10: “Sing and rejoice, daughter Zion! I am coming, and I will dwell among you,” declares the LORD.
+v11: “Many nations will join themselves to the LORD on that day and become my people. I will dwell among you.” Then you will know that the LORD of Armies sent me to you.
+v12: The LORD will take Judah as his own portion in the holy land and will again choose Jerusalem.
+v13: Be silent before the LORD, all flesh! He has stirred from his holy dwelling.
 </p>
 
 ## Notes
 
-v01: The public English numbering of Zechariah differs from the traditional Masoretic chapter division at this point. The vision of the measuring line is Zechariah 2:5 in the Masoretic numbering; English Zechariah 1:18–21 corresponds to Masoretic Zechariah 2:1–4.
+v01: This public chapter begins at Hebrew 2:5; the difference is numbering, not missing text.
 
-v04: “villages without walls” — The Hebrew describes open or unwalled settlements. The image portrays growth so extensive that ordinary city walls can no longer define Jerusalem.
+v08: “After glory” is a difficult expression. “His eye” preserves the Hebrew pronoun; the image marks preciousness and vulnerability.
 
-v05: “a wall of fire” — Jerusalem’s security is grounded in the LORD’s presence rather than conventional fortification.
-
-v06: “like the four winds of heaven” — The Hebrew can describe scattering or spreading toward the four directions. The image emphasizes wide dispersion.
-
-v07: “daughter Babylon” — “Daughter” is a conventional poetic way of personifying a city or its population.
-
-v08: “After glory” — The Hebrew expression is difficult and has been understood in several ways. TSW retains its compact form rather than resolving the relationship between “glory,” the sending, and the nations.
-
-v08: “the pupil of his eye” — The Masoretic Hebrew reads “his eye.” Some ancient evidence and later interpretation support “my eye.” The main text preserves the Masoretic form.
-
-v11: The identity of the speaker shifts between divine speech and the language of one who has been “sent.” The translation preserves this tension rather than supplying an explanation.
-
-v13: “all flesh” — The expression refers broadly to living humanity in its creaturely condition.
+v11: The passage shifts between the LORD speaking and a speaker sent by the LORD. The pronouns are retained without forcing a single explanation.
 
 ## Vocabulary
 
-v01: חֶבֶל (chevel)
-“Measuring line” or “cord.” A tool used for measuring land or construction.
+v01: **Measuring cord**: A builder’s instrument used here in a vision of Jerusalem’s future.
 
-v04: פְּרָזוֹת (perazot)
-“Unwalled villages” or “open settlements.” Places not enclosed by defensive walls.
-
-v05: חוֹמַת אֵשׁ (chomat esh)
-“Wall of fire.” An image of divine protection surrounding Jerusalem.
-
-v05: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest presence; here the LORD’s glory is located within Jerusalem.
-
-v08: בָּבַת עַיִן (bavat ayin)
-“Pupil of the eye.” Literally the delicate central part of the eye, used for something especially vulnerable or precious.
-
-v11: לָוָה (lavah)
-“To join” or “attach oneself.” Used here of nations joining themselves to the LORD.
-
-v13: הַס (has)
-“Be silent” or “hush.” A summons to reverent silence before divine action.
+v05: **Wall of fire**: The LORD’s own protection pictured around an unwalled city.

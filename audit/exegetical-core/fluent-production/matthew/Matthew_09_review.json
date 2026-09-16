@@ -2,43 +2,86 @@
   "book": "Matthew",
   "chapter": 9,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
   "publication_allowed": false,
-  "canonical_tsw_path": "books/NT/matthew/Matthew_09.md",
-  "canonical_tsw_sha": "4db0ecdfc7a6b01fea34d9a4e7a417ec18e72083",
+  "revision_id": "fluent-matthew-1-23-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+    "path": "audit/exegetical-core/fluent-production/matthew/Matthew_09_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
+    "format": "tab_separated",
+    "osis_book_id": "Matt",
+    "book_verse_count": 1068,
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Matt.txt",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+    "git_blob_sha": "d19efbdff018c2bde83ba0fc01e0d8cb399b496b",
+    "sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+    "url": "https://github.com/Faithlife/SBLGNT/blob/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt",
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of original tab-separated Greek verse text, retaining variant markers and whitespace."
   },
-  "chapter_focus": [
-    "forgive/heal",
-    "mercy",
-    "sōzō",
-    "Son of David/harvest"
-  ],
-  "curated_f3": [
+  "chapter_binding": {
+    "chapter": 9,
+    "verse_count": 38,
+    "path": "translations/fluent/NT/matthew/Matthew_09.md",
+    "before_sha256": "eaed5fc1a69eb05ff85c47a37785d6110de48bfb6ec6d3f38f0702e089a6be56",
+    "after_sha256": "b03a9239c79dc85dc131b56316936dc2a5a1f801abe4db7acd561af393f3145e",
+    "tsw_comparator_path": "books/NT/matthew/Matthew_09.md",
+    "tsw_comparator_sha256": "9f7ee03b70ed3cc288528861cf64445cd309249a9cee2069e90d4faf721ae441"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+  "key_decisions": [
     {
-      "location": "13",
-      "decision": "mercy not sacrifice"
+      "reference": "Matthew 9:8",
+      "decision": "Follows fear and plural humans rather than harmonizing to amazement or Jesus alone.",
+      "delta": "F3"
     },
     {
-      "location": "18",
-      "decision": "Matthew's compressed dead-daughter form"
+      "reference": "Matthew 9:13",
+      "decision": "Keeps the scriptural contrast and excludes an unprinted addition about repentance.",
+      "delta": "F3"
     },
     {
-      "location": "22",
-      "decision": "sōzō save/heal network"
+      "reference": "Matthew 9:18",
+      "decision": "Retains has just died and avoids importing a different chronology or office.",
+      "delta": "F3"
+    },
+    {
+      "reference": "Matthew 9:22",
+      "decision": "Keeps daughter and the repeated saving/healing language in its bodily setting.",
+      "delta": "F3"
     }
-  ],
-  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
-  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
-  "verse_delta_summary": {
-    "F0": 0,
-    "F1": 12,
-    "F2": 21,
-    "F3": 5
-  }
+  ]
 }

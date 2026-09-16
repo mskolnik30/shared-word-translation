@@ -4,102 +4,79 @@ testament: NT
 chapter: 4
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-matthew-1-23-biblical-fluency-2026-09-16
 ---
 
-## Jesus Is Tested in the Wilderness
+## Jesus is tested
 
 <p>
-v01: Then Jesus was led up by the Spirit into the wilderness to be tested by the devil.
-v02: After fasting forty days and forty nights, he was hungry.
-v03: The tempter came and said to him, “If you are God's Son, tell these stones to become loaves of bread.”
-v04: But Jesus answered, “It is written:
-‘A person shall not live by bread alone,
-but by every word that comes from the mouth of God.’”
+v01: Then the Spirit led Jesus into the wilderness to be tested by the devil.
+v02: He fasted for forty days and forty nights, and afterward he was hungry.
+v03: The tempter approached him and said, “If you are God’s Son, tell these stones to become loaves of bread.”
+v04: Jesus answered, “It is written, ‘A human being does not live by bread alone, but by every word that comes from God’s mouth.’”
 </p>
 
 <p>
-v05: Then the devil took him into the holy city, set him on the highest point of the temple,
-v06: and said, “If you are God's Son, throw yourself down, because it is written:
+v05: Then the devil took him into the holy city and placed him on the temple’s high edge.
+v06: “If you are God’s Son,” he said, “throw yourself down. For it is written:
 ‘He will command his angels concerning you,’
 and,
-‘On their hands they will lift you up,
-so that you do not strike your foot against a stone.’”
-v07: Jesus said to him, “Again it is written, ‘You shall not test the Lord your God.’”
+‘They will lift you on their hands,
+so your foot will not strike a stone.’”
+v07: Jesus told him, “It is also written, ‘Do not put the Lord your God to the test.’”
 </p>
 
 <p>
-v08: Again the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory.
-v09: He said to him, “I will give you all these things if you fall down and worship me.”
-v10: Then Jesus said to him, “Go away, Satan! For it is written:
-‘You shall worship the Lord your God,
-and serve him alone.’”
-v11: Then the devil left him, and angels came and began serving him.
+v08: Again the devil took him, this time to a very high mountain, and showed him all the world’s kingdoms and their glory.
+v09: “I will give you all of this,” he said, “if you fall down and worship me.”
+v10: Jesus said, “Go away, Satan! For it is written, ‘Worship the Lord your God and serve him alone.’”
+v11: Then the devil left him, and angels came and attended to him.
 </p>
 
-## Jesus Begins His Ministry in Galilee
+## Light in Galilee
 
 <p>
 v12: When Jesus heard that John had been handed over, he withdrew to Galilee.
-v13: Leaving Nazareth, he came and lived in Capernaum by the sea, in the territory of Zebulun and Naphtali,
-v14: so that what was spoken through Isaiah the prophet might be fulfilled:
+v13: He left Nazareth and settled in Capernaum beside the sea, in the territory of Zebulun and Naphtali.
+v14: This fulfilled what was spoken through Isaiah the prophet:
 v15: “Land of Zebulun and land of Naphtali,
-the way of the sea, beyond the Jordan,
-Galilee of the Gentiles—
-v16: the people sitting in darkness
-have seen a great light,
-and for those sitting in the land and shadow of death,
+the road by the sea, beyond the Jordan,
+Galilee of the nations—
+v16: the people sitting in darkness have seen a great light;
+for those sitting in the land and shadow of death,
 light has dawned.”
-v17: From that time Jesus began to proclaim, “Repent, because the kingdom of heaven has drawn near.”
+v17: From then on Jesus began to proclaim, “Repent, for the kingdom of heaven has drawn near!”
 </p>
 
-## Jesus Calls His First Disciples
+## Jesus calls his first disciples
 
 <p>
-v18: As Jesus was walking beside the Sea of Galilee, he saw two brothers: Simon, called Peter, and his brother Andrew. They were casting a net into the sea, because they were fishermen.
-v19: He said to them, “Come after me, and I will make you fishers of people.”
-v20: Immediately they left their nets and followed him.
-v21: Going on from there, he saw two other brothers, James son of Zebedee and his brother John, in the boat with Zebedee their father, mending their nets. He called them,
-v22: and immediately they left the boat and their father and followed him.
+v18: Walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew, casting a net into the sea, for they were fishermen.
+v19: “Come after me,” he said, “and I will make you fishers of people.”
+v20: At once they left their nets and followed him.
+v21: Going farther, he saw two more brothers, James son of Zebedee and his brother John. They were in the boat with their father Zebedee, mending their nets. He called them,
+v22: and at once they left the boat and their father and followed him.
 </p>
 
-## Jesus Teaches and Heals
+## Teaching and healing
 
 <p>
-v23: Jesus went throughout all Galilee, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and every sickness among the people.
-v24: News about him spread throughout all Syria. They brought to him everyone suffering from various diseases and severe pains, those oppressed by demons, those having seizures, and those who were paralyzed, and he healed them.
+v23: He traveled throughout Galilee, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and illness among the people.
+v24: Word about him spread throughout Syria. People brought him everyone suffering from various diseases and severe pain, those afflicted by demons, those with seizures, and those who were paralyzed. He healed them.
 v25: Large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and beyond the Jordan.
 </p>
 
 ## Notes
 
-v01: Matthew says the Spirit “led” Jesus into the wilderness, while Mark uses the stronger verb “drove.” Fluent preserves each Gospel's wording.
+v01–03: The verb can mean test or tempt. The narrative identifies the devil as the tester and retains the conditional “if you are God’s Son.”
 
-v03,06: “If you are God's Son” tests the identity announced in 3:17; the conditional wording need not imply simple uncertainty.
-
-v04,07,10: Jesus responds through Deuteronomy. Scripture is not used as a magical formula but within a conflict over faithful sonship.
-
-v12: `paradidōmi`, “hand over,” connects John's arrest with the hand-over vocabulary that later dominates Jesus' passion.
-
-v17: Jesus' proclamation matches John's wording in 3:2, but Matthew now places the announcement in Jesus' own ministry.
-
-v23: Teaching, proclaiming, and healing form a recurring Matthean summary of Jesus' work.
+v12: “Handed over” recurs in Matthew for arrest, betrayal, and delivery into another’s power.
 
 ## Vocabulary
 
-v01: πειράζω (peirazō)
-“To test, tempt.”
+v04: **Word**: The quotation treats life as dependent on what comes from God’s mouth, not bread alone.
 
-v03: πειράζων (peirazōn)
-“The tester/tempter.”
-
-v10: προσκυνέω (proskyneō)
-“To worship, pay homage.”
-
-v12: παραδίδωμι (paradidōmi)
-“To hand over.”
-
-v17: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn)
-“Kingdom of heaven.”
-
-v23: εὐαγγέλιον τῆς βασιλείας (euangelion tēs basileias)
-“Good news of the kingdom.”
+v19: **Fishers of people**: The calling keeps the fishermen’s work as its image.

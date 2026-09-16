@@ -1,7 +1,7 @@
 {
   "book": "Habakkuk",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 3,
   "public_verse_slots": 56,
   "included_verse_labels": 56,
@@ -73,5 +73,49 @@
         "blob_sha": "e12d4e6ad79f0e9f613ac89925b9b993e3d43f05"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3
+  ],
+  "current_revision": {
+    "id": "fluent-habakkuk-1-3-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3
+    ],
+    "verse_count": 56,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-habakkuk-1-3/habakkuk-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/habakkuk/HABAKKUK_FLUENT_BOOK_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-habakkuk-1-3-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "verse_count": 56,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-habakkuk-1-3/habakkuk-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/habakkuk/HABAKKUK_FLUENT_BOOK_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ]
 }

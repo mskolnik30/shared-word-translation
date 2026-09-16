@@ -1,7 +1,7 @@
 {
   "book": "Malachi",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 4,
   "public_verse_slots": 55,
   "included_verse_labels": 55,
@@ -77,5 +77,52 @@
         "blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-malachi-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 55,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-malachi-1-4/malachi-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+      "path": "audit/exegetical-core/fluent-production/malachi/MALACHI_FLUENT_BOOK_QA.json"
+    },
+    "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-malachi-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 55,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-malachi-1-4/malachi-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+        "path": "audit/exegetical-core/fluent-production/malachi/MALACHI_FLUENT_BOOK_QA.json"
+      },
+      "note": "Earlier wording approvals and Companion bindings do not transfer. Recovered draft, independent editorial review and reader testing pending."
+    }
+  ]
 }

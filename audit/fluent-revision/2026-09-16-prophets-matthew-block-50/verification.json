@@ -1,0 +1,45 @@
+{
+  "status": "PASSED",
+  "base_commit": "bba235669797602d28cbd2ee0e3521b59fdc87c6",
+  "new_chapters": 50,
+  "new_verses": 1242,
+  "source_records_by_scope": {
+    "nahum": 19,
+    "habakkuk": 56,
+    "zephaniah": 53,
+    "haggai": 38,
+    "zechariah": 211,
+    "malachi": 55,
+    "matthew": 810
+  },
+  "cumulative_coverage": {
+    "ledgers": 106,
+    "chapters": 957,
+    "verses": 24062
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 99,
+    "chapters_byte_identical": 907,
+    "verses": 22820,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audit": "PASSED seven ledgers",
+  "divine_names": "Hebrew LORD/GOD/YAH counts passed verse by verse",
+  "focused_authoring_reread": 157,
+  "complete_English_and_apparatus_read": true,
+  "recovery_qualification": "Recovered unfinished drafts; this turn does not independently establish the earlier drafting sequence or claim full original-language reading before recovery.",
+  "checker_regressions": {
+    "wrong source chapter scope": "REJECTED",
+    "wrong source book": "REJECTED",
+    "missing source-bound verse": "REJECTED",
+    "undeclared comparator gap": "REJECTED",
+    "wrong comparator gap": "REJECTED",
+    "tampered full source": "REJECTED",
+    "prior James full-book audit": "PASSED"
+  },
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31084 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "reader_testing": "PENDING",
+  "whole_book_consistency_reviews": "Pending; prior queue preserved",
+  "publication_allowed": false
+}
