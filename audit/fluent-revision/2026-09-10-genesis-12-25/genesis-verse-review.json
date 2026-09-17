@@ -96,7 +96,7 @@
       "verse_count": 33,
       "path": "translations/fluent/OT/genesis/Genesis_18.md",
       "before_sha256": "3a1aca700c65767188b0660717d2a34b091a705744b7feeaadca5aacd78cb8cd",
-      "after_sha256": "6ff408849152f8defc10a0b89e1eee1b465f19ceb466103a230273e7b371a28d",
+      "after_sha256": "029e3ed849a20070fc575016e1e3b6d3e8b89708d2527cbeb521e6b58722fb8c",
       "tsw_comparator_path": "books/OT/genesis/Genesis_18.md",
       "tsw_comparator_sha256": "c7ce22488a3cde38b3504d5a0b97fde102d0638815ecc2e73bec8fb18e71b9a5"
     },
@@ -2043,12 +2043,20 @@
       "rationale": "Retain known and the paired righteousness/justice vocabulary; unfold purposes without replacing knowing with a doctrinal label.",
       "source_reference": "Gen 18:19",
       "before": "For I have known him, that he may command his children and his household after him to keep the way of the LORD, to do righteousness and justice, so that the LORD may bring upon Abraham what he has spoken concerning him.”",
-      "after": "I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice. Then the LORD will bring about for Abraham what he has promised him.”",
+      "after": "I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice, so that the LORD may bring about for Abraham what he has promised him.”",
       "tsw_comparator": "For I have known him, that he may command his children and his household after him to keep the way of the LORD, to do righteousness and justice, so that the LORD may bring upon Abraham what he has spoken concerning him.”",
       "source_verse_sha256": "ea5281a15e61f9c8d66baa0600e74226c14b51e47a3e0512b6e9d5b43ee96b4e",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.691358,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.756098,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice. Then the LORD will bring about for Abraham what he has promised him.”",
+          "rationale": "Restore the second explicit purpose connection, lemaʿan, rather than making it only a subsequent event. Preserve both purposes in the verse."
+        }
+      ]
     },
     {
       "reference": "Genesis 18:20",
@@ -5319,6 +5327,12 @@
       "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
       "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
       "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+      "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+      "scope": "Genesis 11–50 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

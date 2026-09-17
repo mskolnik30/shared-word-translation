@@ -34,7 +34,7 @@
       "verse_count": 36,
       "path": "translations/fluent/OT/genesis/Genesis_37.md",
       "before_sha256": "475571af9b177315a6fec980ffb35cc03e01dbabaeb7984fb5977febe397fc49",
-      "after_sha256": "ed123156d0b1b227e3a10204955a7de34286080ecdb4ef4530f587652a42ecef",
+      "after_sha256": "0b9ccbb174a52c540373e2ebce1f36f5a4a8c78dcb976f05b62e2a0e061d4d44",
       "tsw_comparator_path": "books/OT/genesis/Genesis_37.md",
       "tsw_comparator_sha256": "d2e45663a7ba330bb8b93b034fc39e4e16351a4adb74835e87ad4b3700a0fcbf"
     },
@@ -84,7 +84,7 @@
       "verse_count": 57,
       "path": "translations/fluent/OT/genesis/Genesis_41.md",
       "before_sha256": "b329b688f7cf8738b225b9a2ef65acc3908f7f441d1fecfbba0e295d4ce554aa",
-      "after_sha256": "ce79a34acba14e08185ce425991348ee97f950538f9d1ced32c8548bfc5f71d0",
+      "after_sha256": "e4705c81a122af8bc32e68078bfa795ea9c77cf2c71ff5af4706c65131cfdaed",
       "tsw_comparator_path": "books/OT/genesis/Genesis_41.md",
       "tsw_comparator_sha256": "30e8348ca51941fd029fce2593e72c0111a77f3afe6b090221e8324044d2bea2"
     }
@@ -188,11 +188,19 @@
       "source_reference": "Gen 37:8",
       "source_verse_sha256": "efb26c134508b304cba74aca805db285e79cf6250280d331edfe79f848f6d718",
       "before": "His brothers said to him, “Are you indeed to reign over us? Or are you indeed to rule us?” So they hated him even more for his dreams and for his words.",
-      "after": "His brothers said, “Do you really intend to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.",
+      "after": "His brothers said, “Are you really going to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.",
       "tsw_comparator": "His brothers said to him, “Are you indeed to reign over us? Or are you indeed to rule us?” So they hated him even more for his dreams and for his words.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.645161,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.677419,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "His brothers said, “Do you really intend to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.",
+          "rationale": "The emphatic reign question does not separately state an intention. Preserve the incredulous question and the following rule question without supplying a mental purpose."
+        }
+      ]
     },
     {
       "reference": "Genesis 37:9",
@@ -552,11 +560,19 @@
       "source_reference": "Gen 37:36",
       "source_verse_sha256": "38d14b91e9c52081029a836affe3f4324044ff8a9b2608af2b6593c7d93db068",
       "before": "Meanwhile the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, the captain of the guard.",
-      "after": "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.",
+      "after": "Meanwhile, the Medanites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.",
       "tsw_comparator": "Meanwhile the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, the captain of the guard.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.722222,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.",
+          "rationale": "The pinned Hebrew names Medanites here, distinct from Midianites in 37:28. Follow the bound source and correct the note that previously misidentified its wording; do not resolve the narrative relationship between merchant groups."
+        }
+      ]
     },
     {
       "reference": "Genesis 38:1",
@@ -2003,11 +2019,19 @@
       "source_reference": "Gen 41:35",
       "source_verse_sha256": "9f8d101ebcc1b5c9c96869bc3f4c4c2348fd7e82c3a261219173b4fd9ffaa98e",
       "before": "Let them gather all the food of these coming good years and store up grain under Pharaoh’s authority for food in the cities, and let them keep it.",
-      "after": "They should gather food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.",
+      "after": "They should gather all the food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.",
       "tsw_comparator": "Let them gather all the food of these coming good years and store up grain under Pharaoh’s authority for food in the cities, and let them keep it.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.588235,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.641509,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "They should gather food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.",
+          "rationale": "Restore explicit kol, all, in the food-gathering instruction. Preserve its relation to the preceding fifth and to the corresponding all in 41:48 without silently harmonizing the scope."
+        }
+      ]
     },
     {
       "reference": "Genesis 41:36",
@@ -2352,6 +2376,12 @@
       "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
       "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
       "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+      "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+      "scope": "Genesis 11–50 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

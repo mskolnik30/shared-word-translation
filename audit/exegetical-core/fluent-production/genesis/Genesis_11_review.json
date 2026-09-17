@@ -41,7 +41,7 @@
     "verse_count": 32,
     "path": "translations/fluent/OT/genesis/Genesis_11.md",
     "before_sha256": "1aafe1860887cca35e785c44f3c476cd338094af4b4ce0a6ddc8f3e0e502e787",
-    "after_sha256": "275f55f4ca9943163fedab7a266a8e5f303578f12893c49637f8c6253c7595aa",
+    "after_sha256": "4506c96f1b3cafc651bd96af53dee2250777b1bc3841fe360a68aac038d084b9",
     "tsw_comparator_path": "books/OT/genesis/Genesis_11.md",
     "tsw_comparator_sha256": "b682b9fd688bed50921294a70016bc596112714a881b55821341566936d63b43"
   },
@@ -84,6 +84,13 @@
       "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
       "previous_chapter_sha256": "df376229c4094e56b95c09a97d181f9d63dd7be40f520ae7c43aa45b3efb5ea0",
       "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+      "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+      "previous_chapter_sha256": "275f55f4ca9943163fedab7a266a8e5f303578f12893c49637f8c6253c7595aa",
+      "scope": "Genesis 11–50 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

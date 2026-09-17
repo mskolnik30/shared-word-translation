@@ -28,7 +28,7 @@ v04: When his brothers saw that their father loved him more than any of them, th
 v05: Then Joseph had a dream. When he told it to his brothers, they hated him even more.
 v06: He said to them, “Listen to this dream I had.
 v07: We were binding sheaves in the field when suddenly my sheaf rose and stood upright. Then your sheaves gathered around mine and bowed down to it.”
-v08: His brothers said, “Do you really intend to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.
+v08: His brothers said, “Are you really going to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.
 </p>
 
 <p>
@@ -94,7 +94,7 @@ v35: All his sons and daughters came to comfort him, but he refused their comfor
 </p>
 
 <p>
-v36: Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.
+v36: Meanwhile, the Medanites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.
 </p>
 
 ## Notes
@@ -105,7 +105,7 @@ v03: The rare garment expression may describe a long robe, an ornamented robe, a
 
 v10: Jacob interprets the moon as Joseph’s mother even though the preceding narrative has reported Rachel’s death. The text does not explain the tension.
 
-v28, 36: The account names both Ishmaelites and Midianites. In verse 28 the Hebrew does not identify the subject of “pulled,” “lifted,” and “sold” unambiguously; verse 36 names Midianites as the sellers in Egypt.
+v28, 36: The account names Ishmaelites and Midianites in verse 28; the Hebrew text used here names Medanites in verse 36. The relationship among these names is not explained. In verse 28 the subject of “pulled,” “lifted,” and “sold” is not explicitly identified, leaving the sellers’ identity open to interpretation.
 
 v32: “Please recognize” is the same appeal Tamar will make to Judah in 38:25, when she presents his own identifying objects.
 

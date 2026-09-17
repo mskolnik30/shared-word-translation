@@ -81,7 +81,7 @@ v32: The dream was repeated to Pharaoh because God has firmly established the ma
 <p>
 v33: So now Pharaoh should look for a discerning and wise man and put him in charge of Egypt.
 v34: Pharaoh should appoint overseers throughout the land and collect one-fifth of Egypt’s produce during the seven years of abundance.
-v35: They should gather food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.
+v35: They should gather all the food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.
 v36: The food will be a reserve for Egypt during the seven years of famine, so the land will not be destroyed by the famine.”
 </p>
 

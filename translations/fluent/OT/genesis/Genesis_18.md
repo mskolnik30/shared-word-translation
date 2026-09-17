@@ -71,7 +71,7 @@ v16: The men got up to leave and looked toward Sodom. Abraham walked with them t
 <p>
 v17: The LORD said, “Should I hide from Abraham what I am about to do?
 v18: Abraham will surely become a great and powerful nation, and all the nations of the earth will be blessed through him.
-v19: I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice. Then the LORD will bring about for Abraham what he has promised him.”
+v19: I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice, so that the LORD may bring about for Abraham what he has promised him.”
 </p>
 
 <p>

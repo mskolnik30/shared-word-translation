@@ -1,0 +1,189 @@
+{
+  "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+  "chapters": [
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_11.md",
+      "chapter": 11,
+      "before_sha256": "275f55f4ca9943163fedab7a266a8e5f303578f12893c49637f8c6253c7595aa",
+      "reasons": [
+        "Remove added after chronology from the coordinated age and fatherhood statements, consistently with 5:32. Do not assert simultaneous births or harmonize birth order."
+      ],
+      "after_sha256": "4506c96f1b3cafc651bd96af53dee2250777b1bc3841fe360a68aac038d084b9",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_18.md",
+      "chapter": 18,
+      "before_sha256": "6ff408849152f8defc10a0b89e1eee1b465f19ceb466103a230273e7b371a28d",
+      "reasons": [
+        "Restore the second explicit purpose connection, lemaʿan, rather than making it only a subsequent event. Preserve both purposes in the verse."
+      ],
+      "after_sha256": "029e3ed849a20070fc575016e1e3b6d3e8b89708d2527cbeb521e6b58722fb8c",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_33.md",
+      "chapter": 33,
+      "before_sha256": "68b6b6107f4c7f3d7635741d65df43df269a2347e7db77c10aa1114f5ba772bf",
+      "reasons": [
+        "The final clause names all the tson, the flock, after distinguishing flock and cattle earlier. Avoid extending that noun to every animal."
+      ],
+      "after_sha256": "1835eeda041bf73cafdc02a05a6cce6e46b9afc45404b3b40beaf555351cbccd",
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "chapter": 36,
+      "before_sha256": "f37df3666fe313304fb706b532014cfe9664c3d9e8c42a4ad9e758acc3ec6111",
+      "reasons": [
+        "Repeat the explicit father Anah from the source. The former English his could attach to Dishon and imply the wrong parent.",
+        "The pinned Masoretic verse reads Dishan, including the vowel pointing. Restore that name rather than silently harmonizing it to Dishon in the surrounding genealogy; a new note discloses the tension."
+      ],
+      "after_sha256": "8f344a6c4833674de02aeb67b2ef855d7e2ad9271120f4ee586c92d9bc751e07",
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_37.md",
+      "chapter": 37,
+      "before_sha256": "ed123156d0b1b227e3a10204955a7de34286080ecdb4ef4530f587652a42ecef",
+      "reasons": [
+        "The emphatic reign question does not separately state an intention. Preserve the incredulous question and the following rule question without supplying a mental purpose.",
+        "The pinned Hebrew names Medanites here, distinct from Midianites in 37:28. Follow the bound source and correct the note that previously misidentified its wording; do not resolve the narrative relationship between merchant groups."
+      ],
+      "after_sha256": "0b9ccbb174a52c540373e2ebce1f36f5a4a8c78dcb976f05b62e2a0e061d4d44",
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_41.md",
+      "chapter": 41,
+      "before_sha256": "ce79a34acba14e08185ce425991348ee97f950538f9d1ced32c8548bfc5f71d0",
+      "reasons": [
+        "Restore explicit kol, all, in the food-gathering instruction. Preserve its relation to the preceding fifth and to the corresponding all in 41:48 without silently harmonizing the scope."
+      ],
+      "after_sha256": "e4705c81a122af8bc32e68078bfa795ea9c77cf2c71ff5af4706c65131cfdaed",
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_42.md",
+      "chapter": 42,
+      "before_sha256": "e55ff7e5d186b96fc2739eb2bb5153250cf845c4cb27e21366706fa6b93cc990",
+      "reasons": [
+        "The narrator says they did so, not merely that they agreed. Retain the summary statement in its given place rather than changing the action to an agreement to smooth subsequent chronology."
+      ],
+      "after_sha256": "79a69afec60cf255b5f8275842595c620f033ae8036a67f2767d53c50cdda4b8",
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+    }
+  ],
+  "verse_changes": [
+    {
+      "reference": "Genesis 11:26",
+      "path": "translations/fluent/OT/genesis/Genesis_11.md",
+      "before": "After Terah reached 70 years of age, he became the father of Abram, Nahor, and Haran.",
+      "after": "Terah was 70 years old, and he became the father of Abram, Nahor, and Haran.",
+      "criteria": "F01/F03",
+      "rationale": "Remove added after chronology from the coordinated age and fatherhood statements, consistently with 5:32. Do not assert simultaneous births or harmonize birth order.",
+      "source_reference": "Gen 11:26",
+      "source_verse_sha256": "0fec903613ee99e90aafbf9c3b89d04ab4a3753553d9fc6ecedae469c3552d4c"
+    },
+    {
+      "reference": "Genesis 18:19",
+      "path": "translations/fluent/OT/genesis/Genesis_18.md",
+      "before": "I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice. Then the LORD will bring about for Abraham what he has promised him.”",
+      "after": "I have known him so that he will direct his children and his household after him to keep the LORD's way by doing righteousness and justice, so that the LORD may bring about for Abraham what he has promised him.”",
+      "criteria": "F01/F02",
+      "rationale": "Restore the second explicit purpose connection, lemaʿan, rather than making it only a subsequent event. Preserve both purposes in the verse.",
+      "source_reference": "Gen 18:19",
+      "source_verse_sha256": "ea5281a15e61f9c8d66baa0600e74226c14b51e47a3e0512b6e9d5b43ee96b4e"
+    },
+    {
+      "reference": "Genesis 33:13",
+      "path": "translations/fluent/OT/genesis/Genesis_33.md",
+      "before": "Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, all the animals will die.",
+      "after": "Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, the whole flock will die.",
+      "criteria": "F01/F05",
+      "rationale": "The final clause names all the tson, the flock, after distinguishing flock and cattle earlier. Avoid extending that noun to every animal.",
+      "source_reference": "Gen 33:13",
+      "source_verse_sha256": "a3b4b991b35220c71f7a54e52c692737404ee30356d061a2e3169561a3d5ba78"
+    },
+    {
+      "reference": "Genesis 36:25",
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "before": "Anah’s children were Dishon and his daughter Oholibamah.",
+      "after": "Anah’s children were Dishon and Oholibamah, Anah’s daughter.",
+      "criteria": "F01/F02",
+      "rationale": "Repeat the explicit father Anah from the source. The former English his could attach to Dishon and imply the wrong parent.",
+      "source_reference": "Gen 36:25",
+      "source_verse_sha256": "bd18147f541058df08d653241d7cdb5e2e1cbb4066e5d2a5ed39282dc9790c79"
+    },
+    {
+      "reference": "Genesis 36:26",
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "before": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+      "after": "These are the sons of Dishan: Hemdan, Eshban, Ithran, and Cheran.",
+      "criteria": "F01/F03",
+      "rationale": "The pinned Masoretic verse reads Dishan, including the vowel pointing. Restore that name rather than silently harmonizing it to Dishon in the surrounding genealogy; a new note discloses the tension.",
+      "source_reference": "Gen 36:26",
+      "source_verse_sha256": "5d1b8fbd70ba3446d8fe68655f45ceeb788e4e13650f6a2e4af24832b9a35e0a"
+    },
+    {
+      "reference": "Genesis 37:8",
+      "path": "translations/fluent/OT/genesis/Genesis_37.md",
+      "before": "His brothers said, “Do you really intend to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.",
+      "after": "His brothers said, “Are you really going to reign over us? Will you actually rule us?” So they hated him even more because of his dreams and what he said.",
+      "criteria": "F01/F02",
+      "rationale": "The emphatic reign question does not separately state an intention. Preserve the incredulous question and the following rule question without supplying a mental purpose.",
+      "source_reference": "Gen 37:8",
+      "source_verse_sha256": "efb26c134508b304cba74aca805db285e79cf6250280d331edfe79f848f6d718"
+    },
+    {
+      "reference": "Genesis 37:36",
+      "path": "translations/fluent/OT/genesis/Genesis_37.md",
+      "before": "Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.",
+      "after": "Meanwhile, the Medanites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials and captain of the guard.",
+      "criteria": "F01/F03",
+      "rationale": "The pinned Hebrew names Medanites here, distinct from Midianites in 37:28. Follow the bound source and correct the note that previously misidentified its wording; do not resolve the narrative relationship between merchant groups.",
+      "source_reference": "Gen 37:36",
+      "source_verse_sha256": "38d14b91e9c52081029a836affe3f4324044ff8a9b2608af2b6593c7d93db068"
+    },
+    {
+      "reference": "Genesis 41:35",
+      "path": "translations/fluent/OT/genesis/Genesis_41.md",
+      "before": "They should gather food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.",
+      "after": "They should gather all the food during the good years ahead and store grain under Pharaoh’s authority as food in the cities, keeping it secure.",
+      "criteria": "F01/F04",
+      "rationale": "Restore explicit kol, all, in the food-gathering instruction. Preserve its relation to the preceding fifth and to the corresponding all in 41:48 without silently harmonizing the scope.",
+      "source_reference": "Gen 41:35",
+      "source_verse_sha256": "9f8d101ebcc1b5c9c96869bc3f4c4c2348fd7e82c3a261219173b4fd9ffaa98e"
+    },
+    {
+      "reference": "Genesis 42:20",
+      "path": "translations/fluent/OT/genesis/Genesis_42.md",
+      "before": "Then bring your youngest brother to me, so your words can be confirmed and you will not die.” They agreed to do this.",
+      "after": "Then bring your youngest brother to me, so your words can be confirmed and you will not die.” They did so.",
+      "criteria": "F01/F04",
+      "rationale": "The narrator says they did so, not merely that they agreed. Retain the summary statement in its given place rather than changing the action to an agreement to smooth subsequent chronology.",
+      "source_reference": "Gen 42:20",
+      "source_verse_sha256": "1ff1d4909a181257c8818049a8cf4dbaf4b49bcf075f6272e559225258264193"
+    }
+  ],
+  "note_changes": [
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "before": "v39: The Masoretic Text reads Hadar here;",
+      "after": "v26: The Hebrew reads Dishan here, although the preceding verse names Dishon. Verse 28 also names Dishan.\n\nv39: The Masoretic Text reads Hadar here;"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_37.md",
+      "before": "v28, 36: The account names both Ishmaelites and Midianites. In verse 28 the Hebrew does not identify the subject of “pulled,” “lifted,” and “sold” unambiguously; verse 36 names Midianites as the sellers in Egypt.",
+      "after": "v28, 36: The account names Ishmaelites and Midianites in verse 28; the Hebrew text used here names Medanites in verse 36. The relationship among these names is not explained. In verse 28 the subject of “pulled,” “lifted,” and “sold” is not explicitly identified, leaving the sellers’ identity open to interpretation."
+    }
+  ],
+  "affected_ledgers": [
+    "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+  ],
+  "publication_allowed": false
+}

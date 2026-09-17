@@ -46,7 +46,7 @@
       "verse_count": 20,
       "path": "translations/fluent/OT/genesis/Genesis_33.md",
       "before_sha256": "afcbb52cc9cf7a9ad30c7b448267eed055fa873335cde50c5bff6f948702a80c",
-      "after_sha256": "68b6b6107f4c7f3d7635741d65df43df269a2347e7db77c10aa1114f5ba772bf",
+      "after_sha256": "1835eeda041bf73cafdc02a05a6cce6e46b9afc45404b3b40beaf555351cbccd",
       "tsw_comparator_path": "books/OT/genesis/Genesis_33.md",
       "tsw_comparator_sha256": "26e7969f8ccfb9e4e855575091210b2324072eb20cbb0ca8eaa696928b369385"
     },
@@ -73,7 +73,7 @@
       "verse_count": 43,
       "path": "translations/fluent/OT/genesis/Genesis_36.md",
       "before_sha256": "cac7e40c42bb82fbd1bf07645c11d07b51fce536d8aef69763417d884bf1ee91",
-      "after_sha256": "f37df3666fe313304fb706b532014cfe9664c3d9e8c42a4ad9e758acc3ec6111",
+      "after_sha256": "8f344a6c4833674de02aeb67b2ef855d7e2ad9271120f4ee586c92d9bc751e07",
       "tsw_comparator_path": "books/OT/genesis/Genesis_36.md",
       "tsw_comparator_sha256": "29416f8391aa11b36eb53e3b63743e7004dfc9e4139df414c6a2567431cc5f20",
       "binding_history": [
@@ -665,11 +665,19 @@
       "source_reference": "Gen 33:13",
       "source_verse_sha256": "a3b4b991b35220c71f7a54e52c692737404ee30356d061a2e3169561a3d5ba78",
       "before": "Yet Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for even one day, all the flocks will die.",
-      "after": "Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, all the animals will die.",
+      "after": "Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, the whole flock will die.",
       "tsw_comparator": "But Jacob said to him, “My lord knows that the children are frail, and that the nursing flocks and herds are a care to me. If they are driven hard for even one day, all the flocks will die.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.767123,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.739726,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, all the animals will die.",
+          "rationale": "The final clause names all the tson, the flock, after distinguishing flock and cattle earlier. Avoid extending that noun to every animal."
+        }
+      ]
     },
     {
       "reference": "Genesis 33:14",
@@ -1861,11 +1869,19 @@
       "source_reference": "Gen 36:25",
       "source_verse_sha256": "bd18147f541058df08d653241d7cdb5e2e1cbb4066e5d2a5ed39282dc9790c79",
       "before": "These are the children of Anah: Dishon and Oholibamah the daughter of Anah.",
-      "after": "Anah’s children were Dishon and his daughter Oholibamah.",
+      "after": "Anah’s children were Dishon and Oholibamah, Anah’s daughter.",
       "tsw_comparator": "These are the children of Anah: Dishon and Oholibamah the daughter of Anah.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.380952,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.47619,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "Anah’s children were Dishon and his daughter Oholibamah.",
+          "rationale": "Repeat the explicit father Anah from the source. The former English his could attach to Dishon and imply the wrong parent."
+        }
+      ]
     },
     {
       "reference": "Genesis 36:26",
@@ -1874,11 +1890,19 @@
       "source_reference": "Gen 36:26",
       "source_verse_sha256": "5d1b8fbd70ba3446d8fe68655f45ceeb788e4e13650f6a2e4af24832b9a35e0a",
       "before": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
-      "after": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+      "after": "These are the sons of Dishan: Hemdan, Eshban, Ithran, and Cheran.",
       "tsw_comparator": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
-      "identical_words_to_tsw": true,
-      "word_similarity_to_tsw": 1.0,
-      "editorial_status": "REVIEW_PENDING"
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.",
+          "rationale": "The pinned Masoretic verse reads Dishan, including the vowel pointing. Restore that name rather than silently harmonizing it to Dishon in the surrounding genealogy; a new note discloses the tension."
+        }
+      ]
     },
     {
       "reference": "Genesis 36:27",
@@ -2156,6 +2180,12 @@
       "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
       "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
       "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+      "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+      "scope": "Genesis 11–50 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

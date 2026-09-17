@@ -129,7 +129,7 @@
       "verse_count": 32,
       "path": "translations/fluent/OT/genesis/Genesis_11.md",
       "before_sha256": "1aafe1860887cca35e785c44f3c476cd338094af4b4ce0a6ddc8f3e0e502e787",
-      "after_sha256": "275f55f4ca9943163fedab7a266a8e5f303578f12893c49637f8c6253c7595aa",
+      "after_sha256": "4506c96f1b3cafc651bd96af53dee2250777b1bc3841fe360a68aac038d084b9",
       "tsw_comparator_path": "books/OT/genesis/Genesis_11.md",
       "tsw_comparator_sha256": "b682b9fd688bed50921294a70016bc596112714a881b55821341566936d63b43"
     }
@@ -3985,12 +3985,20 @@
       "rationale": "Treat the compressed age/list formula like 5:32 without assuming triplets or establishing the sons' birth order.",
       "source_reference": "Gen 11:26",
       "before": "When Terah had lived seventy years, he fathered Abram, Nahor, and Haran.",
-      "after": "After Terah reached 70 years of age, he became the father of Abram, Nahor, and Haran.",
+      "after": "Terah was 70 years old, and he became the father of Abram, Nahor, and Haran.",
       "tsw_comparator": "When Terah had lived seventy years, he fathered Abram, Nahor, and Haran.",
       "source_verse_sha256": "0fec903613ee99e90aafbf9c3b89d04ab4a3753553d9fc6ecedae469c3552d4c",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.5,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.518519,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+          "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+          "previous_after": "After Terah reached 70 years of age, he became the father of Abram, Nahor, and Haran.",
+          "rationale": "Remove added after chronology from the coordinated age and fatherhood statements, consistently with 5:32. Do not assert simultaneous births or harmonize birth order."
+        }
+      ]
     },
     {
       "reference": "Genesis 11:27",
@@ -4091,6 +4099,12 @@
       "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
       "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
       "scope": "Genesis 1–10 source/fluency comparison",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-11-50/corrections.json",
+      "base_commit": "f59146de202775e61a608552e8564bddd46c4599",
+      "scope": "Genesis 11–50 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

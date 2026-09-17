@@ -731,7 +731,7 @@
   "next_work": [
     {
       "scope": "Genesis 1–50 complete editorial block",
-      "action": "Genesis 1–10 now has fresh verse-by-verse self-review with open issues. Continue at Genesis 11, finish the remaining Genesis source/continuous-reading work and documented questions, then subsequent 50-chapter blocks without routine approval. Read EDITORIAL_PROGRESS.json and the latest source-review report."
+      "action": "Genesis 1–50 now has fresh verse-by-verse self-review with open issues. Complete the remaining continuous-reading, specialist and editorial checks in the current issue register. Continue subsequent 50-chapter blocks without routine approval; never mark unresolved or independent review complete. Read EDITORIAL_PROGRESS.json and the latest source-review report."
     },
     {
       "scope": "Resolve full-corpus audit findings",
@@ -1098,6 +1098,13 @@
       "scope": "Genesis 1–10 source comparison, 267 verses",
       "status": "SELF_REVIEW_COMPLETE_WITH_OPEN_ISSUES",
       "report": "audit/fluent-revision/2026-09-17-genesis-source-1-10/Genesis-Source-Review.md",
+      "independent_editorial_review": "REVIEW_PENDING",
+      "publication_allowed": false
+    },
+    {
+      "scope": "Genesis 11–50 source comparison, 1266 verses; cumulative Genesis 1–50, 1533 verses",
+      "status": "SELF_REVIEW_COMPLETE_WITH_OPEN_ISSUES",
+      "report": "audit/fluent-revision/2026-09-17-genesis-source-11-50/Genesis-Source-Review.md",
       "independent_editorial_review": "REVIEW_PENDING",
       "publication_allowed": false
     }

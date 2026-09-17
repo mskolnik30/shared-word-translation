@@ -51,7 +51,7 @@ v17: He put them all in custody for three days.
 <p>
 v18: On the third day Joseph said, “Do this, and you will live, for I fear God.
 v19: If you are honest men, let one brother remain here in custody. The rest of you may go and take grain home to your hungry households.
-v20: Then bring your youngest brother to me, so your words can be confirmed and you will not die.” They agreed to do this.
+v20: Then bring your youngest brother to me, so your words can be confirmed and you will not die.” They did so.
 </p>
 
 <p>

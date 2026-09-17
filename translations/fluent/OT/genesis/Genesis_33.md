@@ -57,7 +57,7 @@ v12: Then Esau said, “Let us set out together. I will travel alongside you.”
 </p>
 
 <p>
-v13: Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, all the animals will die.
+v13: Jacob answered, “My lord knows that the children are frail and that I am responsible for nursing flocks and herds. If they are driven hard for even one day, the whole flock will die.
 v14: Please let my lord go on ahead of his servant. I will move at a gentle pace, according to the livestock and children before me, until I reach my lord in Seir.”
 </p>
 

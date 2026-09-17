@@ -101,11 +101,11 @@ v24: Zibeon’s sons were Aiah and Anah. This was the Anah who found the hot spr
 </p>
 
 <p>
-v25: Anah’s children were Dishon and his daughter Oholibamah.
+v25: Anah’s children were Dishon and Oholibamah, Anah’s daughter.
 </p>
 
 <p>
-v26: These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+v26: These are the sons of Dishan: Hemdan, Eshban, Ithran, and Cheran.
 </p>
 
 <p>
@@ -183,6 +183,8 @@ v06–08: The text does not name Esau’s destination in verse 6; verse 8 identi
 v15–19: Chief translates alluf, a title for a clan or tribal leader. Korah appears among Oholibamah’s sons in v14 and among the chiefs descended from Eliphaz in v16.
 
 v24: The rare word yemim is uncertain. ‘Hot springs’ is followed here; proposed alternatives include water sources or mules. The discovery’s precise nature cannot be recovered with confidence.
+
+v26: The Hebrew reads Dishan here, although the preceding verse names Dishon. Verse 28 also names Dishan.
 
 v39: The Masoretic Text reads Hadar here; the parallel account in 1 Chronicles 1:50 reads Hadad.
 

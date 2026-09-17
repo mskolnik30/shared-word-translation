@@ -79,7 +79,7 @@ v25: After Terah's birth, Nahor lived another 119 years and had other sons and d
 </p>
 
 <p>
-v26: After Terah reached 70 years of age, he became the father of Abram, Nahor, and Haran.
+v26: Terah was 70 years old, and he became the father of Abram, Nahor, and Haran.
 </p>
 
 ## Terah’s Family

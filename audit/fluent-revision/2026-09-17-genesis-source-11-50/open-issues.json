@@ -1,0 +1,148 @@
+{
+  "status": "OPEN",
+  "items": [
+    {
+      "id": "G01",
+      "scope": "Genesis 1–50",
+      "criterion": "F01",
+      "action": "Genesis 1–50, all 1533 public verses, now has fresh source comparison across the 1–10 and 11–50 passes. The word display was simplified Hebrew with targeted pointed-source checks, not a complete independent philological audit. Resolve logged semantic questions before closing F01.",
+      "status": "ALL_VERSES_SELF_REVIEWED_WITH_OPEN_ISSUES"
+    },
+    {
+      "id": "G02",
+      "scope": "Genesis 1–50",
+      "criterion": "F02/F04/F08",
+      "action": "Read the whole book continuously, including chapter transitions; review speaker tracking, paragraphs, headings, repetitions and the poetry in chapters 27 and 49.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G03",
+      "scope": "Genesis 15:6; 16:13–14; 20:13,16; 24:55,63; 25:18,23",
+      "criterion": "F03",
+      "action": "Resolve or explicitly preserve the consequential grammatical and lexical alternatives already flagged by the notes. Confirm the notes against source and appropriate specialist evidence.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G04",
+      "scope": "Genesis 31:24,29",
+      "criterion": "F01/F03",
+      "action": "The main text uses make any pronouncement for Hebrew speak from good to bad. Targeted inspection confirms the literal components but not the narrower formal-speech interpretation. Decide the idiom from contextual and lexical evidence and rebind any changed Scripture.",
+      "status": "AUTHOR_DECISION_RECORDED_INDEPENDENT_REVIEW_PENDING",
+      "decision_evidence": "audit/fluent-revision/2026-09-17-genesis-source-1-10/priority-review.json"
+    },
+    {
+      "id": "G05",
+      "scope": "Genesis 35:7",
+      "criterion": "F03/F06",
+      "action": "A plural verb accompanies Elohim. The note now states this fact without asserting that the surrounding narrative settles it. Review the singular rendering and treatment of the alternative.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G06",
+      "scope": "Genesis 38:21–22",
+      "criterion": "F03/F07",
+      "action": "The main text says shrine prostitute while the apparatus acknowledges uncertainty about the institutional connection of qedeshah. Evaluate whether the main wording is too specific.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G07",
+      "scope": "Genesis 44:22",
+      "criterion": "F03",
+      "action": "The English identifies the father where the Hebrew pronoun can refer to father or son. Decide whether the existing note adequately preserves the ambiguity or the main text should retain a pronoun.",
+      "status": "AUTHOR_DECISION_RECORDED_INDEPENDENT_REVIEW_PENDING",
+      "decision_evidence": "audit/fluent-revision/2026-09-17-genesis-source-1-10/priority-review.json"
+    },
+    {
+      "id": "G08",
+      "scope": "Genesis 49",
+      "criterion": "F01/F03/F04",
+      "action": "All 33 verses in Genesis 49 were compared in the 11–50 pass. Complete specialist lexical/syntactic review of the poem, especially 5, 10, 12, 14, 21–26, and then test poetry layout and read-aloud rhythm; do not equate verse comparison with final resolution.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G09",
+      "scope": "Genesis 1–50 vocabulary and notes",
+      "criterion": "F05/F07",
+      "action": "All entries received an editorial-scope decision, but lexical accuracy, transliteration, duplication between notes and vocabulary, and the usefulness of each surviving entry require source and reader checks. Routine entries such as dream, forget, or walk about should be tested for actual reader value.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G10",
+      "scope": "Genesis 1–50",
+      "criterion": "F06/F08",
+      "action": "Apply the final corpus conventions for divine-name bolding, quotation marks, transliteration and rendered poetry. Verse-label padding is standardized here; the other style decisions are not thereby closed.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G11",
+      "scope": "Genesis 1–50",
+      "criterion": "F11/F12",
+      "action": "Qualified independent language review, representative reader testing, Companion reconciliation and Matt’s final editorial signoff remain pending.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G12",
+      "scope": "Genesis 3:22",
+      "criterion": "F02/F03",
+      "action": "Evaluate a contemporary replacement for lest that preserves the preventive force and interrupted subordinate clause without inventing a completed speech.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G13",
+      "scope": "Genesis 6:16",
+      "criterion": "F01/F03",
+      "action": "Review the roof/light-opening term and cubit construction with specialist evidence; present geometry is provisional and must not be treated as a recovered blueprint.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G14",
+      "scope": "Genesis 7:23",
+      "criterion": "F01/F04",
+      "action": "Evaluate whether to restore the Hebrew active wiping verb before the passive repetition without supplying an unwarranted explicit agent.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G15",
+      "scope": "Genesis 9:20",
+      "criterion": "F01/F03",
+      "action": "Reassess whether began to work the ground overdetermines the compact farmer/begin/plant wording. The existing note preserves the alternative; a fresh lexical/syntactic decision remains open.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G16",
+      "scope": "Genesis 17:12",
+      "criterion": "F01/F03",
+      "action": "Review whether the relative not of your descendants refers to the purchased household member or to the foreigner. The current English attaches it to foreigners. Obtain a supported syntactic decision before changing the main text.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G17",
+      "scope": "Genesis 27:4,19,25,31",
+      "criterion": "F01/F02/F05",
+      "action": "Assess whether heartfelt blessing adds emotional content to nefesh as the blessing self. The current note discloses the rendering; preserve the fourfold refrain when deciding.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G18",
+      "scope": "Genesis 29:10; 32:1; 39:3; 48:16",
+      "criterion": "F02/F04/F05",
+      "action": "During continuous reading assess the compressed mother’s-brother repetition, messenger/angel choice across scenes, and succeed in his hands idiom. Functional repetition and contextual accuracy take priority over either a uniform-word rule or a variation quota.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G19",
+      "scope": "Genesis 34:27 and note v05,13,27; 37:28",
+      "criterion": "F01/F03/F04",
+      "action": "Review active plural agency versus English passives. Genesis 34:27 has they defiled; its note currently describes Shechem’s act without flagging the plural. Genesis 37:28 passivizes the disputed sale agents. Decide whether notes and pronouns preserve enough of the source without resolving uncertainty by assertion.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G20",
+      "scope": "Genesis 36:26; 37:36",
+      "criterion": "F01/F03/F11",
+      "action": "Dishan and Medanites now follow the actual pinned Masoretic source, with notes disclosing name tensions. Independent textual review must assess these author decisions and any supported alternate reading; do not silently restore harmonized names.",
+      "status": "OPEN_INDEPENDENT_CHECK_PENDING"
+    }
+  ],
+  "supersedes": "audit/fluent-revision/2026-09-17-genesis-source-1-10/open-issues.json"
+}
