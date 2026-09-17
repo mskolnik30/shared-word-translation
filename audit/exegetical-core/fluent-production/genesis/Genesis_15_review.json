@@ -44,7 +44,7 @@
     "verse_count": 21,
     "path": "translations/fluent/OT/genesis/Genesis_15.md",
     "before_sha256": "6c10bf8a65ceb1d4b2a956433892fa571ed6badd392da0991084231bf98d20b4",
-    "after_sha256": "98cca47b0f22b715d939ac1a3c67df39ace6ac5aacc4024739064442101cde65",
+    "after_sha256": "48a2b719fab6d953b5938525b4befe74ed4aa7a06a3e17911b91049138546779",
     "tsw_comparator_path": "books/OT/genesis/Genesis_15.md",
     "tsw_comparator_sha256": "8cfeeaaffc6a5aec0507981b69ae9f07a601cf2ca96bd7ddec46198f40a4f522"
   },
@@ -79,6 +79,15 @@
       "delta": "F3",
       "decision": "Clarify oppression and preserve the duration; note its attachment without harmonizing chronology.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "98cca47b0f22b715d939ac1a3c67df39ace6ac5aacc4024739064442101cde65",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

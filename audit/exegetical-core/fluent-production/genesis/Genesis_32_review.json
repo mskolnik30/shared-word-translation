@@ -39,7 +39,7 @@
     "verse_count": 32,
     "path": "translations/fluent/OT/genesis/Genesis_32.md",
     "before_sha256": "c93dd6a35dedd8d80307d5805298f5f67e38cb6acb52d66936726ff472c6a642",
-    "after_sha256": "56b0c4436d93459d291a121b40c2c290a7ba27baab8ab6882cc5fb2b708e50dd",
+    "after_sha256": "0fbb4615edd75d845fa73594cc920ba96a29baba317eb4a205cfef668313aff1",
     "tsw_comparator_path": "books/OT/genesis/Genesis_32.md",
     "tsw_comparator_sha256": "2adbc508013a106a86b3541ae5a38845c2a0b4ca6f14574d33d2bd3186b933d2"
   },
@@ -113,6 +113,15 @@
       "delta": "F3",
       "decision": "Retain the narrator’s later community perspective, bodily detail, dietary practice, and causal connection while avoiding a false anatomical precision.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "56b0c4436d93459d291a121b40c2c290a7ba27baab8ab6882cc5fb2b708e50dd",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

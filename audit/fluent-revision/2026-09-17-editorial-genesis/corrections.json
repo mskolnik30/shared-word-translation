@@ -1,0 +1,498 @@
+{
+  "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+  "status": "APPARATUS_EDITS_APPLIED",
+  "chapters": [
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_01.md",
+      "chapter": 1,
+      "before_sha256": "165aeda3004ae1b3d0caba25787d55696c0e6bcdceb83b05eb4db6e4f3a67cbf",
+      "after_sha256": "59abe84c91eb30a58eb9a7c7063bd6b2d4f6e6b92c91b75b9e65bbae4225db53",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_02.md",
+      "chapter": 2,
+      "before_sha256": "ca59790a58f989206f82b7104d3dde437d841cc6f06519d4ef52b159fbf62e16",
+      "after_sha256": "3fd6d8018d60b6930faabaeb03e2b0607e690bfd6985e8e39f07685d36fb6ea7",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_03.md",
+      "chapter": 3,
+      "before_sha256": "0e9c57d8d8b427bd5107f5728c4073d3b735fac2ea0b58700ef3878ac79c4672",
+      "after_sha256": "71f300b792789fca11450b59f7175815a38d58eaeed7be18623b2f488b70142f",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_04.md",
+      "chapter": 4,
+      "before_sha256": "a5ca02097655dabc5b3ed2dac60be1061a1d0216ac4b626e115efa0db9a591fe",
+      "after_sha256": "a950edd1296dab2ff589d08223e1c61ae57113f4fa50097457033caa2f111f36",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_05.md",
+      "chapter": 5,
+      "before_sha256": "adc9da52f2ac88442e9dee75f2e7c38e40cafe0860d3fdeee79718e4071ff57f",
+      "after_sha256": "d772d5ed1368681ef1c7adbc3cd174e05803546910c9f183a569682bd08de58f",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_06.md",
+      "chapter": 6,
+      "before_sha256": "0cf2ae17233c3450bb0217083d4fc3c78543591f06766a3a2f7016dd0bd112c5",
+      "after_sha256": "8a047eb4163fdcebf45b93d61ae060d360ac5a2e85dc01fea7f39acf44c8d6b3",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_07.md",
+      "chapter": 7,
+      "before_sha256": "5cca0952378b1993e53faae696e5cd751ba2700db04b60998938b5963e80dd05",
+      "after_sha256": "150eae7128ae0f5f87faab1fcbeb4494df9dd683b321cb3eff7493c33c30f269",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_08.md",
+      "chapter": 8,
+      "before_sha256": "0746db8e7856ed78c5c590e967aa94182abf08b903388f0bc03f5d93f5e9b100",
+      "after_sha256": "8fe8afa2c625e13456875624b60ad8490f3fc8dd64abf7a60e54edc2261d4a29",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_09.md",
+      "chapter": 9,
+      "before_sha256": "0bff5e5daaf8a1f26359297e2867d236f52d3b482d7d294f97be6cf0316e8d47",
+      "after_sha256": "f9641e4c5c31e87aef64402269565dec7d3d2a72a79eb293ffa01bd260e6c702",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_10.md",
+      "chapter": 10,
+      "before_sha256": "5ee942449f55bd8e43ec05d087ff6b7deebc3c8717989d55020d85cfe0f0f6ac",
+      "after_sha256": "f615d95016aaaa161a3d134b713f997d50a6194854daba3044f5f4f6b979c28a",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_11.md",
+      "chapter": 11,
+      "before_sha256": "df376229c4094e56b95c09a97d181f9d63dd7be40f520ae7c43aa45b3efb5ea0",
+      "after_sha256": "275f55f4ca9943163fedab7a266a8e5f303578f12893c49637f8c6253c7595aa",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_13.md",
+      "chapter": 13,
+      "before_sha256": "37144ba7072e0555050c06673ce5bcc34e975aa92b9a9d08d8c187a3f4bb1637",
+      "after_sha256": "4d12647d898ea869ab4c1d4cd1ef296fc12e5449e6b55e413f5b74437e2fe87e",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_14.md",
+      "chapter": 14,
+      "before_sha256": "9d103dfbfbbb65524944f3c700d2d2a7ad6be93a95af74d907b3619109c540ce",
+      "after_sha256": "b0edfe062bd2ebc0fe38a0766ac0c59ff36fd2f3787482ff384e86a7e6c1db22",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_15.md",
+      "chapter": 15,
+      "before_sha256": "98cca47b0f22b715d939ac1a3c67df39ace6ac5aacc4024739064442101cde65",
+      "after_sha256": "48a2b719fab6d953b5938525b4befe74ed4aa7a06a3e17911b91049138546779",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_16.md",
+      "chapter": 16,
+      "before_sha256": "ad3437bdc98cdd4538f0de9fcc543a1b7527b0f612201d6337677545819e8c93",
+      "after_sha256": "dea8e5c13df8de172c40654ee8d040db60d1805a5b4ffc75c75c2f7ac5dc1896",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_17.md",
+      "chapter": 17,
+      "before_sha256": "c3f296b002d4378e51383a6582b60b96718c91e45ebf67fb2ee5fd110d0b4339",
+      "after_sha256": "f3692229a87347113428a52e8740f3271af6ccb5257822bd67cc41e205d98c7c",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_18.md",
+      "chapter": 18,
+      "before_sha256": "b44efb982ddecade4f9a8b8752a40d37105f8ba234daa504a455d399396f88a1",
+      "after_sha256": "6ff408849152f8defc10a0b89e1eee1b465f19ceb466103a230273e7b371a28d",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_19.md",
+      "chapter": 19,
+      "before_sha256": "eb81d7efae7cf322673ae1759ab1a9b6d02c7aaa5661d5c40d7cfcd2228c619b",
+      "after_sha256": "904016967855928af4e9ebcd678087919803076d701a86c5a2fa1d3240098ae0",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_20.md",
+      "chapter": 20,
+      "before_sha256": "5c2fc0b6f03c43d6537a4cf314c2c0bf58828a181ffb2a22a619f38fbff7b068",
+      "after_sha256": "6db2bed0672e9d0f658dcadb034a012e5b0e78bca6329a5bf9cb209e45624bd1",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_21.md",
+      "chapter": 21,
+      "before_sha256": "8d13757326a3aa8c0f55a8b9b242a8ebc1c8e60a7712384d654d58772a92da41",
+      "after_sha256": "a9318751b740e9325fbda172297f20f259ab46fce5a3e8d402e800299224d156",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_22.md",
+      "chapter": 22,
+      "before_sha256": "cc75ca25785041d386d277344430e40e8dab0f61cd657b97b944307e47fb67ba",
+      "after_sha256": "5b071173d1291829db48b723303f1c0a0b69d5c160236aa6b147bd12355a04ac",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_23.md",
+      "chapter": 23,
+      "before_sha256": "f235e7228c2e916faf0151ebc88fb88f651c666d5e74caad7ab83a4922079a80",
+      "after_sha256": "3d41ca9b6318a478424c92a626d33430df0ddb9159282e5b49d9b681180f8e95",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_24.md",
+      "chapter": 24,
+      "before_sha256": "83bc2292ef546d45205d91323da55c455ed4d8b2099a1619e9a86e306148a912",
+      "after_sha256": "dc5b09c1304e96b25e938cfd09f1263af65116271978b39639cbb458e2f44b84",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_25.md",
+      "chapter": 25,
+      "before_sha256": "1674554d1709adb6158095a4aa7b0c4ddfa3807f61ea7fb87b31905bd0085be9",
+      "after_sha256": "c6666e8c0cfd147cd9d62172c916b1d01030fb18a46a655ec9e558e30b1fb454",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_26.md",
+      "chapter": 26,
+      "before_sha256": "fb76635f93ce3212dd90fcdec21cad567329d94b7ad93d06fafa67106157b9df",
+      "after_sha256": "aa6343ec3a0a4a560e2787411310da84fd15eab259f40cdd3b6c61f325b1c543",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_27.md",
+      "chapter": 27,
+      "before_sha256": "8e1b4fae475f2619ecfb7f58c1abf504a98c2f2736f19db1cbebb93fb54cfac8",
+      "after_sha256": "512ee75bba63c105aa80566953fbeb9c14c5a826dce1c714abab51ca1ae589c0",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_29.md",
+      "chapter": 29,
+      "before_sha256": "02225a8e1e0d220ab0c17226e8c9454e7a7f65f852a3b469276d38520ab56e95",
+      "after_sha256": "3ed524eaa05b2c8d4ca35eb1235a43fa868e593bcabf1958e417f91050bf4d66",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_30.md",
+      "chapter": 30,
+      "before_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
+      "after_sha256": "0d7d8f83b4d1b0620081a6984219e02ebf16fa3555eb715f6a4e3e27738ab059",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_31.md",
+      "chapter": 31,
+      "before_sha256": "f09705fd153cc621dd1ab7d9e608a9aaaa3e85ae9f02650b4c8c50b54e938507",
+      "after_sha256": "5d9bb8ac66eaf47d519a868290681581d158a965e64729aab581c0421ea2e479",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_32.md",
+      "chapter": 32,
+      "before_sha256": "56b0c4436d93459d291a121b40c2c290a7ba27baab8ab6882cc5fb2b708e50dd",
+      "after_sha256": "0fbb4615edd75d845fa73594cc920ba96a29baba317eb4a205cfef668313aff1",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_33.md",
+      "chapter": 33,
+      "before_sha256": "04eb11e6915752c86abd279fe8d859169145de454e78d2ce3c59c3237c0ce695",
+      "after_sha256": "68b6b6107f4c7f3d7635741d65df43df269a2347e7db77c10aa1114f5ba772bf",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_34.md",
+      "chapter": 34,
+      "before_sha256": "6ce3d36de2d2191c7e66be5e3962713f15fca185791603d42d842a984cd263bc",
+      "after_sha256": "5e5cf9995e3fcd531a0f72198d0040719090f388c66d24e45b927dce4d4ad04f",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_35.md",
+      "chapter": 35,
+      "before_sha256": "a5573afda62a8c1d2ce7d56f49b84cc73789a26e3caf612537896cf614785a12",
+      "after_sha256": "0f48d58979562ae8d9c199dfda2d9aad1bbacc18fb738076a93b58e294db536b",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_36.md",
+      "chapter": 36,
+      "before_sha256": "38679d787041aa45fbc34bd15d93c03650126b0f00291fe71d9417c165e2a02e",
+      "after_sha256": "f37df3666fe313304fb706b532014cfe9664c3d9e8c42a4ad9e758acc3ec6111",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_37.md",
+      "chapter": 37,
+      "before_sha256": "dc55572cad2573091b2b63f40945d2cca3a0478098cd2d63251ab122eabc1de6",
+      "after_sha256": "ed123156d0b1b227e3a10204955a7de34286080ecdb4ef4530f587652a42ecef",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_38.md",
+      "chapter": 38,
+      "before_sha256": "09055dc13725036ca89a7a4d77d142c9f2fbbc266bcde3cbd14ba5aaa59a37eb",
+      "after_sha256": "0f538cab55eb4bc50a7908cd83c8538d0aebfc8cb3e8fb55463fe057fe7d1b3b",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_39.md",
+      "chapter": 39,
+      "before_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
+      "after_sha256": "79bb37ec0bced53621b6598bb67b7a010d882a7e785a01be7a1706b61cca5ce6",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_40.md",
+      "chapter": 40,
+      "before_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
+      "after_sha256": "07305c2f4480b3a6b7c9fba0986276d7b9ae6c114a2adf0b1761507a3f399d84",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_41.md",
+      "chapter": 41,
+      "before_sha256": "990f3d81ae45a6182baac2ff8649b2651d814de5982f2c145c243f4e416bec57",
+      "after_sha256": "ce79a34acba14e08185ce425991348ee97f950538f9d1ced32c8548bfc5f71d0",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_42.md",
+      "chapter": 42,
+      "before_sha256": "7e4e59e43b9a76239e271d8dc06c485a6604d543aec40170bb8235e797854a52",
+      "after_sha256": "e55ff7e5d186b96fc2739eb2bb5153250cf845c4cb27e21366706fa6b93cc990",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_43.md",
+      "chapter": 43,
+      "before_sha256": "c27aea2904b43fbb791db877214a8d0cd94d2a33a43269e1b4db4e57d1ff42a4",
+      "after_sha256": "69b04b4556914f645df668ac9447d697bedd1c28cba27c75ffe17eb4d3975233",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_44.md",
+      "chapter": 44,
+      "before_sha256": "1e850248d1f422c4f0a8470cd918fb7ea146f194a1bf6f04be8ccfcb2c653d36",
+      "after_sha256": "42eb8eae48cd83a62dc99d39734efdbd96dfd79fda0eb536394f8ab61833271f",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_45.md",
+      "chapter": 45,
+      "before_sha256": "95aaf3b130eaaa6b356e359f5fd14883db868ce87d0a512e150313e08839c465",
+      "after_sha256": "559f44e4655f62c0610372617def950d26b325192e0d87e534d15999f20b1778",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_46.md",
+      "chapter": 46,
+      "before_sha256": "da03e7d48091a77a3844dabefc133742dffc16343ae578e895f9166f6463a0e4",
+      "after_sha256": "2f663d56a242014ad41e1498953a1231da811bb79cdb2c2831294dd53acdec1d",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_47.md",
+      "chapter": 47,
+      "before_sha256": "f01b4f8eebc304b15228034471c88a9cbdb331dd59d22a2f60b1e4ab31128c51",
+      "after_sha256": "8c950b3aae6d35b4c6449c93da93c218ce2ae005f44d47b3822bbc2995163b5b",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_48.md",
+      "chapter": 48,
+      "before_sha256": "6420921f3041eb417268a2b018b04f597fbebd0f1e68af02c2406489091a2a28",
+      "after_sha256": "3450a85567fc593e2b6cc0ff6b7ed80daf06a07a32fe2ed650c9b60e13d74125",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_49.md",
+      "chapter": 49,
+      "before_sha256": "836eeace578969c7c581b33cd7178152c3e9fa85b948b47a1d98809944f3d75f",
+      "after_sha256": "a717dba730926f5c94087c3d24ad16025cb603c537ec6fcf2abad483e34f4ad3",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_50.md",
+      "chapter": 50,
+      "before_sha256": "624b3ea2d27380729394855fbb3c35cd1f431e9d68906edb7ab3816f7c15da59",
+      "after_sha256": "8f94133576293087c31602034c6241abf0a178609a97f36011d5e4076f6aacf4",
+      "reasons": [
+        "Genesis apparatus scope and clarity pass; all Scripture, headings and paragraph markup preserved."
+      ],
+      "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+    }
+  ],
+  "verse_changes": [],
+  "affected_ledgers": [
+    "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+    "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json"
+  ],
+  "publication_allowed": false
+}

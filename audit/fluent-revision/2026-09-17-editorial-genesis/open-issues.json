@@ -1,0 +1,82 @@
+{
+  "status": "OPEN",
+  "items": [
+    {
+      "id": "G01",
+      "scope": "Genesis 1–50",
+      "criterion": "F01",
+      "action": "Complete a fresh, passage-by-passage source review of all 1,533 verses. Prior drafting and the earlier consistency pass are evidence, not a substitute for this new editorial pass.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G02",
+      "scope": "Genesis 1–50",
+      "criterion": "F02/F04/F08",
+      "action": "Read the whole book continuously, including chapter transitions; review speaker tracking, paragraphs, headings, repetitions and the poetry in chapters 27 and 49.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G03",
+      "scope": "Genesis 15:6; 16:13–14; 20:13,16; 24:55,63; 25:18,23",
+      "criterion": "F03",
+      "action": "Resolve or explicitly preserve the consequential grammatical and lexical alternatives already flagged by the notes. Confirm the notes against source and appropriate specialist evidence.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G04",
+      "scope": "Genesis 31:24,29",
+      "criterion": "F01/F03",
+      "action": "The main text uses make any pronouncement for Hebrew speak from good to bad. Targeted inspection confirms the literal components but not the narrower formal-speech interpretation. Decide the idiom from contextual and lexical evidence and rebind any changed Scripture.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G05",
+      "scope": "Genesis 35:7",
+      "criterion": "F03/F06",
+      "action": "A plural verb accompanies Elohim. The note now states this fact without asserting that the surrounding narrative settles it. Review the singular rendering and treatment of the alternative.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G06",
+      "scope": "Genesis 38:21–22",
+      "criterion": "F03/F07",
+      "action": "The main text says shrine prostitute while the apparatus acknowledges uncertainty about the institutional connection of qedeshah. Evaluate whether the main wording is too specific.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G07",
+      "scope": "Genesis 44:22",
+      "criterion": "F03",
+      "action": "The English identifies the father where the Hebrew pronoun can refer to father or son. Decide whether the existing note adequately preserves the ambiguity or the main text should retain a pronoun.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G08",
+      "scope": "Genesis 49",
+      "criterion": "F01/F03/F04",
+      "action": "Review the complete poem, its difficult syntax and lexical alternatives, and the handling of Shiloh, Joseph imagery, divine titles and parallelism. No fresh complete source comparison of this poem occurred in this pass.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G09",
+      "scope": "Genesis 1–50 vocabulary and notes",
+      "criterion": "F05/F07",
+      "action": "All entries received an editorial-scope decision, but lexical accuracy, transliteration, duplication between notes and vocabulary, and the usefulness of each surviving entry require source and reader checks. Routine entries such as dream, forget, or walk about should be tested for actual reader value.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G10",
+      "scope": "Genesis 1–50",
+      "criterion": "F06/F08",
+      "action": "Apply the final corpus conventions for divine-name bolding, quotation marks, transliteration and rendered poetry. Verse-label padding is standardized here; the other style decisions are not thereby closed.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G11",
+      "scope": "Genesis 1–50",
+      "criterion": "F11/F12",
+      "action": "Qualified independent language review, representative reader testing, Companion reconciliation and Matt’s final editorial signoff remain pending.",
+      "status": "OPEN"
+    }
+  ]
+}

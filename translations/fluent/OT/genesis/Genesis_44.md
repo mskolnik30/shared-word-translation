@@ -99,19 +99,11 @@ v34: How can I go back to my father without the young man? I cannot bear to see 
 
 ## Notes
 
-v02–05: The reader knows the cup was planted. The steward’s accusation therefore must be heard in light of Joseph’s instructions.
-
 v05, 15: Divination is seeking hidden knowledge through signs or ritual means. The steward and Joseph claim that Joseph uses it; the narrator does not describe him performing it.
-
-v09–10: The brothers propose death for the culprit and slavery for everyone else. The steward appears to assent but specifies a lesser penalty: slavery for the one with the cup and freedom from blame for the rest.
 
 v16: Judah speaks of guilt exposed by God without naming the offense. The cup was planted, while 42:21–22 has already connected the brothers’ distress to their treatment of Joseph.
 
-v18–34: Judah’s appeal is preserved in full. Its repeated references to his father, the youngest brother, and returning home build toward his offer to remain enslaved in Benjamin’s place.
-
-v21–22: Set my eyes on him may mean simply see him or show him attention. In verse 22, Hebrew says “he will die”; the translation identifies the father, as in verses 30–31, though the pronoun could refer to the son.
-
-v27: My wife refers to Rachel within Jacob’s quoted speech. The translation leaves his selective description intact rather than recasting it as a complete account of his marriages.
+v21–22: “Set my eyes on him” may mean simply see him or show him attention. In v22 Hebrew says “he will die”; the father is understood here, as in vv30–31, though the pronoun could refer to the son.
 
 v29–31: The gray head and Sheol language repeats 42:38. Verse 30 binds the father’s life to the son’s life, giving the appeal its central image.
 

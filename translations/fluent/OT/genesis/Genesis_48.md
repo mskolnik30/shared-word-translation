@@ -81,19 +81,19 @@ v22: I give you one portion more than your brothers, which I took from the Amori
 
 ## Notes
 
-v3: God Almighty translates El Shaddai, the title used in the earlier promises (17:1; 35:11). The precise origin and meaning of Shaddai are uncertain.
+v03: God Almighty translates El Shaddai, the title used in the earlier promises (17:1; 35:11). The precise origin and meaning of Shaddai are uncertain.
 
-v5–6: Jacob places Ephraim and Manasseh alongside his own sons for inheritance. Joseph’s later children are to be counted within those two family lines.
+v05–06: Jacob places Ephraim and Manasseh alongside his own sons for inheritance. Joseph’s later children are to be counted within those two family lines.
 
 v12, 14: The knees and the placement of hands make the blessing bodily and visible. The verb rendered ‘crossing’ can suggest skillful or deliberate handling: Jacob’s choice is not corrected when Joseph objects.
 
-v15–16: The blessing places ‘God’ and ‘the angel’ in parallel descriptions. It does not explain their relationship here. The translation retains that compressed form.
+v15–16: The blessing places “God” and “the angel” in parallel descriptions without explaining their relationship here.
 
 v22: ‘Portion’ translates shekhem, also the name Shechem and a word for a shoulder or ridge. Jacob’s claim to have taken it with sword and bow is left as spoken; its relationship to the events of chapters 33–34 is not explained.
 
 ## Vocabulary
 
-v4: Everlasting possession — ʾaḥuzzat ʿolam
+v04: Everlasting possession — ʾaḥuzzat ʿolam
 An enduring holding. The land promise is handed on while the family is living in Egypt.
 
 v15: Shepherd — raʿah

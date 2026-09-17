@@ -41,7 +41,7 @@
     "verse_count": 25,
     "path": "translations/fluent/OT/genesis/Genesis_02.md",
     "before_sha256": "b17a71b41e8afa1685117b0dea28d2f64544ec32f2443f0afaa061232d447734",
-    "after_sha256": "ca59790a58f989206f82b7104d3dde437d841cc6f06519d4ef52b159fbf62e16",
+    "after_sha256": "3fd6d8018d60b6930faabaeb03e2b0607e690bfd6985e8e39f07685d36fb6ea7",
     "tsw_comparator_path": "books/OT/genesis/Genesis_02.md",
     "tsw_comparator_sha256": "1fcf6c1bee54e33ec70eabe197ea3d6eac06c69190dbe58707e36d093284f13b"
   },
@@ -82,6 +82,15 @@
       "delta": "F3",
       "decision": "Translate the explicit man/wife terms in this sentence rather than generic human/woman; retain the one-flesh image.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "ca59790a58f989206f82b7104d3dde437d841cc6f06519d4ef52b159fbf62e16",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

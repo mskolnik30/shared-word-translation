@@ -41,7 +41,7 @@
     "verse_count": 32,
     "path": "translations/fluent/OT/genesis/Genesis_10.md",
     "before_sha256": "25982cf1ab65a616483e123e9bc303203c48abb88365aa2f66fa81bc57f36fc9",
-    "after_sha256": "5ee942449f55bd8e43ec05d087ff6b7deebc3c8717989d55020d85cfe0f0f6ac",
+    "after_sha256": "f615d95016aaaa161a3d134b713f997d50a6194854daba3044f5f4f6b979c28a",
     "tsw_comparator_path": "books/OT/genesis/Genesis_10.md",
     "tsw_comparator_sha256": "729d88f5ecbb062b3cd06b536efa0f3ffc6e9446d0e804f787ed62d787a44046"
   },
@@ -100,6 +100,15 @@
       "delta": "F3",
       "decision": "Keep the Peleg/division wordplay in a note and leave the nature of the division unspecified.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "5ee942449f55bd8e43ec05d087ff6b7deebc3c8717989d55020d85cfe0f0f6ac",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

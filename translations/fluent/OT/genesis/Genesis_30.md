@@ -149,8 +149,6 @@ v43: In this way Jacob became extremely prosperous. He owned large flocks, slave
 
 ## Notes
 
-v01–13: The chapter preserves Rachel and Leah’s anguish, rivalry, and claims about the births. Bilhah and Zilpah bear four sons while enslaved; the text does not record their consent to the arrangements.
-
 v03: ‘Give birth on my knees’ may describe a symbolic act by which Rachel claims Bilhah’s child. ‘Build a family’ translates a wordplay also heard when Sarai speaks about Hagar in 16:2.
 
 v06–24: The naming speeches connect Dan with judging, Naphtali with struggle, Gad with fortune, Asher with happiness, Issachar with wages, Zebulun with gift or honor, and Joseph with taking away and adding. These are the women’s interpretations in the story.
@@ -161,13 +159,9 @@ v14–18: Mandrakes were associated with sexuality and fertility, but the narrat
 
 v20: The verb associated with Zebulun is uncertain and can suggest honor, dwelling, or exaltation. ‘Honor me’ is followed here.
 
-v27: Laban says he learned by divination that the LORD blessed him because of Jacob. The narrative reports his practice without endorsing it.
-
-v32–36: Jacob proposes easily recognized coat-color categories as his wages. Laban removes the currently marked animals and separates them by a three-day journey, leaving Jacob with the rest of the flock.
-
 v37–42: The text describes Jacob’s branches and selective breeding practice without explaining it scientifically. In the next chapter Jacob attributes the marked offspring and his protection to God.
 
-v40: The wording about facing the flock toward marked animals is difficult. The translation retains the visual arrangement and separation of Jacob’s herds without supplying a complete breeding theory.
+v40: The wording about facing the flock toward marked animals is difficult; the precise arrangement is uncertain.
 
 ## Vocabulary
 

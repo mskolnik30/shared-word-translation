@@ -37,7 +37,7 @@
     "verse_count": 43,
     "path": "translations/fluent/OT/genesis/Genesis_30.md",
     "before_sha256": "113a567fcfcb1a44af61615a843cbbd3260e9037469d5cc7c9f0ab2e0c1fe2a2",
-    "after_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
+    "after_sha256": "0d7d8f83b4d1b0620081a6984219e02ebf16fa3555eb715f6a4e3e27738ab059",
     "tsw_comparator_path": "books/OT/genesis/Genesis_30.md",
     "tsw_comparator_sha256": "5ffad66334346c2375e6f9b7996404c430094c8b4fe06ec3e65cfdb8aaf3c552",
     "binding_history": [
@@ -169,5 +169,14 @@
     "rationale": "Keep the wages proposal in 30:31–32 within one paragraph; no verse wording changed.",
     "status": "REVIEW_PENDING",
     "publication_allowed": false
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "c0c394bb33f13a146a18c245de38c51f96af3583535254928b80af7f36dbd5e1",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

@@ -88,9 +88,9 @@ v31: “Swear it to me,” Jacob said. Joseph swore to him, and Israel bowed dow
 
 ## Notes
 
-v7, 10: The verb ‘bless’ can accompany a greeting or farewell. Keeping it here also lets readers hear the repeated blessing language of Genesis.
+v07, 10: The verb ‘bless’ can accompany a greeting or farewell. Keeping it here also lets readers hear the repeated blessing language of Genesis.
 
-v9: Jacob describes his life as sojourning: living away from an established homeland. ‘Few and hard’ is his own assessment of his years.
+v09: Jacob describes his life as sojourning: living away from an established homeland. ‘Few and hard’ is his own assessment of his years.
 
 v12: The Hebrew measures provision ‘according to the little ones.’ This can describe the needs of the dependent household; the reference to children remains visible here.
 
@@ -98,13 +98,13 @@ v18: ‘The following year’ follows the year of exchanging livestock for food.
 
 v21: The Hebrew text used here says Joseph moved the people into cities. The Samaritan Pentateuch and ancient Greek instead describe making them slaves. Verses 19, 23, and 25 explicitly connect the people themselves with Pharaoh’s ownership.
 
-v29: Placing a hand under the thigh accompanies the oath, as in 24:2–9. The bodily gesture is retained rather than replaced with a modern oath custom.
+v29: Placing a hand under the thigh accompanies the oath, as in 24:2–9.
 
 v31: The Hebrew vowels read ‘bed.’ The same consonants can be read ‘staff,’ as in the ancient Greek translation and Hebrews 11:21. The object of Israel’s bow is not named here.
 
 ## Vocabulary
 
-v4, 9: Live as a foreigner — gur; sojourning — megurim
+v04, 09: Live as a foreigner — gur; sojourning — megurim
 Related words for residing outside one’s established homeland. They connect the brothers’ request with Jacob’s account of his life.
 
 v19, 25: Slave — ʿeved

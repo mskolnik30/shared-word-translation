@@ -82,11 +82,9 @@ will not cease.”
 
 v01–05: God's remembering introduces renewed action for Noah and the creatures. “Wind” translates the same word that can mean spirit in 1:2. The ark rests on the mountains of Ararat, a regional designation, not a single peak identified by this verse.
 
-v07–12: The raven's back-and-forth flight is distinct from the dove's successive journeys. The dove returns with a leaf, not a whole branch. Each seven-day interval is retained.
-
 v13–19: The dates distinguish the dry surface from the later statement that the earth is dry. The animals leave by “families,” and the command repeats the creation language of fruitfulness and multiplication.
 
-v20–22: The offering consists of burnt offerings from clean animals and birds. The LORD's smelling and inner speech remain in the translation. “Even though” in v21 interprets the connective ki; “because” is another possible reading. The promise preserves all four pairs of earth's rhythms.
+v20–22: “Even though” in v21 interprets the connective ki; “because” is another possible reading. The promise in v22 is arranged in four pairs.
 
 ## Vocabulary
 

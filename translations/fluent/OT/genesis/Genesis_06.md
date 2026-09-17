@@ -79,17 +79,15 @@ v22: Noah did all of this. He did everything God commanded him.
 
 ## Notes
 
-v01–04: The passage does not identify the “sons of God” or explain the Nephilim. “Beautiful” follows the source's description of the daughters. The wording “any they chose” retains the taking and choice without adding an account of the women's consent.
+v01–04: The passage does not identify the “sons of God” or explain the Nephilim. It describes the daughters as beautiful and says the sons of God took any they chose.
 
-v03: The verb rendered “remain” is uncertain and has also been understood as contend or judge. The 120 years may refer to a limit on human life or a period before the coming judgment; the translation does not decide that question.
+v03: The verb rendered “remain” is uncertain and has also been understood as contend or judge. The 120 years may refer to a limit on human life or a period before the coming judgment.
 
-v05–13: Divine regret and grief remain explicit. The Hebrew root for corruption is also used for destruction, linking the earth's condition with the announced action. “All flesh” is retained rather than automatically reduced to one group of humans.
+v05–13: The Hebrew root for corruption is also used for destruction, linking the earth’s condition with the announced action. “All flesh” includes more than human beings in this account.
 
 v14–16: An ark is a large vessel or container; the word here does not describe a sailing ship. Gopher wood is unidentified. A cubit is an ancient length based on the forearm, and its precise size varied. The three stated dimensions are preserved in cubits.
 
 v16: The word rendered “roof” can also be understood as an opening for light. The following cubit measurement is difficult. This rendering is an editorial choice and should not be treated as an exact reconstruction blueprint.
-
-v18–22: “Covenant” is retained as a recurring biblical term. The instruction names Noah's whole family and the preservation of other living creatures, along with food for both.
 
 ## Vocabulary
 

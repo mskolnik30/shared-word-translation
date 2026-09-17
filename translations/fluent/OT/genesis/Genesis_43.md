@@ -101,7 +101,7 @@ v34: Portions were sent to them from Joseph’s table, but Benjamin’s portion 
 
 v03–05: To see someone’s face can mean to be admitted to that person’s presence. The repeated expression becomes important in Judah’s appeal in chapter 44.
 
-v07: The brothers report questions about their family that are not included in the earlier narrated exchange. The translation preserves the difference between the scenes.
+v07: The brothers report questions about their family that are not included in the earlier narrated exchange.
 
 v09: Judah takes responsibility himself, unlike Reuben’s offer of his sons’ lives in 42:37. Judah will repeat this pledge in 44:32.
 
@@ -115,7 +115,7 @@ v29: Benjamin is Joseph’s full brother, Rachel’s other son. “My son” is 
 
 v32: The narrative describes an Egyptian taboo on eating with Hebrews. It does not explain its historical basis or the separate service for Joseph.
 
-v34: The final verb can mean to become drunk. The translation retains its force rather than reducing the meal’s ending to general happiness.
+v34: The final verb can mean to become drunk.
 
 ## Vocabulary
 

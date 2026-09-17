@@ -88,7 +88,7 @@ v34: say, ‘Your servants have raised livestock from our youth until now, just 
 
 ## Notes
 
-v4: Joseph’s hand closing Jacob’s eyes anticipates his death. The promise to bring Jacob back up also reaches beyond this reunion; the text does not spell out all its implications here.
+v04: Joseph’s hand closing Jacob’s eyes anticipates his death. The promise to bring Jacob back up also reaches beyond this reunion; the text does not spell out all its implications here.
 
 v13: The Hebrew here names Job. Other family records have Jashub (Numbers 26:24; 1 Chronicles 7:1). The names have not been harmonized.
 
@@ -100,7 +100,7 @@ v34: The description of shepherds as an abomination expresses the Egyptians’ a
 
 ## Vocabulary
 
-v6–7: Descendants — zeraʿ
+v06–07: Descendants — zeraʿ
 Literally ‘seed’: a recurring word for offspring and the continuing family in Genesis.
 
 v26–27: People — nephesh

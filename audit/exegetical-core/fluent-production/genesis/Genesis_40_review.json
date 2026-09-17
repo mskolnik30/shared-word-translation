@@ -36,7 +36,7 @@
     "verse_count": 23,
     "path": "translations/fluent/OT/genesis/Genesis_40.md",
     "before_sha256": "08bd84ed55f91b2e9d200e69f40738e13028c1ce1886a8ccaf2ed00e4575316f",
-    "after_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
+    "after_sha256": "07305c2f4480b3a6b7c9fba0986276d7b9ae6c114a2adf0b1761507a3f399d84",
     "tsw_comparator_path": "books/OT/genesis/Genesis_40.md",
     "tsw_comparator_sha256": "351392bc02ce2095b806fbfeb6b9b4a687b9b670d5e37fbca6faccb0c2a8131c",
     "binding_history": [
@@ -98,5 +98,14 @@
     "rationale": "Remove the heading/paragraph break inside the sentence spanning 40:4–5. At 40:14 render ḥesed as kindness without adding an unstated covenant; correct the matching vocabulary gloss.",
     "status": "REVIEW_PENDING",
     "publication_allowed": false
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "15c143553a5aad37e1ea3139580629d87518af271060448855048f3f457fd016",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

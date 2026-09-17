@@ -65,29 +65,23 @@ v23: The warden did not have to supervise anything under Joseph’s care, becaus
 
 ## Notes
 
-v1–6: Joseph is prosperous because the LORD is with him, yet he remains an enslaved person under an Egyptian master. His success does not erase his lack of freedom.
-
-v6: The exception involving Potiphar’s food may be literal or euphemistic. The translation does not decide the question.
-
-v7–12: Joseph’s master’s wife repeatedly pressures him and finally grabs his clothing. Joseph refuses and escapes; the encounter is not portrayed as mutual.
-
-v14, 17: In her accusations she uses Joseph’s Hebrew identity and enslaved status against him and shifts blame toward her husband, who brought him into the household.
+v06: The exception involving Potiphar’s food may be literal or euphemistic.
 
 v19: The Hebrew says Potiphar’s anger burned but does not specify whether his anger was directed at Joseph, his wife, or the situation.
 
 v20: The prison reserved for royal prisoners remains connected to the house of the captain of the guard in the next chapter.
 
-v21: Covenant love renders hesed, loyal kindness expressed in committed relationship.
+v21: Hesed means loyal kindness or steadfast love; it does not by itself assert a formal covenant.
 
 ## Vocabulary
 
-v1: סָרִיס (saris)
+v01: סָרִיס (saris)
 A court official; in some contexts, a eunuch.
 
-v2: צָלַח (tsalaḥ)
+v02: צָלַח (tsalaḥ)
 To succeed or prosper.
 
-v4: חֵן (ḥen)
+v04: חֵן (ḥen)
 Favor or acceptance.
 
 v12: בֶּגֶד (beged)

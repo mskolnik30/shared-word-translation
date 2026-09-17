@@ -81,8 +81,6 @@ v28: Israel said, “That is enough! My son Joseph is still alive. I will go and
 
 ## Notes
 
-v03: Joseph asks again whether his father is alive, although his brothers have already told him. The repeated question is retained at the moment of disclosure.
-
 v04–08: Joseph names his brothers’ sale of him, then repeatedly speaks of God sending him ahead to preserve life. Both descriptions remain part of his address to the brothers.
 
 v07: Great deliverance can also be understood as a great body of survivors. “Remnant” retains a term used elsewhere in Scripture for a surviving community.
@@ -91,11 +89,9 @@ v08: A father to Pharaoh is a metaphor for Joseph’s trusted authority and coun
 
 v12: My own mouth speaking to you emphasizes direct recognition. It may imply speech without an interpreter, but the Hebrew does not explicitly name the language.
 
-v15: Only after Joseph’s kisses and tears do his brothers speak with him. Their words are not reported.
-
 v18: The fat of the land means its rich and abundant produce.
 
-v19: Pharaoh addresses Joseph in the singular, then gives plural instructions for the brothers. The translation makes the change of audience explicit.
+v19: Pharaoh addresses Joseph in the singular, then gives plural instructions for the brothers.
 
 v22: The silver is an amount of precious metal, not necessarily minted coins. Benjamin again receives more than his brothers.
 

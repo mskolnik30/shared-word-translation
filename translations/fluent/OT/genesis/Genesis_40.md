@@ -62,10 +62,6 @@ v23: Yet the chief cupbearer did not remember Joseph. He forgot him.
 
 ## Notes
 
-v5: The narrative signals in advance that each dream carries its own interpretation.
-
-v8: Joseph claims no independent power to interpret. He says interpretations belong to God, then invites the officials to speak.
-
 v13, 19–20: “Lift up your head” is deliberately used for both officials: restoration for the cupbearer and removal and execution for the baker.
 
 v15: Joseph calls both his abduction and imprisonment unjust. “Pit” links the prison to the cistern into which his brothers threw him.
@@ -74,14 +70,12 @@ v16: The Hebrew description of the baskets is uncertain. The context indicates t
 
 v19: The baker is killed and his body is hung or exposed on a tree; the birds consuming his flesh is part of the announced judgment.
 
-v23: The cupbearer’s failure is stated twice: he did not remember Joseph; he forgot him.
-
 ## Vocabulary
 
-v1: מַשְׁקֶה (mashqeh)
+v01: מַשְׁקֶה (mashqeh)
 Cupbearer, the official who serves a ruler’s drink.
 
-v8: פִּתְרוֹן (pitron)
+v08: פִּתְרוֹן (pitron)
 Interpretation, especially of a dream.
 
 v13: נָשָׂא אֶת־רֹאשׁ (nasa et-rosh)

@@ -36,7 +36,7 @@
     "verse_count": 30,
     "path": "translations/fluent/OT/genesis/Genesis_38.md",
     "before_sha256": "e542684043617781556c93cd3fd2227d55540d7b6c2360df79571427124cf5d6",
-    "after_sha256": "09055dc13725036ca89a7a4d77d142c9f2fbbc266bcde3cbd14ba5aaa59a37eb",
+    "after_sha256": "0f538cab55eb4bc50a7908cd83c8538d0aebfc8cb3e8fb55463fe057fe7d1b3b",
     "tsw_comparator_path": "books/OT/genesis/Genesis_38.md",
     "tsw_comparator_sha256": "6af7a6519df669784b34b34a046a22d748f43664fad1c223afb111e79b5f1635"
   },
@@ -110,6 +110,15 @@
       "delta": "F3",
       "decision": "Preserves the awkward breach wordplay underlying Perez rather than smoothing it away.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "09055dc13725036ca89a7a4d77d142c9f2fbbc266bcde3cbd14ba5aaa59a37eb",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

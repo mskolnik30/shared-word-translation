@@ -75,11 +75,11 @@ v16: Abram was eighty-six when Hagar bore him Ishmael.
 
 v01–06: Hagar is both Egyptian and enslaved. Sarai gives her as a wife while remaining her mistress. The account preserves these unequal relationships and does not supply Hagar’s consent. “Build a family” in v02 retains the Hebrew building image.
 
-v07–10: Malakh means messenger and is traditionally translated angel in this setting. The messenger speaks with divine first-person language. The root behind “submit” in v09 is also used for Sarai’s harsh treatment in v06. The difficult command remains part of this encounter; it is not rewritten as general advice to people suffering abuse.
+v07–10: Malakh means messenger and is traditionally translated angel in this setting. The messenger speaks with divine first-person language. The root behind “submit” in v09 is also used for Sarai’s harsh treatment in v06.
 
 v11–12: Ishmael’s name is linked with God’s hearing. The wild donkey is a wilderness animal; the metaphor is not replaced with a modern insult. “Facing” can indicate location, opposition, or hostility. A related phrase returns in 25:18.
 
-v13–14: The seeing language is difficult. El Roi can refer to God seeing Hagar or to Hagar seeing God; the following question is also disputed. Beer-lahai-roi combines well, living, and seeing language. The draft keeps the encounter open to further review. See the [NET translators’ notes on 16:13–14](https://www.biblegateway.com/passage/?search=Genesis+16&version=NET).
+v13–14: The seeing language is difficult. El Roi can refer to God seeing Hagar or to Hagar seeing God; the following question is also disputed. Beer-lahai-roi combines well, living, and seeing language. See the [NET translators’ notes on 16:13–14](https://www.biblegateway.com/passage/?search=Genesis+16&version=NET).
 
 ## Vocabulary
 

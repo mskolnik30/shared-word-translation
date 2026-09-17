@@ -41,7 +41,7 @@
     "verse_count": 24,
     "path": "translations/fluent/OT/genesis/Genesis_07.md",
     "before_sha256": "48a17e3d8980a74f93b48f8e403adc169511f094e148b58c7b00e4251409e51a",
-    "after_sha256": "5cca0952378b1993e53faae696e5cd751ba2700db04b60998938b5963e80dd05",
+    "after_sha256": "150eae7128ae0f5f87faab1fcbeb4494df9dd683b321cb3eff7493c33c30f269",
     "tsw_comparator_path": "books/OT/genesis/Genesis_07.md",
     "tsw_comparator_sha256": "c205d8858b7343d4dbe0f89a3ac69c5b17b916d2200de25e27dfa44b9aa20131"
   },
@@ -58,6 +58,15 @@
       "delta": "F3",
       "decision": "Retain the conventional above-mountains attachment while flagging the compact measurement clause for review.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "5cca0952378b1993e53faae696e5cd751ba2700db04b60998938b5963e80dd05",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

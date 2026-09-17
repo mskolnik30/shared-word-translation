@@ -106,9 +106,7 @@ v35: She conceived once more and gave birth to a son. “This time I will praise
 
 ## Notes
 
-v02–10: The repeated well, flocks, stone, and watering actions let readers follow what normally required a group and what Jacob does when Rachel arrives.
-
-v05: Hebrew can call a later descendant a ‘son.’ The genealogy identifies Laban as Nahor’s grandson; the kinship connection is retained rather than flattened.
+v05: Hebrew can call a later descendant a “son.” The genealogy identifies Laban as Nahor’s grandson.
 
 v11–14: Jacob’s kiss belongs to the public family greeting. The text says he weeps aloud but does not explain why. ‘Bone and flesh’ is an idiom of blood kinship.
 

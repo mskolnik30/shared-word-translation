@@ -101,15 +101,13 @@ v24: Nahor's concubine, whose name was Reumah, also bore children: Tebah, Gaham,
 
 ## Notes
 
-v01–03: The narrator identifies the event as a test. “Your only one” is retained alongside the earlier account of Ishmael; the tension is not removed by substituting favorite or firstborn. The call to go recalls 12:1.
+v01–03: “Your only one” stands alongside the earlier account of Ishmael. The call to go recalls 12:1.
 
 v05–10: Abraham says that both will return. The narrator supplies no explanation of his expectation or Isaac’s response to being bound. “The two of them walked on together” is deliberately repeated. Sheep renders seh, which can refer to an animal from the small flock, sheep or goat, without specifying youth.
 
 v08–14: Seeing and providing are linked in Abraham’s answer and the place name. The final saying can also be understood as the LORD being seen or appearing on the mountain. Verse 13 follows the Hebrew “behind” wording. The ram is explicitly offered in place of the son.
 
 v15–19: The messenger delivers the LORD’s first-person oath. The blessing phrase in v18 permits reflexive as well as passive force. The returning subject in v19 is Abraham; Isaac is not explicitly named in that sentence.
-
-v20–24: The family list introduces Rebekah before the marriage narrative. Milcah’s eight children and Reumah’s four are kept distinct, along with Reumah’s status as concubine.
 
 ## Vocabulary
 

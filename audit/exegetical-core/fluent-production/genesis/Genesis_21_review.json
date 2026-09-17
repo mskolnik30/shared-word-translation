@@ -44,7 +44,7 @@
     "verse_count": 34,
     "path": "translations/fluent/OT/genesis/Genesis_21.md",
     "before_sha256": "d7fe03ab76e905b81fb6da5861ef06d5ff06ab534e26b3c76df45f72412c9663",
-    "after_sha256": "8d13757326a3aa8c0f55a8b9b242a8ebc1c8e60a7712384d654d58772a92da41",
+    "after_sha256": "a9318751b740e9325fbda172297f20f259ab46fce5a3e8d402e800299224d156",
     "tsw_comparator_path": "books/OT/genesis/Genesis_21.md",
     "tsw_comparator_sha256": "ff31064939b28d0ba6ed94937e488874396ee9bd4cdc54a9da43457899ed85d2"
   },
@@ -73,6 +73,15 @@
       "delta": "F3",
       "decision": "Unfold the compressed distribution clause; flag whether the child also belongs to the shoulder phrase.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "8d13757326a3aa8c0f55a8b9b242a8ebc1c8e60a7712384d654d58772a92da41",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

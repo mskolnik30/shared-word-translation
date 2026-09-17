@@ -44,7 +44,7 @@
     "verse_count": 20,
     "path": "translations/fluent/OT/genesis/Genesis_23.md",
     "before_sha256": "f6d50c8cc6d458481bc8e14797dcbe46476a9066ec52db16e8f076dbc6ec6712",
-    "after_sha256": "f235e7228c2e916faf0151ebc88fb88f651c666d5e74caad7ab83a4922079a80",
+    "after_sha256": "3d41ca9b6318a478424c92a626d33430df0ddb9159282e5b49d9b681180f8e95",
     "tsw_comparator_path": "books/OT/genesis/Genesis_23.md",
     "tsw_comparator_sha256": "550c35ce091eb83b100085a1dceb086b369f87849ef6f934286dd20d9ba57873"
   },
@@ -55,6 +55,15 @@
       "delta": "F3",
       "decision": "Retain prince-of-God phrase and comprehensive offer, with mighty-prince alternative noted.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "f235e7228c2e916faf0151ebc88fb88f651c666d5e74caad7ab83a4922079a80",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

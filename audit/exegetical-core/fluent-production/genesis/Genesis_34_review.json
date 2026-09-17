@@ -39,7 +39,7 @@
     "verse_count": 31,
     "path": "translations/fluent/OT/genesis/Genesis_34.md",
     "before_sha256": "e0030ee2d0fab6f327480fca8706c2d49f4813fb54a835b5ab7e54080dbf80fb",
-    "after_sha256": "6ce3d36de2d2191c7e66be5e3962713f15fca185791603d42d842a984cd263bc",
+    "after_sha256": "5e5cf9995e3fcd531a0f72198d0040719090f388c66d24e45b927dce4d4ad04f",
     "tsw_comparator_path": "books/OT/genesis/Genesis_34.md",
     "tsw_comparator_sha256": "3e2c645b101e076fdee2c2185e024c2fa6a497171040eaecceb9c1b5ad81e487"
   },
@@ -147,6 +147,15 @@
       "delta": "F3",
       "decision": "Keep the brothers’ unresolved final challenge, their sister relationship, and the source’s prostitute comparison without turning it into the narrator’s verdict.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "6ce3d36de2d2191c7e66be5e3962713f15fca185791603d42d842a984cd263bc",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

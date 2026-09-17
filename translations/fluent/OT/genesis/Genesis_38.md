@@ -78,15 +78,11 @@ v30: Afterward his brother came out with the scarlet thread around his wrist, an
 
 ## Notes
 
-v2: Judah’s wife is not named. She is the daughter of a Canaanite man named Shua.
+v02: Judah’s wife is not named. She is the daughter of a Canaanite man named Shua.
 
-v8–10: Onan repeatedly uses Tamar sexually while deliberately denying her the offspring required by his duty to his dead brother. The passage identifies this exploitative refusal—not masturbation in isolation—as the action judged evil.
-
-v11, 14: Judah promises Tamar to Shelah but, out of fear, leaves her waiting in her father’s house even after Shelah has grown.
+v08–10: The repeated action describes Onan preventing conception because the offspring would count as his brother’s.
 
 v21–22: The word here, qedeshah, differs from the ordinary word for prostitute in verses 15 and 24. It has often been rendered “cult prostitute” or “shrine prostitute,” though the precise institutional connection is debated.
-
-v24: Judah orders that Tamar be burned. The text exposes the severity and double standard of his judgment before he recognizes his own responsibility.
 
 v25: Tamar’s “Please recognize” repeats the words used when Joseph’s robe was presented to Jacob in 37:32.
 
@@ -96,7 +92,7 @@ v29: Perez sounds like the Hebrew word for a breach or breakthrough.
 
 ## Vocabulary
 
-v8: יָבַם (yavam)
+v08: יָבַם (yavam)
 To fulfill a brother-in-law’s duty by providing an heir for a deceased brother.
 
 v17: עֵרָבוֹן (ʿeravon)

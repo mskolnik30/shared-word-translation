@@ -730,6 +730,10 @@
   ],
   "next_work": [
     {
+      "scope": "Genesis 1–50 complete editorial block",
+      "action": "Use FLUENT_EDITORIAL_STANDARD.md and EDITORIAL_PROGRESS.json. Finish continuous reading and fresh full source comparison, resolve Genesis open issues, then proceed through subsequent 50-chapter blocks without routine approval. Apparatus scope review alone is not full block completion."
+    },
+    {
       "scope": "Resolve full-corpus audit findings",
       "action": "Read the full-corpus report and remaining-actions.json. Finish apparatus, paragraph/heading, key-term, and continuous-reading review without a word-change quota; rebind any changed text."
     },
@@ -1073,6 +1077,20 @@
       "scope": "All 66 books: structural/source binding and overlap screens, targeted bilingual review",
       "report": "audit/fluent-revision/2026-09-17-full-corpus-audit/Fluent-Translation-Audit.md",
       "status": "AUDIT_COMPLETE_WITH_OPEN_FINDINGS",
+      "independent_editorial_review": "REVIEW_PENDING",
+      "publication_allowed": false
+    }
+  ],
+  "completed_editorial_passes": [
+    {
+      "scope": "Genesis 1–50 apparatus editorial scope and clarity",
+      "criteria": [
+        "F07",
+        "F10"
+      ],
+      "status": "SELF_REVIEW_COMPLETE_WITH_OPEN_ISSUES",
+      "report": "audit/fluent-revision/2026-09-17-editorial-genesis/Genesis-Editorial-Review.md",
+      "source_accuracy_pass": "PENDING_FULL_BILINGUAL_REVIEW",
       "independent_editorial_review": "REVIEW_PENDING",
       "publication_allowed": false
     }

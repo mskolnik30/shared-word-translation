@@ -99,9 +99,9 @@ v36: Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh�
 
 ## Notes
 
-v2: The Hebrew calls Joseph’s report “bad” but does not say whether it was false; the moral ambiguity remains.
+v02: The Hebrew calls Joseph’s report “bad” but does not say whether it was false; the moral ambiguity remains.
 
-v3: The rare garment expression may describe a long robe, an ornamented robe, a robe with sleeves, or a multicolored robe. The robe clearly marks Joseph out for special status.
+v03: The rare garment expression may describe a long robe, an ornamented robe, a robe with sleeves, or a multicolored robe. The robe clearly marks Joseph out for special status.
 
 v10: Jacob interprets the moon as Joseph’s mother even though the preceding narrative has reported Rachel’s death. The text does not explain the tension.
 
@@ -115,10 +115,10 @@ v36: The word translated “official” can also mean “eunuch,” but it does 
 
 ## Vocabulary
 
-v3: כְּתֹנֶת פַּסִּים (ketonet passim)
+v03: כְּתֹנֶת פַּסִּים (ketonet passim)
 A distinctive robe; its precise design is uncertain.
 
-v5: חֲלוֹם (ḥalom)
+v05: חֲלוֹם (ḥalom)
 Dream.
 
 v19: בַּעַל הַחֲלֹמוֹת (baʿal haḥalomot)

@@ -136,27 +136,19 @@ v29: Then Isaac breathed his last and died. Old and full of days, he was gathere
 
 ## Notes
 
-v02–04: Jacob’s household gives up foreign gods and earrings before going to Bethel. The text does not say that every earring is inherently idolatrous; these rings belong to the objects surrendered in this scene.
-
-v05: Terror from God prevents the surrounding cities from pursuing Jacob’s sons after the violence at Shechem.
-
-v07: El-bethel means ‘God of Bethel.’ The Hebrew uses plural grammatical forms with the word for God here, but the surrounding narrative identifies the one God who appeared to Jacob.
+v07: El-bethel means “God of Bethel.” The Hebrew has a plural verb with Elohim here, although rendered with singular “God.”
 
 v08: Deborah, Rebekah’s nurse, has not appeared by name earlier in Genesis. Allon-bacuth means ‘oak of weeping.’ The text does not report Rebekah’s death.
 
 v10: God reaffirms the name Israel given in 32:28. The narrative continues to use both Jacob and Israel afterward.
 
-v11–12: The promise gathers earlier Genesis language: God Almighty, fruitfulness, multiplication, a community of nations, kings, land, and offspring.
-
 v16: The distance expression before Ephrath is uncertain and gives no precise modern measurement.
 
 v18: Ben-oni is commonly associated with ‘son of my sorrow’ or ‘son of my strength.’ Benjamin can mean ‘son of the right hand’ or ‘son of the south.’ Rachel’s act of naming remains distinct from the father’s replacement name.
 
-v22: The text reports that Reuben sleeps with Bilhah but does not record Bilhah’s voice, consent, or response. ‘Jacob had twelve sons’ is part of the Hebrew verse and introduces the list that follows.
+v22: “Jacob had twelve sons” is part of the Hebrew verse and introduces the list that follows.
 
-v25–26: Bilhah and Zilpah are again called enslaved women. Verse 26 summarizes these as sons born in Paddan-aram even though the immediately preceding account places Benjamin’s birth on the way to Ephrath; the translation does not harmonize the tension.
-
-v29: ‘Breathed his last,’ ‘died,’ ‘was gathered to his people,’ and ‘old and full of days’ are all retained from the traditional death formula. Esau and Jacob bury their father together.
+v25–26: Verse 26 summarizes these as sons born in Paddan-aram, although the preceding account places Benjamin’s birth on the way to Ephrath.
 
 ## Vocabulary
 

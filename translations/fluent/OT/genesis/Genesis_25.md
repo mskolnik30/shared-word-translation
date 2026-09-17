@@ -149,9 +149,9 @@ v34: Jacob gave Esau bread and lentil stew. Esau ate and drank, got up, and went
 
 ## Notes
 
-v01–11: Keturah’s marriage and the gifts to the sons of concubines are reported without a detailed chronology. Isaac and Ishmael both bury Abraham. Being gathered to one’s people is retained as a death idiom distinct from the subsequent burial scene.
+v01–11: Being gathered to one’s people is a death idiom distinct from the subsequent burial scene.
 
-v12–18: Ishmael’s twelve leaders recall 17:20. The final clause in v18 is difficult: its verb usually means fall, and it has been read as settlement or death. This draft uses settlement with a collective referent and retains facing, recalling 16:12; hostility is another understanding of the phrase.
+v12–18: Ishmael’s twelve leaders recall 17:20. The final clause in v18 is difficult: its verb usually means fall and has been read as settlement or death. Settlement with a collective referent is understood here. “Facing” recalls 16:12; hostility is another understanding of the phrase.
 
 v19–23: Rebekah herself goes to inquire of the LORD. Her compressed question in v22 may concern her condition or her life; the English does not turn it into a full explanation. The final oracle line follows the common older-serves-younger reading, though the unmarked Hebrew syntax permits discussion of the subjects.
 

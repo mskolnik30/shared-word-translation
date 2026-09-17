@@ -89,15 +89,13 @@ v20: There Jacob set up an altar and named it El-Elohe-Israel.
 
 ## Notes
 
-v01–02: The family groups are placed in a clear order: the enslaved women and their children first, Leah’s family next, and Rachel with Joseph last. The narrator does not state Jacob’s motive for the arrangement.
-
 v04: The Hebrew word translated ‘kissed’ has unusual scribal dots above it. Ancient interpreters disagreed about their significance; the received consonantal wording still says Esau kissed Jacob.
 
 v10: Jacob’s comparison of Esau’s face with the face of God echoes his face-to-face encounter at Peniel. The comparison remains Jacob’s speech.
 
 v11: Jacob calls the animals a ‘blessing,’ the same word central to the conflict in chapter 27. The text does not explicitly say that he is returning the stolen blessing.
 
-v09, 11: Esau says he has ‘plenty’; Jacob says he has ‘everything.’ The wording preserves the contrast without making either claim a financial inventory.
+v09, 11: Esau says he has “plenty”; Jacob says he has “everything.”
 
 v12: Esau’s offer can mean that he will travel in front of Jacob or alongside him. ‘Alongside’ is followed here.
 

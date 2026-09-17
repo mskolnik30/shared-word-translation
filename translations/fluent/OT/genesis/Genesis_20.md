@@ -75,11 +75,9 @@ v18: For the LORD had closed every womb in Abimelech's household because of Sara
 
 v02–07: Abraham’s sister claim echoes chapter 12, but the account has its own details. Abimelech has not approached Sarah. Abraham is called a prophet and is to pray; the text does not remove the king’s accusation against him.
 
-v11–13: The absence of fear of God is Abraham’s assumption. His explanation of Sarah’s kinship remains his speech. In v13 Elohim is accompanied by a plural verb; the draft retains the customary God reading without erasing the grammatical difficulty from review.
+v11–13: In v13 Elohim is accompanied by a plural verb, although rendered here with the customary singular “God.” Abraham’s explanation of Sarah’s kinship is part of his speech.
 
 v16: The silver is described through a difficult eye-covering idiom. “Clears your name” follows a vindication reading; the final clause can also be understood in terms of correction or rebuke. The number is a thousand, without specifying coined money. See the [NET translators’ note on 20:16](https://www.biblegateway.com/passage/?search=Genesis+20&version=NET).
-
-v17–18: The healing involves Abimelech, his wife, and his slave women. The text connects the household’s closed wombs with Sarah’s presence but does not provide a medical diagnosis or exact duration.
 
 ## Vocabulary
 

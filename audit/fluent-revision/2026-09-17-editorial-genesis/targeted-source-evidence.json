@@ -1,0 +1,96 @@
+{
+  "scope": "Nine Genesis verse records and one parallel in 1 Chronicles; targeted questions only",
+  "records": [
+    {
+      "reference": "Gen.15.6",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.15.6\">\n          <w lemma=\"c/539\" n=\"1.0\" morph=\"HC/Vhp3ms\" id=\"018qr\">וְ/הֶאֱמִ֖ן</w>\n          <w lemma=\"b/3068\" n=\"1\" morph=\"HR/Np\" id=\"01Sag\">בַּֽ/יהוָ֑ה</w>\n          <w lemma=\"c/2803\" morph=\"HC/Vqw3ms/Sp3fs\" id=\"01awo\">וַ/יַּחְשְׁבֶ֥/הָ</w>\n          <w lemma=\"l\" n=\"0.0\" morph=\"HR/Sp3ms\" id=\"01FpW\">לּ֖/וֹ</w>\n          <w lemma=\"6666\" n=\"0\" morph=\"HNcfsa\" id=\"01Q3M\">צְדָקָֽה</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "48e148701c72a38424bd95d1d508558c7cca6d7d6a73fe3cbb9389e62eb6e9ee",
+      "observation": "The source has third-person pronominal reference in the counting clause; the note preserves the alternative assignment and does not claim explicit proper names in that clause.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.31.24",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.31.24\">\n          <w lemma=\"c/935\" morph=\"HC/Vqw3ms\" id=\"01tSo\">וַ/יָּבֹ֧א</w>\n          <w lemma=\"430\" n=\"1.0.0\" morph=\"HNcmpa\" id=\"01T22\">אֱלֹהִ֛ים</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"016AM\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3837 a\" morph=\"HNp\" id=\"01NVJ\">לָבָ֥ן</w>\n          <w lemma=\"d/761\" n=\"1.0\" morph=\"HTd/Ngmsa\" id=\"011SB\">הָ/אֲרַמִּ֖י</w>\n          <w lemma=\"b/2472\" morph=\"HR/Ncmsa\" id=\"01djB\">בַּ/חֲלֹ֣ם</w>\n          <w lemma=\"d/3915\" n=\"1\" morph=\"HTd/Ncmsa\" id=\"01Btk\">הַ/לָּ֑יְלָה</w>\n          <w lemma=\"c/559\" morph=\"HC/Vqw3ms\" id=\"01paa\">וַ/יֹּ֣אמֶר</w>\n          <w lemma=\"l\" n=\"0.0.1\" morph=\"HR/Sp3ms\" id=\"01pEi\">ל֗/וֹ</w>\n          <w lemma=\"8104\" morph=\"HVNv2ms\" id=\"01Smk\">הִשָּׁ֧מֶר</w>\n          <w lemma=\"l\" n=\"0.0.0\" morph=\"HR/Sp2ms\" id=\"01xVw\">לְ/ךָ֛</w>\n          <w lemma=\"6435\" morph=\"HC\" id=\"01b8w\">פֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1696\" morph=\"HVpi2ms\" id=\"014fw\">תְּדַבֵּ֥ר</w>\n          <w lemma=\"5973 a\" morph=\"HR\" id=\"01Q5r\">עִֽם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3290\" n=\"0.0\" morph=\"HNp\" id=\"01fR5\">יַעֲקֹ֖ב</w>\n          <w lemma=\"m/2896 a\" morph=\"HR/Aamsa\" id=\"01cJn\">מִ/טּ֥וֹב</w>\n          <w lemma=\"5704\" morph=\"HR\" id=\"01Jgv\">עַד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7451 a\" n=\"0\" morph=\"HAamsa\" id=\"01JLY\">רָֽע</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "8ae77e6d756c399f4d441e938f6421f89b4d2d6192048ed65fea9b7755e23b33",
+      "observation": "The source has speak and from good to bad; it has no separate word meaning formal pronouncement. The note now states the scope is disputed. Main-text idiom choice remains an open item.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.31.29",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.31.29\">\n          <w lemma=\"3426\" morph=\"HTm\" id=\"01MNm\">יֶשׁ</w><seg type=\"x-maqqef\">־</seg><w lemma=\"l/410\" morph=\"HR/Ncmsc\" id=\"015qX\">לְ/אֵ֣ל</w>\n          <w lemma=\"3027\" n=\"1.1\" morph=\"HNcbsc/Sp1cs\" id=\"01zFj\">יָדִ֔/י</w>\n          <w lemma=\"l/6213 a\" morph=\"HR/Vqc\" id=\"01JGy\">לַ/עֲשׂ֥וֹת</w>\n          <w lemma=\"5973 a\" n=\"1.0\" morph=\"HR/Sp2mp\" id=\"01Bbt\">עִמָּ/כֶ֖ם</w>\n          <w lemma=\"7451 b\" n=\"1\" morph=\"HAamsa\" id=\"01Cqk\">רָ֑ע</w>\n          <w lemma=\"c/430\" morph=\"HC/Ncmpc\" id=\"01Mu8\">וֵֽ/אלֹהֵ֨י</w>\n          <w lemma=\"1\" n=\"0.0.1.1\" morph=\"HNcmsc/Sp2mp\" id=\"01kJu\">אֲבִי/כֶ֜ם</w>\n          <w lemma=\"570\" n=\"0.0.1.0\" morph=\"HD\" id=\"013VV\">אֶ֣מֶשׁ</w>\n          <seg type=\"x-paseq\">׀</seg>\n          <w lemma=\"559\" morph=\"HVqp3ms\" id=\"01yH2\">אָמַ֧ר</w>\n          <w lemma=\"413\" morph=\"HR/Sp1cs\" id=\"01xfs\">אֵלַ֣/י</w>\n          <w lemma=\"l/559\" n=\"0.0.1\" morph=\"HR/Vqc\" id=\"01TB9\">לֵ/אמֹ֗ר</w>\n          <w lemma=\"8104\" morph=\"HVNv2ms\" id=\"01iDc\">הִשָּׁ֧מֶר</w>\n          <w lemma=\"l\" n=\"0.0.0\" morph=\"HR/Sp2ms\" id=\"01rFV\">לְ/ךָ֛</w>\n          <w lemma=\"m/1696\" morph=\"HR/Vpc\" id=\"01CXE\">מִ/דַּבֵּ֥ר</w>\n          <w lemma=\"5973 a\" morph=\"HR\" id=\"01F4V\">עִֽם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3290\" n=\"0.0\" morph=\"HNp\" id=\"01SnB\">יַעֲקֹ֖ב</w>\n          <w lemma=\"m/2896 a\" morph=\"HR/Aamsa\" id=\"01oJi\">מִ/טּ֥וֹב</w>\n          <w lemma=\"5704\" morph=\"HR\" id=\"01UDf\">עַד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7451 a\" n=\"0\" morph=\"HAamsa\" id=\"01UT7\">רָֽע</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "06c8070f27f904e665247832f0b0a1dff1b0554a9ee9102fbeb7982ee9d2caac",
+      "observation": "The warning repeats speak and from good to bad. The same unresolved idiom must be treated consistently in both occurrences.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.35.7",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.35.7\">\n          <w lemma=\"c/1129\" morph=\"HC/Vqw3ms\" id=\"01nRN\">וַ/יִּ֤בֶן</w>\n          <w lemma=\"8033\" n=\"1.2.0\" morph=\"HD\" id=\"01vJe\">שָׁם֙</w>\n          <w lemma=\"4196\" n=\"1.2\" morph=\"HNcmsa\" id=\"01iPK\">מִזְבֵּ֔חַ</w>\n          <w lemma=\"c/7121\" n=\"1.1.0\" morph=\"HC/Vqw3ms\" id=\"01n6v\">וַ/יִּקְרָא֙</w>\n          <w lemma=\"l/4725\" n=\"1.1\" morph=\"HRd/Ncmsa\" id=\"01V76\">לַ/מָּק֔וֹם</w>\n          <w lemma=\"410\" n=\"1.0\" morph=\"HNcmsc\" id=\"01g48\">אֵ֖ל</w>\n          <w lemma=\"1008+\" morph=\"HNp\" id=\"01enX\">בֵּֽית</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1008\" n=\"1\" morph=\"HNp\" id=\"019J8\">אֵ֑ל</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01Gat\">כִּ֣י</w>\n          <w lemma=\"8033\" n=\"0.1.1\" morph=\"HD\" id=\"01kwx\">שָׁ֗ם</w>\n          <w lemma=\"1540\" morph=\"HVNp3cp\" id=\"01CFi\">נִגְל֤וּ</w>\n          <w lemma=\"413\" n=\"0.1.0\" morph=\"HR/Sp3ms\" id=\"01Ksw\">אֵלָי/ו֙</w>\n          <w lemma=\"d/430\" n=\"0.1\" morph=\"HTd/Ncmpa\" id=\"01s23\">הָֽ/אֱלֹהִ֔ים</w>\n          <w lemma=\"b/1272\" n=\"0.0\" morph=\"HR/Vqc/Sp3ms\" id=\"01ir2\">בְּ/בָרְח֖/וֹ</w>\n          <w lemma=\"m/6440\" morph=\"HR/Ncbpc\" id=\"01nKr\">מִ/פְּנֵ֥י</w>\n          <w lemma=\"251\" n=\"0\" morph=\"HNcmsc/Sp3ms\" id=\"01Wfu\">אָחִֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "6a39d053710b3f4bbb450cac48f8788bd070cb0280aeb0e951c15e77a42a4fa6",
+      "observation": "Niglu is plural, alongside ha-elohim. Revised note states the grammatical fact and the English singular choice without using surrounding theology to close the question.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.36.39",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.36.39\">\n          <w lemma=\"c/4191\" n=\"1.2.0\" morph=\"HC/Vqw3ms\" id=\"01LWG\">וַ/יָּמָת֮</w>\n          <w lemma=\"1177+\" morph=\"HNp\" id=\"01CNH\">בַּ֣עַל</w>\n          <w lemma=\"1177\" morph=\"HNp\" id=\"01A7f\">חָנָ֣ן</w>\n          <w lemma=\"1121 a\" morph=\"HNcmsc\" id=\"01rH9\">בֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"5907\" n=\"1.2\" morph=\"HNp\" id=\"01gVa\">עַכְבּוֹר֒</w>\n          <w lemma=\"c/4427 a\" morph=\"HC/Vqw3ms\" id=\"01mgf\">וַ/יִּמְלֹ֤ךְ</w>\n          <w lemma=\"8478\" n=\"1.1.0\" morph=\"HR/Sp3ms\" id=\"01Hi8\">תַּחְתָּי/ו֙</w>\n          <w lemma=\"1924\" n=\"1.1\" morph=\"HNp\" id=\"01Znf\">הֲדַ֔ר</w>\n          <w lemma=\"c/8034\" morph=\"HC/Ncmsc\" id=\"01Pfi\">וְ/שֵׁ֥ם</w>\n          <w lemma=\"5892 b\" n=\"1.0\" morph=\"HNcfsc/Sp3ms\" id=\"011VM\">עִיר֖/וֹ</w>\n          <w lemma=\"6464\" n=\"1\" morph=\"HNp\" id=\"01uuC\">פָּ֑עוּ</w>\n          <w lemma=\"c/8034\" morph=\"HC/Ncmsc\" id=\"01HDV\">וְ/שֵׁ֨ם</w>\n          <w lemma=\"802\" morph=\"HNcfsc/Sp3ms\" id=\"019Cr\">אִשְׁתּ֤/וֹ</w>\n          <w lemma=\"4105\" n=\"0.1.0\" morph=\"HNp\" id=\"01Vvs\">מְהֵֽיטַבְאֵל֙</w>\n          <w lemma=\"1323\" morph=\"HNcfsc\" id=\"01EXR\">בַּת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"4308\" n=\"0.1\" morph=\"HNp\" id=\"01dHH\">מַטְרֵ֔ד</w>\n          <w lemma=\"1323\" n=\"0.0\" morph=\"HNcfsc\" id=\"01Ydu\">בַּ֖ת</w>\n          <w lemma=\"4314+\" morph=\"HNp\" id=\"01Lny\">מֵ֥י</w>\n          <w lemma=\"4314\" n=\"0\" morph=\"HNp\" id=\"01mDr\">זָהָֽב</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "b433a0a8edb2fb5f88383766d1249b9fd89e5aaf27bf29f17dd57a52ead9f6cc",
+      "observation": "Hadar is the source name. The prior apparatus claim about Matred being a mother was not established by the two bat relationships; the revised note no longer asserts that gender.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.38.8",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.38.8\">\n          <w lemma=\"c/559\" morph=\"HC/Vqw3ms\" id=\"018zq\">וַ/יֹּ֤אמֶר</w>\n          <w lemma=\"3063\" n=\"1.1.0\" morph=\"HNp\" id=\"01XrR\">יְהוּדָה֙</w>\n          <w lemma=\"l/209\" n=\"1.1\" morph=\"HR/Np\" id=\"01moS\">לְ/אוֹנָ֔ן</w>\n          <w lemma=\"935\" n=\"1.0.0\" morph=\"HVqv2ms\" id=\"01Nvf\">בֹּ֛א</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01Gr2\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"802\" morph=\"HNcfsc\" id=\"01bwq\">אֵ֥שֶׁת</w>\n          <w lemma=\"251\" n=\"1.0\" morph=\"HNcmsc/Sp2ms\" id=\"01a5L\">אָחִ֖י/ךָ</w>\n          <w lemma=\"c/2992\" morph=\"HC/Vpv2ms\" id=\"01p9e\">וְ/יַבֵּ֣ם</w>\n          <w lemma=\"853\" n=\"1\" morph=\"HTo/Sp3fs\" id=\"016BP\">אֹתָ֑/הּ</w>\n          <w lemma=\"c/6965 b\" morph=\"HC/Vhv2ms\" id=\"01p1D\">וְ/הָקֵ֥ם</w>\n          <w lemma=\"2233\" n=\"0.0\" morph=\"HNcmsa\" id=\"01n2R\">זֶ֖רַע</w>\n          <w lemma=\"l/251\" n=\"0\" morph=\"HR/Ncmsc/Sp2ms\" id=\"01VAH\">לְ/אָחִֽי/ךָ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "c5d173cbef4fc029478d19daa893e7a61323add564322fb5ef2f30b603e3d867",
+      "observation": "Judah tells Onan to perform the brother-in-law duty and establish offspring for his brother; the revised note retains this local relationship.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.38.9",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.38.9\">\n          <w lemma=\"c/3045\" morph=\"HC/Vqw3ms\" id=\"0164L\">וַ/יֵּ֣דַע</w>\n          <w lemma=\"209\" n=\"1.1\" morph=\"HNp\" id=\"01G4i\">אוֹנָ֔ן</w>\n          <w lemma=\"3588 a\" n=\"1.0.0\" morph=\"HC\" id=\"01bpY\">כִּ֛י</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"016Gw\">לֹּ֥א</w>\n          <note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>\n          <w lemma=\"l\" n=\"1.0\" morph=\"HR/Sp3ms\" id=\"0185P\">ל֖/וֹ</w>\n          <w lemma=\"1961\" morph=\"HVqi3ms\" id=\"01GAs\">יִהְיֶ֣ה</w>\n          <w lemma=\"d/2233\" n=\"1\" morph=\"HTd/Ncmsa\" id=\"01iXu\">הַ/זָּ֑רַע</w>\n          <w lemma=\"c/1961\" n=\"0.1.0.0\" morph=\"HC/Vqp3ms\" id=\"01GDV\">וְ/הָיָ֞ה</w>\n          <w lemma=\"518 a\" morph=\"HC\" id=\"01rRq\">אִם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"935\" morph=\"HVqp3ms\" id=\"01Y6o\">בָּ֨א</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01y7J\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"802\" morph=\"HNcfsc\" id=\"01cPB\">אֵ֤שֶׁת</w>\n          <w lemma=\"251\" n=\"0.1.0\" morph=\"HNcmsc/Sp3ms\" id=\"01Fme\">אָחִי/ו֙</w>\n          <w lemma=\"c/7843\" morph=\"HC/Vpp3ms\" id=\"01TP2\">וְ/שִׁחֵ֣ת</w>\n          <w lemma=\"776\" n=\"0.1\" morph=\"HNcbsa/Sd\" id=\"01Huh\">אַ֔רְצָ/ה</w>\n          <w lemma=\"l/1115\" morph=\"HR/C\" id=\"014Q9\">לְ/בִלְתִּ֥י</w>\n          <w lemma=\"5414\" morph=\"HVqc\" id=\"01VH8\">נְתָן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2233\" n=\"0.0\" morph=\"HNcmsa\" id=\"01w7y\">זֶ֖רַע</w>\n          <w lemma=\"l/251\" n=\"0\" morph=\"HR/Ncmsc/Sp3ms\" id=\"01KSx\">לְ/אָחִֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "1b8a1ffa10fe54b9ef3f776cd0ca53c10c2a6de950e0ec74d0b826029c5b2e39",
+      "observation": "The source states that the offspring would not be his and describes repeated action to avoid giving offspring to his brother; the shortened note preserves that explanation without a modern polemic.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.38.10",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.38.10\">\n          <w lemma=\"c/7489 a\" n=\"1.0.0\" morph=\"HC/Vqw3ms\" id=\"01xrT\">וַ/יֵּ֛רַע</w>\n          <w lemma=\"b/5869 a\" morph=\"HR/Ncbdc\" id=\"01y5H\">בְּ/עֵינֵ֥י</w>\n          <w lemma=\"3068\" n=\"1.0\" morph=\"HNp\" id=\"01MAv\">יְהוָ֖ה</w>\n          <w lemma=\"834 a\" morph=\"HTr\" id=\"01P1f\">אֲשֶׁ֣ר</w>\n          <w lemma=\"6213 a\" n=\"1\" morph=\"HVqp3ms\" id=\"012Sq\">עָשָׂ֑ה</w>\n          <w lemma=\"c/4191\" n=\"0.0\" morph=\"HC/Vhw3ms\" id=\"01M6J\">וַ/יָּ֖מֶת</w>\n          <w lemma=\"1571\" morph=\"HTa\" id=\"01KiU\">גַּם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"853\" n=\"0\" morph=\"HTo/Sp3ms\" id=\"011eb\">אֹתֽ/וֹ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "16af10b828ea1c5496a515737dd8efa8548948272902985a070ba110cfafb678",
+      "observation": "The following clause judges what Onan did evil and reports his death; the shortened note does not remove either clause from Scripture.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "Gen.39.21",
+      "source_file": "genesis-pinned-source.xml",
+      "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+      "exact_source_record": "<verse osisID=\"Gen.39.21\">\n          <w lemma=\"c/1961\" morph=\"HC/Vqw3ms\" id=\"018ek\">וַ/יְהִ֤י</w>\n          <w lemma=\"3068\" n=\"1.1.0\" morph=\"HNp\" id=\"01WKB\">יְהוָה֙</w>\n          <w lemma=\"854\" morph=\"HR\" id=\"01C9a\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3130\" n=\"1.1\" morph=\"HNp\" id=\"01CwL\">יוֹסֵ֔ף</w>\n          <w lemma=\"c/5186\" morph=\"HC/Vqw3ms\" id=\"01MpV\">וַ/יֵּ֥ט</w>\n          <w lemma=\"413\" n=\"1.0\" morph=\"HR/Sp3ms\" id=\"01daa\">אֵלָ֖י/ו</w>\n          <w lemma=\"2617 a\" n=\"1\" morph=\"HNcmsa\" id=\"01NXV\">חָ֑סֶד</w>\n          <w lemma=\"c/5414\" morph=\"HC/Vqw3ms\" id=\"01EUo\">וַ/יִּתֵּ֣ן</w>\n          <w lemma=\"2580\" n=\"0.1\" morph=\"HNcmsc/Sp3ms\" id=\"01cMu\">חִנּ֔/וֹ</w>\n          <w lemma=\"b/5869 a\" n=\"0.0\" morph=\"HR/Ncbdc\" id=\"01ehx\">בְּ/עֵינֵ֖י</w>\n          <w lemma=\"8269\" morph=\"HNcmsc\" id=\"01y66\">שַׂ֥ר</w>\n          <w lemma=\"1004 b\" morph=\"HNcmsc\" id=\"01mXi\">בֵּית</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/5470\" n=\"0\" morph=\"HTd/Ncmsa\" id=\"01KQ6\">הַ/סֹּֽהַר</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "84c7ec34469e18290e200a80423b4b9dd8e4931c473cfe4531af6b6430454dc8",
+      "observation": "The source has hesed, not berit. The main text already says steadfast love; the old note said Covenant love renders hesed. Correcting the note resolves that local mismatch without changing Scripture.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    },
+    {
+      "reference": "1Chr.1.50",
+      "source_file": "1chronicles-pinned-hebrew.xml",
+      "source_file_sha256": "acfec8fc50c885e710d4260c04487583feed50b04f964f15d7de271fe6d568d9",
+      "exact_source_record": "<verse osisID=\"1Chr.1.50\">\n          <w lemma=\"c/4191\" n=\"1.2.0\" morph=\"HC/Vqw3ms\" id=\"13FMa\">וַ/יָּ֨מָת֙</w>\n          <w lemma=\"1177+\" morph=\"HNp\" id=\"13KPU\">בַּ֣עַל</w>\n          <w lemma=\"1177\" n=\"1.2\" morph=\"HNp\" id=\"13ki2\">חָנָ֔ן</w>\n          <w lemma=\"c/4427 a\" morph=\"HC/Vqw3ms\" id=\"135pZ\">וַ/יִּמְלֹ֤ךְ</w>\n          <w lemma=\"8478\" n=\"1.1.0\" morph=\"HR/Sp3ms\" id=\"13HWo\">תַּחְתָּי/ו֙</w>\n          <w lemma=\"1908\" n=\"1.1\" morph=\"HNp\" id=\"13zkA\">הֲדַ֔ד</w>\n          <w lemma=\"c/8034\" morph=\"HC/Ncmsc\" id=\"13JMT\">וְ/שֵׁ֥ם</w>\n          <w lemma=\"5892 b\" n=\"1.0\" morph=\"HNcfsc/Sp3ms\" id=\"13jEX\">עִיר֖/וֹ</w>\n          <w lemma=\"6464\" n=\"1\" morph=\"HNp\" id=\"13uUA\">פָּ֑עִי</w>\n          <w lemma=\"c/8034\" morph=\"HC/Ncmsc\" id=\"13tKf\">וְ/שֵׁ֨ם</w>\n          <w lemma=\"802\" morph=\"HNcfsc/Sp3ms\" id=\"13awE\">אִשְׁתּ֤/וֹ</w>\n          <w lemma=\"4105\" n=\"0.1.0\" morph=\"HNp\" id=\"13yNT\">מְהֵיטַבְאֵל֙</w>\n          <w lemma=\"1323\" morph=\"HNcfsc\" id=\"13Azu\">בַּת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"4308\" n=\"0.1\" morph=\"HNp\" id=\"13884\">מַטְרֵ֔ד</w>\n          <w lemma=\"1323\" n=\"0.0\" morph=\"HNcfsc\" id=\"13XMu\">בַּ֖ת</w>\n          <w lemma=\"4314+\" morph=\"HNp\" id=\"13mrn\">מֵ֥י</w>\n          <w lemma=\"4314\" n=\"0\" morph=\"HNp\" id=\"13Xh9\">זָהָֽב</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_record_sha256": "cd8c5f799f48f6198e303f892a6ccf75f604e1f8fba267b05d1b181f3d901ec6",
+      "observation": "The parallel names Hadad. The revised Genesis 36:39 note identifies the parallel rather than vaguely invoking textual traditions.",
+      "scope": "targeted grammatical/lexical check; not exhaustive verse certification"
+    }
+  ],
+  "independent_review": false
+}

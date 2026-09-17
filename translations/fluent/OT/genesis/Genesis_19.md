@@ -141,15 +141,15 @@ v38: The younger also bore a son and named him Ben-ammi. He is the ancestor of t
 
 ## Notes
 
-v01–11: The men’s demand to “know” the visitors uses a sexual idiom in a coercive scene. The translation makes the sexual demand clear. Lot’s offer of his daughters is preserved without endorsement. Neither speech is converted into a claim about a modern identity category.
+v01–11: The men’s demand to “know” the visitors uses a sexual idiom in a coercive scene.
 
-v12–18: The sons-in-law may be men already married to Lot’s daughters or prospective husbands; this draft follows the latter reading. The address in v18 is pointed as singular “my Lord,” although Lot addresses the messengers. These details remain open for review.
+v12–18: The sons-in-law may be men already married to Lot’s daughters or prospective husbands, as understood here. The address in v18 is pointed as singular “my Lord,” although Lot addresses the messengers.
 
 v19–26: The repeated smallness of the town is linked with Zoar’s name. The LORD’s name appears twice in v24. Lot’s wife looks back; the verse gives no explanation of her motive.
 
 v27–29: Remembering Abraham is linked with Lot’s rescue. Compare the movement from remembering to action in 8:1.
 
-v30–38: The older daughter’s claim that no man is available is her speech, not a narrator’s statement that every other man has died. The account of incest preserves Lot’s stated unawareness and the daughters’ stated aim of descendants. Moab and Ben-ammi introduce people groups, not a modern racial classification.
+v30–38: The older daughter’s claim that no man is available is her speech, not a narrator’s statement that every other man has died. Moab and Ben-ammi introduce the peoples associated with these names.
 
 ## Vocabulary
 

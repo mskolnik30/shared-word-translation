@@ -39,7 +39,7 @@
     "verse_count": 20,
     "path": "translations/fluent/OT/genesis/Genesis_33.md",
     "before_sha256": "afcbb52cc9cf7a9ad30c7b448267eed055fa873335cde50c5bff6f948702a80c",
-    "after_sha256": "04eb11e6915752c86abd279fe8d859169145de454e78d2ce3c59c3237c0ce695",
+    "after_sha256": "68b6b6107f4c7f3d7635741d65df43df269a2347e7db77c10aa1114f5ba772bf",
     "tsw_comparator_path": "books/OT/genesis/Genesis_33.md",
     "tsw_comparator_sha256": "26e7969f8ccfb9e4e855575091210b2324072eb20cbb0ca8eaa696928b369385"
   },
@@ -105,6 +105,15 @@
       "delta": "F3",
       "decision": "Preserve the Hebrew altar name for literary continuity and explain its meaning selectively in vocabulary.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "04eb11e6915752c86abd279fe8d859169145de454e78d2ce3c59c3237c0ce695",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

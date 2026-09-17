@@ -94,11 +94,9 @@ v27: All the males in his household, both those born there and those bought from
 
 v01–08: God Almighty is the traditional rendering of El Shaddai; the title’s precise derivation is uncertain. Abraham’s new name is associated in the speech with being a father of many nations. The shared walking, fruitfulness, and covenant language connects earlier chapters.
 
-v10–14: The requirement specifically concerns males, including those born in the household and those purchased. “Cut off” is retained because the phrase does not state the punishment’s mechanism here.
+v10–14: “Cut off” does not specify the punishment’s mechanism here.
 
 v15–21: Sarah receives her own name and blessing: nations and kings come from her. Abraham laughs in v17 before Sarah laughs in chapter 18. Isaac’s name is linked with laughter. The covenant promise through Isaac does not erase the blessing and twelve-leader promise for Ishmael.
-
-v23–27: The ages and repeated “that very day” emphasize the timing and scope of the action. The repetition is kept as part of the chapter’s structure.
 
 ## Vocabulary
 

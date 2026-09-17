@@ -36,7 +36,7 @@
     "verse_count": 23,
     "path": "translations/fluent/OT/genesis/Genesis_39.md",
     "before_sha256": "2d609d839fb311e94a61807430e66c4344e7eb1fd7127ad00efe7d397b1b122d",
-    "after_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
+    "after_sha256": "79bb37ec0bced53621b6598bb67b7a010d882a7e785a01be7a1706b61cca5ce6",
     "tsw_comparator_path": "books/OT/genesis/Genesis_39.md",
     "tsw_comparator_sha256": "91f75c2698656d8f08a2d3616e40d7f55ad0ea4e5b24025637764d13162cf3d0",
     "binding_history": [
@@ -116,5 +116,14 @@
     "rationale": "Remove an unwarranted automatic covenant sense from the vocabulary gloss for ḥesed; the verse’s steadfast love remains unchanged.",
     "status": "REVIEW_PENDING",
     "publication_allowed": false
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "c3e6924553ab43f888ee089ca7150aa528b5f7f5f897fcabdc413dcca26833e9",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

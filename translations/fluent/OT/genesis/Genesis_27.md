@@ -184,8 +184,6 @@ v07: Rebekah’s report includes ‘in the LORD’s presence,’ which did not a
 
 v12: The word rendered ‘making a fool of him’ can mean mocking or deceiving. Jacob describes how his father might perceive him if he discovers the disguise.
 
-v23–27: The statement that Isaac blessed Jacob occurs before the blessing’s words are given. The intervening questions and actions remain in the Hebrew sequence.
-
 v36: Esau plays on Jacob’s name and a related verb for supplanting or pushing someone aside. Birthright and blessing are different words and remain distinct; compare 25:29–34.
 
 v39: The Hebrew preposition can indicate separation or source. ‘Away from the richness’ is one reading; ‘from the richness’ or ‘amid the richness’ is also possible, giving Esau’s words a different relationship to Jacob’s blessing in verse 28.

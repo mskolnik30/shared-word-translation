@@ -176,15 +176,13 @@ v55: Early the next morning Laban kissed his grandchildren and daughters and ble
 
 v07: ‘Ten times’ can mean ten occurrences or a full measure of repeated change. Jacob uses the same claim again in verse 41.
 
-v10–13: Jacob’s dream attributes the marked offspring and protection from Laban to God. The account stands alongside the branch and breeding practices in 30:37–42; neither is erased.
-
-v14–16: Rachel and Leah say their father treated them as foreigners, sold them, and consumed the money paid for them. Their united testimony remains their own assessment of Laban’s actions.
+v10–13: Jacob’s dream attributes the marked offspring and protection from Laban to God. Compare the branch and breeding practices in 30:37–42.
 
 v19–21: Rachel steals physical household gods. Jacob ‘steals away’ by leaving without telling Laban. The repeated theft language links two actions whose full circumstances are different.
 
 v19: The teraphim are household religious objects. Rachel’s motive for taking them—religious, legal, economic, or personal—is not given.
 
-v24, 29: The expression ‘from good to bad’ is uncertain. It cannot prohibit all speech because Laban speaks at length. Here it is understood as a warning against a formal pronouncement meant to benefit or harm Jacob.
+v24, 29: The expression is literally “from good to bad.” Its scope is disputed. “Make any pronouncement” represents one interpretation; a broader rendering is “speak to Jacob, either good or bad.”
 
 v32: Jacob does not know Rachel stole the household gods when he says the person possessing them will not live. The narrative does not state that his words cause Rachel’s later death.
 
@@ -192,13 +190,11 @@ v35: Rachel says she is menstruating. The text reports her explanation and conce
 
 v38–42: Jacob’s defense names twenty years of labor: fourteen for Laban’s daughters and six for the flock. He describes bearing losses, heat, cold, and sleeplessness. ‘The Fear of Isaac’ is a distinctive title for Isaac’s God.
 
-v43: Laban claims the daughters, children, flocks, and everything visible as his own. These are his words after Rachel and Leah have described his treatment of them.
-
-v47–53: Jegar-sahadutha is Aramaic and Galeed is related to Hebrew; both mean ‘heap of witness.’ Mizpah means watchpost. The monument is a wary boundary under divine witness, not a sentimental promise of closeness.
+v47–53: Jegar-sahadutha is Aramaic and Galeed is related to Hebrew; both mean “heap of witness.” Mizpah means watchpost. The monument marks a boundary under divine witness.
 
 v53: The verb ‘judge’ is plural, fitting Laban’s appeal to the God of Abraham and the god of Nahor as the gods of their father. Jacob instead swears by ‘the Fear of Isaac.’
 
-v55: English Genesis 31:55 corresponds to Hebrew Genesis 32:1. The verse is bound to that full source record, including its versification note.
+v55: English Genesis 31:55 corresponds to Hebrew Genesis 32:1.
 
 ## Vocabulary
 
@@ -209,7 +205,7 @@ v19: תְּרָפִים (teraphim)
 Household gods or religious images; the term is plural in form.
 
 v24: טוֹב עַד־רָע (tov ad-ra)
-From good to bad: an uncertain expression here understood as any formal pronouncement for benefit or harm.
+From good to bad; the scope of the speech prohibited here is disputed.
 
 v35: דֶּרֶךְ נָשִׁים (derekh nashim)
 The way of women: an idiom for menstruation.

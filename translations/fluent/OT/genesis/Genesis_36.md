@@ -174,25 +174,17 @@ v43: Chief Magdiel and Chief Iram. These were Edom’s chiefs, listed by their s
 
 v01, 09: ‘Family record’ translates toledot, the recurring Genesis heading for an account of descendants and what proceeds from a family line.
 
-v02–03: The names and family relationships of Esau’s wives differ from those given in 26:34 and 28:9. The chapter’s own record is preserved rather than silently harmonized with the earlier lists.
+v02–03: The names and family relationships of Esau’s wives differ from those given in 26:34 and 28:9.
 
 v05, 14: The written consonants for Jeush differ from the traditional reading followed by the vowel pointing. The main text follows the recorded reading.
 
 v06–08: The text does not name Esau’s destination in verse 6; verse 8 identifies his settlement as the hill country of Seir. The separation because of abundant livestock echoes Abraham and Lot in chapter 13.
 
-v15–19: Chief translates alluf, a title for a clan or tribal leader. Korah appears among Oholibamah’s sons in verse 14 and among the chiefs descended from Eliphaz in verse 16; the lists are not harmonized.
-
-v20–30: The genealogy records the Horites as inhabitants of Seir before listing their families and chiefs. Similar names such as Dishon and Dishan remain distinct.
+v15–19: Chief translates alluf, a title for a clan or tribal leader. Korah appears among Oholibamah’s sons in v14 and among the chiefs descended from Eliphaz in v16.
 
 v24: The rare word yemim is uncertain. ‘Hot springs’ is followed here; proposed alternatives include water sources or mules. The discovery’s precise nature cannot be recovered with confidence.
 
-v31: The narrator locates Edom’s kings before a king ruled over the Israelites. The translation preserves the statement without supplying a date or theory of composition.
-
-v32–39: The kings succeed one another, but the list does not describe a hereditary father-to-son dynasty. Their cities and regions are retained where named.
-
-v39: The pinned Hebrew reads Hadar; Hadad appears in some related textual traditions. Mehetabel’s mother and maternal grandfather are named, an unusual preservation of a woman’s lineage in the king list.
-
-v40–43: The final chiefs are organized by clans, named places, and settlements. The chapter closes by identifying Esau as the father of Edom.
+v39: The Masoretic Text reads Hadar here; the parallel account in 1 Chronicles 1:50 reads Hadad.
 
 ## Vocabulary
 

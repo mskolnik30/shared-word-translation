@@ -37,7 +37,7 @@
       "verse_count": 32,
       "path": "translations/fluent/OT/genesis/Genesis_32.md",
       "before_sha256": "c93dd6a35dedd8d80307d5805298f5f67e38cb6acb52d66936726ff472c6a642",
-      "after_sha256": "56b0c4436d93459d291a121b40c2c290a7ba27baab8ab6882cc5fb2b708e50dd",
+      "after_sha256": "0fbb4615edd75d845fa73594cc920ba96a29baba317eb4a205cfef668313aff1",
       "tsw_comparator_path": "books/OT/genesis/Genesis_32.md",
       "tsw_comparator_sha256": "2adbc508013a106a86b3541ae5a38845c2a0b4ca6f14574d33d2bd3186b933d2"
     },
@@ -46,7 +46,7 @@
       "verse_count": 20,
       "path": "translations/fluent/OT/genesis/Genesis_33.md",
       "before_sha256": "afcbb52cc9cf7a9ad30c7b448267eed055fa873335cde50c5bff6f948702a80c",
-      "after_sha256": "04eb11e6915752c86abd279fe8d859169145de454e78d2ce3c59c3237c0ce695",
+      "after_sha256": "68b6b6107f4c7f3d7635741d65df43df269a2347e7db77c10aa1114f5ba772bf",
       "tsw_comparator_path": "books/OT/genesis/Genesis_33.md",
       "tsw_comparator_sha256": "26e7969f8ccfb9e4e855575091210b2324072eb20cbb0ca8eaa696928b369385"
     },
@@ -55,7 +55,7 @@
       "verse_count": 31,
       "path": "translations/fluent/OT/genesis/Genesis_34.md",
       "before_sha256": "e0030ee2d0fab6f327480fca8706c2d49f4813fb54a835b5ab7e54080dbf80fb",
-      "after_sha256": "6ce3d36de2d2191c7e66be5e3962713f15fca185791603d42d842a984cd263bc",
+      "after_sha256": "5e5cf9995e3fcd531a0f72198d0040719090f388c66d24e45b927dce4d4ad04f",
       "tsw_comparator_path": "books/OT/genesis/Genesis_34.md",
       "tsw_comparator_sha256": "3e2c645b101e076fdee2c2185e024c2fa6a497171040eaecceb9c1b5ad81e487"
     },
@@ -64,7 +64,7 @@
       "verse_count": 29,
       "path": "translations/fluent/OT/genesis/Genesis_35.md",
       "before_sha256": "d54a532d39f4320defb3262ecf29d0d83f2490fe0a89a7a3d6eeb2bb32a2ed1e",
-      "after_sha256": "a5573afda62a8c1d2ce7d56f49b84cc73789a26e3caf612537896cf614785a12",
+      "after_sha256": "0f48d58979562ae8d9c199dfda2d9aad1bbacc18fb738076a93b58e294db536b",
       "tsw_comparator_path": "books/OT/genesis/Genesis_35.md",
       "tsw_comparator_sha256": "bfbdaeb655393e4fba1dad41a93ca17702bfec5000957bf5f8aa3a6292c5bb19"
     },
@@ -73,7 +73,7 @@
       "verse_count": 43,
       "path": "translations/fluent/OT/genesis/Genesis_36.md",
       "before_sha256": "cac7e40c42bb82fbd1bf07645c11d07b51fce536d8aef69763417d884bf1ee91",
-      "after_sha256": "38679d787041aa45fbc34bd15d93c03650126b0f00291fe71d9417c165e2a02e",
+      "after_sha256": "f37df3666fe313304fb706b532014cfe9664c3d9e8c42a4ad9e758acc3ec6111",
       "tsw_comparator_path": "books/OT/genesis/Genesis_36.md",
       "tsw_comparator_sha256": "29416f8391aa11b36eb53e3b63743e7004dfc9e4139df414c6a2567431cc5f20",
       "binding_history": [
@@ -2149,6 +2149,14 @@
         36
       ],
       "report": "audit/fluent-revision/2026-09-11-genesis-consistency/review.json"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -44,7 +44,7 @@
     "verse_count": 33,
     "path": "translations/fluent/OT/genesis/Genesis_18.md",
     "before_sha256": "3a1aca700c65767188b0660717d2a34b091a705744b7feeaadca5aacd78cb8cd",
-    "after_sha256": "b44efb982ddecade4f9a8b8752a40d37105f8ba234daa504a455d399396f88a1",
+    "after_sha256": "6ff408849152f8defc10a0b89e1eee1b465f19ceb466103a230273e7b371a28d",
     "tsw_comparator_path": "books/OT/genesis/Genesis_18.md",
     "tsw_comparator_sha256": "c7ce22488a3cde38b3504d5a0b97fde102d0638815ecc2e73bec8fb18e71b9a5"
   },
@@ -85,6 +85,15 @@
       "delta": "F3",
       "decision": "Render the difficult completeness clause as investigation while retaining descent and conditional knowledge.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "b44efb982ddecade4f9a8b8752a40d37105f8ba234daa504a455d399396f88a1",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

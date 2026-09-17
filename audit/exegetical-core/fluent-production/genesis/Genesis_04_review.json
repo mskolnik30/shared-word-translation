@@ -41,7 +41,7 @@
     "verse_count": 26,
     "path": "translations/fluent/OT/genesis/Genesis_04.md",
     "before_sha256": "91bca7ce0a58cb49abc44a5f186c9368c9519f0dfad01493bdf98e5328d61110",
-    "after_sha256": "a5ca02097655dabc5b3ed2dac60be1061a1d0216ac4b626e115efa0db9a591fe",
+    "after_sha256": "a950edd1296dab2ff589d08223e1c61ae57113f4fa50097457033caa2f111f36",
     "tsw_comparator_path": "books/OT/genesis/Genesis_04.md",
     "tsw_comparator_sha256": "2fbc2c8a146a1e19a8167c38e7d1dc43891d954ca9f92783b53812655fc8561f"
   },
@@ -100,6 +100,15 @@
       "delta": "F3",
       "decision": "Preserve the traditional began reading and divine name; avoid claiming this settles all earlier worship chronology.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "a5ca02097655dabc5b3ed2dac60be1061a1d0216ac4b626e115efa0db9a591fe",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

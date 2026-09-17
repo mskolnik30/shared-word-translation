@@ -131,11 +131,9 @@ v57: People from every land came to Egypt to buy grain from Joseph because the f
 
 ## Notes
 
-v1: Two full years pass after the cupbearer forgets Joseph.
+v08: “Magicians” refers to members of Egypt’s learned and ritual elite, not merely stage performers.
 
-v8: “Magicians” refers to members of Egypt’s learned and ritual elite, not merely stage performers.
-
-v9: The cupbearer’s plural “offenses” can recall both the offense that led to his imprisonment and his failure to remember Joseph.
+v09: The cupbearer’s plural “offenses” can recall both the offense that led to his imprisonment and his failure to remember Joseph.
 
 v14: Joseph is brought from “the pit,” the same word used for his earlier cistern and his prison. The Hebrew does not specify whether he shaved his beard, his head, or both.
 
@@ -149,7 +147,7 @@ v38: Pharaoh’s words can be translated “the spirit of God” or, in his Egyp
 
 v40: The expression literally refers to the people responding to Joseph’s mouth. Its precise force is uncertain; it conveys obedience to his command.
 
-v43: The shouted word, abrekh, is uncertain. Proposals include “Bow the knee,” “Attention,” and an Egyptian command to make way. The translation uses the public function of the cry.
+v43: The shouted word, abrekh, is uncertain. Proposals include “Bow the knee,” “Attention,” and an Egyptian command to make way.
 
 v45: The meaning of the Egyptian name Zaphenath-paneah is uncertain. On is the city later known in Greek as Heliopolis.
 
@@ -161,10 +159,10 @@ v56–57: Joseph sells the stored grain. “All the land” and “every land”
 
 ## Vocabulary
 
-v1: יְאֹר (yeʾor)
+v01: יְאֹר (yeʾor)
 The Nile, Egypt’s defining river.
 
-v8: חַרְטֻם (ḥartum)
+v08: חַרְטֻם (ḥartum)
 An Egyptian ritual expert or learned court official.
 
 v16: שָׁלוֹם (shalom)

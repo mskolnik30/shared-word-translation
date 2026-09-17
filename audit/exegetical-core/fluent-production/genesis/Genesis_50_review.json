@@ -36,7 +36,7 @@
     "verse_count": 26,
     "path": "translations/fluent/OT/genesis/Genesis_50.md",
     "before_sha256": "0f672b3e371770cadce675de5afc0de79becc14ce4af2cbc64af5fe7ba00537f",
-    "after_sha256": "624b3ea2d27380729394855fbb3c35cd1f431e9d68906edb7ab3816f7c15da59",
+    "after_sha256": "8f94133576293087c31602034c6241abf0a178609a97f36011d5e4076f6aacf4",
     "tsw_comparator_path": "books/OT/genesis/Genesis_50.md",
     "tsw_comparator_sha256": "224fb0f84f07f4a1cfd1d65270376790817ee882531f0d67aa5d7b501f5d4e8b"
   },
@@ -116,6 +116,15 @@
       "delta": "F3",
       "decision": "Repeats the assurance exactly and preserves the oath and bones rather than replacing them with a general burial wish.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "624b3ea2d27380729394855fbb3c35cd1f431e9d68906edb7ab3816f7c15da59",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -105,8 +105,6 @@ v09, 12: Where the land lies exposed: literally, the land’s nakedness. Joseph 
 
 v13, 32: One is no longer with us: literally, one is not. The expression can refer to death or disappearance; the brothers do not explicitly say “dead” here.
 
-v15–20: Joseph first orders one brother to go and the others to remain. On the third day he reverses the arrangement, allowing the others to take grain home while one remains in custody.
-
 v21–23: The brothers’ recollection adds Joseph’s pleading, which chapter 37 did not describe. Their repeated failure to listen contrasts with Joseph’s ability to understand their speech.
 
 v27, 35: One brother discovers his silver at the lodging place; all discover their pouches when they empty their sacks at home. Their retelling in 43:21 places the collective discovery at the lodging place. The accounts are left as written.

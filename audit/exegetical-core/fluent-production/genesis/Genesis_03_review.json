@@ -41,7 +41,7 @@
     "verse_count": 24,
     "path": "translations/fluent/OT/genesis/Genesis_03.md",
     "before_sha256": "25fbe81167dfb0f741f22a034a68ea7713773872557359a75d1fd7146b6a99b3",
-    "after_sha256": "0e9c57d8d8b427bd5107f5728c4073d3b735fac2ea0b58700ef3878ac79c4672",
+    "after_sha256": "71f300b792789fca11450b59f7175815a38d58eaeed7be18623b2f488b70142f",
     "tsw_comparator_path": "books/OT/genesis/Genesis_03.md",
     "tsw_comparator_sha256": "1f619be0cc711db5526b5da450e4b5d5744181d45d75b770d1da4b32487fff67"
   },
@@ -76,6 +76,15 @@
       "delta": "F3",
       "decision": "Preserve unexplained us and the broken-off speech; do not complete the thought with a supplied doctrine.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "0e9c57d8d8b427bd5107f5728c4073d3b735fac2ea0b58700ef3878ac79c4672",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

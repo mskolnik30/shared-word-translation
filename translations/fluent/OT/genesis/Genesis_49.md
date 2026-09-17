@@ -155,9 +155,9 @@ v33: When Jacob finished instructing his sons, he drew his feet up into the bed,
 
 ## Notes
 
-v4–7: The bed violation recalls Reuben and Bilhah (35:22); the violence recalls Simeon and Levi at Shechem (chapter 34). The sudden ‘he’ in verse 4 is in the Hebrew. ‘Swords’ in verse 5 translates an uncertain word.
+v04–07: The bed violation recalls Reuben and Bilhah (35:22); the violence recalls Simeon and Levi at Shechem (chapter 34). The sudden ‘he’ in verse 4 is in the Hebrew. ‘Swords’ in verse 5 translates an uncertain word.
 
-v8, 16, 19: Hebrew links Judah with ‘praise,’ Dan with ‘judge,’ and Gad with the repeated sounds of ‘raid’ and ‘raiders.’ These wordplays connect each name to its saying.
+v08, 16, 19: Hebrew links Judah with ‘praise,’ Dan with ‘judge,’ and Gad with the repeated sounds of ‘raid’ and ‘raiders.’ These wordplays connect each name to its saying.
 
 v10: Shiloh is left untranslated because the wording is disputed. Proposed readings include ‘until tribute comes to him’ and ‘until the one to whom it belongs comes.’ The line itself does not explicitly name a later ruler.
 
@@ -171,7 +171,7 @@ v24–25: These compressed lines join several divine titles. The phrase before �
 
 v26: ‘My forebears’ follows the Hebrew text used here; many translations adopt ‘ancient mountains.’ ‘Set apart’ can suggest distinction among the brothers or separation from them.
 
-v28: The narrator calls the whole set blessings, including its rebukes and judgments. Their sharpness has been retained.
+v28: The narrator calls the whole set blessings, including its rebukes and judgments.
 
 v29–33: Being ‘gathered to his people’ is a death expression, distinct from the later burial. The repeated field and cave details connect the request with Abraham’s purchase in chapter 23.
 

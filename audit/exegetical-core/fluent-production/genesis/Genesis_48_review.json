@@ -36,7 +36,7 @@
     "verse_count": 22,
     "path": "translations/fluent/OT/genesis/Genesis_48.md",
     "before_sha256": "82e4c5017f27c853db63cca6ac08a5f9c929798159c6e8e069dc3b403ce9bc2f",
-    "after_sha256": "6420921f3041eb417268a2b018b04f597fbebd0f1e68af02c2406489091a2a28",
+    "after_sha256": "3450a85567fc593e2b6cc0ff6b7ed80daf06a07a32fe2ed650c9b60e13d74125",
     "tsw_comparator_path": "books/OT/genesis/Genesis_48.md",
     "tsw_comparator_sha256": "201309c4e2744ceefbba000925071379f9ed04446892dfce9cf3c7b9ab479b81"
   },
@@ -122,6 +122,15 @@
       "delta": "F3",
       "decision": "Preserves the extra portion and Jacob’s first-person claim to armed acquisition; notes Shechem wordplay and does not rewrite it to harmonize with chapters 33–34.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "6420921f3041eb417268a2b018b04f597fbebd0f1e68af02c2406489091a2a28",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

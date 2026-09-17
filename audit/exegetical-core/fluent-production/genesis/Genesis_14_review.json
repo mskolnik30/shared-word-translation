@@ -44,7 +44,7 @@
     "verse_count": 24,
     "path": "translations/fluent/OT/genesis/Genesis_14.md",
     "before_sha256": "e94b3c1f2bb14ad10c18363bcf803c3df448bc63b8aefb7cc2285ad701a0781f",
-    "after_sha256": "9d103dfbfbbb65524944f3c700d2d2a7ad6be93a95af74d907b3619109c540ce",
+    "after_sha256": "b0edfe062bd2ebc0fe38a0766ac0c59ff36fd2f3787482ff384e86a7e6c1db22",
     "tsw_comparator_path": "books/OT/genesis/Genesis_14.md",
     "tsw_comparator_sha256": "684f8103b4040468662d9de76b0eec0ce6df22a1052410d25c3015f415aa0257"
   },
@@ -73,6 +73,15 @@
       "delta": "F3",
       "decision": "Clarify the raised-hand oath and preserve all divine titles.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "9d103dfbfbbb65524944f3c700d2d2a7ad6be93a95af74d907b3619109c540ce",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

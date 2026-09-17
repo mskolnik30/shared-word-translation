@@ -41,7 +41,7 @@
     "verse_count": 29,
     "path": "translations/fluent/OT/genesis/Genesis_09.md",
     "before_sha256": "7905ef2f0cc9f64f7d40e6aef63cc3f2b74203c9b52283e210ac9fb0de2fcb42",
-    "after_sha256": "0bff5e5daaf8a1f26359297e2867d236f52d3b482d7d294f97be6cf0316e8d47",
+    "after_sha256": "f9641e4c5c31e87aef64402269565dec7d3d2a72a79eb293ffa01bd260e6c702",
     "tsw_comparator_path": "books/OT/genesis/Genesis_09.md",
     "tsw_comparator_sha256": "183aed3db87692157bd59ca81911659538990e72223e35fdf144ebb138074fd2"
   },
@@ -88,6 +88,15 @@
       "delta": "F3",
       "decision": "Retain the expansion wordplay and ambiguous he; note that God or Japheth may be the subject of dwelling.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "0bff5e5daaf8a1f26359297e2867d236f52d3b482d7d294f97be6cf0316e8d47",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

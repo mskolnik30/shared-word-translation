@@ -44,7 +44,7 @@
     "verse_count": 18,
     "path": "translations/fluent/OT/genesis/Genesis_20.md",
     "before_sha256": "1d82e3054bab92d1b7fb8e1ff54e19ccbcb1eab237d30fbdff85aaaaae059fb0",
-    "after_sha256": "5c2fc0b6f03c43d6537a4cf314c2c0bf58828a181ffb2a22a619f38fbff7b068",
+    "after_sha256": "6db2bed0672e9d0f658dcadb034a012e5b0e78bca6329a5bf9cb209e45624bd1",
     "tsw_comparator_path": "books/OT/genesis/Genesis_20.md",
     "tsw_comparator_sha256": "422d85d784fe2ece5a5cdd23234d22bf27cd2b1ed8cb8b99d095872086e81f06"
   },
@@ -61,6 +61,15 @@
       "delta": "F3",
       "decision": "Interpret the difficult covering-of-eyes idiom as vindication, with literal wording and alternatives noted.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "5c2fc0b6f03c43d6537a4cf314c2c0bf58828a181ffb2a22a619f38fbff7b068",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -85,13 +85,11 @@ v24: I ask nothing for myself, except what the young men have eaten. But let the
 
 ## Notes
 
-v01–09: The list distinguishes four attacking kings from five opposing kings. Ancient place and people names are retained without speculative identifications with modern rulers or borders. Goiim can also mean nations.
+v01–09: Goiim can also mean nations.
 
 v10: The Hebrew says that the kings fell there. It does not explicitly say they died; the king of Sodom appears again in v17. The wording may also include the kings’ forces.
 
-v13–16: “Hebrew” is the designation given to Abram. His allies and the 318 household-born men are distinct details; no account of an otherwise unknown standing army has been added.
-
-v18–20: Melchizedek is both king and priest. “Maker” renders qoneh, which can also mean possessor. The Hebrew does not name the subject of the final giving clause; this draft follows the reading in which Abram gives the tenth to Melchizedek.
+v18–20: “Maker” renders qoneh, which can also mean possessor. The Hebrew does not name the subject of the final giving clause; Abram is understood here as giving the tenth to Melchizedek.
 
 v22–24: Raising a hand marks the oath. Thread and sandal strap emphasize Abram’s refusal of even a small share. He distinguishes his own refusal from the provisions already eaten and his allies’ shares.
 

@@ -44,7 +44,7 @@
     "verse_count": 67,
     "path": "translations/fluent/OT/genesis/Genesis_24.md",
     "before_sha256": "8cb34082a75dd3d8a6df8a5863c77d82408df50e2de60f26829705486ece972e",
-    "after_sha256": "83bc2292ef546d45205d91323da55c455ed4d8b2099a1619e9a86e306148a912",
+    "after_sha256": "dc5b09c1304e96b25e938cfd09f1263af65116271978b39639cbb458e2f44b84",
     "tsw_comparator_path": "books/OT/genesis/Genesis_24.md",
     "tsw_comparator_sha256": "4b630d227f7ccf0b665b343de5e2e688fb9da32fa5cea7da85d1bd646c18d1bf"
   },
@@ -91,6 +91,15 @@
       "delta": "F3",
       "decision": "Clarify the compact tent phrase and retain marriage, love, and comfort without making the chapter a modern romance.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "83bc2292ef546d45205d91323da55c455ed4d8b2099a1619e9a86e306148a912",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

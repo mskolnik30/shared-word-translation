@@ -44,7 +44,7 @@
     "verse_count": 38,
     "path": "translations/fluent/OT/genesis/Genesis_19.md",
     "before_sha256": "903a67c9478075c5c4a6c98680275b603c68e7d0c5b1c9e344c620dcf90c6761",
-    "after_sha256": "eb81d7efae7cf322673ae1759ab1a9b6d02c7aaa5661d5c40d7cfcd2228c619b",
+    "after_sha256": "904016967855928af4e9ebcd678087919803076d701a86c5a2fa1d3240098ae0",
     "tsw_comparator_path": "books/OT/genesis/Genesis_19.md",
     "tsw_comparator_sha256": "5149c1006572d3e16c77d2b6224a48f48005bf109657b979cdd845e5bc864d5a"
   },
@@ -85,6 +85,15 @@
       "delta": "F3",
       "decision": "Keep the repeated divine name and source direction without theological harmonization.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "eb81d7efae7cf322673ae1759ab1a9b6d02c7aaa5661d5c40d7cfcd2228c619b",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

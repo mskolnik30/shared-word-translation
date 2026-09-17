@@ -37,7 +37,7 @@
     "verse_count": 35,
     "path": "translations/fluent/OT/genesis/Genesis_29.md",
     "before_sha256": "bd3b27d06b36c095c135081853d99609873b9ac34dee89f13a0bd343b8b3cc5a",
-    "after_sha256": "02225a8e1e0d220ab0c17226e8c9454e7a7f65f852a3b469276d38520ab56e95",
+    "after_sha256": "3ed524eaa05b2c8d4ca35eb1235a43fa868e593bcabf1958e417f91050bf4d66",
     "tsw_comparator_path": "books/OT/genesis/Genesis_29.md",
     "tsw_comparator_sha256": "83a877b78255326aeb25dd957536c486c783f460542673ede80a8ffd15a0585e"
   },
@@ -91,6 +91,15 @@
       "delta": "F3",
       "decision": "Preserve attached as the name wordplay and the passive naming form, whose namer is not specified.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "02225a8e1e0d220ab0c17226e8c9454e7a7f65f852a3b469276d38520ab56e95",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

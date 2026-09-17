@@ -252,7 +252,7 @@ v67: Isaac brought Rebekah into the tent of his mother Sarah. He took Rebekah as
 
 v02–09: The servant is not named in this chapter. His hand-under-thigh gesture belongs to the oath. Abraham makes the woman’s unwillingness a release condition; Isaac is not to be taken back.
 
-v10–22: Aram-naharaim and the city of Nahor are retained; the latter may identify a place by name or association. The ring weighs half a shekel, and the two bracelets weigh ten shekels together. The ring is explicitly placed on the nose in v47.
+v10–22: “The city of Nahor” may identify a place by name or association. The ring weighs half a shekel, and the two bracelets weigh ten shekels together. The ring is explicitly placed on the nose in v47.
 
 v27–49: Kindness and faithfulness connect the servant’s praise with his request to the family. His retelling differs in detail and sequence from the earlier narration; it is not replaced with an identical copy. In v43 almah means young woman, while v16 separately uses a virginity term.
 

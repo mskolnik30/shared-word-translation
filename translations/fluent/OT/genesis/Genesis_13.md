@@ -63,11 +63,7 @@ v18: Abram moved his tents and settled by the oaks of Mamre at Hebron. There he 
 
 ## Notes
 
-v03–07: The return to the earlier tent and altar reconnects this scene with 12:8. The repeated inability to live together prepares the separation. Other inhabitants of the land remain part of the account.
-
-v08–11: “Family” renders brothers in its broader kinship sense: Abram is Lot’s uncle. The eastward phrase in v11 can also be read as movement from the east. The Hebrew left/right terms in v09 are retained without imposing compass directions.
-
-v14–18: The land promise follows Lot’s departure. The descendants-as-dust comparison concerns their number. “Forever” retains the enduring force of the promise without adding a modern political identification.
+v08–11: “Family” renders brothers in its broader kinship sense: Abram is Lot’s uncle. The eastward phrase in v11 can also be read as movement from the east. Verse 9 uses left and right, not compass directions.
 
 ## Vocabulary
 

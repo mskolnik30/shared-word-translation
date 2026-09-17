@@ -85,7 +85,7 @@ v32: After Noah reached 500 years of age, he became the father of Shem, Ham, and
 
 ## Notes
 
-v01–05: Adam can name a person or humanity. The image and likeness language recalls 1:26–27. The ages follow the pinned Hebrew and are not converted into a modern chronology or explained as another unit of time.
+v01–05: Adam can name a person or humanity. The image and likeness language recalls 1:26–27. The ages follow the Masoretic Text.
 
 v06–24: The repeated pattern gives an age at fatherhood, later years and other children, a total lifespan, and death. Enoch's entry changes that pattern: he walks with God and is taken by God. The passage does not supply a destination or a mechanism.
 

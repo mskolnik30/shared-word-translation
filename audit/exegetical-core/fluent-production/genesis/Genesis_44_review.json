@@ -35,7 +35,7 @@
     "verse_count": 34,
     "path": "translations/fluent/OT/genesis/Genesis_44.md",
     "before_sha256": "ab7b1e3d86a03143ce9dd1e7509c55b41f033af9454ea312e419d6d22e923e0a",
-    "after_sha256": "1e850248d1f422c4f0a8470cd918fb7ea146f194a1bf6f04be8ccfcb2c653d36",
+    "after_sha256": "42eb8eae48cd83a62dc99d39734efdbd96dfd79fda0eb536394f8ab61833271f",
     "tsw_comparator_path": "books/OT/genesis/Genesis_44.md",
     "tsw_comparator_sha256": "22948d14ef21e80224e5453e38db4d51c29389922cd855cfa9375fe096ff7dfa"
   },
@@ -151,6 +151,15 @@
       "delta": "F3",
       "decision": "Makes the substitution and actual enslavement explicit; servants as court politeness remains distinct from slave as penalty.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "1e850248d1f422c4f0a8470cd918fb7ea146f194a1bf6f04be8ccfcb2c653d36",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

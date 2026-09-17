@@ -110,23 +110,23 @@ v32: That is why, to this day, the Israelites do not eat the sinew attached to t
 
 v01–03: The same Hebrew word can mean angel or messenger. God’s messengers meet Jacob in verses 1–2; Jacob sends human messengers to Esau in verse 3.
 
-v01–32: English Genesis 32:1–32 corresponds to Hebrew Genesis 32:2–33 in the pinned source. Hebrew Genesis 32:1 appears as English 31:55. Every public verse here is bound to its exact Hebrew record.
+v01–32: English Genesis 32:1–32 corresponds to Hebrew Genesis 32:2–33. Hebrew Genesis 32:1 appears as English 31:55.
 
 v02: Mahanaim is related to the Hebrew word for two camps. The name anticipates Jacob’s division of his household in verse 7.
 
 v04–05: Jacob calls himself Esau’s servant and Esau his lord. ‘Resident foreigner’ retains his sojourner status with Laban; the servants he lists among his property are enslaved people.
 
-v09: Hebrew calls Abraham Jacob’s father, using a broad ancestral term. The translation identifies Abraham as his grandfather while retaining the traditional ancestral prayer.
+v09: Hebrew calls Abraham Jacob’s father, using a broad ancestral term; Abraham is Jacob’s grandfather.
 
 v10: ‘Faithful love and faithfulness’ translates a pair that can also be rendered steadfast love and truth. Jacob contrasts crossing the Jordan with one staff against returning as two camps.
 
 v11: ‘Mothers along with their children’ preserves a concrete Hebrew expression for indiscriminate destruction.
 
-v20: The Hebrew repeats ‘face’ four times: Jacob seeks to appease Esau’s face with a gift sent before his own face, then see Esau’s face, hoping Esau will lift his face. The translation keeps the central face language without forcing the full wordplay into English.
+v20: The Hebrew repeats “face” four times: Jacob seeks to appease Esau’s face with a gift sent before his own face, then see Esau’s face, hoping Esau will lift his face.
 
 v24–30: The opponent is introduced only as ‘a man.’ The narrative does not give his name. He renames and blesses Jacob, and Jacob later says he has seen God face to face.
 
-v25, 31–32: The exact anatomical expression refers to the socket or hollow of the upper thigh or hip. The lasting injury, limp, and later Israelite food practice are retained without claiming modern anatomical precision.
+v25, 31–32: The anatomical expression refers to the socket or hollow of the upper thigh or hip; its exact modern anatomical identification is uncertain.
 
 v28: Israel is associated here with struggling with God. The name can carry related senses such as God struggles, God strives, or God rules; the narrative’s own explanation governs the main text.
 

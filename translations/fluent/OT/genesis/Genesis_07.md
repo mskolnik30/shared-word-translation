@@ -69,13 +69,11 @@ v24: The waters held their power over the earth for 150 days.
 
 ## Notes
 
-v02–03: The Hebrew repeats “seven, seven” alongside pairing language. This draft understands seven pairs; the counting has also been understood differently. “Clean” and “not clean” are ritual categories, not descriptions of hygiene. Verse 3 speaks of birds without inserting the word clean.
-
-v09–12: The animals enter two by two. The text also names seven days of waiting and forty days and nights of rain. These statements are preserved rather than flattened into a single number.
+v02–03: The Hebrew repeats “seven, seven” alongside pairing language, understood here as seven pairs; the counting has also been understood differently. “Clean” and “not clean” are ritual categories. Verse 3 speaks of birds without the word clean.
 
 v11–16: The springs of the deep and the windows of heaven recall the waters below and above in chapter 1. The source alternates the designations God and the LORD; the final shutting-in is attributed to the LORD.
 
-v20–24: The fifteen-cubit phrase is compact; this draft follows the reading that places the waters above the mountains. The account's sweeping loss of land life is retained. Its 150 days is not replaced with the forty days of rain.
+v20–24: The compact fifteen-cubit phrase is understood here as placing the waters above the mountains. The 150 days differs from the forty days of rain.
 
 ## Vocabulary
 

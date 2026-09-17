@@ -111,13 +111,13 @@ v32: These were the clans of Noah's sons, arranged by their lines of descent and
 
 ## Notes
 
-v01–07: This genealogy presents peoples and territories through family lines. It is not a map of modern countries or a classification of modern races. Mizraim is the Hebrew name associated with Egypt; it is retained as an ancestral name here. Dodanim in v04 follows the pinned Hebrew.
+v01–07: This genealogy presents peoples and territories through family lines. Mizraim is the Hebrew name associated with Egypt, used here as an ancestral name. Dodanim in v04 follows the Masoretic Text.
 
 v08–12: Nimrod is called mighty and a hunter “before the LORD”; the preposition is not replaced with an explicit judgment of approval or rebellion. Verse 11 may instead be read “Asshur went out from that land.” The referent of “the great city” in v12 is not certain.
 
-v13–19: The Philistine parenthesis is retained in its place after Casluhim. Boundary names are preserved without assigning uncertain modern coordinates.
+v13–19: The parenthesis about the Philistines follows Casluhim in the Hebrew.
 
-v21–25: Verse 21 can identify either Shem or Japheth as the older brother; this draft retains Shem as older. “Peleg” echoes the verb for dividing, but the verse does not explain what kind of division occurred.
+v21–25: Verse 21 can identify either Shem or Japheth as the older brother; Shem is understood as older here. “Peleg” echoes the verb for dividing, but the verse does not explain what kind of division occurred.
 
 v26–32: Repeated references to clans, languages, lands, and nations organize the list. Their repetition helps readers follow its structure and is not removed merely for stylistic variety.
 

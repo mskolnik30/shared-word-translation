@@ -36,7 +36,7 @@
     "verse_count": 57,
     "path": "translations/fluent/OT/genesis/Genesis_41.md",
     "before_sha256": "b329b688f7cf8738b225b9a2ef65acc3908f7f441d1fecfbba0e295d4ce554aa",
-    "after_sha256": "990f3d81ae45a6182baac2ff8649b2651d814de5982f2c145c243f4e416bec57",
+    "after_sha256": "ce79a34acba14e08185ce425991348ee97f950538f9d1ced32c8548bfc5f71d0",
     "tsw_comparator_path": "books/OT/genesis/Genesis_41.md",
     "tsw_comparator_sha256": "30e8348ca51941fd029fce2593e72c0111a77f3afe6b090221e8324044d2bea2"
   },
@@ -134,6 +134,15 @@
       "delta": "F3",
       "decision": "Retains the ancient face image and the sale—not free distribution—while supplying storehouses from context.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "990f3d81ae45a6182baac2ff8649b2651d814de5982f2c145c243f4e416bec57",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

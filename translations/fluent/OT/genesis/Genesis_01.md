@@ -101,13 +101,13 @@ v31: God looked at everything that God had made: it was very good. Evening came,
 
 ## Notes
 
-v01–02: The opening can also be understood as “When God began to create …” leading into the following scene. This draft retains the independent opening sentence. “The deep” names the waters already present in the scene; the wording does not itself explain their origin.
+v01–02: The opening can also be understood as “When God began to create …” leading into the following scene. “The deep” names the waters already present; the wording does not explain their origin.
 
 v02: “God's Spirit” translates ruach elohim. Ruach can mean spirit, wind, or breath, and the phrase has also been understood as a wind from God or a mighty wind. The capital letter is an English editorial choice.
 
 v05: The Hebrew says “day one”; the later days are numbered second, third, and so on. The evening-and-morning refrain is intentionally repeated.
 
-v06–08: “Dome” renders raqia, also translated “expanse” or “vault.” It separates waters above from waters below. The translation keeps this ancient picture rather than replacing it with modern atmospheric terminology.
+v06–08: “Dome” renders raqia, also translated “expanse” or “vault.” It separates waters above from waters below.
 
 v14–16: “Appointed times” can include seasons and set occasions. The larger and smaller lights are described by their roles; the text does not name them sun and moon here.
 

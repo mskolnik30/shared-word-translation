@@ -44,7 +44,7 @@
     "verse_count": 34,
     "path": "translations/fluent/OT/genesis/Genesis_25.md",
     "before_sha256": "063034eea05e804cfcecac8cad82bcef8cb7e426b0289f097dfbd0820d5294a6",
-    "after_sha256": "1674554d1709adb6158095a4aa7b0c4ddfa3807f61ea7fb87b31905bd0085be9",
+    "after_sha256": "c6666e8c0cfd147cd9d62172c916b1d01030fb18a46a655ec9e558e30b1fb454",
     "tsw_comparator_path": "books/OT/genesis/Genesis_25.md",
     "tsw_comparator_sha256": "aaa7b75a03d3d69cecbded291b72e487b06b88f181d1fc2216ea84e7ccbc5b16"
   },
@@ -79,6 +79,15 @@
       "delta": "F3",
       "decision": "Choose quiet for tam without making the contrast a verdict of moral innocence.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "1674554d1709adb6158095a4aa7b0c4ddfa3807f61ea7fb87b31905bd0085be9",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

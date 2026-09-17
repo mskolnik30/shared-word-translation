@@ -106,13 +106,13 @@ v24: God drove the human out and stationed the cherubim east of the garden of Ed
 
 ## Notes
 
-v01–06: The serpent is introduced as an animal; this passage does not name it Satan. “Shrewd” sounds like the word for “naked” in 2:25. In v03 the woman includes touching in her report of the prohibition; the translation does not alter her words to match chapter 2. Her husband is explicitly “with her” in v06.
+v01–06: The serpent is introduced as an animal; this passage does not name it Satan. “Shrewd” sounds like the word for “naked” in 2:25. In v03 the woman includes touching in her report of the prohibition, a detail absent from 2:17. Her husband is explicitly “with her” in v06.
 
 v05: “Like God” can also be understood as “like divine beings.” This is the serpent's speech, not an explanatory statement added by the translator.
 
 v08: The Hebrew refers to the sound or voice of the LORD God walking in the garden “at the wind/breeze of the day.” The English does not specify a clock time.
 
-v15: “Offspring” translates zera, also the word for seed. The Hebrew refers back to the woman's offspring with a masculine singular pronoun; the noun can have a collective sense. This draft retains offspring and uses “their” without identifying a particular later figure. The same verb is used for the blows to head and heel.
+v15: “Offspring” translates zera, also the word for seed. The Hebrew refers back to the woman’s offspring with a masculine singular pronoun; the noun can have a collective sense, represented here by “their.” The same verb is used for the blows to head and heel.
 
 v16–19: The construction about pain and pregnancy in v16 is difficult. “Desire” and “rule” recur in 4:7. The woman's pain and the human's painful labor use related words. The passage reports consequences; it does not phrase the husband's rule as a command to husbands.
 

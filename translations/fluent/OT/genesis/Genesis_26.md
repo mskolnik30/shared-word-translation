@@ -146,7 +146,7 @@ v28–31: An oath binds the parties to the covenant. The visitors’ claim that 
 
 v33: Shibah recalls the Hebrew words for seven and swearing an oath. Beersheba also receives a naming explanation in 21:28–31. The two accounts are left in place.
 
-v34: The names of Esau’s wives and their fathers differ in 36:2–3. This translation preserves each passage’s names rather than silently making them agree.
+v34: The names of Esau’s wives and their fathers differ in 36:2–3.
 
 ## Vocabulary
 

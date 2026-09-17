@@ -41,7 +41,7 @@
     "verse_count": 22,
     "path": "translations/fluent/OT/genesis/Genesis_08.md",
     "before_sha256": "8ec00890a46ab99abe535988180ba62d110894ff300affbbe1563b3eacc61f61",
-    "after_sha256": "0746db8e7856ed78c5c590e967aa94182abf08b903388f0bc03f5d93f5e9b100",
+    "after_sha256": "8fe8afa2c625e13456875624b60ad8490f3fc8dd64abf7a60e54edc2261d4a29",
     "tsw_comparator_path": "books/OT/genesis/Genesis_08.md",
     "tsw_comparator_sha256": "93a13953756bd7629d98fc2f06c333cd3b3357702cc4bd3f030eaec2e8574d86"
   },
@@ -52,6 +52,15 @@
       "delta": "F3",
       "decision": "Retain smell, divine inner speech, and human evil; note because/although force of ki rather than hiding the interpretive choice.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "0746db8e7856ed78c5c590e967aa94182abf08b903388f0bc03f5d93f5e9b100",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

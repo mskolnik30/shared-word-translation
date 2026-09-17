@@ -125,15 +125,13 @@ v33: When the LORD finished speaking with Abraham, the LORD went away, and Abrah
 
 ## Notes
 
-v01–10: The account moves among the LORD, three men, plural address, and a singular speaker. The translation preserves those shifts. “My Lord” in v03 follows the Hebrew pointing; a respectful address to a visitor is another reading.
+v01–10: The account moves among the LORD, three men, plural address, and a singular speaker. “My Lord” in v03 follows the Hebrew pointing; a respectful address to a visitor is another reading.
 
-v06–08: A seah is a dry measure. The three seahs are retained rather than converted into an exact modern quantity. Sarah and a servant share in preparing the substantial meal.
-
-v10–15: The time expression is read as this time next year. Sarah’s reference to pleasure is retained. The word behind “too extraordinary” can suggest something wonderful or beyond ordinary possibility. Her laughter follows Abraham’s in 17:17.
+v10–15: The time expression is understood as this time next year. The word behind “too extraordinary” can suggest something wonderful or beyond ordinary possibility. Sarah’s laughter follows Abraham’s in 17:17.
 
 v19–25: “Known” can carry a relationship of choice and recognition. Righteousness and justice describe the LORD’s way and then become the terms of Abraham’s challenge. The outcry is not replaced with a supplied list of offenses.
 
-v22–33: The Hebrew text used here has Abraham standing before the LORD. Each number in the exchange is preserved, including the five-person difference between fifty and forty-five. The final request concerns ten, without an added further negotiation.
+v22–33: The Masoretic Text has Abraham standing before the LORD in v22.
 
 ## Vocabulary
 

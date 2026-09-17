@@ -35,7 +35,7 @@
     "verse_count": 34,
     "path": "translations/fluent/OT/genesis/Genesis_43.md",
     "before_sha256": "5560d59a7d1b197f5a1d66f84bdeef364f7a99c90703252273ba0c4041658a21",
-    "after_sha256": "c27aea2904b43fbb791db877214a8d0cd94d2a33a43269e1b4db4e57d1ff42a4",
+    "after_sha256": "69b04b4556914f645df668ac9447d697bedd1c28cba27c75ffe17eb4d3975233",
     "tsw_comparator_path": "books/OT/genesis/Genesis_43.md",
     "tsw_comparator_sha256": "3cf943deafedc8acfd334d2565155b3f814c685ea66ebe5743543ffda1727291"
   },
@@ -121,6 +121,15 @@
       "delta": "F3",
       "decision": "Keeps favoritism’s exact ratio and the intoxication verb rather than reducing it to general merriment.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "c27aea2904b43fbb791db877214a8d0cd94d2a33a43269e1b4db4e57d1ff42a4",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

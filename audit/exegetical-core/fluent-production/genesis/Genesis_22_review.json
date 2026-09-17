@@ -44,7 +44,7 @@
     "verse_count": 24,
     "path": "translations/fluent/OT/genesis/Genesis_22.md",
     "before_sha256": "0dd3b54bd596acb14e5c6785880e7cc87f445b93974685cc6a9c5e2a56b82aa5",
-    "after_sha256": "cc75ca25785041d386d277344430e40e8dab0f61cd657b97b944307e47fb67ba",
+    "after_sha256": "5b071173d1291829db48b723303f1c0a0b69d5c160236aa6b147bd12355a04ac",
     "tsw_comparator_path": "books/OT/genesis/Genesis_22.md",
     "tsw_comparator_sha256": "c0d671eec7e74f3c4a04538a5b99409f3ec3d9781d34fed76aa3da0fa352923c"
   },
@@ -79,6 +79,15 @@
       "delta": "F3",
       "decision": "Use find-blessing for the reflexive/passive range without deciding a single later referent for descendants.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "cc75ca25785041d386d277344430e40e8dab0f61cd657b97b944307e47fb67ba",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

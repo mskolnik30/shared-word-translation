@@ -37,7 +37,7 @@
     "verse_count": 55,
     "path": "translations/fluent/OT/genesis/Genesis_31.md",
     "before_sha256": "63a6dce33fd59bf94c49c69967533597354650ee12d9c289f10d883ce675954a",
-    "after_sha256": "f09705fd153cc621dd1ab7d9e608a9aaaa3e85ae9f02650b4c8c50b54e938507",
+    "after_sha256": "5d9bb8ac66eaf47d519a868290681581d158a965e64729aab581c0421ea2e479",
     "tsw_comparator_path": "books/OT/genesis/Genesis_31.md",
     "tsw_comparator_sha256": "a4f37222510c4750c77117539f6d8dcb8a9aab651e126f9f4f5dc13a87326e24"
   },
@@ -171,6 +171,15 @@
       "delta": "F3",
       "decision": "Map public 31:55 to Hebrew 32:1, including its embedded English-versification note; render sons as grandchildren because these are Jacob’s children.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "f09705fd153cc621dd1ab7d9e608a9aaaa3e85ae9f02650b4c8c50b54e938507",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

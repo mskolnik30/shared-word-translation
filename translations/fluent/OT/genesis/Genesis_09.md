@@ -109,11 +109,11 @@ v29: Noah lived 950 years in all. Then he died.
 
 v01–07: The blessing echoes 1:28 while the food permission expands. Blood is named as life. Verse 6 is a compact saying; “by a human” follows a common construction of the Hebrew. No court procedure or modern legal system has been added to the wording.
 
-v09–17: The covenant explicitly includes descendants and nonhuman creatures. “Bow” is the ordinary Hebrew word for a bow, including a weapon; its appearance in the clouds is a rainbow. The translation preserves the word without requiring a single interpretation of that resonance.
+v09–17: “Bow” is the ordinary Hebrew word for a bow, including a weapon; its appearance in the clouds is a rainbow.
 
 v20–24: Verse 20 may also be read as Noah, a man of the ground, beginning to plant a vineyard. The passage reports seeing nakedness and later says something was done to Noah; it does not describe a specific additional act. “Younger son” can also be understood as youngest son.
 
-v25–27: Noah curses Canaan, not Ham. The curse does not name a skin color or authorize a racial classification. “Lowest of slaves” renders the emphatic “slave of slaves.” The plural “their” is retained in vv26–27. In v27 the subject of “may he live” may be God or Japheth; the translation leaves the pronoun open.
+v25–27: The curse names Canaan, not Ham. “Lowest of slaves” renders the emphatic “slave of slaves.” The pronoun is plural, “their,” in vv26–27. In v27 the subject of “may he live” may be God or Japheth.
 
 ## Vocabulary
 

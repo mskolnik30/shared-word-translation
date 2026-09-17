@@ -36,7 +36,7 @@
     "verse_count": 31,
     "path": "translations/fluent/OT/genesis/Genesis_47.md",
     "before_sha256": "665430b35821deebbd6ab22d615e301b701c0354cd435bce02c29eb5dc2a1236",
-    "after_sha256": "f01b4f8eebc304b15228034471c88a9cbdb331dd59d22a2f60b1e4ab31128c51",
+    "after_sha256": "8c950b3aae6d35b4c6449c93da93c218ce2ae005f44d47b3822bbc2995163b5b",
     "tsw_comparator_path": "books/OT/genesis/Genesis_47.md",
     "tsw_comparator_sha256": "be04c21856ca9d7e5998bf87f36fe884ef979624b6bbfaa6dc88cb25c4ddd2ff"
   },
@@ -110,6 +110,15 @@
       "delta": "F3",
       "decision": "Follows the pinned bed vocalization; notes staff in the Greek tradition without changing the main text or inventing the object of the bow.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "f01b4f8eebc304b15228034471c88a9cbdb331dd59d22a2f60b1e4ab31128c51",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -129,13 +129,13 @@ v34: Abraham lived as a stranger in the land of the Philistines for a long time.
 
 ## Notes
 
-v01–09: The laughter word-family links Isaac’s name, Sarah’s joy, and the action she sees in Hagar’s son. In v06 “laugh with me” may also be heard as laugh at me. In v09 the Hebrew gives no object or companion for the laughing; the draft adds neither Isaac nor an accusation of misconduct.
+v01–09: The laughter word-family links Isaac’s name, Sarah’s joy, and the action she sees in Hagar’s son. In v06 “laugh with me” may also be heard as laugh at me. In v09 the Hebrew gives no object or companion for the laughing.
 
-v10–14: The inheritance dispute and expulsion remain explicit. Verse 14 compresses bread, water skin, shoulder, and child into one sentence. The draft places the supplies on Hagar’s shoulder and gives the child into her care; another reading attaches the child to the shoulder phrase too.
+v10–14: Verse 14 compresses bread, water skin, shoulder, and child into one sentence. The supplies are understood here as placed on Hagar’s shoulder and the child given into her care; another reading attaches the child to the shoulder phrase too.
 
-v15–21: Hagar’s weeping and God’s hearing the boy are both retained. Child and boy do not establish a precise age here. God opens Hagar’s eyes to the well; the text does not state that the well is created at that moment.
+v15–21: “Child” and “boy” do not establish a precise age here.
 
-v22–34: The covenant with Abimelech uses the same term as the divine covenants. Beersheba is linked with both the seven lambs and the oath. The Philistine designation belongs to the narrative and is retained without a supplied historical harmonization.
+v22–34: The covenant with Abimelech uses the same term as the divine covenants. Beersheba is linked with both the seven lambs and the oath.
 
 ## Vocabulary
 

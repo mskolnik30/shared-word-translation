@@ -80,13 +80,9 @@ v20: The field and its cave were confirmed as Abraham's burial property, transfe
 
 ## Notes
 
-v01–04: Sarah’s 127 years and Abraham’s mourning are retained. Abraham describes himself as a resident stranger while asking for property in the promised land.
-
 v06: “Prince of God” can also be read as a mighty or distinguished prince. The phrase is the Hittites’ address to Abraham.
 
 v09–16: The exchange uses giving language while specifying full payment. The four hundred shekels are a weight of silver, not a statement about minted coins. The chapter does not itself assess whether the price is fair.
-
-v17–20: Field, cave, trees, boundaries, purchase, and witnesses recur as part of the public transfer. These details are retained rather than shortened into a bare report of burial.
 
 ## Vocabulary
 

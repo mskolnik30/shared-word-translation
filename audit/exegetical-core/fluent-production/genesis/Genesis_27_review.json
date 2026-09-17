@@ -33,7 +33,7 @@
     "verse_count": 46,
     "path": "translations/fluent/OT/genesis/Genesis_27.md",
     "before_sha256": "b80278062a772d2f162fe39daf09642e6dfb2729d5d6c6cb7178718e7a76b57c",
-    "after_sha256": "8e1b4fae475f2619ecfb7f58c1abf504a98c2f2736f19db1cbebb93fb54cfac8",
+    "after_sha256": "512ee75bba63c105aa80566953fbeb9c14c5a826dce1c714abab51ca1ae589c0",
     "tsw_comparator_path": "books/OT/genesis/Genesis_27.md",
     "tsw_comparator_sha256": "ffa9429b9ce23a97b3f28a2db2339e8ffdf9db9085d5839f89fc668973dc2d4c"
   },
@@ -104,6 +104,15 @@
       "delta": "F3",
       "decision": "Keep the source’s disturbing comforting-himself expression and the unspecified report to Rebekah without inventing an informer.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "8e1b4fae475f2619ecfb7f58c1abf504a98c2f2736f19db1cbebb93fb54cfac8",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

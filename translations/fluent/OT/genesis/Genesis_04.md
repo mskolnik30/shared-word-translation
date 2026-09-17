@@ -90,11 +90,11 @@ v26: Seth also had a son, whom he named Enosh. At that time people began calling
 
 ## Notes
 
-v01: “Had sexual relations” renders the Hebrew idiom “knew.” Cain's name is linked with Eve's verb qaniti, “I have acquired/produced.” Her phrase involving the LORD is compact and disputed; this draft retains the reading “with the LORD's help.”
+v01: “Had sexual relations” renders the Hebrew idiom “knew.” Cain’s name is linked with Eve’s verb qaniti, “I have acquired/produced.” The compact, disputed phrase involving the LORD is rendered here “with the LORD’s help.”
 
 v04–07: The text reports favor toward Abel and his offering without explicitly stating why Cain's offering was not regarded. “Lifted up” in v07 may refer to acceptance or the lifting of the fallen face. Sin is pictured as crouching. “You must rule” may also be read “you can/will rule.” Desire and rule echo 3:16.
 
-v08: The pinned Hebrew says Cain spoke to Abel but does not give the words he spoke. No invitation to the field has been supplied in the main text.
+v08: The Masoretic Text says Cain spoke to Abel but does not give the words he spoke.
 
 v11–15: “Cursed from the ground” can suggest separation from the ground or a curse operating through it. The word rendered “punishment” in v13 can also mean guilt; the statement may be heard as more than a protest about consequences. The sign given to Cain is not described and is not identified with race or skin color.
 

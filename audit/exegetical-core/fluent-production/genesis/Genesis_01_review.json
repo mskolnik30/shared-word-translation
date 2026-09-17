@@ -41,7 +41,7 @@
     "verse_count": 31,
     "path": "translations/fluent/OT/genesis/Genesis_01.md",
     "before_sha256": "51447998cab388361c57575e1f0dde12a785ed27ae87ed0cd96957bc21ab4117",
-    "after_sha256": "165aeda3004ae1b3d0caba25787d55696c0e6bcdceb83b05eb4db6e4f3a67cbf",
+    "after_sha256": "59abe84c91eb30a58eb9a7c7063bd6b2d4f6e6b92c91b75b9e65bbae4225db53",
     "tsw_comparator_path": "books/OT/genesis/Genesis_01.md",
     "tsw_comparator_sha256": "9043743ac7c169b0e706422a20eae4fa59474da5fd8a773cdf4399f2a7077056"
   },
@@ -70,6 +70,15 @@
       "delta": "F3",
       "decision": "Retain the poetic three lines and collective referent; note the Hebrew singular-to-plural movement rather than turning humanity into a male-only group.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "165aeda3004ae1b3d0caba25787d55696c0e6bcdceb83b05eb4db6e4f3a67cbf",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

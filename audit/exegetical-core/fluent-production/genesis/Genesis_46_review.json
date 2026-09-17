@@ -36,7 +36,7 @@
     "verse_count": 34,
     "path": "translations/fluent/OT/genesis/Genesis_46.md",
     "before_sha256": "ba2f88bdc9be9b422b5b0fd13df3599da307436598ef6351689bd0ffccd5a994",
-    "after_sha256": "da03e7d48091a77a3844dabefc133742dffc16343ae578e895f9166f6463a0e4",
+    "after_sha256": "2f663d56a242014ad41e1498953a1231da811bb79cdb2c2831294dd53acdec1d",
     "tsw_comparator_path": "books/OT/genesis/Genesis_46.md",
     "tsw_comparator_sha256": "420dd6a7eef8af1a30f002047a719943bcbd460a064b2ad48a984f38e81ef86c"
   },
@@ -122,6 +122,15 @@
       "delta": "F3",
       "decision": "Keeps deferential servants distinct from later purchased slaves, ancestral continuity, and the source’s strong abomination language attributed to Egyptians.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "da03e7d48091a77a3844dabefc133742dffc16343ae578e895f9166f6463a0e4",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

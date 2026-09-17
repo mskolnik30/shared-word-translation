@@ -44,7 +44,7 @@
     "verse_count": 27,
     "path": "translations/fluent/OT/genesis/Genesis_17.md",
     "before_sha256": "af72729728213ef717764c95db8b4eb37ac85c4f904711cf0c4726b65cfbdcd0",
-    "after_sha256": "c3f296b002d4378e51383a6582b60b96718c91e45ebf67fb2ee5fd110d0b4339",
+    "after_sha256": "f3692229a87347113428a52e8740f3271af6ccb5257822bd67cc41e205d98c7c",
     "tsw_comparator_path": "books/OT/genesis/Genesis_17.md",
     "tsw_comparator_sha256": "2a8b362a284af468cbd24b0bc4ae1c09b1ea806e8d11f5a37495283217f1ce99"
   },
@@ -61,6 +61,15 @@
       "delta": "F3",
       "decision": "Preserve cut-off ambiguity rather than specify a mechanism of punishment.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "c3f296b002d4378e51383a6582b60b96718c91e45ebf67fb2ee5fd110d0b4339",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

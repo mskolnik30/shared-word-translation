@@ -33,7 +33,7 @@
     "verse_count": 35,
     "path": "translations/fluent/OT/genesis/Genesis_26.md",
     "before_sha256": "10a03d627dcbe1050038007065eb2ed00f11e1d22fc61219f903ce1bdd222e32",
-    "after_sha256": "fb76635f93ce3212dd90fcdec21cad567329d94b7ad93d06fafa67106157b9df",
+    "after_sha256": "aa6343ec3a0a4a560e2787411310da84fd15eab259f40cdd3b6c61f325b1c543",
     "tsw_comparator_path": "books/OT/genesis/Genesis_26.md",
     "tsw_comparator_sha256": "e536d6260245900f27f1c675c0d139bc92e733fc8fc5be36870268cdf88441a5"
   },
@@ -68,6 +68,15 @@
       "delta": "F3",
       "decision": "Keep the Hebrew well name rather than flattening its seven/oath associations; do not harmonize away the naming account in chapter 21.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "fb76635f93ce3212dd90fcdec21cad567329d94b7ad93d06fafa67106157b9df",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

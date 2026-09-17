@@ -41,7 +41,7 @@
     "verse_count": 22,
     "path": "translations/fluent/OT/genesis/Genesis_06.md",
     "before_sha256": "ce6a543188f7a16d99695a8de616d840ecf9b21570ac7f339bd8d3e55605d5e0",
-    "after_sha256": "0cf2ae17233c3450bb0217083d4fc3c78543591f06766a3a2f7016dd0bd112c5",
+    "after_sha256": "8a047eb4163fdcebf45b93d61ae060d360ac5a2e85dc01fea7f39acf44c8d6b3",
     "tsw_comparator_path": "books/OT/genesis/Genesis_06.md",
     "tsw_comparator_sha256": "2b2c8c0cdda4a257e6a645161a0d6f887c90c604c12b0dcc22d7d78f8822fb46"
   },
@@ -88,6 +88,15 @@
       "delta": "F3",
       "decision": "Choose roof for the uncertain tsohar construction with alternatives noted; retain cubit, side entrance, and three levels without claiming a complete blueprint.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "0cf2ae17233c3450bb0217083d4fc3c78543591f06766a3a2f7016dd0bd112c5",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -110,11 +110,11 @@ v32: Terah lived 205 years. He died in Haran.
 
 ## Notes
 
-v01–03: “One language” is literally one lip. “From the east” can also be rendered eastward. Shinar and the ancient materials—fired brick and bitumen—are retained rather than replaced with modern building methods.
+v01–03: “One language” is literally one lip. “From the east” can also be rendered eastward. The building materials are fired brick and bitumen.
 
 v04–09: The shared calls “Come on, let us …” appear in both human and divine speech. The tower's top is in the heavens, yet the LORD comes down to see it. Babel echoes balal, “confuse,” in the Hebrew telling; this is a narrative soundplay, not a claim to establish the historical origin of the city's name.
 
-v10–26: The family line keeps the ages of the pinned Hebrew text, including Eber's 430 years after Peleg's birth. The age followed by three sons in v26 does not establish simultaneous births or necessarily their birth order.
+v10–26: The ages follow the Masoretic Text, including Eber’s 430 years after Peleg’s birth. The age followed by three sons in v26 does not establish simultaneous births or necessarily their birth order.
 
 v27–32: Lot is Haran's son and Terah's grandson. Milcah and Iscah are both named as Haran's daughters. The departure wording in v31 is compressed; the English makes the traveling group readable while preserving each named relationship. Sarai's inability to bear children is reported without assigning fault.
 

@@ -83,11 +83,11 @@ v26: Joseph died at a hundred and ten years old. They embalmed him and placed hi
 
 ## Notes
 
-v3, 10: The text gives forty days for embalming, seventy days of Egyptian mourning, and seven days at Atad. It does not explicitly state how the first two periods overlap.
+v03, 10: The text gives forty days for embalming, seventy days of Egyptian mourning, and seven days at Atad. It does not explicitly state how the first two periods overlap.
 
-v5: Joseph reports his father speaking of a tomb he ‘dug’ for himself. This is kept alongside the earlier account of the purchased family burial cave.
+v05: Joseph reports his father speaking of a tomb he ‘dug’ for himself. This is kept alongside the earlier account of the purchased family burial cave.
 
-v10–11: ‘Beyond the Jordan’ is retained without assigning the uncertain site a modern location. Abel-mizraim sounds like the Hebrew phrase for ‘mourning of Egypt.’
+v10–11: The site “beyond the Jordan” is uncertain. Abel-mizraim sounds like the Hebrew phrase for “mourning of Egypt.”
 
 v16–17: The brothers report an instruction from their father that was not narrated earlier. The narrator does not say whether they invented it.
 

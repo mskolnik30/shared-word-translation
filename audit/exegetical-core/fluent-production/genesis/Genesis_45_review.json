@@ -35,7 +35,7 @@
     "verse_count": 28,
     "path": "translations/fluent/OT/genesis/Genesis_45.md",
     "before_sha256": "5b3aece53960d41f2cd0380ab902044495b2b2cd6937835ee90933d6fe2d1fd8",
-    "after_sha256": "95aaf3b130eaaa6b356e359f5fd14883db868ce87d0a512e150313e08839c465",
+    "after_sha256": "559f44e4655f62c0610372617def950d26b325192e0d87e534d15999f20b1778",
     "tsw_comparator_path": "books/OT/genesis/Genesis_45.md",
     "tsw_comparator_sha256": "3b378a4dde487ebf2e0d08b39abd4590cdf3a8cd8427b772a1948a50ec7217a7"
   },
@@ -139,6 +139,15 @@
       "delta": "F3",
       "decision": "Preserves the name switch to Israel, his abrupt enough, and life/death framing at the reunion’s threshold.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "95aaf3b130eaaa6b356e359f5fd14883db868ce87d0a512e150313e08839c465",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

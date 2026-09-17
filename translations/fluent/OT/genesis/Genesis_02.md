@@ -79,17 +79,17 @@ v25: The human and his wife were both naked, and neither felt ashamed.
 
 ## Notes
 
-v02–04: The pinned Hebrew says God completed the work on the seventh day. “Rested” also means ceased. Verse 4 begins an account formula repeated throughout Genesis. Its second sentence introduces the garden narrative with “earth and heaven,” reversing the order of the opening phrase.
+v02–04: The Masoretic Text says God completed the work on the seventh day. “Rested” also means ceased. Verse 4 begins an account formula repeated throughout Genesis. Its second sentence introduces the garden narrative with “earth and heaven,” reversing the order of the opening phrase.
 
-v04–07: “The LORD” represents the divine name YHWH. Adam, “human,” sounds like adamah, “ground.” The link is retained through the repeated human/ground language. The human becomes a living being; the text does not say that a separate soul is placed inside a body.
+v04–07: “The LORD” represents the divine name YHWH. Adam, “human,” sounds like adamah, “ground.” The human becomes a living being; the wording does not describe a separate soul being placed inside a body.
 
 v06: The rare word ed is uncertain. “A flow of water” leaves open renderings such as stream or mist.
 
-v10–14: The river names are retained without assigning speculative modern locations to Pishon and Gihon. Tigris and Euphrates render Hiddekel and Perath. Bdellium and onyx are traditional identifications of the materials in v12; their precise identification is uncertain.
+v10–14: The locations of Pishon and Gihon are uncertain. Tigris and Euphrates render Hiddekel and Perath. Bdellium and onyx are traditional identifications of the materials in v12; their precise identification is uncertain.
 
 v17–18: “When you eat” is literally “in the day of your eating”; “certainly die” preserves the emphatic construction. “A helper who corresponds to him” renders ezer kenegdo. The expression names help and correspondence; it does not itself call the helper inferior.
 
-v21–24: “Side” renders tsela, which may mean a side or a rib here. Verse 23 plays on ish, “man,” and ishah, “woman.” These differ from adam, “human.” Verse 24 explicitly uses man and his wife; “one flesh” is retained as an image rather than explained away.
+v21–24: “Side” renders tsela, which may mean a side or a rib here. Verse 23 plays on ish, “man,” and ishah, “woman.” These differ from adam, “human.” Verse 24 uses man and his wife and the image “one flesh.”
 
 ## Vocabulary
 

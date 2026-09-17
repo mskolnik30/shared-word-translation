@@ -72,13 +72,13 @@ v21: Amorites, Canaanites, Girgashites, and Jebusites.”
 
 v01–04: Shield remains a protective image. The reward clause may also describe God as Abram’s reward. The wording about Eliezer’s household position is difficult; “heir” follows the inheritance concern of vv03–04.
 
-v05–06: Trust and righteousness remain distinct terms. The Hebrew leaves the subject of “counted” and the recipient unnamed. The draft follows the reading that the LORD counts Abram’s trust as righteousness; the reversed assignment has also been proposed.
+v05–06: The Hebrew leaves the subject of “counted” and the recipient unnamed. The LORD is understood here as counting Abram’s trust as righteousness; the reversed assignment has also been proposed.
 
-v09–12: The three mammals are described with a term conventionally read as three years old. The birds are not divided. Deep sleep and fearful darkness are retained without adding an explanation of Abram’s inner state.
+v09–12: The three mammals are described with a term conventionally read as three years old.
 
 v13–16: Four hundred years and the fourth generation are both preserved. The first duration’s relation to residence, enslavement, and oppression is not resolved by a supplied chronology.
 
-v17–21: Making a covenant is literally cutting a covenant, beside the account of divided animals. The smoking firepot and torch pass between the pieces; Abram is not said to do so. The river of Egypt is not replaced by a more specific watercourse in the translation.
+v17–21: Making a covenant is literally cutting a covenant, beside the account of divided animals. The smoking firepot and torch pass between the pieces; Abram is not said to do so.
 
 ## Vocabulary
 

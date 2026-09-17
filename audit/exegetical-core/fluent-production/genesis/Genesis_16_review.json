@@ -44,7 +44,7 @@
     "verse_count": 16,
     "path": "translations/fluent/OT/genesis/Genesis_16.md",
     "before_sha256": "2b1835640a329dc8f440be09a9a8a649817200172c4bc29fbdca2fd331fd4aee",
-    "after_sha256": "ad3437bdc98cdd4538f0de9fcc543a1b7527b0f612201d6337677545819e8c93",
+    "after_sha256": "dea8e5c13df8de172c40654ee8d040db60d1805a5b4ffc75c75c2f7ac5dc1896",
     "tsw_comparator_path": "books/OT/genesis/Genesis_16.md",
     "tsw_comparator_sha256": "976ba45d5f07e1bf8314deac331e38ebab35f4b9c632bc29b4a05131a5f7cde8"
   },
@@ -91,6 +91,15 @@
       "delta": "F3",
       "decision": "Preserve the name and coordinates; explain its living/seeing elements in a note.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "ad3437bdc98cdd4538f0de9fcc543a1b7527b0f612201d6337677545819e8c93",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

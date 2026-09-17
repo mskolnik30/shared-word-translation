@@ -44,7 +44,7 @@
     "verse_count": 18,
     "path": "translations/fluent/OT/genesis/Genesis_13.md",
     "before_sha256": "3ff617fd74c6f5ba9204ee32138f8945889efa76ea5a5ba8f33e880240906743",
-    "after_sha256": "37144ba7072e0555050c06673ce5bcc34e975aa92b9a9d08d8c187a3f4bb1637",
+    "after_sha256": "4d12647d898ea869ab4c1d4cd1ef296fc12e5449e6b55e413f5b74437e2fe87e",
     "tsw_comparator_path": "books/OT/genesis/Genesis_13.md",
     "tsw_comparator_sha256": "e68ebee4feb3d246d31f2018af0cdc0eb76d9f9e2c87d5496ec9953024a2f8cf"
   },
@@ -61,6 +61,15 @@
       "delta": "F3",
       "decision": "Retain Mamre, Hebron, and altar; use the same tree rendering as 12:6.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "37144ba7072e0555050c06673ce5bcc34e975aa92b9a9d08d8c187a3f4bb1637",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

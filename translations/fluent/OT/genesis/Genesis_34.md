@@ -118,27 +118,19 @@ v31: But they answered, “Should anyone treat our sister like a prostitute?”
 
 ## Notes
 
-v01–05: Dinah goes to visit the women of the land. Nothing in the passage makes her responsible for Shechem’s violence. The same name identifies both the man Shechem and, in this context, his city.
+v01–05: The same name identifies both the man Shechem and, in this context, his city.
 
 v02: The final verb can mean afflict, humiliate, or violate. In this sexual sequence it describes violence against Dinah; ‘raped’ states the harm plainly.
 
-v03–12: Shechem later expresses attachment, love, and tenderness, but these do not reverse or excuse verse 2. Dinah never speaks in the chapter, and every marriage negotiation occurs between men.
-
-v05, 13, 27: The language of defilement identifies Shechem’s act. It does not assign sexual guilt to Dinah. In verses 13 and 27, the narrator records her brothers’ rationale without endorsing everything they do.
+v05, 13, 27: “Defiled” describes Shechem’s act against Dinah.
 
 v07: ‘An outrage in Israel’ is the narrator’s strong condemnation, even though Israel’s descendants are still one family in the story.
 
 v12: The bride-price is a payment associated with marriage arrangements; the additional gift is separately named. Shechem offers both to Dinah’s father and brothers.
 
-v13–17: Jacob’s sons propose circumcision deceitfully. The covenant sign is used here as part of a trap; the narrative does not identify their deception with the sign’s meaning.
-
-v21–23: Hamor and Shechem describe Jacob’s family as peaceful and offer land and intermarriage, then appeal to the city’s men with the prospect of acquiring the family’s wealth.
-
-v25–29: Simeon and Levi kill every male, not only Shechem. Verse 27 then names Jacob’s sons without specifying whether Simeon and Levi are included again. The sons plunder property and take women and children captive. Dinah’s violation is not allowed to hide the wider violence inflicted on the city.
+v25–29: Verse 25 names Simeon and Levi; v27 names Jacob’s sons without specifying whether Simeon and Levi are included again.
 
 v30: The Hebrew says the brothers have made Jacob ‘stink’ among the inhabitants. ‘Detest me’ communicates the social disgrace and danger in natural English.
-
-v31: The brothers’ final question is left unanswered. The chapter neither erases Dinah’s violation nor supplies a narrator’s defense of the massacre and captivity.
 
 ## Vocabulary
 

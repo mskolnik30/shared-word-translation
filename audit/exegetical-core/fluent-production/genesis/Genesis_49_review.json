@@ -36,7 +36,7 @@
     "verse_count": 33,
     "path": "translations/fluent/OT/genesis/Genesis_49.md",
     "before_sha256": "50671f9c0cd9781b50fab59b50b8303d456a243806176233cfaa56cc22ce1b1f",
-    "after_sha256": "836eeace578969c7c581b33cd7178152c3e9fa85b948b47a1d98809944f3d75f",
+    "after_sha256": "a717dba730926f5c94087c3d24ad16025cb603c537ec6fcf2abad483e34f4ad3",
     "tsw_comparator_path": "books/OT/genesis/Genesis_49.md",
     "tsw_comparator_sha256": "21b9118b09a2dd341ec250975d131a842ff2a8975edefe6db4ffe453a4a991fb"
   },
@@ -176,6 +176,15 @@
       "delta": "F3",
       "decision": "Preserves the physical last movement and gathered-to-people formula without reducing the verse to a bare death notice.",
       "disposition": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
+      "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
+      "previous_chapter_sha256": "836eeace578969c7c581b33cd7178152c3e9fa85b948b47a1d98809944f3d75f",
+      "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }
