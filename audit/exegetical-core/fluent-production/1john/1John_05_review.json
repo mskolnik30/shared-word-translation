@@ -1,48 +1,166 @@
 {
-  "book": "1 John",
+  "book": "1John",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_sha": "6f3e7e5b05f61dc999c2d99b1a164b4b580decff",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/1john/1John_05_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1John.txt",
-    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+    "git_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb",
+    "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1John",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/1john/1John_05.md",
+    "before_sha256": "c5444516dfa4eb44c17651c6c90aaa9d7689b1a79bed4f50327219ae89c47afd",
+    "after_sha256": "3f791fb5b0c5df7988bf5740dededb409fc13768fe54f61428f66a7570e26190",
+    "tsw_comparator_path": "books/NT/1john/1John_05.md",
+    "tsw_comparator_sha256": "a2640df7ee609941060f1ce1c608036eb43f857375a8809025dce00b40961bbd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
   "key_decisions": [
     {
-      "location": "5:4",
-      "delta": "F1/F2",
-      "decision": "pistis → trust, preserving overcome/victory network."
+      "reference": "1John 5:1",
+      "delta": "F3",
+      "rationale": "Keeps the birth-based analogy, with literal begetter language explained in the note.",
+      "source_reference": "1John 5:1",
+      "source_verse_sha256": "1276fae07c5b2e466af2f07eecf53f53d688fbedca72e459d01d2e4b32c4d40c",
+      "before": "Everyone who trusts that Jesus is the Christ has been born of God, and everyone who loves the one who gives birth also loves the one who has been born from him.",
+      "after": "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the father loves the child born of him too.",
+      "tsw_comparator": "Everyone who trusts that Jesus is the Christ has been born of God, and everyone who loves the one who gives birth also loves the one who has been born from God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.689655,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "5:6",
-      "delta": "F3_OPEN",
-      "decision": "Water and blood left uninterpreted."
+      "reference": "1John 5:4",
+      "delta": "F3",
+      "rationale": "Preserves the source's neuter everything and victory/overcome repetition.",
+      "source_reference": "1John 5:4",
+      "source_verse_sha256": "11f4dd8704b6e6b370e4fdcb2a805a832a986624749c263bec4df7e5fdbf6a0a",
+      "before": "because everyone who has been born of God overcomes the world. And this is the victory that has overcome the world: our trust.",
+      "after": "because everything born of God overcomes the world. And this is the victory that has overcome the world: our faith.",
+      "tsw_comparator": "because everything that has been born of God overcomes the world. And this is the victory that has overcome the world—our trust.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "5:7-8",
-      "delta": "F3_TEXT",
-      "decision": "Comma Johanneum excluded from critical text."
+      "reference": "1John 5:6",
+      "delta": "F3",
+      "rationale": "Preserves water and blood without assigning sacramental or biographical interpretations in the text.",
+      "source_reference": "1John 5:6",
+      "source_verse_sha256": "2ce0856af1eaa5069c5630f509582c11a2b019b3f03790bbb83ad65f921dabd9",
+      "before": "This is the one who came through water and blood, Jesus Christ—not by the water only, but by the water and by the blood. And the Spirit is the one who testifies, because the Spirit is the truth.",
+      "after": "This is the one who came through water and blood: Jesus Christ. He came not by water alone, but by water and blood. And the Spirit bears witness, because the Spirit is the truth.",
+      "tsw_comparator": "This is the one who came through water and blood, Jesus Christ—not in the water only, but in the water and in the blood. And the Spirit is the one who testifies, because the Spirit is the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.739726,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "5:16",
-      "delta": "F3_OPEN",
-      "decision": "Sin leading to death left undefined; implicit giver supplied as God in main text."
+      "reference": "1John 5:7",
+      "delta": "F3",
+      "rationale": "Follows the pinned short text and excludes the later heavenly-witness expansion.",
+      "source_reference": "1John 5:7",
+      "source_verse_sha256": "1a72046a719a443aa3fea458c7d7e3f6ffd60420ba47b73515705af4ecb92e3b",
+      "before": "For there are three that testify:",
+      "after": "For there are three who bear witness:",
+      "tsw_comparator": "For there are three that testify:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "5:18",
-      "delta": "F3_TEXT",
-      "decision": "SBLGNT one-born-of-God keeps them; self-keeping variant noted."
+      "reference": "1John 5:8",
+      "delta": "F3",
+      "rationale": "Keeps all three witnesses and renders their being toward one as agreement.",
+      "source_reference": "1John 5:8",
+      "source_verse_sha256": "a488bb0ce9703957cb8ae1745403ea1952b931568cbae0ab0f3e995ed89aa2cd",
+      "before": "the Spirit, the water, and the blood, and the three agree as one.",
+      "after": "the Spirit, the water and the blood, and the three agree.",
+      "tsw_comparator": "the Spirit and the water and the blood, and the three agree as one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.88,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "5:20",
-      "delta": "F3_OPEN",
-      "decision": "This one antecedent left unresolved."
+      "reference": "1John 5:16",
+      "delta": "F3",
+      "rationale": "Retains the unnamed giver and the distinction between sins without identifying the death-leading sin or turning the last clause into an absolute prohibition.",
+      "source_reference": "1John 5:16",
+      "source_verse_sha256": "6e03319c0f2f776194c1e9a70ee47142c8121dc89473e77d92432ac03038966b",
+      "before": "If anyone sees a brother or sister committing a sin not leading to death, they should ask, and God will give life to that person—to those whose sin is not leading to death. There is sin leading to death; I am not saying that one should ask concerning that.",
+      "after": "If anyone sees a brother or sister committing a sin that does not lead to death, they should ask, and he will give that person life—to those whose sin does not lead to death. There is sin that leads to death; I am not saying they should pray about that.",
+      "tsw_comparator": "If anyone sees a brother or sister committing a sin not leading to death, they shall ask, and God will give life to that one—to those whose sin is not leading to death. There is sin leading to death; I do not say that one should ask concerning that.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693069,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 5:18",
+      "delta": "F3",
+      "rationale": "Follows the pinned him rather than himself reading and leaves the identity of the protecting one for the note.",
+      "source_reference": "1John 5:18",
+      "source_verse_sha256": "17048258c863bd1bf6c712db57b82aa518e7a7a96abc4b843925809c51551701",
+      "before": "We know that everyone who has been born of God does not sin, but the one who was born of God keeps them, and the evil one does not touch them.",
+      "after": "We know that everyone who has been born of God does not sin. But the one who was born of God keeps that person safe, and the evil one does not touch them.",
+      "tsw_comparator": "We know that everyone who has been born of God does not sin, but the one who was born of God keeps them, and the evil one does not touch them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 5:20",
+      "delta": "F3",
+      "rationale": "Retains the repeated true one and the final this without resolving its debated antecedent.",
+      "source_reference": "1John 5:20",
+      "source_verse_sha256": "3f6ef2f6be0dd874b73c4891300348845c5fd8344077ce1919dab3b4a681d219",
+      "before": "We know that the Son of God has come and has given us understanding so that we may know the True One. And we are in the True One, in his Son Jesus Christ. This one is the true God and eternal life.",
+      "after": "We know that the Son of God has come and has given us understanding so that we may know the true one. And we are in the true one, in his Son Jesus Christ. This is the true God and eternal life.",
+      "tsw_comparator": "And we know that the Son of God has come and has given us understanding so that we may know the True One; and we are in the True One, in God’s Son Jesus Christ. This one is the true God and eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.953488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 5:21",
+      "delta": "F3",
+      "rationale": "Preserves the abrupt final warning and omits an Amen absent from the pinned text.",
+      "source_reference": "1John 5:21",
+      "source_verse_sha256": "ce3118182d4332a99d3e80945a240d40246286cd5e6057f23a3ad65840144cb3",
+      "before": "Little children, guard yourselves from idols.",
+      "after": "Little children, guard yourselves from idols.",
+      "tsw_comparator": "Little children, guard yourselves from idols.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated entries and over-specific claims normalized for Fluent while textual and syntactic uncertainty is retained."
+  ]
 }

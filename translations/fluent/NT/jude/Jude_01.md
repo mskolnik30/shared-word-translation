@@ -4,172 +4,85 @@ testament: NT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16
 ---
+
 
 ## Greeting
 
 <p>
-v01: Jude, a servant of Jesus Christ and brother of James, to people who are called, beloved in God the Father and kept for Jesus Christ:
-
-v02: May mercy and peace and love be multiplied to you.
+v01: Jude, a slave of Jesus Christ and brother of James, to those who are called, beloved in God the Father and kept for Jesus Christ:
+v02: May mercy, peace and love be multiplied to you.
 </p>
 
 ## Contend for the Faith
 
 <p>
-v03: Beloved, although I was making every effort to write to you about our shared salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints.
-
-v04: For certain people have slipped in unnoticed, those long beforehand marked out for this judgment, ungodly persons who turn the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ.
+v03: Beloved, although I was eager to write to you about the salvation we share, I found it necessary to write urging you to contend for the faith entrusted once for all to the holy ones.
+v04: For certain people have slipped in unnoticed, people long ago marked out for this judgment: ungodly people who turn our God's grace into sexual recklessness and deny our only Master and Lord, Jesus Christ.
 </p>
 
 ## Judgment on False Teachers
 
 <p>
-v05: Now I want to remind you, although you once knew everything, that Jesus, having saved a people out of the land of Egypt, afterward destroyed people who did not believe.
-
-v06: And the angels who did not keep their own domain but left their proper dwelling, he has kept in eternal chains under darkness for the judgment of the great day,
-
-v07: just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire.
-
-v08: Yet in the same way these people also, relying on their dreams, defile the flesh, reject authority, and slander glorious ones.
-
-v09: But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a reviling judgment, but said, “The Lord rebuke you.”
-
-v10: But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively.
-
-v11: Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam’s error and perished in Korah’s rebellion.
-
-v12: These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, carried along by winds; fruitless trees in late autumn, twice dead, uprooted;
-
-v13: wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.
-
-v14: It was also about these that Enoch, the seventh from Adam, prophesied, saying,
-
-“Behold, the Lord comes with ten thousands of his holy ones,
-
-v15: to execute judgment on all
-
-and to convict all the ungodly
-
-of all their deeds of ungodliness that they have committed in such an ungodly way,
-
-and of all the harsh things that ungodly sinners have spoken against him.”
-
-v16: These are grumblers, malcontents, following their own desires; they are loud-mouthed, showing favoritism to gain advantage.
+v05: I want to remind you, though you have learned all this once for all, that Jesus saved a people out of Egypt and afterward destroyed those who did not believe.
+v06: And the angels who did not keep their own position of authority but abandoned their proper dwelling, he has kept in eternal chains under darkness for the judgment of the great day.
+v07: Likewise, Sodom and Gomorrah and the surrounding cities, which in the same way as these indulged in sexual immorality and pursued other flesh, stand as an example, undergoing the punishment of eternal fire.
+v08: Yet in the same way these dreamers defile the flesh, reject lordship and revile glorious beings.
+v09: But when Michael the archangel disputed with the devil about Moses' body, he did not dare bring a reviling judgment against him, but said, “May the Lord rebuke you!”
+v10: These people revile whatever they do not understand, and what they do understand by instinct, like unreasoning animals, destroys them.
+v11: Woe to them! They have gone the way of Cain, rushed into Balaam's error for pay and perished in Korah's rebellion.
+v12: These people are hidden reefs at your love feasts, feasting with you without fear, shepherding themselves. They are clouds without water, swept along by winds; late-autumn trees without fruit, twice dead, uprooted;
+v13: wild waves of the sea, foaming up their own shame; wandering stars for whom the deepest darkness has been reserved forever.
+v14: Enoch, the seventh from Adam, also prophesied about these people:
+“Look, the Lord came with myriads of his holy ones,
+v15: to bring judgment against everyone
+and convict all the ungodly
+of all their ungodly deeds they have done in ungodliness,
+and of all the harsh things ungodly sinners have spoken against him.”
+v16: These people are grumblers and faultfinders, following their own desires. Their mouths speak boastfully, and they flatter people for their own advantage.
 </p>
 
 ## Keep Yourselves in the Love of God
 
 <p>
-v17: But you must remember, beloved, the predictions of the apostles of our Lord Jesus Christ.
-
-v18: They said to you, “In the last time there will be scoffers, following their own ungodly desires.”
-
-v19: It is these who cause divisions, worldly people, devoid of the Spirit.
-
-v20: But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit,
-
-v21: keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life.
-
-v22: And have mercy on people who doubt;
-
-v23: save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh.
+v17: But you, beloved, remember the words spoken beforehand by the apostles of our Lord Jesus Christ.
+v18: They told you, “In the last time there will be scoffers who follow their own ungodly desires.”
+v19: These are the people who cause divisions, governed by natural life, without the Spirit.
+v20: But you, beloved, build yourselves up in your most holy faith, praying in the Holy Spirit,
+v21: and keep yourselves in God's love, waiting for the mercy of our Lord Jesus Christ that leads to eternal life.
+v22: Have mercy on those who doubt;
+v23: save others by snatching them from the fire; and have mercy on others with fear, hating even the garment stained by the flesh.
 </p>
 
 ## Doxology
 
 <p>
-v24: Now to the one who can keep you from stumbling and to present you blameless before the presence of his glory with great joy,
-
-v25: to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.
+v24: To the one who can keep you from stumbling and make you stand blameless before his glory with great joy,
+v25: to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, power and authority, before all time, now and for all ages. Amen.
 </p>
 
 ## Notes
 
-v01: Identity is relational (“servant,” “brother”), not positional.
+v01: “Kept for Jesus Christ” may also be read “kept by Jesus Christ.”
 
-v02: Blessing is cumulative and expansive.
+v05: The pinned text reads “Jesus”; other witnesses have “Lord” or “God.” The position of “once for all” also varies.
 
-v03: The shift from intention to necessity frames urgency.
+v07: The Greek says “other flesh.” The reference of “in the same way as these” is debated and may connect the cities with the angels of verse 6.
 
-v04: Entry is described as unnoticed, not open.
+v12: The word rendered “hidden reefs” has also been understood as “blemishes.”
 
-v05: Past acts are recalled without full narrative.
+v14–15: The saying attributed to Enoch corresponds to 1 Enoch 1:9. The Greek here uses “came.”
 
-v06: Judgment is delayed but certain.
-
-v07: Example functions as warning without expansion.
-
-v08: Behavior is linked to internal sources (“dreams”).
-
-v09: Authority is deferred, not assumed.
-
-v10: Knowledge without understanding leads to destruction.
-
-v11: Multiple examples are combined without explanation.
-
-v12–13: Metaphors accumulate without resolution.
-
-v14–15: Prophecy is cited without contextualization.
-
-v16: Speech reveals character and intention.
-
-v17–18: Apostolic prediction is presented as fulfilled pattern.
-
-v19: Division is attributed to absence of the Spirit.
-
-v20–21: Action is continuous and relational.
-
-v22–23: Responses vary without systematization.
-
-v24–25: The doxology attributes all agency to God.
+v22–23: Manuscripts vary in the wording and division of these instructions. The pinned text distinguishes mercy for doubters, rescue from fire, and mercy with fear.
 
 ## Vocabulary
 
-v01: δοῦλος (doulos)
+v04: **ἀσέλγεια (aselgeia)**: Unrestrained or shameless conduct, often sexual; rendered sexual recklessness here.
 
-“Servant.” One who belongs to another.
+v14: **μυριάς (myrias)**: A group of ten thousand; in the plural, myriads or vast multitudes.
 
-v03: ἐπαγωνίζομαι (epagōnizomai)
-
-“To contend.” To struggle or strive earnestly.
-
-v04: ἀσέβεια (asebeia)
-
-“Ungodliness.” Lack of reverence.
-
-v06: δεσμός (desmos)
-
-“Chain.” Instrument of restraint.
-
-v07: πυρὸς αἰωνίου (pyros aiōniou)
-
-“Eternal fire.” Ongoing judgment.
-
-v09: ἐπιτιμάω (epitimaō)
-
-“To rebuke.” To correct or restrain.
-
-v11: ὁδός (hodos)
-
-“Way.” Path or pattern of action.
-
-v12: σπιλάς (spilas)
-
-“Reef.” Hidden danger.
-
-v14: μυριάς (myrias)
-
-“Ten thousands.” Innumerable quantity.
-
-v19: ψυχικός (psychikos)
-
-“Worldly.” Governed by natural life.
-
-v21: ἀγάπη (agapē)
-
-“Love.” Relational commitment.
-
-v24: ἄπταιστος (aptaistos)
-
-“Without stumbling.” Preserved from falling.
+v19: **ψυχικός (psychikos)**: Pertaining to natural life, contrasted here with having the Spirit.

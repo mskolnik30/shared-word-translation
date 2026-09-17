@@ -1,112 +1,149 @@
 {
-  "book": "2 John",
+  "book": "2John",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 13,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2john-1-1-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/2john/2John_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2John.txt",
     "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 John 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "86c749a2e15abb3835fee9f3fbea6cf496061977a0c36b6513baf2c12edb4ce6"
-      },
-      "2": {
-        "source_ref": "2 John 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "c738fb6e0db5378644d3413789f16ef3e51ae265b05cafb5fabf1410de0be611"
-      },
-      "3": {
-        "source_ref": "2 John 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "36d73e2d5d899540504595e7ad486e118af0320b05be8d801ae6f0f74980cf8d"
-      },
-      "4": {
-        "source_ref": "2 John 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "aa8199e761f820976cc6a07b31816ecc1f0604c634ae3fd5b01255f2bbd1dd47"
-      },
-      "5": {
-        "source_ref": "2 John 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "512a2827765712a7688cea93a48be2f1cd357a9a27c0fffb84be1f6586e4deb7"
-      },
-      "6": {
-        "source_ref": "2 John 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "69f1f641430b2ed3a095dd035655cac7771faefeb082d6b511e056363e85d631"
-      },
-      "7": {
-        "source_ref": "2 John 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "64e24748a32f8650fc23841079abe7bc91ff0929f54271b91cecd993cdc59182"
-      },
-      "8": {
-        "source_ref": "2 John 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "c4cbcda6dba9cbef429d0e73bb3c2344555d3b4ba49ef44871e0a7b4a1cb8473"
-      },
-      "9": {
-        "source_ref": "2 John 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "68ba3477fa7b2b805ed467e3422ca6af034dd149404b125e421a54da25b68bdb"
-      },
-      "10": {
-        "source_ref": "2 John 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "29b4cfeec32581a137c9862c4e3a6f271bebe4f5b8d99c672cfcc594b0c4b4a5"
-      },
-      "11": {
-        "source_ref": "2 John 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "5a8c8a88f18c10e1b400280ea535cea2770537ce7a9567907d27fef835a6c0c4"
-      },
-      "12": {
-        "source_ref": "2 John 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "3a1aff346220f9105402c6de99492662709fcbbfa8a0d05dbb05c592d24b082d"
-      },
-      "13": {
-        "source_ref": "2 John 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "fd52fa85d9a81dfe634d60f0861902e1f6a1b55d668bc2f19364f76e467d1bfc"
-      }
+    "sha256": "b2daf832c6f88d67ae0bdf2ecfbbb42309e330dc161f5b127c8939d5cb448bc7",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2John",
+    "book_verse_count": 13,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 13,
+    "path": "translations/fluent/NT/2john/2John_01.md",
+    "before_sha256": "e0d1037acce06a40ed1bdb84403481e366aea3bccc560bc17bf2d9d2ff8514d9",
+    "after_sha256": "3a23b8ec8bb5f561dd61fa54f5677bac7bdb2fd342a90ffc090fc45d09680d8e",
+    "tsw_comparator_path": "books/NT/2john/2John_01.md",
+    "tsw_comparator_sha256": "4adaaba0572f1094622276e8aceb491223b6ae03afc018edbdd892d7154c8ee2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2john-1-1/2john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2John 1:1",
+      "delta": "F3",
+      "rationale": "Preserves the personal address and the possibility of a church personified as a lady.",
+      "source_reference": "2John 1:1",
+      "source_verse_sha256": "1f1f20864cd87f6e7dbc64c45600f178f73c79fcb027f2fd6d4b6fda1825ab75",
+      "before": "The elder, to the chosen lady and her children, whom I love in truth—and not I alone, but also everyone who knows the truth—",
+      "after": "The elder, to the chosen lady and her children, whom I love in truth—and not I alone, but also everyone who knows the truth—",
+      "tsw_comparator": "The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:7",
+      "delta": "F3",
+      "rationale": "Retains the present coming participle rather than silently changing it to a past tense and preserves embodied confession.",
+      "source_reference": "2John 1:7",
+      "source_verse_sha256": "2869b27083fcc51c827d685e9eda1025e29a3eb1a60bdddf83a9712292ba98f9",
+      "before": "For many deceivers have gone out into the world, people who do not confess Jesus Christ coming in flesh. Such a person is the deceiver and the antichrist.",
+      "after": "For many deceivers have gone out into the world, those who do not confess Jesus Christ coming in the flesh. Such a person is the deceiver and the antichrist.",
+      "tsw_comparator": "For many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:8",
+      "delta": "F3",
+      "rationale": "Follows the pinned you/we/you shifts without harmonizing them.",
+      "source_reference": "2John 1:8",
+      "source_verse_sha256": "4656acda274059f03c1a2eeb442fe799d988797902e5f144c6acf6f4831d46c9",
+      "before": "Watch yourselves so that you do not lose what we have worked for but may receive a full reward.",
+      "after": "Watch yourselves, so that you do not lose what we have worked for, but receive a full reward.",
+      "tsw_comparator": "Watch yourselves, so that you may not lose what we have worked for, but may receive a full reward.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918919,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:9",
+      "delta": "F3",
+      "rationale": "Keeps goes ahead and leaves teaching of Christ open to teaching from or about him.",
+      "source_reference": "2John 1:9",
+      "source_verse_sha256": "246b637da29c3ee8449a9a6a6ecaaf3a3a04eb9f8351bd9fb8c76cb052a54d0d",
+      "before": "Everyone who goes beyond and does not remain in the teaching of Christ does not have God. The one who remains in the teaching has both the Father and the Son.",
+      "after": "Everyone who goes ahead and does not remain in the teaching of Christ does not have God. Whoever remains in the teaching has both the Father and the Son.",
+      "tsw_comparator": "Everyone who goes ahead and does not abide in the teaching of Christ does not have God. Whoever abides in the teaching has both the Father and the Son.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.931034,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:10",
+      "delta": "F3",
+      "rationale": "Preserves the concrete hospitality and greeting restrictions in their teaching context.",
+      "source_reference": "2John 1:10",
+      "source_verse_sha256": "dc4edbda9d8e1d579269be9078bb1f21803c79a0252c83c134c66692c13c3005",
+      "before": "If anyone comes to you and does not bring this teaching, do not receive that person into your house or give them a greeting,",
+      "after": "If anyone comes to you and does not bring this teaching, do not receive that person into your house or offer a greeting,",
+      "tsw_comparator": "If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:11",
+      "delta": "F3",
+      "rationale": "Keeps the stated participation rationale and the force of evil.",
+      "source_reference": "2John 1:11",
+      "source_verse_sha256": "d71755bf9f3de20c8f710cac4dc130f16588f8cd5c0f194569e67d4a86f60467",
+      "before": "because the one who gives such a greeting shares in that person’s evil works.",
+      "after": "because whoever offers that person a greeting shares in their evil works.",
+      "tsw_comparator": "for whoever greets him takes part in his wicked works.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.272727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:12",
+      "delta": "F3",
+      "rationale": "Renders mouth to mouth naturally and follows the pinned your joy reading.",
+      "source_reference": "2John 1:12",
+      "source_verse_sha256": "255e664ea9b95898682b64bddd26a582e6be2db84211322314a88328f4f33bdc",
+      "before": "Although I have many things to write to you, I do not want to do so with paper and ink. Instead, I hope to come to you and speak face to face, so that our joy may be made complete.",
+      "after": "I have much to write to you, but I do not want to do it with paper and ink. Instead, I hope to come to you and speak face to face, so that your joy may be complete.",
+      "tsw_comparator": "Though I have much to write to you, I would rather not use paper and ink. Instead I hope to come to you and speak face to face, so that our joy may be complete.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.821918,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:13",
+      "delta": "F3",
+      "rationale": "Preserves the sister/children address and ends without an added Amen.",
+      "source_reference": "2John 1:13",
+      "source_verse_sha256": "a712ddeb00176e6a67c881ccb469a128251bef5cfbfb9bbbbd9e2b7cb2113d44",
+      "before": "The children of your chosen sister greet you.",
+      "after": "The children of your chosen sister greet you.",
+      "tsw_comparator": "The children of your elect sister greet you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2john/2John_01.md",
-    "blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

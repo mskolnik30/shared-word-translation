@@ -189,7 +189,7 @@ def main():
     q['completed_draft_scopes'].append(dict(scope=cfg['scope'],verses=len(D),ledger=ledger))
     block=q['active_fifty_chapter_block']
     block.update(completed_chapters=block['completed_chapters']+len(cfg['chapters']),completed_scope=cfg['completed_block_scope'],completed_verses=block['completed_verses']+len(D),remaining_scope=cfg['next_scope'],remaining_chapters=block['remaining_chapters']-len(cfg['chapters']))
-    assert block['completed_chapters']+block['remaining_chapters']==50
+    assert block['completed_chapters']+block['remaining_chapters']==block['chapters_target']
     q['next_work'][0]=dict(scope=cfg['next_scope'],action=f'Continue the remaining {block["remaining_chapters"]} chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring.')
     dump(R/'audit/fluent-revision/WORK_QUEUE.json',q)
     print(json.dumps(dict(scope=cfg['scope'],summary=L['summary'],block=block)))

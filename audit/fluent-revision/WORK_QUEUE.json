@@ -696,12 +696,57 @@
       "scope": "2 Peter 1",
       "verses": 21,
       "ledger": "audit/fluent-revision/2026-09-17-2peter-1-1/2peter-verse-review.json"
+    },
+    {
+      "scope": "2 Peter 2–3",
+      "verses": 40,
+      "ledger": "audit/fluent-revision/2026-09-17-2peter-2-3/2peter-verse-review.json"
+    },
+    {
+      "scope": "1 John 1–5",
+      "verses": 105,
+      "ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json"
+    },
+    {
+      "scope": "2 John 1",
+      "verses": 13,
+      "ledger": "audit/fluent-revision/2026-09-17-2john-1-1/2john-verse-review.json"
+    },
+    {
+      "scope": "3 John 1",
+      "verses": 15,
+      "ledger": "audit/fluent-revision/2026-09-17-3john-1-1/3john-verse-review.json"
+    },
+    {
+      "scope": "Jude 1",
+      "verses": 25,
+      "ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
-      "action": "Continue the final 32-chapter remainder without routine approval. Read every verified pinned Greek verse before authoring."
+      "scope": "Revelation 1–22",
+      "action": "Continue Revelation 1–22 without routine approval; read verified pinned Greek before authoring."
+    },
+    {
+      "scope": "Whole-book Jude consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument, repetition, names, source variants and cross-batch consistency. Rebind any changes. Independent review remains pending."
+    },
+    {
+      "scope": "Whole-book 3 John consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument, repetition, names, source variants and cross-batch consistency. Rebind any changes. Independent review remains pending."
+    },
+    {
+      "scope": "Whole-book 2 John consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument, repetition, names, source variants and cross-batch consistency. Rebind any changes. Independent review remains pending."
+    },
+    {
+      "scope": "Whole-book 1 John consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument, repetition, names, source variants and cross-batch consistency. Rebind any changes. Independent review remains pending."
+    },
+    {
+      "scope": "Whole-book 2 Peter consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument, repetition, names, source variants and cross-batch consistency. Rebind any changes. Independent review remains pending."
     },
     {
       "scope": "Whole-book Colossians consistency review",
@@ -995,11 +1040,11 @@
     "scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
     "status": "IN_PROGRESS",
     "chapters_target": 32,
-    "completed_chapters": 0,
-    "completed_scope": "None",
-    "completed_verses": 0,
-    "remaining_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
-    "remaining_chapters": 32,
-    "qualification": "Final project remainder: 0 of 32 chapters drafted in this block; 32 remain. Independent editorial review and reader testing remain pending."
+    "completed_chapters": 10,
+    "completed_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1",
+    "completed_verses": 198,
+    "remaining_scope": "Revelation 1–22",
+    "remaining_chapters": 22,
+    "qualification": "Final project remainder: 10 of 32 chapters drafted; Revelation 1–22 remains. Independent review, whole-book review and reader testing remain pending."
   }
 }

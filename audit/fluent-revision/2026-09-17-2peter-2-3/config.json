@@ -1,0 +1,133 @@
+{
+  "parent_commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+  "parent_library_version": 95,
+  "book": "2Peter",
+  "slug": "2peter",
+  "chapters": [
+    2,
+    3
+  ],
+  "scope": "2 Peter 2–3",
+  "expected_verses": 40,
+  "source_filename": "2peter-pinned-greek.txt",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
+    "sha256": "7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Pet",
+    "book_verse_count": 61,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "book_record_files": [
+    "2_PETER_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "source_omissions": {},
+  "heading_overrides": {},
+  "next_scope": "1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+  "completed_block_scope": "2 Peter 2–3",
+  "f3": [
+    "2:1",
+    "2:4",
+    "2:5",
+    "2:9",
+    "2:10",
+    "2:11",
+    "2:13",
+    "2:14",
+    "2:15",
+    "2:18",
+    "2:19",
+    "2:22",
+    "3:4",
+    "3:5",
+    "3:6",
+    "3:9",
+    "3:10",
+    "3:12",
+    "3:16",
+    "3:18"
+  ],
+  "apparatus": {
+    "2": {
+      "notes": [
+        [
+          "04",
+          "The pinned Greek reads “chains”; another reading has “pits.” Tartarus is the name used here for the place of confinement."
+        ],
+        [
+          "10–11",
+          "“Lordship” and “glorious beings” are not identified more specifically. The pinned text of verse 11 does not include “before the Lord.”"
+        ],
+        [
+          "13",
+          "The pinned text reads “suffering wrong” and “deceptions”; other readings have “receiving” and “love feasts.”"
+        ],
+        [
+          "15",
+          "The pinned Greek spells the name Bosor; other texts have Beor."
+        ],
+        [
+          "18",
+          "“Just escaping” can also be rendered “barely escaping.” Other texts read “truly escaped.”"
+        ]
+      ],
+      "vocabulary": [
+        [
+          "01",
+          "αἵρεσις (hairesis)",
+          "A party, faction or school of teaching; here rendered destructive teachings."
+        ],
+        [
+          "14",
+          "μεσταὶ μοιχαλίδος",
+          "Literally “full of an adulteress,” rendered eyes full of adultery."
+        ],
+        [
+          "19",
+          "φθορά (phthora)",
+          "Corruption, decay or destruction."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "06",
+          "“Through these” is plural in Greek; its precise relation to the preceding water and divine word is debated."
+        ],
+        [
+          "10",
+          "The pinned text reads “will be found,” rendered “will be exposed.” Other witnesses have readings including “will be burned up” and “will not be found.”"
+        ],
+        [
+          "12",
+          "The verb can mean hasten or eagerly desire; the text does not describe how the day is hastened."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "10",
+          "στοιχεῖα (stoicheia)",
+          "Elements or basic constituents; the referent can include the components of the cosmos or heavenly bodies."
+        ],
+        [
+          "18",
+          "ἡμέρα αἰῶνος",
+          "Literally “day of eternity,” an expression retained here."
+        ]
+      ]
+    }
+  }
+}

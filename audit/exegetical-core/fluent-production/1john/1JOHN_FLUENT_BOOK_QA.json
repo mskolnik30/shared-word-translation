@@ -1,8 +1,8 @@
 {
   "book": "1 John",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_counts": {
     "1": 10,
     "2": 29,
@@ -128,5 +128,55 @@
     "Project-wide hilasmos policy should remain consistent with Romans 3 hilastērion restraint while recognizing different lexical forms.",
     "1 John 4:9 should align monogenēs terminology with John 1 policy.",
     "1 John 5:18 textual/interpretive alternatives should remain explicitly documented."
+  ],
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "verse_count": 105,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+      "path": "audit/exegetical-core/fluent-production/1john/1JOHN_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 105,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+        "path": "audit/exegetical-core/fluent-production/1john/1JOHN_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
   ]
 }

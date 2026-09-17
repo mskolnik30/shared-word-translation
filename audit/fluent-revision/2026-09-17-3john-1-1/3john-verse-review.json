@@ -1,0 +1,247 @@
+{
+  "schema_version": 3,
+  "revision_id": "fluent-2026-09-17-3john-1-1-biblical-fluency-2026-09-16",
+  "base_commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+  "scope": "3 John 1",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/3John.txt",
+    "git_blob_sha": "023c167c50535f735e9b15d564f1bd83e10b7d6d",
+    "sha256": "db0bfc024dfbafa4bf0c978d6f53186c35e6eb771058672ff4f1c31708db6c16",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/3John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "3John",
+    "book_verse_count": 15,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1
+    ]
+  },
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "method": "Every pinned Greek verse read before authoring. All verses drafted before reading prior Fluent. TSW is a post-authoring comparator, not a wording template. Each authored verse has its own rationale. F0–F3 choices are provisional; no independent review or change quota.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "path": "translations/fluent/NT/3john/3John_01.md",
+      "before_sha256": "d2ba840805f6c6825b0a424db8a539b77b0743259f39a0c7aa142adf24e37abf",
+      "after_sha256": "fad41701042faea96f866f93b487734ec08e002b33885a49b6274bddfc202517",
+      "tsw_comparator_path": "books/NT/3john/3John_01.md",
+      "tsw_comparator_sha256": "03155a0dd6ce649ea2c105ab9504cdc411ac2f48949dbaeaf2d13a6aa5a12ec4"
+    }
+  ],
+  "verses": [
+    {
+      "reference": "3John 1:1",
+      "delta": "F2",
+      "rationale": "Keeps the named recipient and the recurring love-in-truth expression.",
+      "source_reference": "3John 1:1",
+      "source_verse_sha256": "b40fa51ff8c364956e78ffaef1554d29ce5ee5882aecabc88e78cfe34404246b",
+      "before": "The elder to the beloved Gaius, whom I love in truth.",
+      "after": "The elder, to beloved Gaius, whom I love in truth.",
+      "tsw_comparator": "The elder to the beloved Gaius, whom I love in truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:2",
+      "delta": "F3",
+      "rationale": "Preserves a personal prayer or wish rather than turning it into a promise of health or prosperity.",
+      "source_reference": "3John 1:2",
+      "source_verse_sha256": "3f92a8ff86ee7ab9bcc96d6580ab916aac288de6456896a83b2927dec7fd9aa5",
+      "before": "Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.",
+      "after": "Beloved, I pray that all may go well with you and that you may be in good health, just as all goes well with your soul.",
+      "tsw_comparator": "Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.961538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:3",
+      "delta": "F2",
+      "rationale": "Keeps testimony and the repeated truth and walking language.",
+      "source_reference": "3John 1:3",
+      "source_verse_sha256": "5c1f05e8ef9a25243204f09aa591ebe2795c4604a8d3441dd2a4cc8e564c0dc9",
+      "before": "For I rejoiced greatly when brothers and sisters came and testified to your truth, as you are walking in the truth.",
+      "after": "I rejoiced greatly when brothers and sisters came and bore witness to your truth, just as you are walking in truth.",
+      "tsw_comparator": "For I rejoiced greatly when brothers came and testified to your truth, as you are walking in the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:4",
+      "delta": "F2",
+      "rationale": "Retains the family metaphor and the stated greatest joy.",
+      "source_reference": "3John 1:4",
+      "source_verse_sha256": "10e56c7870a9e18f0bdd85911a6aebb8933a2b4c90a239e9dd8c913284bd682c",
+      "before": "I have no greater joy than this, to hear that my children are walking in the truth.",
+      "after": "I have no greater joy than hearing that my children are walking in the truth.",
+      "tsw_comparator": "I have no greater joy than this, to hear that my children are walking in the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:5",
+      "delta": "F2",
+      "rationale": "Preserves the strangers' relationship to the recipient and the broad hospitality commendation.",
+      "source_reference": "3John 1:5",
+      "source_verse_sha256": "18d24101f1a8c4a91fdb85a57647e23668729f9bee13431050b1e63bd755d489",
+      "before": "Beloved, you are acting faithfully in whatever you do for the brothers and sisters, even though they are strangers,",
+      "after": "Beloved, you act faithfully in whatever you do for the brothers and sisters, even though they are strangers.",
+      "tsw_comparator": "Beloved, you are acting faithfully in whatever you do for the brothers, even though they are strangers,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:6",
+      "delta": "F2",
+      "rationale": "Keeps public testimony and the God-worthy standard of practical assistance.",
+      "source_reference": "3John 1:6",
+      "source_verse_sha256": "8d984f0e3ac23566148097d31060681d5408b03f92a6c18988d54806300c4afe",
+      "before": "who have testified to your love before the church. You will do well to send them on their journey in a manner worthy of God.",
+      "after": "They have borne witness to your love before the church. You will do well to send them on their way in a manner worthy of God,",
+      "tsw_comparator": "who have testified to your love before the church. You will do well to send them on their journey in a manner worthy of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:7",
+      "delta": "F3",
+      "rationale": "Retains the unnamed Name and the source's Gentiles distinction without adding an explanation in the text.",
+      "source_reference": "3John 1:7",
+      "source_verse_sha256": "0fcb32cd9b8e1d833072e27b37e229b3d78f3e535909cdab34c94f1581954677",
+      "before": "For they have gone out for the sake of the Name, accepting nothing from the Gentiles.",
+      "after": "because they went out for the sake of the Name, accepting nothing from the Gentiles.",
+      "tsw_comparator": "For they have gone out for the sake of the Name, accepting nothing from the Gentiles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:8",
+      "delta": "F0",
+      "rationale": "Preserves the obligation and shared work's purpose.",
+      "source_reference": "3John 1:8",
+      "source_verse_sha256": "d01d71e6620a26415ec25ca11c9f6d723748f5bfee4fb46ce4e8dd401a995a8e",
+      "before": "So we ought to support such people, so that we may become fellow workers for the truth.",
+      "after": "So we ought to support such people, so that we may become fellow workers for the truth.",
+      "tsw_comparator": "Therefore we ought to support such people, so that we may become fellow workers for the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:9",
+      "delta": "F3",
+      "rationale": "Keeps the prior writing reference, named person's ambition and us without inventing the letter's contents.",
+      "source_reference": "3John 1:9",
+      "source_verse_sha256": "eb3b4744fcc444657078d529d2e620a8d30eacf8cba65482b1242ad2b71ba84c",
+      "before": "I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "after": "I wrote something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "tsw_comparator": "I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:10",
+      "delta": "F3",
+      "rationale": "Retains the conditional visit and each escalating exclusionary act.",
+      "source_reference": "3John 1:10",
+      "source_verse_sha256": "03bacb645e6fb955386612dfcc79fe9adc8555c0097d6bf8a214aaacda76f2fb",
+      "before": "So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers and sisters, and also stops people who want to and puts them out of the church.",
+      "after": "So if I come, I will call attention to what he is doing: talking malicious nonsense about us. Not content with that, he himself refuses to welcome the brothers and sisters, stops those who want to, and throws them out of the church.",
+      "tsw_comparator": "So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:11",
+      "delta": "F2",
+      "rationale": "Preserves the ethical contrast and the strong final claim.",
+      "source_reference": "3John 1:11",
+      "source_verse_sha256": "2c06f3eee267566b5a539ec592290799d472aeccfb243ee82118ead5ef6f2df2",
+      "before": "Beloved, do not imitate what is evil but what is good. Whoever does good is from God; whoever does evil has not seen God.",
+      "after": "Beloved, do not imitate what is evil, but what is good. Whoever does good is of God; whoever does evil has not seen God.",
+      "tsw_comparator": "Beloved, do not imitate what is evil but what is good. Whoever does good is from God; whoever does evil has not seen God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.958333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:12",
+      "delta": "F3",
+      "rationale": "Keeps all three witnesses and the singular recipient's knowledge.",
+      "source_reference": "3John 1:12",
+      "source_verse_sha256": "b993bf2cfb3f375c56db1ef3fe04690677d038a6e9be54c9a9343c6013c7c92b",
+      "before": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.",
+      "after": "Everyone has borne witness to Demetrius, and so has the truth itself. We also bear witness, and you know that our testimony is true.",
+      "tsw_comparator": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:13",
+      "delta": "F2",
+      "rationale": "Renders the writing reed as pen while retaining both materials.",
+      "source_reference": "3John 1:13",
+      "source_verse_sha256": "69c1bd20a54695e43a6ddbd19e036699ebd8cbd599baeee37062827c6f4c84a5",
+      "before": "I had much to write to you, but I do not wish to write to you with pen and ink.",
+      "after": "I had much to write to you, but I do not want to write it with ink and pen.",
+      "tsw_comparator": "I had much to write to you, but I do not wish to write to you with pen and ink.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:14",
+      "delta": "F2",
+      "rationale": "Keeps the hope and timing and renders mouth to mouth naturally.",
+      "source_reference": "3John 1:14",
+      "source_verse_sha256": "bcb43d562a0effcafa5813aab2b8e2ac71d0050e96eb533226f38549f3126702",
+      "before": "I hope to see you soon, and we will speak face to face.",
+      "after": "Instead, I hope to see you soon, and we will speak face to face.",
+      "tsw_comparator": "I hope to see you soon, and we will speak face to face.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "3John 1:15",
+      "delta": "F3",
+      "rationale": "Preserves the source's separate final verse, mutual greetings and individual by-name instruction.",
+      "source_reference": "3John 1:15",
+      "source_verse_sha256": "3289774141711eed0d9a6a5c5247b52b3613e8e8146e5bebc8580952d93dcd94",
+      "before": "Peace be to you. The friends greet you. Greet the friends, each by name.",
+      "after": "Peace to you. The friends greet you. Greet the friends by name.",
+      "tsw_comparator": "Peace be to you. The friends greet you. Greet the friends, each by name.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "summary": {
+    "verses_drafted": 15,
+    "verses_with_changed_text": 14,
+    "delta_counts": {
+      "F2": 8,
+      "F3": 6,
+      "F0": 1
+    }
+  }
+}

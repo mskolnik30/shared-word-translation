@@ -1,0 +1,77 @@
+{
+  "parent_commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+  "parent_library_version": 95,
+  "book": "3John",
+  "slug": "3john",
+  "chapters": [
+    1
+  ],
+  "scope": "3 John 1",
+  "expected_verses": 15,
+  "source_filename": "3john-pinned-greek.txt",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/3John.txt",
+    "git_blob_sha": "023c167c50535f735e9b15d564f1bd83e10b7d6d",
+    "sha256": "db0bfc024dfbafa4bf0c978d6f53186c35e6eb771058672ff4f1c31708db6c16",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/3John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "3John",
+    "book_verse_count": 15,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "book_record_files": [
+    "3_JOHN_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "source_omissions": {},
+  "heading_overrides": {},
+  "next_scope": "Jude 1; Revelation 1–22",
+  "completed_block_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1",
+  "f3": [
+    "1:2",
+    "1:7",
+    "1:9",
+    "1:10",
+    "1:12",
+    "1:15"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "02",
+          "The sentence expresses a prayer or wish for Gaius’ welfare."
+        ],
+        [
+          "07",
+          "“The Name” is not expanded with a personal name in the Greek."
+        ],
+        [
+          "14–15",
+          "The pinned source numbers the final greeting as verse 15; some English editions include it in verse 14."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "06",
+          "προπέμπω (propempō)",
+          "Send on a journey, including practical assistance for travel."
+        ],
+        [
+          "09",
+          "φιλοπρωτεύω (philoprōteuō)",
+          "Love to be first or seek preeminence."
+        ]
+      ]
+    }
+  }
+}

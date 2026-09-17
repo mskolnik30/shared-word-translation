@@ -1,0 +1,110 @@
+{
+  "scope": "2 John 1",
+  "verses": 13,
+  "summary": {
+    "before": {
+      "identical": 1,
+      "near_identical_nonidentical": 2,
+      "mean_word_similarity": 0.810088
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 5,
+      "mean_word_similarity": 0.83971
+    }
+  },
+  "rows": [
+    {
+      "reference": "2John 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.84
+    },
+    {
+      "reference": "2John 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "2John 1:3",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2John 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.697674,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "2John 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.847458,
+      "after_similarity": 0.915254
+    },
+    {
+      "reference": "2John 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.877193
+    },
+    {
+      "reference": "2John 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.847458,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "2John 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "2John 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.931034
+    },
+    {
+      "reference": "2John 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "2John 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.166667,
+      "after_similarity": 0.272727
+    },
+    {
+      "reference": "2John 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.821918
+    },
+    {
+      "reference": "2John 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

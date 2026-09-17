@@ -4,132 +4,75 @@ testament: NT
 chapter: 5
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16
 ---
+
 
 ## Trust that Overcomes the World
 
 <p>
-v01: Everyone who trusts that Jesus is the Christ has been born of God, and everyone who loves the one who gives birth also loves the one who has been born from him.
-v02: By this we know that we love the children of God: when we love God and carry out his commandments.
-v03: For this is the love of God: that we keep his commandments. And his commandments are not burdensome,
-v04: because everyone who has been born of God overcomes the world. And this is the victory that has overcome the world: our trust.
-v05: Who is the one who overcomes the world except the one who trusts that Jesus is the Son of God?
+v01: Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the father loves the child born of him too.
+v02: This is how we know that we love God's children: we love God and carry out his commands.
+v03: For this is the love of God: that we keep his commands. And his commands are not burdensome,
+v04: because everything born of God overcomes the world. And this is the victory that has overcome the world: our faith.
+v05: Who overcomes the world but the one who believes that Jesus is the Son of God?
 </p>
 
 ## The Testimony Concerning the Son
 
 <p>
-v06: This is the one who came through water and blood, Jesus Christ—not by the water only, but by the water and by the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
-v07: For there are three that testify:
-v08: the Spirit, the water, and the blood, and the three agree as one.
-v09: If we receive human testimony, God's testimony is greater, because this is God's testimony: he has testified concerning his Son.
-v10: The one who trusts in the Son of God has the testimony within. The one who does not trust God has made him a liar, because they have not trusted the testimony God has given concerning his Son.
+v06: This is the one who came through water and blood: Jesus Christ. He came not by water alone, but by water and blood. And the Spirit bears witness, because the Spirit is the truth.
+v07: For there are three who bear witness:
+v08: the Spirit, the water and the blood, and the three agree.
+v09: If we accept human testimony, God's testimony is greater. This is God's testimony: he has testified about his Son.
+v10: Whoever believes in the Son of God has the testimony within. Whoever does not believe God has made him a liar, because they have not believed the testimony God has given about his Son.
 v11: And this is the testimony: God gave us eternal life, and this life is in his Son.
-v12: The one who has the Son has life; the one who does not have the Son of God does not have life.
+v12: Whoever has the Son has life; whoever does not have the Son of God does not have life.
 </p>
 
 ## Confidence in Eternal Life
 
 <p>
-v13: I have written these things to you who trust in the name of the Son of God so that you may know that you have eternal life.
-v14: And this is the confidence we have before him: if we ask anything according to his will, he hears us.
-v15: And if we know that he hears us in whatever we ask, we know that we have the requests we have asked from him.
+v13: I have written these things to you who believe in the name of the Son of God so that you may know you have eternal life.
+v14: This is the confidence we have before him: if we ask anything according to his will, he hears us.
+v15: And if we know that he hears us in whatever we ask, we know that we have the requests we have asked of him.
 </p>
 
 ## Sin and Prayer
 
 <p>
-v16: If anyone sees a brother or sister committing a sin not leading to death, they should ask, and God will give life to that person—to those whose sin is not leading to death. There is sin leading to death; I am not saying that one should ask concerning that.
-v17: All unrighteousness is sin, and there is sin not leading to death.
+v16: If anyone sees a brother or sister committing a sin that does not lead to death, they should ask, and he will give that person life—to those whose sin does not lead to death. There is sin that leads to death; I am not saying they should pray about that.
+v17: All unrighteousness is sin, and there is sin that does not lead to death.
 </p>
 
 ## Knowing the True God
 
 <p>
-v18: We know that everyone who has been born of God does not sin, but the one who was born of God keeps them, and the evil one does not touch them.
-v19: We know that we are from God, and the whole world lies in the power of the evil one.
-v20: We know that the Son of God has come and has given us understanding so that we may know the True One. And we are in the True One, in his Son Jesus Christ. This one is the true God and eternal life.
+v18: We know that everyone who has been born of God does not sin. But the one who was born of God keeps that person safe, and the evil one does not touch them.
+v19: We know that we are of God, and the whole world lies in the power of the evil one.
+v20: We know that the Son of God has come and has given us understanding so that we may know the true one. And we are in the true one, in his Son Jesus Christ. This is the true God and eternal life.
 v21: Little children, guard yourselves from idols.
 </p>
 
 ## Notes
 
-v01–05: Birth from God, love, obedience, trust, and overcoming are woven together rather than presented as separate tests that can be detached from one another.
+v06: Water and blood are not defined here. Readings connect them with Jesus’ baptism and death, sacramental imagery or the affirmation of his embodied life and death.
 
-v04: `pistis` is rendered “trust,” continuing the project's preference for relational reliance where context supports it. The noun is explicitly called the victory that has overcome the world.
+v07–08: The pinned Greek has the Spirit, water and blood as the three witnesses. It does not contain the expanded heavenly witnesses known as the Comma Johanneum.
 
-v06: “Water and blood” are left uninterpreted in the main text. Major proposals include Jesus' baptism and death, sacramental associations, or a controversy over the significance of Jesus' embodied death.
+v16: “Sin that leads to death” is not specified. The subject of “will give” is implicit; the Greek can connect the giving with the one petitioned or with the one making the request.
 
-v07–08: The later expanded Trinitarian wording known as the *Comma Johanneum* is absent from SBLGNT and the earliest/strongest Greek witnesses and is therefore not included in the main text.
+v18: The pinned text has “keeps him,” not “keeps himself.” The protecting “one born of God” can be understood as the Son; the wording is retained without replacing it with a name.
 
-v08: The Greek literally says the three are “into the one,” expressing convergent testimony without defining a metaphysical relation among the witnesses.
-
-v09–10: “Testimony” and “testify” are deliberately repetitive and should not be stylistically varied away.
-
-v11–12: Eternal life is located “in the Son,” making life relational and present as well as future.
-
-v13: The stated purpose is assurance: the recipients may know that they have eternal life.
-
-v14–15: Confidence in prayer is explicitly bounded by God's will. The verses should not be paraphrased as a guarantee of receiving any desired outcome.
-
-v16: “Sin leading to death” is not defined by the letter. Fluent preserves the distinction without supplying a catalog of sins.
-
-v16: The subject of “will give life” is grammatically implicit. Fluent supplies “God” for intelligible English because God is the giver of life throughout the context, while the note records the compression.
-
-v18: The verse distinguishes “everyone who has been born of God” from “the one who was born of God.” This likely points to the Son as the keeper, though the phrase and manuscript tradition have generated alternative readings, including “keeps himself.” Fluent follows the SBLGNT text and keeps the distinction visible.
-
-v19: “Lies in the power of the evil one” makes the Greek relationship intelligible without suggesting ultimate sovereignty belongs to the evil one.
-
-v20: The antecedent of “This one” is disputed. It may most naturally refer to Jesus Christ immediately preceding, or it may point back to “the True One.” Fluent preserves the pronoun rather than replacing it with an interpretive noun.
-
-v21: The abrupt final command concerning idols remains abrupt.
+v20: “This” may refer to Jesus Christ or point back to the true one. The pronoun is not replaced with an interpretive noun.
 
 ## Vocabulary
 
-v01: πιστεύω (pisteuō)
-“To trust, believe.”
+v01: **γεννάω (gennaō)**: Beget or give birth. The verse uses masculine language for the one who begets.
 
-v01: γεννάω (gennaō)
-“To give birth, beget, cause to be born.”
+v04: **πίστις (pistis)**: Faith or trust.
 
-v03: βαρύς (barys)
-“Burdensome, heavy.”
-
-v04: νικάω (nikaō)
-“To overcome, conquer.”
-
-v04: πίστις (pistis)
-“Trust, faith, faithfulness.”
-
-v06: μαρτυρέω (martyreō)
-“To testify, bear witness.”
-
-v11: ζωὴ αἰώνιος (zōē aiōnios)
-“Eternal life, life of the age.”
-
-v14: παρρησία (parrēsia)
-“Confidence, openness.”
-
-v16: ἁμαρτία πρὸς θάνατον (hamartia pros thanaton)
-“Sin leading to death,” literally “sin toward death.”
-
-v17: ἀδικία (adikia)
-“Unrighteousness, wrongdoing.”
-
-v18: τηρέω (tēreō)
-“To keep, guard, preserve.”
-
-v18: πονηρός (ponēros)
-“Evil one” or “evil,” contextually personal here.
-
-v20: διάνοια (dianoia)
-“Understanding, mind, perception.”
-
-v20: ἀληθινός (alēthinos)
-“True, genuine.”
-
-v21: φυλάσσω (phylassō)
-“To guard, keep.”
-
-v21: εἴδωλον (eidōlon)
-“Idol, image.”
+v16: **πρὸς θάνατον**: Literally “toward death,” rendered leading to death.

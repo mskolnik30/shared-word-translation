@@ -1,0 +1,299 @@
+{
+  "scope": "2 Peter 2–3",
+  "verses": 40,
+  "summary": {
+    "before": {
+      "identical": 36,
+      "near_identical_nonidentical": 4,
+      "mean_word_similarity": 0.994487
+    },
+    "after": {
+      "identical": 0,
+      "near_identical_nonidentical": 6,
+      "mean_word_similarity": 0.715771
+    }
+  },
+  "rows": [
+    {
+      "reference": "2Peter 2:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.732394
+    },
+    {
+      "reference": "2Peter 2:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "2Peter 2:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "2Peter 2:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "2Peter 2:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.915254
+    },
+    {
+      "reference": "2Peter 2:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "2Peter 2:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "2Peter 2:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "2Peter 2:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "2Peter 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.961538,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "2Peter 2:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "2Peter 2:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.590164
+    },
+    {
+      "reference": "2Peter 2:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "2Peter 2:14",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.565217
+    },
+    {
+      "reference": "2Peter 2:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "2Peter 2:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "2Peter 2:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "2Peter 2:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.431373
+    },
+    {
+      "reference": "2Peter 2:19",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "2Peter 2:20",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.619718
+    },
+    {
+      "reference": "2Peter 2:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "2Peter 2:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "2Peter 3:1",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "2Peter 3:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.893617
+    },
+    {
+      "reference": "2Peter 3:3",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.594595
+    },
+    {
+      "reference": "2Peter 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "2Peter 3:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "2Peter 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "2Peter 3:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "2Peter 3:8",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "2Peter 3:9",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "2Peter 3:10",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.936709
+    },
+    {
+      "reference": "2Peter 3:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "2Peter 3:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.724138
+    },
+    {
+      "reference": "2Peter 3:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "2Peter 3:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "2Peter 3:15",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "2Peter 3:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.605263
+    },
+    {
+      "reference": "2Peter 3:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.530612
+    },
+    {
+      "reference": "2Peter 3:18",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.925926
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

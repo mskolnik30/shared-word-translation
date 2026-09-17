@@ -1,48 +1,127 @@
 {
-  "book": "1 John",
+  "book": "1John",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_sha": "0c9308225c722583e90009c08d0ca1eb7f58e28e",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/1john/1John_04_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1John.txt",
-    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+    "git_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb",
+    "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1John",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/1john/1John_04.md",
+    "before_sha256": "ce33599f09210c8748c44ca83d55ff354f764af738dec5df81ee2d9db3b5b008",
+    "after_sha256": "80075ba46bc3fb301aeb0401b8a0e419b7a2e2623d7f32ca6b79a744ee39f516",
+    "tsw_comparator_path": "books/NT/1john/1John_04.md",
+    "tsw_comparator_sha256": "26a4e990a38dbf204e3302e171214661a6cadc957747d798841d112a31e03536"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
   "key_decisions": [
     {
-      "location": "4:2-3",
-      "delta": "F3_TEXT",
-      "decision": "Critical-text confession retained; later expansion noted."
-    },
-    {
-      "location": "4:9",
-      "delta": "F2/F3",
-      "decision": "monogenēs → one and only, not only begotten."
-    },
-    {
-      "location": "4:10",
+      "reference": "1John 4:2",
       "delta": "F3",
-      "decision": "hilasmos → atoning sacrifice; consistent with 2:2."
+      "rationale": "Keeps the embodied confession and the sentence's contrast with verse 3.",
+      "source_reference": "1John 4:2",
+      "source_verse_sha256": "237f73d6b9c2aff7353121e4b05e06996e53149d091330614d0e532dff35a6b0",
+      "before": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God,",
+      "after": "This is how you recognize the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is of God,",
+      "tsw_comparator": "By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851064,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "4:13",
-      "delta": "F2",
-      "decision": "given from his Spirit preserves source preposition."
+      "reference": "1John 4:3",
+      "delta": "F3",
+      "rationale": "Follows the shorter pinned reading without repeating in the flesh; retains already and the antichrist reference.",
+      "source_reference": "1John 4:3",
+      "source_verse_sha256": "83a8d2b8a659c67b0dc2916e531a2dc128987b6255362f4fe92637114399408b",
+      "before": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard is coming and now is already in the world.",
+      "after": "and every spirit that does not confess Jesus is not of God. This is the spirit of the antichrist, which you heard was coming and is already in the world.",
+      "tsw_comparator": "and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard is coming, and now is already in the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918033,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "4:17",
-      "delta": "F3_OPEN",
-      "decision": "As he is, so are we left unexplained."
+      "reference": "1John 4:9",
+      "delta": "F3",
+      "rationale": "Renders monogenēs as only with its unique-son range noted and preserves the purpose clause.",
+      "source_reference": "1John 4:9",
+      "source_verse_sha256": "c31e96464709cda2b6af26dee48bf9098e8cb482dad8aa9b8c11f6e96198484c",
+      "before": "By this God's love was revealed among us: God sent his one and only Son into the world so that we might live through him.",
+      "after": "This is how God's love was revealed among us: God sent his only Son into the world so that we might live through him.",
+      "tsw_comparator": "By this the love of God was revealed among us: God sent the only Son into the world so that we might live through him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.816327,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "4:18",
-      "delta": "F2",
-      "decision": "Fear explicitly tied to punishment; no universalized fear claim."
+      "reference": "1John 4:10",
+      "delta": "F3",
+      "rationale": "Keeps the reversal of initiative and uses the same atonement term as 2:2.",
+      "source_reference": "1John 4:10",
+      "source_verse_sha256": "a1b9d4b96232ffa20507ddc78c5c7cd3e74ab5c0d398476e27c6107053e87ce1",
+      "before": "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.",
+      "after": "Love is in this: not that we loved God, but that he loved us and sent his Son as the atoning sacrifice for our sins.",
+      "tsw_comparator": "In this is love: not that we loved God, but that God loved us and sent the Son as an atoning sacrifice for our sins.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 4:18",
+      "delta": "F3",
+      "rationale": "Preserves the passage's love, fear and punishment argument without recasting it as a general psychological claim.",
+      "source_reference": "1John 4:18",
+      "source_verse_sha256": "e09403deab623241fd7ff453eccfdeaa1d9d12fb0647fb0c85e806bc1050d3f6",
+      "before": "There is no fear in love, but complete love drives out fear, because fear involves punishment. The one who fears has not been brought to completion in love.",
+      "after": "There is no fear in love. Complete love drives out fear, because fear involves punishment. Whoever fears has not reached fullness in love.",
+      "tsw_comparator": "There is no fear in love, but perfect love casts out fear, because fear carries punishment, and the one who fears has not been perfected in love.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 4:19",
+      "delta": "F3",
+      "rationale": "Follows the pinned text without adding him as the object of our love.",
+      "source_reference": "1John 4:19",
+      "source_verse_sha256": "78227948bdd03acaac037ee9c14dab3208f6177e64d9b3cf69dcc4a0b4408a40",
+      "before": "We love because he first loved us.",
+      "after": "We love because he first loved us.",
+      "tsw_comparator": "We love because God first loved us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated entries and over-specific claims normalized for Fluent while textual and syntactic uncertainty is retained."
+  ]
 }

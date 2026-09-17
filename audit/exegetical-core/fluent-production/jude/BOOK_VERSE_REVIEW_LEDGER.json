@@ -28,7 +28,10 @@
       "source_sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02",
       "translation_sha256": "4c6369003753ea1e34a2134365901451bba415b966c2fd8ae1fd3b58c7cf74bb",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -49,7 +52,10 @@
       "source_sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d",
       "translation_sha256": "0b7ae57db2fb17b59a13544f7ce09ca24896ea6e41f00c05d5e63a1a11253614",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -70,7 +76,10 @@
       "source_sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce",
       "translation_sha256": "a2a3485f40a8bfb18df3b7354cccfa7ef1895785ec7578fdaf5db8f23075f42a",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -91,7 +100,10 @@
       "source_sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec",
       "translation_sha256": "204fa14318decb3e7047551cbcf2a21b8cd259a06f6818ea4f1ef4ecd72fc7e3",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -114,7 +126,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Retain the pinned SBLGNT reading naming Jesus as the one who saved a people from Egypt."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -137,7 +152,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -160,7 +178,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -183,7 +204,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -206,7 +230,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -227,7 +254,10 @@
       "source_sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792",
       "translation_sha256": "29ec2fb33683def3f7900c65fb79312f747bf0908319ecb2cf7b03325f27bd63",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -248,7 +278,10 @@
       "source_sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd",
       "translation_sha256": "d5fb90d40b9d5725a28d0d24d13bdf17c556ce1e36ce72cd98ba488a3232404e",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -269,7 +302,10 @@
       "source_sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b",
       "translation_sha256": "d8f18845eaf69083ae6208eb16ca95409a575c7bf979ca29e61ccb6aa63df35a",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -290,7 +326,10 @@
       "source_sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f",
       "translation_sha256": "fa3926c0df1617a147fde1e651ecf9f7452ad49cd8d4bb94dc58e653c25ac090",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -313,7 +352,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Identify the Enochic citation in notes without treating translation as a canon ruling."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -336,7 +378,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Identify the Enochic citation in notes without treating translation as a canon ruling."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -357,7 +402,10 @@
       "source_sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0",
       "translation_sha256": "fb2ed2b7d5fe92e1811e3cbde5b5ddee1e1333f20f8f4e8b6447d108e99e9d93",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -378,7 +426,10 @@
       "source_sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6",
       "translation_sha256": "3972387fc7204bcf3a086db8900c597a46240b43eb032871b59804c530e0785e",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -399,7 +450,10 @@
       "source_sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639",
       "translation_sha256": "c7492b74d87c790588cb488bcef0ba12bce3476b6bc7fbe07fe8c329d2690de5",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -420,7 +474,10 @@
       "source_sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd",
       "translation_sha256": "0ce3a26fb5dcd5f02537757831ec5b9b1f05adc12a8ed76af3c38d7e54559d1d",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -441,7 +498,10 @@
       "source_sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a",
       "translation_sha256": "02809c3ab21ed0bf204b669d5b2594cd319a269a660d4da33132350bbb697bc5",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -462,7 +522,10 @@
       "source_sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc",
       "translation_sha256": "6e8616d27ce1d32d92f670b1dbc2d1078b2ecd4a8625fb2428b5cb884f650032",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -485,7 +548,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve the textual and pastoral tension among mercy, rescue, and fear."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -508,7 +574,10 @@
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
       "curated_decisions": [
         "Preserve the textual and pastoral tension among mercy, rescue, and fear."
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -529,7 +598,10 @@
       "source_sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0",
       "translation_sha256": "d438cf1c31cb5c55ab2ff5062c958e88d7482e5088f3da3dffb1e96945452b59",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -550,7 +622,10 @@
       "source_sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab",
       "translation_sha256": "9640b9a1d9f13304b40f9525400122609c997a4c809fd0f54def646f0a1ea51e",
       "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     }
   ],
   "summary": {
@@ -560,5 +635,45 @@
     "F3": 9
   },
   "public_verse_slots": 25,
-  "included_source_bindings": 25
+  "included_source_bindings": 25,
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 25,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+      "path": "audit/exegetical-core/fluent-production/jude/BOOK_VERSE_REVIEW_LEDGER.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 25,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+        "path": "audit/exegetical-core/fluent-production/jude/BOOK_VERSE_REVIEW_LEDGER.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ],
+  "historical_summary_note": "Original classifications and English hashes remain historical; affected entries are explicitly superseded."
 }

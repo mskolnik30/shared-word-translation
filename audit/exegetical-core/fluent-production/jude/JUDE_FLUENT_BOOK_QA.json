@@ -1,7 +1,7 @@
 {
   "book": "Jude",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 1,
   "public_verse_slots": 25,
   "included_verse_labels": 25,
@@ -55,5 +55,43 @@
         "blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 25,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+      "path": "audit/exegetical-core/fluent-production/jude/JUDE_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 25,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+        "path": "audit/exegetical-core/fluent-production/jude/JUDE_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

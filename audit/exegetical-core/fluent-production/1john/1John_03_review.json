@@ -1,43 +1,140 @@
 {
-  "book": "1 John",
+  "book": "1John",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_sha": "c266d6d98cde5073bdc9fe7c345e6075fb5baa2c",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/1john/1John_03_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1John.txt",
-    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+    "git_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb",
+    "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1John",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 24,
+    "path": "translations/fluent/NT/1john/1John_03.md",
+    "before_sha256": "dce3d5ef5814fb58a3bda6a8025ee42e0f0b64bc884d66e295630b10646146b5",
+    "after_sha256": "8649094970d0ab046dd6ede0b5ee0f65eb482b66b7aaf7dfa1f28750a1dc365f",
+    "tsw_comparator_path": "books/NT/1john/1John_03.md",
+    "tsw_comparator_sha256": "1e8a8b48bda5aec53bd600df94980e1efd60f6b4105a40f3fbbfcf710eab0da6"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
   "key_decisions": [
     {
-      "location": "3:2",
-      "delta": "F3_OPEN",
-      "decision": "Future likeness retained without defining extent/mechanism."
-    },
-    {
-      "location": "3:6-9",
+      "reference": "1John 3:2",
       "delta": "F3",
-      "decision": "Strong present-tense sin statements retained; no smoothing into systematic explanation."
+      "rationale": "Keeps present identity and future uncertainty; the note preserves the alternative when it is revealed.",
+      "source_reference": "1John 3:2",
+      "source_verse_sha256": "fe3a5acdba7843464f85acc629067a3ed20391ed21065a94df50b5145eb0931b",
+      "before": "Beloved, we are God's children now, and what we will be has not yet been revealed. We know that when he is revealed, we will be like him, because we will see him as he is.",
+      "after": "Beloved, we are God's children now, and what we will be has not yet been revealed. We know that when he is revealed, we will be like him, because we will see him as he is.",
+      "tsw_comparator": "Beloved, we are God’s children now, and what we will be has not yet been revealed. We know that when he is revealed, we will be like him, because we will see him as he is.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "3:9",
-      "delta": "F3_OPEN",
-      "decision": "God's seed metaphor left unidentified."
-    },
-    {
-      "location": "3:19-20",
+      "reference": "1John 3:6",
       "delta": "F3",
-      "decision": "Compressed syntax retained with reassurance/condemnation relation; punctuation dispute noted."
+      "rationale": "Preserves the categorical statements and their tension with 1:8–2:2 rather than silently softening them.",
+      "source_reference": "1John 3:6",
+      "source_verse_sha256": "69f967fb2e73bf3b9bd787563d14591edfe9874ad56ad686cf5ac01d43eb59b4",
+      "before": "Everyone who remains in him does not sin; everyone who sins has neither seen him nor known him.",
+      "after": "No one who remains in him sins. No one who sins has seen him or known him.",
+      "tsw_comparator": "Everyone who remains in him does not sin; everyone who sins has neither seen him nor known him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "3:23",
-      "delta": "F1/F2",
-      "decision": "Singular commandment joins trust in Jesus and love one another."
+      "reference": "1John 3:9",
+      "delta": "F3",
+      "rationale": "Retains the absolute wording and unexplained seed metaphor instead of adding a habitual-sin qualification.",
+      "source_reference": "1John 3:9",
+      "source_verse_sha256": "95e108fb8401b4c77a6726669c020e9edc8b449f1ec9a9608fab4db5310805fa",
+      "before": "Everyone who has been born of God does not practice sin, because God's seed remains in them; and they are not able to sin, because they have been born of God.",
+      "after": "No one born of God commits sin, because God's seed remains in them. They cannot sin, because they have been born of God.",
+      "tsw_comparator": "Everyone who has been born of God does not practice sin, because God’s seed remains in them; and they are not able to sin, because they have been born of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.703704,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 3:12",
+      "delta": "F3",
+      "rationale": "Retains the violent verb, male sibling and explicit question and answer.",
+      "source_reference": "1John 3:12",
+      "source_verse_sha256": "f27a1e39295d09478785c079e5b5e4de0c3da160ab30ed0b4eb2ffeb9bee607f",
+      "before": "We should not be like Cain, who was of the evil one and killed his brother. And why did he kill him? Because his own deeds were evil, while his brother's were righteous.",
+      "after": "We must not be like Cain, who was of the evil one and slaughtered his brother. And why did he slaughter him? Because his own deeds were evil and his brother's were righteous.",
+      "tsw_comparator": "We should not be like Cain, who was of the evil one and killed his brother. And why did he kill him? Because his own deeds were evil, but his brother’s were righteous.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878788,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 3:17",
+      "delta": "F3",
+      "rationale": "Renders the bodily compassion idiom naturally while retaining the rhetorical question and open love-of-God phrase.",
+      "source_reference": "1John 3:17",
+      "source_verse_sha256": "9554c2e169cf95ff33f33a4b0262fe0143fc1c6eb10928808566de2851f10610",
+      "before": "But if anyone has the world's goods and sees a brother or sister in need and closes their heart against them, how can the love of God remain in that person?",
+      "after": "If someone has this world's goods, sees a brother or sister in need and shuts off compassion for them, how can the love of God remain in that person?",
+      "tsw_comparator": "But whoever has the goods of the world and sees a brother or sister in need and closes their heart against them, how can the love of God remain in that person?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.688525,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 3:19",
+      "delta": "F3",
+      "rationale": "Keeps the prospective knowing and heart language, carrying the reason into the next verse.",
+      "source_reference": "1John 3:19",
+      "source_verse_sha256": "752b345a48bc0162299052c6888f88b73ce904400bb09cafc0b0f8116ebeed30",
+      "before": "By this we will know that we are of the truth and will reassure our hearts before him,",
+      "after": "This is how we will know that we are of the truth and reassure our hearts before him:",
+      "tsw_comparator": "By this we will know that we are of the truth, and we will reassure our hearts before him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1John 3:20",
+      "delta": "F3",
+      "rationale": "Retains the greater-than and all-knowing claims without spelling out a theological resolution of condemnation.",
+      "source_reference": "1John 3:20",
+      "source_verse_sha256": "388d87f9296e9c742561a5b31869dd679b70f471f46fdbea5c9b26b37382a8b7",
+      "before": "whenever our heart condemns us, because God is greater than our heart and knows all things.",
+      "after": "whenever our hearts condemn us, God is greater than our hearts and knows everything.",
+      "tsw_comparator": "whenever our heart condemns us, because God is greater than our heart and knows all things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated entries and over-specific claims normalized for Fluent while textual and syntactic uncertainty is retained."
+  ]
 }

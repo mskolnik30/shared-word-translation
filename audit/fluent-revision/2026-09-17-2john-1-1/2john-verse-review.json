@@ -1,0 +1,221 @@
+{
+  "schema_version": 3,
+  "revision_id": "fluent-2026-09-17-2john-1-1-biblical-fluency-2026-09-16",
+  "base_commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+  "scope": "2 John 1",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2John.txt",
+    "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12",
+    "sha256": "b2daf832c6f88d67ae0bdf2ecfbbb42309e330dc161f5b127c8939d5cb448bc7",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2John",
+    "book_verse_count": 13,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1
+    ]
+  },
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "method": "Every pinned Greek verse read before authoring. All verses drafted before reading prior Fluent. TSW is a post-authoring comparator, not a wording template. Each authored verse has its own rationale. F0–F3 choices are provisional; no independent review or change quota.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 13,
+      "path": "translations/fluent/NT/2john/2John_01.md",
+      "before_sha256": "e0d1037acce06a40ed1bdb84403481e366aea3bccc560bc17bf2d9d2ff8514d9",
+      "after_sha256": "3a23b8ec8bb5f561dd61fa54f5677bac7bdb2fd342a90ffc090fc45d09680d8e",
+      "tsw_comparator_path": "books/NT/2john/2John_01.md",
+      "tsw_comparator_sha256": "4adaaba0572f1094622276e8aceb491223b6ae03afc018edbdd892d7154c8ee2"
+    }
+  ],
+  "verses": [
+    {
+      "reference": "2John 1:1",
+      "delta": "F3",
+      "rationale": "Preserves the personal address and the possibility of a church personified as a lady.",
+      "source_reference": "2John 1:1",
+      "source_verse_sha256": "1f1f20864cd87f6e7dbc64c45600f178f73c79fcb027f2fd6d4b6fda1825ab75",
+      "before": "The elder, to the chosen lady and her children, whom I love in truth—and not I alone, but also everyone who knows the truth—",
+      "after": "The elder, to the chosen lady and her children, whom I love in truth—and not I alone, but also everyone who knows the truth—",
+      "tsw_comparator": "The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:2",
+      "delta": "F0",
+      "rationale": "Keeps the reason and continuing presence of truth.",
+      "source_reference": "2John 1:2",
+      "source_verse_sha256": "a90902ade5f1e195c1ff37f28a5528d7330d7f6c233bb9360b60e27bae95c8f1",
+      "before": "because of the truth that remains in us and will be with us forever.",
+      "after": "because of the truth that remains in us and will be with us forever.",
+      "tsw_comparator": "because of the truth that abides in us and will be with us forever:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.928571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:3",
+      "delta": "F2",
+      "rationale": "Follows the future assurance and us reading without adding Lord.",
+      "source_reference": "2John 1:3",
+      "source_verse_sha256": "7ed11f517cd61422e880d3b9225a612f8a6856f88478a2c89b99e746bb9958ab",
+      "before": "Grace, mercy, and peace will be with us from God the Father and from Jesus Christ, the Father’s Son, in truth and love.",
+      "after": "Grace, mercy and peace will be with us from God the Father and from Jesus Christ, the Father's Son, in truth and love.",
+      "tsw_comparator": "Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ the Father’s Son, in truth and love.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:4",
+      "delta": "F2",
+      "rationale": "Keeps the partitive some and walking image without implying all the others are unfaithful.",
+      "source_reference": "2John 1:4",
+      "source_verse_sha256": "8adec43bb04e71116bf39ed7b2135d013bfaf649675fd927438a7dd3b3937881",
+      "before": "I rejoiced greatly because I found some of your children walking in truth, just as we received a command from the Father.",
+      "after": "I rejoiced greatly to find some of your children walking in truth, just as we received a command from the Father.",
+      "tsw_comparator": "I rejoiced greatly to find some of your children walking in the truth, just as we were commanded by the Father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:5",
+      "delta": "F2",
+      "rationale": "Preserves the address, old command and reciprocal love.",
+      "source_reference": "2John 1:5",
+      "source_verse_sha256": "de6a57ddd9ecdd16fc743b5300b48f6c69a61381bad8365cad5bc900048e6227",
+      "before": "And now I ask you, lady—not as though writing a new command to you, but one we have had from the beginning—that we love one another.",
+      "after": "And now I ask you, lady—not as though writing you a new command, but the one we have had from the beginning—that we love one another.",
+      "tsw_comparator": "And now I ask you, dear lady—not as though I were writing you a new commandment, but the one we have had from the beginning—that we love one another.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.915254,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:6",
+      "delta": "F2",
+      "rationale": "Keeps command/commands and the repeated walk, leaving it tied to the preceding love and command.",
+      "source_reference": "2John 1:6",
+      "source_verse_sha256": "7e68179d42f7226b42920324adf067c95729e169613d6bcefbdf69684105f665",
+      "before": "And this is love: that we walk according to his commands. This is the command, just as you heard from the beginning, that you should walk in it.",
+      "after": "And this is love: that we walk according to his commands. This is the command, just as you heard from the beginning: that you walk in it.",
+      "tsw_comparator": "And this is love, that we walk according to his commandments. This is the commandment, just as you have heard from the beginning, so that you should walk in it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.877193,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:7",
+      "delta": "F3",
+      "rationale": "Retains the present coming participle rather than silently changing it to a past tense and preserves embodied confession.",
+      "source_reference": "2John 1:7",
+      "source_verse_sha256": "2869b27083fcc51c827d685e9eda1025e29a3eb1a60bdddf83a9712292ba98f9",
+      "before": "For many deceivers have gone out into the world, people who do not confess Jesus Christ coming in flesh. Such a person is the deceiver and the antichrist.",
+      "after": "For many deceivers have gone out into the world, those who do not confess Jesus Christ coming in the flesh. Such a person is the deceiver and the antichrist.",
+      "tsw_comparator": "For many deceivers have gone out into the world, those who do not confess the coming of Jesus Christ in the flesh. Such a one is the deceiver and the antichrist.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:8",
+      "delta": "F3",
+      "rationale": "Follows the pinned you/we/you shifts without harmonizing them.",
+      "source_reference": "2John 1:8",
+      "source_verse_sha256": "4656acda274059f03c1a2eeb442fe799d988797902e5f144c6acf6f4831d46c9",
+      "before": "Watch yourselves so that you do not lose what we have worked for but may receive a full reward.",
+      "after": "Watch yourselves, so that you do not lose what we have worked for, but receive a full reward.",
+      "tsw_comparator": "Watch yourselves, so that you may not lose what we have worked for, but may receive a full reward.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918919,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:9",
+      "delta": "F3",
+      "rationale": "Keeps goes ahead and leaves teaching of Christ open to teaching from or about him.",
+      "source_reference": "2John 1:9",
+      "source_verse_sha256": "246b637da29c3ee8449a9a6a6ecaaf3a3a04eb9f8351bd9fb8c76cb052a54d0d",
+      "before": "Everyone who goes beyond and does not remain in the teaching of Christ does not have God. The one who remains in the teaching has both the Father and the Son.",
+      "after": "Everyone who goes ahead and does not remain in the teaching of Christ does not have God. Whoever remains in the teaching has both the Father and the Son.",
+      "tsw_comparator": "Everyone who goes ahead and does not abide in the teaching of Christ does not have God. Whoever abides in the teaching has both the Father and the Son.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.931034,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:10",
+      "delta": "F3",
+      "rationale": "Preserves the concrete hospitality and greeting restrictions in their teaching context.",
+      "source_reference": "2John 1:10",
+      "source_verse_sha256": "dc4edbda9d8e1d579269be9078bb1f21803c79a0252c83c134c66692c13c3005",
+      "before": "If anyone comes to you and does not bring this teaching, do not receive that person into your house or give them a greeting,",
+      "after": "If anyone comes to you and does not bring this teaching, do not receive that person into your house or offer a greeting,",
+      "tsw_comparator": "If anyone comes to you and does not bring this teaching, do not receive him into your house or give him any greeting,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:11",
+      "delta": "F3",
+      "rationale": "Keeps the stated participation rationale and the force of evil.",
+      "source_reference": "2John 1:11",
+      "source_verse_sha256": "d71755bf9f3de20c8f710cac4dc130f16588f8cd5c0f194569e67d4a86f60467",
+      "before": "because the one who gives such a greeting shares in that person’s evil works.",
+      "after": "because whoever offers that person a greeting shares in their evil works.",
+      "tsw_comparator": "for whoever greets him takes part in his wicked works.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.272727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:12",
+      "delta": "F3",
+      "rationale": "Renders mouth to mouth naturally and follows the pinned your joy reading.",
+      "source_reference": "2John 1:12",
+      "source_verse_sha256": "255e664ea9b95898682b64bddd26a582e6be2db84211322314a88328f4f33bdc",
+      "before": "Although I have many things to write to you, I do not want to do so with paper and ink. Instead, I hope to come to you and speak face to face, so that our joy may be made complete.",
+      "after": "I have much to write to you, but I do not want to do it with paper and ink. Instead, I hope to come to you and speak face to face, so that your joy may be complete.",
+      "tsw_comparator": "Though I have much to write to you, I would rather not use paper and ink. Instead I hope to come to you and speak face to face, so that our joy may be complete.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.821918,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2John 1:13",
+      "delta": "F3",
+      "rationale": "Preserves the sister/children address and ends without an added Amen.",
+      "source_reference": "2John 1:13",
+      "source_verse_sha256": "a712ddeb00176e6a67c881ccb469a128251bef5cfbfb9bbbbd9e2b7cb2113d44",
+      "before": "The children of your chosen sister greet you.",
+      "after": "The children of your chosen sister greet you.",
+      "tsw_comparator": "The children of your elect sister greet you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "summary": {
+    "verses_drafted": 13,
+    "verses_with_changed_text": 10,
+    "delta_counts": {
+      "F3": 8,
+      "F0": 1,
+      "F2": 4
+    }
+  }
+}

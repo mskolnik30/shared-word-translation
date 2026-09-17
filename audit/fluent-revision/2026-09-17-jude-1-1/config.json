@@ -1,0 +1,219 @@
+{
+  "parent_commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+  "parent_library_version": 95,
+  "book": "Jude",
+  "slug": "jude",
+  "chapters": [
+    1
+  ],
+  "scope": "Jude 1",
+  "expected_verses": 25,
+  "source_filename": "jude-pinned-greek.txt",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jude.txt",
+    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da",
+    "sha256": "9d80e8332848395a7af425ebf30edd21c9c43f0f446489f648b65c652630b734",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jude.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Jude",
+    "book_verse_count": 25,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "book_record_files": [
+    "JUDE_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "source_omissions": {},
+  "heading_overrides": {},
+  "next_scope": "Revelation 1–22",
+  "completed_block_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1",
+  "f3": [
+    "1:1",
+    "1:4",
+    "1:5",
+    "1:6",
+    "1:7",
+    "1:8",
+    "1:9",
+    "1:11",
+    "1:12",
+    "1:13",
+    "1:14",
+    "1:15",
+    "1:19",
+    "1:22",
+    "1:23",
+    "1:25"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "01",
+          "“Kept for Jesus Christ” may also be read “kept by Jesus Christ.”"
+        ],
+        [
+          "05",
+          "The pinned text reads “Jesus”; other witnesses have “Lord” or “God.” The position of “once for all” also varies."
+        ],
+        [
+          "07",
+          "The Greek says “other flesh.” The reference of “in the same way as these” is debated and may connect the cities with the angels of verse 6."
+        ],
+        [
+          "12",
+          "The word rendered “hidden reefs” has also been understood as “blemishes.”"
+        ],
+        [
+          "14–15",
+          "The saying attributed to Enoch corresponds to 1 Enoch 1:9. The Greek here uses “came.”"
+        ],
+        [
+          "22–23",
+          "Manuscripts vary in the wording and division of these instructions. The pinned text distinguishes mercy for doubters, rescue from fire, and mercy with fear."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "04",
+          "ἀσέλγεια (aselgeia)",
+          "Unrestrained or shameless conduct, often sexual; rendered sexual recklessness here."
+        ],
+        [
+          "14",
+          "μυριάς (myrias)",
+          "A group of ten thousand; in the plural, myriads or vast multitudes."
+        ],
+        [
+          "19",
+          "ψυχικός (psychikos)",
+          "Pertaining to natural life, contrasted here with having the Spirit."
+        ]
+      ]
+    }
+  },
+  "batch_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1",
+  "batch_chapters": 10,
+  "batch_verses": 198,
+  "batch_source_records": 198,
+  "batch_reader_filename": "Fluent-2Peter-2-Jude-1.md",
+  "batch_ledgers": [
+    "audit/fluent-revision/2026-09-17-2peter-2-3/2peter-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2john-1-1/2john-verse-review.json",
+    "audit/fluent-revision/2026-09-17-3john-1-1/3john-verse-review.json",
+    "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json"
+  ],
+  "active_block_ranges": [
+    {
+      "slug": "2peter",
+      "start": 2,
+      "end": 3
+    },
+    {
+      "slug": "1john",
+      "start": 1,
+      "end": 5
+    },
+    {
+      "slug": "2john",
+      "start": 1,
+      "end": 1
+    },
+    {
+      "slug": "3john",
+      "start": 1,
+      "end": 1
+    },
+    {
+      "slug": "jude",
+      "start": 1,
+      "end": 1
+    }
+  ],
+  "new_source_files": [
+    "1john-pinned-greek.txt",
+    "2john-pinned-greek.txt",
+    "3john-pinned-greek.txt",
+    "jude-pinned-greek.txt"
+  ],
+  "additional_source_bindings": {
+    "1john": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/1John.txt",
+      "git_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb",
+      "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1John.txt",
+      "format": "tab_separated",
+      "osis_book_id": "1John",
+      "book_verse_count": 105,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "1john-pinned-greek.txt"
+    },
+    "2john": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/2John.txt",
+      "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12",
+      "sha256": "b2daf832c6f88d67ae0bdf2ecfbbb42309e330dc161f5b127c8939d5cb448bc7",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2John.txt",
+      "format": "tab_separated",
+      "osis_book_id": "2John",
+      "book_verse_count": 13,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "2john-pinned-greek.txt"
+    },
+    "3john": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/3John.txt",
+      "git_blob_sha": "023c167c50535f735e9b15d564f1bd83e10b7d6d",
+      "sha256": "db0bfc024dfbafa4bf0c978d6f53186c35e6eb771058672ff4f1c31708db6c16",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/3John.txt",
+      "format": "tab_separated",
+      "osis_book_id": "3John",
+      "book_verse_count": 15,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "3john-pinned-greek.txt"
+    },
+    "jude": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Jude.txt",
+      "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da",
+      "sha256": "9d80e8332848395a7af425ebf30edd21c9c43f0f446489f648b65c652630b734",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jude.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Jude",
+      "book_verse_count": 25,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "jude-pinned-greek.txt"
+    }
+  }
+}

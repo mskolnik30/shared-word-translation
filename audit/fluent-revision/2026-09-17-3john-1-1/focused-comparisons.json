@@ -1,0 +1,91 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "review_type": "Drafting-assistant bilingual self-reread; not human or independent scholarly review",
+  "authoring_record_sha256": "e8b5469ddf84f50d9b67d1556cf63a5bfc532fe40cfa042fbc84128ac2a14104",
+  "rows": [
+    {
+      "reference": "3John 1:2",
+      "delta": "F3",
+      "rationale": "Preserves a personal prayer or wish rather than turning it into a promise of health or prosperity.",
+      "source_reference": "3John 1:2",
+      "source_verse_sha256": "3f92a8ff86ee7ab9bcc96d6580ab916aac288de6456896a83b2927dec7fd9aa5",
+      "before": "Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.",
+      "after": "Beloved, I pray that all may go well with you and that you may be in good health, just as all goes well with your soul.",
+      "tsw_comparator": "Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.961538,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή. "
+    },
+    {
+      "reference": "3John 1:7",
+      "delta": "F3",
+      "rationale": "Retains the unnamed Name and the source's Gentiles distinction without adding an explanation in the text.",
+      "source_reference": "3John 1:7",
+      "source_verse_sha256": "0fcb32cd9b8e1d833072e27b37e229b3d78f3e535909cdab34c94f1581954677",
+      "before": "For they have gone out for the sake of the Name, accepting nothing from the Gentiles.",
+      "after": "because they went out for the sake of the Name, accepting nothing from the Gentiles.",
+      "tsw_comparator": "For they have gone out for the sake of the Name, accepting nothing from the Gentiles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ⸀ἐθνικῶν. "
+    },
+    {
+      "reference": "3John 1:9",
+      "delta": "F3",
+      "rationale": "Keeps the prior writing reference, named person's ambition and us without inventing the letter's contents.",
+      "source_reference": "3John 1:9",
+      "source_verse_sha256": "eb3b4744fcc444657078d529d2e620a8d30eacf8cba65482b1242ad2b71ba84c",
+      "before": "I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "after": "I wrote something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "tsw_comparator": "I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Ἔγραψά ⸀τι τῇ ἐκκλησίᾳ· ἀλλʼ ὁ φιλοπρωτεύων αὐτῶν Διοτρέφης οὐκ ἐπιδέχεται ἡμᾶς. "
+    },
+    {
+      "reference": "3John 1:10",
+      "delta": "F3",
+      "rationale": "Retains the conditional visit and each escalating exclusionary act.",
+      "source_reference": "3John 1:10",
+      "source_verse_sha256": "03bacb645e6fb955386612dfcc79fe9adc8555c0097d6bf8a214aaacda76f2fb",
+      "before": "So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers and sisters, and also stops people who want to and puts them out of the church.",
+      "after": "So if I come, I will call attention to what he is doing: talking malicious nonsense about us. Not content with that, he himself refuses to welcome the brothers and sisters, stops those who want to, and throws them out of the church.",
+      "tsw_comparator": "So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ, λόγοις πονηροῖς φλυαρῶν ἡμᾶς, καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει. "
+    },
+    {
+      "reference": "3John 1:12",
+      "delta": "F3",
+      "rationale": "Keeps all three witnesses and the singular recipient's knowledge.",
+      "source_reference": "3John 1:12",
+      "source_verse_sha256": "b993bf2cfb3f375c56db1ef3fe04690677d038a6e9be54c9a9343c6013c7c92b",
+      "before": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.",
+      "after": "Everyone has borne witness to Demetrius, and so has the truth itself. We also bear witness, and you know that our testimony is true.",
+      "tsw_comparator": "Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας· καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ ⸀οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν. "
+    },
+    {
+      "reference": "3John 1:15",
+      "delta": "F3",
+      "rationale": "Preserves the source's separate final verse, mutual greetings and individual by-name instruction.",
+      "source_reference": "3John 1:15",
+      "source_verse_sha256": "3289774141711eed0d9a6a5c5247b52b3613e8e8146e5bebc8580952d93dcd94",
+      "before": "Peace be to you. The friends greet you. Greet the friends, each by name.",
+      "after": "Peace to you. The friends greet you. Greet the friends by name.",
+      "tsw_comparator": "Peace be to you. The friends greet you. Greet the friends, each by name.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Εἰρήνη σοι. ἀσπάζονταί σε οἱ φίλοι. ἀσπάζου τοὺς φίλους κατʼ ὄνομα. "
+    }
+  ]
+}

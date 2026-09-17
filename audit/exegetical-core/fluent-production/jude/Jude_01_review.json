@@ -2,431 +2,252 @@
   "book": "Jude",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-jude-1-1-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/jude/Jude_01_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Jude.txt",
-    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "1:5",
-      "decision": "Retain the pinned SBLGNT reading naming Jesus as the one who saved a people from Egypt.",
-      "disposition": "APPROVE_QA"
-    },
-    {
-      "location": "1:6-9",
-      "decision": "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit.",
-      "disposition": "APPROVE_QA"
-    },
-    {
-      "location": "1:14-15",
-      "decision": "Identify the Enochic citation in notes without treating translation as a canon ruling.",
-      "disposition": "APPROVE_QA"
-    },
-    {
-      "location": "1:22-23",
-      "decision": "Preserve the textual and pastoral tension among mercy, rescue, and fear.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Jude.txt",
     "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Jude 1:1",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 1,
-            "source_ref": "Jude 1:1",
-            "segment_mode": "whole",
-            "sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02"
-      },
-      "2": {
-        "source_ref": "Jude 1:2",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 2,
-            "source_ref": "Jude 1:2",
-            "segment_mode": "whole",
-            "sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d"
-      },
-      "3": {
-        "source_ref": "Jude 1:3",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 3,
-            "source_ref": "Jude 1:3",
-            "segment_mode": "whole",
-            "sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce"
-      },
-      "4": {
-        "source_ref": "Jude 1:4",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 4,
-            "source_ref": "Jude 1:4",
-            "segment_mode": "whole",
-            "sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec"
-      },
-      "5": {
-        "source_ref": "Jude 1:5",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 5,
-            "source_ref": "Jude 1:5",
-            "segment_mode": "whole",
-            "sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77"
-      },
-      "6": {
-        "source_ref": "Jude 1:6",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 6,
-            "source_ref": "Jude 1:6",
-            "segment_mode": "whole",
-            "sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85"
-      },
-      "7": {
-        "source_ref": "Jude 1:7",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 7,
-            "source_ref": "Jude 1:7",
-            "segment_mode": "whole",
-            "sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01"
-      },
-      "8": {
-        "source_ref": "Jude 1:8",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 8,
-            "source_ref": "Jude 1:8",
-            "segment_mode": "whole",
-            "sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93"
-      },
-      "9": {
-        "source_ref": "Jude 1:9",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 9,
-            "source_ref": "Jude 1:9",
-            "segment_mode": "whole",
-            "sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a"
-      },
-      "10": {
-        "source_ref": "Jude 1:10",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 10,
-            "source_ref": "Jude 1:10",
-            "segment_mode": "whole",
-            "sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792"
-      },
-      "11": {
-        "source_ref": "Jude 1:11",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 11,
-            "source_ref": "Jude 1:11",
-            "segment_mode": "whole",
-            "sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd"
-      },
-      "12": {
-        "source_ref": "Jude 1:12",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 12,
-            "source_ref": "Jude 1:12",
-            "segment_mode": "whole",
-            "sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b"
-      },
-      "13": {
-        "source_ref": "Jude 1:13",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 13,
-            "source_ref": "Jude 1:13",
-            "segment_mode": "whole",
-            "sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f"
-      },
-      "14": {
-        "source_ref": "Jude 1:14",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 14,
-            "source_ref": "Jude 1:14",
-            "segment_mode": "whole",
-            "sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00"
-      },
-      "15": {
-        "source_ref": "Jude 1:15",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 15,
-            "source_ref": "Jude 1:15",
-            "segment_mode": "whole",
-            "sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d"
-      },
-      "16": {
-        "source_ref": "Jude 1:16",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 16,
-            "source_ref": "Jude 1:16",
-            "segment_mode": "whole",
-            "sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0"
-      },
-      "17": {
-        "source_ref": "Jude 1:17",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 17,
-            "source_ref": "Jude 1:17",
-            "segment_mode": "whole",
-            "sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6"
-      },
-      "18": {
-        "source_ref": "Jude 1:18",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 18,
-            "source_ref": "Jude 1:18",
-            "segment_mode": "whole",
-            "sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639"
-      },
-      "19": {
-        "source_ref": "Jude 1:19",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 19,
-            "source_ref": "Jude 1:19",
-            "segment_mode": "whole",
-            "sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd"
-      },
-      "20": {
-        "source_ref": "Jude 1:20",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 20,
-            "source_ref": "Jude 1:20",
-            "segment_mode": "whole",
-            "sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a"
-      },
-      "21": {
-        "source_ref": "Jude 1:21",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 21,
-            "source_ref": "Jude 1:21",
-            "segment_mode": "whole",
-            "sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc"
-      },
-      "22": {
-        "source_ref": "Jude 1:22",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 22,
-            "source_ref": "Jude 1:22",
-            "segment_mode": "whole",
-            "sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0"
-      },
-      "23": {
-        "source_ref": "Jude 1:23",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 23,
-            "source_ref": "Jude 1:23",
-            "segment_mode": "whole",
-            "sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5"
-      },
-      "24": {
-        "source_ref": "Jude 1:24",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 24,
-            "source_ref": "Jude 1:24",
-            "segment_mode": "whole",
-            "sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0"
-      },
-      "25": {
-        "source_ref": "Jude 1:25",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 25,
-            "source_ref": "Jude 1:25",
-            "segment_mode": "whole",
-            "sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab"
-      }
+    "sha256": "9d80e8332848395a7af425ebf30edd21c9c43f0f446489f648b65c652630b734",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Jude.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Jude",
+    "book_verse_count": 25,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/jude/Jude_01.md",
+    "before_sha256": "1e14c30afcb59062d1463f642255f01cdc756ea6e459ffddbe9a1367bec4b2d5",
+    "after_sha256": "f2227ed35708a4c94ca3fbdf3029a63f5f9a0ef7da334840b7bcd7dcca748ab7",
+    "tsw_comparator_path": "books/NT/jude/Jude_01.md",
+    "tsw_comparator_sha256": "2745fd2ca120c8728820f90c8b11779f0a00a85a9f5d20385fdb607054af7a5a"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Jude 1:1",
+      "delta": "F3",
+      "rationale": "Keeps slave language and the named brother; the note preserves kept by as an alternative to kept for.",
+      "source_reference": "Jude 1:1",
+      "source_verse_sha256": "211072ed14ec4c391f6c111bb869a464048ed915507ea0819e78807b3cf74473",
+      "before": "Jude, a servant of Jesus Christ and brother of James, to people who are called, beloved in God the Father and kept for Jesus Christ:",
+      "after": "Jude, a slave of Jesus Christ and brother of James, to those who are called, beloved in God the Father and kept for Jesus Christ:",
+      "tsw_comparator": "Jude, a servant of Jesus Christ and brother of James, to those who are called, beloved in God the Father and kept for Jesus Christ:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:4",
+      "delta": "F3",
+      "rationale": "Keeps the covert entry and judgment claim; the note explains the broader shameless-excess range of recklessness.",
+      "source_reference": "Jude 1:4",
+      "source_verse_sha256": "5a2642ae374c2af32c946b9d37afec4f543e3679269263677108b43ec24fc807",
+      "before": "For certain people have slipped in unnoticed, those long beforehand marked out for this judgment, ungodly persons who turn the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ.",
+      "after": "For certain people have slipped in unnoticed, people long ago marked out for this judgment: ungodly people who turn our God's grace into sexual recklessness and deny our only Master and Lord, Jesus Christ.",
+      "tsw_comparator": "For certain people have slipped in unnoticed, those long beforehand marked out for this judgment, ungodly persons who turn the grace of our God into sensuality and deny our only Master and Lord, Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:5",
+      "delta": "F3",
+      "rationale": "Follows the consequential pinned Jesus reading and preserves both deliverance and destruction.",
+      "source_reference": "Jude 1:5",
+      "source_verse_sha256": "8c24db2a89fd869b0609c491d5edba1b2c6546d1e851ced27fd5659195843eed",
+      "before": "Now I want to remind you, although you once knew everything, that Jesus, having saved a people out of the land of Egypt, afterward destroyed people who did not believe.",
+      "after": "I want to remind you, though you have learned all this once for all, that Jesus saved a people out of Egypt and afterward destroyed those who did not believe.",
+      "tsw_comparator": "Now I want to remind you, although you once knew all things, that Jesus, having saved a people out of the land of Egypt, afterward destroyed those who did not believe.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.721311,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:6",
+      "delta": "F3",
+      "rationale": "Retains the keep/kept contrast, abandoned dwelling and eternal chains without adding identities.",
+      "source_reference": "Jude 1:6",
+      "source_verse_sha256": "65adc4ba1a2ff27cd8d82fda64a2f4e37ddc8bf1e0cb251415e07b3cc4aeb990",
+      "before": "And the angels who did not keep their own domain but left their proper dwelling, he has kept in eternal chains under darkness for the judgment of the great day,",
+      "after": "And the angels who did not keep their own position of authority but abandoned their proper dwelling, he has kept in eternal chains under darkness for the judgment of the great day.",
+      "tsw_comparator": "And the angels who did not keep their own domain but left their proper dwelling, he has kept in eternal chains under darkness for the judgment of the great day,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:7",
+      "delta": "F3",
+      "rationale": "Preserves other flesh and the comparison's uncertain referent rather than assigning modern categories.",
+      "source_reference": "Jude 1:7",
+      "source_verse_sha256": "e9cf734b59e8c778b00f9290eab5304e9326fd776626ee63ff9551e7f2a794e4",
+      "before": "just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire.",
+      "after": "Likewise, Sodom and Gomorrah and the surrounding cities, which in the same way as these indulged in sexual immorality and pursued other flesh, stand as an example, undergoing the punishment of eternal fire.",
+      "tsw_comparator": "just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.698413,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:8",
+      "delta": "F3",
+      "rationale": "Keeps the three acts and the unspecified lordship and glorious beings.",
+      "source_reference": "Jude 1:8",
+      "source_verse_sha256": "1143b76f9daed35be8868c69610220f8f88fbe52253234f84a7fe6f0f7312783",
+      "before": "Yet in the same way these people also, relying on their dreams, defile the flesh, reject authority, and slander glorious ones.",
+      "after": "Yet in the same way these dreamers defile the flesh, reject lordship and revile glorious beings.",
+      "tsw_comparator": "Yet in the same way these people also, relying on their dreams, defile the flesh, reject authority, and slander glorious ones.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:9",
+      "delta": "F3",
+      "rationale": "Retains the named dispute and restraint without importing the larger traditional story.",
+      "source_reference": "Jude 1:9",
+      "source_verse_sha256": "0095492a60916c7ca552c3530f97fa7429967c5ccbd0d01656d4c817e21eab30",
+      "before": "But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a reviling judgment, but said, “The Lord rebuke you.”",
+      "after": "But when Michael the archangel disputed with the devil about Moses' body, he did not dare bring a reviling judgment against him, but said, “May the Lord rebuke you!”",
+      "tsw_comparator": "But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a reviling judgment, but said, “The Lord rebuke you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:11",
+      "delta": "F3",
+      "rationale": "Keeps all three named examples and the source's forceful completed-action rhetoric.",
+      "source_reference": "Jude 1:11",
+      "source_verse_sha256": "065a57f0059bdeed70f0e634b482e6e629f57504f6dabc57083d0cea72b78a8b",
+      "before": "Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam’s error and perished in Korah’s rebellion.",
+      "after": "Woe to them! They have gone the way of Cain, rushed into Balaam's error for pay and perished in Korah's rebellion.",
+      "tsw_comparator": "Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam’s error and perished in Korah’s rebellion.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:12",
+      "delta": "F3",
+      "rationale": "Preserves the sequence of images and twice dead; the note records the alternative blemishes for reefs.",
+      "source_reference": "Jude 1:12",
+      "source_verse_sha256": "3ae1a6b07d13a0bcaa353e5edf6b7334ac76b42d7424e8bc92901705acc1341b",
+      "before": "These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, carried along by winds; fruitless trees in late autumn, twice dead, uprooted;",
+      "after": "These people are hidden reefs at your love feasts, feasting with you without fear, shepherding themselves. They are clouds without water, swept along by winds; late-autumn trees without fruit, twice dead, uprooted;",
+      "tsw_comparator": "These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, carried along by winds; fruitless trees in late autumn, twice dead, uprooted;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.676923,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:13",
+      "delta": "F3",
+      "rationale": "Keeps the sea and sky images, shame and lasting judgment.",
+      "source_reference": "Jude 1:13",
+      "source_verse_sha256": "87834e165c642aca87c0dd0d5a5a151168f784bb6cfb674f89cb7ec80f418d9e",
+      "before": "wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.",
+      "after": "wild waves of the sea, foaming up their own shame; wandering stars for whom the deepest darkness has been reserved forever.",
+      "tsw_comparator": "wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:14",
+      "delta": "F3",
+      "rationale": "Retains the genealogical ordinal, named prophetic attribution and quotation's past-tense came.",
+      "source_reference": "Jude 1:14",
+      "source_verse_sha256": "16324f21244b0406c047016dd32a6e3ebd698d9de9008a25625b560891716215",
+      "before": "It was also about these that Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord comes with ten thousands of his holy ones,",
+      "after": "Enoch, the seventh from Adam, also prophesied about these people: “Look, the Lord came with myriads of his holy ones,",
+      "tsw_comparator": "It was also about these that Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord comes with ten thousands of his holy ones,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.590909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:15",
+      "delta": "F3",
+      "rationale": "Preserves the deliberate fourfold ungodly repetition and the scope of judgment.",
+      "source_reference": "Jude 1:15",
+      "source_verse_sha256": "b21a732cc3cf63240cdc438b538e1ed0f646cc03815f64c513f550a7790e195a",
+      "before": "to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.”",
+      "after": "to bring judgment against everyone and convict all the ungodly of all their ungodly deeds they have done in ungodliness, and of all the harsh things ungodly sinners have spoken against him.”",
+      "tsw_comparator": "to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.732394,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:19",
+      "delta": "F3",
+      "rationale": "Renders psychikoi with its natural-life sense and preserves the explicit absence of the Spirit.",
+      "source_reference": "Jude 1:19",
+      "source_verse_sha256": "7eb94d600a9fa61a590ab2df7d94ea6bc415ae9bbc02e826cce06d267c99d424",
+      "before": "It is these who cause divisions, worldly people, devoid of the Spirit.",
+      "after": "These are the people who cause divisions, governed by natural life, without the Spirit.",
+      "tsw_comparator": "It is these who cause divisions, worldly people, devoid of the Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:22",
+      "delta": "F3",
+      "rationale": "Follows the pinned mercy-to-doubters reading and retains its distinct group.",
+      "source_reference": "Jude 1:22",
+      "source_verse_sha256": "63e78753954e79a026ddf0df4b8b20e90147680365ea1e476e167b16d46d8428",
+      "before": "And have mercy on people who doubt;",
+      "after": "Have mercy on those who doubt;",
+      "tsw_comparator": "And have mercy on those who doubt;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:23",
+      "delta": "F3",
+      "rationale": "Preserves the three-part sequence across verses, rescue image and strong garment/flesh language.",
+      "source_reference": "Jude 1:23",
+      "source_verse_sha256": "9d9d47795f8ad5a4548c4996a3f9ce3715fe9d4eabad508b08d9fbe724c9a1fd",
+      "before": "save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh.",
+      "after": "save others by snatching them from the fire; and have mercy on others with fear, hating even the garment stained by the flesh.",
+      "tsw_comparator": "save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Jude 1:25",
+      "delta": "F3",
+      "rationale": "Follows the full pinned doxology including through Jesus Christ and before all time.",
+      "source_reference": "Jude 1:25",
+      "source_verse_sha256": "7e32b7a974b7dd51ee802abea7495e4807bb3109053f1d571863cf517aa01657",
+      "before": "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+      "after": "to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, power and authority, before all time, now and for all ages. Amen.",
+      "tsw_comparator": "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/jude/Jude_01.md",
-    "blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "book": "3 John",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 1,
   "public_verse_slots": 15,
   "included_verse_labels": 15,
@@ -45,5 +45,43 @@
         "blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-3john-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 15,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-3john-1-1/3john-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+      "path": "audit/exegetical-core/fluent-production/3john/3_JOHN_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-3john-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 15,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-3john-1-1/3john-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+        "path": "audit/exegetical-core/fluent-production/3john/3_JOHN_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

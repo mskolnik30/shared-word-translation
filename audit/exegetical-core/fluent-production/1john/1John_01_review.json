@@ -1,48 +1,114 @@
 {
-  "book": "1 John",
+  "book": "1John",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "canonical_tsw_sha": "37328c52692c9619bf9b0311909279b4c218a3f4",
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1john-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "f12d5d5a2039ec1a086a1b80cc94c65874368a8a",
+    "path": "audit/exegetical-core/fluent-production/1john/1John_01_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1John.txt",
-    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+    "git_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb",
+    "sha256": "074201796600c23d79c0abd26621ed0046290d5f227f4aaea67ac425784094c5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1John",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 10,
+    "path": "translations/fluent/NT/1john/1John_01.md",
+    "before_sha256": "9e239594f3b93d776a1ef9281f5d8f0154fd2035f7770d7b1a55d080e6194722",
+    "after_sha256": "7cb08b78fee86c6b191b7958562784900228c9f4d10f4829db43e5765bc73120",
+    "tsw_comparator_path": "books/NT/1john/1John_01.md",
+    "tsw_comparator_sha256": "944cac786482c7c4f47b56aa84a43d804f23ade3f03d17136369897e253060a1"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
   "key_decisions": [
     {
-      "location": "1:1-3",
-      "delta": "F1/F2",
-      "decision": "Preserve delayed subject and sensory witness structure while naturalizing punctuation."
+      "reference": "1John 1:1",
+      "delta": "F3",
+      "rationale": "Preserves the repeated what and bodily testimony without prematurely resolving the word's referent.",
+      "source_reference": "1John 1:1",
+      "source_verse_sha256": "7b6c9208535b0b039aa642d7a2d25f22a2b274eecce0528a84df5ab34062d5b5",
+      "before": "What was from the beginning, what we have heard, what we have seen with our eyes, what we looked at and our hands touched, concerning the word of life—",
+      "after": "What was from the beginning, what we have heard, what we have seen with our own eyes, what we looked upon and our hands touched, concerning the word of life—",
+      "tsw_comparator": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "1:3",
-      "delta": "F1",
-      "decision": "Retain koinōnia as fellowship/participation."
+      "reference": "1John 1:2",
+      "delta": "F3",
+      "rationale": "Keeps revealed repeated and the movement from with the Father to the witnesses.",
+      "source_reference": "1John 1:2",
+      "source_verse_sha256": "c6542ef08203985ee3999b9c40948f86dc112b7cbea92c18b6a6c3dc6f1360ea",
+      "before": "the life was revealed, and we have seen it and testify to it and proclaim to you the eternal life that was with the Father and was revealed to us—",
+      "after": "the life was revealed, and we have seen it and bear witness and announce to you the eternal life that was with the Father and was revealed to us—",
+      "tsw_comparator": "the life was made manifest, and we have seen it and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754098,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "1:4",
-      "delta": "F3_TEXT",
-      "decision": "SBLGNT our joy retained; your joy variant noted."
+      "reference": "1John 1:3",
+      "delta": "F3",
+      "rationale": "Retains the purpose of testimony and both dimensions of fellowship.",
+      "source_reference": "1John 1:3",
+      "source_verse_sha256": "59ab03d866170c4cfcadae61cf1ef1e9fce5cf0a39e35944b7c9d3e5ffdb636f",
+      "before": "what we have seen and heard we also proclaim to you, so that you too may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
+      "after": "what we have seen and heard we announce to you too, so that you may share in fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
+      "tsw_comparator": "that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "1:5",
-      "delta": "F0",
-      "decision": "God is light retained without explanatory paraphrase."
+      "reference": "1John 1:4",
+      "delta": "F3",
+      "rationale": "Follows the pinned our rather than your joy reading.",
+      "source_reference": "1John 1:4",
+      "source_verse_sha256": "fd051b6a362e08c84aa952434602fe8281acca1e6584f825e95b2204dc430b01",
+      "before": "We are writing these things so that our joy may be complete.",
+      "after": "We write these things so that our joy may be complete.",
+      "tsw_comparator": "And we are writing these things so that our joy may be complete.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "1:7",
-      "delta": "F1/F2",
-      "decision": "Preserve walk/light/fellowship/cleansing network."
-    },
-    {
-      "location": "1:8-10",
-      "delta": "F2",
-      "decision": "Preserve distinctions among having sin, confessing sins, and claiming not to have sinned."
+      "reference": "1John 1:9",
+      "delta": "F3",
+      "rationale": "Preserves faithful/righteous and forgiveness/cleansing pairs with recurring righteousness vocabulary.",
+      "source_reference": "1John 1:9",
+      "source_verse_sha256": "3fc545c0d67e9f7811fa2d924b462c9042b18f8140936b32da1ee5b0fddf395f",
+      "before": "If we confess our sins, he is faithful and just to forgive our sins and cleanse us from all unrighteousness.",
+      "after": "If we confess our sins, he is faithful and righteous to forgive our sins and cleanse us from all unrighteousness.",
+      "tsw_comparator": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "apparatus": "Canonical TSW apparatus used as comparator; duplicated entries and over-specific claims normalized for Fluent while textual and syntactic uncertainty is retained."
+  ]
 }
