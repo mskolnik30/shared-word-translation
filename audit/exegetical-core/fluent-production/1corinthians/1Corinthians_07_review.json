@@ -50,7 +50,7 @@
     "verse_count": 40,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_07.md",
     "before_sha256": "dcdfe5b5cea28c86c8b0918746e14c557197a83f84b8c05b5f1350499de39064",
-    "after_sha256": "9690ddb1b1f8e865137bcf8a38e2f5e5473454d9cd208c73c62b1edc0e6effe3",
+    "after_sha256": "9999980f42271758894c993f79d716cb858ff5296bd479251e165d503cde3cef",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_07.md",
     "tsw_comparator_sha256": "9235e02491d908d103b05f78453ac56d08739ca3b4fd485c5bc9d716985dffb1"
   },
@@ -379,6 +379,14 @@
       "tsw_comparator": "But in my judgment she is happier if she remains as she is—and I think that I also have the Spirit of God.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "9690ddb1b1f8e865137bcf8a38e2f5e5473454d9cd208c73c62b1edc0e6effe3",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

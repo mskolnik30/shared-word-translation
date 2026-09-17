@@ -73,8 +73,6 @@ v24: Not that we rule over your faith; rather, we work with you for your joy, be
 
 ## Notes
 
-v08–10: Paul names crushing affliction, despair of life, and an inward death sentence; the passage does not deny trauma, but locates hope in the God who raises the dead.
-
 v22: The Spirit is called a down payment or first installment, a commercial image of a promised completion.
 
 v24: Paul explicitly denies ruling over the Corinthians' faith and describes the workers as coworkers for their joy.

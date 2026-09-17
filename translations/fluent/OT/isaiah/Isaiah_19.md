@@ -85,9 +85,6 @@ v21: The **LORD** will make himself known to Egypt, and the Egyptians will know 
 v22: The **LORD** will strike Egypt—striking and healing. They will return to the **LORD**, and he will answer their pleas and heal them.
 v23: On that day a highway will run from Egypt to Assyria. Assyrians will come to Egypt, and Egyptians to Assyria, and Egypt will worship with Assyria.
 v24: On that day Israel will be a third alongside Egypt and Assyria, a blessing in the midst of the earth,
-</p>
-
-<p>
 v25: whom the **LORD** of hosts blesses, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”
 </p>
 

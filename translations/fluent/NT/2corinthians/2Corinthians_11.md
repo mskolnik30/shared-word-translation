@@ -78,9 +78,6 @@ v23: Are they servants of Christ? I am speaking like a madman: I am far more—i
 v24: Five times I received from the Jews forty lashes minus one.
 v25: Three times I was beaten with rods, once I was stoned, three times I was shipwrecked; I spent a night and a day in the open sea.
 v26: I have often been on journeys, in danger from rivers, danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger among false brothers,
-</p>
-
-<p>
 v27: in toil and hardship, through many sleepless nights, in hunger and thirst, often without food, in cold and without enough clothing.
 v28: Besides everything else, there is the daily pressure on me: my concern for all the churches.
 </p>

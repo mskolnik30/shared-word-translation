@@ -56,7 +56,7 @@
       "verse_count": 25,
       "path": "translations/fluent/OT/jeremiah/Jeremiah_09.md",
       "before_sha256": "c73d9e6b92db52577566baa27529c253aa61330344f76a2a3902420be21af519",
-      "after_sha256": "6e31693da4540842bb268da4f71de117d2edf291f4dc7e5c8b8d5324e1c08b85",
+      "after_sha256": "f1fd83039bf5b12f0ee23be0c9b13493b9e4e4c1e342f933b774c1717e3a94da",
       "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_09.md",
       "tsw_comparator_sha256": "b1f605e49ac01884b039a16e9d47b290fe9cdb8238966439b46822eceb22172e"
     },
@@ -74,7 +74,7 @@
       "verse_count": 23,
       "path": "translations/fluent/OT/jeremiah/Jeremiah_11.md",
       "before_sha256": "dc8ca98f38e747e19f8e2ee2085beb844b870cfefe7e24afea7a53477533fd72",
-      "after_sha256": "24851632f11a5632d214e95524455732ed05f207f42033a92e6144005c447d1b",
+      "after_sha256": "6e91ddb171b23a9bab54c17c392ba0611e0b06c8bdbb54ec5a18a409e087beb3",
       "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_11.md",
       "tsw_comparator_sha256": "cc2f9d232442cb53a04c64d9653195bc90df4239d10a06f2c8fd15e011bd17ad"
     },
@@ -128,7 +128,7 @@
       "verse_count": 27,
       "path": "translations/fluent/OT/jeremiah/Jeremiah_17.md",
       "before_sha256": "a6a75d352f56284ae65f12cb15ebab431692b6fc17fcc6aef78a27b07d7eb692",
-      "after_sha256": "c3a4506d00bd81133832726d52ebc016eed44e7f9b74ee635d5f0b859785e0f2",
+      "after_sha256": "5193f587ab96446238ad93fe522f2ba38f5d63a20f9c08d4b14058318bcf6c66",
       "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_17.md",
       "tsw_comparator_sha256": "d53c40c794d21f6fb1cce38b6c3a54b14dab638b443df8137a5fadd1adf7cad5"
     },
@@ -146,7 +146,7 @@
       "verse_count": 15,
       "path": "translations/fluent/OT/jeremiah/Jeremiah_19.md",
       "before_sha256": "2cc860fca5e2228882b1f765e0279f7239ac7ba750160729ddfd606e5bca80ba",
-      "after_sha256": "ac253d64a0638a71a7f792a4e974cb96facc41c3eb014fd0fbdb6d7ec019f454",
+      "after_sha256": "98ab396f64ec68d633e43383037e01591fc0353b81d79b5f58154c610aa1ae48",
       "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_19.md",
       "tsw_comparator_sha256": "bb3ae9cdf595aab2a2bb331121356db35e14a276ba6052e547cf37749f972f2e"
     },
@@ -3907,5 +3907,12 @@
       "F3": 88,
       "F0": 1
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

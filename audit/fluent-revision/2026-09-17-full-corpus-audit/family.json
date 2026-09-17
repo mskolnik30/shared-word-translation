@@ -1,0 +1,59 @@
+{
+  "report": {
+    "schema_version": 1,
+    "status": "passed",
+    "registry": "translations/registry.json",
+    "translations": {
+      "tsw": {
+        "books": 66,
+        "chapters": 1189,
+        "public_verse_labels": 31087
+      },
+      "fluent": {
+        "books": 66,
+        "chapters": 1189,
+        "public_verse_labels": 31083
+      }
+    },
+    "parity": {
+      "fluent": {
+        "baseline": "tsw",
+        "missing_chapters": [],
+        "extra_chapters": [],
+        "documented_verse_label_exceptions": [
+          {
+            "chapter": "NT/acts/19",
+            "missing": [
+              "41"
+            ],
+            "additional": [],
+            "reason": "The pinned SBLGNT source places the assembly's dismissal within Acts 19:40 and has no separate public 19:41 record."
+          },
+          {
+            "chapter": "NT/romans/16",
+            "missing": [
+              "25",
+              "26",
+              "27"
+            ],
+            "additional": [
+              "24"
+            ],
+            "reason": "The pinned SBLGNT main text contains Romans 16:24 and ends there; the doxology numbered 25–27 belongs to a major textual tradition whose placement varies."
+          },
+          {
+            "chapter": "OT/nehemiah/7",
+            "missing": [
+              "68"
+            ],
+            "additional": [],
+            "reason": "Public Nehemiah 7:68 is absent from the pinned Masoretic Hebrew source; the source resumes with public verse 69."
+          }
+        ],
+        "verse_label_mismatches": []
+      }
+    },
+    "problems": []
+  },
+  "errors": []
+}

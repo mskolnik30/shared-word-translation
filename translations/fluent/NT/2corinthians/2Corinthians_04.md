@@ -63,7 +63,7 @@ v07: The clay-jar image holds human fragility together with power that belongs t
 
 v08–12: Affliction, persecution, striking down, and exposure to death are translated as real harms, not merely inward states.
 
-v17: Calling affliction ‘light’ is Paul's contrast with an immeasurable weight of glory; it should not be used to minimize another person's suffering.
+v17: ‘Light’ and ‘weight’ form a contrast; ‘momentary’ and ‘eternal’ form a second contrast.
 
 ## Vocabulary
 

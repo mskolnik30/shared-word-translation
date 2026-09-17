@@ -22,9 +22,6 @@ v02: “Hear the words of this covenant, and speak them to the people of Judah a
 
 <p>
 v03: Tell them: This is what the **LORD**, Israel’s God, says: Cursed is anyone who does not listen to the words of this covenant,
-</p>
-
-<p>
 v04: which I commanded your ancestors when I brought them out of Egypt, out of the iron furnace. I said, ‘Listen to my voice and do everything I command you. Then you will be my people, and I will be your God.’
 </p>
 

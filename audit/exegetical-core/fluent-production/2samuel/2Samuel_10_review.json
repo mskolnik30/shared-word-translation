@@ -51,7 +51,7 @@
     "verse_count": 19,
     "path": "translations/fluent/OT/2samuel/2Samuel_10.md",
     "before_sha256": "0efdbcc6aea4a97a518075113a4cc31890a5627890d5f2fc1d941947fb985e45",
-    "after_sha256": "18aefae2d14321a7908f864dc61855069a09007d6e6d4db31baf107f18ae11ec",
+    "after_sha256": "5853299d09d8b37fa5cc5135c53ca0a7671ba0c9896dbf93202a4d28e2ac6005",
     "tsw_comparator_path": "books/OT/2samuel/2Samuel_10.md",
     "tsw_comparator_sha256": "08f37c40134c0efc394ad47fa157e24f08460a31998906506e86acc13c2974ec"
   },
@@ -77,6 +77,14 @@
       "reference": "2 Samuel 10:18",
       "decision": "Retains pinned numbers and horsemen, not parallel totals.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "18aefae2d14321a7908f864dc61855069a09007d6e6d4db31baf107f18ae11ec",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

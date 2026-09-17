@@ -42,4 +42,6 @@ v12: so that the name of our Lord Jesus may be glorified in you, and you in him,
 
 v06–10: The letter voices retributive judgment in images of affliction, fire and lasting destruction; the violence is retained as the author’s claim.
 
+v12: The Greek can be read ‘our God and Lord Jesus Christ’ or ‘our God and the Lord Jesus Christ.’
+
 ## Vocabulary

@@ -36,7 +36,7 @@
       "verse_count": 30,
       "path": "translations/fluent/NT/philippians/Philippians_01.md",
       "before_sha256": "735944fd14141e0077b3a1569ec00f18ed1d9f13f57aef36ac2f43fecec13c5d",
-      "after_sha256": "0e2192718491e49abe91f4271417315cfe1a1df753674afaa6c0d3acef093394",
+      "after_sha256": "10229b78c7b0537fcc8c1282ee1256343469236b032ab60ed370f33845d3d33f",
       "tsw_comparator_path": "books/NT/philippians/Philippians_01.md",
       "tsw_comparator_sha256": "1321e45684f8f7a01174b1619159c19b415e45ed66184290ba886b6d70135e3c"
     },
@@ -1430,5 +1430,12 @@
       "F2": 22,
       "F0": 2
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

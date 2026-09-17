@@ -21,9 +21,6 @@ v02: Through it you are also being saved, if you hold firmly to the message I pr
 <p>
 v03: For I handed on to you as of first importance what I also received: that Christ died for our sins according to the Scriptures,
 v04: that he was buried, that he has been raised on the third day according to the Scriptures,
-</p>
-
-<p>
 v05: and that he appeared to Cephas, then to the Twelve.
 v06: Then he appeared to more than five hundred brothers and sisters at one time, most of whom remain alive until now, though some have fallen asleep in death.
 v07: Then he appeared to James, then to all the apostles.

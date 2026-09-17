@@ -50,7 +50,7 @@
     "verse_count": 13,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_08.md",
     "before_sha256": "105c3ecf5618756e89ac2f255130c93a5d58b0fc95d2737f20a2b845204767ff",
-    "after_sha256": "217d5ce1328da23c383eeb24af6ffe0df0a8f6c94726db454d24f20a223d225c",
+    "after_sha256": "27a9466aa846ec27d1d4754c531c348467dc9b336f4974276894f11c0ee1f6ef",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_08.md",
     "tsw_comparator_sha256": "2ee11e7197c9ccbd0e61ae4bc3067161bc895aa93bee4feccf7ada8674a5e816"
   },
@@ -145,6 +145,14 @@
       "tsw_comparator": "And thus, sinning against the brothers and wounding their weak conscience, you sin against Christ.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "217d5ce1328da23c383eeb24af6ffe0df0a8f6c94726db454d24f20a223d225c",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

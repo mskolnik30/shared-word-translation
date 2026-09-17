@@ -33,9 +33,6 @@ v06: Perhaps I will stay with you or even spend the winter, so that you may send
 <p>
 v07: For I do not want to see you now only in passing. I hope to remain with you for some time, if the Lord permits.
 v08: But I will remain in Ephesus until Pentecost,
-</p>
-
-<p>
 v09: for a great and effective door has opened for me, and there are many opponents.
 </p>
 

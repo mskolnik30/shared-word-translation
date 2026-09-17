@@ -84,7 +84,7 @@
       "verse_count": 13,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_05.md",
       "before_sha256": "99b3b79b263c8e2e6a73d583d79f1f19e799e95e89959fc21a422987f049177e",
-      "after_sha256": "649af51d615114cdaeb88402fa871508a228a8e2c07c92ba0ebfa986035af9a7",
+      "after_sha256": "0c4b28c10daa70fc8ea66cc2640defea6576b9eaf032aadc9d6a8d6c977d5ecc",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_05.md",
       "tsw_comparator_sha256": "c301cdcf73a990040f61de6d9a7072d227892daad9b3358c3075984a361f71ab"
     },
@@ -93,7 +93,7 @@
       "verse_count": 20,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_06.md",
       "before_sha256": "218a7876de7592c8d7938860ac1f3edcdad0e017b4e6e9c62c06642b35154140",
-      "after_sha256": "db584124ae3a8d4dc363c6c668556f8856cde788ccbdb9be6f909ab206cf2664",
+      "after_sha256": "3fdc134465c29e642e13f81c43b768cb206a577767f1d0de7c3903736727b1a1",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_06.md",
       "tsw_comparator_sha256": "d678d7119a104ee7f1bd13c6d34d55065c4d9bf7edfd294b3a0259d1a0bd512a"
     },
@@ -102,7 +102,7 @@
       "verse_count": 40,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_07.md",
       "before_sha256": "dcdfe5b5cea28c86c8b0918746e14c557197a83f84b8c05b5f1350499de39064",
-      "after_sha256": "9690ddb1b1f8e865137bcf8a38e2f5e5473454d9cd208c73c62b1edc0e6effe3",
+      "after_sha256": "9999980f42271758894c993f79d716cb858ff5296bd479251e165d503cde3cef",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_07.md",
       "tsw_comparator_sha256": "9235e02491d908d103b05f78453ac56d08739ca3b4fd485c5bc9d716985dffb1"
     },
@@ -111,7 +111,7 @@
       "verse_count": 13,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_08.md",
       "before_sha256": "105c3ecf5618756e89ac2f255130c93a5d58b0fc95d2737f20a2b845204767ff",
-      "after_sha256": "217d5ce1328da23c383eeb24af6ffe0df0a8f6c94726db454d24f20a223d225c",
+      "after_sha256": "27a9466aa846ec27d1d4754c531c348467dc9b336f4974276894f11c0ee1f6ef",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_08.md",
       "tsw_comparator_sha256": "2ee11e7197c9ccbd0e61ae4bc3067161bc895aa93bee4feccf7ada8674a5e816"
     },
@@ -165,7 +165,7 @@
       "verse_count": 40,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
       "before_sha256": "33a8a13320776e875f07a34cfe82a589f93f58d946ee88d300da2f643014b1c7",
-      "after_sha256": "37f5ddc054897e6b380f29806fb96939fff443ac1b29e1f4469a34e4bf853867",
+      "after_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_14.md",
       "tsw_comparator_sha256": "3a3f57846b31f7fa55ec6a3b78646bfcdfec26b4dc645c371ccc535099690094"
     },
@@ -174,7 +174,7 @@
       "verse_count": 58,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_15.md",
       "before_sha256": "4feae3bc27f486f377cfc3913cf784417d9d025ee7e10eef18ea4d0f413c7d3c",
-      "after_sha256": "35a91d0d567a15da7068d923296eb2f15347ae92fc4b8b1c0fafb84f36a1ff2b",
+      "after_sha256": "53ab478ac3891de21752363b703ccd9d1429e3b6532f21152e18ff8fc4533b05",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_15.md",
       "tsw_comparator_sha256": "a8b05c433b11c87d0f68166f8639e2a7f3329dd7fe98be8a76275703ddd0feac"
     },
@@ -183,7 +183,7 @@
       "verse_count": 24,
       "path": "translations/fluent/NT/1corinthians/1Corinthians_16.md",
       "before_sha256": "d46108fb00e58cc9f9b6f28f72369ffaa55cc966a4167993f7a64d741ace30ff",
-      "after_sha256": "1a3223ceade03d43affc35c3c940b48563fcf1bc4ac1105df9fdee2679e618bc",
+      "after_sha256": "a5468ea44194192e636be76f7a432678ffcb50f7846e957ccab3eb0817b3cc93",
       "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_16.md",
       "tsw_comparator_sha256": "58fd27b33102fd85f0c562512dc1206526f5fd643fc4d2ce42d11a31132a1d59"
     }
@@ -5879,5 +5879,12 @@
       "F3": 196,
       "F0": 12
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

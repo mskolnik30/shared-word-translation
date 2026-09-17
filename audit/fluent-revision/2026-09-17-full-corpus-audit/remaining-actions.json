@@ -1,0 +1,69 @@
+[
+  {
+    "id": "A01",
+    "priority": "HIGH",
+    "criterion": "Selective apparatus",
+    "status": "OPEN",
+    "scope": "All Notes and Vocabulary; 445 process-language and 484 defense-language candidates, overlapping sets",
+    "action": "Read each entry in context. Remove workflow terms, unnecessary defense and commentary while retaining significant variants, alternatives, idioms and literary aids. Do not delete notes by keyword.",
+    "evidence": "after/screening-candidates.json"
+  },
+  {
+    "id": "A02",
+    "priority": "HIGH",
+    "criterion": "Connected reading",
+    "status": "OPEN",
+    "scope": "35 remaining boundary candidates and long paragraphs",
+    "action": "First resolve headings inside constructions at 2 Kings 5:19\u201320 and Proverbs 6:23\u201324; then inspect stanza boundaries and long prose in context. Do not enforce a maximum paragraph length.",
+    "evidence": "after/screening-candidates.json"
+  },
+  {
+    "id": "A03",
+    "priority": "HIGH",
+    "criterion": "Book voice and recurring vocabulary",
+    "status": "OPEN",
+    "scope": "All outstanding whole-book reviews in WORK_QUEUE.json",
+    "action": "Read connected books and build contextual source-term concordances. Review faith/faithfulness, covenant, righteousness, bodily images, divine titles and names. Record exceptions without synonym quotas."
+  },
+  {
+    "id": "A04",
+    "priority": "HIGH",
+    "criterion": "Ambiguity and readable English",
+    "status": "OPEN",
+    "scope": "Revelation 13:8; Psalm 23:6; John one-of-a-kind phrasing and other reader-test candidates",
+    "action": "Test connected readings against the exact source and the existing alternative notes. Keep consequential ambiguity; retain difficult source meaning."
+  },
+  {
+    "id": "A05",
+    "priority": "MEDIUM",
+    "criterion": "Distinct reading posture",
+    "status": "OPEN",
+    "scope": "Higher-overlap letters and all long shared passages not selected here",
+    "action": "Prioritize 1 Thessalonians, Colossians, Galatians and short letters for connected reading. Treat exact/near overlap as triage, never proof of copying or a demand to alter faithful wording.",
+    "evidence": "after/overlap.json"
+  },
+  {
+    "id": "A06",
+    "priority": "MEDIUM",
+    "criterion": "House style and publication layout",
+    "status": "OPEN",
+    "scope": "All 1189 chapters, including 121 with bold divine-name markup",
+    "action": "Resolve inconsistent bolding, capitalization, quotation typography, paragraph/stanza rendering and final delivery layout. Preserve source distinctions."
+  },
+  {
+    "id": "A07",
+    "priority": "RELEASE_GATE",
+    "criterion": "Independent review",
+    "status": "PENDING",
+    "scope": "Translation-wide",
+    "action": "Obtain independent Hebrew/Aramaic/Greek editorial review and reader testing. These have not been supplied by this assistant audit."
+  },
+  {
+    "id": "A08",
+    "priority": "RELEASE_GATE",
+    "criterion": "Companion reconciliation",
+    "status": "PENDING",
+    "scope": "All revised wording",
+    "action": "Reconcile quotations and bindings in a separately scoped Companion review. No Companion content changed in this audit."
+  }
+]

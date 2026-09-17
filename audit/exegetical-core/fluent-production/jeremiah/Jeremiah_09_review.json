@@ -49,7 +49,7 @@
     "verse_count": 25,
     "path": "translations/fluent/OT/jeremiah/Jeremiah_09.md",
     "before_sha256": "c73d9e6b92db52577566baa27529c253aa61330344f76a2a3902420be21af519",
-    "after_sha256": "6e31693da4540842bb268da4f71de117d2edf291f4dc7e5c8b8d5324e1c08b85",
+    "after_sha256": "f1fd83039bf5b12f0ee23be0c9b13493b9e4e4c1e342f933b774c1717e3a94da",
     "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_09.md",
     "tsw_comparator_sha256": "b1f605e49ac01884b039a16e9d47b290fe9cdb8238966439b46822eceb22172e"
   },
@@ -79,6 +79,14 @@
       "reference": "Jeremiah 9:25",
       "decision": "Retains Judah in list, hair practice, and bodily/heart contrast without harmonization.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "6e31693da4540842bb268da4f71de117d2edf291f4dc7e5c8b8d5324e1c08b85",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

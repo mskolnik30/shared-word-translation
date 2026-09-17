@@ -1,0 +1,133 @@
+{
+  "head": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+  "chapters": 1189,
+  "verses": 31083,
+  "books": 66,
+  "ledgers": 145,
+  "sources": 66,
+  "binding_errors": 0,
+  "family_errors": [],
+  "overlap": {
+    "matched_verses": 31082,
+    "identical_words": 966,
+    "near_identical": 2477,
+    "identical_percent": 3.11,
+    "mean_word_similarity": 0.717854
+  },
+  "flag_counts": {
+    "apparatus_defense_candidate": 485,
+    "apparatus_process_language": 445,
+    "paragraph_continuity_candidate": 59
+  },
+  "identical_runs": 34,
+  "identical_at_least_25_words": 25,
+  "identical_at_least_20_words": 90,
+  "longest_paragraphs": [
+    {
+      "path": "translations/fluent/NT/luke/Luke_06.md",
+      "first_verse": "01",
+      "words": 1072
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_03.md",
+      "first_verse": "01",
+      "words": 713
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_18.md",
+      "first_verse": "01",
+      "words": 684
+    },
+    {
+      "path": "translations/fluent/OT/isaiah/Isaiah_43.md",
+      "first_verse": "01",
+      "words": 618
+    },
+    {
+      "path": "translations/fluent/OT/daniel/Daniel_11.md",
+      "first_verse": "01",
+      "words": 595
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_02.md",
+      "first_verse": "21",
+      "words": 589
+    },
+    {
+      "path": "translations/fluent/OT/daniel/Daniel_09.md",
+      "first_verse": "01",
+      "words": 547
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_19.md",
+      "first_verse": "01",
+      "words": 539
+    },
+    {
+      "path": "translations/fluent/NT/2peter/2Peter_02.md",
+      "first_verse": "01",
+      "words": 535
+    },
+    {
+      "path": "translations/fluent/NT/john/John_06.md",
+      "first_verse": "35",
+      "words": 507
+    },
+    {
+      "path": "translations/fluent/OT/ezekiel/Ezekiel_32.md",
+      "first_verse": "17",
+      "words": 495
+    },
+    {
+      "path": "translations/fluent/NT/john/John_04.md",
+      "first_verse": "01",
+      "words": 484
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_16.md",
+      "first_verse": "01",
+      "words": 482
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_15.md",
+      "first_verse": "11",
+      "words": 481
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_17.md",
+      "first_verse": "01",
+      "words": 480
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_12.md",
+      "first_verse": "01",
+      "words": 473
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_50.md",
+      "first_verse": "14",
+      "words": 468
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_24.md",
+      "first_verse": "13",
+      "words": 454
+    },
+    {
+      "path": "translations/fluent/NT/john/John_03.md",
+      "first_verse": "01",
+      "words": 454
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_06.md",
+      "first_verse": "01",
+      "words": 453
+    }
+  ],
+  "notes": 4732,
+  "vocabulary": 2880,
+  "chapters_with_process_language": 346,
+  "status": "SCREEN_COMPLETE",
+  "editorial_approval": "REVIEW_PENDING",
+  "publication_allowed": false
+}

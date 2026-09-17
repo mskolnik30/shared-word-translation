@@ -49,7 +49,7 @@
     "verse_count": 27,
     "path": "translations/fluent/OT/jeremiah/Jeremiah_17.md",
     "before_sha256": "a6a75d352f56284ae65f12cb15ebab431692b6fc17fcc6aef78a27b07d7eb692",
-    "after_sha256": "c3a4506d00bd81133832726d52ebc016eed44e7f9b74ee635d5f0b859785e0f2",
+    "after_sha256": "5193f587ab96446238ad93fe522f2ba38f5d63a20f9c08d4b14058318bcf6c66",
     "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_17.md",
     "tsw_comparator_sha256": "d53c40c794d21f6fb1cce38b6c3a54b14dab638b443df8137a5fadd1adf7cad5"
   },
@@ -94,6 +94,14 @@
       "reference": "Jeremiah 17:16",
       "decision": "Retains difficult shepherd clause with alternative noted; keeps denial of desiring disaster.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "c3a4506d00bd81133832726d52ebc016eed44e7f9b74ee635d5f0b859785e0f2",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

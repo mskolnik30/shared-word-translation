@@ -58,7 +58,7 @@
     "verse_count": 6,
     "path": "translations/fluent/OT/isaiah/Isaiah_04.md",
     "before_sha256": "0a2b725567140a3b42bfdf3b1a465941c21f2693a05c3b9a9299d5b2345a0e6b",
-    "after_sha256": "290dc4ea7b0983d5d5d3d6eb86cfa3aaabd49e8241679d50e7176eeb5a66a161",
+    "after_sha256": "196ed2e848d52a012f66f1a719b052322bd007eca7bdb07e25047656da95e49e",
     "tsw_comparator_path": "books/OT/isaiah/Isaiah_04.md",
     "tsw_comparator_sha256": "4d528024c6956af1397ce8bf940a7a27ffd8204fa6dfce94313e5594a55920c3"
   },
@@ -73,6 +73,14 @@
       "reference": "Isaiah 4:4",
       "decision": "Preserve washing, blood, and spirit ambiguity.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "290dc4ea7b0983d5d5d3d6eb86cfa3aaabd49e8241679d50e7176eeb5a66a161",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

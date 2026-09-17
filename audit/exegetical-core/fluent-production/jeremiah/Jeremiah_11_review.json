@@ -49,7 +49,7 @@
     "verse_count": 23,
     "path": "translations/fluent/OT/jeremiah/Jeremiah_11.md",
     "before_sha256": "dc8ca98f38e747e19f8e2ee2085beb844b870cfefe7e24afea7a53477533fd72",
-    "after_sha256": "24851632f11a5632d214e95524455732ed05f207f42033a92e6144005c447d1b",
+    "after_sha256": "6e91ddb171b23a9bab54c17c392ba0611e0b06c8bdbb54ec5a18a409e087beb3",
     "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_11.md",
     "tsw_comparator_sha256": "cc2f9d232442cb53a04c64d9653195bc90df4239d10a06f2c8fd15e011bd17ad"
   },
@@ -69,6 +69,14 @@
       "reference": "Jeremiah 11:20",
       "decision": "Retains legal plea and vengeance; kidneys image explained in note.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "24851632f11a5632d214e95524455732ed05f207f42033a92e6144005c447d1b",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

@@ -78,7 +78,7 @@
     "verse_count": 38,
     "path": "translations/fluent/OT/isaiah/Isaiah_37.md",
     "before_sha256": "57bedddfc8d442d7608a8900a9801dabd60602997a626418f2fd3ddfd36034e7",
-    "after_sha256": "befde710eed43f0c736408c0524de14a704da5d1fcd23b73ae005d8ef8976b9f",
+    "after_sha256": "16a937b04bc4eca765686ec207830c77b3ddc802aa61ac08a833798eb9f7d1a5",
     "tsw_comparator_path": "books/OT/isaiah/Isaiah_37.md",
     "tsw_comparator_sha256": "c1b2bf0fc425f46c4740c1672877b21d6cc9fee82edfd80ad696b5e8f20ead66"
   },
@@ -98,6 +98,14 @@
       "reference": "Isaiah 37:36",
       "decision": "Preserve exact number and observer perspective without implied resurrection.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "befde710eed43f0c736408c0524de14a704da5d1fcd23b73ae005d8ef8976b9f",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

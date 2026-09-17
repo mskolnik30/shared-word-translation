@@ -52,7 +52,7 @@
     "verse_count": 66,
     "path": "translations/fluent/OT/1kings/1Kings_08.md",
     "before_sha256": "60c585c9e99a0235a2a0c4b89b7320c4a426aa2d5142b556d609c9855fdf2870",
-    "after_sha256": "2bdffb22769e824dc5ad04a0a2a7875bc640b677029a5a10ce405e95d859991c",
+    "after_sha256": "ba4d7dd06ad6a11b6952f6de0d071e71e170f9a7c163e00505768201f79f32ca",
     "tsw_comparator_path": "books/OT/1kings/1Kings_08.md",
     "tsw_comparator_sha256": "c36ab8f0bf927a94fe2efeb5266caf303c7f76d929b6f4e18659d1aae23be5ee"
   },
@@ -113,6 +113,14 @@
       "reference": "1 Kings 8:66",
       "decision": "Retains the eighth-day wording and tents image without smoothing the chronology.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "2bdffb22769e824dc5ad04a0a2a7875bc640b677029a5a10ce405e95d859991c",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

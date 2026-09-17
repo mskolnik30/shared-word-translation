@@ -99,9 +99,6 @@ v29: Let two or three prophets speak, and let the others discern what is said.
 v30: But if a revelation comes to another person who is seated, the first speaker should be silent.
 v31: For you can all prophesy one by one, so that everyone may learn and everyone may be encouraged.
 v32: And prophets' spirits are subject to prophets,
-</p>
-
-<p>
 v33: for God is not a God of disorder but of peace, as in all the churches of the saints.
 </p>
 

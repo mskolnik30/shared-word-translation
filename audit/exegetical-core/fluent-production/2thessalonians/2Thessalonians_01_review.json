@@ -37,7 +37,7 @@
     "verse_count": 12,
     "path": "translations/fluent/NT/2thessalonians/2Thessalonians_01.md",
     "before_sha256": "2cc7716b776517415163636a0684e222c3f7ef87e0deead1ca90b54672626dd7",
-    "after_sha256": "2e714a6281ab4a02a0f23a518b3a5558ff74a365b7985f8c599cf92a13c903be",
+    "after_sha256": "2f51cf1eb043d684c7e3aa05715a9170b5d451ef0d1899ab7e6c1a72b3404af3",
     "tsw_comparator_path": "books/NT/2thessalonians/2Thessalonians_01.md",
     "tsw_comparator_sha256": "75dd39ac9b91f9c29b53c5822fbe9938047877598f48bab97774bf5426310dcf"
   },
@@ -119,6 +119,14 @@
       "tsw_comparator": "when he comes on that day to be glorified in his holy ones and to be marveled at among all who have believed—because our testimony to you was believed.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.877193,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "2e714a6281ab4a02a0f23a518b3a5558ff74a365b7985f8c599cf92a13c903be",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

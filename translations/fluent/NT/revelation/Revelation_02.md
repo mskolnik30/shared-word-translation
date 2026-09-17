@@ -51,7 +51,7 @@ v19: I know your works, your love, faith, service and endurance, and that your l
 v20: But I have this against you: you tolerate the woman Jezebel, who calls herself a prophet and teaches and leads my slaves astray to commit sexual immorality and eat food sacrificed to idols.
 v21: I gave her time to repent, but she does not want to repent of her sexual immorality.
 v22: Look, I am throwing her onto a bed, and those who commit adultery with her into great suffering, unless they repent of her works.
-v23: I will kill her children with death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.
+v23: I will put her children to death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.
 v24: But to the rest of you in Thyatira, who do not hold this teaching and have not known what they call the deep things of Satan, I say: I put no other burden on you.
 v25: Only hold firmly to what you have until I come.
 v26: To the one who overcomes and keeps my works to the end, I will give authority over the nations,

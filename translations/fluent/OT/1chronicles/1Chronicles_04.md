@@ -106,9 +106,6 @@ v34: Meshobab, Jamlech, Joshah son of Amaziah,
 v35: Joel, Jehu son of Joshibiah, son of Seraiah, son of Asiel,
 v36: Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,
 v37: and Ziza son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah—
-</p>
-
-<p>
 v38: these men listed by name were leaders in their clans, and their ancestral households grew greatly.
 v39: They went toward the entrance of Gedor, to the east side of the valley, looking for pasture for their flocks.
 v40: They found rich, good pasture, and the land was spacious, quiet, and peaceful. The people who had lived there before were descendants of Ham.

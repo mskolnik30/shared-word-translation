@@ -57,7 +57,7 @@
     "verse_count": 20,
     "path": "translations/fluent/OT/2kings/2Kings_22.md",
     "before_sha256": "70a1e69d0287bfdf55a64bd1e24366519a6934dcc4be989018eca8588e71855b",
-    "after_sha256": "1ef6a6e795250ff4b6fae4bbc361da142b28cb4f8d3cc69e5317ae91ccfbfd73",
+    "after_sha256": "950ed6e6e18dfd3580a0c92e2110d2038f81cc460bfd570ad276792fa74db44e",
     "tsw_comparator_path": "books/OT/2kings/2Kings_22.md",
     "tsw_comparator_sha256": "1c79d11e9c277224399feca17f8d062d554d2aa1ff730adbce98501b2e9ac462"
   },
@@ -73,6 +73,14 @@
       "reference": "2 Kings 22:20",
       "decision": "Preserve in peace despite the later violent death; do not harmonize it away.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "1ef6a6e795250ff4b6fae4bbc361da142b28cb4f8d3cc69e5317ae91ccfbfd73",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

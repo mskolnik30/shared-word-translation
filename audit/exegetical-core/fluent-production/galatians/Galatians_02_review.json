@@ -40,7 +40,7 @@
     "verse_count": 21,
     "path": "translations/fluent/NT/galatians/Galatians_02.md",
     "before_sha256": "4cb636911cef27b781898804b2fe63943d1845e8c78dd61b45a008bf4d793a7f",
-    "after_sha256": "b77476b1b94b65c8d758113802772aa818b0b2416573abfeb3a5a49bcd02c115",
+    "after_sha256": "4f5d28ffedebf8874a23e25a4be300beb1028472116d182d1b56820cc1602bd0",
     "tsw_comparator_path": "books/NT/galatians/Galatians_02.md",
     "tsw_comparator_sha256": "ee4567457a279297a5aee3387756f4024f7da02d331eb065efb927feaaba4de7"
   },
@@ -278,6 +278,14 @@
       "tsw_comparator": "I do not set aside the grace of God; for if righteousness comes through the law, then Christ died for nothing.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "b77476b1b94b65c8d758113802772aa818b0b2416573abfeb3a5a49bcd02c115",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

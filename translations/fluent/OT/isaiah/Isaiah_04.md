@@ -17,9 +17,6 @@ v01: On that day seven women will seize one man and say, “We will eat our own 
 v02: On that day the **LORD**’s growth will be beautiful and glorious, and the land’s fruit will be the pride and splendor of Israel’s survivors.
 v03: Those left in Zion, those remaining in Jerusalem, will be called holy—everyone recorded for life in Jerusalem.
 v04: When the Lord has washed away the filth of Zion’s daughters and rinsed Jerusalem’s blood from her midst by a spirit of judgment and a spirit of burning,
-</p>
-
-<p>
 v05: the **LORD** will create over all Mount Zion’s dwelling places and assemblies a cloud by day, smoke, and the glow of flaming fire by night. Over all the glory there will be a canopy,
 v06: a shelter giving shade from the daytime heat, a refuge and hiding place from storm and rain.
 </p>

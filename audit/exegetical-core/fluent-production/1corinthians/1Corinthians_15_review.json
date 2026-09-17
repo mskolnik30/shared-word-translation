@@ -50,7 +50,7 @@
     "verse_count": 58,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_15.md",
     "before_sha256": "4feae3bc27f486f377cfc3913cf784417d9d025ee7e10eef18ea4d0f413c7d3c",
-    "after_sha256": "35a91d0d567a15da7068d923296eb2f15347ae92fc4b8b1c0fafb84f36a1ff2b",
+    "after_sha256": "53ab478ac3891de21752363b703ccd9d1429e3b6532f21152e18ff8fc4533b05",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_15.md",
     "tsw_comparator_sha256": "a8b05c433b11c87d0f68166f8639e2a7f3329dd7fe98be8a76275703ddd0feac"
   },
@@ -353,6 +353,14 @@
       "tsw_comparator": "O death, where is your victory? O death, where is your sting?”",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "35a91d0d567a15da7068d923296eb2f15347ae92fc4b8b1c0fafb84f36a1ff2b",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

@@ -1,0 +1,349 @@
+{
+  "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+  "status": "AUTHORING_CORRECTIONS_APPLIED",
+  "publication_allowed": false,
+  "chapters": [
+    {
+      "path": "translations/fluent/OT/2samuel/2Samuel_10.md",
+      "before_sha256": "18aefae2d14321a7908f864dc61855069a09007d6e6d4db31baf107f18ae11ec",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 2."
+      ],
+      "after_sha256": "5853299d09d8b37fa5cc5135c53ca0a7671ba0c9896dbf93202a4d28e2ac6005",
+      "ledger": "audit/fluent-revision/2026-09-14-2samuel-6-24/2samuel-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/1kings/1Kings_08.md",
+      "before_sha256": "2bdffb22769e824dc5ad04a0a2a7875bc640b677029a5a10ce405e95d859991c",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 48."
+      ],
+      "after_sha256": "ba4d7dd06ad6a11b6952f6de0d071e71e170f9a7c163e00505768201f79f32ca",
+      "ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/2kings/2Kings_22.md",
+      "before_sha256": "1ef6a6e795250ff4b6fae4bbc361da142b28cb4f8d3cc69e5317ae91ccfbfd73",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 14."
+      ],
+      "after_sha256": "950ed6e6e18dfd3580a0c92e2110d2038f81cc460bfd570ad276792fa74db44e",
+      "ledger": "audit/fluent-revision/2026-09-14-2kings-1-25/2kings-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/1chronicles/1Chronicles_04.md",
+      "before_sha256": "aadfeb3e8a268bc22186b9d5f86bcf1b287025ba0b052351dea43a876a357eb5",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 37."
+      ],
+      "after_sha256": "9e05793db119656e94a9f1fe34e976bd0190f0ddf8774bf4f577852a88215cec",
+      "ledger": "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/isaiah/Isaiah_04.md",
+      "before_sha256": "290dc4ea7b0983d5d5d3d6eb86cfa3aaabd49e8241679d50e7176eeb5a66a161",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 4."
+      ],
+      "after_sha256": "196ed2e848d52a012f66f1a719b052322bd007eca7bdb07e25047656da95e49e",
+      "ledger": "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/isaiah/Isaiah_19.md",
+      "before_sha256": "7f1f93263d1ad183a47f6eeae53bdaad6a377791b53aeb8d2fdd0451dafebead",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 24."
+      ],
+      "after_sha256": "5403935f03af81ddb89f298265aea6805deebefe01081098b918eee0ab7146fb",
+      "ledger": "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/isaiah/Isaiah_37.md",
+      "before_sha256": "befde710eed43f0c736408c0524de14a704da5d1fcd23b73ae005d8ef8976b9f",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 5."
+      ],
+      "after_sha256": "16a937b04bc4eca765686ec207830c77b3ddc802aa61ac08a833798eb9f7d1a5",
+      "ledger": "audit/fluent-revision/2026-09-16-isaiah-24-66/isaiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_07.md",
+      "before_sha256": "fa5ea53af616f69f3e15dc1b2d2e071f2ea2aad957d0e06545e16242a3ebd8cf",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 5.",
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 6.",
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 9.",
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 13."
+      ],
+      "after_sha256": "dd6b7384dcb747b6a005a92f55e2924b51201707a84d5171c8ede0228a04fb8a",
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_09.md",
+      "before_sha256": "6e31693da4540842bb268da4f71de117d2edf291f4dc7e5c8b8d5324e1c08b85",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 24."
+      ],
+      "after_sha256": "f1fd83039bf5b12f0ee23be0c9b13493b9e4e4c1e342f933b774c1717e3a94da",
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_11.md",
+      "before_sha256": "24851632f11a5632d214e95524455732ed05f207f42033a92e6144005c447d1b",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 3."
+      ],
+      "after_sha256": "6e91ddb171b23a9bab54c17c392ba0611e0b06c8bdbb54ec5a18a409e087beb3",
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_17.md",
+      "before_sha256": "c3a4506d00bd81133832726d52ebc016eed44e7f9b74ee635d5f0b859785e0f2",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 24."
+      ],
+      "after_sha256": "5193f587ab96446238ad93fe522f2ba38f5d63a20f9c08d4b14058318bcf6c66",
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/jeremiah/Jeremiah_19.md",
+      "before_sha256": "ac253d64a0638a71a7f792a4e974cb96facc41c3eb014fd0fbdb6d7ec019f454",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 1."
+      ],
+      "after_sha256": "98ab396f64ec68d633e43383037e01591fc0353b81d79b5f58154c610aa1ae48",
+      "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_05.md",
+      "before_sha256": "649af51d615114cdaeb88402fa871508a228a8e2c07c92ba0ebfa986035af9a7",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 4."
+      ],
+      "after_sha256": "0c4b28c10daa70fc8ea66cc2640defea6576b9eaf032aadc9d6a8d6c977d5ecc",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_08.md",
+      "before_sha256": "217d5ce1328da23c383eeb24af6ffe0df0a8f6c94726db454d24f20a223d225c",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 5."
+      ],
+      "after_sha256": "27a9466aa846ec27d1d4754c531c348467dc9b336f4974276894f11c0ee1f6ef",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
+      "before_sha256": "37f5ddc054897e6b380f29806fb96939fff443ac1b29e1f4469a34e4bf853867",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 32."
+      ],
+      "after_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_15.md",
+      "before_sha256": "35a91d0d567a15da7068d923296eb2f15347ae92fc4b8b1c0fafb84f36a1ff2b",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 4."
+      ],
+      "after_sha256": "53ab478ac3891de21752363b703ccd9d1429e3b6532f21152e18ff8fc4533b05",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_16.md",
+      "before_sha256": "1a3223ceade03d43affc35c3c940b48563fcf1bc4ac1105df9fdee2679e618bc",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 8."
+      ],
+      "after_sha256": "a5468ea44194192e636be76f7a432678ffcb50f7846e957ccab3eb0817b3cc93",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_06.md",
+      "before_sha256": "b9a24bf9f4b50be64a3d28968302f492b2ce7358279fb54ff5d1fe1643fb9737",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 5.",
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 8."
+      ],
+      "after_sha256": "9af02005f0ed3ab54c9a2a6426d3590afa5e1da51965ef0ab3516fe097220351",
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
+      "before_sha256": "8ffa7c25701ff3285e36224f35c20846a0a7cc239e7a6059431a81191d0adc12",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 26."
+      ],
+      "after_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/philippians/Philippians_01.md",
+      "before_sha256": "0e2192718491e49abe91f4271417315cfe1a1df753674afaa6c0d3acef093394",
+      "reasons": [
+        "Keep the dependent clause, continuing list, or linked argument with its completion; no Scripture words or poetry lines change. Join after verse 18."
+      ],
+      "after_sha256": "10229b78c7b0537fcc8c1282ee1256343469236b032ab60ed370f33845d3d33f",
+      "ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_03.md",
+      "before_sha256": "90b2acc05f19a2fc181cc5fc49176086edd698985a132796df5ae860441a3d0d",
+      "reasons": [
+        "Mark the narrative, speaker, or teaching transition before verse 7; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 10; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 12; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 14; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 15; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 18; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 21; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 23; preserve Scripture wording and sentence relationships."
+      ],
+      "after_sha256": "1952a0b7ba87a9e040ecbddc3cf9e59359d6069d791360218ad8dce2ce8330c8",
+      "ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_06.md",
+      "before_sha256": "0f150bed02085ccade8466362f39c41ed562de07be9a167b6c7312955902c7e9",
+      "reasons": [
+        "Mark the narrative, speaker, or teaching transition before verse 6; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 12; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 17; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 20; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 24; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 27; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 32; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 37; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 39; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 43; preserve Scripture wording and sentence relationships.",
+        "Mark the narrative, speaker, or teaching transition before verse 46; preserve Scripture wording and sentence relationships.",
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review."
+      ],
+      "after_sha256": "5843a6d0f68e9efb144b1290ffbd3b6eabd1cf5a4b8f92a290bd78daa7547ce3",
+      "ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/galatians/Galatians_02.md",
+      "before_sha256": "b77476b1b94b65c8d758113802772aa818b0b2416573abfeb3a5a49bcd02c115",
+      "reasons": [
+        "Keep the editorial heading from privileging one interpretation of the disputed faith/faithfulness genitive.",
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review.",
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review."
+      ],
+      "after_sha256": "4f5d28ffedebf8874a23e25a4be300beb1028472116d182d1b56820cc1602bd0",
+      "ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_21.md",
+      "before_sha256": "8fc164a58dddb3d333bbb3db53b1578c8d8ad9a9b91beb1cf4657d7638994ffc",
+      "reasons": [
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review."
+      ],
+      "after_sha256": "d06d8ea0483b14eb12e0ef186395de6f812ef722d36a6b446496def36b289a22",
+      "ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_06.md",
+      "before_sha256": "db584124ae3a8d4dc363c6c668556f8856cde788ccbdb9be6f909ab206cf2664",
+      "reasons": [
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review."
+      ],
+      "after_sha256": "3fdc134465c29e642e13f81c43b768cb206a577767f1d0de7c3903736727b1a1",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_01.md",
+      "before_sha256": "b8f645e4a70327640b1509a770db630ccdfbb71fa77492d494d0d0302a07736e",
+      "reasons": [
+        "Remove application/commentary from selective translation notes; archive the wording for possible Companion review."
+      ],
+      "after_sha256": "950f24d7addd5df710b3c1c5c819deee7c99c95d3fd61d55413118ea5b6631d6",
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_07.md",
+      "before_sha256": "9690ddb1b1f8e865137bcf8a38e2f5e5473454d9cd208c73c62b1edc0e6effe3",
+      "reasons": [
+        "Replace pastoral application with a concise lexical distinction supported by the Greek."
+      ],
+      "after_sha256": "9999980f42271758894c993f79d716cb858ff5296bd479251e165d503cde3cef",
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_04.md",
+      "before_sha256": "7d347979273f9a4156d95623b2d42240cdad2a5c5b349ebd085d6b5f7d5ca358",
+      "reasons": [
+        "Describe the source rhetoric without adding pastoral instructions."
+      ],
+      "after_sha256": "82187c03e7ab39a93525cf742913d85e45c6bcf898c2e42c3425bffc82a9e1fa",
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/2thessalonians/2Thessalonians_01.md",
+      "before_sha256": "2e714a6281ab4a02a0f23a518b3a5558ff74a365b7985f8c599cf92a13c903be",
+      "reasons": [
+        "Name the consequential alternative construal of the shared article and coordinated titles."
+      ],
+      "after_sha256": "2f51cf1eb043d684c7e3aa05715a9170b5d451ef0d1899ab7e6c1a72b3404af3",
+      "ledger": "audit/fluent-revision/2026-09-17-2thessalonians-1-3/2thessalonians-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_02.md",
+      "before_sha256": "a88de2e04d10b06fa0df3b50336dc705a04ffbaaed483c40be3b50c3bddb4848",
+      "reasons": [
+        "Render the emphatic death expression in natural English without specifying plague or changing children to an explanatory label; retain the literal/plague possibility in the note."
+      ],
+      "after_sha256": "772e3d1239e70281c0b32774f230bfc24822722fc4aef5a3aed59633750daf76",
+      "ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_21.md",
+      "before_sha256": "14d215adb56134077315f944e008f3f841f47391b2c9c4d822d740bb914fc2fa",
+      "reasons": [
+        "Make the singular generic recipient explicit while preserving the scriptural sonship formula and the promised inheritance."
+      ],
+      "after_sha256": "f5ab68b8e62f45fad0530fe7f9d579c59696d90005dfb0f61345ba9fb20bf338",
+      "ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json"
+    }
+  ],
+  "verse_changes": [
+    {
+      "reference": "Revelation 2:23",
+      "path": "translations/fluent/NT/revelation/Revelation_02.md",
+      "before": "I will kill her children with death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
+      "after": "I will put her children to death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
+      "source_reference": "Rev 2:23",
+      "source_verse_sha256": "5666def4906500153a2a545d2915f70e44993a014b9c486eee049b7f8328c9cb",
+      "rationale": "Render the emphatic death expression in natural English without specifying plague or changing children to an explanatory label; retain the literal/plague possibility in the note."
+    },
+    {
+      "reference": "Revelation 21:7",
+      "path": "translations/fluent/NT/revelation/Revelation_21.md",
+      "before": "The one who overcomes will inherit these things, and I will be their God, and they will be my son.",
+      "after": "The one who overcomes will inherit these things. I will be that person's God, and that person will be my son.",
+      "source_reference": "Rev 21:7",
+      "source_verse_sha256": "88007a24b42a6f4057576eb4efa1dfc711a33508bc0fbd8b2ead19cfe5029e4b",
+      "rationale": "Make the singular generic recipient explicit while preserving the scriptural sonship formula and the promised inheritance."
+    }
+  ],
+  "affected_ledgers": [
+    "audit/fluent-revision/2026-09-14-2samuel-6-24/2samuel-verse-review.json",
+    "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json",
+    "audit/fluent-revision/2026-09-14-2kings-1-25/2kings-verse-review.json",
+    "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json",
+    "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json",
+    "audit/fluent-revision/2026-09-16-isaiah-24-66/isaiah-verse-review.json",
+    "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json",
+    "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json",
+    "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+    "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+    "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2thessalonians-1-3/2thessalonians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json"
+  ]
+}

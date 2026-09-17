@@ -50,7 +50,7 @@
     "verse_count": 20,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_06.md",
     "before_sha256": "218a7876de7592c8d7938860ac1f3edcdad0e017b4e6e9c62c06642b35154140",
-    "after_sha256": "db584124ae3a8d4dc363c6c668556f8856cde788ccbdb9be6f909ab206cf2664",
+    "after_sha256": "3fdc134465c29e642e13f81c43b768cb206a577767f1d0de7c3903736727b1a1",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_06.md",
     "tsw_comparator_sha256": "d678d7119a104ee7f1bd13c6d34d55065c4d9bf7edfd294b3a0259d1a0bd512a"
   },
@@ -197,6 +197,14 @@
       "tsw_comparator": "For you were bought with a price; therefore glorify God in your body.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "db584124ae3a8d4dc363c6c668556f8856cde788ccbdb9be6f909ab206cf2664",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

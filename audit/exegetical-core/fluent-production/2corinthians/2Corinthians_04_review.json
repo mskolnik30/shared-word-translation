@@ -47,7 +47,7 @@
     "verse_count": 18,
     "path": "translations/fluent/NT/2corinthians/2Corinthians_04.md",
     "before_sha256": "216d0e91233a937fcbd9eb63f4638eb4a125406df210faa10aa148059c10f679",
-    "after_sha256": "7d347979273f9a4156d95623b2d42240cdad2a5c5b349ebd085d6b5f7d5ca358",
+    "after_sha256": "82187c03e7ab39a93525cf742913d85e45c6bcf898c2e42c3425bffc82a9e1fa",
     "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_04.md",
     "tsw_comparator_sha256": "bbaf8de69333b4a86c1b7914d09eacd914495c6a1f872292cd8edc48cf19ab97"
   },
@@ -155,6 +155,14 @@
       "tsw_comparator": "For this light affliction is preparing for us an eternal weight of glory beyond all measure,",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "7d347979273f9a4156d95623b2d42240cdad2a5c5b349ebd085d6b5f7d5ca358",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

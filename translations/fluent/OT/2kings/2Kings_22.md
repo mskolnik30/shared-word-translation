@@ -50,9 +50,6 @@ v13: “Go and inquire of the LORD for me, for the people, and for all Judah con
 
 <p>
 v14: Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophetess, wife of Shallum son of Tikvah, son of Harhas, keeper of the wardrobe. She lived in Jerusalem’s Second Quarter. They spoke with her,
-</p>
-
-<p>
 v15: and she said to them, “This is what the LORD, the God of Israel, says: Tell the man who sent you to me:
 v16: This is what the LORD says: I am bringing disaster on this place and its inhabitants—all the words of the book the king of Judah has read.
 v17: Because they abandoned me and burned offerings to other gods, provoking me with all the work of their hands, my wrath is kindled against this place and will not be quenched.

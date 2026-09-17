@@ -132,7 +132,7 @@ v01: ‘Not to touch a woman’ is a sexual euphemism and likely repeats a claim
 
 v03–5: Marital bodily authority and sexual obligation are stated symmetrically; temporary abstinence requires mutual agreement and is time-limited.
 
-v15: When an unbelieving spouse leaves, the believer is ‘not enslaved’; the passage's call to peace should not be used to require coercive control.
+v15: ‘Not enslaved’ translates a form of douloō, ‘enslave.’ Paul uses a different verb, deō, ‘bind,’ for the marriage bond in verse 39.
 
 v21: The Greek can mean ‘make use of your present condition’ or ‘take the opportunity for freedom.’ The main text chooses freedom while preserving the slavery setting.
 

@@ -1,0 +1,1017 @@
+[
+  {
+    "ledger": "audit/fluent-revision/2026-09-10/james-verse-review.json",
+    "source_file": "james-pinned-source.txt",
+    "chapters": 5,
+    "verses": 108,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 11,
+    "verses": 299,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-10-genesis-12-25/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 14,
+    "verses": 394,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-26-28/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 3,
+    "verses": 103,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-29-31/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 3,
+    "verses": 133,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-32-36/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 5,
+    "verses": 155,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-37-41/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 5,
+    "verses": 169,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-42-45/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 4,
+    "verses": 134,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-genesis-46-50/genesis-verse-review.json",
+    "source_file": "genesis-pinned-source.xml",
+    "chapters": 5,
+    "verses": 146,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-1-4/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 4,
+    "verses": 100,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-5-6/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 53,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-7-8/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 57,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-9-11/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 74,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-12-18/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 7,
+    "verses": 210,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-19-20/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 51,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-21-24/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 4,
+    "verses": 118,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-25-27/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 98,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-28-31/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 4,
+    "verses": 145,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-32-34/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 93,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-exodus-35-40/exodus-verse-review.json",
+    "source_file": "exodus-pinned-source.xml",
+    "chapters": 6,
+    "verses": 214,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-1-3/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 50,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-4-7/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 4,
+    "verses": 122,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-8-10/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 80,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-11-12/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 55,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-13-15/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 149,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-16-17/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 50,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-18-20/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 94,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-21-22/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 57,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-23-25/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 3,
+    "verses": 122,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-leviticus-26-27/leviticus-verse-review.json",
+    "source_file": "leviticus-pinned-source.xml",
+    "chapters": 2,
+    "verses": 80,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-numbers-1-2/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 88,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-numbers-3-4/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 100,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-numbers-5-6/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 58,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-numbers-7-8/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 115,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-11-numbers-9-10/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 59,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-numbers-11-12/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 2,
+    "verses": 51,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-numbers-13-18/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 6,
+    "verses": 214,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-numbers-19-24/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 6,
+    "verses": 182,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-numbers-25-30/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 6,
+    "verses": 193,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-numbers-31-36/numbers-verse-review.json",
+    "source_file": "numbers-pinned-source.xml",
+    "chapters": 6,
+    "verses": 228,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-1-6/deuteronomy-verse-review.json",
+    "source_file": "deuteronomy-pinned-source.xml",
+    "chapters": 6,
+    "verses": 219,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-7-12/deuteronomy-verse-review.json",
+    "source_file": "deuteronomy-pinned-source.xml",
+    "chapters": 6,
+    "verses": 161,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-13-18/deuteronomy-verse-review.json",
+    "source_file": "deuteronomy-pinned-source.xml",
+    "chapters": 6,
+    "verses": 134,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-19-26/deuteronomy-verse-review.json",
+    "source_file": "deuteronomy-pinned-source.xml",
+    "chapters": 8,
+    "verses": 179,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-13-deuteronomy-27-34/deuteronomy-verse-review.json",
+    "source_file": "deuteronomy-pinned-source.xml",
+    "chapters": 8,
+    "verses": 266,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-joshua-1-8/joshua-verse-review.json",
+    "source_file": "joshua-pinned-source.xml",
+    "chapters": 8,
+    "verses": 186,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-joshua-9-17/joshua-verse-review.json",
+    "source_file": "joshua-pinned-source.xml",
+    "chapters": 9,
+    "verses": 256,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-joshua-18-24/joshua-verse-review.json",
+    "source_file": "joshua-pinned-source.xml",
+    "chapters": 7,
+    "verses": 216,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-judges-1-5/judges-verse-review.json",
+    "source_file": "judges-pinned-source.xml",
+    "chapters": 5,
+    "verses": 145,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-judges-6-12/judges-verse-review.json",
+    "source_file": "judges-pinned-source.xml",
+    "chapters": 7,
+    "verses": 230,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-judges-13-21/judges-verse-review.json",
+    "source_file": "judges-pinned-source.xml",
+    "chapters": 9,
+    "verses": 243,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-ruth-1-4/ruth-verse-review.json",
+    "source_file": "ruth-pinned-source.xml",
+    "chapters": 4,
+    "verses": 85,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1samuel-1-16/1samuel-verse-review.json",
+    "source_file": "1samuel-pinned-source.xml",
+    "chapters": 16,
+    "verses": 406,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1samuel-17-31/1samuel-verse-review.json",
+    "source_file": "1samuel-pinned-source.xml",
+    "chapters": 15,
+    "verses": 404,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-2samuel-1-5/2samuel-verse-review.json",
+    "source_file": "2samuel-pinned-hebrew.xml",
+    "chapters": 5,
+    "verses": 135,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-2samuel-6-24/2samuel-verse-review.json",
+    "source_file": "2samuel-pinned-hebrew.xml",
+    "chapters": 19,
+    "verses": 560,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1kings-1/1kings-verse-review.json",
+    "source_file": "1kings-pinned-hebrew.xml",
+    "chapters": 1,
+    "verses": 53,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1kings-2-21/1kings-verse-review.json",
+    "source_file": "1kings-pinned-hebrew.xml",
+    "chapters": 20,
+    "verses": 710,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1kings-22/1kings-verse-review.json",
+    "source_file": "1kings-pinned-hebrew.xml",
+    "chapters": 1,
+    "verses": 53,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-2kings-1-25/2kings-verse-review.json",
+    "source_file": "2kings-pinned-hebrew.xml",
+    "chapters": 25,
+    "verses": 719,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-14-1chronicles-1-4/1chronicles-verse-review.json",
+    "source_file": "1chronicles-pinned-hebrew.xml",
+    "chapters": 4,
+    "verses": 176,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-1chronicles-5-29/1chronicles-verse-review.json",
+    "source_file": "1chronicles-pinned-hebrew.xml",
+    "chapters": 25,
+    "verses": 766,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-2chronicles-1-5/2chronicles-verse-review.json",
+    "source_file": "2chronicles-pinned-hebrew.xml",
+    "chapters": 5,
+    "verses": 88,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-2chronicles-6-20/2chronicles-verse-review.json",
+    "source_file": "2chronicles-pinned-hebrew.xml",
+    "chapters": 15,
+    "verses": 342,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-2chronicles-21-35/2chronicles-verse-review.json",
+    "source_file": "2chronicles-pinned-hebrew.xml",
+    "chapters": 15,
+    "verses": 369,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-2chronicles-36/2chronicles-verse-review.json",
+    "source_file": "2chronicles-pinned-hebrew.xml",
+    "chapters": 1,
+    "verses": 23,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-ezra-1-10/ezra-verse-review.json",
+    "source_file": "ezra-pinned-hebrew.xml",
+    "chapters": 10,
+    "verses": 280,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-nehemiah-1-13/nehemiah-verse-review.json",
+    "source_file": "nehemiah-pinned-hebrew.xml",
+    "chapters": 13,
+    "verses": 405,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-esther-1-6/esther-verse-review.json",
+    "source_file": "esther-pinned-hebrew.xml",
+    "chapters": 6,
+    "verses": 105,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-esther-7-10/esther-verse-review.json",
+    "source_file": "esther-pinned-hebrew.xml",
+    "chapters": 4,
+    "verses": 62,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-job-1-26/job-verse-review.json",
+    "source_file": "job-pinned-hebrew.xml",
+    "chapters": 26,
+    "verses": 612,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-job-27-42/job-verse-review.json",
+    "source_file": "job-pinned-hebrew.xml",
+    "chapters": 16,
+    "verses": 458,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-psalms-1-24/psalms-verse-review.json",
+    "source_file": "psalms-pinned-hebrew.xml",
+    "chapters": 24,
+    "verses": 312,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-15-psalms-25-64/psalms-verse-review.json",
+    "source_file": "psalms-pinned-hebrew.xml",
+    "chapters": 40,
+    "verses": 609,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-psalms-65-104/psalms-verse-review.json",
+    "source_file": "psalms-pinned-hebrew.xml",
+    "chapters": 40,
+    "verses": 746,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-psalms-105-144/psalms-verse-review.json",
+    "source_file": "psalms-pinned-hebrew.xml",
+    "chapters": 40,
+    "verses": 714,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-psalms-145-150/psalms-verse-review.json",
+    "source_file": "psalms-pinned-hebrew.xml",
+    "chapters": 6,
+    "verses": 80,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-proverbs-1-31/proverbs-verse-review.json",
+    "source_file": "proverbs-pinned-hebrew.xml",
+    "chapters": 31,
+    "verses": 915,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-1-3/ecclesiastes-verse-review.json",
+    "source_file": "ecclesiastes-pinned-hebrew.xml",
+    "chapters": 3,
+    "verses": 66,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-ecclesiastes-4-12/ecclesiastes-verse-review.json",
+    "source_file": "ecclesiastes-pinned-hebrew.xml",
+    "chapters": 9,
+    "verses": 156,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-songofsongs-1-8/songofsongs-verse-review.json",
+    "source_file": "songofsongs-pinned-hebrew.xml",
+    "chapters": 8,
+    "verses": 117,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-isaiah-1-23/isaiah-verse-review.json",
+    "source_file": "isaiah-pinned-hebrew.xml",
+    "chapters": 23,
+    "verses": 441,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-isaiah-24-66/isaiah-verse-review.json",
+    "source_file": "isaiah-pinned-hebrew.xml",
+    "chapters": 43,
+    "verses": 851,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-jeremiah-1-7/jeremiah-verse-review.json",
+    "source_file": "jeremiah-pinned-hebrew.xml",
+    "chapters": 7,
+    "verses": 207,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-jeremiah-8-20/jeremiah-verse-review.json",
+    "source_file": "jeremiah-pinned-hebrew.xml",
+    "chapters": 13,
+    "verses": 287,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-jeremiah-21-40/jeremiah-verse-review.json",
+    "source_file": "jeremiah-pinned-hebrew.xml",
+    "chapters": 20,
+    "verses": 517,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-jeremiah-41-52/jeremiah-verse-review.json",
+    "source_file": "jeremiah-pinned-hebrew.xml",
+    "chapters": 12,
+    "verses": 353,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-lamentations-1-5/lamentations-verse-review.json",
+    "source_file": "lamentations-pinned-hebrew.xml",
+    "chapters": 5,
+    "verses": 154,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-ezekiel-1-24/ezekiel-verse-review.json",
+    "source_file": "ezekiel-pinned-hebrew.xml",
+    "chapters": 24,
+    "verses": 619,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-ezekiel-25-48/ezekiel-verse-review.json",
+    "source_file": "ezekiel-pinned-hebrew.xml",
+    "chapters": 24,
+    "verses": 654,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-daniel-1-2/daniel-verse-review.json",
+    "source_file": "daniel-pinned-hebrew.xml",
+    "chapters": 2,
+    "verses": 70,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-daniel-3-12/daniel-verse-review.json",
+    "source_file": "daniel-pinned-hebrew.xml",
+    "chapters": 10,
+    "verses": 287,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-hosea-1-14/hosea-verse-review.json",
+    "source_file": "hosea-pinned-hebrew.xml",
+    "chapters": 14,
+    "verses": 197,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-joel-1-3/joel-verse-review.json",
+    "source_file": "joel-pinned-hebrew.xml",
+    "chapters": 3,
+    "verses": 73,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-amos-1-9/amos-verse-review.json",
+    "source_file": "amos-pinned-hebrew.xml",
+    "chapters": 9,
+    "verses": 146,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-obadiah-1-1/obadiah-verse-review.json",
+    "source_file": "obadiah-pinned-hebrew.xml",
+    "chapters": 1,
+    "verses": 21,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-jonah-1-4/jonah-verse-review.json",
+    "source_file": "jonah-pinned-hebrew.xml",
+    "chapters": 4,
+    "verses": 48,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-micah-1-7/micah-verse-review.json",
+    "source_file": "micah-pinned-hebrew.xml",
+    "chapters": 7,
+    "verses": 105,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-nahum-1-2/nahum-verse-review.json",
+    "source_file": "nahum-pinned-hebrew.xml",
+    "chapters": 2,
+    "verses": 28,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-nahum-3-3/nahum-verse-review.json",
+    "source_file": "nahum-pinned-hebrew.xml",
+    "chapters": 1,
+    "verses": 19,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-habakkuk-1-3/habakkuk-verse-review.json",
+    "source_file": "habakkuk-pinned-hebrew.xml",
+    "chapters": 3,
+    "verses": 56,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-zephaniah-1-3/zephaniah-verse-review.json",
+    "source_file": "zephaniah-pinned-hebrew.xml",
+    "chapters": 3,
+    "verses": 53,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-haggai-1-2/haggai-verse-review.json",
+    "source_file": "haggai-pinned-hebrew.xml",
+    "chapters": 2,
+    "verses": 38,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-zechariah-1-14/zechariah-verse-review.json",
+    "source_file": "zechariah-pinned-hebrew.xml",
+    "chapters": 14,
+    "verses": 211,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-malachi-1-4/malachi-verse-review.json",
+    "source_file": "malachi-pinned-hebrew.xml",
+    "chapters": 4,
+    "verses": 55,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-matthew-1-23/matthew-verse-review.json",
+    "source_file": "matthew-pinned-greek.txt",
+    "chapters": 23,
+    "verses": 810,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-matthew-24-28/matthew-verse-review.json",
+    "source_file": "matthew-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 258,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-mark-1-3/mark-verse-review.json",
+    "source_file": "mark-pinned-greek.txt",
+    "chapters": 3,
+    "verses": 108,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-mark-4-8/mark-verse-review.json",
+    "source_file": "mark-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 214,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-mark-9-12/mark-verse-review.json",
+    "source_file": "mark-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 176,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-mark-13-16/mark-verse-review.json",
+    "source_file": "mark-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 175,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-luke-1-4/luke-verse-review.json",
+    "source_file": "luke-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 214,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-luke-5-8/luke-verse-review.json",
+    "source_file": "luke-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 194,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-luke-9-11/luke-verse-review.json",
+    "source_file": "luke-pinned-greek.txt",
+    "chapters": 3,
+    "verses": 158,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+    "source_file": "luke-pinned-greek.txt",
+    "chapters": 13,
+    "verses": 583,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+    "source_file": "john-pinned-greek.txt",
+    "chapters": 17,
+    "verses": 740,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json",
+    "source_file": "john-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 138,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+    "source_file": "acts-pinned-greek.txt",
+    "chapters": 6,
+    "verses": 193,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+    "source_file": "acts-pinned-greek.txt",
+    "chapters": 8,
+    "verses": 325,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-acts-15-28/acts-verse-review.json",
+    "source_file": "acts-pinned-greek.txt",
+    "chapters": 14,
+    "verses": 484,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+    "source_file": "romans-pinned-greek.txt",
+    "chapters": 6,
+    "verses": 161,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+    "source_file": "romans-pinned-greek.txt",
+    "chapters": 9,
+    "verses": 245,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+    "source_file": "romans-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 24,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+    "source_file": "1corinthians-pinned-greek.txt",
+    "chapters": 16,
+    "verses": 437,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+    "source_file": "2corinthians-pinned-greek.txt",
+    "chapters": 13,
+    "verses": 257,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+    "source_file": "galatians-pinned-greek.txt",
+    "chapters": 6,
+    "verses": 149,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+    "source_file": "ephesians-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 131,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json",
+    "source_file": "ephesians-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 24,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json",
+    "source_file": "philippians-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 104,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-colossians-1-4/colossians-verse-review.json",
+    "source_file": "colossians-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 95,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+    "source_file": "1thessalonians-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 89,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2thessalonians-1-3/2thessalonians-verse-review.json",
+    "source_file": "2thessalonians-pinned-greek.txt",
+    "chapters": 3,
+    "verses": 47,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-1timothy-1-6/1timothy-verse-review.json",
+    "source_file": "1timothy-pinned-greek.txt",
+    "chapters": 6,
+    "verses": 113,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+    "source_file": "2timothy-pinned-greek.txt",
+    "chapters": 4,
+    "verses": 83,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+    "source_file": "titus-pinned-greek.txt",
+    "chapters": 3,
+    "verses": 46,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+    "source_file": "philemon-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 25,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+    "source_file": "hebrews-pinned-greek.txt",
+    "chapters": 13,
+    "verses": 303,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+    "source_file": "1peter-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 105,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2peter-1-1/2peter-verse-review.json",
+    "source_file": "2peter-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 21,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2peter-2-3/2peter-verse-review.json",
+    "source_file": "2peter-pinned-greek.txt",
+    "chapters": 2,
+    "verses": 40,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-1john-1-5/1john-verse-review.json",
+    "source_file": "1john-pinned-greek.txt",
+    "chapters": 5,
+    "verses": 105,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-2john-1-1/2john-verse-review.json",
+    "source_file": "2john-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 13,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-3john-1-1/3john-verse-review.json",
+    "source_file": "3john-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 15,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json",
+    "source_file": "jude-pinned-greek.txt",
+    "chapters": 1,
+    "verses": 25,
+    "errors": []
+  },
+  {
+    "ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json",
+    "source_file": "revelation-pinned-greek.txt",
+    "chapters": 22,
+    "verses": 404,
+    "errors": []
+  }
+]

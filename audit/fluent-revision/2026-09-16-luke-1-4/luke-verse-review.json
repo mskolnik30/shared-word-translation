@@ -54,7 +54,7 @@
       "verse_count": 38,
       "path": "translations/fluent/NT/luke/Luke_03.md",
       "before_sha256": "a5d02fb6aaecb698f90ee4fdf00b2f9514179db77690e3e27cf04ba173a1300f",
-      "after_sha256": "90b2acc05f19a2fc181cc5fc49176086edd698985a132796df5ae860441a3d0d",
+      "after_sha256": "1952a0b7ba87a9e040ecbddc3cf9e59359d6069d791360218ad8dce2ce8330c8",
       "tsw_comparator_path": "books/NT/luke/Luke_03.md",
       "tsw_comparator_sha256": "ada413ddf2015dc7e774e63975f40ff23ac7656d2135b54c583406bc2bb53c07"
     },
@@ -2860,5 +2860,12 @@
       "F2": 117,
       "F0": 12
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

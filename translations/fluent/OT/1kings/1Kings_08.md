@@ -114,9 +114,6 @@ v45: hear their prayer and plea in heaven, and uphold their cause.
 v46: “When they sin against you—for there is no one who does not sin—and you become angry with them and give them over to an enemy, so their captors take them to an enemy land, far away or near,
 v47: and they come to their senses in the land where they are held captive, turn back, and plead with you there, saying, ‘We have sinned, done wrong, and acted wickedly,’
 v48: and they return to you with all their heart and all their being in the land of the enemies who captured them, and pray to you toward their own land, which you gave their ancestors, toward the city you chose and the house I built for your name,
-</p>
-
-<p>
 v49: hear their prayer and plea in heaven, your dwelling place, and uphold their cause.
 v50: Forgive your people who sinned against you, and all their rebellions against you. Grant them compassion in the eyes of their captors, so their captors will show them compassion.
 </p>

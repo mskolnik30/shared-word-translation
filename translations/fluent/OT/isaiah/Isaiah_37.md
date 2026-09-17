@@ -18,9 +18,6 @@ v02: He sent Eliakim the palace manager, Shebna the secretary, and the senior pr
 v03: They said to him, “Hezekiah says: ‘This is a day of distress, rebuke, and disgrace. The children have reached the birth opening, but there is no strength to deliver them.
 v04: Perhaps the **LORD** your God will hear the Rabshakeh’s words, sent by his master the king of Assyria to insult the living God, and will rebuke the words the **LORD** your God has heard. So lift up a prayer for the remnant still here.’”
 v05: When King Hezekiah’s servants came to Isaiah,
-</p>
-
-<p>
 v06: Isaiah told them, “Say to your master: ‘The **LORD** says: Do not fear the words you have heard, with which the king of Assyria’s attendants have blasphemed me.
 v07: Look, I will put a spirit in him. He will hear a report and return to his own land, and there I will make him fall by the sword.’”
 v08: The Rabshakeh returned and found the king of Assyria fighting against Libnah, for he had heard that the king had left Lachish.

@@ -51,9 +51,6 @@ v15: Some indeed preach Christ out of envy and rivalry, while others do so out o
 v16: The latter act out of love, knowing that I am placed here to defend the good news.
 v17: The others proclaim Christ out of selfish ambition, without sincere motives, thinking they can add to my distress in prison.
 v18: What does it matter? In every way, whether as a pretense or in truth, Christ is being proclaimed, and in this I rejoice. Yes, I will go on rejoicing,
-</p>
-
-<p>
 v19: because I know that through your prayers and the help of the Spirit of Jesus Christ, this will lead to my salvation.
 v20: My eager expectation and hope is that I will not be put to shame in any way, but that with complete boldness, now as always, Christ will be magnified in my body, whether by life or by death.
 </p>

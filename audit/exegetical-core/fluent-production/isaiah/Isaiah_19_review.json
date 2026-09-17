@@ -58,7 +58,7 @@
     "verse_count": 25,
     "path": "translations/fluent/OT/isaiah/Isaiah_19.md",
     "before_sha256": "01eb5d79fbcb6837621781ff736efb395aaaf33afd38de39b29a3c98c628f39b",
-    "after_sha256": "7f1f93263d1ad183a47f6eeae53bdaad6a377791b53aeb8d2fdd0451dafebead",
+    "after_sha256": "5403935f03af81ddb89f298265aea6805deebefe01081098b918eee0ab7146fb",
     "tsw_comparator_path": "books/OT/isaiah/Isaiah_19.md",
     "tsw_comparator_sha256": "3cb39be5c5054f25721f32aaefd515ce7663052874eb55838269791e7d5ddb2d"
   },
@@ -88,6 +88,14 @@
       "reference": "Isaiah 19:25",
       "decision": "Preserve startling three divine designations exactly.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "7f1f93263d1ad183a47f6eeae53bdaad6a377791b53aeb8d2fdd0451dafebead",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

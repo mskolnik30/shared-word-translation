@@ -38,7 +38,7 @@
     "verse_count": 49,
     "path": "translations/fluent/NT/luke/Luke_06.md",
     "before_sha256": "2f69263b3a66e07c7b21e087e0b3cad41deafb9b82cff104b70bdf5ad19e7626",
-    "after_sha256": "0f150bed02085ccade8466362f39c41ed562de07be9a167b6c7312955902c7e9",
+    "after_sha256": "5843a6d0f68e9efb144b1290ffbd3b6eabd1cf5a4b8f92a290bd78daa7547ce3",
     "tsw_comparator_path": "books/NT/luke/Luke_06.md",
     "tsw_comparator_sha256": "91c5faa0971fa4b16e051333f740081ae13e6c10bf381c6cc7b3f0fa46a78873"
   },
@@ -458,6 +458,14 @@
       "tsw_comparator": "But the one who hears and does not do is like a man who built a house on the ground without a foundation, against which the river burst, and immediately it fell, and the ruin of that house was great.”",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "0f150bed02085ccade8466362f39c41ed562de07be9a167b6c7312955902c7e9",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

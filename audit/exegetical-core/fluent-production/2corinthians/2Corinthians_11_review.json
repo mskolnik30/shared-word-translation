@@ -47,7 +47,7 @@
     "verse_count": 33,
     "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
     "before_sha256": "44e795be1d3e44ade0eef5ea69315b617362a59cd4243f5c5277d427d8f9d4be",
-    "after_sha256": "8ffa7c25701ff3285e36224f35c20846a0a7cc239e7a6059431a81191d0adc12",
+    "after_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
     "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_11.md",
     "tsw_comparator_sha256": "18ac5c63cbbeeb81553e111d52718b6d246566e3a183a732f47ebc00cbef7c1f"
   },
@@ -376,6 +376,14 @@
       "tsw_comparator": "but I was let down in a basket through a window in the wall and escaped his hands.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "8ffa7c25701ff3285e36224f35c20846a0a7cc239e7a6059431a81191d0adc12",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

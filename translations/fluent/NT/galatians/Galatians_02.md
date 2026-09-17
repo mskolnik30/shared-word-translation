@@ -35,7 +35,7 @@ v13: And the rest of the Jews joined him in hypocrisy, so that even Barnabas was
 v14: But when I saw that they were not walking straight according to the truth of the gospel, I said to Cephas in front of everyone, “If you, though a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”
 </p>
 
-## Set Right through the Faithfulness of Christ
+## Justification and Life in Christ
 
 <p>
 v15: We are Jews by birth and not “Gentile sinners,”
@@ -48,10 +48,6 @@ v21: I do not set aside God's grace, for if righteousness comes through the law,
 </p>
 
 ## Notes
-
-v04–5: The intruders spy on freedom in order to enslave. Paul describes resisting their demanded submission so the gospel's truth remains.
-
-v11–14: Paul confronts Cephas publicly because fear-driven withdrawal from table fellowship pressured Gentiles to adopt Jewish practice.
 
 v16, 20: The Greek phrase can mean faith in Christ or Christ's faithfulness. The main text uses Christ's faithfulness while also explicitly retaining the believers' act of trusting Christ.
 

@@ -1,0 +1,414 @@
+[
+  {
+    "path": "translations/fluent/OT/nehemiah/Nehemiah_07.md",
+    "details": {
+      "source_omitted_public_labels": [
+        68
+      ],
+      "source_omission_reason": "The pinned Neh.xml contains no horse-and-mule record corresponding to public 7:68. The exact parent Fluent chapter already skips 68. TSW includes it; its text is not imported. All 405 original Nehemiah records bind exactly once."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/matthew/Matthew_17.md",
+    "details": {
+      "tsw_omitted_public_labels": [
+        21
+      ],
+      "tsw_omission_reason": "The byte-bound TSW comparator has the same three source-based gaps as Fluent.",
+      "source_omitted_public_labels": [
+        21
+      ],
+      "source_omission_reason": "The pinned SBLGNT and exact parent Fluent chapter omit these public labels. Notes preserve the gap; no absent text is supplied."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/matthew/Matthew_18.md",
+    "details": {
+      "tsw_omitted_public_labels": [
+        11
+      ],
+      "tsw_omission_reason": "The byte-bound TSW comparator has the same three source-based gaps as Fluent.",
+      "source_omitted_public_labels": [
+        11
+      ],
+      "source_omission_reason": "The pinned SBLGNT and exact parent Fluent chapter omit these public labels. Notes preserve the gap; no absent text is supplied."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/matthew/Matthew_23.md",
+    "details": {
+      "tsw_omitted_public_labels": [
+        14
+      ],
+      "tsw_omission_reason": "The byte-bound TSW comparator has the same three source-based gaps as Fluent.",
+      "source_omitted_public_labels": [
+        14
+      ],
+      "source_omission_reason": "The pinned SBLGNT and exact parent Fluent chapter omit these public labels. Notes preserve the gap; no absent text is supplied."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/mark/Mark_07.md",
+    "details": {
+      "source_omitted_public_labels": [
+        16
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        16
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/mark/Mark_09.md",
+    "details": {
+      "source_omitted_public_labels": [
+        44,
+        46
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        44,
+        46
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/mark/Mark_11.md",
+    "details": {
+      "source_omitted_public_labels": [
+        26
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        26
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/mark/Mark_15.md",
+    "details": {
+      "source_omitted_public_labels": [
+        28
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        28
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/luke/Luke_17.md",
+    "details": {
+      "source_omitted_public_labels": [
+        36
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        36
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/luke/Luke_23.md",
+    "details": {
+      "source_omitted_public_labels": [
+        17
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        17
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/john/John_05.md",
+    "details": {
+      "source_omitted_public_labels": [
+        4
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        4
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/acts/Acts_08.md",
+    "details": {
+      "source_omitted_public_labels": [
+        37
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+      "tsw_omitted_public_labels": [
+        37
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/acts/Acts_15.md",
+    "details": {
+      "source_omitted_public_labels": [
+        34
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; revised public labels follow the pinned source records.",
+      "parent_omitted_public_labels": [
+        34
+      ],
+      "parent_omission_reason": "These public labels were already absent from the exact parent Fluent.",
+      "tsw_omitted_public_labels": [
+        34
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/acts/Acts_19.md",
+    "details": {
+      "source_omitted_public_labels": [
+        41
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; revised public labels follow the pinned source records.",
+      "parent_omitted_public_labels": []
+    }
+  },
+  {
+    "path": "translations/fluent/NT/acts/Acts_24.md",
+    "details": {
+      "source_omitted_public_labels": [
+        7
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; revised public labels follow the pinned source records.",
+      "parent_omitted_public_labels": [
+        7
+      ],
+      "parent_omission_reason": "These public labels were already absent from the exact parent Fluent.",
+      "tsw_omitted_public_labels": [
+        7
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/acts/Acts_28.md",
+    "details": {
+      "source_omitted_public_labels": [
+        29
+      ],
+      "source_omission_reason": "Absent from pinned SBLGNT; revised public labels follow the pinned source records.",
+      "parent_omitted_public_labels": [
+        29
+      ],
+      "parent_omission_reason": "These public labels were already absent from the exact parent Fluent.",
+      "tsw_omitted_public_labels": [
+        29
+      ],
+      "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/romans/Romans_16.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27
+      ],
+      "tsw_unmatched_source_labels": [
+        24
+      ],
+      "tsw_additional_public_labels": [
+        25,
+        26,
+        27
+      ],
+      "tsw_alignment_reason": "The pinned SBLGNT main text contains public verse 24 and omits the movable doxology numbered 25–27; TSW omits 24 and prints the doxology at 25–27. No non-equivalent comparator text is silently aligned."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/1john/1John_02.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "tsw_unmatched_source_labels": [],
+      "tsw_additional_public_labels": [],
+      "tsw_alignment_reason": "Pinned 1 John 2:14 includes the children address placed at the end of TSW 2:13. Label-level comparators remain unchanged; compare 2:13–14 together."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/revelation/Revelation_02.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "tsw_unmatched_source_labels": [],
+      "tsw_additional_public_labels": [],
+      "tsw_alignment_reason": "Pinned 2:28 starts with the Father clause placed in TSW 2:27; compare 2:27–28 together. Public labels are unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/revelation/Revelation_04.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "tsw_unmatched_source_labels": [],
+      "tsw_additional_public_labels": [],
+      "tsw_alignment_reason": "TSW separates source 4:6 across public 4:6–7, shifts subsequent units and combines source 4:10–11 in public 4:11. Revised Fluent follows pinned source verse boundaries; compare 4:6–11 as a passage. TSW remains unchanged."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/revelation/Revelation_13.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tsw_unmatched_source_labels": [],
+      "tsw_additional_public_labels": [],
+      "tsw_alignment_reason": "Revised public 13:1, like parent Fluent, includes separately bound source 12:18. TSW 13:1 begins with the beast vision and has no corresponding dragon-standing sentence at this label. Compare the source segments explicitly."
+    }
+  },
+  {
+    "path": "translations/fluent/NT/revelation/Revelation_17.md",
+    "details": {
+      "tsw_public_labels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "tsw_unmatched_source_labels": [],
+      "tsw_additional_public_labels": [],
+      "tsw_alignment_reason": "Pinned 17:9 contains the seven-kings clause placed in TSW 17:10. Compare 17:9–10 together; public labels remain unchanged."
+    }
+  }
+]

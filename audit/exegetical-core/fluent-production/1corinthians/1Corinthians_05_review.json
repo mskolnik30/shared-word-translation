@@ -50,7 +50,7 @@
     "verse_count": 13,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_05.md",
     "before_sha256": "99b3b79b263c8e2e6a73d583d79f1f19e799e95e89959fc21a422987f049177e",
-    "after_sha256": "649af51d615114cdaeb88402fa871508a228a8e2c07c92ba0ebfa986035af9a7",
+    "after_sha256": "0c4b28c10daa70fc8ea66cc2640defea6576b9eaf032aadc9d6a8d6c977d5ecc",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_05.md",
     "tsw_comparator_sha256": "c301cdcf73a990040f61de6d9a7072d227892daad9b3358c3075984a361f71ab"
   },
@@ -145,6 +145,14 @@
       "tsw_comparator": "But God judges those outside. “Remove the evil person from among yourselves.”",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "649af51d615114cdaeb88402fa871508a228a8e2c07c92ba0ebfa986035af9a7",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

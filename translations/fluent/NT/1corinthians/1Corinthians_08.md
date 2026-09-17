@@ -22,9 +22,6 @@ v03: But if anyone loves God, that person is known by God.
 <p>
 v04: So concerning the eating of food sacrificed to idols, we know that “an idol is nothing in the world” and that “there is no God but one.”
 v05: For even if there are so-called gods, whether in heaven or on earth—as indeed there are many gods and many lords—
-</p>
-
-<p>
 v06: yet for us there is one God, the Father, from whom are all things and for whom we exist; and one Lord, Jesus Christ, through whom are all things and through whom we exist.
 </p>
 

@@ -45,7 +45,7 @@
       "verse_count": 24,
       "path": "translations/fluent/NT/2corinthians/2Corinthians_01.md",
       "before_sha256": "20cf4e72126d4ff6d76a257f189f10ad357db202a5ce0a88c8b1b34763970724",
-      "after_sha256": "b8f645e4a70327640b1509a770db630ccdfbb71fa77492d494d0d0302a07736e",
+      "after_sha256": "950f24d7addd5df710b3c1c5c819deee7c99c95d3fd61d55413118ea5b6631d6",
       "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_01.md",
       "tsw_comparator_sha256": "cc69da5e682e7a8eafd34d6378b6ebd8c1652d4e5b989b7b7a45cce71a9588d3"
     },
@@ -72,7 +72,7 @@
       "verse_count": 18,
       "path": "translations/fluent/NT/2corinthians/2Corinthians_04.md",
       "before_sha256": "216d0e91233a937fcbd9eb63f4638eb4a125406df210faa10aa148059c10f679",
-      "after_sha256": "7d347979273f9a4156d95623b2d42240cdad2a5c5b349ebd085d6b5f7d5ca358",
+      "after_sha256": "82187c03e7ab39a93525cf742913d85e45c6bcf898c2e42c3425bffc82a9e1fa",
       "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_04.md",
       "tsw_comparator_sha256": "bbaf8de69333b4a86c1b7914d09eacd914495c6a1f872292cd8edc48cf19ab97"
     },
@@ -90,7 +90,7 @@
       "verse_count": 18,
       "path": "translations/fluent/NT/2corinthians/2Corinthians_06.md",
       "before_sha256": "3050437434a8ad3aab438a72dd64851fe4b5c7fb15b35bf6f2e4ae49c40e1a11",
-      "after_sha256": "b9a24bf9f4b50be64a3d28968302f492b2ce7358279fb54ff5d1fe1643fb9737",
+      "after_sha256": "9af02005f0ed3ab54c9a2a6426d3590afa5e1da51965ef0ab3516fe097220351",
       "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_06.md",
       "tsw_comparator_sha256": "5e7cccb3970cae705709f65d2406d205ee9be7c7e443183f8e2d509a4058474f"
     },
@@ -135,7 +135,7 @@
       "verse_count": 33,
       "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
       "before_sha256": "44e795be1d3e44ade0eef5ea69315b617362a59cd4243f5c5277d427d8f9d4be",
-      "after_sha256": "8ffa7c25701ff3285e36224f35c20846a0a7cc239e7a6059431a81191d0adc12",
+      "after_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
       "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_11.md",
       "tsw_comparator_sha256": "18ac5c63cbbeeb81553e111d52718b6d246566e3a183a732f47ebc00cbef7c1f"
     },
@@ -3519,5 +3519,12 @@
       "F0": 5,
       "F3": 148
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

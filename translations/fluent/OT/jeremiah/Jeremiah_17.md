@@ -111,9 +111,6 @@ v23: But they did not listen or incline their ears. They stiffened their necks, 
 
 <p>
 v24: “If you truly listen to me,” declares the **LORD**, “bringing no load through this city’s gates on the Sabbath day and keeping the Sabbath holy by doing no work on it,
-</p>
-
-<p>
 v25: then kings and officials sitting on David’s throne will enter this city’s gates, riding in chariots and on horses—they and their officials, the people of Judah and Jerusalem’s inhabitants. This city will be inhabited forever.
 </p>
 

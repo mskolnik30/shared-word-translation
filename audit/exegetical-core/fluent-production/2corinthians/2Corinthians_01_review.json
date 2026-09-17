@@ -47,7 +47,7 @@
     "verse_count": 24,
     "path": "translations/fluent/NT/2corinthians/2Corinthians_01.md",
     "before_sha256": "20cf4e72126d4ff6d76a257f189f10ad357db202a5ce0a88c8b1b34763970724",
-    "after_sha256": "b8f645e4a70327640b1509a770db630ccdfbb71fa77492d494d0d0302a07736e",
+    "after_sha256": "950f24d7addd5df710b3c1c5c819deee7c99c95d3fd61d55413118ea5b6631d6",
     "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_01.md",
     "tsw_comparator_sha256": "cc69da5e682e7a8eafd34d6378b6ebd8c1652d4e5b989b7b7a45cce71a9588d3"
   },
@@ -168,6 +168,14 @@
       "tsw_comparator": "Not that we lord it over your faith, but we are coworkers for your joy, for you stand firm in the faith.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.651163,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "b8f645e4a70327640b1509a770db630ccdfbb71fa77492d494d0d0302a07736e",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

@@ -83,7 +83,7 @@
       "verse_count": 6,
       "path": "translations/fluent/OT/isaiah/Isaiah_04.md",
       "before_sha256": "0a2b725567140a3b42bfdf3b1a465941c21f2693a05c3b9a9299d5b2345a0e6b",
-      "after_sha256": "290dc4ea7b0983d5d5d3d6eb86cfa3aaabd49e8241679d50e7176eeb5a66a161",
+      "after_sha256": "196ed2e848d52a012f66f1a719b052322bd007eca7bdb07e25047656da95e49e",
       "tsw_comparator_path": "books/OT/isaiah/Isaiah_04.md",
       "tsw_comparator_sha256": "4d528024c6956af1397ce8bf940a7a27ffd8204fa6dfce94313e5594a55920c3"
     },
@@ -218,7 +218,7 @@
       "verse_count": 25,
       "path": "translations/fluent/OT/isaiah/Isaiah_19.md",
       "before_sha256": "01eb5d79fbcb6837621781ff736efb395aaaf33afd38de39b29a3c98c628f39b",
-      "after_sha256": "7f1f93263d1ad183a47f6eeae53bdaad6a377791b53aeb8d2fdd0451dafebead",
+      "after_sha256": "5403935f03af81ddb89f298265aea6805deebefe01081098b918eee0ab7146fb",
       "tsw_comparator_path": "books/OT/isaiah/Isaiah_19.md",
       "tsw_comparator_sha256": "3cb39be5c5054f25721f32aaefd515ce7663052874eb55838269791e7d5ddb2d"
     },
@@ -6007,5 +6007,12 @@
       "F2": 354,
       "F3": 87
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

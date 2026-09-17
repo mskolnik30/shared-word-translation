@@ -47,7 +47,7 @@
     "verse_count": 18,
     "path": "translations/fluent/NT/2corinthians/2Corinthians_06.md",
     "before_sha256": "3050437434a8ad3aab438a72dd64851fe4b5c7fb15b35bf6f2e4ae49c40e1a11",
-    "after_sha256": "b9a24bf9f4b50be64a3d28968302f492b2ce7358279fb54ff5d1fe1643fb9737",
+    "after_sha256": "9af02005f0ed3ab54c9a2a6426d3590afa5e1da51965ef0ab3516fe097220351",
     "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_06.md",
     "tsw_comparator_sha256": "5e7cccb3970cae705709f65d2406d205ee9be7c7e443183f8e2d509a4058474f"
   },
@@ -194,6 +194,14 @@
       "tsw_comparator": "and I will be a father to you, and you shall be sons and daughters to me, says the Lord Almighty.”",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "b9a24bf9f4b50be64a3d28968302f492b2ce7358279fb54ff5d1fe1643fb9737",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

@@ -49,7 +49,7 @@
     "verse_count": 15,
     "path": "translations/fluent/OT/jeremiah/Jeremiah_19.md",
     "before_sha256": "2cc860fca5e2228882b1f765e0279f7239ac7ba750160729ddfd606e5bca80ba",
-    "after_sha256": "ac253d64a0638a71a7f792a4e974cb96facc41c3eb014fd0fbdb6d7ec019f454",
+    "after_sha256": "98ab396f64ec68d633e43383037e01591fc0353b81d79b5f58154c610aa1ae48",
     "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_19.md",
     "tsw_comparator_sha256": "bb3ae9cdf595aab2a2bb331121356db35e14a276ba6052e547cf37749f972f2e"
   },
@@ -74,6 +74,14 @@
       "reference": "Jeremiah 19:11",
       "decision": "Keeps irreparable baked vessel distinct from remoldable clay and burial-space cause.",
       "delta": "F3"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "ac253d64a0638a71a7f792a4e974cb96facc41c3eb014fd0fbdb6d7ec019f454",
+      "editorial_status": "REVIEW_PENDING"
     }
   ]
 }

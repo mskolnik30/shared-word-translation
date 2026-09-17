@@ -730,6 +730,10 @@
   ],
   "next_work": [
     {
+      "scope": "Resolve full-corpus audit findings",
+      "action": "Read the full-corpus report and remaining-actions.json. Finish apparatus, paragraph/heading, key-term, and continuous-reading review without a word-change quota; rebind any changed text."
+    },
+    {
       "scope": "Independent editorial review and reader testing",
       "action": "All 1189 chapters have revision drafts. Obtain independent original-language editorial review and reader testing; complete queued whole-book consistency reviews and Companion quotation/binding reconciliation. No publication approval is implied."
     },
@@ -1063,5 +1067,14 @@
     "ledgers": 145
   },
   "draft_completion_evidence": "audit/fluent-revision/2026-09-17-revelation-1-22/verification.json",
-  "continuation_automation_next_action": "Pause existing drafting automation after the verified complete checkpoint is saved; drafting through Revelation 22 is complete."
+  "continuation_automation_next_action": "Pause existing drafting automation after the verified complete checkpoint is saved; drafting through Revelation 22 is complete.",
+  "completed_corpus_audits": [
+    {
+      "scope": "All 66 books: structural/source binding and overlap screens, targeted bilingual review",
+      "report": "audit/fluent-revision/2026-09-17-full-corpus-audit/Fluent-Translation-Audit.md",
+      "status": "AUDIT_COMPLETE_WITH_OPEN_FINDINGS",
+      "independent_editorial_review": "REVIEW_PENDING",
+      "publication_allowed": false
+    }
+  ]
 }

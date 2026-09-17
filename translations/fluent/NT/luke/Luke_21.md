@@ -81,8 +81,6 @@ v38: Early each morning, all the people came to him in the temple courts to list
 
 ## Notes
 
-v01–04: Jesus observes that the widow gives her entire livelihood. In the immediate context of leaders who devour widows’ houses, the scene should not be used to pressure poor people into destitution.
-
 v16–19: The passage holds together real betrayal and death with the promise that not a hair will perish and that endurance gains life. The translation preserves the tension rather than explaining it away.
 
 v20–24: The warning names Jerusalem, armies, flight, killing, captivity, and trampling. Pregnant women and nursing mothers are singled out because siege and displacement intensify their vulnerability.

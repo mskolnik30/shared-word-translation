@@ -94,7 +94,7 @@
       "verse_count": 34,
       "path": "translations/fluent/OT/jeremiah/Jeremiah_07.md",
       "before_sha256": "f305211224ed9b1ed63ca4279717ed29b5e23fc9524c778db3b6f121931a0ce4",
-      "after_sha256": "fa5ea53af616f69f3e15dc1b2d2e071f2ea2aad957d0e06545e16242a3ebd8cf",
+      "after_sha256": "dd6b7384dcb747b6a005a92f55e2924b51201707a84d5171c8ede0228a04fb8a",
       "tsw_comparator_path": "books/OT/jeremiah/Jeremiah_07.md",
       "tsw_comparator_sha256": "6b72128378ae0a2c92066497b3e0e7930642cf259dd08e1485e403fdd6411f5e"
     }
@@ -2806,5 +2806,12 @@
       "F3": 22,
       "F0": 1
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

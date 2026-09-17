@@ -15,9 +15,6 @@ revision_id: fluent-2samuel-6-24-biblical-fluency-2026-09-14
 <p>
 v01: After this, the king of Ammon died, and his son Hanun became king in his place.
 v02: David said, “I will show steadfast love to Hanun son of Nahash, as his father showed it to me.” He sent servants to console Hanun over his father’s death. When David’s servants reached Ammon,
-</p>
-
-<p>
 v03: the Ammonite leaders told their lord Hanun, “Do you think David sent these consolers to honor your father? Has he not sent his servants to examine the city, spy it out, and overthrow it?”
 v04: Hanun seized David’s servants, shaved off half of each man’s beard, cut their clothes halfway up to their buttocks, and sent them away.
 </p>

@@ -30,13 +30,7 @@ v04: Do not trust deceptive words: “The **LORD**’s temple! The **LORD**’s 
 
 <p>
 v05: If you truly put your ways and deeds right, if you truly do justice between one person and another,
-</p>
-
-<p>
 v06: if you do not oppress the resident foreigner, the orphan or the widow, do not shed innocent blood in this place, and do not follow other gods to your own harm,
-</p>
-
-<p>
 v07: then I will let you live in this place, in the land I gave your ancestors from long ago and forever.
 </p>
 
@@ -46,9 +40,6 @@ v08: But look, you trust deceptive words that cannot help.
 
 <p>
 v09: Will you steal, murder, commit adultery, swear falsely, burn offerings to Baal and follow other gods you have not known,
-</p>
-
-<p>
 v10: then come and stand before me in this house that bears my name, and say, “We are safe!”—only to go on doing all these offensive things?
 </p>
 
@@ -62,9 +53,6 @@ v12: ‘Go now to my place at Shiloh, where I first made my name dwell. See what
 
 <p>
 v13: Now, because you have done all these things,’ declares the **LORD**, ‘and because I spoke to you persistently but you did not listen, called you but you did not answer,
-</p>
-
-<p>
 v14: I will do to the house that bears my name, the house you trust, and to the place I gave you and your ancestors, what I did to Shiloh.
 </p>
 

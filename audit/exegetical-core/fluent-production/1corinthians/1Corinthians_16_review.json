@@ -50,7 +50,7 @@
     "verse_count": 24,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_16.md",
     "before_sha256": "d46108fb00e58cc9f9b6f28f72369ffaa55cc966a4167993f7a64d741ace30ff",
-    "after_sha256": "1a3223ceade03d43affc35c3c940b48563fcf1bc4ac1105df9fdee2679e618bc",
+    "after_sha256": "a5468ea44194192e636be76f7a432678ffcb50f7846e957ccab3eb0817b3cc93",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_16.md",
     "tsw_comparator_sha256": "58fd27b33102fd85f0c562512dc1206526f5fd643fc4d2ce42d11a31132a1d59"
   },
@@ -158,6 +158,14 @@
       "tsw_comparator": "If anyone does not love the Lord, let him be accursed. Our Lord, come!",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "1a3223ceade03d43affc35c3c940b48563fcf1bc4ac1105df9fdee2679e618bc",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

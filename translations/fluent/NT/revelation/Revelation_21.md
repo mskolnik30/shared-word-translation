@@ -27,7 +27,7 @@ Grief, crying and pain will be no more,
 because the former things have passed away.”
 v05: The one seated on the throne said, “Look, I am making all things new.” He also said, “Write, because these words are faithful and true.”
 v06: He said to me, “These things are done. I am the Alpha and the Omega, the beginning and the end. I will give freely from the spring of the water of life to anyone who thirsts.
-v07: The one who overcomes will inherit these things, and I will be their God, and they will be my son.
+v07: The one who overcomes will inherit these things. I will be that person's God, and that person will be my son.
 v08: But as for the cowardly, the faithless, the detestable, murderers, the sexually immoral, sorcerers, idolaters and all liars, their portion will be in the lake burning with fire and sulfur. This is the second death.”
 </p>
 

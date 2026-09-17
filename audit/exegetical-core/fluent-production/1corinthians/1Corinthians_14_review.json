@@ -50,7 +50,7 @@
     "verse_count": 40,
     "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
     "before_sha256": "33a8a13320776e875f07a34cfe82a589f93f58d946ee88d300da2f643014b1c7",
-    "after_sha256": "37f5ddc054897e6b380f29806fb96939fff443ac1b29e1f4469a34e4bf853867",
+    "after_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
     "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_14.md",
     "tsw_comparator_sha256": "3a3f57846b31f7fa55ec6a3b78646bfcdfec26b4dc645c371ccc535099690094"
   },
@@ -301,6 +301,14 @@
       "tsw_comparator": "But if anyone ignores this, he is ignored.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ],
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "previous_chapter_sha256": "37f5ddc054897e6b380f29806fb96939fff443ac1b29e1f4469a34e4bf853867",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

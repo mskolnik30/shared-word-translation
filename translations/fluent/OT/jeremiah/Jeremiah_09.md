@@ -147,9 +147,6 @@ declares the **LORD**.
 
 <p>
 v24: “Look, days are coming,” declares the **LORD**, “when I will call to account all who are circumcised yet uncircumcised—
-</p>
-
-<p>
 v25: Egypt, Judah, Edom, the Ammonites, Moab, and all who clip the edges of their hair and live in the wilderness. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”
 </p>
 

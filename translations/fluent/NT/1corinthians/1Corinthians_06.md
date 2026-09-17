@@ -78,8 +78,6 @@ v12–13: The repeated ‘everything is permissible’ and food/stomach lines li
 
 v15–20: Paul grounds sexual ethics in bodily union, resurrection, the Spirit's indwelling, and belonging to God; the body is not treated as disposable.
 
-v07–8: Paul names accepting wrong as preferable to believers using public litigation to wrong and defraud one another; he does not call abuse harmless.
-
 ## Vocabulary
 
 v09: **μαλακός (malakos)**: Literally soft; here a disputed term for a passive male sexual role.

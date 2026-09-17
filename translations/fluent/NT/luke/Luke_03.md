@@ -26,22 +26,50 @@ and every mountain and hill brought low.
 Crooked ways will become straight,
 and rough paths smooth,
 v06: and all flesh will see God's salvation.’”
+</p>
+
+<p>
 v07: John said to the crowds coming out to be baptized by him, “You brood of vipers! Who warned you to flee from the coming wrath?
 v08: Then bear fruit worthy of repentance. Do not start telling yourselves, ‘We have Abraham as our father.’ I tell you, God can raise up children for Abraham from these stones.
 v09: The ax is already lying at the root of the trees. Every tree that fails to bear good fruit is cut down and thrown into the fire.”
+</p>
+
+<p>
 v10: The crowds asked him, “What, then, should we do?”
 v11: He answered, “Anyone with two tunics should share with someone who has none. Anyone with food should do the same.”
+</p>
+
+<p>
 v12: Tax collectors also came to be baptized. “Teacher,” they asked, “what should we do?”
 v13: He told them, “Collect no more than you have been authorized to collect.”
+</p>
+
+<p>
 v14: Soldiers also asked, “And what should we do?” He said, “Do not extort money or accuse anyone falsely. Be content with your pay.”
+</p>
+
+<p>
 v15: The people were full of expectation, and everyone was wondering in their hearts whether John might be the Messiah.
 v16: John answered them all, “I baptize you with water. But someone stronger than I is coming, and I am not worthy to untie his sandal strap. He will baptize you with the Holy Spirit and fire.
 v17: His winnowing fork is in his hand, ready to clear his threshing floor and gather the wheat into his storehouse. But he will burn the chaff with fire that cannot be put out.”
+</p>
+
+<p>
 v18: With many other appeals like these, John proclaimed the good news to the people.
 v19: But John rebuked Herod the tetrarch over Herodias, his brother's wife, and over all the evil Herod had done.
 v20: Herod added this to it all: he locked John in prison.
+</p>
+
+## The Baptism of Jesus
+
+<p>
 v21: When all the people were baptized, Jesus was baptized too. As he prayed, heaven opened,
 v22: and the Holy Spirit descended upon him in bodily form like a dove. A voice came from heaven: “You are my beloved Son; in you I take delight.”
+</p>
+
+## The Ancestry of Jesus
+
+<p>
 v23: Jesus was about thirty years old when he began his work. He was, as people supposed, the son of Joseph,
 son of Heli,
 v24: son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,

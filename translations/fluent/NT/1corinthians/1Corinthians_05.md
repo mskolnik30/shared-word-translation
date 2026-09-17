@@ -21,9 +21,6 @@ v02: And you are puffed up! Should you not instead have mourned, so that the one
 <p>
 v03: For though absent in body, I am present in spirit, and as though present I have already judged the one who did this.
 v04: When you are assembled in the name of our Lord Jesus, and I am with you in spirit, with the power of our Lord Jesus,
-</p>
-
-<p>
 v05: hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the day of the Lord.
 </p>
 

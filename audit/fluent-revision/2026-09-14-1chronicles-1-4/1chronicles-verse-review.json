@@ -61,7 +61,7 @@
       "verse_count": 43,
       "path": "translations/fluent/OT/1chronicles/1Chronicles_04.md",
       "before_sha256": "b9e4040b338c8ce737bdec488a258f880889933bb70356eaa4ce9597a1003279",
-      "after_sha256": "aadfeb3e8a268bc22186b9d5f86bcf1b287025ba0b052351dea43a876a357eb5",
+      "after_sha256": "9e05793db119656e94a9f1fe34e976bd0190f0ddf8774bf4f577852a88215cec",
       "tsw_comparator_path": "books/OT/1chronicles/1Chronicles_04.md",
       "tsw_comparator_sha256": "4e53531425fa9d36609b03ad6909adb5762c3bfc9ed90df64925ecb8b03d8092"
     }
@@ -2370,5 +2370,12 @@
       "F3": 39,
       "F2": 116
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

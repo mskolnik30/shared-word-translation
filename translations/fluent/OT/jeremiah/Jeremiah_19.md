@@ -14,9 +14,6 @@ revision_id: fluent-jeremiah-8-20-biblical-fluency-2026-09-16
 
 <p>
 v01: This is what the **LORD** said: “Go and buy an earthenware jar from a potter. Take some of the elders of the people and some of the senior priests,
-</p>
-
-<p>
 v02: and go out to the Valley of Ben-hinnom, at the entrance of the Potsherd Gate. There proclaim the words I tell you.
 </p>
 

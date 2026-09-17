@@ -22,15 +22,9 @@ v02: For he says, “At an acceptable time I listened to you, and on a day of sa
 v03: We put no obstacle in anyone's way, so that the ministry will not be discredited.
 v04: Instead, in everything we commend ourselves as God's servants: through great endurance, in afflictions, hardships, and distress,
 v05: in beatings, imprisonments, and riots, in hard work, sleepless nights, and hunger,
-</p>
-
-<p>
 v06: in purity, knowledge, patience, and kindness, in the Holy Spirit and sincere love,
 v07: in truthful speech and God's power, with the weapons of righteousness in the right hand and the left,
 v08: through glory and dishonor, slander and praise; treated as deceivers, yet truthful;
-</p>
-
-<p>
 v09: as unknown, yet fully known; as dying, yet look—we live; as punished, yet not put to death;
 v10: as grieving, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.
 </p>

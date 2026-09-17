@@ -63,7 +63,7 @@
       "verse_count": 29,
       "path": "translations/fluent/NT/revelation/Revelation_02.md",
       "before_sha256": "0d9665ca011ff3b12e769295f28882f1d54393f5163f1c25b7d868043a32ac0f",
-      "after_sha256": "a88de2e04d10b06fa0df3b50336dc705a04ffbaaed483c40be3b50c3bddb4848",
+      "after_sha256": "772e3d1239e70281c0b32774f230bfc24822722fc4aef5a3aed59633750daf76",
       "tsw_comparator_path": "books/NT/revelation/Revelation_02.md",
       "tsw_comparator_sha256": "be25965d2c2fd038242358457dc978f1d0369af45356b64a65a1acad354e5cbb",
       "tsw_public_labels": [
@@ -330,7 +330,7 @@
       "verse_count": 27,
       "path": "translations/fluent/NT/revelation/Revelation_21.md",
       "before_sha256": "45729e8b63f9d54ab3e297b40b35660b91e8d3971a92b6752264e12f3dc00d7d",
-      "after_sha256": "14d215adb56134077315f944e008f3f841f47391b2c9c4d822d740bb914fc2fa",
+      "after_sha256": "f5ab68b8e62f45fad0530fe7f9d579c59696d90005dfb0f61345ba9fb20bf338",
       "tsw_comparator_path": "books/NT/revelation/Revelation_21.md",
       "tsw_comparator_sha256": "1f2bbba50504cc41a66d76a4539857ac147f09366331459779aa3c90d83269cc"
     },
@@ -898,11 +898,19 @@
       "source_reference": "Rev 2:23",
       "source_verse_sha256": "5666def4906500153a2a545d2915f70e44993a014b9c486eee049b7f8328c9cb",
       "before": "and I will strike her children dead. And all the churches will know that I am the one who searches mind and heart, and I will give to each of you according to your works.",
-      "after": "I will kill her children with death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
+      "after": "I will put her children to death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
       "tsw_comparator": "and I will strike her children dead. And all the churches will know that I am the one who searches mind and heart, and I will give to each of you according to your works.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.811594,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "2026-09-17-full-corpus-audit",
+          "previous_after": "I will kill her children with death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
+          "rationale": "Render the emphatic death expression in natural English without specifying plague or changing children to an explanatory label; retain the literal/plague possibility in the note.",
+          "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c"
+        }
+      ]
     },
     {
       "reference": "Revelation 2:24",
@@ -5069,11 +5077,19 @@
       "source_reference": "Rev 21:7",
       "source_verse_sha256": "88007a24b42a6f4057576eb4efa1dfc711a33508bc0fbd8b2ead19cfe5029e4b",
       "before": "The one who conquers will inherit these things, and I will be his God and he will be my son.",
-      "after": "The one who overcomes will inherit these things, and I will be their God, and they will be my son.",
+      "after": "The one who overcomes will inherit these things. I will be that person's God, and that person will be my son.",
       "tsw_comparator": "The one who conquers will inherit these things, and I will be his God and he will be my son.",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.85,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "2026-09-17-full-corpus-audit",
+          "previous_after": "The one who overcomes will inherit these things, and I will be their God, and they will be my son.",
+          "rationale": "Make the singular generic recipient explicit while preserving the scriptural sonship formula and the promised inheritance.",
+          "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c"
+        }
+      ]
     },
     {
       "reference": "Revelation 21:8",
@@ -5617,5 +5633,12 @@
       "F2": 291,
       "F0": 2
     }
-  }
+  },
+  "subsequent_editorial_audits": [
+    {
+      "audit": "audit/fluent-revision/2026-09-17-full-corpus-audit/corrections.json",
+      "base_commit": "dc09c88b7080e042e915474fe50e92f56adeee3c",
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
