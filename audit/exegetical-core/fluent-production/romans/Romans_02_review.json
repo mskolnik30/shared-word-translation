@@ -2,232 +2,127 @@
   "book": "Romans",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 29,
-  "included_verse_labels": 29,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_02_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_02.md",
-    "blob_sha": "9bc1f3e87da96fca04db97a1c8ef7b671f92fbe1"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "fa352709150165b184da6f03affafeb1cdfd0e5e6dbbf62ec5b7a9682ee17b06"
-      },
-      "2": {
-        "source_ref": "Romans 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "8b4f6601743a3121d18223a0b2750dab69d802039d5148dcb115c9d83d91a195"
-      },
-      "3": {
-        "source_ref": "Romans 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "0e5f46c9005cba103d68fb44fb89d24f88c57ae75c421c1b720d2518b74a709b"
-      },
-      "4": {
-        "source_ref": "Romans 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "986e860ab7d0cbd9f32e5725bf0dd5131256c55601049638ae4b3b8a5a52351c"
-      },
-      "5": {
-        "source_ref": "Romans 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "769d0b1aef98e25eade75a652ad85c3c44605fc8e1f3d87acae505b187908c82"
-      },
-      "6": {
-        "source_ref": "Romans 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "7bc566b358ced39f04176de0075e7650f302fac44f74cb3ea70bc02e3e9fd6c7"
-      },
-      "7": {
-        "source_ref": "Romans 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "00773a57dae01104904d0b5bb9abd8b32e163a340898d787cef3ff275a29b6fc"
-      },
-      "8": {
-        "source_ref": "Romans 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "fcd98ea395796077768d6f5e9f6a72d059ffd09d8177fff7451334e6a3eab9d6"
-      },
-      "9": {
-        "source_ref": "Romans 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "6ea03a06e3a04ce7b222a23190996a524c82e1b5e9a94e81a83200cff2f4a389"
-      },
-      "10": {
-        "source_ref": "Romans 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "1ac7231e54b785f8cbedf4f1393dfda0e64a2304e26758f79ceff1d422402568"
-      },
-      "11": {
-        "source_ref": "Romans 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "2cd9322ef8e372c24a22a7a328f76734bc44741a6549cc531d2f8123cc02662d"
-      },
-      "12": {
-        "source_ref": "Romans 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "a71096704e58e35dacf2c63e2765483b342cbca597173e498e42bace7f44edf0"
-      },
-      "13": {
-        "source_ref": "Romans 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "ed8a9ccc33ff0090d5526c97ee795ab89a762d8d9d3ef312dabd748c42635067"
-      },
-      "14": {
-        "source_ref": "Romans 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "d74714976b8610cb2853af10b3f59b86b3f0ef1b597532d9d250277482b63d86"
-      },
-      "15": {
-        "source_ref": "Romans 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "9a29a1f7cfb531c10a4ebb6e42df40b15831802336822a08748f796be038b821"
-      },
-      "16": {
-        "source_ref": "Romans 2:16",
-        "source_chapter": 2,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "7abf371cabe8f56c461e7b5dca2d958d9e65d2d6299f7af5c9e7bea95ea1183a"
-      },
-      "17": {
-        "source_ref": "Romans 2:17",
-        "source_chapter": 2,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "706374e9673b34f75fa5329a227d583213e7616d627c85eafad164705091ce7b"
-      },
-      "18": {
-        "source_ref": "Romans 2:18",
-        "source_chapter": 2,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "87c8a2dd6d5d492c02a27f78c2186a170bae946d3df8693fe755e8222caea8a9"
-      },
-      "19": {
-        "source_ref": "Romans 2:19",
-        "source_chapter": 2,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "dbc7e423712c5dd3297897dae98251958fc81a58a99abdeeb82c84ac1d840c7b"
-      },
-      "20": {
-        "source_ref": "Romans 2:20",
-        "source_chapter": 2,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "b7ea8ff0d1fd5d60beafb57751741bce1c73feeb0d76bb8fdc17702be722d537"
-      },
-      "21": {
-        "source_ref": "Romans 2:21",
-        "source_chapter": 2,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "d35a560e5d8483e0a7e3c5f6a7878ee186d269949154a52dd62eb395f39489bd"
-      },
-      "22": {
-        "source_ref": "Romans 2:22",
-        "source_chapter": 2,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "6c3da55cda4de8ae0676fc962f566387a7b8a68cf0a642d8836dca305e8bca89"
-      },
-      "23": {
-        "source_ref": "Romans 2:23",
-        "source_chapter": 2,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "eab196c320a22c2ada994626bf39700a32fcb12c372d1c06ba97b38af7524d30"
-      },
-      "24": {
-        "source_ref": "Romans 2:24",
-        "source_chapter": 2,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "f2039eeb0368713b251d89779f28c23ab353033bfcceb48dd3e39d320255ca13"
-      },
-      "25": {
-        "source_ref": "Romans 2:25",
-        "source_chapter": 2,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "5597e57afe64711749b3676b26ba4fbfb448ed5977e9a8e621b1a81a0a6b8115"
-      },
-      "26": {
-        "source_ref": "Romans 2:26",
-        "source_chapter": 2,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "cb0edddc54abf177b001d0126d77e516dd8d110dedd27fcea44c822db6fad20f"
-      },
-      "27": {
-        "source_ref": "Romans 2:27",
-        "source_chapter": 2,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "dd2d615b54b64c42797680834f732d222a1e7f3f560390267c178e6f820b8bfa"
-      },
-      "28": {
-        "source_ref": "Romans 2:28",
-        "source_chapter": 2,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "acee5a95b900cf251c19785b90a4e0101157e56cffbe366804dd9f0c63470c7a"
-      },
-      "29": {
-        "source_ref": "Romans 2:29",
-        "source_chapter": 2,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "950f839f278b9dababa3626650ed840d25fbd44f75f18e5b01a8c7c4029b8db0"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 29,
+    "path": "translations/fluent/NT/romans/Romans_02.md",
+    "before_sha256": "27ac331d87a357fe289197aad4433efbab9a24162a51355d107347dce9fb190c",
+    "after_sha256": "f6e58ca4f9a987da15fc6bd8633334369f87cfe77d23ec7f6eedd1eff1dce1d4",
+    "tsw_comparator_path": "books/NT/romans/Romans_02.md",
+    "tsw_comparator_sha256": "69ed95bbd984de5815ac9d5d176b92a34edc7e58ef2f12824d12a811d4e080b3"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 2:1",
+      "delta": "F3",
+      "rationale": "Keeps direct singular address, inference, judicial wordplay, self-condemnation, and identical conduct.",
+      "source_reference": "Rom 2:1",
+      "source_verse_sha256": "54bfd458c60633ca2c429d996900e7a1fb8df73f0e896fa86994c2baaae818a5",
+      "before": "Therefore you are without excuse, whoever you are who judges. For in judging someone else, you condemn yourself, because you who judge practice the same things.",
+      "after": "Therefore you are without excuse, whoever you are who judges. For in judging someone else, you condemn yourself, because you who judge practice the same things.",
+      "tsw_comparator": "Therefore you are without excuse, O man, every one who judges; for in that which you judge another, you condemn yourself, for you who judge practice the same things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.690909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 2:13",
+      "delta": "F3",
+      "rationale": "Keeps hearing/doing contrast, divine presence, and future justification language.",
+      "source_reference": "Rom 2:13",
+      "source_verse_sha256": "1fa2232e75fb708a8e3f2b4b5c85ad4cd5b49d58ffb0da6375b704738dea57f5",
+      "before": "For it is not the hearers of the Law who are righteous before God, but the doers of the Law who will be set right.",
+      "after": "For it is not the hearers of the Law who are righteous before God, but the doers of the Law who will be declared righteous.",
+      "tsw_comparator": "for not the hearers of the law are righteous before God, but the doers of the law will be justified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 2:14",
+      "delta": "F3",
+      "rationale": "Preserves Gentile identity, absence of Torah, nature/instinct, actual doing, and reflexive law relation.",
+      "source_reference": "Rom 2:14",
+      "source_verse_sha256": "870478c77dc6f877d364da4ec30454964b6711b5cdedbf2aba6c305e972ac01e",
+      "before": "When Gentiles who do not have the Law do by nature the things of the Law, they are a law to themselves even though they do not have the Law.",
+      "after": "For whenever Gentiles who do not have the Law do instinctively what the Law requires, these people, though not having the Law, are a law to themselves.",
+      "tsw_comparator": "For when Gentiles, who do not have the law, do by nature the things of the law, these, though not having the law, are a law to themselves,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 2:16",
+      "delta": "F3",
+      "rationale": "Supplies the implied temporal connection while preserving day, gospel, divine judgment, secrets, and mediation.",
+      "source_reference": "Rom 2:16",
+      "source_verse_sha256": "21b942ad5107c4cc3d97874584836ec98a45795918f947d99ec708ab6c95183a",
+      "before": "This will be on the day when God judges people’s hidden things through Christ Jesus, according to my good news.",
+      "after": "This will be evident on the day when, according to my good news, God judges people's secrets through Christ Jesus.",
+      "tsw_comparator": "on the day when God judges the secrets of men through Jesus Christ, according to my gospel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.378378,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 2:25",
+      "delta": "F3",
+      "rationale": "Keeps conditional benefit, action, violation, and status reversal.",
+      "source_reference": "Rom 2:25",
+      "source_verse_sha256": "c3d8e924466cca4275de17336ed750e98724f85b81f87bb471dae7b50c9a691e",
+      "before": "Circumcision is indeed valuable if you practice the Law, but if you break the Law, your circumcision has become uncircumcision.",
+      "after": "Circumcision is indeed beneficial if you practice the Law; but if you break the Law, your circumcision has become uncircumcision.",
+      "tsw_comparator": "For circumcision indeed profits if you practice the law; but if you are a transgressor of the law, your circumcision has become uncircumcision.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.790698,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 2:29",
+      "delta": "F3",
+      "rationale": "Keeps inward identity, heart metaphor, Spirit/letter contrast, praise wordplay, and divine source.",
+      "source_reference": "Rom 2:29",
+      "source_verse_sha256": "0d5af921ecfb222f49cb15ae3dc70188f36bb95e103e0abfa10f691999b27250",
+      "before": "Rather, a Jew is one inwardly, and circumcision is of the heart, by the Spirit, not by the written code. Such a person’s praise comes not from people but from God.",
+      "after": "Rather, a person is Jewish inwardly, and circumcision is of the heart—by the Spirit, not by the written code. That person's praise comes not from people but from God.",
+      "tsw_comparator": "but he is a Jew who is one inwardly, and circumcision is of the heart, in spirit, not in letter, whose praise is not from men but from God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.576271,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

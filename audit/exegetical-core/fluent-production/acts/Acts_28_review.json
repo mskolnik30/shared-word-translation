@@ -2,232 +2,108 @@
   "book": "Acts",
   "chapter": 28,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 30,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_28.md",
-    "blob_sha": "f04622b3f8eaf6e0b2b0dadee79aa28fb54785d5"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-15-28-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_28_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 28:1",
-        "source_chapter": 28,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "df661f2f18eedca6d44f6bde6695a99187e16e846b0d746e035bf643e8ef8c5b"
-      },
-      "2": {
-        "source_ref": "Acts 28:2",
-        "source_chapter": 28,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "9d6e7411d11028c83269d95c6cd2a47b94a92c1dd8480e66be3f1a60f7b88cca"
-      },
-      "3": {
-        "source_ref": "Acts 28:3",
-        "source_chapter": 28,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "6c0db8df1674ed0dc5b92490701ad9d79d00dbfe7264bc8a8e0c3a5f8da2aca3"
-      },
-      "4": {
-        "source_ref": "Acts 28:4",
-        "source_chapter": 28,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "adced7083c0941ecaec73ac5311badbe830683eb936c65db1926c55b4da7d1a1"
-      },
-      "5": {
-        "source_ref": "Acts 28:5",
-        "source_chapter": 28,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "240f7f07d9bc6a283233574c6a3ed570d590bd642dc9f3da62c65e1175e99ce3"
-      },
-      "6": {
-        "source_ref": "Acts 28:6",
-        "source_chapter": 28,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "1584790fc8664743b3c0918579ec8bc4e7ecacf4e15f02e221ea583718504062"
-      },
-      "7": {
-        "source_ref": "Acts 28:7",
-        "source_chapter": 28,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "04390c534602e2f071b75d0ddd2d8ef5d1963e976b0b9bdbc53b140d895e1252"
-      },
-      "8": {
-        "source_ref": "Acts 28:8",
-        "source_chapter": 28,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "e1989dd81d8c92d5c09e0a4869f1ad39e1fe4c46866f081bf90e66bcb955da44"
-      },
-      "9": {
-        "source_ref": "Acts 28:9",
-        "source_chapter": 28,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8b6a15d28c9ff4b0a3a580dfe257bec4ec6d7de7c5352605de2dff7518363944"
-      },
-      "10": {
-        "source_ref": "Acts 28:10",
-        "source_chapter": 28,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "a79f36fa99b8f530f6809afce10cecf67cf5c3b57475197188d80372f2d31d20"
-      },
-      "11": {
-        "source_ref": "Acts 28:11",
-        "source_chapter": 28,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "7830de27b950e1a2cecf486c69dcd1db72511d30da476a64720c2b70b7a22d52"
-      },
-      "12": {
-        "source_ref": "Acts 28:12",
-        "source_chapter": 28,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ca77b3d14ea3686fd1cea19949ddfc9a9bbb92d2aef01451acc41427d2877f9e"
-      },
-      "13": {
-        "source_ref": "Acts 28:13",
-        "source_chapter": 28,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "9afceae93127c37502985f0538d4ce1f2e2dc6d307bf3ab437992fe038bec277"
-      },
-      "14": {
-        "source_ref": "Acts 28:14",
-        "source_chapter": 28,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "d7f40296d8154cd03d6a1ed7772c34dbf60e643785786719f41cd98888382847"
-      },
-      "15": {
-        "source_ref": "Acts 28:15",
-        "source_chapter": 28,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "99cc150f545579e31fc726cb3314e3ab985e704dda4f0b582080f00ff40f1a8e"
-      },
-      "16": {
-        "source_ref": "Acts 28:16",
-        "source_chapter": 28,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "57e466b42cf1f47343a31a5c0d16e1757001f9684b833d523919b6e0cba029f5"
-      },
-      "17": {
-        "source_ref": "Acts 28:17",
-        "source_chapter": 28,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "d50df0f051e610a6f060cf0304e6177268f165573914fbc4d9736f8aa4d1cd2b"
-      },
-      "18": {
-        "source_ref": "Acts 28:18",
-        "source_chapter": 28,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8d5f659a1b3ba03c0dbec671e706621b5dad945bda643a2434a3e8920d576113"
-      },
-      "19": {
-        "source_ref": "Acts 28:19",
-        "source_chapter": 28,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "7e4f688876b8391cb1c4d5cb393978c1b92d6261fefe55d20b7ccf6b8965bd9d"
-      },
-      "20": {
-        "source_ref": "Acts 28:20",
-        "source_chapter": 28,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "7e6e8121d9a3fd6da8bad3d59138f340c25e103f63b36d1b736065b79ad70d60"
-      },
-      "21": {
-        "source_ref": "Acts 28:21",
-        "source_chapter": 28,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "4d675bc5bc27fffec9cef8451813d0631dac8f92d0906c2d7e0207efd3e5fce7"
-      },
-      "22": {
-        "source_ref": "Acts 28:22",
-        "source_chapter": 28,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "d35179d5ea51e24f980ce8022110bb58b4834b5aca0fa7182da6258c391e7fd6"
-      },
-      "23": {
-        "source_ref": "Acts 28:23",
-        "source_chapter": 28,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "e0b6035216d9ac55db50b41ceb73e888456d8ca40901fbea83454a9d3e6d24a4"
-      },
-      "24": {
-        "source_ref": "Acts 28:24",
-        "source_chapter": 28,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "8bee5afcd0dc437359f2d03e95fd2fe7485122dec1712ff1a5d59d1c7a2dd90f"
-      },
-      "25": {
-        "source_ref": "Acts 28:25",
-        "source_chapter": 28,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "5acc720e98b78fd81bfae002574b84f295c8cbbe541837d47aacad9ddccba133"
-      },
-      "26": {
-        "source_ref": "Acts 28:26",
-        "source_chapter": 28,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "3fcffececbf2c31063dead0af24d38ae9852a24d7fb7f245155976ae4d2d9145"
-      },
-      "27": {
-        "source_ref": "Acts 28:27",
-        "source_chapter": 28,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "d0796291edbaef1d9217e7630249c919e564cca1cf448138aeaa403c790b86a5"
-      },
-      "28": {
-        "source_ref": "Acts 28:28",
-        "source_chapter": 28,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "282ac1b84eb6f6dc269b16fdee8b592bc3de4ea3da263444192c8ee9f2b1b037"
-      },
-      "30": {
-        "source_ref": "Acts 28:30",
-        "source_chapter": 28,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "0dbea259db214466f9b7956a05e239e2815b35fa67ac2816dec20b1c1b87f7ce"
-      },
-      "31": {
-        "source_ref": "Acts 28:31",
-        "source_chapter": 28,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "a0b5e08fe41977d364e395402a43dcd4f96924b766d384232c2931c9d9852f06"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 28,
+    "verse_count": 30,
+    "path": "translations/fluent/NT/acts/Acts_28.md",
+    "before_sha256": "1255c5030d90bd9dd2e31cdb94f9befc1f7e3133a1b31bace1f1558560fbbf59",
+    "after_sha256": "f0bd671ae6d1f8b5964eac88c1b667567b14de9a0933c738a0f93e179ce9f0bb",
+    "tsw_comparator_path": "books/NT/acts/Acts_28.md",
+    "tsw_comparator_sha256": "c60a0066933713b17c0cd25b771045d149d0f793c2f06a179b5a706af3cc6b8f",
+    "source_omitted_public_labels": [
+      29
+    ],
+    "source_omission_reason": "Absent from pinned SBLGNT; revised public labels follow the pinned source records.",
+    "parent_omitted_public_labels": [
+      29
+    ],
+    "parent_omission_reason": "These public labels were already absent from the exact parent Fluent.",
+    "tsw_omitted_public_labels": [
+      29
+    ],
+    "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-15-28/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 28:2",
+      "delta": "F3",
+      "rationale": "Renders the Greek outsider label neutrally while keeping exceptional kindness, weather, fire, and universal welcome.",
+      "source_reference": "Acts 28:2",
+      "source_verse_sha256": "70663cd4d0e23c9f026d4f6528e43117486b05a0330bd7ba50612709c9f7627b",
+      "before": "The local people showed us extraordinary kindness. They lit a fire and welcomed all of us because it was raining and cold.",
+      "after": "The local people showed us extraordinary kindness. Because of the rain and cold, they kindled a fire and welcomed all of us.",
+      "tsw_comparator": "And the natives were showing us unusual kindness, for they kindled a fire and welcomed us all because of the rain that had set in and because of the cold.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.423077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 28:11",
+      "delta": "F3",
+      "rationale": "Preserves exact interval, ship's origin, wintering, island, and pagan emblem.",
+      "source_reference": "Acts 28:11",
+      "source_verse_sha256": "68560248c94a445199aea8e9bfe2ec3979de286b2ef9b7c1cef9e23fb900705d",
+      "before": "After three months we sailed in an Alexandrian ship that had wintered on the island and had the Twin Gods as its figurehead.",
+      "after": "After three months, we set sail on an Alexandrian ship that had wintered at the island and bore the Twin Gods as its figurehead.",
+      "tsw_comparator": "And after three months we set sail in a ship of Alexandria that had wintered in the island, with the Twin Gods as figurehead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 28:25",
+      "delta": "F3",
+      "rationale": "Preserves disagreement, departure, single concluding word, Spirit, prophetic mediation, name, and ancestors.",
+      "source_reference": "Acts 28:25",
+      "source_verse_sha256": "c58afd4e1630b552ed63446c4c2de04d989ff736bf821f941beb6dba62a728f8",
+      "before": "Since they disagreed with one another, they began to leave after Paul made one final statement: “The Holy Spirit spoke rightly through Isaiah the prophet to your ancestors,",
+      "after": "They disagreed with one another and began to leave after Paul made this one statement: “The Holy Spirit rightly spoke through the prophet Isaiah to your ancestors,",
+      "tsw_comparator": "And being in disagreement with one another, they began to depart after Paul had spoken one word: “The Holy Spirit rightly spoke through Isaiah the prophet to your fathers,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.642857,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

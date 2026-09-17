@@ -192,7 +192,24 @@ def audit(root, ledger, source_bytes):
                   f'missing comparator omission explanation: {chapter["path"]}')
         comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)
                                if v not in comparator_omitted]
-        check(list(old) == list(after) and list(tsw) == comparator_expected,
+        # Legacy ledgers predate this explicit field and only allowed source
+        # omissions already absent from their parent Fluent. New ledgers bind
+        # the field even when empty, permitting a declared source correction
+        # to remove a parent-only public label.
+        parent_omitted = chapter.get('parent_omitted_public_labels', omitted)
+        valid_parent_omission = (isinstance(parent_omitted, list)
+                                 and all(type(v) is int for v in parent_omitted)
+                                 and parent_omitted == sorted(set(parent_omitted))
+                                 and set(parent_omitted).issubset(omitted))
+        check(valid_parent_omission, f'invalid parent omitted labels: {chapter["path"]}')
+        if not valid_parent_omission:
+            parent_omitted = []
+        if parent_omitted and 'parent_omitted_public_labels' in chapter:
+            check(bool(chapter.get('parent_omission_reason', '').strip()),
+                  f'missing parent omission explanation: {chapter["path"]}')
+        parent_expected = [f'{v:02}' for v in range(1, maximum + 1)
+                           if v not in parent_omitted]
+        check(list(old) == parent_expected and list(tsw) == comparator_expected,
               f"verse alignment mismatch: {chapter['path']}")
         chapters[chapter['chapter']] = (after, old, tsw)
     seen = Counter()

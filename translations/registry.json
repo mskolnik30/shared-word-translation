@@ -47,6 +47,15 @@
         {
           "relative_to": "tsw",
           "testament": "NT",
+          "book": "acts",
+          "chapter": 19,
+          "missing": ["41"],
+          "additional": [],
+          "reason": "The pinned SBLGNT source places the assembly's dismissal within Acts 19:40 and has no separate public 19:41 record."
+        },
+        {
+          "relative_to": "tsw",
+          "testament": "NT",
           "book": "romans",
           "chapter": 16,
           "missing": ["25", "26", "27"],

@@ -2,190 +2,179 @@
   "book": "Romans",
   "chapter": 6,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 23,
-  "included_verse_labels": 23,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_06_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_06.md",
-    "blob_sha": "1f83d2ee0e304be51bb33a544d15640c1aae1615"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 6:1",
-        "source_chapter": 6,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "cf237f7c918c50c2fbdca4d8b1cb614e2c3a60feb071af41b9533fd8565aad40"
-      },
-      "2": {
-        "source_ref": "Romans 6:2",
-        "source_chapter": 6,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "aaedbee4079917047846a39570e58e3a933d8564532da64bbf9df23d996d239f"
-      },
-      "3": {
-        "source_ref": "Romans 6:3",
-        "source_chapter": 6,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b369247ed952fa6dd34d6e4b916a589e6e069977ff8e68d725d113781151d8b5"
-      },
-      "4": {
-        "source_ref": "Romans 6:4",
-        "source_chapter": 6,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "b94d3916291b14200dd83dfbcab33be78d1a35a53608c46b8cf9b50833399fdb"
-      },
-      "5": {
-        "source_ref": "Romans 6:5",
-        "source_chapter": 6,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "4cba6dd6da7d97dffd93eb02bf55bc1b359d51d55229bcf3702b72678d7d4afb"
-      },
-      "6": {
-        "source_ref": "Romans 6:6",
-        "source_chapter": 6,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b31f428df59b7bc9ff434c504823d01eb20520393139bce7d33721a22444aff1"
-      },
-      "7": {
-        "source_ref": "Romans 6:7",
-        "source_chapter": 6,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "165240ac2e17462c84adc7f078044eb5ad4d331f66f721e301cc9169e00e37ef"
-      },
-      "8": {
-        "source_ref": "Romans 6:8",
-        "source_chapter": 6,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "537be33ec65e3c62666ecbdfc8e62172eda8ec9011e57ee53fa5266cd60911b3"
-      },
-      "9": {
-        "source_ref": "Romans 6:9",
-        "source_chapter": 6,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "5a2cc92aa4dc4e17d034315aecaa9a17921c6b6a65cf031f35b1d882a9725b0b"
-      },
-      "10": {
-        "source_ref": "Romans 6:10",
-        "source_chapter": 6,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "a6e3069e0a985fba43a8d59dabb04d9712e0752f0c0a93327b1d46d918c50e77"
-      },
-      "11": {
-        "source_ref": "Romans 6:11",
-        "source_chapter": 6,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "d094cc64e825a7c5bf60c8a266fea0d197c8fc186609b54e58ebb1d80ffd0aea"
-      },
-      "12": {
-        "source_ref": "Romans 6:12",
-        "source_chapter": 6,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ad51c27d1693eb58b91c3315b34469f62e4fde016550197f7218b9e8e5349a55"
-      },
-      "13": {
-        "source_ref": "Romans 6:13",
-        "source_chapter": 6,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "d3baf994ec808ff9912ef565a179f7400cee6e8f381db5a6c33562323ade72ae"
-      },
-      "14": {
-        "source_ref": "Romans 6:14",
-        "source_chapter": 6,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "7e09347d976d368cb585bdac832d7fa651fdd8d65294fa0fc80a7cc9bc46e1d5"
-      },
-      "15": {
-        "source_ref": "Romans 6:15",
-        "source_chapter": 6,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "14614a4f64e378f4508e9f28a5793d9ce226d82caa040c4fa325d92e573f470e"
-      },
-      "16": {
-        "source_ref": "Romans 6:16",
-        "source_chapter": 6,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "019865f89702641aae4008a40b004740ef80df8789f1b46d9f7c97587b8aa335"
-      },
-      "17": {
-        "source_ref": "Romans 6:17",
-        "source_chapter": 6,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "4ee0b7b281e3f3e7d10876dbffd2cc7a35fcdb554d2e63460ee20d4b50455be2"
-      },
-      "18": {
-        "source_ref": "Romans 6:18",
-        "source_chapter": 6,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "98388b0ab1a9fddcf48958dca09dc88dd3add7197aadadfa76d54ec8dfe16bd6"
-      },
-      "19": {
-        "source_ref": "Romans 6:19",
-        "source_chapter": 6,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "ca081d313bf9843ee0c43e3b7f61db98a2ce694f1aa77953bfb5fa0e22b64ad6"
-      },
-      "20": {
-        "source_ref": "Romans 6:20",
-        "source_chapter": 6,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "a15761a0f37ea9dd543aa128a463dbc5c81365a41e5c8afd00f87e09cfd44e32"
-      },
-      "21": {
-        "source_ref": "Romans 6:21",
-        "source_chapter": 6,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "f314a320db36416c87c5a20b1045b2bce6c4d0db91cc5533f7604522dded68ec"
-      },
-      "22": {
-        "source_ref": "Romans 6:22",
-        "source_chapter": 6,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "e52652b6ce52c6bcfb5e7811dbb226cf830ce6f81e0edceb371734f67b864b6c"
-      },
-      "23": {
-        "source_ref": "Romans 6:23",
-        "source_chapter": 6,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "a989b024622f0e5a6358e787ae32ead599656f1f15b83bb22496f7443137da8b"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 6,
+    "verse_count": 23,
+    "path": "translations/fluent/NT/romans/Romans_06.md",
+    "before_sha256": "80820d49c1b231977bea08231ecf0ba6f5c779ae0b7c80fbb106ba8d269f4caa",
+    "after_sha256": "0eae7212ff5297847f55551435e2b64bac893ed0c64540177bf06d8f660edde8",
+    "tsw_comparator_path": "books/NT/romans/Romans_06.md",
+    "tsw_comparator_sha256": "1e98801881d66e10d680ccef47093d7f2a9659b0558d2c881d9287279ee2ff58"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 6:3",
+      "delta": "F3",
+      "rationale": "Preserves appeal to knowledge, comprehensive baptized group, union language, name, and death.",
+      "source_reference": "Rom 6:3",
+      "source_verse_sha256": "440987f2033698eef51ebaa9fd20569d0f817ca3832a82389b05a6924bf7240a",
+      "before": "Or do you not know that all of us who were baptized into Christ Jesus were baptized into his death?",
+      "after": "Or do you not know that all of us who were baptized into Christ Jesus were baptized into his death?",
+      "tsw_comparator": "Do you not know that all of us who were baptized into Christ Jesus were baptized into his death?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.974359,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:6",
+      "delta": "F3",
+      "rationale": "Keeps shared knowledge, co-crucifixion, old humanity, sin-body, disabling purpose, and unsoftened enslavement metaphor.",
+      "source_reference": "Rom 6:6",
+      "source_verse_sha256": "07e567199b5f953e579f7c024d0566e03e3a6bbe0a6e718391958cf0548241f2",
+      "before": "We know that our old self was crucified with him so that the body ruled by sin might be rendered powerless, so that we would no longer be enslaved to sin.",
+      "after": "We know that our old self was crucified with him so that the body ruled by sin might be rendered powerless and we might no longer be enslaved to sin.",
+      "tsw_comparator": "We know that our old self was crucified with him so that the body of sin might be rendered powerless, so that we would no longer be enslaved to sin.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:7",
+      "delta": "F3",
+      "rationale": "Renders the justification verb in its legal-release context while keeping death and freedom from sin.",
+      "source_reference": "Rom 6:7",
+      "source_verse_sha256": "3b0b6cd9b96e40648919f38ccafe329b2c2fa3efba0598ed8798695ac6e7570d",
+      "before": "For the one who has died has been freed from sin.",
+      "after": "For whoever has died has been freed from sin's claim.",
+      "tsw_comparator": "For whoever has died has been freed from sin.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:13",
+      "delta": "F3",
+      "rationale": "Keeps repeated presentation, bodily members, weapon image, sin/God contrast, resurrection identity, and injustice/righteousness.",
+      "source_reference": "Rom 6:13",
+      "source_verse_sha256": "7b1005debfffa301c64aa8da979608089325ba3160419ad883c512590a89a426",
+      "before": "Do not present the parts of your body to sin as weapons of unrighteousness. Instead, present yourselves to God as people brought from death to life, and the parts of your body to God as weapons of righteousness.",
+      "after": "Do not present the parts of your body to sin as weapons of injustice. Instead, present yourselves to God as people alive from the dead, and present the parts of your body to God as weapons of righteousness.",
+      "tsw_comparator": "No longer present your members to sin as instruments of injustice, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments of righteousness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.547945,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:16",
+      "delta": "F3",
+      "rationale": "Preserves knowledge appeal, unsoftened slavery metaphor, self-presentation, obedience, two masters, and outcomes.",
+      "source_reference": "Rom 6:16",
+      "source_verse_sha256": "9aa8f02aff9e033c16acdf4b0a4b0d3ca4b6e240a79bd4864a85a2e57030c40e",
+      "before": "Do you not know that when you present yourselves to someone as slaves for obedience, you are slaves of the one you obey—either sin, which leads to death, or obedience, which leads to righteousness?",
+      "after": "Do you not know that when you present yourselves to someone as slaves for obedience, you are slaves of the one you obey—either of sin, which leads to death, or of obedience, which leads to righteousness?",
+      "tsw_comparator": "Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey—either of sin, which leads to death, or of obedience, which leads to righteousness?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.891892,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:17",
+      "delta": "F3",
+      "rationale": "Keeps thanksgiving, former enslavement, heartfelt obedience, formative teaching, and passive entrusting.",
+      "source_reference": "Rom 6:17",
+      "source_verse_sha256": "5ae9d37c4cc36e379602ac5378e6937674614cfcdbb17db71f1b49c474c37577",
+      "before": "But thanks be to God! Though you were slaves of sin, you became obedient from the heart to the pattern of teaching to which you were entrusted,",
+      "after": "But thanks be to God! Though you were slaves of sin, you became obedient from the heart to the pattern of teaching to which you were entrusted.",
+      "tsw_comparator": "But thanks be to God that you, having once been slaves of sin, have become obedient from the heart to the form of teaching to which you were entrusted,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:18",
+      "delta": "F3",
+      "rationale": "Preserves liberation and deliberately jarring new-enslavement metaphor.",
+      "source_reference": "Rom 6:18",
+      "source_verse_sha256": "61bd5b532e41902e83922f8cf7bdf6b8604b9d5fbdddd48d676622fd44978177",
+      "before": "and having been freed from sin, you became slaves of righteousness.",
+      "after": "Having been set free from sin, you became enslaved to righteousness.",
+      "tsw_comparator": "and, having been freed from sin, have become slaves of righteousness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.454545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:19",
+      "delta": "F3",
+      "rationale": "Keeps disclaimer, bodily weakness, repeated presentation, slavery, two trajectories, escalation, and sanctification.",
+      "source_reference": "Rom 6:19",
+      "source_verse_sha256": "a5721411f9e26e668e63617de348006289cb09d72b7ccc4f844e316d6cf40e90",
+      "before": "I am speaking in human terms because of the weakness of your flesh. Just as you once presented the parts of your body as slaves to impurity and lawlessness leading to further lawlessness, now present them as slaves to righteousness leading to holiness.",
+      "after": "I am speaking in human terms because of the weakness of your flesh. Just as you once presented the parts of your body as slaves to impurity and to lawlessness leading to more lawlessness, so now present them as slaves to righteousness leading to holiness.",
+      "tsw_comparator": "I am speaking in human terms because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to lawlessness, so now present your members as slaves to righteousness leading to sanctification.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.790698,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:22",
+      "delta": "F3",
+      "rationale": "Preserves current liberation, unsoftened enslavement to God, fruit, sanctification, and eternal life.",
+      "source_reference": "Rom 6:22",
+      "source_verse_sha256": "f21dd8390dc2cba741bb97fe3fe9261ebcb449cbe8b8d1c72c1c94992a58e5df",
+      "before": "But now that you have been freed from sin and become slaves of God, the fruit you have leads to holiness, and its end is eternal life.",
+      "after": "But now that you have been set free from sin and enslaved to God, the fruit you receive leads to holiness, and its outcome is eternal life.",
+      "tsw_comparator": "But now that you have been freed from sin and enslaved to God, the advantage you get is sanctification. The end is eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 6:23",
+      "delta": "F3",
+      "rationale": "Keeps wage/gift contrast, sin personified as paymaster, death, divine grace, eternal life, and union with Christ.",
+      "source_reference": "Rom 6:23",
+      "source_verse_sha256": "eb622b601352f356d9a1130fc259c095bfc7e0eef4d87cf2832bc0c6d5423335",
+      "before": "For sin’s wages are death, but God’s free gift is eternal life in Christ Jesus our Lord.",
+      "after": "For sin pays wages of death, but God's gracious gift is eternal life in Christ Jesus our Lord.",
+      "tsw_comparator": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.717949,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

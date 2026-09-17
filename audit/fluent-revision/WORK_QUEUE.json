@@ -596,12 +596,22 @@
       "scope": "Acts 7–14",
       "verses": 325,
       "ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json"
+    },
+    {
+      "scope": "Acts 15–28",
+      "verses": 484,
+      "ledger": "audit/fluent-revision/2026-09-16-acts-15-28/acts-verse-review.json"
+    },
+    {
+      "scope": "Romans 1–6",
+      "verses": 161,
+      "ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Acts 15–28; Romans 1–6",
-      "action": "Continue the remaining 20 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+      "action": "Begin the next fifty-chapter block without routine approval. Start with Romans 7, and read each verified pinned Greek verse before authoring."
     },
     {
       "scope": "Whole-book Mark consistency review",
@@ -805,17 +815,25 @@
       "verses": 2292,
       "completion_evidence": "audit/fluent-revision/2026-09-16-john-1-17/block-boundary-verification.json",
       "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
+    },
+    {
+      "scope": "John 6–21; Acts 1–28; Romans 1–6",
+      "status": "DRAFT_COMPLETED",
+      "chapters": 50,
+      "verses": 1829,
+      "completion_evidence": "audit/fluent-revision/2026-09-16-romans-1-6/block-boundary-verification.json",
+      "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
     }
   ],
   "active_fifty_chapter_block": {
-    "scope": "John 6–21; Acts 1–28; Romans 1–6",
+    "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 30,
-    "completed_scope": "John 6–21; Acts 1–14",
-    "completed_verses": 1184,
-    "remaining_scope": "Acts 15–28; Romans 1–6",
-    "remaining_chapters": 20,
-    "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. The preceding fifty-chapter block is draft-complete; source and structural checks passed for this partial block. Independent editorial review and reader testing remain pending."
+    "completed_chapters": 0,
+    "completed_scope": "None yet",
+    "completed_verses": 0,
+    "remaining_scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+    "remaining_chapters": 50,
+    "qualification": "New fifty-chapter block queued; no chapters in it have revision draft coverage yet. Independent editorial review and reader testing remain pending."
   }
 }

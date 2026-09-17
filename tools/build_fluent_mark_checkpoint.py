@@ -68,7 +68,11 @@ def main():
         pattern = r'^v(\d+):.*?(?=^v\d+:|^</p>)'
         seen = []
         def sub(m):
-            v = int(m[1]); seen.append(v)
+            v = int(m[1])
+            if (c, v) not in D:
+                assert v in cfg.get('source_omissions', {}).get(str(c), []), (c, v)
+                return ''
+            seen.append(v)
             return f'v{v:02}: '+D[c, v][0]+'\n'
         body = re.sub(pattern, sub, body, flags=re.M|re.S)
         for prior, revised in cfg.get('heading_overrides', {}).items():
@@ -90,7 +94,12 @@ def main():
         omitted = cfg.get('source_omissions', {}).get(str(c), [])
         if omitted:
             ch['source_omitted_public_labels'] = omitted
-            ch['source_omission_reason'] = 'Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.'
+            ch['source_omission_reason'] = 'Absent from pinned SBLGNT; revised public labels follow the pinned source records.'
+            bv0 = verse_texts(before.decode())
+            parent_omitted = [v for v in omitted if f'{v:02}' not in bv0]
+            ch['parent_omitted_public_labels'] = parent_omitted
+            if parent_omitted:
+                ch['parent_omission_reason'] = 'These public labels were already absent from the exact parent Fluent.'
             tv0 = verse_texts(cb.decode())
             comp_omitted = [v for v in omitted if f'{v:02}' not in tv0]
             if comp_omitted:

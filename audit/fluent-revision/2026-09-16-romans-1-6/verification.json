@@ -1,0 +1,85 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+  "batch_scope": "Acts 15–28; Romans 1–6",
+  "new_chapters": 20,
+  "new_verses": 645,
+  "cumulative_coverage": {
+    "ledgers": 121,
+    "chapters": 1057,
+    "verses": 28183
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 119,
+    "chapters_byte_identical": 1037,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audit": "PASSED; exact verse payload hashes, whole-file SHA-256, and Git blob identities verified",
+  "additional_affected_source_audits": [
+    "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+    "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json"
+  ],
+  "source_sensitive_checks": {
+    "acts_15_four_requirements": true,
+    "acts_16_enslaved_exploited": true,
+    "acts_16_citizenship_beating": true,
+    "acts_17_athens_names": true,
+    "acts_18_priscilla_first": true,
+    "acts_19_fifty_thousand": true,
+    "acts_20_eutychus_dead_alive": true,
+    "acts_20_blood_own": true,
+    "acts_21_four_daughters": true,
+    "acts_22_flogging_citizen": true,
+    "acts_23_troop_numbers": true,
+    "acts_24_source_omission": true,
+    "acts_25_appeal": true,
+    "acts_26_goads": true,
+    "acts_27_people_number": true,
+    "acts_27_prisoner_harm": true,
+    "acts_28_source_omission": true,
+    "rom_1_female_male": true,
+    "rom_2_judging_turn": true,
+    "rom_3_faithfulness": true,
+    "rom_3_atoning": true,
+    "rom_4_sarah": true,
+    "rom_5_indicative_peace": true,
+    "rom_5_because_all": true,
+    "rom_5_one_many": true,
+    "rom_6_slavery_retained": true,
+    "variant_markers_retained": true
+  },
+  "focused_authoring_reread_count": 645,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31083 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "completed_block": {
+    "status": "PASSED",
+    "scope": "John 6–21; Acts 1–28; Romans 1–6",
+    "chapters": 50,
+    "verses": 1829,
+    "newly_completed_in_this_batch": {
+      "scope": "Acts 15–28; Romans 1–6",
+      "chapters": 20,
+      "verses": 645
+    },
+    "completed_before_next_block_started": true,
+    "next_block_started_with": null,
+    "qualification": "Draft coverage and structural QA complete; independent editorial and whole-book review pending.",
+    "publication_allowed": false
+  },
+  "block_progress": {
+    "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 0,
+    "completed_scope": "None yet",
+    "completed_verses": 0,
+    "remaining_scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+    "remaining_chapters": 50,
+    "qualification": "New fifty-chapter block queued; no chapters in it have revision draft coverage yet. Independent editorial review and reader testing remain pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_review": "PENDING",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

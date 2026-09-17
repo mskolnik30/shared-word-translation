@@ -1,8 +1,8 @@
 {
   "book": "Romans",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 16,
   "public_verse_slots": 433,
   "included_verse_labels": 430,
@@ -299,5 +299,58 @@
         "blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "current_revision": {
+    "id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "verse_count": 161,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+      "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 161,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+        "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

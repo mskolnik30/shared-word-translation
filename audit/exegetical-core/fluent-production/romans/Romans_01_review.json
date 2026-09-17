@@ -2,253 +2,179 @@
   "book": "Romans",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 32,
-  "included_verse_labels": 32,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_01_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_01.md",
-    "blob_sha": "bb7a31a768ae306b417cf12d0d2985bc4a575188"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "b831d70bf8d6b618a0c551788c283b7d66bebc1cbd25f3c44b308f62ba767d11"
-      },
-      "2": {
-        "source_ref": "Romans 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "13ab8f9181e849fb86a66d71392fc86bc7899b604263c17070a1f57af0475f17"
-      },
-      "3": {
-        "source_ref": "Romans 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "fcfe4c4cad1f7dd56b5ae956b8b119597b48b59bbaecb682700c43a957cef0c1"
-      },
-      "4": {
-        "source_ref": "Romans 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "518cba81ffd7daad4acfb0c7400321b1b0777203b29424f5afe57cc7a116ecb9"
-      },
-      "5": {
-        "source_ref": "Romans 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "ac35e4a3b46883fa68841fc4ddd1d75419d93d0ab83ccaa2eecbfde9cb626c35"
-      },
-      "6": {
-        "source_ref": "Romans 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "8de8ba06648c57ce26d85cade688e80072ada6743b448e7ae384ad5424dc4959"
-      },
-      "7": {
-        "source_ref": "Romans 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "f9832699cfe518dec4c2acf2f9862b949b2b094c53bcba59e17a3946d4a1566d"
-      },
-      "8": {
-        "source_ref": "Romans 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "157345ff68743c9c23b5a3f9ab3c834b659ac3528d62555cff22dae4450d68da"
-      },
-      "9": {
-        "source_ref": "Romans 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "ec6c256f23ece90796ca481786647ea53c2995be4b68db34f7f8ce384eeeca43"
-      },
-      "10": {
-        "source_ref": "Romans 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "bc05f97adaa64cfdc8240df82d25ea91a1622e526fa4cfc4eea5c540eec936a5"
-      },
-      "11": {
-        "source_ref": "Romans 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "e2e4384d544adbe2175817f6175145a0cbc4ecc00005bca4e3b556ca19d1dab9"
-      },
-      "12": {
-        "source_ref": "Romans 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ecff98fddff5f5d2143a0ed7eff681be0a3cbca711f3be7d4ef654a9b6ebdfd7"
-      },
-      "13": {
-        "source_ref": "Romans 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "6d8d756aa2fa02a37b3c6eed0bc0dfa3493c8a8ad09d08972abe7aa04aab5b6e"
-      },
-      "14": {
-        "source_ref": "Romans 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "ce0c79cea2856e9e8a033eac24be08209d6e42a275538dc31224e9e21de357b9"
-      },
-      "15": {
-        "source_ref": "Romans 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "bda4f681d21d4e799862c003bef21916fa5dbc74769cee27c7044404b40c38a6"
-      },
-      "16": {
-        "source_ref": "Romans 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "72d3caa8d74093fb7998d052c59035b5ce861ef2e6d9243fcf700de82c64469c"
-      },
-      "17": {
-        "source_ref": "Romans 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "756f42c479efa598cf23af9f7b636d40e5096e27609e8701c25330774e06fe07"
-      },
-      "18": {
-        "source_ref": "Romans 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "1903f5749105df3cd11591a2e39d3b9dcc71c69adff09982a8cd4e2b00c266df"
-      },
-      "19": {
-        "source_ref": "Romans 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "3c1613c583403d29183d085f1f9eb34b538c868ee83fe5e9914af0ce1b2b50c4"
-      },
-      "20": {
-        "source_ref": "Romans 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "1089cb078e1ede26a21cd6103b4704ddb1c5514f2a0f2ca0f82c29f83eb6f99f"
-      },
-      "21": {
-        "source_ref": "Romans 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "d7be27957fcefe9ff7cbd4c1cac5510a31db6a463c52431bf3802a3466ff9eac"
-      },
-      "22": {
-        "source_ref": "Romans 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "62cf2f6beb85287a1d60e1c816c0c802dbf74ab98216a67d0bc8259ef0323d93"
-      },
-      "23": {
-        "source_ref": "Romans 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "ae7c4465d813004b97ccd113eecabacedae23dd782d6cdf92c4f25e7ccc9d940"
-      },
-      "24": {
-        "source_ref": "Romans 1:24",
-        "source_chapter": 1,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "74a9bcb734d7ca2d1509e5841d689ef0df77ddbbf5125fa265aad1a6ee561e56"
-      },
-      "25": {
-        "source_ref": "Romans 1:25",
-        "source_chapter": 1,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e41a46ef1eb47ddf3ba6c88f9073f96b7eca42ed25de8e104320d356be004414"
-      },
-      "26": {
-        "source_ref": "Romans 1:26",
-        "source_chapter": 1,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "af71d92567cb1bae418081151ca82f78881eef2e8475a96648ef4f5ad7a8e39b"
-      },
-      "27": {
-        "source_ref": "Romans 1:27",
-        "source_chapter": 1,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "bcdbe666c932ff680e0918e73e895ac254c7bad4df1d5ec6325b340a5cf135ff"
-      },
-      "28": {
-        "source_ref": "Romans 1:28",
-        "source_chapter": 1,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "9fc45b2584b64abb431979482f187cc7e3af7e5f98b980cc575474ae48aa0a46"
-      },
-      "29": {
-        "source_ref": "Romans 1:29",
-        "source_chapter": 1,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "76b3546887737657da95635342420a227d4d4cc4ffb48320ae38b8898ae23468"
-      },
-      "30": {
-        "source_ref": "Romans 1:30",
-        "source_chapter": 1,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "628636c81c77c96ee98f165a55a1a846e3b2de86690e82c215b6dfc548fd95d0"
-      },
-      "31": {
-        "source_ref": "Romans 1:31",
-        "source_chapter": 1,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "6e6c78d4ae029cef7203008ce87342f0d5bcf90f5e6cc9ef1cbc23f52d76359c"
-      },
-      "32": {
-        "source_ref": "Romans 1:32",
-        "source_chapter": 1,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "99b59facf5061d47c2d63a9349314714267af307f3647c7bd69499862cc1333a"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 32,
+    "path": "translations/fluent/NT/romans/Romans_01.md",
+    "before_sha256": "e972db842af5650ecf6b922ee31d2f705003e5c246c179db2e6661a7011e5aad",
+    "after_sha256": "6b65bd15838612225f2adbdd78bfd7d56253c7661823b02344c848dae5be16cb",
+    "tsw_comparator_path": "books/NT/romans/Romans_01.md",
+    "tsw_comparator_sha256": "abb9fde75ddd2e668c2651c2c12ad8c0884803229f5c05de64cf91b2f2c56cd6"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 1:1",
+      "delta": "F3",
+      "rationale": "Preserves Paul's name, unsoftened slave status, Christ's ownership, calling, apostolic role, separation, and divine gospel.",
+      "source_reference": "Rom 1:1",
+      "source_verse_sha256": "1f0c1383a3667de29f0fba194526b4171058ec5bb1ad9d4c0d73880f126da1f5",
+      "before": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for God’s good news,",
+      "after": "Paul, a slave of Christ Jesus, called to be an apostle and set apart for God's good news—",
+      "tsw_comparator": "Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:4",
+      "delta": "F3",
+      "rationale": "Keeps the parallel spheres, difficult “Spirit of holiness,” powerful appointment, resurrection, full name, and lordship.",
+      "source_reference": "Rom 1:4",
+      "source_verse_sha256": "2f881bc1308f077aea562d077029eab689eab9eeb452f1088b75ab8374dffadd",
+      "before": "and was appointed Son of God in power according to the Spirit of holiness by resurrection from the dead—Jesus Christ our Lord.",
+      "after": "and who in terms of the Spirit of holiness was appointed Son of God in power by resurrection from the dead: Jesus Christ our Lord.",
+      "tsw_comparator": "who was appointed Son of God in power according to the Spirit of holiness by resurrection from the dead, Jesus Christ our Lord,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:5",
+      "delta": "F3",
+      "rationale": "Preserves mediation, gifts, debated faith-obedience relation, universal Gentile scope, and name-centered purpose.",
+      "source_reference": "Rom 1:5",
+      "source_verse_sha256": "529eb2e9048ba4ab258e0dfa0bb53c8bef78be0fa38a179cef141410fc0f2dc5",
+      "before": "Through him we received grace and apostleship to bring about the obedience of trust among all the nations for the sake of his name,",
+      "after": "Through him we received grace and apostleship to bring about the obedience of faith among all the Gentiles for the sake of his name,",
+      "tsw_comparator": "through whom we have received grace and apostleship for obedience of faith among all the nations for his name,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.697674,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:14",
+      "delta": "F3",
+      "rationale": "Keeps Paul's obligation and both paired social/cultural contrasts without a demeaning ethnic label.",
+      "source_reference": "Rom 1:14",
+      "source_verse_sha256": "9c9cf645f1cf4deae0b713fd74cc777520ef512b8cde5a71affca294a3bc7649",
+      "before": "I am under obligation both to Greeks and to those called barbarians, both to the wise and to the foolish.",
+      "after": "I am indebted both to Greeks and to non-Greeks, both to the wise and to the foolish.",
+      "tsw_comparator": "I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:17",
+      "delta": "F3",
+      "rationale": "Preserves repeated revelation, difficult phrase rather than over-resolving it, scriptural citation, righteousness, life, and faith.",
+      "source_reference": "Rom 1:17",
+      "source_verse_sha256": "6845391fcb438513d9f0873804cd163ff3cbde5c8f3523aca6e3782e31b9fc87",
+      "before": "For in it God’s righteousness is revealed from faithfulness to trust, as it is written, “The righteous one will live by trust.”",
+      "after": "For in it God's righteousness is revealed from faith to faith, as it is written: “The righteous person will live by faith.”",
+      "tsw_comparator": "For in it the righteousness of God is revealed from faith to faith, as it is written, “But the righteous one will live by faith.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851064,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:20",
+      "delta": "F3",
+      "rationale": "Keeps time span, paradox of visible invisibles, two attributes, creation, comprehension, and accountability.",
+      "source_reference": "Rom 1:20",
+      "source_verse_sha256": "a890303e9a8c376facff3295c9f73619f809dd9dd559bcb725e174bcf4dca767",
+      "before": "Ever since the creation of the world, God’s invisible qualities—his eternal power and divine nature—have been clearly seen, understood through what has been made, so that they are without excuse.",
+      "after": "For ever since the creation of the world, God's invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what he has made. So they are without excuse.",
+      "tsw_comparator": "For his invisible qualities, both his eternal power and divine nature, have been clearly seen from the creation of the world, being understood through what has been made, so that they are without excuse.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.686567,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:24",
+      "delta": "F3",
+      "rationale": "Keeps inference, divine handing-over, inward desires, impurity, bodies, and mutual dishonor.",
+      "source_reference": "Rom 1:24",
+      "source_verse_sha256": "1b589a9cc259c29ce8ab945a4c18e13f89300dbf8d36a18d5f929ad760fd9a1f",
+      "before": "Therefore God gave them over, in the desires of their hearts, to impurity, so that their bodies were dishonored among them.",
+      "after": "Therefore God handed them over, in the desires of their hearts, to impurity, so that their bodies were dishonored among them.",
+      "tsw_comparator": "Therefore God gave them over in the desires of their hearts to impurity, to the dishonoring of their bodies among themselves,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:26",
+      "delta": "F3",
+      "rationale": "Preserves causal handover, passions, source-specific female term, exchange, and Paul's natural/contrary evaluation without added commentary.",
+      "source_reference": "Rom 1:26",
+      "source_verse_sha256": "7620fadf08215fc4a5c65d21cb8473e9d2b336830c50e70c8a45b0765730eaaa",
+      "before": "Because of this, God gave them over to dishonorable passions. Their women exchanged natural sexual relations for those contrary to nature,",
+      "after": "For this reason God handed them over to dishonorable passions. Their females exchanged natural sexual relations for those contrary to nature.",
+      "tsw_comparator": "For this reason God gave them over to dishonorable passions, for their females exchanged natural relations for those contrary to nature,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:27",
+      "delta": "F3",
+      "rationale": "Keeps parallel structure, source-specific sex terms, mutual desire, conduct, shame language, and internal consequence without embellishment.",
+      "source_reference": "Rom 1:27",
+      "source_verse_sha256": "6e413997a911f78e47e1d50204fec94164481d5be65878b76c5ebcdfbc347919",
+      "before": "and in the same way the men also left natural sexual relations with women and burned in their desire for one another. Men committed shameless acts with men and received in themselves the due consequence of their error.",
+      "after": "Likewise, the males abandoned natural sexual relations with females and burned in their desire for one another. Males committed shameless acts with males and received in themselves the consequence their error required.",
+      "tsw_comparator": "and likewise also the males, leaving the natural use of the female, burned in their desire for one another, males with males committing shameful acts and receiving in themselves the due penalty of their error.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.597015,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 1:28",
+      "delta": "F3",
+      "rationale": "Preserves wordplay around approval/unapproved, knowledge, divine handover, mind, and improper action.",
+      "source_reference": "Rom 1:28",
+      "source_verse_sha256": "26f317aa12ce6c0665a50f359df5fabf7d789744281e838fb6115e85d3b8cd76",
+      "before": "And because they did not see fit to acknowledge God, God gave them over to a corrupted mind to do what is not fitting.",
+      "after": "And because they did not consider God worth retaining in their knowledge, God handed them over to an unfit mind to do what is not fitting.",
+      "tsw_comparator": "And just as they did not see fit to acknowledge God, God gave them over to a debased mind to do what is not fitting,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627451,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
