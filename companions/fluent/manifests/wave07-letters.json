@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave07-letters",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Galatians", "introduction": "companions/fluent/books/galatians/introduction.md", "chapters": ["companions/fluent/chapters/galatians/03.md"]},
+    {"book": "Ephesians", "introduction": "companions/fluent/books/ephesians/introduction.md", "chapters": ["companions/fluent/chapters/ephesians/05.md"]},
+    {"book": "Colossians", "introduction": "companions/fluent/books/colossians/introduction.md", "chapters": ["companions/fluent/chapters/colossians/03.md"]},
+    {"book": "1 Thessalonians", "introduction": "companions/fluent/books/1-thessalonians/introduction.md", "chapters": ["companions/fluent/chapters/1-thessalonians/04.md"]},
+    {"book": "2 Thessalonians", "introduction": "companions/fluent/books/2-thessalonians/introduction.md", "chapters": ["companions/fluent/chapters/2-thessalonians/02.md"]},
+    {"book": "1 Timothy", "introduction": "companions/fluent/books/1-timothy/introduction.md", "chapters": ["companions/fluent/chapters/1-timothy/02.md"]},
+    {"book": "2 Timothy", "introduction": "companions/fluent/books/2-timothy/introduction.md", "chapters": ["companions/fluent/chapters/2-timothy/03.md"]},
+    {"book": "Titus", "introduction": "companions/fluent/books/titus/introduction.md", "chapters": ["companions/fluent/chapters/titus/01.md"]},
+    {"book": "Hebrews", "introduction": "companions/fluent/books/hebrews/introduction.md", "chapters": ["companions/fluent/chapters/hebrews/06.md"]},
+    {"book": "1 Peter", "introduction": "companions/fluent/books/1-peter/introduction.md", "chapters": ["companions/fluent/chapters/1-peter/02.md"]},
+    {"book": "2 Peter", "introduction": "companions/fluent/books/2-peter/introduction.md", "chapters": ["companions/fluent/chapters/2-peter/03.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave07-letters-review.md"
+}

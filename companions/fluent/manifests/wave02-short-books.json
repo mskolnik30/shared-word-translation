@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave02-short-books",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Obadiah", "introduction": "companions/fluent/books/obadiah/introduction.md", "chapters": ["companions/fluent/chapters/obadiah/01.md"]},
+    {"book": "Philemon", "introduction": "companions/fluent/books/philemon/introduction.md", "chapters": ["companions/fluent/chapters/philemon/01.md"]},
+    {"book": "2 John", "introduction": "companions/fluent/books/2-john/introduction.md", "chapters": ["companions/fluent/chapters/2-john/01.md"]},
+    {"book": "3 John", "introduction": "companions/fluent/books/3-john/introduction.md", "chapters": ["companions/fluent/chapters/3-john/01.md"]},
+    {"book": "Jude", "introduction": "companions/fluent/books/jude/introduction.md", "chapters": ["companions/fluent/chapters/jude/01.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave02-short-books-review.md"
+}
+

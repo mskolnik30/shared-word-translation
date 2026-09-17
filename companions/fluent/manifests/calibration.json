@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "cross-genre-calibration",
+  "status": "CALIBRATION_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "records": [
+    "companions/fluent/calibration/genesis-01.md",
+    "companions/fluent/calibration/psalm-013.md",
+    "companions/fluent/calibration/mark-01.md",
+    "companions/fluent/calibration/romans-08.md",
+    "companions/fluent/calibration/revelation-21.md"
+  ],
+  "introductions": [
+    {"book": "Genesis", "file": "companions/fluent/books/genesis/introduction.md"},
+    {"book": "Psalms", "file": "companions/fluent/books/psalms/introduction.md"},
+    {"book": "Mark", "file": "companions/fluent/books/mark/introduction.md"},
+    {"book": "Romans", "file": "companions/fluent/books/romans/introduction.md"},
+    {"book": "Revelation", "file": "companions/fluent/books/revelation/introduction.md"}
+  ],
+  "human_review": "companions/fluent/reviews/calibration-review.md"
+}

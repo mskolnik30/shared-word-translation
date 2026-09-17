@@ -9,8 +9,8 @@
       "translation_affinity": "fluent",
       "cross_translation_use": true,
       "purpose": "Orientation, sustained reading, formation, prayer, and biblical fluency.",
-      "content_root": null,
-      "status": "maintained-outside-this-repository"
+      "content_root": "companions/fluent",
+      "status": "complete-chapter-companion-automated-audit-passed-human-review-pending"
     },
     {
       "id": "tsw-study",

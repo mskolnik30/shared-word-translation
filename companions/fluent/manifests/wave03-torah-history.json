@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "resource": "fluent-companion",
+  "batch": "wave03-torah-history",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_status": "unpublished",
+  "template_version": "1.0",
+  "books": [
+    {"book": "Exodus", "introduction": "companions/fluent/books/exodus/introduction.md", "chapters": ["companions/fluent/chapters/exodus/03.md"]},
+    {"book": "Leviticus", "introduction": "companions/fluent/books/leviticus/introduction.md", "chapters": ["companions/fluent/chapters/leviticus/18.md"]},
+    {"book": "Numbers", "introduction": "companions/fluent/books/numbers/introduction.md", "chapters": ["companions/fluent/chapters/numbers/05.md"]},
+    {"book": "Deuteronomy", "introduction": "companions/fluent/books/deuteronomy/introduction.md", "chapters": ["companions/fluent/chapters/deuteronomy/22.md"]},
+    {"book": "Joshua", "introduction": "companions/fluent/books/joshua/introduction.md", "chapters": ["companions/fluent/chapters/joshua/06.md"]},
+    {"book": "Judges", "introduction": "companions/fluent/books/judges/introduction.md", "chapters": ["companions/fluent/chapters/judges/19.md"]},
+    {"book": "1 Samuel", "introduction": "companions/fluent/books/1-samuel/introduction.md", "chapters": ["companions/fluent/chapters/1-samuel/15.md"]},
+    {"book": "2 Samuel", "introduction": "companions/fluent/books/2-samuel/introduction.md", "chapters": ["companions/fluent/chapters/2-samuel/11.md"]},
+    {"book": "1 Kings", "introduction": "companions/fluent/books/1-kings/introduction.md", "chapters": ["companions/fluent/chapters/1-kings/18.md"]},
+    {"book": "2 Kings", "introduction": "companions/fluent/books/2-kings/introduction.md", "chapters": ["companions/fluent/chapters/2-kings/02.md"]}
+  ],
+  "human_review": "companions/fluent/reviews/wave03-torah-history-review.md"
+}
