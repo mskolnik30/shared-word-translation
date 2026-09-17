@@ -1,0 +1,107 @@
+{
+  "parent_commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+  "parent_library_version": 93,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "Ephesians",
+  "slug": "ephesians",
+  "chapters": [
+    6
+  ],
+  "scope": "Ephesians 6",
+  "expected_verses": 24,
+  "source_filename": "ephesians-pinned-greek.txt",
+  "book_record_files": [
+    "EPHESIANS_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "6:1",
+    "6:2",
+    "6:3",
+    "6:4",
+    "6:5",
+    "6:6",
+    "6:7",
+    "6:8",
+    "6:9",
+    "6:10",
+    "6:12",
+    "6:13",
+    "6:15",
+    "6:16",
+    "6:17",
+    "6:18",
+    "6:20",
+    "6:24"
+  ],
+  "apparatus": {
+    "6": {
+      "notes": [
+        [
+          "04",
+          "The address is specifically to fathers. The verb rendered ‘nurture’ is also used in 5:29."
+        ],
+        [
+          "05–09",
+          "The Greek names slaves and masters, not employees and employers. ‘Earthly masters’ is literally ‘masters according to the flesh.’"
+        ],
+        [
+          "12",
+          "‘Flesh and blood’ refers to human beings. The repeated ‘against’ distinguishes the powers named as the opponents."
+        ],
+        [
+          "15",
+          "‘Readiness’ can also carry the sense of preparation or a firm foundation. The good news is explicitly characterized by peace."
+        ],
+        [
+          "24",
+          "The final phrase literally means ‘in incorruptibility.’ It can describe undying love or the imperishable life in which the love belongs."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "06",
+          "ὀφθαλμοδουλία (ophthalmodoulia)",
+          "Eye-service: service performed only while watched."
+        ],
+        [
+          "09",
+          "προσωπολημψία (prosōpolēmpsia)",
+          "Partiality or favoritism."
+        ],
+        [
+          "11",
+          "πανοπλία (panoplia)",
+          "A full set of armor."
+        ],
+        [
+          "20",
+          "πρεσβεύω (presbeuō)",
+          "Serve as an ambassador."
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "parent_commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+  "parent_library_version": 93,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [],
+  "book": "Philippians",
+  "slug": "philippians",
+  "chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "scope": "Philippians 1–4",
+  "expected_verses": 104,
+  "source_filename": "philippians-pinned-greek.txt",
+  "book_record_files": [
+    "PHILIPPIANS_FLUENT_BOOK_QA.json"
+  ],
+  "next_scope": "Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phil.txt",
+    "git_blob_sha": "c97991ef6d1bd1f236ea4bb81dc9230df895bc7b",
+    "sha256": "c99e25ea7856fd7a3edb1055716869117c4cba4c15f07567ea22c0269e211b85",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Phil.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Phil",
+    "book_verse_count": 104,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:1",
+    "1:3",
+    "1:6",
+    "1:7",
+    "1:8",
+    "1:9",
+    "1:10",
+    "1:11",
+    "1:13",
+    "1:14",
+    "1:16",
+    "1:17",
+    "1:19",
+    "1:20",
+    "1:21",
+    "1:22",
+    "1:23",
+    "1:24",
+    "1:27",
+    "1:28",
+    "1:29",
+    "2:1",
+    "2:2",
+    "2:3",
+    "2:4",
+    "2:5",
+    "2:6",
+    "2:7",
+    "2:8",
+    "2:9",
+    "2:10",
+    "2:11",
+    "2:12",
+    "2:13",
+    "2:15",
+    "2:16",
+    "2:17",
+    "2:20",
+    "2:22",
+    "2:25",
+    "2:26",
+    "2:27",
+    "2:28",
+    "2:30",
+    "3:2",
+    "3:3",
+    "3:4",
+    "3:5",
+    "3:6",
+    "3:7",
+    "3:8",
+    "3:9",
+    "3:10",
+    "3:11",
+    "3:12",
+    "3:13",
+    "3:14",
+    "3:15",
+    "3:16",
+    "3:18",
+    "3:19",
+    "3:20",
+    "3:21",
+    "4:2",
+    "4:3",
+    "4:5",
+    "4:6",
+    "4:7",
+    "4:8",
+    "4:10",
+    "4:11",
+    "4:12",
+    "4:13",
+    "4:15",
+    "4:16",
+    "4:17",
+    "4:18",
+    "4:19",
+    "4:22",
+    "4:23"
+  ],
+  "batch_scope": "Ephesians 6; Philippians 1–4",
+  "batch_chapters": 5,
+  "batch_verses": 128,
+  "batch_source_records": 128,
+  "batch_reader_filename": "Fluent-Ephesians-6-Philippians-4.md",
+  "batch_ledgers": [
+    "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json"
+  ],
+  "active_block_ranges": [
+    {
+      "slug": "ephesians",
+      "start": 6,
+      "end": 6
+    },
+    {
+      "slug": "philippians",
+      "start": 1,
+      "end": 4
+    }
+  ],
+  "new_source_files": [
+    "philippians-pinned-greek.txt"
+  ],
+  "additional_source_bindings": {
+    "philippians": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Phil.txt",
+      "git_blob_sha": "c97991ef6d1bd1f236ea4bb81dc9230df895bc7b",
+      "sha256": "c99e25ea7856fd7a3edb1055716869117c4cba4c15f07567ea22c0269e211b85",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Phil.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Phil",
+      "book_verse_count": 104,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "philippians-pinned-greek.txt"
+    }
+  },
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "03",
+          "The phrase can refer to Paul remembering the Philippians or to their remembrance of him."
+        ],
+        [
+          "06–07",
+          "‘You’ is plural. ‘Among you’ may also be rendered ‘in you.’ In verse 7, ‘I hold you in my heart’ can also be read ‘you hold me in your heart.’"
+        ],
+        [
+          "13",
+          "The Greek word can denote the imperial guard or a governor’s headquarters. The text does not name the place of imprisonment."
+        ],
+        [
+          "19",
+          "‘Salvation’ can also mean deliverance or vindication; the following verses keep both life and death in view."
+        ],
+        [
+          "27",
+          "The verb means to live or conduct oneself as a citizen. It is related to ‘citizenship’ in 3:20. ‘One spirit’ may refer to a shared disposition or to the Spirit."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "01",
+          "δοῦλος (doulos)",
+          "Slave; Paul and Timothy use the term of their relation to Christ."
+        ],
+        [
+          "05",
+          "κοινωνία (koinōnia)",
+          "Partnership, sharing or participation."
+        ],
+        [
+          "08",
+          "σπλάγχνα (splanchna)",
+          "Internal organs, used figuratively for deep affection."
+        ]
+      ]
+    },
+    "2": {
+      "notes": [
+        [
+          "05",
+          "The abbreviated Greek can describe Christ’s way of thinking or the mindset that is yours in Christ."
+        ],
+        [
+          "06",
+          "‘Something to exploit’ can also be understood as ‘something to grasp or seize.’ The main text retains ‘form of God’ and ‘equality with God.’"
+        ],
+        [
+          "07",
+          "The text says ‘emptied himself’ without naming something he emptied himself of. The following phrases describe taking a slave’s form and becoming human."
+        ],
+        [
+          "12–13",
+          "The commands and ‘you’ are plural, addressed to the community. ‘In you’ can also mean ‘among you.’"
+        ],
+        [
+          "16",
+          "‘Holding firmly to’ can also mean ‘holding out.’"
+        ],
+        [
+          "25",
+          "‘Messenger’ renders apostolos, someone sent or commissioned; here he is sent by the Philippians."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "05",
+          "φρονέω (phroneō)",
+          "Think, adopt a mindset or set one’s mind; a recurring verb in the letter."
+        ],
+        [
+          "06–07",
+          "μορφή (morphē)",
+          "Form; used of both God and a slave."
+        ],
+        [
+          "17",
+          "σπένδομαι (spendomai)",
+          "Be poured out as a drink offering."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "02–03",
+          "‘Mutilation’ and ‘circumcision’ form a Greek wordplay. The text does not name the targets of the harsh warning more precisely here."
+        ],
+        [
+          "08",
+          "The word rendered ‘refuse’ can refer to rubbish, discarded scraps or excrement. It is strongly dismissive."
+        ],
+        [
+          "09",
+          "The Greek phrase can mean ‘Christ’s faithfulness’ or ‘faith in Christ.’ The following phrase separately names faith as the basis of righteousness from God."
+        ],
+        [
+          "12",
+          "‘Because Christ has taken hold of me’ can also be understood in terms of purpose: ‘for which Christ took hold of me.’ The pinned text names Christ without adding Jesus here."
+        ],
+        [
+          "12, 15",
+          "‘Made perfect’ and ‘mature’ translate forms of the same word-family."
+        ],
+        [
+          "16",
+          "The pinned Greek has the shorter command without the additional phrases about a rule and a shared mindset found in some witnesses."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "07",
+          "ζημία (zēmia)",
+          "Loss, including an accounting loss; contrasted with gain."
+        ],
+        [
+          "12",
+          "καταλαμβάνω (katalambanō)",
+          "Take hold of, grasp or attain."
+        ],
+        [
+          "20",
+          "πολίτευμα (politeuma)",
+          "Citizenship or commonwealth."
+        ]
+      ]
+    },
+    "4": {
+      "notes": [
+        [
+          "02–03",
+          "The appeal is repeated equally for Euodia and Syntyche. Both women are described as sharing in the work of the good news. The ‘true companion’ is not named unambiguously; the Greek can also be read as a personal name, Syzygos."
+        ],
+        [
+          "05",
+          "‘Near’ may refer to presence, time or both."
+        ],
+        [
+          "13",
+          "Literally, ‘I have strength for all things in the one strengthening me.’ The preceding verse names plenty, hunger and need. The pinned Greek does not add the name Christ in this verse."
+        ],
+        [
+          "15–18",
+          "Giving, receiving, account and receipt language forms a connected accounting image. Verse 17 combines it with the image of fruit."
+        ],
+        [
+          "23",
+          "‘Your’ addresses the community; ‘spirit’ is singular. The pinned text ends without an added Amen."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "05",
+          "ἐπιεικής (epieikēs)",
+          "Gentle, considerate or forbearing."
+        ],
+        [
+          "07",
+          "φρουρέω (phroureō)",
+          "Guard or keep watch over."
+        ],
+        [
+          "12",
+          "μυέω (mueō)",
+          "Be initiated or learn a secret."
+        ]
+      ]
+    }
+  }
+}

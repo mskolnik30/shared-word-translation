@@ -1,46 +1,8 @@
 {
-  "book": "Ephesians",
-  "chapter": 6,
-  "translation": "FLUENT",
-  "status": "REVIEW_PENDING",
-  "publication_allowed": false,
-  "qa_scope": "structural",
-  "automated_qa": "PASSED",
-  "revision_id": "fluent-2026-09-17-ephesians-6-biblical-fluency-2026-09-16",
-  "supersedes": {
-    "commit": "ccb3985e87fad907698c1574db897dd67dca6904",
-    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_06_review.json"
-  },
-  "source": {
-    "id": "NT.SBLGNT.1.2",
-    "repository": "Faithlife/SBLGNT",
-    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Eph.txt",
-    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
-    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
-    "format": "tab_separated",
-    "osis_book_id": "Eph",
-    "book_verse_count": 155,
-    "languages": [
-      "Greek"
-    ],
-    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
-    "scope_chapters": [
-      6
-    ]
-  },
-  "chapter_binding": {
-    "chapter": 6,
-    "verse_count": 24,
-    "path": "translations/fluent/NT/ephesians/Ephesians_06.md",
-    "before_sha256": "51a66cfbe6eeccf555a3833055a51f3a9a18a83d2250ed475b0092a65bd0b101",
-    "after_sha256": "1290d1c1af8fc5521eb3db20729324375c7f0f3841b33b0553f1abf9132aaf89",
-    "tsw_comparator_path": "books/NT/ephesians/Ephesians_06.md",
-    "tsw_comparator_sha256": "df6a7660199f3102ee8ab2e116d2643b09f6ab49730de209894ddcf75ee48b27"
-  },
-  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json",
-  "key_decisions": [
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "review_type": "Drafting-assistant bilingual self-reread; not human or independent scholarly review",
+  "authoring_record_sha256": "a26aad86473b823a2e8d435de3239f7d2ba52cc38bb90af3979c10201fc41981",
+  "rows": [
     {
       "reference": "Ephesians 6:1",
       "delta": "F3",
@@ -52,7 +14,8 @@
       "tsw_comparator": "Children, obey your parents in the Lord, for this is right.",
       "identical_words_to_tsw": true,
       "word_similarity_to_tsw": 1.0,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν ὑμῶν ἐν κυρίῳ, τοῦτο γάρ ἐστιν δίκαιον· "
     },
     {
       "reference": "Ephesians 6:2",
@@ -65,7 +28,8 @@
       "tsw_comparator": "“Honor your father and mother”—which is the first commandment with a promise—",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.923077,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "τίμα τὸν πατέρα σου καὶ τὴν μητέρα, ἥτις ἐστὶν ἐντολὴ πρώτη ἐν ἐπαγγελίᾳ, "
     },
     {
       "reference": "Ephesians 6:3",
@@ -78,7 +42,8 @@
       "tsw_comparator": "“so that it may be well with you and that you may live long in the land.”",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.666667,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "ἵνα εὖ σοι γένηται καὶ ἔσῃ μακροχρόνιος ἐπὶ τῆς γῆς. "
     },
     {
       "reference": "Ephesians 6:4",
@@ -91,7 +56,8 @@
       "tsw_comparator": "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.736842,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Καὶ οἱ πατέρες, μὴ παροργίζετε τὰ τέκνα ὑμῶν, ἀλλὰ ἐκτρέφετε αὐτὰ ἐν παιδείᾳ καὶ νουθεσίᾳ κυρίου. "
     },
     {
       "reference": "Ephesians 6:5",
@@ -104,7 +70,8 @@
       "tsw_comparator": "Slaves, obey your earthly masters with respect and trembling, in singleness of heart, as you would Christ;",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.742857,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Οἱ δοῦλοι, ὑπακούετε τοῖς ⸂κατὰ σάρκα κυρίοις⸃ μετὰ φόβου καὶ τρόμου ἐν ἁπλότητι τῆς καρδίας ὑμῶν ὡς τῷ Χριστῷ, "
     },
     {
       "reference": "Ephesians 6:6",
@@ -117,7 +84,8 @@
       "tsw_comparator": "not by way of eye-service, as people-pleasers, but as servants of Christ, doing the will of God from the heart;",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.311111,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "μὴ κατʼ ὀφθαλμοδουλίαν ὡς ἀνθρωπάρεσκοι ἀλλʼ ὡς ⸀δοῦλοι Χριστοῦ ποιοῦντες τὸ θέλημα τοῦ θεοῦ, ἐκ ψυχῆς "
     },
     {
       "reference": "Ephesians 6:7",
@@ -130,7 +98,8 @@
       "tsw_comparator": "rendering service with goodwill, as to the Lord and not to people,",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.695652,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "μετʼ εὐνοίας δουλεύοντες, ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις, "
     },
     {
       "reference": "Ephesians 6:8",
@@ -143,7 +112,8 @@
       "tsw_comparator": "knowing that whatever good anyone does, this they will receive back from the Lord, whether slave or free.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.457143,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "εἰδότες ὅτι ⸂ἕκαστος, ὃ ἂν⸃ ποιήσῃ ἀγαθόν, τοῦτο ⸀κομίσεται ⸀παρὰ κυρίου, εἴτε δοῦλος εἴτε ἐλεύθερος. "
     },
     {
       "reference": "Ephesians 6:9",
@@ -156,7 +126,8 @@
       "tsw_comparator": "And masters, do the same to them. Stop your threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.561404,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "Καὶ οἱ κύριοι, τὰ αὐτὰ ποιεῖτε πρὸς αὐτούς, ἀνιέντες τὴν ἀπειλήν, εἰδότες ὅτι καὶ ⸂αὐτῶν καὶ ὑμῶν⸃ ὁ κύριός ἐστιν ἐν οὐρανοῖς, καὶ προσωπολημψία οὐκ ἔστιν παρʼ αὐτῷ. "
     },
     {
       "reference": "Ephesians 6:10",
@@ -169,7 +140,8 @@
       "tsw_comparator": "Finally, be strong in the Lord and in the strength of his might.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.416667,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "⸂Τοῦ λοιποῦ⸃ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. "
     },
     {
       "reference": "Ephesians 6:12",
@@ -182,7 +154,8 @@
       "tsw_comparator": "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this present darkness, against the spiritual forces of evil in the heavenly places.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.861538,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "ὅτι οὐκ ἔστιν ἡμῖν ἡ πάλη πρὸς αἷμα καὶ σάρκα, ἀλλὰ πρὸς τὰς ἀρχάς, πρὸς τὰς ἐξουσίας, πρὸς τοὺς κοσμοκράτορας τοῦ ⸀σκότους τούτου, πρὸς τὰ πνευματικὰ τῆς πονηρίας ἐν τοῖς ἐπουρανίοις. "
     },
     {
       "reference": "Ephesians 6:13",
@@ -195,7 +168,8 @@
       "tsw_comparator": "Therefore take up the whole armor of God, that you may be able to withstand on the evil day, and having done all, to stand.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.577778,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "διὰ τοῦτο ἀναλάβετε τὴν πανοπλίαν τοῦ θεοῦ, ἵνα δυνηθῆτε ἀντιστῆναι ἐν τῇ ἡμέρᾳ τῇ πονηρᾷ καὶ ἅπαντα κατεργασάμενοι στῆναι. "
     },
     {
       "reference": "Ephesians 6:15",
@@ -208,7 +182,8 @@
       "tsw_comparator": "and as shoes for your feet, the readiness given by the gospel of peace.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.533333,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "καὶ ὑποδησάμενοι τοὺς πόδας ἐν ἑτοιμασίᾳ τοῦ εὐαγγελίου τῆς εἰρήνης, "
     },
     {
       "reference": "Ephesians 6:16",
@@ -221,7 +196,8 @@
       "tsw_comparator": "In all circumstances take up the shield of faith, with which you will be able to extinguish all the flaming arrows of the evil one;",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.693878,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "⸀ἐν πᾶσιν ἀναλαβόντες τὸν θυρεὸν τῆς πίστεως, ἐν ᾧ δυνήσεσθε πάντα τὰ βέλη τοῦ ⸀πονηροῦ πεπυρωμένα σβέσαι· "
     },
     {
       "reference": "Ephesians 6:17",
@@ -234,7 +210,8 @@
       "tsw_comparator": "and take the helmet of salvation, and the sword of the Spirit, which is the word of God.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.787879,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "καὶ τὴν περικεφαλαίαν τοῦ σωτηρίου ⸀δέξασθε, καὶ τὴν μάχαιραν τοῦ πνεύματος, ὅ ἐστιν ῥῆμα θεοῦ, "
     },
     {
       "reference": "Ephesians 6:18",
@@ -247,7 +224,8 @@
       "tsw_comparator": "With every prayer and petition, pray at all times in the Spirit; and to that end, keep alert with all perseverance, making supplication for all the saints.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.481481,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "διὰ πάσης προσευχῆς καὶ δεήσεως, προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς ⸀αὐτὸ ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, "
     },
     {
       "reference": "Ephesians 6:20",
@@ -260,7 +238,8 @@
       "tsw_comparator": "for which I am an ambassador in chains, that I may declare it boldly, as I ought to speak.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.697674,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει, ἵνα ἐν αὐτῷ παρρησιάσωμαι ὡς δεῖ με λαλῆσαι. "
     },
     {
       "reference": "Ephesians 6:24",
@@ -273,7 +252,8 @@
       "tsw_comparator": "Grace be with all who love our Lord Jesus Christ with love incorruptible.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.888889,
-      "editorial_status": "REVIEW_PENDING"
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_record": "ἡ χάρις μετὰ πάντων τῶν ἀγαπώντων τὸν κύριον ἡμῶν Ἰησοῦν Χριστὸν ἐν ⸀ἀφθαρσίᾳ. "
     }
   ]
 }

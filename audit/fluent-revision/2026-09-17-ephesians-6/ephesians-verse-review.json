@@ -1,16 +1,10 @@
 {
-  "book": "Ephesians",
-  "chapter": 6,
-  "translation": "FLUENT",
+  "schema_version": 3,
+  "revision_id": "fluent-2026-09-17-ephesians-6-biblical-fluency-2026-09-16",
+  "base_commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+  "scope": "Ephesians 6",
   "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "qa_scope": "structural",
-  "automated_qa": "PASSED",
-  "revision_id": "fluent-2026-09-17-ephesians-6-biblical-fluency-2026-09-16",
-  "supersedes": {
-    "commit": "ccb3985e87fad907698c1574db897dd67dca6904",
-    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_06_review.json"
-  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
@@ -30,17 +24,21 @@
       6
     ]
   },
-  "chapter_binding": {
-    "chapter": 6,
-    "verse_count": 24,
-    "path": "translations/fluent/NT/ephesians/Ephesians_06.md",
-    "before_sha256": "51a66cfbe6eeccf555a3833055a51f3a9a18a83d2250ed475b0092a65bd0b101",
-    "after_sha256": "1290d1c1af8fc5521eb3db20729324375c7f0f3841b33b0553f1abf9132aaf89",
-    "tsw_comparator_path": "books/NT/ephesians/Ephesians_06.md",
-    "tsw_comparator_sha256": "df6a7660199f3102ee8ab2e116d2643b09f6ab49730de209894ddcf75ee48b27"
-  },
-  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json",
-  "key_decisions": [
+  "automated_qa": "PASSED",
+  "qa_scope": "structural",
+  "method": "Every pinned Greek verse read before authoring. All verses drafted before reading prior Fluent. TSW is a post-authoring comparator, not a wording template. Each authored verse has its own rationale. F0–F3 choices are provisional; no independent review or change quota.",
+  "chapters": [
+    {
+      "chapter": 6,
+      "verse_count": 24,
+      "path": "translations/fluent/NT/ephesians/Ephesians_06.md",
+      "before_sha256": "51a66cfbe6eeccf555a3833055a51f3a9a18a83d2250ed475b0092a65bd0b101",
+      "after_sha256": "1290d1c1af8fc5521eb3db20729324375c7f0f3841b33b0553f1abf9132aaf89",
+      "tsw_comparator_path": "books/NT/ephesians/Ephesians_06.md",
+      "tsw_comparator_sha256": "df6a7660199f3102ee8ab2e116d2643b09f6ab49730de209894ddcf75ee48b27"
+    }
+  ],
+  "verses": [
     {
       "reference": "Ephesians 6:1",
       "delta": "F3",
@@ -172,6 +170,19 @@
       "editorial_status": "REVIEW_PENDING"
     },
     {
+      "reference": "Ephesians 6:11",
+      "delta": "F2",
+      "rationale": "Keeps armor, standing and the named adversary.",
+      "source_reference": "Eph 6:11",
+      "source_verse_sha256": "a6b58590959fe815da0d2fc6283b29e961d5f3e2789d64a7068f7a58204c41bc",
+      "before": "Put on the full armor of God so that you may be able to stand against the devil’s schemes.",
+      "after": "Put on God's full armor so that you can stand against the devil's schemes.",
+      "tsw_comparator": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.529412,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
       "reference": "Ephesians 6:12",
       "delta": "F3",
       "rationale": "Retains the repeated against and the nonhuman scope without identifying present-day groups.",
@@ -195,6 +206,19 @@
       "tsw_comparator": "Therefore take up the whole armor of God, that you may be able to withstand on the evil day, and having done all, to stand.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.577778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 6:14",
+      "delta": "F2",
+      "rationale": "Keeps the two concrete armor images rather than replacing them with abstract advice.",
+      "source_reference": "Eph 6:14",
+      "source_verse_sha256": "c82feaf14d456097c0d350232cbd70bb5759fbc0ac3ff83b66648f480614a3db",
+      "before": "Stand, therefore, with truth fastened around your waist, wearing the breastplate of righteousness,",
+      "after": "Stand, then, with truth fastened around your waist and righteousness worn as a breastplate,",
+      "tsw_comparator": "Stand therefore, with the belt of truth fastened around your waist, and having put on the breastplate of righteousness,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
       "editorial_status": "REVIEW_PENDING"
     },
     {
@@ -250,6 +274,19 @@
       "editorial_status": "REVIEW_PENDING"
     },
     {
+      "reference": "Ephesians 6:19",
+      "delta": "F2",
+      "rationale": "Keeps dependence on given speech and the request for bold proclamation.",
+      "source_reference": "Eph 6:19",
+      "source_verse_sha256": "7ce167840b3c75651144af6793c22c0f536943f739e031a36d9221c55e9f1894",
+      "before": "and also for me, that a word may be given to me when I open my mouth to make known the mystery of the good news with boldness,",
+      "after": "Pray for me too, that words may be given to me when I open my mouth, so that I can boldly make known the mystery of the good news.",
+      "tsw_comparator": "And pray for me, that words may be given to me when I open my mouth, to make known with boldness the mystery of the gospel,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.763636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
       "reference": "Ephesians 6:20",
       "delta": "F3",
       "rationale": "Retains the ambassador/chains contrast and repeated boldness.",
@@ -260,6 +297,45 @@
       "tsw_comparator": "for which I am an ambassador in chains, that I may declare it boldly, as I ought to speak.",
       "identical_words_to_tsw": false,
       "word_similarity_to_tsw": 0.697674,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 6:21",
+      "delta": "F2",
+      "rationale": "Names the messenger and both relational and ministerial descriptions.",
+      "source_reference": "Eph 6:21",
+      "source_verse_sha256": "39909a00910e2199fbae63a4964599a0ac1ba350078637a1b8355ad5078878ff",
+      "before": "So that you also may know about my circumstances and what I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything.",
+      "after": "So that you too may know how I am and what I am doing, Tychicus will tell you everything. He is a beloved brother and a faithful minister in the Lord.",
+      "tsw_comparator": "So that you also may know how I am and what I am doing, Tychicus the beloved brother and faithful servant in the Lord will tell you everything.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.610169,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 6:22",
+      "delta": "F2",
+      "rationale": "Keeps the plural we and the two purposes of the mission; uses an epistolary present.",
+      "source_reference": "Eph 6:22",
+      "source_verse_sha256": "3d4b79fbe3bb7205da1458cc14c4d0e3831313764639092336b97bf0018a3893",
+      "before": "I am sending him to you for this very reason, so that you may know about us and he may encourage your hearts.",
+      "after": "I am sending him to you for this very purpose: to let you know how we are and to encourage your hearts.",
+      "tsw_comparator": "I have sent him to you for this very purpose, that you may know how we are, and that he may encourage your hearts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.73913,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 6:23",
+      "delta": "F2",
+      "rationale": "Includes the addressed community without altering divine titles or coupling of love and faith.",
+      "source_reference": "Eph 6:23",
+      "source_verse_sha256": "77d88fc52b8bf0f15e4f1882c3a5c16c3eaa05b371aef0039d1e1177e2d1c5a9",
+      "before": "Peace to the brothers and sisters, and love with trust, from God the Father and the Lord Jesus Christ.",
+      "after": "Peace to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ.",
+      "tsw_comparator": "Peace be to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.974359,
       "editorial_status": "REVIEW_PENDING"
     },
     {
@@ -275,5 +351,13 @@
       "word_similarity_to_tsw": 0.888889,
       "editorial_status": "REVIEW_PENDING"
     }
-  ]
+  ],
+  "summary": {
+    "verses_drafted": 24,
+    "verses_with_changed_text": 24,
+    "delta_counts": {
+      "F3": 18,
+      "F2": 6
+    }
+  }
 }

@@ -4,142 +4,102 @@ testament: NT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-philippians-1-4-biblical-fluency-2026-09-16
 ---
+
 
 ## Greeting
 
 <p>
-v01: Paul and Timothy, servants of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, together with the overseers and deacons:
-v02: Grace to you and peace from God our Father and the Lord Jesus Christ.
+v01: From Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus at Philippi, together with the overseers and deacons.
+v02: Grace and peace to you from God our Father and the Lord Jesus Christ.
 </p>
 
 ## Thanksgiving and Prayer
 
 <p>
-v03: I thank my God every time I remember you,
-v04: always praying with joy in every prayer for all of you,
-v05: because of your partnership in the gospel from the first day until now.
-v06: I am confident of this: the one who began a good work among you will bring it to completion by the day of Christ Jesus.
+v03: I thank my God whenever I remember you.
+v04: In every prayer for all of you, I always pray with joy
+v05: because of your partnership in the good news from the first day until now.
+v06: I am sure of this: the one who began a good work among you will bring it to completion by the day of Christ Jesus.
 </p>
 
 <p>
-v07: It is right for me to think this way about all of you, because I hold you in my heart. All of you share grace with me, both in my imprisonment and in the defense and confirmation of the gospel.
-v08: God is my witness how deeply I long for all of you with the affection of Christ Jesus.
+v07: It is right for me to feel this way about all of you, because I hold you in my heart. All of you share in grace with me, both in my imprisonment and in defending and confirming the good news.
+v08: God is my witness to how I long for all of you with the deep affection of Christ Jesus.
 </p>
 
 <p>
-v09: And this is my prayer: that your love may abound more and more in knowledge and every kind of discernment,
-v10: so that you may discern what truly matters and may be pure and blameless for the day of Christ,
-v11: filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.
+v09: And this is my prayer: that your love may overflow more and more in knowledge and every kind of discernment,
+v10: so that you can recognize what matters most and be sincere and blameless for the day of Christ,
+v11: filled with the fruit of righteousness that comes through Jesus Christ, to God's glory and praise.
 </p>
 
 ## The Gospel Advances Through Imprisonment
 
 <p>
-v12: I want you to know, brothers and sisters, that what has happened to me has actually helped advance the gospel.
-v13: As a result, it has become clear throughout the whole imperial guard and to everyone else that I am in chains for Christ,
-v14: and most of the brothers and sisters have become more confident in the Lord because of my imprisonment and are much more daring in speaking the word without fear.
+v12: I want you to know, brothers and sisters, that what has happened to me has actually advanced the good news.
+v13: It has become clear throughout the whole imperial guard, and to everyone else, that I am in chains because of Christ.
+v14: And most of the brothers and sisters, gaining confidence in the Lord through my chains, now dare more than ever to speak the word without fear.
 </p>
 
 <p>
-v15: Some proclaim Christ out of envy and rivalry, but others out of goodwill.
-v16: The latter do so out of love, knowing that I am here for the defense of the gospel.
-v17: The former proclaim Christ out of selfish ambition, not sincerely, thinking they can add trouble to my imprisonment.
-v18: What does it matter? Only this: in every way, whether from false motives or in truth, Christ is proclaimed—and in that I rejoice. Yes, and I will continue to rejoice,
+v15: Some indeed preach Christ out of envy and rivalry, while others do so out of goodwill.
+v16: The latter act out of love, knowing that I am placed here to defend the good news.
+v17: The others proclaim Christ out of selfish ambition, without sincere motives, thinking they can add to my distress in prison.
+v18: What does it matter? In every way, whether as a pretense or in truth, Christ is being proclaimed, and in this I rejoice. Yes, I will go on rejoicing,
 </p>
 
 <p>
-v19: because I know that this will turn out for my deliverance through your prayers and the help of the Spirit of Jesus Christ.
-v20: My eager expectation and hope is that I will not be put to shame in anything, but that with complete boldness, now as always, Christ will be exalted in my body, whether through life or through death.
+v19: because I know that through your prayers and the help of the Spirit of Jesus Christ, this will lead to my salvation.
+v20: My eager expectation and hope is that I will not be put to shame in any way, but that with complete boldness, now as always, Christ will be magnified in my body, whether by life or by death.
 </p>
 
 ## To Live Is Christ
 
 <p>
-v21: For to me, to live is Christ and to die is gain.
-v22: If I continue living in the flesh, that means fruitful work for me. Yet I do not know which I would choose.
-v23: I am torn between the two. I desire to depart and be with Christ, which is far better,
-v24: but to remain in the flesh is more necessary for your sake.
+v21: For to me, living is Christ and dying is gain.
+v22: But if I go on living in the flesh, that means fruitful work for me. Which I would choose, I do not know.
+v23: I am pulled in both directions. I long to depart and be with Christ, for that is far better;
+v24: yet remaining in the flesh is more necessary for your sake.
 </p>
 
 <p>
 v25: Convinced of this, I know that I will remain and continue with all of you for your progress and joy in faith,
-v26: so that your boasting in Christ Jesus may overflow because of me when I come to you again.
+v26: so that your boasting in Christ Jesus may overflow because of me when I am with you again.
 </p>
 
 ## Live as Citizens Worthy of the Gospel
 
 <p>
-v27: Only live as citizens in a way worthy of the gospel of Christ, so that whether I come and see you or remain absent, I may hear that you are standing firm in one spirit, striving together with one mind for the faith of the gospel,
-v28: without being intimidated in any way by your opponents. This is a sign to them of destruction, but to you of salvation—and this is from God.
+v27: Only, live as citizens worthy of the good news of Christ. Then, whether I come and see you or remain absent, I may hear that you stand firm in one spirit, struggling together with one soul for the faith of the good news,
+v28: unafraid of your opponents in any way. This is a sign to them of destruction, but of your salvation—and this comes from God.
 </p>
 
 <p>
-v29: For you have been graciously given, on behalf of Christ, not only to trust in him but also to suffer for him,
-v30: since you are engaged in the same struggle you saw me have and now hear that I still have.
+v29: For you have been given the privilege, for Christ's sake, not only of believing in him but also of suffering for him.
+v30: You are engaged in the same struggle that you saw in me and now hear that I still face.
 </p>
 
 ## Notes
 
-v01: “Servants” translates *douloi*, a term that can also mean “slaves.” The wording emphasizes belonging to Christ rather than social rank within the church.
+v03: The phrase can refer to Paul remembering the Philippians or to their remembrance of him.
 
-v05: “Partnership” translates *koinōnia*, a recurring word-family in Philippians for shared participation in the gospel, the Spirit, Christ's sufferings, hardship, and material support.
+v06–07: ‘You’ is plural. ‘Among you’ may also be rendered ‘in you.’ In verse 7, ‘I hold you in my heart’ can also be read ‘you hold me in your heart.’
 
-v06: The sentence places confidence in God's continuing work among the Philippians rather than in their independent ability to complete it.
+v13: The Greek word can denote the imperial guard or a governor’s headquarters. The text does not name the place of imprisonment.
 
-v07: “Share grace with me” preserves the communal force of Paul's language: imprisonment and gospel defense are contexts of shared grace, not merely Paul's private experience.
+v19: ‘Salvation’ can also mean deliverance or vindication; the following verses keep both life and death in view.
 
-v09–10: Love is joined to knowledge and discernment so that the community can recognize what truly matters.
-
-v13: *Praitōrion* can refer to the praetorian guard or more broadly to the sphere of Roman governmental authority. “Imperial guard” is retained as the main rendering.
-
-v15–18: Paul does not approve corrupt motives; he nevertheless rejoices that Christ is being proclaimed.
-
-v19: *Sōtēria* can mean salvation, deliverance, preservation, or vindication. “Deliverance” fits the immediate context without deciding whether Paul expects release from prison or final vindication before God.
-
-v20–24: Paul's hope is not simply escape from death. His controlling concern is that Christ be exalted in his body whether he lives or dies.
-
-v27: The verb *politeuomai* carries civic language: “live as citizens.” It anticipates the related noun *politeuma* in 3:20, where Paul names the community's citizenship as being in heaven.
-
-v29: The verb *charizomai* is related to grace. Paul describes both trusting in Christ and suffering for him as things graciously given, not achievements earned by the community.
+v27: The verb means to live or conduct oneself as a citizen. It is related to ‘citizenship’ in 3:20. ‘One spirit’ may refer to a shared disposition or to the Spirit.
 
 ## Vocabulary
 
-v01: δοῦλος (doulos)
-“Servant” or “slave.” A term of belonging and service; here Paul and Timothy identify themselves by allegiance to Christ Jesus.
+v01: **δοῦλος (doulos)**: Slave; Paul and Timothy use the term of their relation to Christ.
 
-v05: κοινωνία (koinōnia)
-“Partnership,” “sharing,” or “participation.” A central Philippians word for shared life and shared investment in the gospel.
+v05: **κοινωνία (koinōnia)**: Partnership, sharing or participation.
 
-v06: ἐπιτελέω (epiteleō)
-“To bring to completion.” To carry an undertaking through to its intended end.
-
-v07: ἀπολογία (apologia)
-“Defense.” A formal explanation or defense, often with legal overtones.
-
-v09: ἐπίγνωσις (epignōsis)
-“Knowledge” or “full knowledge.” Deep recognition or understanding, not mere accumulation of information.
-
-v10: δοκιμάζω (dokimazō)
-“To test,” “discern,” or “approve.” To evaluate something in order to recognize what is genuine or excellent.
-
-v13: πραιτώριον (praitōrion)
-“Praetorium” or “imperial guard.” A term associated with Roman governmental or military authority.
-
-v19: σωτηρία (sōtēria)
-“Salvation,” “deliverance,” or “vindication.” The context permits more than one nuance.
-
-v21: κέρδος (kerdos)
-“Gain.” An economic term Paul reorients around being with Christ.
-
-v23: ἀναλύω (analyō)
-“To depart.” To leave or be released; here a restrained expression for death.
-
-v27: πολιτεύομαι (politeuomai)
-“To live as a citizen” or conduct oneself as a member of a commonwealth. The word makes communal public identity explicit.
-
-v29: χαρίζομαι (charizomai)
-“To give graciously.” To grant as a gift or favor.
-
-v30: ἀγών (agōn)
-“Struggle” or “contest.” A public conflict requiring endurance.
+v08: **σπλάγχνα (splanchna)**: Internal organs, used figuratively for deep affection.

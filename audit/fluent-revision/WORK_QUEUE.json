@@ -636,12 +636,30 @@
       "scope": "Ephesians 1–5",
       "verses": 131,
       "ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json"
+    },
+    {
+      "scope": "Ephesians 6",
+      "verses": 24,
+      "ledger": "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json"
+    },
+    {
+      "scope": "Philippians 1–4",
+      "verses": 104,
+      "ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
-      "action": "Begin the next fifty-chapter draft block with Ephesians 6. Read every verified pinned Greek verse before authoring; retain all review and publication guards."
+      "scope": "Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+      "action": "Continue the remaining 45 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+    },
+    {
+      "scope": "Whole-book Ephesians consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument flow, repeated terms, social relationships, source variants and cross-batch consistency. Rebind changes. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book Philippians consistency review",
+      "action": "Read the complete revised book and apparatus continuously; review argument flow, repeated terms, social relationships, source variants and cross-batch consistency. Rebind changes. Independent editorial review remains pending."
     },
     {
       "scope": "Whole-book Mark consistency review",
@@ -883,11 +901,11 @@
     "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 0,
-    "completed_scope": "None",
-    "completed_verses": 0,
-    "remaining_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
-    "remaining_chapters": 50,
-    "qualification": "The preceding fifty-chapter block is draft-complete and structurally verified. This next block is queued but has not yet begun; independent editorial review and reader testing remain pending."
+    "completed_chapters": 5,
+    "completed_scope": "Ephesians 6; Philippians 1–4",
+    "completed_verses": 128,
+    "remaining_scope": "Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "remaining_chapters": 45,
+    "qualification": "Intermediate checkpoint: 5 of 50 chapters drafted and structurally verified; 45 remain. Independent editorial review and reader testing remain pending."
   }
 }

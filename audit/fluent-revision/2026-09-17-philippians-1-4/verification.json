@@ -1,0 +1,79 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+  "new_chapters": 5,
+  "new_verses": 128,
+  "unique_original_source_records": 128,
+  "cumulative_coverage": {
+    "ledgers": 129,
+    "chapters": 1112,
+    "verses": 29554
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 127,
+    "chapters_byte_identical": 1107,
+    "verses": 29426,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-ephesians-6/ephesians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 24,
+      "unique_source_records": 24
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 104,
+      "unique_source_records": 104
+    }
+  ],
+  "additional_affected_ledgers": [
+    "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json"
+  ],
+  "source_sensitive_checks": {
+    "slavery_and_threats": true,
+    "nonhuman_opponents": true,
+    "standing_and_peace": true,
+    "messenger": true,
+    "senders": true,
+    "life_and_death": true,
+    "form_and_equality": true,
+    "emptying_and_slave": true,
+    "three_regions": true,
+    "willing_and_doing": true,
+    "specific_father": true,
+    "epaphroditus_roles": true,
+    "eighth_day_and_tribe": true,
+    "faithfulness_and_faith": true,
+    "source_short_name": true,
+    "source_short_3_16": true,
+    "civic_connection": true,
+    "equal_women_appeals": true,
+    "women_workers": true,
+    "source_short_4_13": true,
+    "places": true,
+    "caesar_household": true,
+    "short_closing": true
+  },
+  "focused_authoring_reread_count": 98,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31083 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "active_fifty_chapter_block": {
+    "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 5,
+    "completed_scope": "Ephesians 6; Philippians 1–4",
+    "completed_verses": 128,
+    "remaining_scope": "Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "remaining_chapters": 45,
+    "qualification": "Intermediate checkpoint: 5 of 50 chapters drafted and structurally verified; 45 remain. Independent editorial review and reader testing remain pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_reviews": "PENDING; Ephesians and Philippians newly queued",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

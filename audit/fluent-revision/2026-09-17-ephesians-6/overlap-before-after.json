@@ -1,0 +1,187 @@
+{
+  "scope": "Ephesians 6",
+  "verses": 24,
+  "summary": {
+    "before": {
+      "identical": 2,
+      "near_identical_nonidentical": 3,
+      "mean_word_similarity": 0.814461
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 2,
+      "mean_word_similarity": 0.674835
+    }
+  },
+  "rows": [
+    {
+      "reference": "Ephesians 6:1",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.909091,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Ephesians 6:2",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Ephesians 6:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Ephesians 6:4",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Ephesians 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Ephesians 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.311111
+    },
+    {
+      "reference": "Ephesians 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Ephesians 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Ephesians 6:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.561404
+    },
+    {
+      "reference": "Ephesians 6:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.416667
+    },
+    {
+      "reference": "Ephesians 6:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Ephesians 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "Ephesians 6:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745098,
+      "after_similarity": 0.577778
+    },
+    {
+      "reference": "Ephesians 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Ephesians 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Ephesians 6:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Ephesians 6:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Ephesians 6:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.535714,
+      "after_similarity": 0.481481
+    },
+    {
+      "reference": "Ephesians 6:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "Ephesians 6:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Ephesians 6:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.892857,
+      "after_similarity": 0.610169
+    },
+    {
+      "reference": "Ephesians 6:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Ephesians 6:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.974359
+    },
+    {
+      "reference": "Ephesians 6:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.888889
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

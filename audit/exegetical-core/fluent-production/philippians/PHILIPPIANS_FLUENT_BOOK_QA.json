@@ -1,8 +1,8 @@
 {
   "book": "Philippians",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_counts": {
     "1": 30,
     "2": 30,
@@ -107,5 +107,52 @@
     "Philippians 3:9 current TSW uses trust in Christ while Romans 3 project policy renders pistis Christou as Christ’s faithfulness.",
     "Philippians 4 Vocabulary duplicates eirēnē.",
     "Philippians 4:12 current TSW Vocabulary lists mystērion though the Greek verb is mueō / memyēmai."
+  ],
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-philippians-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 104,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+      "path": "audit/exegetical-core/fluent-production/philippians/PHILIPPIANS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-philippians-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 104,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-philippians-1-4/philippians-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "ccb3985e87fad907698c1574db897dd67dca6904",
+        "path": "audit/exegetical-core/fluent-production/philippians/PHILIPPIANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
   ]
 }
