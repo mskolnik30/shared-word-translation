@@ -80,7 +80,7 @@ v31: Lamech lived 777 years in all. Then he died.
 </p>
 
 <p>
-v32: After Noah reached 500 years of age, he became the father of Shem, Ham, and Japheth.
+v32: Noah was 500 years old, and he became the father of Shem, Ham, and Japheth.
 </p>
 
 ## Notes

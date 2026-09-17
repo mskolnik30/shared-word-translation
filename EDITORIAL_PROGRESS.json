@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-17",
-  "base_checkpoint_version": 98,
+  "base_checkpoint_version": 99,
   "standard": "FLUENT_EDITORIAL_STANDARD.md",
   "reader_guidance": "FLUENT_READER_GUIDANCE.md",
   "routine_batch_approval_required": false,
@@ -13,7 +13,7 @@
   "publication_allowed": false,
   "independent_editorial_review": "REVIEW_PENDING",
   "criteria_status": {
-    "F01": "PENDING",
+    "F01": "IN_PROGRESS; GENESIS_1_10_SELF_REVIEWED_WITH_OPEN_ISSUES",
     "F02": "PENDING",
     "F03": "PENDING",
     "F04": "PENDING",
@@ -42,14 +42,28 @@
     {
       "book": "genesis",
       "chapters": 50,
-      "fresh_source_review": "IN_PROGRESS_TARGETED_ONLY",
+      "fresh_source_review": "GENESIS_1_10_SELF_REVIEW_COMPLETE_WITH_OPEN_ISSUES",
       "continuous_reading": "NOT_STARTED",
       "apparatus_scope_review": "SELF_REVIEW_COMPLETE_WITH_OPEN_ISSUES",
       "terminology_and_house_style": "PENDING",
       "independent_language_review": "PENDING",
       "reader_testing": "PENDING",
       "companion_reconciliation": "PENDING",
-      "final_signoff": "PENDING"
+      "final_signoff": "PENDING",
+      "source_reviewed_chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "source_reviewed_verses": 267,
+      "targeted_additional_verses": 15
     },
     {
       "book": "exodus",
@@ -823,15 +837,31 @@
   "active_block": {
     "scope": "Genesis 1–50",
     "status": "IN_PROGRESS",
-    "completed_pass": "Apparatus editorial scope and clarity",
+    "completed_pass": "Apparatus scope for all 50; fresh source comparison for chapters 1–10",
     "reviewed_notes": 337,
     "reviewed_vocabulary_entries": 240,
-    "targeted_source_records": 10,
-    "targeted_genesis_verse_records": 9,
     "total_genesis_verse_records": 1533,
     "full_bilingual_review_complete": false,
     "report": "audit/fluent-revision/2026-09-17-editorial-genesis/Genesis-Editorial-Review.md",
-    "issues": "audit/fluent-revision/2026-09-17-editorial-genesis/open-issues.json"
+    "issues": "audit/fluent-revision/2026-09-17-genesis-source-1-10/open-issues.json",
+    "source_reviewed_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_reviewed_verses": 267,
+    "current_targeted_additional_source_records": 15,
+    "current_source_review_report": "audit/fluent-revision/2026-09-17-genesis-source-1-10/Genesis-Source-Review.md",
+    "next_source_chapter": 11,
+    "prior_apparatus_targeted_source_records": 10,
+    "prior_apparatus_targeted_genesis_verse_records": 9
   },
-  "next_action": "Complete Genesis fresh full source review and continuous reading before marking this 50-chapter block complete; then advance in 50-chapter units without routine approval."
+  "next_action": "Continue the fresh source comparison at Genesis 11. Finish Genesis 11–50, continuous reading and open questions before marking the 50-chapter block complete. No routine batch approval needed."
 }

@@ -1,0 +1,113 @@
+{
+  "status": "OPEN",
+  "items": [
+    {
+      "id": "G01",
+      "scope": "Genesis 1–50",
+      "criterion": "F01",
+      "action": "Genesis 1–10 (267 verses) now has fresh verse-by-verse self-review with open findings. Complete Genesis 11–50, then resolve all logged questions before closing source fidelity.",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "G02",
+      "scope": "Genesis 1–50",
+      "criterion": "F02/F04/F08",
+      "action": "Read the whole book continuously, including chapter transitions; review speaker tracking, paragraphs, headings, repetitions and the poetry in chapters 27 and 49.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G03",
+      "scope": "Genesis 15:6; 16:13–14; 20:13,16; 24:55,63; 25:18,23",
+      "criterion": "F03",
+      "action": "Resolve or explicitly preserve the consequential grammatical and lexical alternatives already flagged by the notes. Confirm the notes against source and appropriate specialist evidence.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G04",
+      "scope": "Genesis 31:24,29",
+      "criterion": "F01/F03",
+      "action": "The main text uses make any pronouncement for Hebrew speak from good to bad. Targeted inspection confirms the literal components but not the narrower formal-speech interpretation. Decide the idiom from contextual and lexical evidence and rebind any changed Scripture.",
+      "status": "AUTHOR_DECISION_RECORDED_INDEPENDENT_REVIEW_PENDING",
+      "decision_evidence": "audit/fluent-revision/2026-09-17-genesis-source-1-10/priority-review.json"
+    },
+    {
+      "id": "G05",
+      "scope": "Genesis 35:7",
+      "criterion": "F03/F06",
+      "action": "A plural verb accompanies Elohim. The note now states this fact without asserting that the surrounding narrative settles it. Review the singular rendering and treatment of the alternative.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G06",
+      "scope": "Genesis 38:21–22",
+      "criterion": "F03/F07",
+      "action": "The main text says shrine prostitute while the apparatus acknowledges uncertainty about the institutional connection of qedeshah. Evaluate whether the main wording is too specific.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G07",
+      "scope": "Genesis 44:22",
+      "criterion": "F03",
+      "action": "The English identifies the father where the Hebrew pronoun can refer to father or son. Decide whether the existing note adequately preserves the ambiguity or the main text should retain a pronoun.",
+      "status": "AUTHOR_DECISION_RECORDED_INDEPENDENT_REVIEW_PENDING",
+      "decision_evidence": "audit/fluent-revision/2026-09-17-genesis-source-1-10/priority-review.json"
+    },
+    {
+      "id": "G08",
+      "scope": "Genesis 49",
+      "criterion": "F01/F03/F04",
+      "action": "Review the complete poem, its difficult syntax and lexical alternatives, and the handling of Shiloh, Joseph imagery, divine titles and parallelism. No fresh complete source comparison of this poem occurred in this pass.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G09",
+      "scope": "Genesis 1–50 vocabulary and notes",
+      "criterion": "F05/F07",
+      "action": "All entries received an editorial-scope decision, but lexical accuracy, transliteration, duplication between notes and vocabulary, and the usefulness of each surviving entry require source and reader checks. Routine entries such as dream, forget, or walk about should be tested for actual reader value.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G10",
+      "scope": "Genesis 1–50",
+      "criterion": "F06/F08",
+      "action": "Apply the final corpus conventions for divine-name bolding, quotation marks, transliteration and rendered poetry. Verse-label padding is standardized here; the other style decisions are not thereby closed.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G11",
+      "scope": "Genesis 1–50",
+      "criterion": "F11/F12",
+      "action": "Qualified independent language review, representative reader testing, Companion reconciliation and Matt’s final editorial signoff remain pending.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G12",
+      "scope": "Genesis 3:22",
+      "criterion": "F02/F03",
+      "action": "Evaluate a contemporary replacement for lest that preserves the preventive force and interrupted subordinate clause without inventing a completed speech.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G13",
+      "scope": "Genesis 6:16",
+      "criterion": "F01/F03",
+      "action": "Review the roof/light-opening term and cubit construction with specialist evidence; present geometry is provisional and must not be treated as a recovered blueprint.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G14",
+      "scope": "Genesis 7:23",
+      "criterion": "F01/F04",
+      "action": "Evaluate whether to restore the Hebrew active wiping verb before the passive repetition without supplying an unwarranted explicit agent.",
+      "status": "OPEN"
+    },
+    {
+      "id": "G15",
+      "scope": "Genesis 9:20",
+      "criterion": "F01/F03",
+      "action": "Reassess whether began to work the ground overdetermines the compact farmer/begin/plant wording. The existing note preserves the alternative; a fresh lexical/syntactic decision remains open.",
+      "status": "OPEN"
+    }
+  ],
+  "supersedes": "audit/fluent-revision/2026-09-17-editorial-genesis/open-issues.json"
+}

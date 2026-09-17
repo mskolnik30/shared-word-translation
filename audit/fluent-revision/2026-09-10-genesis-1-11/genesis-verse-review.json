@@ -39,7 +39,7 @@
       "verse_count": 31,
       "path": "translations/fluent/OT/genesis/Genesis_01.md",
       "before_sha256": "51447998cab388361c57575e1f0dde12a785ed27ae87ed0cd96957bc21ab4117",
-      "after_sha256": "59abe84c91eb30a58eb9a7c7063bd6b2d4f6e6b92c91b75b9e65bbae4225db53",
+      "after_sha256": "78b00cbc5d6f354491fc8a90606773639de670ca7857d0ac98a87cfd20c3f2ce",
       "tsw_comparator_path": "books/OT/genesis/Genesis_01.md",
       "tsw_comparator_sha256": "9043743ac7c169b0e706422a20eae4fa59474da5fd8a773cdf4399f2a7077056"
     },
@@ -48,7 +48,7 @@
       "verse_count": 25,
       "path": "translations/fluent/OT/genesis/Genesis_02.md",
       "before_sha256": "b17a71b41e8afa1685117b0dea28d2f64544ec32f2443f0afaa061232d447734",
-      "after_sha256": "3fd6d8018d60b6930faabaeb03e2b0607e690bfd6985e8e39f07685d36fb6ea7",
+      "after_sha256": "f667c0217fc7eeeb418f1ea1cac59ceb0d0405c704edefcc135ed2686116b951",
       "tsw_comparator_path": "books/OT/genesis/Genesis_02.md",
       "tsw_comparator_sha256": "1fcf6c1bee54e33ec70eabe197ea3d6eac06c69190dbe58707e36d093284f13b"
     },
@@ -75,7 +75,7 @@
       "verse_count": 32,
       "path": "translations/fluent/OT/genesis/Genesis_05.md",
       "before_sha256": "24ed1465063c4e957f3f1af655e750f438d3351d4bfd5f70d915794a15935da8",
-      "after_sha256": "d772d5ed1368681ef1c7adbc3cd174e05803546910c9f183a569682bd08de58f",
+      "after_sha256": "40179b1fff63ed555c29f4c446b3b65630ab5f14cbfb7e7017f2b5281b31e938",
       "tsw_comparator_path": "books/OT/genesis/Genesis_05.md",
       "tsw_comparator_sha256": "10491d6357fb09f908c854357adfb254ca78ad655d6ac25fb211f7089d53175d"
     },
@@ -93,7 +93,7 @@
       "verse_count": 24,
       "path": "translations/fluent/OT/genesis/Genesis_07.md",
       "before_sha256": "48a17e3d8980a74f93b48f8e403adc169511f094e148b58c7b00e4251409e51a",
-      "after_sha256": "150eae7128ae0f5f87faab1fcbeb4494df9dd683b321cb3eff7493c33c30f269",
+      "after_sha256": "26382c1bec6e4fd711f583c66f5147689cf29843e84f023a8ea48385a7793db3",
       "tsw_comparator_path": "books/OT/genesis/Genesis_07.md",
       "tsw_comparator_sha256": "c205d8858b7343d4dbe0f89a3ac69c5b17b916d2200de25e27dfa44b9aa20131"
     },
@@ -310,12 +310,20 @@
       "rationale": "Break the functions into readable clauses; preserve appointed times rather than reducing them to modern seasons alone.",
       "source_reference": "Gen 1:14",
       "before": "God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for appointed times, and for days and years,",
-      "after": "God said, “Let lights appear in the dome of the sky to separate day from night. Let them mark signs, appointed times, days, and years.",
+      "after": "God said, “Let lights appear in the dome of the sky to separate day from night. Let them serve as signs and mark appointed times, days, and years.",
       "tsw_comparator": "And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for appointed times, and for days and years,",
       "source_verse_sha256": "9763a4bce3ec60f29b32b43065c1eb73e5724ce5bdbd2f465b4b00a39e7a5133",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.7,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.698413,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "God said, “Let lights appear in the dome of the sky to separate day from night. Let them mark signs, appointed times, days, and years.",
+          "rationale": "The lights are to be signs (le-otot), not to mark signs. Give the sign function natural English while retaining the appointed times, days and years."
+        }
+      ]
     },
     {
       "reference": "Genesis 1:15",
@@ -466,12 +474,20 @@
       "rationale": "Keep unexplained us/our, collective humanity, and rule; do not replace dominion with an interpretive stewardship paraphrase.",
       "source_reference": "Gen 1:26",
       "before": "God said, “Let us make humankind in our image, according to our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”",
-      "after": "God said, “Let us make humanity in our image, to bear our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”",
+      "after": "God said, “Let us make humanity in our image, in our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”",
       "tsw_comparator": "And God said, “Let us make humankind in our image, according to our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”",
       "source_verse_sha256": "817a773f12dcce5a4ee17c8f6b1961ce7297c6720cb1f8ca3fb3879648b9d4f9",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.629213,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.613636,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "God said, “Let us make humanity in our image, to bear our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”",
+          "rationale": "Ke-dmutenu describes likeness. Remove the purpose construction to bear, which can suggest an additional stated purpose; retain image and likeness as distinct expressions."
+        }
+      ]
     },
     {
       "reference": "Genesis 1:27",
@@ -596,12 +612,20 @@
       "rationale": "Unfold the long scene-setting syntax without harmonizing its sequence with chapter 1.",
       "source_reference": "Gen 2:5",
       "before": "when no plant of the field was yet in the earth and no herb of the field had yet sprung up—for the LORD God had not caused it to rain upon the earth, and there was no human to till the ground,",
-      "after": "no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted. The LORD God had not sent rain on the earth, and there was no human to work the ground.",
+      "after": "no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted, because the LORD God had not sent rain on the earth and there was no human to work the ground.",
       "tsw_comparator": "when no plant of the field was yet in the earth and no herb of the field had yet sprung up—for the LORD God had not caused it to rain upon the earth, and there was no human to till the ground,",
       "source_verse_sha256": "1d6635606624ab51321b75f26f57a66ad4e34130accb9534edcf1de1fe08f563",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.54321,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.536585,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted. The LORD God had not sent rain on the earth, and there was no human to work the ground.",
+          "rationale": "Make the explicit ki connection audible: the lack of rain and a human cultivator explains the preceding situation. The sentence still continues the temporal clause in 2:4."
+        }
+      ]
     },
     {
       "reference": "Genesis 2:6",
@@ -661,12 +685,20 @@
       "rationale": "Keep the outward flow and fourfold division without inventing a geographical identification.",
       "source_reference": "Gen 2:10",
       "before": "A river flows out of Eden to water the garden, and from there it divides and becomes four branches.",
-      "after": "A river flowed out of Eden to water the garden. Beyond it, the river divided into four branches.",
+      "after": "A river flowed out of Eden to water the garden. From there, the river divided into four branches.",
       "tsw_comparator": "A river flows out of Eden to water the garden, and from there it divides and becomes four branches.",
       "source_verse_sha256": "60bbe680737b10fbd024b35668b21ed4718e6bdc192cf24dcc1286828ed4c0a8",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.648649,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.702703,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "A river flowed out of Eden to water the garden. Beyond it, the river divided into four branches.",
+          "rationale": "U-misham means and/from there. Avoid specifying beyond the garden where the source gives a less specific deictic expression."
+        }
+      ]
     },
     {
       "reference": "Genesis 2:11",
@@ -1922,12 +1954,20 @@
       "rationale": "Treat the age statement as introducing the sons, not a claim of triplets; record the compressed genealogy syntax.",
       "source_reference": "Gen 5:32",
       "before": "After Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.",
-      "after": "After Noah reached 500 years of age, he became the father of Shem, Ham, and Japheth.",
+      "after": "Noah was 500 years old, and he became the father of Shem, Ham, and Japheth.",
       "tsw_comparator": "After Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.",
       "source_verse_sha256": "bc1b9aa66a1b5106f93a3c5494fb5d2b69c975d8c66a2591245ff73def768ab8",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.482759,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "After Noah reached 500 years of age, he became the father of Shem, Ham, and Japheth.",
+          "rationale": "Preserve the age statement and coordinated fatherhood statement without adding after. Do not harmonize the wording to a calculated chronology or imply that the three births were simultaneous."
+        }
+      ]
     },
     {
       "reference": "Genesis 6:1",
@@ -2520,12 +2560,20 @@
       "rationale": "Preserve the strength verb and 150-day duration distinct from forty days of rain.",
       "source_reference": "Gen 7:24",
       "before": "And the waters prevailed upon the earth one hundred fifty days.",
-      "after": "The waters held their power over the earth for 150 days.",
+      "after": "The waters continued to overwhelm the earth for 150 days.",
       "tsw_comparator": "And the waters prevailed upon the earth one hundred fifty days.",
       "source_verse_sha256": "e96b7fbb78ac808611d5ec06a17251580e5acfadc9b9a0b3cc9ece1086730a08",
       "identical_words_to_tsw": false,
-      "word_similarity_to_tsw": 0.454545,
-      "editorial_status": "REVIEW_PENDING"
+      "word_similarity_to_tsw": 0.47619,
+      "editorial_status": "REVIEW_PENDING",
+      "subsequent_editorial_changes": [
+        {
+          "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+          "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+          "previous_after": "The waters held their power over the earth for 150 days.",
+          "rationale": "Render the continuing force of gavar al naturally; retain the water subject, its prevailing force over the earth and the exact duration. The same root remains prominent in 7:18–20."
+        }
+      ]
     },
     {
       "reference": "Genesis 8:1",
@@ -4037,6 +4085,12 @@
       "audit": "audit/fluent-revision/2026-09-17-editorial-genesis/apparatus-decisions.json",
       "base_commit": "4d1c207f3645412e01c725431cb4bfc11e2ed655",
       "scope": "apparatus editorial scope; Scripture unchanged",
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "audit": "audit/fluent-revision/2026-09-17-genesis-source-1-10/corrections.json",
+      "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+      "scope": "Genesis 1–10 source/fluency comparison",
       "editorial_status": "REVIEW_PENDING"
     }
   ]

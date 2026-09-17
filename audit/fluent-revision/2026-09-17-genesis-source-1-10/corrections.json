@@ -1,0 +1,113 @@
+{
+  "base_commit": "7caadac15c6cc7c76534069dd1d7d936d98f69a1",
+  "chapters": [
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_01.md",
+      "chapter": 1,
+      "before_sha256": "59abe84c91eb30a58eb9a7c7063bd6b2d4f6e6b92c91b75b9e65bbae4225db53",
+      "reasons": [
+        "The lights are to be signs (le-otot), not to mark signs. Give the sign function natural English while retaining the appointed times, days and years.",
+        "Ke-dmutenu describes likeness. Remove the purpose construction to bear, which can suggest an additional stated purpose; retain image and likeness as distinct expressions."
+      ],
+      "after_sha256": "78b00cbc5d6f354491fc8a90606773639de670ca7857d0ac98a87cfd20c3f2ce",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_02.md",
+      "chapter": 2,
+      "before_sha256": "3fd6d8018d60b6930faabaeb03e2b0607e690bfd6985e8e39f07685d36fb6ea7",
+      "reasons": [
+        "Make the explicit ki connection audible: the lack of rain and a human cultivator explains the preceding situation. The sentence still continues the temporal clause in 2:4.",
+        "U-misham means and/from there. Avoid specifying beyond the garden where the source gives a less specific deictic expression."
+      ],
+      "after_sha256": "f667c0217fc7eeeb418f1ea1cac59ceb0d0405c704edefcc135ed2686116b951",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_05.md",
+      "chapter": 5,
+      "before_sha256": "d772d5ed1368681ef1c7adbc3cd174e05803546910c9f183a569682bd08de58f",
+      "reasons": [
+        "Preserve the age statement and coordinated fatherhood statement without adding after. Do not harmonize the wording to a calculated chronology or imply that the three births were simultaneous."
+      ],
+      "after_sha256": "40179b1fff63ed555c29f4c446b3b65630ab5f14cbfb7e7017f2b5281b31e938",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    },
+    {
+      "path": "translations/fluent/OT/genesis/Genesis_07.md",
+      "chapter": 7,
+      "before_sha256": "150eae7128ae0f5f87faab1fcbeb4494df9dd683b321cb3eff7493c33c30f269",
+      "reasons": [
+        "Render the continuing force of gavar al naturally; retain the water subject, its prevailing force over the earth and the exact duration. The same root remains prominent in 7:18–20."
+      ],
+      "after_sha256": "26382c1bec6e4fd711f583c66f5147689cf29843e84f023a8ea48385a7793db3",
+      "ledger": "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+    }
+  ],
+  "verse_changes": [
+    {
+      "reference": "Genesis 1:14",
+      "path": "translations/fluent/OT/genesis/Genesis_01.md",
+      "before": "God said, “Let lights appear in the dome of the sky to separate day from night. Let them mark signs, appointed times, days, and years.",
+      "after": "God said, “Let lights appear in the dome of the sky to separate day from night. Let them serve as signs and mark appointed times, days, and years.",
+      "criteria": "F01/F02",
+      "rationale": "The lights are to be signs (le-otot), not to mark signs. Give the sign function natural English while retaining the appointed times, days and years.",
+      "source_reference": "Gen 1:14",
+      "source_verse_sha256": "9763a4bce3ec60f29b32b43065c1eb73e5724ce5bdbd2f465b4b00a39e7a5133"
+    },
+    {
+      "reference": "Genesis 1:26",
+      "path": "translations/fluent/OT/genesis/Genesis_01.md",
+      "before": "God said, “Let us make humanity in our image, to bear our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”",
+      "after": "God said, “Let us make humanity in our image, in our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”",
+      "criteria": "F01/F03",
+      "rationale": "Ke-dmutenu describes likeness. Remove the purpose construction to bear, which can suggest an additional stated purpose; retain image and likeness as distinct expressions.",
+      "source_reference": "Gen 1:26",
+      "source_verse_sha256": "817a773f12dcce5a4ee17c8f6b1961ce7297c6720cb1f8ca3fb3879648b9d4f9"
+    },
+    {
+      "reference": "Genesis 2:5",
+      "path": "translations/fluent/OT/genesis/Genesis_02.md",
+      "before": "no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted. The LORD God had not sent rain on the earth, and there was no human to work the ground.",
+      "after": "no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted, because the LORD God had not sent rain on the earth and there was no human to work the ground.",
+      "criteria": "F01/F02",
+      "rationale": "Make the explicit ki connection audible: the lack of rain and a human cultivator explains the preceding situation. The sentence still continues the temporal clause in 2:4.",
+      "source_reference": "Gen 2:5",
+      "source_verse_sha256": "1d6635606624ab51321b75f26f57a66ad4e34130accb9534edcf1de1fe08f563"
+    },
+    {
+      "reference": "Genesis 2:10",
+      "path": "translations/fluent/OT/genesis/Genesis_02.md",
+      "before": "A river flowed out of Eden to water the garden. Beyond it, the river divided into four branches.",
+      "after": "A river flowed out of Eden to water the garden. From there, the river divided into four branches.",
+      "criteria": "F01/F02",
+      "rationale": "U-misham means and/from there. Avoid specifying beyond the garden where the source gives a less specific deictic expression.",
+      "source_reference": "Gen 2:10",
+      "source_verse_sha256": "60bbe680737b10fbd024b35668b21ed4718e6bdc192cf24dcc1286828ed4c0a8"
+    },
+    {
+      "reference": "Genesis 5:32",
+      "path": "translations/fluent/OT/genesis/Genesis_05.md",
+      "before": "After Noah reached 500 years of age, he became the father of Shem, Ham, and Japheth.",
+      "after": "Noah was 500 years old, and he became the father of Shem, Ham, and Japheth.",
+      "criteria": "F01/F03",
+      "rationale": "Preserve the age statement and coordinated fatherhood statement without adding after. Do not harmonize the wording to a calculated chronology or imply that the three births were simultaneous.",
+      "source_reference": "Gen 5:32",
+      "source_verse_sha256": "bc1b9aa66a1b5106f93a3c5494fb5d2b69c975d8c66a2591245ff73def768ab8"
+    },
+    {
+      "reference": "Genesis 7:24",
+      "path": "translations/fluent/OT/genesis/Genesis_07.md",
+      "before": "The waters held their power over the earth for 150 days.",
+      "after": "The waters continued to overwhelm the earth for 150 days.",
+      "criteria": "F02/F04",
+      "rationale": "Render the continuing force of gavar al naturally; retain the water subject, its prevailing force over the earth and the exact duration. The same root remains prominent in 7:18–20.",
+      "source_reference": "Gen 7:24",
+      "source_verse_sha256": "e96b7fbb78ac808611d5ec06a17251580e5acfadc9b9a0b3cc9ece1086730a08"
+    }
+  ],
+  "affected_ledgers": [
+    "audit/fluent-revision/2026-09-10-genesis-1-11/genesis-verse-review.json"
+  ],
+  "publication_allowed": false
+}

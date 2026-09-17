@@ -22,7 +22,7 @@ v03: God blessed the seventh day and made it holy, because on that day God reste
 
 <p>
 v04: This is the account of the heavens and the earth when they were created. When the LORD God made earth and heaven,
-v05: no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted. The LORD God had not sent rain on the earth, and there was no human to work the ground.
+v05: no shrub of the field had yet appeared on the earth, and no plant of the field had sprouted, because the LORD God had not sent rain on the earth and there was no human to work the ground.
 v06: But a flow of water rose from the earth and watered the whole surface of the ground.
 </p>
 
@@ -33,7 +33,7 @@ v09: The LORD God made all kinds of trees grow from the ground, beautiful to loo
 </p>
 
 <p>
-v10: A river flowed out of Eden to water the garden. Beyond it, the river divided into four branches.
+v10: A river flowed out of Eden to water the garden. From there, the river divided into four branches.
 v11: The first river was named Pishon. It wound through all the land of Havilah, where there was gold.
 v12: The gold of that land was good. Bdellium and onyx were found there too.
 v13: The second river was named Gihon. It wound through all the land of Cush.

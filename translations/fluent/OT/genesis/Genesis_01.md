@@ -49,7 +49,7 @@ v13: Evening came, and morning came: the third day.
 ## The Fourth Day
 
 <p>
-v14: God said, “Let lights appear in the dome of the sky to separate day from night. Let them mark signs, appointed times, days, and years.
+v14: God said, “Let lights appear in the dome of the sky to separate day from night. Let them serve as signs and mark appointed times, days, and years.
 v15: Let them shine in the dome of the sky to give light to the earth.” And so it was.
 </p>
 
@@ -77,7 +77,7 @@ v25: God made every kind of wild animal, every kind of livestock, and every kind
 </p>
 
 <p>
-v26: God said, “Let us make humanity in our image, to bear our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”
+v26: God said, “Let us make humanity in our image, in our likeness. Let them rule the fish in the sea, the birds in the sky, the livestock, the whole earth, and every creature that crawls on it.”
 </p>
 
 <p>

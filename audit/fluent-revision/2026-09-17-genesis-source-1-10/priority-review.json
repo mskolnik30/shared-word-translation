@@ -1,0 +1,184 @@
+{
+  "scope": "15 additional source records; no entire additional chapter credited",
+  "source_file": "genesis-pinned-source.xml",
+  "source_file_sha256": "e5ab737c323d3879733e03882ecf17b7d917115133f87f9cd97895ac98f2b1a4",
+  "records": [
+    {
+      "reference": "Genesis 24:50",
+      "exact_source_record": "<verse osisID=\"Gen.24.50\">\n          <w lemma=\"c/6030 b\" morph=\"HC/Vqw3ms\" id=\"01ZXU\">וַ/יַּ֨עַן</w>\n          <w lemma=\"3837 a\" morph=\"HNp\" id=\"01ap1\">לָבָ֤ן</w>\n          <w lemma=\"c/1328 a\" n=\"1.1.0\" morph=\"HC/Np\" id=\"01pu2\">וּ/בְתוּאֵל֙</w>\n          <w lemma=\"c/559\" n=\"1.1\" morph=\"HC/Vqw3mp\" id=\"01uYm\">וַ/יֹּ֣אמְר֔וּ</w>\n          <w lemma=\"m/3068\" n=\"1.0\" morph=\"HR/Np\" id=\"01LPR\">מֵ/יְהוָ֖ה</w>\n          <w lemma=\"3318\" morph=\"HVqp3ms\" id=\"01B9g\">יָצָ֣א</w>\n          <w lemma=\"d/1697\" n=\"1\" morph=\"HTd/Ncmsa\" id=\"01ELn\">הַ/דָּבָ֑ר</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"019mo\">לֹ֥א</w>\n          <w lemma=\"3201\" n=\"0.0.0\" morph=\"HVqi1cp\" id=\"01xiQ\">נוּכַ֛ל</w>\n          <w lemma=\"1696\" morph=\"HVpc\" id=\"01AzY\">דַּבֵּ֥ר</w>\n          <w lemma=\"413\" n=\"0.0\" morph=\"HR/Sp2ms\" id=\"01pRM\">אֵלֶ֖י/ךָ</w>\n          <w lemma=\"7451 a\" morph=\"HAamsa\" id=\"01gvr\">רַ֥ע</w>\n          <w lemma=\"176 a\" morph=\"HC\" id=\"01es7\">אוֹ</w><seg type=\"x-maqqef\">־</seg><w lemma=\"2896 a\" n=\"0\" morph=\"HAamsa\" id=\"01k9R\">טֽוֹב</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "a8ef215ec444573969506839510d22215049703792fa91fadeff50c729b1d6e5",
+      "fluent": "v50: Laban and Bethuel answered, “This matter comes from the LORD. We cannot say anything to you, bad or good.",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 31:24",
+      "exact_source_record": "<verse osisID=\"Gen.31.24\">\n          <w lemma=\"c/935\" morph=\"HC/Vqw3ms\" id=\"01tSo\">וַ/יָּבֹ֧א</w>\n          <w lemma=\"430\" n=\"1.0.0\" morph=\"HNcmpa\" id=\"01T22\">אֱלֹהִ֛ים</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"016AM\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3837 a\" morph=\"HNp\" id=\"01NVJ\">לָבָ֥ן</w>\n          <w lemma=\"d/761\" n=\"1.0\" morph=\"HTd/Ngmsa\" id=\"011SB\">הָ/אֲרַמִּ֖י</w>\n          <w lemma=\"b/2472\" morph=\"HR/Ncmsa\" id=\"01djB\">בַּ/חֲלֹ֣ם</w>\n          <w lemma=\"d/3915\" n=\"1\" morph=\"HTd/Ncmsa\" id=\"01Btk\">הַ/לָּ֑יְלָה</w>\n          <w lemma=\"c/559\" morph=\"HC/Vqw3ms\" id=\"01paa\">וַ/יֹּ֣אמֶר</w>\n          <w lemma=\"l\" n=\"0.0.1\" morph=\"HR/Sp3ms\" id=\"01pEi\">ל֗/וֹ</w>\n          <w lemma=\"8104\" morph=\"HVNv2ms\" id=\"01Smk\">הִשָּׁ֧מֶר</w>\n          <w lemma=\"l\" n=\"0.0.0\" morph=\"HR/Sp2ms\" id=\"01xVw\">לְ/ךָ֛</w>\n          <w lemma=\"6435\" morph=\"HC\" id=\"01b8w\">פֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1696\" morph=\"HVpi2ms\" id=\"014fw\">תְּדַבֵּ֥ר</w>\n          <w lemma=\"5973 a\" morph=\"HR\" id=\"01Q5r\">עִֽם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3290\" n=\"0.0\" morph=\"HNp\" id=\"01fR5\">יַעֲקֹ֖ב</w>\n          <w lemma=\"m/2896 a\" morph=\"HR/Aamsa\" id=\"01cJn\">מִ/טּ֥וֹב</w>\n          <w lemma=\"5704\" morph=\"HR\" id=\"01Jgv\">עַד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7451 a\" n=\"0\" morph=\"HAamsa\" id=\"01JLY\">רָֽע</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "8ae77e6d756c399f4d441e938f6421f89b4d2d6192048ed65fea9b7755e23b33",
+      "fluent": "v24: God came to Laban the Aramean in a dream that night and warned him, “Be careful not to make any pronouncement to Jacob, whether good or bad.”",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 31:29",
+      "exact_source_record": "<verse osisID=\"Gen.31.29\">\n          <w lemma=\"3426\" morph=\"HTm\" id=\"01MNm\">יֶשׁ</w><seg type=\"x-maqqef\">־</seg><w lemma=\"l/410\" morph=\"HR/Ncmsc\" id=\"015qX\">לְ/אֵ֣ל</w>\n          <w lemma=\"3027\" n=\"1.1\" morph=\"HNcbsc/Sp1cs\" id=\"01zFj\">יָדִ֔/י</w>\n          <w lemma=\"l/6213 a\" morph=\"HR/Vqc\" id=\"01JGy\">לַ/עֲשׂ֥וֹת</w>\n          <w lemma=\"5973 a\" n=\"1.0\" morph=\"HR/Sp2mp\" id=\"01Bbt\">עִמָּ/כֶ֖ם</w>\n          <w lemma=\"7451 b\" n=\"1\" morph=\"HAamsa\" id=\"01Cqk\">רָ֑ע</w>\n          <w lemma=\"c/430\" morph=\"HC/Ncmpc\" id=\"01Mu8\">וֵֽ/אלֹהֵ֨י</w>\n          <w lemma=\"1\" n=\"0.0.1.1\" morph=\"HNcmsc/Sp2mp\" id=\"01kJu\">אֲבִי/כֶ֜ם</w>\n          <w lemma=\"570\" n=\"0.0.1.0\" morph=\"HD\" id=\"013VV\">אֶ֣מֶשׁ</w>\n          <seg type=\"x-paseq\">׀</seg>\n          <w lemma=\"559\" morph=\"HVqp3ms\" id=\"01yH2\">אָמַ֧ר</w>\n          <w lemma=\"413\" morph=\"HR/Sp1cs\" id=\"01xfs\">אֵלַ֣/י</w>\n          <w lemma=\"l/559\" n=\"0.0.1\" morph=\"HR/Vqc\" id=\"01TB9\">לֵ/אמֹ֗ר</w>\n          <w lemma=\"8104\" morph=\"HVNv2ms\" id=\"01iDc\">הִשָּׁ֧מֶר</w>\n          <w lemma=\"l\" n=\"0.0.0\" morph=\"HR/Sp2ms\" id=\"01rFV\">לְ/ךָ֛</w>\n          <w lemma=\"m/1696\" morph=\"HR/Vpc\" id=\"01CXE\">מִ/דַּבֵּ֥ר</w>\n          <w lemma=\"5973 a\" morph=\"HR\" id=\"01F4V\">עִֽם</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3290\" n=\"0.0\" morph=\"HNp\" id=\"01SnB\">יַעֲקֹ֖ב</w>\n          <w lemma=\"m/2896 a\" morph=\"HR/Aamsa\" id=\"01oJi\">מִ/טּ֥וֹב</w>\n          <w lemma=\"5704\" morph=\"HR\" id=\"01UDf\">עַד</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7451 a\" n=\"0\" morph=\"HAamsa\" id=\"01UT7\">רָֽע</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "06c8070f27f904e665247832f0b0a1dff1b0554a9ee9102fbeb7982ee9d2caac",
+      "fluent": "v29: I have the power to harm you. But your father’s God told me last night, ‘Be careful not to make any pronouncement to Jacob, whether good or bad.’",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 35:7",
+      "exact_source_record": "<verse osisID=\"Gen.35.7\">\n          <w lemma=\"c/1129\" morph=\"HC/Vqw3ms\" id=\"01nRN\">וַ/יִּ֤בֶן</w>\n          <w lemma=\"8033\" n=\"1.2.0\" morph=\"HD\" id=\"01vJe\">שָׁם֙</w>\n          <w lemma=\"4196\" n=\"1.2\" morph=\"HNcmsa\" id=\"01iPK\">מִזְבֵּ֔חַ</w>\n          <w lemma=\"c/7121\" n=\"1.1.0\" morph=\"HC/Vqw3ms\" id=\"01n6v\">וַ/יִּקְרָא֙</w>\n          <w lemma=\"l/4725\" n=\"1.1\" morph=\"HRd/Ncmsa\" id=\"01V76\">לַ/מָּק֔וֹם</w>\n          <w lemma=\"410\" n=\"1.0\" morph=\"HNcmsc\" id=\"01g48\">אֵ֖ל</w>\n          <w lemma=\"1008+\" morph=\"HNp\" id=\"01enX\">בֵּֽית</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1008\" n=\"1\" morph=\"HNp\" id=\"019J8\">אֵ֑ל</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01Gat\">כִּ֣י</w>\n          <w lemma=\"8033\" n=\"0.1.1\" morph=\"HD\" id=\"01kwx\">שָׁ֗ם</w>\n          <w lemma=\"1540\" morph=\"HVNp3cp\" id=\"01CFi\">נִגְל֤וּ</w>\n          <w lemma=\"413\" n=\"0.1.0\" morph=\"HR/Sp3ms\" id=\"01Ksw\">אֵלָי/ו֙</w>\n          <w lemma=\"d/430\" n=\"0.1\" morph=\"HTd/Ncmpa\" id=\"01s23\">הָֽ/אֱלֹהִ֔ים</w>\n          <w lemma=\"b/1272\" n=\"0.0\" morph=\"HR/Vqc/Sp3ms\" id=\"01ir2\">בְּ/בָרְח֖/וֹ</w>\n          <w lemma=\"m/6440\" morph=\"HR/Ncbpc\" id=\"01nKr\">מִ/פְּנֵ֥י</w>\n          <w lemma=\"251\" n=\"0\" morph=\"HNcmsc/Sp3ms\" id=\"01Wfu\">אָחִֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "6a39d053710b3f4bbb450cac48f8788bd070cb0280aeb0e951c15e77a42a4fa6",
+      "fluent": "v07: Jacob built an altar there and named the place El-bethel, because God had revealed himself to Jacob there when he fled from his brother.",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:15",
+      "exact_source_record": "<verse osisID=\"Gen.38.15\">\n          <w lemma=\"c/7200\" morph=\"HC/Vqw3ms/Sp3fs\" id=\"01K9x\">וַ/יִּרְאֶ֣/הָ</w>\n          <w lemma=\"3063\" n=\"1.1\" morph=\"HNp\" id=\"01rqG\">יְהוּדָ֔ה</w>\n          <w lemma=\"c/2803\" n=\"1.0\" morph=\"HC/Vqw3ms/Sp3fs\" id=\"01jJh\">וַֽ/יַּחְשְׁבֶ֖/הָ</w>\n          <w lemma=\"l/2181\" n=\"1\" morph=\"HR/Vqrfsa\" id=\"01nXv\">לְ/זוֹנָ֑ה</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01DuP\">כִּ֥י</w>\n          <w lemma=\"3680\" n=\"0.0\" morph=\"HVpp3fs\" id=\"01kMs\">כִסְּתָ֖ה</w>\n          <w lemma=\"6440\" n=\"0\" morph=\"HNcbpc/Sp3fs\" id=\"01P4B\">פָּנֶֽי/הָ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "910b716b442c4db51f3c5420ba24524bd42734007040417659e13ebcffef622e",
+      "fluent": "v15: When Judah saw her, he assumed she was a prostitute because she had covered her face.",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:16",
+      "exact_source_record": "<verse osisID=\"Gen.38.16\">\n          <w lemma=\"c/5186\" morph=\"HC/Vqw3ms\" id=\"01L4P\">וַ/יֵּ֨ט</w>\n          <w lemma=\"413\" n=\"1.2.2.0\" morph=\"HR/Sp3fs\" id=\"01DQx\">אֵלֶ֜י/הָ</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01deb\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1870\" n=\"1.2.2\" morph=\"HTd/Ncbsa\" id=\"01VcZ\">הַ/דֶּ֗רֶךְ</w>\n          <w lemma=\"c/559\" n=\"1.2.1\" morph=\"HC/Vqw3ms\" id=\"01rBM\">וַ/יֹּ֨אמֶר֙</w>\n          <w lemma=\"3051\" morph=\"HVqv2ms/Sh\" id=\"01aGL\">הָֽבָ/ה</w><seg type=\"x-maqqef\">־</seg><w lemma=\"4994\" n=\"1.2.0\" morph=\"HTj\" id=\"01Ltn\">נָּא֙</w>\n          <w lemma=\"935\" morph=\"HVqh1cs\" id=\"01imc\">אָב֣וֹא</w>\n          <w lemma=\"413\" n=\"1.2\" morph=\"HR/Sp2fs\" id=\"01Xgv\">אֵלַ֔יִ/ךְ</w>\n          <w lemma=\"3588 a\" n=\"1.1.0\" morph=\"HC\" id=\"018y7\">כִּ֚י</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"01jvS\">לֹ֣א</w>\n          <w lemma=\"3045\" n=\"1.1\" morph=\"HVqp3ms\" id=\"01qpi\">יָדַ֔ע</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01tR3\">כִּ֥י</w>\n          <w lemma=\"3618\" n=\"1.0\" morph=\"HNcfsc/Sp3ms\" id=\"01Mk8\">כַלָּת֖/וֹ</w>\n          <w lemma=\"1931\" n=\"1\" morph=\"HPp3fs\" id=\"01Qmh\">הִ֑וא</w>\n          <w lemma=\"c/559\" n=\"0.1.0\" morph=\"HC/Vqw3fs\" id=\"01f57\">וַ/תֹּ֨אמֶר֙</w>\n          <w lemma=\"4100\" morph=\"HTi\" id=\"01UuT\">מַה</w><seg type=\"x-maqqef\">־</seg><w lemma=\"5414\" morph=\"HVqi2ms\" id=\"01mFW\">תִּתֶּן</w><seg type=\"x-maqqef\">־</seg><w lemma=\"l\" n=\"0.1\" morph=\"HR/Sp1cs\" id=\"01w4i\">לִּ֔/י</w>\n          <note n=\"1\">BHS has been faithful to the Leningrad Codex where there might be a question of the validity of the form and we keep the same form as BHS. </note>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01JPx\">כִּ֥י</w>\n          <w lemma=\"935\" n=\"0.0\" morph=\"HVqi2ms\" id=\"01Cm6\">תָב֖וֹא</w>\n          <w lemma=\"413\" n=\"0\" morph=\"HR/Sp1cs\" id=\"01i76\">אֵלָֽ/י</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "d7d42a1d5489df407760dd663398857630b03c45773033e60ea12fe79d8cb3d2",
+      "fluent": "v16: Not realizing she was his daughter-in-law, he turned toward her beside the road and said, “Come, let me sleep with you.” She asked, “What will you give me to sleep with you?”",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:20",
+      "exact_source_record": "<verse osisID=\"Gen.38.20\">\n          <w lemma=\"c/7971\" morph=\"HC/Vqw3ms\" id=\"01rba\">וַ/יִּשְׁלַ֨ח</w>\n          <w lemma=\"3063\" n=\"1.1.1.0\" morph=\"HNp\" id=\"014kH\">יְהוּדָ֜ה</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"016ub\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1423\" morph=\"HNcmsc\" id=\"01HSW\">גְּדִ֣י</w>\n          <w lemma=\"d/5795\" n=\"1.1.1\" morph=\"HTd/Ncfpa\" id=\"01xgR\">הָֽ/עִזִּ֗ים</w>\n          <w lemma=\"b/3027\" n=\"1.1.0\" morph=\"HR/Ncbsc\" id=\"01VQf\">בְּ/יַד֙</w>\n          <w lemma=\"7453\" morph=\"HNcmsc/Sp3ms\" id=\"01PeF\">רֵעֵ֣/הוּ</w>\n          <w lemma=\"d/5726\" n=\"1.1\" morph=\"HTd/Ngmsa\" id=\"01iyu\">הָֽ/עֲדֻלָּמִ֔י</w>\n          <w lemma=\"l/3947\" morph=\"HR/Vqc\" id=\"01Bid\">לָ/קַ֥חַת</w>\n          <w lemma=\"d/6162\" n=\"1.0\" morph=\"HTd/Ncmsa\" id=\"01dvQ\">הָ/עֵרָב֖וֹן</w>\n          <w lemma=\"m/3027\" morph=\"HR/Ncbsc\" id=\"01ssK\">מִ/יַּ֣ד</w>\n          <w lemma=\"d/802\" n=\"1\" morph=\"HTd/Ncfsa\" id=\"01VNB\">הָ/אִשָּׁ֑ה</w>\n          <w lemma=\"c/3808\" n=\"0.0\" morph=\"HC/Tn\" id=\"01EPB\">וְ/לֹ֖א</w>\n          <w lemma=\"4672\" n=\"0\" morph=\"HVqp3ms/Sp3fs\" id=\"01BpP\">מְצָאָֽ/הּ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "986d67c2d8fdbf612b6271f204455ef0118a5237b692ee8f2985ad4a963861f3",
+      "fluent": "v20: Judah sent the young goat with his Adullamite friend to retrieve the pledge from the woman, but Hirah could not find her.",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:21",
+      "exact_source_record": "<verse osisID=\"Gen.38.21\">\n          <w lemma=\"c/7592\" n=\"1.1.0.0\" morph=\"HC/Vqw3ms\" id=\"01RS6\">וַ/יִּשְׁאַ֞ל</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"01QeB\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"376\" morph=\"HNcmpc\" id=\"017X3\">אַנְשֵׁ֤י</w>\n          <w lemma=\"4725\" n=\"1.1.0\" morph=\"HNcmsc/Sp3fs\" id=\"01mVh\">מְקֹמָ/הּ֙</w>\n          <w lemma=\"l/559\" n=\"1.1\" morph=\"HR/Vqc\" id=\"014ow\">לֵ/אמֹ֔ר</w>\n          <w lemma=\"346\" morph=\"HTi\" id=\"01hoy\">אַיֵּ֧ה</w>\n          <w lemma=\"d/6948\" n=\"1.0.0\" morph=\"HTd/Ncfsa\" id=\"01J6B\">הַ/קְּדֵשָׁ֛ה</w>\n          <w lemma=\"1931\" morph=\"HPp3fs\" id=\"01QR2\">הִ֥וא</w>\n          <w lemma=\"b/5879\" n=\"1.0\" morph=\"HRd/Np\" id=\"01dYp\">בָ/עֵינַ֖יִם</w>\n          <w lemma=\"5921 a\" morph=\"HR\" id=\"01hZg\">עַל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"d/1870\" n=\"1\" morph=\"HTd/Ncbsa\" id=\"01qgH\">הַ/דָּ֑רֶךְ</w>\n          <w lemma=\"c/559\" n=\"0.1\" morph=\"HC/Vqw3mp\" id=\"01jXZ\">וַ/יֹּ֣אמְר֔וּ</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"01966\">לֹא</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1961\" morph=\"HVqp3fs\" id=\"018Rd\">הָיְתָ֥ה</w>\n          <w lemma=\"b/2088\" n=\"0.0\" morph=\"HR/Pdxms\" id=\"01ff8\">בָ/זֶ֖ה</w>\n          <w lemma=\"6948\" n=\"0\" morph=\"HAafsa\" id=\"01d4k\">קְדֵשָֽׁה</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "a14899ffb94aefae0cbe3a06b2673db203b3786deac8bf915211ad895b3895d7",
+      "fluent": "v21: He asked the local men, “Where is the shrine prostitute who was beside the road at Enaim?” They answered, “There has been no shrine prostitute here.”",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:22",
+      "exact_source_record": "<verse osisID=\"Gen.38.22\">\n          <w lemma=\"c/7725\" n=\"1.1.0\" morph=\"HC/Vqw3ms\" id=\"01Qr5\">וַ/יָּ֨שָׁב֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"011hR\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3063\" n=\"1.1\" morph=\"HNp\" id=\"016Qc\">יְהוּדָ֔ה</w>\n          <w lemma=\"c/559\" n=\"1.0\" morph=\"HC/Vqw3ms\" id=\"01j3h\">וַ/יֹּ֖אמֶר</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"01TnF\">לֹ֣א</w>\n          <w lemma=\"4672\" n=\"1\" morph=\"HVqp1cs/Sp3fs\" id=\"01GXB\">מְצָאתִ֑י/הָ</w>\n          <w lemma=\"c/1571\" morph=\"HC/Ta\" id=\"01Gba\">וְ/גַ֨ם</w>\n          <w lemma=\"376\" morph=\"HNcmpc\" id=\"01vTr\">אַנְשֵׁ֤י</w>\n          <w lemma=\"d/4725\" n=\"0.1.0\" morph=\"HTd/Ncmsa\" id=\"01UbV\">הַ/מָּקוֹם֙</w>\n          <w lemma=\"559\" n=\"0.1\" morph=\"HVqp3cp\" id=\"01jun\">אָֽמְר֔וּ</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"018kW\">לֹא</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1961\" morph=\"HVqp3fs\" id=\"01zUQ\">הָיְתָ֥ה</w>\n          <w lemma=\"b/2088\" n=\"0.0\" morph=\"HR/Pdxms\" id=\"016hj\">בָ/זֶ֖ה</w>\n          <w lemma=\"6948\" n=\"0\" morph=\"HAafsa\" id=\"01GGJ\">קְדֵשָֽׁה</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "af4d66fb53e25445b12e0ab629d485905169e82fa2440a7b94632b28e95d905d",
+      "fluent": "v22: Hirah returned to Judah and said, “I could not find her. The local men also said, ‘There has been no shrine prostitute here.’”",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 38:24",
+      "exact_source_record": "<verse osisID=\"Gen.38.24\">\n          <w lemma=\"c/1961\" n=\"1.1.2.0\" morph=\"HC/Vqw3ms\" id=\"01adM\">וַ/יְהִ֣י</w>\n          <seg type=\"x-paseq\">׀</seg>\n          <w lemma=\"k/m/7969\" morph=\"HR/R/Acfsc\" id=\"01EfG\">כְּ/מִ/שְׁלֹ֣שׁ</w>\n          <note type=\"exegesis\">WLC has this word divided as <rdg>כְּ/מִשְׁלֹ֣שׁ</rdg>.</note>\n          <w lemma=\"2320\" n=\"1.1.2\" morph=\"HNcmpa\" id=\"01Zot\">חֳדָשִׁ֗ים</w>\n          <w lemma=\"c/5046\" morph=\"HC/VHw3ms\" id=\"01Wvp\">וַ/יֻּגַּ֨ד</w>\n          <w lemma=\"l/3063\" morph=\"HR/Np\" id=\"014TX\">לִֽ/יהוּדָ֤ה</w>\n          <w lemma=\"l/559\" n=\"1.1.1\" morph=\"HR/Vqc\" id=\"01AZN\">לֵֽ/אמֹר֙</w>\n          <w lemma=\"2181\" n=\"1.1.0\" morph=\"HVqp3fs\" id=\"01Uwy\">זָֽנְתָה֙</w>\n          <w lemma=\"8559\" morph=\"HNp\" id=\"01CyT\">תָּמָ֣ר</w>\n          <w lemma=\"3618\" n=\"1.1\" morph=\"HNcfsc/Sp2ms\" id=\"01ckD\">כַּלָּתֶ֔/ךָ</w>\n          <w lemma=\"c/1571\" n=\"1.0.0\" morph=\"HC/Ta\" id=\"01TES\">וְ/גַ֛ם</w>\n          <w lemma=\"2009\" morph=\"HTm\" id=\"01APL\">הִנֵּ֥ה</w>\n          <w lemma=\"2030 a\" n=\"1.0\" morph=\"HAafsa\" id=\"01ZDp\">הָרָ֖ה</w>\n          <w lemma=\"l/2183\" n=\"1\" morph=\"HR/Ncmpa\" id=\"0115v\">לִ/זְנוּנִ֑ים</w>\n          <w lemma=\"c/559\" morph=\"HC/Vqw3ms\" id=\"01PRe\">וַ/יֹּ֣אמֶר</w>\n          <w lemma=\"3063\" n=\"0.1\" morph=\"HNp\" id=\"013jY\">יְהוּדָ֔ה</w>\n          <w lemma=\"3318\" n=\"0.0\" morph=\"HVhv2mp/Sp3fs\" id=\"014cj\">הוֹצִיא֖וּ/הָ</w>\n          <w lemma=\"c/8313\" n=\"0\" morph=\"HC/VNi3fs\" id=\"016or\">וְ/תִשָּׂרֵֽף</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "d8f20d2b05dba27daafa0246028ccde6785598a0e847a53744d0c70da72457bd",
+      "fluent": "v24: About three months later Judah was told, “Your daughter-in-law Tamar has acted as a prostitute, and now she is pregnant from prostitution.” Judah said, “Bring her out and have her burned.”",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 44:20",
+      "exact_source_record": "<verse osisID=\"Gen.44.20\">\n          <w lemma=\"c/559\" n=\"1.2.0\" morph=\"HC/Vqw1cp\" id=\"01t6M\">וַ/נֹּ֨אמֶר֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01KpH\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"113\" n=\"1.2\" morph=\"HNcmsc/Sp1cs\" id=\"01bzM\">אֲדֹנִ֔/י</w>\n          <w lemma=\"3426\" morph=\"HTm\" id=\"01fMS\">יֶשׁ</w><seg type=\"x-maqqef\">־</seg><w lemma=\"l\" n=\"1.1.0\" morph=\"HR/Sp1cp\" id=\"01b6m\">לָ֨/נוּ֙</w>\n          <w lemma=\"1\" morph=\"HNcmsa\" id=\"01qna\">אָ֣ב</w>\n          <w lemma=\"2205\" n=\"1.1\" morph=\"HAamsa\" id=\"01QeH\">זָקֵ֔ן</w>\n          <w lemma=\"c/3206\" morph=\"HC/Ncmsc\" id=\"01nxd\">וְ/יֶ֥לֶד</w>\n          <w lemma=\"2208\" n=\"1.0\" morph=\"HNcmpa\" id=\"01wSG\">זְקֻנִ֖ים</w>\n          <w lemma=\"6996 a\" n=\"1\" morph=\"HAamsa\" id=\"01phD\">קָטָ֑ן</w>\n          <w lemma=\"c/251\" morph=\"HC/Ncmsc/Sp3ms\" id=\"01Mj9\">וְ/אָחִ֨י/ו</w>\n          <w lemma=\"4191\" n=\"0.0.0.0\" morph=\"HVqp3ms\" id=\"018q1\">מֵ֜ת</w>\n          <w lemma=\"c/3498\" morph=\"HC/VNw3ms\" id=\"01Kv9\">וַ/יִּוָּתֵ֨ר</w>\n          <w lemma=\"1931\" morph=\"HPp3ms\" id=\"01ptR\">ה֧וּא</w>\n          <w lemma=\"l/905\" n=\"0.0.0\" morph=\"HR/Ncmsc/Sp3ms\" id=\"01YTq\">לְ/בַדּ֛/וֹ</w>\n          <w lemma=\"l/517\" n=\"0.0\" morph=\"HR/Ncfsc/Sp3ms\" id=\"01VzM\">לְ/אִמּ֖/וֹ</w>\n          <w lemma=\"c/1\" morph=\"HC/Ncmsc/Sp3ms\" id=\"01MUY\">וְ/אָבִ֥י/ו</w>\n          <w lemma=\"157\" n=\"0\" morph=\"HVqp3ms/Sp3ms\" id=\"015yJ\">אֲהֵבֽ/וֹ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "eacf90ec660465f09eb6a480e5de533ddbca3ec9924b0f3bcd1babe78f520bee",
+      "fluent": "v20: We told my lord, ‘We have an elderly father, and our youngest brother was born to him in his old age. His full brother is dead. He alone is left of his mother’s children, and his father loves him.’",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 44:21",
+      "exact_source_record": "<verse osisID=\"Gen.44.21\">\n          <w lemma=\"c/559\" n=\"1.1.0\" morph=\"HC/Vqw2ms\" id=\"01K4B\">וַ/תֹּ֨אמֶר֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01xWt\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"5650\" n=\"1.1\" morph=\"HNcmpc/Sp2ms\" id=\"01bVF\">עֲבָדֶ֔י/ךָ</w>\n          <w lemma=\"3381\" n=\"1.0\" morph=\"HVhv2mp/Sp3ms\" id=\"01qQS\">הוֹרִדֻ֖/הוּ</w>\n          <w lemma=\"413\" n=\"1\" morph=\"HR/Sp1cs\" id=\"01BzK\">אֵלָ֑/י</w>\n          <w lemma=\"c/7760 a\" morph=\"HC/Vqi1cs\" id=\"01Kzg\">וְ/אָשִׂ֥ימָה</w>\n          <w lemma=\"5869 a\" n=\"0.0\" morph=\"HNcbsc/Sp1cs\" id=\"019pX\">עֵינִ֖/י</w>\n          <w lemma=\"5921 a\" n=\"0\" morph=\"HR/Sp3ms\" id=\"01mFR\">עָלָֽי/ו</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "71660eb10001461e90e5d5f49a02610fce7b7e8a5ace9f885035daea1dc0c6b0",
+      "fluent": "v21: You told your servants, ‘Bring him down to me so I can set my eyes on him.’",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 44:22",
+      "exact_source_record": "<verse osisID=\"Gen.44.22\">\n          <w lemma=\"c/559\" n=\"1.1.0\" morph=\"HC/Vqw1cp\" id=\"01C95\">וַ/נֹּ֨אמֶר֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"014ws\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"113\" n=\"1.1\" morph=\"HNcmsc/Sp1cs\" id=\"01GZj\">אֲדֹנִ֔/י</w>\n          <w lemma=\"3808\" morph=\"HTn\" id=\"01SZ8\">לֹא</w><seg type=\"x-maqqef\">־</seg><w lemma=\"3201\" morph=\"HVqi3ms\" id=\"01wnM\">יוּכַ֥ל</w>\n          <w lemma=\"d/5288\" n=\"1.0\" morph=\"HTd/Ncmsa\" id=\"01Fn4\">הַ/נַּ֖עַר</w>\n          <w lemma=\"l/5800 a\" morph=\"HR/Vqc\" id=\"01hEa\">לַ/עֲזֹ֣ב</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"012q8\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1\" n=\"1\" morph=\"HNcmsc/Sp3ms\" id=\"01RkS\">אָבִ֑י/ו</w>\n          <w lemma=\"c/5800 a\" morph=\"HC/Vqq3ms\" id=\"01vdv\">וְ/עָזַ֥ב</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"017fY\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"1\" n=\"0.0\" morph=\"HNcmsc/Sp3ms\" id=\"01ugM\">אָבִ֖י/ו</w>\n          <w lemma=\"c/4191\" n=\"0\" morph=\"HC/Vqq3ms\" id=\"01unH\">וָ/מֵֽת</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "6167762516a4112c72a484bea0584092fbdf9def92e845b262f572e1455a16e1",
+      "fluent": "v22: We said to my lord, ‘The young man cannot leave his father. If he leaves, his father will die.’",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 44:30",
+      "exact_source_record": "<verse osisID=\"Gen.44.30\">\n          <w lemma=\"c/6258\" n=\"1.1.1\" morph=\"HC/D\" id=\"01Hnc\">וְ/עַתָּ֗ה</w>\n          <w lemma=\"k/935\" n=\"1.1.0\" morph=\"HR/Vqc/Sp1cs\" id=\"01Eb3\">כְּ/בֹאִ/י֙</w>\n          <w lemma=\"413\" morph=\"HR\" id=\"01LMj\">אֶל</w><seg type=\"x-maqqef\">־</seg><w lemma=\"5650\" morph=\"HNcmsc/Sp2ms\" id=\"01T5o\">עַבְדְּ/ךָ֣</w>\n          <w lemma=\"1\" n=\"1.1\" morph=\"HNcmsc/Sp1cs\" id=\"01GQA\">אָבִ֔/י</w>\n          <w lemma=\"c/d/5288\" n=\"1.0\" morph=\"HC/Td/Ncmsa\" id=\"01dqZ\">וְ/הַ/נַּ֖עַר</w>\n          <w lemma=\"369\" morph=\"HTn/Sp3ms\" id=\"01pw6\">אֵינֶ֣/נּוּ</w>\n          <w lemma=\"854\" n=\"1\" morph=\"HR/Sp1cp\" id=\"01XHj\">אִתָּ֑/נוּ</w>\n          <w lemma=\"c/5315\" n=\"0.0\" morph=\"HC/Ncbsc/Sp3ms\" id=\"01Cus\">וְ/נַפְשׁ֖/וֹ</w>\n          <w lemma=\"7194\" morph=\"HVqsfsa\" id=\"01DUy\">קְשׁוּרָ֥ה</w>\n          <w lemma=\"b/5315\" n=\"0\" morph=\"HR/Ncbsc/Sp3ms\" id=\"01tUH\">בְ/נַפְשֽׁ/וֹ</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "86f5239445b16378266f80268dc7e7b26d175a656888ce51ddf9616d421cece8",
+      "fluent": "v30: So now, when I return to your servant my father without the young man—my father’s life is bound to the young man’s life—",
+      "scope": "targeted question and local context only"
+    },
+    {
+      "reference": "Genesis 44:31",
+      "exact_source_record": "<verse osisID=\"Gen.44.31\">\n          <w lemma=\"c/1961\" n=\"1.0.1\" morph=\"HC/Vqq3ms\" id=\"01tLd\">וְ/הָיָ֗ה</w>\n          <w lemma=\"k/7200\" n=\"1.0.0\" morph=\"HR/Vqc/Sp3ms\" id=\"01Pzo\">כִּ/רְאוֹת֛/וֹ</w>\n          <w lemma=\"3588 a\" morph=\"HC\" id=\"01ieY\">כִּי</w><seg type=\"x-maqqef\">־</seg><w lemma=\"369\" morph=\"HTn\" id=\"01uKH\">אֵ֥ין</w>\n          <w lemma=\"d/5288\" n=\"1.0\" morph=\"HTd/Ncmsa\" id=\"01cJw\">הַ/נַּ֖עַר</w>\n          <w lemma=\"c/4191\" n=\"1\" morph=\"HC/Vqq3ms\" id=\"01RnL\">וָ/מֵ֑ת</w>\n          <w lemma=\"c/3381\" morph=\"HC/Vhq3cp\" id=\"01vr2\">וְ/הוֹרִ֨ידוּ</w>\n          <w lemma=\"5650\" n=\"0.0.0.0\" morph=\"HNcmpc/Sp2ms\" id=\"011Uz\">עֲבָדֶ֜י/ךָ</w>\n          <w lemma=\"853\" morph=\"HTo\" id=\"01hyZ\">אֶת</w><seg type=\"x-maqqef\">־</seg><w lemma=\"7872\" morph=\"HNcfsc\" id=\"01bjq\">שֵׂיבַ֨ת</w>\n          <w lemma=\"5650\" morph=\"HNcmsc/Sp2ms\" id=\"01S8i\">עַבְדְּ/ךָ֥</w>\n          <w lemma=\"1\" n=\"0.0.0\" morph=\"HNcmsc/Sp1cp\" id=\"01cqb\">אָבִ֛י/נוּ</w>\n          <w lemma=\"b/3015\" n=\"0.0\" morph=\"HR/Ncmsa\" id=\"01zTR\">בְּ/יָג֖וֹן</w>\n          <w lemma=\"7585\" n=\"0\" morph=\"HNp/Sd\" id=\"016we\">שְׁאֹֽלָ/ה</w><seg type=\"x-sof-pasuq\">׃</seg>\n        </verse>",
+      "source_verse_sha256": "75d9575ea99c69870eb1df07b19aa4de620cc8732927cca6502e6e1b686fab47",
+      "fluent": "v31: he will die when he sees that the young man is not with us. Your servants will bring the gray head of your servant our father down to Sheol in grief.",
+      "scope": "targeted question and local context only"
+    }
+  ],
+  "external_sources": [
+    {
+      "id": "NET31",
+      "title": "NET translators’ notes, Genesis 31:24 and 29",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+31&version=NET",
+      "accessed": "2026-09-17",
+      "paraphrase": "The translators acknowledge uncertainty and favor a restriction on blessing or cursing. This supports the plausibility of the existing pronouncement interpretation without proving it uniquely correct."
+    },
+    {
+      "id": "NET38",
+      "title": "NET translators’ note, Genesis 38:21",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+38%3A21-22&version=NET",
+      "accessed": "2026-09-17",
+      "paraphrase": "The note favors a cultic role for qedeshah. It does not provide the contrary specialist analysis needed to settle the existing open question about shrine language."
+    },
+    {
+      "id": "NET44",
+      "title": "NET translators’ notes, Genesis 44:22",
+      "url": "https://www.biblegateway.com/passage/?search=Genesis+44&version=NET",
+      "accessed": "2026-09-17",
+      "paraphrase": "The translators identify Jacob as the referent of he and construe the final verbs as a conditional sequence. This corroborates the existing fluent English choice; its note still preserves the alternative."
+    }
+  ],
+  "decisions": [
+    {
+      "issue": "G04",
+      "status": "AUTHOR_DECISION_RETAIN_WITH_ALTERNATIVE",
+      "action": "Retain the existing pronouncement wording in 31:24,29 and its broader alternative note. The wording has a documented linguistic interpretation; absence of a separate noun in Hebrew does not by itself invalidate an idiomatic rendering. Independent review remains pending.",
+      "evidence": [
+        "Genesis 24:50",
+        "Genesis 31:24",
+        "Genesis 31:29",
+        "NET31"
+      ]
+    },
+    {
+      "issue": "G05",
+      "status": "OPEN",
+      "action": "Retain the source-grammar note and current singular English pending a broader treatment of plural agreement with Elohim; a single-verse inspection does not settle the referent.",
+      "evidence": [
+        "Genesis 35:7"
+      ]
+    },
+    {
+      "issue": "G06",
+      "status": "OPEN",
+      "action": "Retain current wording provisionally. The available translator note favors the cultic interpretation; obtain specialist evidence addressing the contrary case before deciding whether shrine is too specific.",
+      "evidence": [
+        "Genesis 38:15",
+        "Genesis 38:16",
+        "Genesis 38:20",
+        "Genesis 38:21",
+        "Genesis 38:22",
+        "Genesis 38:24",
+        "NET38"
+      ]
+    },
+    {
+      "issue": "G07",
+      "status": "AUTHOR_DECISION_RETAIN_WITH_ALTERNATIVE",
+      "action": "Retain father in 44:22: the later appeal in 44:30–31 explicitly links the father’s death to the young man’s absence. The existing note discloses the supplied referent and the alternative; no unnecessary pronoun ambiguity is introduced into Fluent.",
+      "evidence": [
+        "Genesis 44:20",
+        "Genesis 44:21",
+        "Genesis 44:22",
+        "Genesis 44:30",
+        "Genesis 44:31",
+        "NET44"
+      ]
+    }
+  ],
+  "independent_review": "PENDING"
+}

@@ -64,7 +64,7 @@ v22: Everything on dry land with the breath of life in its nostrils died.
 
 <p>
 v23: Every living thing on the ground was wiped out—humans, livestock, crawling creatures, and birds in the sky. They were wiped from the earth. Only Noah and those with him in the ark remained.
-v24: The waters held their power over the earth for 150 days.
+v24: The waters continued to overwhelm the earth for 150 days.
 </p>
 
 ## Notes
