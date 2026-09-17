@@ -2,202 +2,296 @@
   "book": "Galatians",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 26,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "9a8833bea1ba19de29422c4fec326a0c0685d4515567f2d4d531618d8195d3a3"
-      },
-      "2": {
-        "source_ref": "Galatians 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "097ba435287c4ca7de19c9b51455850922be60ec22f6a939417c743dd453e70a"
-      },
-      "3": {
-        "source_ref": "Galatians 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "48da0656368c493ccbef873a81cec506a6f37bc30b53c3cac2c28c83098e39ea"
-      },
-      "4": {
-        "source_ref": "Galatians 5:4",
-        "source_chapter": 5,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "24b780859028fbbfbbcc1ca9ca858aa8fa97ada31ce4050df62123e1f6ad0a66"
-      },
-      "5": {
-        "source_ref": "Galatians 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "9a1d84f8aa909b668b079f4145aedc2038a531797f711a6551545eff5f2b7915"
-      },
-      "6": {
-        "source_ref": "Galatians 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "1b13bc879eb8d6b0ae165d2c79c3d5bc4bce0b2e3d16b69dff63a0c9925744ae"
-      },
-      "7": {
-        "source_ref": "Galatians 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "c8ddd43a388bd53d8abe6d4b97d61f056d360c0f81ee326a1544a97e2391c43e"
-      },
-      "8": {
-        "source_ref": "Galatians 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "02402b3c67aacf0597154151cd4fabe7b285133bbdb074eb6efef525509f9ec6"
-      },
-      "9": {
-        "source_ref": "Galatians 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "ee025ca710ac4d05a28ef6bd094c2bc6c9987c23a70274dfed90b71c432d15da"
-      },
-      "10": {
-        "source_ref": "Galatians 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "a91116687cb902c10744eadea5b2416bc4645b755ac70eaf77f193b8eb162b3d"
-      },
-      "11": {
-        "source_ref": "Galatians 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "84f43985135c95ba3c4ce5e01f185689d40a253622db6eb6ee72173ca94e38b2"
-      },
-      "12": {
-        "source_ref": "Galatians 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "81042b9a0717f950d01b7d9b089a5b3765938ed0452e12bae3e363f732e18e70"
-      },
-      "13": {
-        "source_ref": "Galatians 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "1d872d7276bdc3da111390ac9ac88d1a07db20447988895a224a1b4831c98063"
-      },
-      "14": {
-        "source_ref": "Galatians 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "a3d6de9a78e54a659d47775aea3aef55712608905d1c4b646508a9a2b63cfaec"
-      },
-      "15": {
-        "source_ref": "Galatians 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "03736f7237de97b7a8fd0b5a536168933bb72ed70bcc2438798440016d192518"
-      },
-      "16": {
-        "source_ref": "Galatians 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "54eb68a88fd72b41ed48fa5a1f7db61d6a567aa732d5a8cfb1a510aba8774d67"
-      },
-      "17": {
-        "source_ref": "Galatians 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "1ec70ef5952315ebf490c9e68faa54df7281eb1755218f12bde3e6cf7a362104"
-      },
-      "18": {
-        "source_ref": "Galatians 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "984833d11f537fce941312b96fdf3d5f2ff578647000f3cab50ef4c696affc5e"
-      },
-      "19": {
-        "source_ref": "Galatians 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "0165ca9b7464a5ca586d7645a352eaeff406bd8e404be5c3961b0dc8d0ca474f"
-      },
-      "20": {
-        "source_ref": "Galatians 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "cba519467459862f4316b1e07acdeb4fa7c21e9fe6f1c315497108d917b3ca6e"
-      },
-      "21": {
-        "source_ref": "Galatians 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "f33496a5b96fad241d7868d4cdc4dcba0d63e6898d2ad3147e66b8fa8f18e08c"
-      },
-      "22": {
-        "source_ref": "Galatians 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "ab784bfccafc328f88fba1cf95d97bb33df5333df76a581cbb61409a6f263d86"
-      },
-      "23": {
-        "source_ref": "Galatians 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "a118eb58c0aaf4a7723d765356ea908ba9ce1b73e7d956c42b4f73be18edf5e7"
-      },
-      "24": {
-        "source_ref": "Galatians 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "a86180d8a4b8daa2380b8b82a8ebd708fd18dea4b6be7e4bdffbb06193120c0b"
-      },
-      "25": {
-        "source_ref": "Galatians 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "fbfffb99392f6f8235a28d841cf75ad4a7e1052ee87fcdce85c83c9a0b92296a"
-      },
-      "26": {
-        "source_ref": "Galatians 5:26",
-        "source_chapter": 5,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "ecada6d067571ca45ca04fe1451f0ef58a3126cb79f3f7d454cea13172730dbe"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/galatians/Galatians_05.md",
+    "before_sha256": "0cead4a103c30c4f88957f71e9e0658eef03a8316f11bb6b9240290aa272f366",
+    "after_sha256": "fa1f85f9415f13749b958b0f0412c452db3cca0608531f0360ac51d5b6ab80b6",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_05.md",
+    "tsw_comparator_sha256": "f190c5c1543bfd51f5f09429aa6320cf62ad350292f376fc377b65a5d13a66bd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 5:1",
+      "delta": "F3",
+      "rationale": "Preserves emphatic freedom, command, and yoke image.",
+      "source_reference": "Gal 5:1",
+      "source_verse_sha256": "e88f052c83b4e2980676503706fe719dcf08c0755a751d88992052e2c338d4a9",
+      "before": "For freedom Christ set us free. Therefore stand firm and do not submit again to a yoke of slavery.",
+      "after": "For freedom Christ set us free. Stand firm, then, and do not be held again under a yoke of slavery.",
+      "tsw_comparator": "For freedom Christ has set us free; stand fast therefore, and do not submit again to a yoke of slavery.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:2",
+      "delta": "F3",
+      "rationale": "Keeps personal emphasis and conditional warning.",
+      "source_reference": "Gal 5:2",
+      "source_verse_sha256": "f2f37018767bce96606198a19dd3971aeb90bbb167784552f9e5ad0b09558ef1",
+      "before": "Look—I, Paul, tell you that if you are circumcised, Christ will be of no benefit to you.",
+      "after": "Look, I, Paul, tell you that if you are circumcised, Christ will be of no benefit to you.",
+      "tsw_comparator": "Look, I, Paul, say to you that if you let yourselves be circumcised, Christ will be of no benefit to you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:3",
+      "delta": "F3",
+      "rationale": "Retains male specificity and total obligation.",
+      "source_reference": "Gal 5:3",
+      "source_verse_sha256": "069c553612a937a76e453efd182bdfc536fb4607446ad273fa505a45d737f801",
+      "before": "Again I testify to every man who is circumcised that he is obligated to keep the whole Law.",
+      "after": "Again I testify to every man who is circumcised that he is obligated to do the whole law.",
+      "tsw_comparator": "I testify again to every man who lets himself be circumcised that he is bound to keep the whole law.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:4",
+      "delta": "F3",
+      "rationale": "Keeps severing wordplay and grace contrast.",
+      "source_reference": "Gal 5:4",
+      "source_verse_sha256": "08d2660d484da0c1774166c499d824e809aa17770dbf31a4a77faf5aba7c2aca",
+      "before": "You who seek to be set right by the Law have been severed from Christ; you have fallen away from grace.",
+      "after": "You who seek to be justified by the law have been severed from Christ; you have fallen away from grace.",
+      "tsw_comparator": "You who would be justified by the law are severed from Christ; you have fallen away from grace.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:5",
+      "delta": "F3",
+      "rationale": "Preserves Spirit, faith, hope, and waiting.",
+      "source_reference": "Gal 5:5",
+      "source_verse_sha256": "d2fc6c7b44d142623ef437747526097327e2ee9510b7e5164e05a7e241deb353",
+      "before": "For through the Spirit, by trust, we eagerly wait for the hope of righteousness.",
+      "after": "For through the Spirit, by faith, we eagerly await the hope of righteousness.",
+      "tsw_comparator": "For through the Spirit, by faith, we wait for the hope of righteousness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:6",
+      "delta": "F3",
+      "rationale": "Keeps bodily statuses and active faith/love relation.",
+      "source_reference": "Gal 5:6",
+      "source_verse_sha256": "688770c79dca40bf6db6abc2a3751c0b42ba717d3bcbb6a1feb2ab52ed3499cb",
+      "before": "In Christ Jesus neither circumcision nor uncircumcision has any power, but trust working through love.",
+      "after": "For in Christ Jesus neither circumcision nor uncircumcision accomplishes anything, but faith working through love does.",
+      "tsw_comparator": "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but faith working through love.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:7",
+      "delta": "F3",
+      "rationale": "Preserves race image and personal interference.",
+      "source_reference": "Gal 5:7",
+      "source_verse_sha256": "3b12e1f903ea71f87226448dfa2305ac40b87e9047d52b67cf34e33cd09a7692",
+      "before": "You were running well. Who cut in on you and kept you from obeying the truth?",
+      "after": "You were running well. Who cut in on you and kept you from obeying the truth?",
+      "tsw_comparator": "You were running well; who hindered you from obeying the truth?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:11",
+      "delta": "F3",
+      "rationale": "Keeps counterfactual logic, persecution, and scandal.",
+      "source_reference": "Gal 5:11",
+      "source_verse_sha256": "e76fc9476920ea84f597644bd67c5d30b38e6e7b53376496c6e011709e0c5535",
+      "before": "Brothers and sisters, if I still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.",
+      "after": "But as for me, brothers and sisters, if I still proclaim circumcision, why am I still persecuted? In that case, the offense of the cross has been abolished.",
+      "tsw_comparator": "But brothers and sisters, if I still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:12",
+      "delta": "F3",
+      "rationale": "Preserves Paul's harsh bodily wordplay rather than euphemizing it.",
+      "source_reference": "Gal 5:12",
+      "source_verse_sha256": "49da85bf89ad48ab52cb9ab9631efe4662c0d0bb5f9e876599053fabb9cc067b",
+      "before": "I wish those who are unsettling you would go all the way and mutilate themselves!",
+      "after": "I wish those who are unsettling you would go all the way and castrate themselves!",
+      "tsw_comparator": "I wish that those who are unsettling you would mutilate themselves!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:13",
+      "delta": "F3",
+      "rationale": "Keeps freedom and voluntary enslavement in deliberate tension.",
+      "source_reference": "Gal 5:13",
+      "source_verse_sha256": "77fb99a2303c6dee92fc4288cfc33983306c95ba6f8f30c9a9621b075d9472de",
+      "before": "For you were called to freedom, brothers and sisters. Only do not use freedom as an opportunity for the flesh; instead, through love serve one another as slaves.",
+      "after": "For you were called to freedom, brothers and sisters. Only do not use freedom as an opportunity for the flesh; instead, through love serve one another as enslaved people.",
+      "tsw_comparator": "For you were called to freedom, brothers and sisters; only do not use your freedom as an opportunity for the flesh, but through love serve one another.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.892857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:15",
+      "delta": "F3",
+      "rationale": "Retains violent animal imagery and reciprocal destruction.",
+      "source_reference": "Gal 5:15",
+      "source_verse_sha256": "a4fc11de7a8b88300f94c57f7eac054484245e3e8dd329c0353b35060f3f8da3",
+      "before": "But if you bite and devour one another, watch out or you will be consumed by one another.",
+      "after": "But if you bite and devour one another, watch out that you are not consumed by one another.",
+      "tsw_comparator": "But if you bite and devour one another, watch out that you are not consumed by one another.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:16",
+      "delta": "F3",
+      "rationale": "Keeps movement image and strong negation.",
+      "source_reference": "Gal 5:16",
+      "source_verse_sha256": "da8d321ff50927523ce754b58a63dfbd00fd07f83855e7a87f7e1c4677363c71",
+      "before": "But I say: walk by the Spirit, and you will certainly not carry out the desire of the flesh.",
+      "after": "But I say: walk by the Spirit, and you will certainly not carry out the desire of the flesh.",
+      "tsw_comparator": "I say, walk by the Spirit, and you will not gratify the desires of the flesh.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:17",
+      "delta": "F3",
+      "rationale": "Preserves mutual opposition and resulting constraint.",
+      "source_reference": "Gal 5:17",
+      "source_verse_sha256": "fad915015a3d4e9739d5eff08fb98f9ae812ba8ce94848e27e9af95d294d3d59",
+      "before": "For the flesh desires against the Spirit, and the Spirit against the flesh. These oppose each other so that you do not simply do whatever you want.",
+      "after": "For the flesh desires what is against the Spirit, and the Spirit what is against the flesh. These oppose each other, so that you do not do whatever you want.",
+      "tsw_comparator": "For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh; for these are opposed to each other, to keep you from doing the things you would.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.515152,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:19",
+      "delta": "F3",
+      "rationale": "Preserves opening items and continuation.",
+      "source_reference": "Gal 5:19",
+      "source_verse_sha256": "d9ee08f0d334a82ee5b8dbf799e9a79436192c1641157a53017a73971d8778fd",
+      "before": "Now the works of the flesh are obvious: sexual immorality, impurity, sensuality,",
+      "after": "Now the works of the flesh are obvious: sexual immorality, impurity, debauchery,",
+      "tsw_comparator": "Now the works of the flesh are evident: sexual immorality, impurity, sensuality,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:20",
+      "delta": "F3",
+      "rationale": "Keeps the full social and religious catalogue.",
+      "source_reference": "Gal 5:20",
+      "source_verse_sha256": "6f274a158e17df71ac3bf32542f38ea5b32c9b10289de4ef7d81a6e49af02c6d",
+      "before": "idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, selfish ambition, divisions, factions,",
+      "after": "idolatry, sorcery, hostilities, strife, jealousy, fits of anger, selfish ambitions, divisions, factions,",
+      "tsw_comparator": "idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, factions,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:21",
+      "delta": "F3",
+      "rationale": "Preserves continuing category, prior warning, practice, and inheritance.",
+      "source_reference": "Gal 5:21",
+      "source_verse_sha256": "432dad3c5ea71d77b5198b935219dcb4f0e1a33618add0d1d424afbcd1397a55",
+      "before": "envy, drunkenness, wild parties, and things like these. I warn you, as I warned you before, that those who practice such things will not inherit God’s kingdom.",
+      "after": "envy, drunkenness, wild parties, and things like these. I warn you, as I warned you before, that those who practice such things will not inherit God's kingdom.",
+      "tsw_comparator": "envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:22",
+      "delta": "F3",
+      "rationale": "Keeps singular fruit and the first seven qualities.",
+      "source_reference": "Gal 5:22",
+      "source_verse_sha256": "46ebffd88ad3aa182cba58fa39932a7fe7cb02b046fd92d82bae9e4b97f2c6a8",
+      "before": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+      "after": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+      "tsw_comparator": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:24",
+      "delta": "F3",
+      "rationale": "Retains violent crucifixion image and embodied impulses.",
+      "source_reference": "Gal 5:24",
+      "source_verse_sha256": "a856e07fd7d4a59ed2d33a4c8f0ea5c01311683d54c97a234620ad8337e825c7",
+      "before": "Those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+      "after": "Now those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+      "tsw_comparator": "And those who belong to Christ Jesus have crucified the flesh with its passions and desires.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 5:25",
+      "delta": "F3",
+      "rationale": "Keeps life and ordered-walking relation.",
+      "source_reference": "Gal 5:25",
+      "source_verse_sha256": "d19841a5d606b621ba22e3b60c4977c81ffc58460855af2187239e9e548f26f4",
+      "before": "If we live by the Spirit, let us also keep in step with the Spirit.",
+      "after": "If we live by the Spirit, let us also keep in step with the Spirit.",
+      "tsw_comparator": "If we live by the Spirit, let us also walk by the Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_05.md",
-    "blob_sha": "6559cb9a73fedd6516b26fdeaeac6c44dbb0b3f0"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

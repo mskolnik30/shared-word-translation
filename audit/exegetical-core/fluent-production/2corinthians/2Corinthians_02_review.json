@@ -1,291 +1,161 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_02_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 2:1",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 1,
-            "source_ref": "2 Corinthians 2:1",
-            "segment_mode": "whole",
-            "sha256": "667d4dadbc72ad18c16ae0ddab19e5fd6ef36829242eae590aa49ae786c034fc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "667d4dadbc72ad18c16ae0ddab19e5fd6ef36829242eae590aa49ae786c034fc"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 2:2",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 2,
-            "source_ref": "2 Corinthians 2:2",
-            "segment_mode": "whole",
-            "sha256": "9022cde345cb7699ec0252d67633bbd95828c8b790efde0ef247a01c19916357"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9022cde345cb7699ec0252d67633bbd95828c8b790efde0ef247a01c19916357"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 2:3",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 3,
-            "source_ref": "2 Corinthians 2:3",
-            "segment_mode": "whole",
-            "sha256": "4a867c71b827e94a9c5640f612b7daf77d5d5ada4dc3f278ec42ba5686b86a54"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4a867c71b827e94a9c5640f612b7daf77d5d5ada4dc3f278ec42ba5686b86a54"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 2:4",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 4,
-            "source_ref": "2 Corinthians 2:4",
-            "segment_mode": "whole",
-            "sha256": "0be968a504b8438366986e886ca0c9fb8e56e00e09e46a392d5d0d19c50fcd0e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0be968a504b8438366986e886ca0c9fb8e56e00e09e46a392d5d0d19c50fcd0e"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 2:5",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 5,
-            "source_ref": "2 Corinthians 2:5",
-            "segment_mode": "whole",
-            "sha256": "ce98d78854edb656363a9365ba381b6476bf7a63b16d4ad0bca388fd8898e71f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ce98d78854edb656363a9365ba381b6476bf7a63b16d4ad0bca388fd8898e71f"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 2:6",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 6,
-            "source_ref": "2 Corinthians 2:6",
-            "segment_mode": "whole",
-            "sha256": "d9d37761674c1fe6094a8d19d962efdb95b420754058213730eee91c35e3c33a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d9d37761674c1fe6094a8d19d962efdb95b420754058213730eee91c35e3c33a"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 2:7",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 7,
-            "source_ref": "2 Corinthians 2:7",
-            "segment_mode": "whole",
-            "sha256": "4d1815dd2442fdef4ad0a2c04af82b21b888a2b7ba5ec773386030f59b582136"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4d1815dd2442fdef4ad0a2c04af82b21b888a2b7ba5ec773386030f59b582136"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 2:8",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 8,
-            "source_ref": "2 Corinthians 2:8",
-            "segment_mode": "whole",
-            "sha256": "704dd319ea0fe042f54b70813c926de02c0cb0dad6ff702df98404a9b19de8da"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "704dd319ea0fe042f54b70813c926de02c0cb0dad6ff702df98404a9b19de8da"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 2:9",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 9,
-            "source_ref": "2 Corinthians 2:9",
-            "segment_mode": "whole",
-            "sha256": "86c054fa8646fe8c7fa99502d3e8dcae456ac55c498479f7b544997eff71e394"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "86c054fa8646fe8c7fa99502d3e8dcae456ac55c498479f7b544997eff71e394"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 2:10",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 10,
-            "source_ref": "2 Corinthians 2:10",
-            "segment_mode": "whole",
-            "sha256": "96cedc27a6c53d5fb38daa0be0741a920aca57717a5bf9094efa3321782a2bcd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "96cedc27a6c53d5fb38daa0be0741a920aca57717a5bf9094efa3321782a2bcd"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 2:11",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 11,
-            "source_ref": "2 Corinthians 2:11",
-            "segment_mode": "whole",
-            "sha256": "f6ec184bb9e755c3f1da4f5f17032d6957a953e157922245ae1a2dec1f37d611"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f6ec184bb9e755c3f1da4f5f17032d6957a953e157922245ae1a2dec1f37d611"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 2:12",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 12,
-            "source_ref": "2 Corinthians 2:12",
-            "segment_mode": "whole",
-            "sha256": "f60eeabdc9f68995165e795eeae5804fd8ae7106faee45e082c74e4512e020e6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f60eeabdc9f68995165e795eeae5804fd8ae7106faee45e082c74e4512e020e6"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 2:13",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 13,
-            "source_ref": "2 Corinthians 2:13",
-            "segment_mode": "whole",
-            "sha256": "2c4e3fb6371232dde3d60d247bfe0b9008514d1f2bf8eeecf06ecef5fa277afe"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2c4e3fb6371232dde3d60d247bfe0b9008514d1f2bf8eeecf06ecef5fa277afe"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 2:14",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 14,
-            "source_ref": "2 Corinthians 2:14",
-            "segment_mode": "whole",
-            "sha256": "6355fe80fe97931aa304ffa7854340fac26c68f6e132c79f60acb49c07df275a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6355fe80fe97931aa304ffa7854340fac26c68f6e132c79f60acb49c07df275a"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 2:15",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 15,
-            "source_ref": "2 Corinthians 2:15",
-            "segment_mode": "whole",
-            "sha256": "a279e85b686de81d3ac9fb1461ebe7d0b693455c761aebf6f5c22fade1041d24"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a279e85b686de81d3ac9fb1461ebe7d0b693455c761aebf6f5c22fade1041d24"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 2:16",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 16,
-            "source_ref": "2 Corinthians 2:16",
-            "segment_mode": "whole",
-            "sha256": "7fc753bcae281ab24269aa66bf3913dcdd87654823853df7a1c79446c4bd5507"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7fc753bcae281ab24269aa66bf3913dcdd87654823853df7a1c79446c4bd5507"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 2:17",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 17,
-            "source_ref": "2 Corinthians 2:17",
-            "segment_mode": "whole",
-            "sha256": "4aa37b73842b8449779276302c4032a41fb5a86f465306de407f66d46f0f6467"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4aa37b73842b8449779276302c4032a41fb5a86f465306de407f66d46f0f6467"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 17,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_02.md",
+    "before_sha256": "c4d8a9c20dfb1bb937ad0ff3b92f0f8bb65da96f0b0257302a16ea7575a015ca",
+    "after_sha256": "e4163c669394a8d363ac0b61f9a51cfed6966bb3aff6cfdf04315411b0b91111",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_02.md",
+    "tsw_comparator_sha256": "26c7b57eb0ee816455a19eac5d4af2f42572a9bacff9a4dafb2d9799d7e66371"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 2:4",
+      "delta": "F3",
+      "rationale": "Retains distress, tears, denied aim, and love.",
+      "source_reference": "2Cor 2:4",
+      "source_verse_sha256": "c3dc1efd09f5675056d93908d6290c425e4e67b2256a228a29e452c727f1b91d",
+      "before": "For out of much affliction and anguish of heart I wrote to you with many tears—not so that you might be grieved, but so that you might know the love that I have abundantly for you.",
+      "after": "For I wrote to you through much affliction and anguish of heart, with many tears—not to cause you sorrow, but so that you might know the abundant love I have especially for you.",
+      "tsw_comparator": "For out of much affliction and anguish of heart I wrote to you with many tears—not so that you might be grieved, but so that you might know the love that I have abundantly for you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.676056,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:5",
+      "delta": "F3",
+      "rationale": "Keeps Paul's qualification rather than universalizing the harm.",
+      "source_reference": "2Cor 2:5",
+      "source_verse_sha256": "81da0ec9a4ef14e13875bba6dd1eb4531d2154a27e9b0c3435d20fcc93850c2f",
+      "before": "But if someone has caused sorrow, he has caused it not to me alone, but in some measure—not to overstate it—to all of you.",
+      "after": "But if anyone has caused sorrow, he has not caused sorrow to me alone, but—to avoid overstating it—to some extent to all of you.",
+      "tsw_comparator": "But if anyone has caused sorrow, he has caused it not to me alone, but in some measure—not to overstate it—to all of you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.730769,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:6",
+      "delta": "F3",
+      "rationale": "Preserves the communal action and its sufficiency.",
+      "source_reference": "2Cor 2:6",
+      "source_verse_sha256": "c8d4b15ac08183fc9530bdcc8fc96afcf4d32fc371ff84f3fef35f14f4e3ce81",
+      "before": "This punishment by the majority is enough for such a one,",
+      "after": "The punishment imposed by the majority is enough for such a person.",
+      "tsw_comparator": "This punishment by the majority is enough for such a one,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:7",
+      "delta": "F3",
+      "rationale": "Keeps the reversal and danger of engulfing grief.",
+      "source_reference": "2Cor 2:7",
+      "source_verse_sha256": "622212deaadd4a12f9a94911dbbff9f420bf8ee0d971fabd7272c662e98e9a61",
+      "before": "so that on the contrary you should rather forgive and comfort him, lest he be overwhelmed by excessive sorrow.",
+      "after": "So now, instead, you should forgive and comfort him, so that he is not overwhelmed by excessive sorrow.",
+      "tsw_comparator": "so that on the contrary you should rather forgive and comfort him, lest he be overwhelmed by excessive sorrow.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:10",
+      "delta": "F3",
+      "rationale": "Keeps the conditional qualification and Christward setting.",
+      "source_reference": "2Cor 2:10",
+      "source_verse_sha256": "8291b9e291ca2b9523f0e9b0a5a64b14c72ce329f7c8a9d5e92c25750273bdab",
+      "before": "Anyone whom you forgive, I also forgive. Indeed, what I have forgiven, if I have forgiven anything, has been for your sake in the presence of Christ,",
+      "after": "Anyone you forgive, I also forgive. Indeed, whatever I have forgiven—if I had anything to forgive—I have forgiven for your sake in the presence of Christ,",
+      "tsw_comparator": "Anyone whom you forgive, I also forgive. Indeed, what I have forgiven, if I have forgiven anything, has been for your sake in the presence of Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:14",
+      "delta": "F3",
+      "rationale": "Keeps the potentially captive triumph image and fragrance metaphor.",
+      "source_reference": "2Cor 2:14",
+      "source_verse_sha256": "47042a1bfaf5073f8c9ddbc909e30e4a074a24f6c574e887ae7f86a26342060e",
+      "before": "But thanks be to God, who always leads us in triumph in Christ and manifests through us the fragrance of the knowledge of him in every place.",
+      "after": "But thanks be to God, who always leads us in Christ's triumphal procession and through us spreads everywhere the fragrance of knowing him.",
+      "tsw_comparator": "But thanks be to God, who always leads us in triumph in Christ and manifests through us the fragrance of the knowledge of him in every place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:16",
+      "delta": "F3",
+      "rationale": "Keeps the stark double outcome and closing question.",
+      "source_reference": "2Cor 2:16",
+      "source_verse_sha256": "410d9d203a3ec8a64a659138a2872a74e19233337743057a10ef891ab62a4823",
+      "before": "to the one a fragrance from death to death, to the other a fragrance from life to life. And who is sufficient for these things?",
+      "after": "to some, an aroma from death leading to death; to others, an aroma from life leading to life. And who is sufficient for these things?",
+      "tsw_comparator": "to the one a fragrance from death to death, to the other a fragrance from life to life. And who is sufficient for these things?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 2:17",
+      "delta": "F3",
+      "rationale": "Preserves commercial accusation, sincerity, source, and accountability.",
+      "source_reference": "2Cor 2:17",
+      "source_verse_sha256": "bb2db4cfdea6853c5ba7d80af89ff840381b090fd1c8f1f91569f578a3e36a47",
+      "before": "For we are not like so many, peddling the word of God; but as from sincerity, but as from God, in the presence of God, we speak in Christ.",
+      "after": "For we are not like the many who peddle God's word. Instead, we speak in Christ with sincerity, as people sent from God and standing before God.",
+      "tsw_comparator": "For we are not like so many, peddling the word of God; but as from sincerity, but as from God, in the presence of God, we speak in Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.392857,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_02.md",
-    "blob_sha": "ac87ce445a892dc38dce88c7a6cc4c4e13191f8d"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

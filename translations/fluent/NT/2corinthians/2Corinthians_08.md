@@ -4,153 +4,89 @@ testament: NT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16
 ---
+
 
 ## The Grace of Giving
 
 <p>
-v01: We reveal to you, brothers and sisters, the grace of God that has been given among the churches of Macedonia,
-
-v02: that in a severe testing of affliction, the abundance of their joy and their extreme poverty overflowed in the wealth of their generosity.
+v01: Now, brothers and sisters, we want you to know about the grace of God given among the churches of Macedonia.
+v02: In a severe test of affliction, their overflowing joy and their deep poverty overflowed into a wealth of generosity.
 </p>
 
 <p>
-v03: For according to their means, I can testify, and beyond their means, they gave of their own accord,
-
-v04: begging us earnestly for the favor of participating in the ministry to the holy ones,
-
-v05: and this not as we expected, but they gave themselves first to the Lord and then to us by the will of God.
+v03: For I testify that they gave according to their ability and even beyond their ability, entirely of their own accord,
+v04: pleading with us insistently for the grace and fellowship of serving the saints.
+v05: And not merely as we expected: they gave themselves first to the Lord and then to us through God's will.
 </p>
 
 <p>
-v06: So we urged Titus that as he had begun, so he should also complete among you this gracious work.
-
-v07: But as you abound in everything—in faith, in speech, in knowledge, in all earnestness, and in the love we have awakened in you—see that you abound in this gracious work also.
+v06: So we urged Titus that, just as he had begun earlier, he should also bring this gracious work among you to completion.
+v07: But just as you overflow in everything—in faith, speech, knowledge, every kind of earnestness, and the love from us that is among you—see that you also overflow in this grace.
 </p>
 
 ## The Example of Christ
 
 <p>
-v08: I say this not as a command, but to test the genuineness of your love by the earnestness of others.
-
-v09: For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich.
+v08: I am not saying this as a command, but I am testing the genuineness of your love through the earnestness of others.
+v09: For you know the grace of our Lord Jesus Christ: though he was rich, for your sake he became poor, so that through his poverty you might become rich.
 </p>
 
 <p>
-v10: And in this matter I give my judgment: this benefits you, who a year ago began not only to do this but also to desire it.
-
-v11: So now complete the doing of it, so that your readiness in desiring it may be matched by completion according to what you have.
+v10: And in this matter I give my judgment, for this benefits you: last year you were the first not only to do this, but also to desire it.
+v11: Now also complete the doing, so that your completion from what you have may match your eager desire.
 </p>
 
 <p>
-v12: For if the readiness is present, it is acceptable according to what one has, not according to what one does not have.
-
-v13: For I do not mean that others should be relieved and you burdened,
-
-v14: but that there may be equality. At the present time your abundance meets their need, so that their abundance may also meet your need, that there may be equality.
+v12: For if the eagerness is present, the gift is acceptable according to what a person has, not according to what the person does not have.
+v13: I do not mean that others should have relief while you have affliction, but that there should be equality.
+v14: At the present time, your abundance should meet their need, so that their abundance may also meet your need, and in this way there may be equality.
 </p>
 
 <p>
-v15: As it is written,
-
-“The one who gathered much had nothing left over,
-
-and the one who gathered little had no lack.”
+v15: As it is written, “The one who gathered much had no excess, and the one who gathered little had no lack.”
 </p>
 
 ## Commendation of Titus and His Companions
 
 <p>
-v16: But thanks be to God, who put into the heart of Titus the same earnest care I have for you.
-
-v17: For he not only accepted our appeal, but being himself very earnest, he went to you of his own accord.
+v16: But thanks be to God, who put the same earnest concern for you into Titus's heart.
+v17: For he welcomed our appeal and, being even more earnest, went to you of his own accord.
 </p>
 
 <p>
-v18: With him we are sending the brother who is praised among all the churches for his work in the good news,
-
-v19: and not only that, but he has been appointed by the churches to travel with us in this gracious work, which is being administered by us for the glory of the Lord himself and to show our readiness.
+v18: We sent with him the brother praised throughout all the churches for his work in the gospel.
+v19: Not only that, but he was also appointed by the churches to travel with us as we administer this gracious gift for the Lord's own glory and to show our eagerness.
 </p>
 
 <p>
-v20: We take this course so that no one should blame us about this generous gift that is being administered by us,
-
-v21: for we aim at what is honorable not only in the sight of the Lord but also in the sight of others.
+v20: We are taking this precaution so that no one can criticize us concerning this generous gift we are administering.
+v21: For we take care to do what is honorable not only before the Lord, but also before people.
 </p>
 
 <p>
-v22: And with them we are sending our brother whom we have often tested and found earnest in many matters, but who is now even more earnest because of his great confidence in you.
-
-v23: As for Titus, he is my partner and fellow worker for your sake; and as for our brothers and sisters, they are messengers of the churches, the glory of Christ.
+v22: We sent with them our brother whom we have often tested and found earnest in many matters, and now he is much more earnest because of his great confidence in you.
+v23: As for Titus, he is my partner and coworker for you. As for our brothers, they are messengers of the churches, the glory of Christ.
 </p>
 
 <p>
-v24: So show them the proof of your love and of our boasting about you before the churches.
+v24: Therefore show them, before the churches, the proof of your love and of our boasting about you.
 </p>
 
 ## Notes
 
-v01–02: “Grace” frames generosity. Giving is not reduced to obligation but described as divine activity within the community.
+v02–5: The Macedonians give amid deep poverty and act voluntarily; their example is not permission to coerce people who lack necessities.
 
-v02: Affliction and poverty are not removed; they become the context in which generosity emerges.
+v12–14: A gift is accepted according to what a person has. Paul's stated aim is equality, not others' relief at the Corinthians' expense.
 
-v03–05: The Macedonians’ giving exceeds expectation both in amount and in willingness. Their self-giving precedes material giving.
-
-v04: Participation in giving is described as a “favor,” reversing normal assumptions about burden and privilege.
-
-v06–07: The Corinthians are urged to align this act of giving with their existing strengths, not treat it as separate.
-
-v08: Paul avoids command, framing the appeal as a test of authenticity rather than compliance.
-
-v09: Christ’s “poverty” and “richness” are stated relationally. The movement from one to the other is not explained but presented as pattern.
-
-v10–11: Desire and action are held together. Incomplete intention is not dismissed but brought toward completion.
-
-v12: Acceptability is measured by proportion, not comparison. Capacity governs expectation.
-
-v13–14: Equality is situational and reciprocal. Present abundance and need are expected to shift over time.
-
-v15: The citation from the wilderness narrative reframes provision as shared sufficiency rather than accumulation.
-
-v16–17: Titus’s initiative is both divinely prompted and personally enacted.
-
-v18–21: Transparency is emphasized. Financial administration is conducted with accountability before both God and others.
-
-v22–23: The credibility of the messengers is grounded in tested character and communal recognition.
-
-v24: The act of giving becomes public confirmation of love and of Paul’s prior confidence in the community.
+v19–21: The churches appoint a traveling companion, and Paul explains public safeguards for administering a large gift.
 
 ## Vocabulary
 
-v01: χάρις (charis)
-“Grace.” Here functioning as divine enablement expressed in generosity.
+v04: **κοινωνία (koinōnia)**: Sharing, participation, or fellowship.
 
-v02: δοκιμή (dokimē)
-“Testing.” A proving or refining circumstance.
-
-v02: πλοῦτος (ploutos)
-“Wealth.” Used paradoxically of generosity arising from poverty.
-
-v04: κοινωνία (koinōnia)
-“Participation” or “sharing.” Emphasizes relational involvement.
-
-v07: σπουδή (spoudē)
-“Earnestness.” Diligent seriousness or eagerness.
-
-v09: πτωχεύω (ptōcheuō)
-“To become poor.” Indicates entering into a condition, not merely lacking resources.
-
-v13: ἄνεσις (anesis)
-“Relief.” Release from burden.
-
-v14: ἰσότης (isotēs)
-“Equality.” Fairness or balance rather than sameness.
-
-v20: ἁδρότης (hadrotēs)
-“Generous gift.” A substantial or abundant offering.
-
-v21: καλός (kalos)
-“Honorable.” That which is fitting or worthy in public and moral perception.
-
-v04: κοινωνία (koinōnia)
-“Participation” or “sharing.” Marks relational involvement.
+v13: **ἰσότης (isotēs)**: Equality or fair balance.

@@ -44,13 +44,30 @@ def main():
         m = re.fullmatch(r'\S+ (\d+):(\d+)\t(.*)', line)
         if m:
             raw[int(m[1]), int(m[2])] = m[3]
+    source_to_public = {}
+    public_to_source = {}
+    partition_for_public = {}
+    for (chapter, verse) in raw:
+        if chapter not in cfg['chapters']:
+            continue
+        declared = cfg.get('source_public_mapping', {}).get(str(chapter), {}).get(str(verse))
+        entries = declared if declared is not None else [{'public': verse}]
+        source_to_public[chapter, verse] = [entry['public'] for entry in entries]
+        for entry in entries:
+            public = entry['public']
+            assert (chapter, public) not in public_to_source
+            public_to_source[chapter, public] = verse
+            if 'token_start' in entry:
+                partition_for_public[chapter, public] = dict(
+                    token_start=entry['token_start'], token_end=entry['token_end'],
+                    reason=entry['reason'])
     D = {}
     for line in (A/'authoring-input.tsv').read_text().splitlines():
         ref, text, why = line.split('|')
         key = tuple(map(int, ref.split(':')))
         assert key not in D and why.strip()
         D[key] = (text.replace('\\n', '\n'), why)
-    assert set(D) == {k for k in raw if k[0] in cfg['chapters']}
+    assert set(D) == set(public_to_source)
     assert len(D) == cfg['expected_verses']
     rid = 'fluent-'+A.name.removeprefix('2026-09-16-')+'-biblical-fluency-2026-09-16'
     L = dict(schema_version=3, revision_id=rid, base_commit=parent,
@@ -91,6 +108,12 @@ def main():
         ch = dict(chapter=c, verse_count=len(seen), path=path,
                   before_sha256=sha(before), after_sha256=sha(out.encode()),
                   tsw_comparator_path=cp, tsw_comparator_sha256=sha(cb))
+        alignment = cfg.get('tsw_alignment', {}).get(str(c))
+        if alignment:
+            ch.update(tsw_public_labels=alignment['public_labels'],
+                      tsw_unmatched_source_labels=alignment['unmatched_source_labels'],
+                      tsw_additional_public_labels=alignment['additional_public_labels'],
+                      tsw_alignment_reason=alignment['reason'])
         omitted = cfg.get('source_omissions', {}).get(str(c), [])
         if omitted:
             ch['source_omitted_public_labels'] = omitted
@@ -109,13 +132,24 @@ def main():
         av,bv,tv = map(verse_texts, [out, text, cb.decode()])
         for v in seen:
             k = f'{v:02}'; ref = f'{c}:{v}'
-            L['verses'].append(dict(reference=book+' '+ref,
+            unmatched = set(alignment['unmatched_source_labels']) if alignment else set()
+            assert k in tv or v in unmatched
+            comparator = tv.get(k, '')
+            source_v = public_to_source[c, v]
+            source_ref = f'{c}:{source_v}'
+            decision = dict(reference=book+' '+ref,
                 delta='F3' if ref in cfg['f3'] else 'F0' if av[k]==bv[k] else 'F2',
-                rationale=D[c,v][1], source_reference=source['osis_book_id']+' '+ref,
-                source_verse_sha256=sha(raw[c,v].encode()), before=bv[k], after=av[k],
-                tsw_comparator=tv[k], identical_words_to_tsw=words(av[k])==words(tv[k]),
-                word_similarity_to_tsw=round(difflib.SequenceMatcher(None,words(av[k]),words(tv[k]),autojunk=False).ratio(),6),
-                editorial_status='REVIEW_PENDING'))
+                rationale=D[c,v][1], source_reference=source['osis_book_id']+' '+source_ref,
+                source_verse_sha256=sha(raw[c,source_v].encode()), before=bv[k], after=av[k],
+                tsw_comparator=comparator, identical_words_to_tsw=words(av[k])==words(comparator),
+                word_similarity_to_tsw=round(difflib.SequenceMatcher(None,words(av[k]),words(comparator),autojunk=False).ratio(),6),
+                editorial_status='REVIEW_PENDING')
+            if (c, v) in partition_for_public:
+                decision['source_partition'] = partition_for_public[c, v]
+            if v in unmatched:
+                decision['tsw_comparator_status'] = 'UNAVAILABLE_PUBLIC_LABEL'
+                decision['tsw_comparator_reason'] = alignment['reason']
+            L['verses'].append(decision)
     errors = audit(R, L, sb)
     assert not errors, errors
     L['automated_qa'] = 'PASSED'
@@ -146,7 +180,10 @@ def main():
         rows.append(dict(reference=v['reference'],before_identical=bw==tw,after_identical=aw==tw,before_similarity=round(difflib.SequenceMatcher(None,bw,tw,autojunk=False).ratio(),6),after_similarity=v['word_similarity_to_tsw']))
     summary={s:dict(identical=sum(x[s+'_identical'] for x in rows),near_identical_nonidentical=sum(not x[s+'_identical'] and x[s+'_similarity']>=.9 for x in rows),mean_word_similarity=round(sum(x[s+'_similarity'] for x in rows)/len(rows),6)) for s in ['before','after']}
     dump(A/'overlap-before-after.json',dict(scope=cfg['scope'],verses=len(D),summary=summary,rows=rows,qualification='Triage only. No minimum change quota; not evidence of scholarly approval.'))
-    q=json.loads(old('audit/fluent-revision/WORK_QUEUE.json'))
+    # Use the already-updated working queue so several independently authored
+    # book scopes can accumulate safely in one checkpoint commit. The exact
+    # parent queue is still verified by the batch verifier before packaging.
+    q=json.loads((R/'audit/fluent-revision/WORK_QUEUE.json').read_text())
     assert not any(x['ledger']==ledger for x in q['completed_draft_scopes'])
     q['completed_draft_scopes'].append(dict(scope=cfg['scope'],verses=len(D),ledger=ledger))
     block=q['active_fifty_chapter_block']

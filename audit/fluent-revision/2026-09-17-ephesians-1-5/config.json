@@ -1,0 +1,58 @@
+{
+  "parent_commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+  "parent_library_version": 92,
+  "book": "Ephesians",
+  "slug": "ephesians",
+  "chapters": [1, 2, 3, 4, 5],
+  "scope": "Ephesians 1–5",
+  "expected_verses": 131,
+  "source_filename": "ephesians-pinned-greek.txt",
+  "new_source_files": ["1corinthians-pinned-greek.txt", "2corinthians-pinned-greek.txt", "galatians-pinned-greek.txt", "ephesians-pinned-greek.txt"],
+  "additional_source_bindings": {
+    "1corinthians": {"id": "NT.SBLGNT.1.2", "repository": "Faithlife/SBLGNT", "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c", "file": "data/sblgnt/text/1Cor.txt", "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b", "sha256": "2a706bac29f1e34568bf6862cbc1616471511e9b915d7292adba3e93fb72c946", "source_filename": "1corinthians-pinned-greek.txt"},
+    "2corinthians": {"id": "NT.SBLGNT.1.2", "repository": "Faithlife/SBLGNT", "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c", "file": "data/sblgnt/text/2Cor.txt", "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89", "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18", "source_filename": "2corinthians-pinned-greek.txt"},
+    "galatians": {"id": "NT.SBLGNT.1.2", "repository": "Faithlife/SBLGNT", "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c", "file": "data/sblgnt/text/Gal.txt", "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6", "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1", "source_filename": "galatians-pinned-greek.txt"},
+    "ephesians": {"id": "NT.SBLGNT.1.2", "repository": "Faithlife/SBLGNT", "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c", "file": "data/sblgnt/text/Eph.txt", "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c", "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a", "source_filename": "ephesians-pinned-greek.txt"}
+  },
+  "book_record_files": ["EPHESIANS_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Complete active fifty-chapter block; queue Ephesians 6 through 2 Peter 1 as the next fifty-chapter block.",
+  "completed_block_scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+  "batch_scope": "Romans 16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+  "batch_chapters": 41,
+  "batch_verses": 998,
+  "batch_source_records": 997,
+  "batch_reader_filename": "Fluent-Romans-16-Ephesians-5.md",
+  "batch_ledgers": [
+    "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json"
+  ],
+  "active_block_ranges": [],
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["1:1", "1:3", "1:4", "1:5", "1:6", "1:7", "1:8", "1:9", "1:10", "1:11", "1:12", "1:13", "1:14", "1:15", "1:17", "1:18", "1:19", "1:20", "1:21", "1:22", "1:23", "2:1", "2:2", "2:3", "2:5", "2:6", "2:7", "2:8", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14", "2:15", "2:16", "2:17", "2:18", "2:19", "2:20", "2:21", "2:22", "3:1", "3:2", "3:3", "3:5", "3:6", "3:7", "3:8", "3:9", "3:10", "3:11", "3:12", "3:13", "3:15", "3:16", "3:17", "3:18", "3:19", "3:20", "4:1", "4:2", "4:3", "4:4", "4:6", "4:7", "4:8", "4:9", "4:10", "4:11", "4:12", "4:13", "4:14", "4:15", "4:16", "4:17", "4:18", "4:19", "4:20", "4:22", "4:23", "4:24", "4:25", "4:26", "4:28", "4:29", "4:30", "4:31", "4:32", "5:1", "5:2", "5:3", "5:4", "5:5", "5:6", "5:8", "5:9", "5:10", "5:11", "5:12", "5:13", "5:14", "5:15", "5:16", "5:18", "5:19", "5:20", "5:21", "5:22", "5:23", "5:24", "5:25", "5:26", "5:27", "5:28", "5:29", "5:30", "5:31", "5:32", "5:33"],
+  "apparatus": {
+    "1": {"notes": [["01", "The words ‘in Ephesus’ are bracketed in the pinned Greek because important early witnesses omit them. The bracket remains visible in the main text."], ["03–14", "The blessing unfolds as one long Greek sentence, repeatedly locating election, redemption, inheritance, and the Spirit ‘in Christ.’"], ["05", "‘Adoption as sons’ names full legal inheritance status in the ancient setting and is applied to the whole addressed community."], ["23", "The relation between the church as Christ's fullness and Christ as the one filling all things is grammatically dense; the wordplay is retained."]], "vocabulary": [["10", "οἰκονομία (oikonomia)", "Administration, stewardship, or ordered plan."], ["14", "ἀρραβών (arrabōn)", "Down payment, deposit, or first installment."]]},
+    "2": {"notes": [["01–10", "The movement is from death and enslaving powers to life with Christ by grace, then to good works God prepared; works are result and vocation, not grounds for boasting."], ["11–13", "The passage names Gentile alienation from Israel's citizenship and covenants before describing nearness in Christ; the history is not erased."], ["14–18", "Christ is peace, makes the two groups one, kills hostility through the cross, and gives both access to the Father in one Spirit."], ["19–22", "Political belonging, household membership, building, temple, and divine dwelling overlap as images of the reconciled community."]], "vocabulary": [["10", "ποίημα (poiēma)", "Workmanship, something made or crafted."], ["19", "πάροικος (paroikos)", "Resident foreigner or noncitizen living alongside others."]]},
+    "3": {"notes": [["01", "The sentence breaks off after Paul calls himself Christ's prisoner for the Gentiles and resumes the ‘for this reason’ language in verse 14."], ["06", "Three Greek compounds beginning with ‘co-’ describe Gentiles as equal heirs, one body, and equal participants in the promise."], ["12", "The Greek can mean faith in Christ or Christ's faithfulness. The main text uses Christ's faithfulness as the ground of confident access."], ["18", "Width, length, height, and depth have no explicit noun in the verse; the translation does not add one."]], "vocabulary": [["06", "συγκληρονόμος (synklēronomos)", "Coheir, one sharing the same inheritance."], ["10", "πολυποίκιλος (polypoikilos)", "Richly varied, many-sided, or multicolored."]]},
+    "4": {"notes": [["08", "The quotation literally says he ‘took captivity captive,’ an ancient victory image retained without identifying the captives."], ["09", "‘The lower parts of the earth’ can mean the earth below the heavens or lower regions within the earth; the translation leaves the phrase open."], ["11–13", "The gifted leaders equip the saints for ministry and the building up of the body; maturity is a shared destination for ‘all of us.’"], ["26", "The text permits anger while forbidding sin and prolonged provocation; it does not call rage or harm righteous."], ["28", "The reversal from stealing leads beyond private labor to sharing with a person in need."]], "vocabulary": [["12", "καταρτισμός (katartismos)", "Equipping, preparing, or restoring for service."], ["15", "ἀληθεύω (alētheuō)", "Speak or practice truth."]]},
+    "5": {"notes": [["11–14", "Exposure by light concerns fruitless hidden works. The passage does not require publicizing victims' experiences or repeating shameful acts in detail."], ["18–21", "Being filled by the Spirit is expressed through mutual song, thanksgiving, and submission to one another; verse 21 grammatically frames the household address that follows."], ["22", "The pinned Greek has no explicit verb in this verse; ‘submit’ is supplied from the immediately preceding command to mutual submission."], ["25–29", "Husbands are commanded to love through self-giving, cleansing purpose, bodily identification, nourishment, and tender care. The image cannot justify coercion or injury."], ["33", "The verb can mean fear or reverence. ‘Respect’ conveys its relational force here while the husband's repeated command remains love."]], "vocabulary": [["16", "ἐξαγοράζω (exagorazō)", "Buy up or make full use of an opportunity."], ["21", "ὑποτάσσω (hypotassō)", "Order oneself under or submit."], ["29", "θάλπω (thalpō)", "Warm, cherish, or tenderly care for."]]}
+  }
+}

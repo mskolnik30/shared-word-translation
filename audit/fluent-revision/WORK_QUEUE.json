@@ -611,12 +611,37 @@
       "scope": "Romans 7–15",
       "verses": 245,
       "ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json"
+    },
+    {
+      "scope": "Romans 16",
+      "verses": 24,
+      "ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json"
+    },
+    {
+      "scope": "1 Corinthians 1–16",
+      "verses": 437,
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json"
+    },
+    {
+      "scope": "2 Corinthians 1–13",
+      "verses": 257,
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json"
+    },
+    {
+      "scope": "Galatians 1–6",
+      "verses": 149,
+      "ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json"
+    },
+    {
+      "scope": "Ephesians 1–5",
+      "verses": 131,
+      "ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Romans 16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
-      "action": "Continue the remaining 41 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+      "action": "Begin the next fifty-chapter draft block with Ephesians 6. Read every verified pinned Greek verse before authoring; retain all review and publication guards."
     },
     {
       "scope": "Whole-book Mark consistency review",
@@ -629,6 +654,22 @@
     {
       "scope": "Whole-book John consistency review",
       "action": "All 21 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review recurring terms, signs, festival chronology, speakers, textual variants, and cross-batch consistency. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book Romans consistency review",
+      "action": "All 16 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review argument flow, repeated law/faith/righteousness language, quotations, names, the Romans 16 versification difference, and cross-batch consistency. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book 1 Corinthians consistency review",
+      "action": "All 16 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review the letter's argument, slogans, gifts, bodily language, social harm, resurrection vocabulary, textual variants, and repeated terms. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book 2 Corinthians consistency review",
+      "action": "All 13 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review comfort/affliction, apostolic weakness and authority, collection language, speakers, irony, and the chapter 13 public/source versification mapping. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book Galatians consistency review",
+      "action": "All 6 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review law, faith/faithfulness, promise, flesh/Spirit, freedom/slavery, names, and sustained polemical voice. Independent editorial review remains pending."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -828,17 +869,25 @@
       "verses": 1829,
       "completion_evidence": "audit/fluent-revision/2026-09-16-romans-1-6/block-boundary-verification.json",
       "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
+    },
+    {
+      "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+      "status": "DRAFT_COMPLETED",
+      "chapters": 50,
+      "verses": 1243,
+      "completion_evidence": "audit/fluent-revision/2026-09-17-ephesians-1-5/block-boundary-verification.json",
+      "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
     }
   ],
   "active_fifty_chapter_block": {
-    "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+    "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 9,
-    "completed_scope": "Romans 7–15",
-    "completed_verses": 245,
-    "remaining_scope": "Romans 16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
-    "remaining_chapters": 41,
-    "qualification": "Nine chapters in this fifty-chapter block now have source-based revision draft coverage. The block remains incomplete; independent editorial review and reader testing remain pending."
+    "completed_chapters": 0,
+    "completed_scope": "None",
+    "completed_verses": 0,
+    "remaining_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "remaining_chapters": 50,
+    "qualification": "The preceding fifty-chapter block is draft-complete and structurally verified. This next block is queued but has not yet begun; independent editorial review and reader testing remain pending."
   }
 }

@@ -2,203 +2,187 @@
   "book": "Romans",
   "chapter": 16,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 27,
-  "included_verse_labels": 26,
-  "critical_text_gap": [
-    25,
-    26,
-    27
-  ],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-romans-16-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_16_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_16.md",
-    "blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "verse_labels": 24,
-  "source_record_count": 24,
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 16:1",
-        "source_chapter": 16,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "03eddb3008d76544cc4aef69c973d941c54a4bc0b1c666ea3283a48fd366ca36"
-      },
-      "2": {
-        "source_ref": "Romans 16:2",
-        "source_chapter": 16,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "334933d61c11c764bfc9cf3969266c517dbdb1ef49884cb6085b13da08a10a13"
-      },
-      "3": {
-        "source_ref": "Romans 16:3",
-        "source_chapter": 16,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "c6e7b01329d093e47eaad6274a4d4c9f24cd742fb442008bc33d4e15ce5b413b"
-      },
-      "4": {
-        "source_ref": "Romans 16:4",
-        "source_chapter": 16,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "caac416b17ba9f72215dc6418e2f13041f2dba5ae8503f76edfddb2c6e19a854"
-      },
-      "5": {
-        "source_ref": "Romans 16:5",
-        "source_chapter": 16,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "feb7b7b5eb1fa20437ec72892836bd24f404412d99611368871510f2136e2fdc"
-      },
-      "6": {
-        "source_ref": "Romans 16:6",
-        "source_chapter": 16,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "c1cd4f64c5eff8bcde0eff023d1462b1a8b6d19e8c37713551c5ef9747bc68ac"
-      },
-      "7": {
-        "source_ref": "Romans 16:7",
-        "source_chapter": 16,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "e9737a1564bf36594b7e012c26c590d2ef70c47a76c9acd3241aa4be93b2273f"
-      },
-      "8": {
-        "source_ref": "Romans 16:8",
-        "source_chapter": 16,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "bd92d495670262d86ffffb582727c6b5e574256d0136e8cf27f5910464dc976c"
-      },
-      "9": {
-        "source_ref": "Romans 16:9",
-        "source_chapter": 16,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e75fbad0386d69fb9e99833b69fb59033598920a92756bca75b476ce820e5406"
-      },
-      "10": {
-        "source_ref": "Romans 16:10",
-        "source_chapter": 16,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "c58cb4ee8ccadd729e884719f0526b811ef19c49b194f55f9c00ba4879c61f3a"
-      },
-      "11": {
-        "source_ref": "Romans 16:11",
-        "source_chapter": 16,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "8faa0731d9af773543d5027787c5c736d4eb6e773b7f105b9840afa47aac0e87"
-      },
-      "12": {
-        "source_ref": "Romans 16:12",
-        "source_chapter": 16,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "9474e864711a83b990d8531e1ab2c81733e6525e2a4f4dff9d1e85753e898a5b"
-      },
-      "13": {
-        "source_ref": "Romans 16:13",
-        "source_chapter": 16,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "2b1456b0744e14f3ff23925a8371def674b75fab3e9bbe8ad115dd0dbfdd4235"
-      },
-      "14": {
-        "source_ref": "Romans 16:14",
-        "source_chapter": 16,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "ed09e3758495f3db51a520dd74e4061c8d8f2509b3c1f0f3b16f3202d26f8ff1"
-      },
-      "15": {
-        "source_ref": "Romans 16:15",
-        "source_chapter": 16,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "b1b008f71559f462394b18d925d8cb3d735ff51b8b276f9598aca4372efedfe3"
-      },
-      "16": {
-        "source_ref": "Romans 16:16",
-        "source_chapter": 16,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "65b0fec14b28c43ed159eaf412a9be111a47809b9e77acc052e65b85e0e3bf72"
-      },
-      "17": {
-        "source_ref": "Romans 16:17",
-        "source_chapter": 16,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "905751afe08fcb9825c8c06c4e09ce26a9621235f92b8fa59dd0874fb3fe7b85"
-      },
-      "18": {
-        "source_ref": "Romans 16:18",
-        "source_chapter": 16,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "d62546a23fdc715a5aaca480310aceef07894687a71ae3dd74342bd21336b3ed"
-      },
-      "19": {
-        "source_ref": "Romans 16:19",
-        "source_chapter": 16,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "2cad7d4fa7ea3c678c8d826c84d02aed29e925a22509355a17a818b54235db55"
-      },
-      "20": {
-        "source_ref": "Romans 16:20",
-        "source_chapter": 16,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "29810a0acf32709ba833a0db473acba1c3610136aafb1441d20a6c1c4e1d1933"
-      },
-      "21": {
-        "source_ref": "Romans 16:21",
-        "source_chapter": 16,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "cc2e3c37d35a50cabccb713041c6e28f197dedca411222b51f3240ddb9bf7ed5"
-      },
-      "22": {
-        "source_ref": "Romans 16:22",
-        "source_chapter": 16,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "a0cccacb44e0450db9e2517d7ce8615b2963d64f776c6a0653478d0df5a188b6"
-      },
-      "23": {
-        "source_ref": "Romans 16:23",
-        "source_chapter": 16,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "85c2d3e847f66b2ddfe53ee1df9276c555e88494be40f9e056f22296c61310d6"
-      },
-      "24": {
-        "source_ref": "Romans 16:24",
-        "source_chapter": 16,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "87de3e742e4198cd1438085fde888526932e83509d5354491b9ebf9d8196c616"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      16
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 16,
+    "verse_count": 24,
+    "path": "translations/fluent/NT/romans/Romans_16.md",
+    "before_sha256": "b62e06607f13fa6f1b58c1ce3df187ff1883d9d1f62902b83163f722d8f57de0",
+    "after_sha256": "10e1e5cc3008d09b9a47fe056c1f0957cdc3882214c70febbd85c1426e968b5f",
+    "tsw_comparator_path": "books/NT/romans/Romans_16.md",
+    "tsw_comparator_sha256": "ee4723dba7263eeeda3d9290d4dd225ee7b1a617dcfd5c3be348e51aa1a3b65a",
+    "tsw_public_labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      25,
+      26,
+      27
+    ],
+    "tsw_unmatched_source_labels": [
+      24
+    ],
+    "tsw_additional_public_labels": [
+      25,
+      26,
+      27
+    ],
+    "tsw_alignment_reason": "The pinned SBLGNT main text contains public verse 24 and omits the movable doxology numbered 25–27; TSW omits 24 and prints the doxology at 25–27. No non-equivalent comparator text is silently aligned."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 16:1",
+      "delta": "F3",
+      "rationale": "Keeps Phoebe's kinship and named church ministry.",
+      "source_reference": "Rom 16:1",
+      "source_verse_sha256": "c99132b72160bedc3d1769126be5bcc6398842adb529d19c52e2f12271162bf5",
+      "before": "I commend to you our sister Phoebe, a deacon of the church in Cenchreae.",
+      "after": "I commend to you our sister Phoebe, who is also a deacon of the church in Cenchreae.",
+      "tsw_comparator": "I commend to you Phoebe our sister, who is also a servant of the church in Cenchreae,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:2",
+      "delta": "F3",
+      "rationale": "Preserves welcome, practical assistance, and Phoebe's patronage.",
+      "source_reference": "Rom 16:2",
+      "source_verse_sha256": "dfc56650e91b1c26cd17365ad3ee53737d06e8acea43b58508b3967b39fe5b7b",
+      "before": "Welcome her in the Lord in a way worthy of the holy ones, and help her in whatever matter she may need from you, because she has been a benefactor of many people, including me.",
+      "after": "Welcome her in the Lord in a manner worthy of the saints, and assist her in whatever matter she may need from you, for she has been a benefactor of many people, including me.",
+      "tsw_comparator": "so that you may receive her in the Lord in a manner worthy of the holy ones, and assist her in whatever matter she may have need of you, for she herself has been a benefactor of many, including myself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.783784,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:7",
+      "delta": "F3",
+      "rationale": "Retains Junia's feminine name, imprisonment, and apostolic prominence.",
+      "source_reference": "Rom 16:7",
+      "source_verse_sha256": "7e770dd20984341af29eb0f53d6043360ed9ca64ade83d30e32eb7dbdc0327dc",
+      "before": "Greet Andronicus and Junia, my relatives and fellow prisoners. They are outstanding among the apostles, and they were in Christ before me.",
+      "after": "Greet Andronicus and Junia, my relatives and fellow prisoners. They are outstanding among the apostles, and they were in Christ before me.",
+      "tsw_comparator": "Greet Andronicus and Junia, my kinsmen and fellow prisoners, who are outstanding among the apostles, who also were in Christ before me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:17",
+      "delta": "F3",
+      "rationale": "Preserves the warning's objects, standard, and response.",
+      "source_reference": "Rom 16:17",
+      "source_verse_sha256": "87768e2c41026de9ca2421c886b2baa819ad38ee8983da10a30ee32b47209263",
+      "before": "I urge you, brothers and sisters, to watch out for those who cause divisions and put obstacles in the way contrary to the teaching you learned. Turn away from them.",
+      "after": "Now I urge you, brothers and sisters, to watch out for those who cause divisions and create obstacles contrary to the teaching you learned. Turn away from them.",
+      "tsw_comparator": "Now I urge you, brothers, to watch out for those who cause divisions and obstacles contrary to the teaching which you learned, and turn away from them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:18",
+      "delta": "F3",
+      "rationale": "Retains the belly idiom's appetite sense and the method of deception.",
+      "source_reference": "Rom 16:18",
+      "source_verse_sha256": "e0610aaf7808e564e1baa494ccd135e04081ef6a22ec1099e7aba1efe9addfe6",
+      "before": "For such people do not serve our Lord Christ but their own appetites, and through smooth talk and flattery they deceive the hearts of unsuspecting people.",
+      "after": "For such people do not serve our Lord Christ but their own appetites, and through smooth talk and flattery they deceive the hearts of unsuspecting people.",
+      "tsw_comparator": "For such ones do not serve our Lord Christ, but their own belly, and by smooth speech and flattery they deceive the hearts of the unsuspecting.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:20",
+      "delta": "F3",
+      "rationale": "Preserves the peace/crushing tension and the pinned Christ reading.",
+      "source_reference": "Rom 16:20",
+      "source_verse_sha256": "90df434387e6bda7d4387ec1d1375b39a6daf5885c4c15dd292a495b7e7bbf06",
+      "before": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.",
+      "after": "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.",
+      "tsw_comparator": "And the God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:22",
+      "delta": "F3",
+      "rationale": "Keeps the scribe's first-person identification.",
+      "source_reference": "Rom 16:22",
+      "source_verse_sha256": "74dde24feea5cc25fdf5b0aaa40cc64416abf7c7007170287cca5959e7cc69d9",
+      "before": "I, Tertius, the one who wrote down this letter, greet you in the Lord.",
+      "after": "I, Tertius, who wrote down this letter, greet you in the Lord.",
+      "tsw_comparator": "I, Tertius, who wrote this letter, greet you in the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.956522,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 16:24",
+      "delta": "F3",
+      "rationale": "Follows the pinned main-text benediction and its inclusive scope.",
+      "source_reference": "Rom 16:24",
+      "source_verse_sha256": "825169657df4ca1479889760cd9f0e59f978a8da8064064156854240fd407643",
+      "before": "The grace of our Lord Jesus Christ be with all of you. Amen.",
+      "after": "The grace of our Lord Jesus Christ be with all of you. Amen.",
+      "tsw_comparator": "",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.0,
+      "editorial_status": "REVIEW_PENDING",
+      "tsw_comparator_status": "UNAVAILABLE_PUBLIC_LABEL",
+      "tsw_comparator_reason": "The pinned SBLGNT main text contains public verse 24 and omits the movable doxology numbered 25–27; TSW omits 24 and prints the doxology at 25–27. No non-equivalent comparator text is silently aligned."
+    }
+  ]
 }

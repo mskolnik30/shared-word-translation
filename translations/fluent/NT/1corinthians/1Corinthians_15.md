@@ -4,267 +4,182 @@ testament: NT
 chapter: 15
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
 ---
+
 
 ## The Resurrection of Christ
 
 <p>
-v01: Now I reveal to you, brothers and sisters, the good news which I proclaimed to you, which also you received, in which also you stand,
-
-v02: through which also you are being saved, if you hold firmly to the word I proclaimed to you—unless you believed in vain.
+v01: Now I remind you, brothers and sisters, of the good news I proclaimed to you, which you also received and in which you stand.
+v02: Through it you are also being saved, if you hold firmly to the message I proclaimed to you—unless you believed for nothing.
 </p>
 
 <p>
-v03: For I delivered to you as of first importance what I also received: that Christ died for our sins according to the Scriptures,
-
-v04: and that he was buried, and that he has been raised on the third day according to the Scriptures,
+v03: For I handed on to you as of first importance what I also received: that Christ died for our sins according to the Scriptures,
+v04: that he was buried, that he has been raised on the third day according to the Scriptures,
 </p>
 
 <p>
-v05: and that he appeared to Cephas, then to the twelve;
-
-v06: then he appeared to more than five hundred brothers and sisters at one time, most of whom remain until now, though some have fallen asleep;
-
-v07: then he appeared to James, then to all the apostles;
-
-v08: and last of all, as to one untimely born, he appeared also to me.
+v05: and that he appeared to Cephas, then to the Twelve.
+v06: Then he appeared to more than five hundred brothers and sisters at one time, most of whom remain alive until now, though some have fallen asleep in death.
+v07: Then he appeared to James, then to all the apostles.
+v08: Last of all, as to one untimely born, he appeared also to me.
 </p>
 
 <p>
-v09: For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God.
-
-v10: But by the grace of God I am what I am, and his grace toward me was not in vain; but I labored more abundantly than all of them—yet not I, but the grace of God with me.
-
-v11: So whether it was I or they, so we proclaim and so you believed.
+v09: For I am the least of the apostles, unworthy to be called an apostle, because I persecuted God's church.
+v10: But by God's grace I am what I am, and his grace toward me was not empty. Instead, I worked harder than all of them—yet not I, but God's grace with me.
+v11: Whether, then, it was I or they, this is what we proclaim, and this is what you believed.
 </p>
 
 ## The Resurrection of the Dead
 
 <p>
-v12: Now if Christ is proclaimed as having been raised from the dead, how do some among you say that there is no resurrection of the dead?
-
-v13: But if there is no resurrection of the dead, neither has Christ been raised;
-
-v14: and if Christ has not been raised, then our proclamation is empty, and your trust is empty.
+v12: Now if Christ is proclaimed as raised from the dead, how can some among you say there is no resurrection of the dead?
+v13: But if there is no resurrection of the dead, then not even Christ has been raised.
+v14: And if Christ has not been raised, then our proclamation is empty, and your faith is empty.
 </p>
 
 <p>
-v15: Moreover we are even found to be false witnesses of God, because we testified against God that he raised Christ, whom he did not raise if indeed the dead are not raised.
-
-v16: For if the dead are not raised, neither has Christ been raised;
-
-v17: and if Christ has not been raised, your trust is futile; you are still in your sins.
+v15: We are also found to be false witnesses about God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised.
+v16: For if the dead are not raised, not even Christ has been raised.
+v17: And if Christ has not been raised, your faith is futile; you are still in your sins.
 </p>
 
 <p>
 v18: Then those also who have fallen asleep in Christ have perished.
-
-v19: If in this life only we have hoped in Christ, we are of all people most to be pitied.
+v19: If we have placed our hope in Christ only for this life, we are more pitiful than all people.
 </p>
 
 <p>
-v20: But now Christ has been raised from the dead, the firstfruits of people who have fallen asleep.
-
-v21: For since through a man came death, through a man also came resurrection of the dead.
-
-v22: For as in Adam all die, so also in Christ all will be made alive.
+v20: But now Christ has been raised from the dead, the firstfruits of those who have fallen asleep.
+v21: For since death came through a human being, resurrection of the dead also comes through a human being.
+v22: For just as in Adam all die, so also in Christ all will be made alive.
 </p>
 
 <p>
-v23: But each in his own order: Christ the firstfruits, then people who are Christ’s at his coming,
-
-v24: then the end, when he hands over the kingdom to God the Father, when he abolishes all rule and all authority and power.
+v23: But each in proper order: Christ the firstfruits, then at his coming those who belong to Christ.
+v24: Then comes the end, when he hands over the kingdom to God the Father, after he brings to an end every ruler and every authority and power.
 </p>
 
 <p>
-v25: For he must reign until he has put all enemies under his feet.
-
+v25: For he must reign until he puts all his enemies under his feet.
 v26: The last enemy to be abolished is death.
 </p>
 
 <p>
-v27: For “he has put everything in subjection under his feet.” But when it says “everything are put in subjection,” it is evident that it excludes the one who subjected everything to him.
-
-v28: And when everything are subjected to him, then the Son himself also will be subjected to the one who subjected everything to him, so that God may be all in all.
+v27: For “he subjected all things under his feet.” But when it says all things are subjected, it is clear that this excludes the one who subjected all things to him.
+v28: And when all things are subjected to him, then the Son himself will also be subjected to the one who subjected all things to him, so that God may be all in all.
 </p>
 
 <p>
-v29: Otherwise, what will those do who are baptized on behalf of the dead? If the dead are not raised at all, why then are they baptized on behalf of them?
+v29: Otherwise, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
 </p>
 
 <p>
-v30: Why also are we in danger every hour?
-
-v31: I die daily—I affirm it, brothers and sisters, by the boasting in you which I have in Christ Jesus our Lord.
-
-v32: If according to man I fought with beasts at Ephesus, what does it profit me? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
+v30: And why are we in danger every hour?
+v31: I die every day—I swear by my pride in you, brothers and sisters, which I have in Christ Jesus our Lord.
+v32: If I fought wild beasts in Ephesus merely as a human, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
 </p>
 
 <p>
-v33: Do not be deceived: “Bad company corrupts good morals.”
-
-v34: Become sober as you ought, and do not sin; for some have no knowledge of God. I speak to your shame.
+v33: Do not be deceived: “Bad company corrupts good character.”
+v34: Come back to your senses as you ought, and stop sinning, for some have no knowledge of God. I say this to your shame.
 </p>
 
 ## The Resurrection Body
 
 <p>
-v35: But someone will say, “How are the dead raised? And with what kind of body do they come?”
-
-v36: Foolish one! What you sow does not come to life unless it dies.
+v35: But someone will ask, “How are the dead raised? And with what kind of body do they come?”
+v36: Foolish person! What you sow does not come to life unless it dies.
 </p>
 
 <p>
-v37: And what you sow, you do not sow the body that will be, but a bare seed, perhaps of wheat or of some other grain;
-
-v38: but God gives it a body as he willed, and to each of the seeds its own body.
+v37: And what you sow is not the body that will be, but a bare seed, perhaps of wheat or some other grain.
+v38: But God gives it a body as he has chosen, and to each kind of seed its own body.
 </p>
 
 <p>
-v39: Not all flesh is the same flesh, but one of humans, another flesh of animals, another of birds, and another of fish.
+v39: Not all flesh is the same: humans have one kind, land animals another, birds another, and fish another.
 </p>
 
 <p>
-v40: And there are heavenly bodies and earthly bodies, but the glory of the heavenly is one, and the glory of the earthly is another.
-
-v41: There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory.
+v40: There are also heavenly bodies and earthly bodies, but the glory of the heavenly is one kind and that of the earthly another.
+v41: The sun has one glory, the moon another, and the stars another; indeed, star differs from star in glory.
 </p>
 
 <p>
-v42: So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption.
-
-v43: It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.
-
-v44: It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual.
+v42: So also is the resurrection of the dead: what is sown perishable is raised imperishable;
+v43: it is sown in dishonor and raised in glory; it is sown in weakness and raised in power;
+v44: it is sown a natural body and raised a spiritual body. If there is a natural body, there is also a spiritual body.
 </p>
 
 <p>
-v45: So also it is written, “The first man Adam became a living soul”; the last Adam became a life-giving spirit.
-
-v46: However, the spiritual is not first, but the natural, then the spiritual.
+v45: So it is written: “The first human, Adam, became a living being”; the last Adam became a life-giving Spirit.
+v46: But the spiritual did not come first; the natural did, and then the spiritual.
 </p>
 
 <p>
-v47: The first man is from the earth, earthy; the second man is from heaven.
-
-v48: As is the earthy, such also are the earthy; and as is the heavenly, such also are the heavenly.
-
-v49: And just as we have borne the image of the earthy, we will also bear the image of the heavenly.
+v47: The first human was from the earth, made of dust; the second human is from heaven.
+v48: As was the one made of dust, so are those made of dust; and as is the heavenly one, so are those who are heavenly.
+v49: And just as we have borne the image of the one made of dust, we will also bear the image of the heavenly one.
 </p>
 
 <p>
-v50: Now this I say, brothers and sisters, that flesh and blood are not able to inherit the kingdom of God, nor does corruption inherit incorruption.
+v50: Now I say this, brothers and sisters: flesh and blood cannot inherit God's kingdom, nor does the perishable inherit the imperishable.
 </p>
 
 ## The Mystery of Transformation
 
 <p>
-v51: Look, I tell you a mystery: we will not all sleep, but we will all be changed,
-
-v52: in a moment, in the twinkling of an eye, at the last trumpet; for the trumpet will sound, and the dead will be raised incorruptible, and we will be changed.
+v51: Look, I tell you a mystery: we will not all fall asleep, but we will all be changed,
+v52: in an instant, in the blink of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.
 </p>
 
 <p>
-v53: For this corruptible must put on incorruption, and this mortal must put on immortality.
-
-v54: But when this corruptible puts on incorruption, and this mortal puts on immortality, then will come about the word that is written:
-
-“Death has been swallowed up in victory.
+v53: For this perishable body must put on imperishability, and this mortal body must put on immortality.
+v54: And when this perishable body puts on imperishability and this mortal body puts on immortality, then the written saying will come true: “Death has been swallowed up in victory.”
 </p>
 
 <p>
-v55: O death, where is your victory?
-
-O death, where is your sting?”
+v55: “Where, death, is your victory? Where, death, is your sting?”
 </p>
 
 <p>
-v56: The sting of death is sin, and the power of sin is the law;
-
-v57: but thanks be to God, who gives us the victory through our Lord Jesus Christ.
+v56: The sting of death is sin, and the power of sin is the law.
+v57: But thanks be to God, who gives us the victory through our Lord Jesus Christ.
 </p>
 
 <p>
-v58: So, my beloved brothers and sisters, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor in the Lord is not in vain.
+v58: Therefore, my beloved brothers and sisters, be steadfast and immovable, always excelling in the Lord's work, because you know that your labor in the Lord is not empty.
 </p>
 
 ## Notes
 
-v01–04: Gospel defined by death, burial, and resurrection.
+v03–8: Paul recites received testimony: death for sins, burial, resurrection, and appearances. His image for himself in verse 8 is literally an untimely or traumatic birth.
 
-v12–19: Denial of resurrection undermines the entire faith.
+v22: Both clauses use ‘all.’ Verse 23 immediately gives an order beginning with Christ and then those who belong to him at his coming; the translation does not settle later debates about scope.
 
-v20–23: Christ as firstfruits establishes sequence.
+v29: Baptism ‘for the dead’ is mentioned as an existing practice in an argument for resurrection. Its procedure and Paul's evaluation are not explained.
 
-v24–28: Final subjection culminates in God’s total reign.
+v32: Fighting wild beasts in Ephesus may be literal or metaphorical. The main text retains the image.
 
-v29–34: Ethical implications flow from resurrection reality.
+v44: ‘Spiritual body’ remains a body animated and transformed by the Spirit, not a nonphysical ghost.
 
-v35–44: Resurrection body differs in nature and glory.
+v51: The pinned text says ‘we will not all sleep, but we will all be changed.’ Variant traditions arrange the negatives differently.
 
-v45–49: Adam–Christ contrast defines transformation.
-
-v50–57: Victory over death is eschatological and complete.
-
-v58: Resurrection hope grounds perseverance.
+v55: The pinned text repeats ‘death’ in both questions; some traditions address Hades in the second.
 
 ## Vocabulary
 
-v03: παραδίδωμι (paradidōmi)
-“To deliver.”
+v04: **ἐγείρω (egeirō)**: Raise up; in the perfect tense here, has been raised.
 
-v04: ἐγείρω (egeirō)
-“To raise.”
+v20: **ἀπαρχή (aparchē)**: Firstfruits, the first portion anticipating the harvest.
 
-v06: ὀφθάνομαι (ophthanomai)
+v44: **πνευματικός (pneumatikos)**: Spiritual, characterized or animated by the Spirit.
 
-v05: “To appear.”
-
-v09: ἐλάχιστος (elachistos)
-“Least.”
-
-v12: ἀνάστασις (anastasis)
-“Resurrection.”
-“Resurrection.”
-
-v14: κενός (kenos)
-“Empty.”
-
-v17: μάταιος (mataios)
-“Futile.”
-
-v20: ἀπαρχή (aparchē)
-“Firstfruits.”
-
-v24: καταργέω (katargeō)
-“To abolish.”
-
-v26: ἔσχατος (eschatos)
-“Last.”
-
-v35: σῶμα (sōma)
-“Body.”
-
-v42: φθορά (phthora)
-“Corruption.”
-
-v44: ψυχικός (psychikos)
-“Natural.”
-
-v44: πνευματικός (pneumatikos)
-“Spiritual.”
-
-v51: μυστήριον (mystērion)
-“Mystery.”
-
-v52: ἄτομος (atomos)
-“Moment.”
-
-v53: ἀθανασία (athanasia)
-“Immortality.”
-
-v57: νῖκος (nikos)
-“Victory.”
-
-v06: ὁράω (horaō)
-“To see.” In the passive form ὤφθη, “to appear; be seen.”
+v53: **ἀθανασία (athanasia)**: Immortality, freedom from death.

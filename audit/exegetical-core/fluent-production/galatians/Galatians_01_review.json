@@ -2,188 +2,244 @@
   "book": "Galatians",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 24,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "445de8dccfd3b14d192d9dae872b84a55a0eadef83c97a0a5ac727b46d7caeba"
-      },
-      "2": {
-        "source_ref": "Galatians 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "ff2ffdc5d9a376cece4f0b1e186114e50b7cbc366c0c5f8a7b642e206c98c162"
-      },
-      "3": {
-        "source_ref": "Galatians 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "6fbd73588368ee6a453f86686f9312f8b22c7354bd01c9fe94be8afac34bc2d3"
-      },
-      "4": {
-        "source_ref": "Galatians 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "c5a42220c73a70db67b3c0fa3146ab0ac62395c41cddc53a5febfc11391dfe92"
-      },
-      "5": {
-        "source_ref": "Galatians 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "e5b2ef45c16082fd702830de94108b49112afc510c6b59bb1e74f866a6447844"
-      },
-      "6": {
-        "source_ref": "Galatians 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "70ece0537998862b046bf580cf8048eccb851fc08847c1a9a10c0e93ea8a17df"
-      },
-      "7": {
-        "source_ref": "Galatians 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "9a699911cf514587b1c5d224de4af54d9c3a0b66887dc15b28c9ab9df9e8c2a6"
-      },
-      "8": {
-        "source_ref": "Galatians 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "ad538db3d72f11a19fc79c5643b26c6542fcd6355eced51b8dbd80147cbffa24"
-      },
-      "9": {
-        "source_ref": "Galatians 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "0313fe43ab49dc65a80849fbac4b9a2d5176ad20b9d170267ccf4cc6e5a340bc"
-      },
-      "10": {
-        "source_ref": "Galatians 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "5ae77eb264684fc3d788ec725fc11e87c9326a763c22adcf03f1fa60dd953358"
-      },
-      "11": {
-        "source_ref": "Galatians 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "c6bfc0c4d3ec37996a6bf0abec7f1bd54c135ff010d132af591a6f219f3de55f"
-      },
-      "12": {
-        "source_ref": "Galatians 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "bdbb1eb78fd60517adf915f0857d895cf68c2f2454acc6b6de995fa84952ed00"
-      },
-      "13": {
-        "source_ref": "Galatians 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "cff9ef41e9b5244a874f138b7a73bd05725297f095fe360d0812f01ccd539334"
-      },
-      "14": {
-        "source_ref": "Galatians 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "25db2789d8fa1c9751440d6d0e6a25757110900bc829f17e36cc569337663d3b"
-      },
-      "15": {
-        "source_ref": "Galatians 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "0e6da2a53dd09f32266c4927b64eba66d096662c5ee99eb36e5c153620184969"
-      },
-      "16": {
-        "source_ref": "Galatians 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "6f775b9529d430194593742a529df83b180c29e925b6c285f3224ad4c6b7cb64"
-      },
-      "17": {
-        "source_ref": "Galatians 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "b9cac5d2beb77fb23812ee706af988f65f60a1eaabd61697e0787e3a755121bf"
-      },
-      "18": {
-        "source_ref": "Galatians 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "ac25aa4e38992be0d34da7b1bba747e011688da25ea9d9b287e4c55058a68821"
-      },
-      "19": {
-        "source_ref": "Galatians 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "05e79532d95905bdf6408b94dc30955c2a27e7ac4300e8001bc78160aed1c322"
-      },
-      "20": {
-        "source_ref": "Galatians 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "fe810d60a983519345e614ae9a283f759081e9b944e5d3517dd011eb9d99c299"
-      },
-      "21": {
-        "source_ref": "Galatians 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "5b8811d6aeef373e3133cfd64ab2233d2b37490e2b273b89bbb0322dcf5f748f"
-      },
-      "22": {
-        "source_ref": "Galatians 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "3109d6b591af4b33eac2a5b1ed345c4a55e9a2a92f69b9ed9c944259a0328b76"
-      },
-      "23": {
-        "source_ref": "Galatians 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "a415619060ece557d5794e20271b65d533b88a294d8e1b5549f9f50a8d4d3f30"
-      },
-      "24": {
-        "source_ref": "Galatians 1:24",
-        "source_chapter": 1,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "9910df2988aa148f01e9f4d1b0a965bed6a149be0c85a11e1fb1c81528084a6d"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 24,
+    "path": "translations/fluent/NT/galatians/Galatians_01.md",
+    "before_sha256": "5057c393ad548356beaaa0ee2ed60985d292f342c57166c29017147a13cee3fb",
+    "after_sha256": "fe3b87ec4d03fdf7199f1e020eb4a2b0e99bb9b5f8048966d265a13506f2caaa",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_01.md",
+    "tsw_comparator_sha256": "ae55fbac5d9213ce20d7bebdee0a22a3b7b484746e49ae49de2a9d836dac4b15"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 1:1",
+      "delta": "F3",
+      "rationale": "Preserves Paul's emphatic denial and divine commissioning.",
+      "source_reference": "Gal 1:1",
+      "source_verse_sha256": "38599abf9d0ad19b1400b0e21f7629208e87dff8f315244efedd6c9e7a95b15e",
+      "before": "Paul, an apostle—not from human beings or through a human being, but through Jesus Christ and God the Father who raised him from the dead—",
+      "after": "Paul, an apostle—not from human beings nor through a human being, but through Jesus Christ and God the Father, who raised him from the dead—",
+      "tsw_comparator": "Paul, an apostle—not from human beings nor through a human, but through Jesus Christ and God the Father, who raised him from the dead—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.980392,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:4",
+      "delta": "F3",
+      "rationale": "Preserves self-giving, rescue, temporal evil, and divine will.",
+      "source_reference": "Gal 1:4",
+      "source_verse_sha256": "68da3400ccd3e0822d312487cd7bcfbc59101c2026d6526bdf384acd5518c172",
+      "before": "who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,",
+      "after": "who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,",
+      "tsw_comparator": "who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.956522,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:6",
+      "delta": "F3",
+      "rationale": "Preserves surprise, personal desertion, grace, and interrupted clause.",
+      "source_reference": "Gal 1:6",
+      "source_verse_sha256": "ff40ff5deaef29269f20d58f87fccf1d974782b232a8bbc16ea94b5d8f945ee3",
+      "before": "I am amazed that you are turning so quickly from the one who called you by Christ’s grace to a different good news—",
+      "after": "I am astonished that you are so quickly deserting the one who called you by Christ's grace and turning to a different gospel—",
+      "tsw_comparator": "I am astonished that you are so quickly turning away from the one who called you in the grace of Christ to a different good news—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693878,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:8",
+      "delta": "F3",
+      "rationale": "Preserves universal condition and severe curse.",
+      "source_reference": "Gal 1:8",
+      "source_verse_sha256": "9dcac8a727c6578b5d4c07b1e0111da22634f3834637485f5092ae7493d61d07",
+      "before": "But even if we or an angel from heaven should announce to you a good news contrary to what we announced to you, let that one be under a curse.",
+      "after": "But even if we or an angel from heaven should proclaim to you a gospel contrary to the one we proclaimed to you, let that one be accursed!",
+      "tsw_comparator": "But even if we or an angel from heaven should proclaim to you a good news contrary to the one we proclaimed to you, let him be accursed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.892857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:9",
+      "delta": "F3",
+      "rationale": "Keeps deliberate repetition and received message.",
+      "source_reference": "Gal 1:9",
+      "source_verse_sha256": "5488f4ff0fbd7573c851043f7c99f62de9cf408586e2aed3d8618c8f02a6685f",
+      "before": "As we have said before, I now say again: if anyone announces to you a good news contrary to what you received, let that one be under a curse.",
+      "after": "As we have said before, so now I say again: if anyone proclaims to you a gospel contrary to what you received, let that one be accursed!",
+      "tsw_comparator": "As we have said before, so now I say again: if anyone proclaims to you a good news contrary to what you received, let him be accursed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:10",
+      "delta": "F3",
+      "rationale": "Preserves rhetorical questions and servant allegiance.",
+      "source_reference": "Gal 1:10",
+      "source_verse_sha256": "d7da6b08822ba0a8d13613392012165632dff2c4332cba3d75f71f4813367128",
+      "before": "Am I now trying to win human approval or God’s? Or am I trying to please people? If I were still trying to please people, I would not be Christ’s servant.",
+      "after": "Am I now seeking human approval, or God's? Or am I trying to please people? If I were still pleasing people, I would not be Christ's servant.",
+      "tsw_comparator": "For am I now seeking the approval of human beings, or of God? Or am I trying to please human beings? If I were still pleasing human beings, I would not be a servant of Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.698413,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:12",
+      "delta": "F3",
+      "rationale": "Preserves both denials and revelation's possible source/content relation.",
+      "source_reference": "Gal 1:12",
+      "source_verse_sha256": "417d27f14f1a60437ea105e370fabf39a4450a99dff6cbd5f355f13ff2192a9a",
+      "before": "I did not receive it from a human being, nor was I taught it; I received it through a revelation of Jesus Christ.",
+      "after": "For I neither received it from a human being nor was I taught it; rather, I received it through a revelation of Jesus Christ.",
+      "tsw_comparator": "for I did not receive it from a human, nor was I taught it, but I received it through a revelation of Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:13",
+      "delta": "F3",
+      "rationale": "Names Paul's former religious setting and actual violence.",
+      "source_reference": "Gal 1:13",
+      "source_verse_sha256": "399f025e07439972dc009adb75ddba92c3ad0327479dd275c3c28f3d190c4e18",
+      "before": "You have heard about my former way of life in Judaism: how intensely I persecuted God’s church and tried to destroy it.",
+      "after": "For you have heard about my former way of life in Judaism: I intensely persecuted God's church and tried to destroy it.",
+      "tsw_comparator": "For you have heard of my former way of life in Judaism, how I persecuted the church of God beyond measure and tried to destroy it,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.791667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:14",
+      "delta": "F3",
+      "rationale": "Keeps comparison, kinship, and ancestral zeal.",
+      "source_reference": "Gal 1:14",
+      "source_verse_sha256": "9609b7c34e3c535ac5ec19913d3de32d9a21b4bc78664be7a884798c5197e0f1",
+      "before": "I was advancing in Judaism beyond many people my own age among my people, being far more zealous for the traditions of my ancestors.",
+      "after": "I advanced in Judaism beyond many contemporaries among my people, being far more zealous for my ancestral traditions.",
+      "tsw_comparator": "and I advanced in Judaism beyond many of my contemporaries among my people, being more exceedingly zealous for the traditions of my ancestors.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:15",
+      "delta": "F3",
+      "rationale": "Preserves prophetic calling language and suspended sentence.",
+      "source_reference": "Gal 1:15",
+      "source_verse_sha256": "4b828ed52c5a59c0fb87c8004f0eea84b85f07d92882360d2c9f19d755989adb",
+      "before": "But when God, who set me apart from my mother’s womb and called me through his grace, was pleased",
+      "after": "But when God, who set me apart from my mother's womb and called me through his grace, was pleased",
+      "tsw_comparator": "But when the one who set me apart from my mother’s womb and called me through his grace was pleased",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:16",
+      "delta": "F3",
+      "rationale": "Keeps inward/through-me ambiguity and mission purpose.",
+      "source_reference": "Gal 1:16",
+      "source_verse_sha256": "cc12cd23477f2764b4b2ffcd6879eff31eba9b89c19b828bede17371cc6508a5",
+      "before": "to reveal his Son in me so that I might announce the good news about him among the Gentiles, I did not immediately consult flesh and blood,",
+      "after": "to reveal his Son in me so that I might proclaim him among the Gentiles, I did not immediately consult flesh and blood,",
+      "tsw_comparator": "to reveal his Son in me, so that I might proclaim him among the Gentiles, I did not immediately consult with flesh and blood,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.978723,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:18",
+      "delta": "F3",
+      "rationale": "Keeps source-form Cephas and exact durations.",
+      "source_reference": "Gal 1:18",
+      "source_verse_sha256": "4cb03ea6042724bfc31161c780a6a6b589d6ce3f19fbc2bac4ea6ef2e668790a",
+      "before": "Then after three years I went up to Jerusalem to get acquainted with Cephas and stayed with him fifteen days.",
+      "after": "Then after three years I went up to Jerusalem to get acquainted with Cephas, and I stayed with him fifteen days.",
+      "tsw_comparator": "Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:19",
+      "delta": "F3",
+      "rationale": "Preserves the exception and specific relationship.",
+      "source_reference": "Gal 1:19",
+      "source_verse_sha256": "c02815711d5cb7a4df4f8a213b87964c3f70cefc2ec4494e2b49a737ad6954cb",
+      "before": "I saw none of the other apostles except James, the Lord’s brother.",
+      "after": "I saw none of the other apostles except James, the Lord's brother.",
+      "tsw_comparator": "but I saw none of the other apostles except James, the brother of the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.814815,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:22",
+      "delta": "F3",
+      "rationale": "Keeps facial unfamiliarity and location.",
+      "source_reference": "Gal 1:22",
+      "source_verse_sha256": "7941690dd1782da5b992aff142dadf2cfa857c3e599805025e4cabed574c41ff",
+      "before": "I was still unknown by sight to the churches of Judea that are in Christ.",
+      "after": "I was still unknown by sight to the churches of Judea that are in Christ.",
+      "tsw_comparator": "And I was still unknown by face to the churches of Judea that are in Christ;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 1:23",
+      "delta": "F3",
+      "rationale": "Preserves reported speech and reversal.",
+      "source_reference": "Gal 1:23",
+      "source_verse_sha256": "7233b66b7c056550ce49a02c0accc2b3e12be94df7ad0552c896023f35a58f71",
+      "before": "They only kept hearing, “The man who once persecuted us is now announcing the faith he once tried to destroy.”",
+      "after": "They only kept hearing, “The man who once persecuted us is now proclaiming the faith he once tried to destroy.”",
+      "tsw_comparator": "they only were hearing, “The one who once persecuted us is now proclaiming the faith he once tried to destroy.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_01.md",
-    "blob_sha": "8094c6d6b83e2156de9f7c341df10dac4cecb91e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

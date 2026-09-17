@@ -4,164 +4,104 @@ testament: NT
 chapter: 9
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
 ---
+
 
 ## Paul’s Rights as an Apostle
 
 <p>
 v01: Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?
-
-v02: If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord.
+v02: If I am not an apostle to others, at least I am to you, for you are the seal of my apostleship in the Lord.
 </p>
 
 <p>
-v03: My defense to people who examine me is this:
-
+v03: This is my defense to those who examine me.
 v04: Do we not have the right to eat and drink?
-
-v05: Do we not have the right to take along a believing wife, as also the other apostles and the brothers and sisters of the Lord and Cephas?
+v05: Do we not have the right to take along a believing wife, as do the other apostles, the Lord's brothers, and Cephas?
 </p>
 
 <p>
-v06: Or is it only Barnabas and I who have no right to refrain from working?
-
-v07: Who serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Or who shepherds a flock and does not drink from the milk of the flock?
+v06: Or are Barnabas and I the only ones who have no right to refrain from working for a living?
+v07: Who ever serves as a soldier at their own expense? Who plants a vineyard and does not eat its fruit? Or who tends a flock and does not drink its milk?
 </p>
 
 <p>
-v08: Am I speaking these things according to human judgment, or does not the law also say these things?
-
-v09: For it is written in the law of Moses, “You will not muzzle an ox while it is treading out the grain.” Is God concerned about oxen?
-
-v10: Or is he speaking altogether for our sake? Yes, for our sake it was written, because the one who plows ought to plow in hope, and the one who threshes in hope of sharing.
+v08: Am I saying these things merely on human authority? Does not the law also say them?
+v09: For in Moses's law it is written, “Do not muzzle an ox while it is threshing grain.” Is God concerned only about oxen?
+v10: Or is he certainly speaking for our sake? Yes, it was written for us, because the plowman should plow in hope and the thresher thresh in hope of sharing the harvest.
 </p>
 
 <p>
-v11: If we sowed spiritual things among you, is it too much if we reap material things from you?
-
-v12: If others share this right over you, do we not more? But we did not use this right, but we endure everything so that we may not put any obstacle in the way of the good news of Christ.
+v11: If we sowed spiritual things among you, is it too much if we reap material support from you?
+v12: If others share this right over you, do we not have it even more? Yet we have not used this right. Instead, we endure everything so that we may place no obstacle in Christ's good news.
 </p>
 
 <p>
-v13: Do you not realize that people who perform sacred services eat the things of the temple, and people who attend the altar share with the altar?
-
-v14: So also the Lord directed people who proclaim the good news to live from the good news.
+v13: Do you not know that those who work in the temple eat food from the temple, and those who serve at the altar share in what is offered on the altar?
+v14: In the same way, the Lord commanded that those who proclaim the good news should live from the good news.
 </p>
 
 <p>
-v15: Yet I have used none of these things, and I am not writing these things so that it will be done for me; for it would be better for me to die than—no one will empty my boast!
+v15: But I have used none of these rights. And I am not writing this so that they will be granted to me. I would rather die than—no one will empty my reason for boasting!
 </p>
 
 <p>
-v16: For if I proclaim the good news, I have nothing to boast of, for necessity is laid upon me; for woe to me if I do not proclaim the good news!
-
-v17: For if I do this willingly, I have a reward; but if unwillingly, I am entrusted with a stewardship.
+v16: For if I proclaim the good news, I have no reason to boast, since necessity is laid on me. Woe to me if I do not proclaim the good news!
+v17: For if I do this willingly, I have a reward; but if unwillingly, I have still been entrusted with a stewardship.
 </p>
 
 <p>
-v18: What then is my reward? That when I proclaim the good news, I may offer the good news free of charge, so as not to make full use of my right in the good news.
+v18: What then is my reward? That in proclaiming the good news I may offer it free of charge and not make full use of my right in the good news.
 </p>
 
 ## Paul’s Use of His Freedom
 
 <p>
-v19: For though I am free from all, I have made myself a slave to all, so that I may win more.
-
-v20: And to the Jews I became as a Jew, so that I might win Jews; to those under the law, as under the law (though not being myself under the law), so that I might win those under the law;
+v19: For though I am free from everyone, I made myself a slave to everyone in order to win more people.
+v20: To the Jews I became like a Jew, to win Jews. To those under the law I became like one under the law—though I myself am not under the law—to win those under the law.
 </p>
 
 <p>
-v21: to those without the law, as without the law (though not being without law toward God but under the law of Christ), so that I might win those without the law.
+v21: To those outside the law I became like one outside the law—though I am not outside God's law but under Christ's law—to win those outside the law.
 </p>
 
 <p>
-v22: To the weak I became weak, so that I might win the weak. I have become everything to all people, so that by all means I might save some.
-
-v23: I do everything for the sake of the good news, so that I may become a fellow partaker of it.
+v22: To the weak I became weak, to win the weak. I have become all things to all people, so that by every possible means I might save some.
+v23: I do all this for the sake of the good news, so that I may share in it.
 </p>
 
 ## Run to Win
 
 <p>
-v24: Do you not realize that people who run in a race all run, but only one receives the prize? Run in such a way that you may obtain it.
-
-v25: And everyone who competes exercises self-control in everything; they then do it to receive a perishable crown, but we an imperishable.
+v24: Do you not know that all the runners in a stadium run, but only one receives the prize? Run in such a way that you may win it.
+v25: Every athlete exercises self-control in everything. They do it to receive a perishable wreath, but we an imperishable one.
 </p>
 
 <p>
-v26: So I run in this way, not as uncertainly; I box in this way, not as beating the air;
-
-v27: but I discipline my body and bring it into subjection, lest after proclaiming to others, I myself should become disqualified.
+v26: So I do not run aimlessly or box as one beating the air.
+v27: Instead, I strike my body and make it my slave, so that after proclaiming to others I myself will not be disqualified.
 </p>
 
 ## Notes
 
-v01–02: Apostolic authority is validated by transformed community.
+v05: The phrase describes a believing wife traveling with an apostle; it does not refer merely to a female assistant.
 
-v03–14: Right to material support is established from practice and Scripture.
+v09–12: Paul applies the unmuzzled-ox command to material support for workers while stating that he personally did not use this right in Corinth.
 
-v12: Rights are voluntarily surrendered for the gospel’s sake.
+v15: The Greek sentence breaks off after Paul's preference to die; the interruption and force are retained.
 
-v16–17: Gospel proclamation is necessity and stewardship.
+v19: Paul's self-enslavement is a voluntary mission metaphor from a free person; it does not make ancient enslavement benign.
 
-v18: True reward lies in selfless ministry.
-
-v19–23: Adaptability serves mission without compromising truth.
-
-v24–27: Athletic imagery illustrates disciplined pursuit of faithfulness.
+v27: The verb can describe striking below the eye or treating the body severely. The translation retains the harsh bodily image rather than spiritualizing it.
 
 ## Vocabulary
 
-v01: ἀπόστολος (apostolos)
-“Apostle.”
+v02: **σφραγίς (sphragis)**: Seal, mark of validation, or ownership.
 
-v02: σφραγίς (sphragis)
-“Seal.”
+v17: **οἰκονομία (oikonomia)**: Stewardship or entrusted administration.
 
-v03: ἀπολογία (apologia)
-“Defense.”
-
-v04: ἐξουσία (exousia)
-“Right.”
-
-v07: στρατεύομαι (strateuomai)
-“To serve as a soldier.”
-
-v09: φιμόω (phimoō)
-“To muzzle.”
-
-v10: ἐλπίς (elpis)
-“Hope.”
-
-v11: σπείρω (speirō)
-“To sow.”
-
-v12: ἐγκόπτω (enkoptō)
-“To hinder.”
-
-v13: ἱερόν (hieron)
-“Temple.”
-
-v14: διατάσσω (diatassō)
-“To direct.”
-
-v16: ἀνάγκη (anankē)
-“Necessity.”
-
-v17: οἰκονομία (oikonomia)
-“Stewardship.”
-
-v19: δουλόω (douloō)
-“To enslave.”
-
-v22: πάντως
-“By all means.”
-
-v24: στάδιον (stadion)
-“Race.”
-
-v25: ἐγκρατεύομαι (enkrateuomai)
-“To exercise self-control.”
-
-v27: ἀδόκιμος (adokimos)
-“Disqualified.”
+v25: **στέφανος (stephanos)**: Victory wreath or crown.

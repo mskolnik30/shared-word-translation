@@ -1,276 +1,161 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_07_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 7:1",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 1,
-            "source_ref": "2 Corinthians 7:1",
-            "segment_mode": "whole",
-            "sha256": "a2124a0f4c8a5e570039b19b92606949fdc2e532590e403edc063a3debc6df60"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a2124a0f4c8a5e570039b19b92606949fdc2e532590e403edc063a3debc6df60"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 7:2",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 2,
-            "source_ref": "2 Corinthians 7:2",
-            "segment_mode": "whole",
-            "sha256": "786dc348a644679e6d0dfc4ea2bd922fc11c959aba433ef91ff6b1d0c975e437"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "786dc348a644679e6d0dfc4ea2bd922fc11c959aba433ef91ff6b1d0c975e437"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 7:3",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 3,
-            "source_ref": "2 Corinthians 7:3",
-            "segment_mode": "whole",
-            "sha256": "28a06c3b884ff5dd4aa678910b198876d63f7d8b7a343eadf55657c4a0422a88"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "28a06c3b884ff5dd4aa678910b198876d63f7d8b7a343eadf55657c4a0422a88"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 7:4",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 4,
-            "source_ref": "2 Corinthians 7:4",
-            "segment_mode": "whole",
-            "sha256": "338b3dacf4dc37f03ada84a0b1fdb7bfa7f352e08904b7520c5993410c95ef43"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "338b3dacf4dc37f03ada84a0b1fdb7bfa7f352e08904b7520c5993410c95ef43"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 7:5",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 5,
-            "source_ref": "2 Corinthians 7:5",
-            "segment_mode": "whole",
-            "sha256": "fd873cc9ec5c92648b60122393acacbb2654d5bdd06ecc1c643b1be637eb84ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fd873cc9ec5c92648b60122393acacbb2654d5bdd06ecc1c643b1be637eb84ba"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 7:6",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 6,
-            "source_ref": "2 Corinthians 7:6",
-            "segment_mode": "whole",
-            "sha256": "db8c0cdc217207ef5d4966d231c4278392aee8ff5023dc2f12e0b65e79449ea5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db8c0cdc217207ef5d4966d231c4278392aee8ff5023dc2f12e0b65e79449ea5"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 7:7",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 7,
-            "source_ref": "2 Corinthians 7:7",
-            "segment_mode": "whole",
-            "sha256": "d7f3e3b2a34c9b65bca0c5a11eff31660eb323d2bb9ef9fa4011212e26daafe5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d7f3e3b2a34c9b65bca0c5a11eff31660eb323d2bb9ef9fa4011212e26daafe5"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 7:8",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 8,
-            "source_ref": "2 Corinthians 7:8",
-            "segment_mode": "whole",
-            "sha256": "9a9e67347cbd8c4a74a8bbfff5ee253d27aa4414db551292303ebf125062fff2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9a9e67347cbd8c4a74a8bbfff5ee253d27aa4414db551292303ebf125062fff2"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 7:9",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 9,
-            "source_ref": "2 Corinthians 7:9",
-            "segment_mode": "whole",
-            "sha256": "451d75e437b797558e286d9a7b4d7977f56c3b696c3df4f7cf69e0f4fc270e52"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "451d75e437b797558e286d9a7b4d7977f56c3b696c3df4f7cf69e0f4fc270e52"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 7:10",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 10,
-            "source_ref": "2 Corinthians 7:10",
-            "segment_mode": "whole",
-            "sha256": "a9e2a3d0797a1d61994b1b15d620988b1eb0b151689a2171158abd7490b4aaa4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a9e2a3d0797a1d61994b1b15d620988b1eb0b151689a2171158abd7490b4aaa4"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 7:11",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 11,
-            "source_ref": "2 Corinthians 7:11",
-            "segment_mode": "whole",
-            "sha256": "5ebf91bb78c3d48023d0adf6dd3f320c5a1b10733ceef1e5ed47eed78f8b143b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5ebf91bb78c3d48023d0adf6dd3f320c5a1b10733ceef1e5ed47eed78f8b143b"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 7:12",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 12,
-            "source_ref": "2 Corinthians 7:12",
-            "segment_mode": "whole",
-            "sha256": "013f63e5f4e586892d00933484cddad302af55317d0e42e46109419ab5e49441"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "013f63e5f4e586892d00933484cddad302af55317d0e42e46109419ab5e49441"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 7:13",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 13,
-            "source_ref": "2 Corinthians 7:13",
-            "segment_mode": "whole",
-            "sha256": "5451e59d1dd8a0f4ed9edb7190ebc75a6beb50dce512469602b97f60e18d4764"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5451e59d1dd8a0f4ed9edb7190ebc75a6beb50dce512469602b97f60e18d4764"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 7:14",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 14,
-            "source_ref": "2 Corinthians 7:14",
-            "segment_mode": "whole",
-            "sha256": "6ae23bf4f579dab3cfd8ce8892b0cff4230e9097d70c18d55fc567c2f404e1ef"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6ae23bf4f579dab3cfd8ce8892b0cff4230e9097d70c18d55fc567c2f404e1ef"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 7:15",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 15,
-            "source_ref": "2 Corinthians 7:15",
-            "segment_mode": "whole",
-            "sha256": "daf759273149f75e007b7f60553f8e7326bc3fbe214c7350e32e8ab7c3dabc2b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "daf759273149f75e007b7f60553f8e7326bc3fbe214c7350e32e8ab7c3dabc2b"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 7:16",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 16,
-            "source_ref": "2 Corinthians 7:16",
-            "segment_mode": "whole",
-            "sha256": "2cc56b2cb6f3ef049a3cb2e681be56800a4a4c853930d520f565df62dc2b9f70"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2cc56b2cb6f3ef049a3cb2e681be56800a4a4c853930d520f565df62dc2b9f70"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 16,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_07.md",
+    "before_sha256": "a4975dd7e32c6758d36447570c06d36847b545924eed9cd9490da7abbc2ad5a6",
+    "after_sha256": "1ebad5fa369fbf491051a2202178c206c5855f47c660ba1d7b9b62ad1a991d71",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_07.md",
+    "tsw_comparator_sha256": "c7941ae2c9f53898ec64e85f1f53e4033d043142c777151242903a099fbd18dd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 7:2",
+      "delta": "F3",
+      "rationale": "Preserves the opening metaphor and three denials.",
+      "source_reference": "2Cor 7:2",
+      "source_verse_sha256": "e0521074b46acdbb0a0618486786d315fc59fb4b22b2269ae4e96d49b9e253f4",
+      "before": "Make room for us; we have wronged no one, we have corrupted no one, we have taken advantage of no one.",
+      "after": "Make room for us. We wronged no one, ruined no one, exploited no one.",
+      "tsw_comparator": "Make room for us; we have wronged no one, we have corrupted no one, we have taken advantage of no one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:3",
+      "delta": "F3",
+      "rationale": "Keeps denied condemnation and intense solidarity.",
+      "source_reference": "2Cor 7:3",
+      "source_verse_sha256": "89c15d9668e64543ad7c37377c0731f368fa0498ed5cf4a998a264d7cb4f3ced",
+      "before": "I do not say this to condemn you, for I have said before that you are in our hearts, to die together and to live together.",
+      "after": "I do not say this to condemn you, for I have said before that you are in our hearts, to die together and live together.",
+      "tsw_comparator": "I do not say this to condemn you, for I have said before that you are in our hearts, to die together and to live together.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.980392,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:5",
+      "delta": "F3",
+      "rationale": "Keeps geography, bodily unrest, and external/internal harms.",
+      "source_reference": "2Cor 7:5",
+      "source_verse_sha256": "570a13b58a44bf8c55d1b0cc69115e12e60d684070ae4b5f8c59d40da4978bef",
+      "before": "For even when we came into Macedonia, our flesh had no rest, but we were afflicted in every way—conflicts without, fears within.",
+      "after": "For even when we came to Macedonia, our bodies had no rest; we were afflicted in every way—conflicts outside, fears within.",
+      "tsw_comparator": "For even when we came into Macedonia, our flesh had no rest, but we were afflicted in every way—conflicts without, fears within.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:8",
+      "delta": "F3",
+      "rationale": "Preserves Paul's emotional reversal and temporal limit.",
+      "source_reference": "2Cor 7:8",
+      "source_verse_sha256": "d090621eb52aba2be7463430a162f2369324356f399b350d8ec266e09c1da9d2",
+      "before": "For even if I caused you sorrow by my letter, I do not regret it—though I did regret it—for I see that the letter caused you sorrow, though only for a time.",
+      "after": "Even if I caused you sorrow by my letter, I do not regret it. Though I did regret it—for I see that the letter caused you sorrow, even if only for a while—",
+      "tsw_comparator": "For even if I caused you sorrow by my letter, I do not regret it—though I did regret it—for I see that the letter caused you sorrow, though only for a time.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.911765,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:9",
+      "delta": "F3",
+      "rationale": "Keeps distinction between harm and restorative result.",
+      "source_reference": "2Cor 7:9",
+      "source_verse_sha256": "57d23bb239af45f5572de346d9d862b9762a99d11511a1b7837fb9b6242b83a8",
+      "before": "Now I rejoice, not because you were grieved, but because you were grieved into repentance; for you experienced a grief according to God, so that you suffered no loss through us.",
+      "after": "now I rejoice, not because you were made sorrowful, but because your sorrow led to repentance. For you felt sorrow in accordance with God, so that you suffered no loss through us.",
+      "tsw_comparator": "Now I rejoice, not because you were grieved, but because you were grieved into repentance; for you experienced a grief according to God, so that you suffered no loss through us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:10",
+      "delta": "F3",
+      "rationale": "Retains the two kinds of sorrow and outcomes.",
+      "source_reference": "2Cor 7:10",
+      "source_verse_sha256": "d0c0dd8b0a03f4eef5e5e858ef51a245d22bbf77dae83493bbebc59412187011",
+      "before": "For grief according to God produces a repentance leading to salvation without regret, but the grief of the world produces death.",
+      "after": "For godly sorrow produces repentance leading to salvation, which brings no regret; but worldly sorrow produces death.",
+      "tsw_comparator": "For grief according to God produces a repentance leading to salvation without regret, but the grief of the world produces death.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.526316,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:11",
+      "delta": "F3",
+      "rationale": "Preserves the emphatic list and justice language.",
+      "source_reference": "2Cor 7:11",
+      "source_verse_sha256": "b988d3f7b1d2d3378b579e56ac6f979777f5535354f96c3b0d7319df8d8af429",
+      "before": "For see what earnestness this very grief according to God has produced in you—what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what readiness to see justice done. In every way you have proved yourselves to be pure in this matter.",
+      "after": "Just look at what this very godly sorrow produced in you: what earnestness, what defense, what indignation, what fear, what longing, what zeal, what readiness to see justice done! In every way you showed yourselves innocent in the matter.",
+      "tsw_comparator": "For see what earnestness this very grief according to God has produced in you—what eagerness to clear yourselves, what indignation, what fear, what longing, what zeal, what readiness to see justice done. In every way you have proved yourselves to be pure in this matter.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.658824,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 7:12",
+      "delta": "F3",
+      "rationale": "Keeps both harmed parties and stated revelatory purpose.",
+      "source_reference": "2Cor 7:12",
+      "source_verse_sha256": "21ac3d8ef38a156a48d7031a295c694d6f50e4d9b3ef484e93b01695394aa12c",
+      "before": "So although I wrote to you, it was not for the sake of the one who did the wrong, nor for the sake of the one who suffered the wrong, but so that your earnestness for us might be revealed to you in the sight of God.",
+      "after": "So although I wrote to you, it was not for the sake of the one who did wrong, nor for the sake of the one wronged, but so that your earnest concern for us might be revealed to you before God.",
+      "tsw_comparator": "So although I wrote to you, it was not for the sake of the one who did the wrong, nor for the sake of the one who suffered the wrong, but so that your earnestness for us might be revealed to you in the sight of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.840909,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_07.md",
-    "blob_sha": "bb1d8fd77ad7c96bb4e19834dbd86b8f0eeb5d54"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

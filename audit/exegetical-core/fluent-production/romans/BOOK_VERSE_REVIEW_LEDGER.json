@@ -7075,7 +7075,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "Phoebe = deacon/diakonos of Cenchreae church"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7091,7 +7094,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "Phoebe = benefactor/patron prostatis"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7105,7 +7111,10 @@
       "source_sha256": "c6e7b01329d093e47eaad6274a4d4c9f24cd742fb442008bc33d4e15ce5b413b",
       "translation_sha256": "20a7bfa1eb976786b33a830ee92eec47ca7da92c72c388f4a715659c965ee9b5",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7119,7 +7128,10 @@
       "source_sha256": "caac416b17ba9f72215dc6418e2f13041f2dba5ae8503f76edfddb2c6e19a854",
       "translation_sha256": "6aebcc50c38ca48efa98a83b12c584462556756232c612a048eda8d94d19589d",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7133,7 +7145,10 @@
       "source_sha256": "feb7b7b5eb1fa20437ec72892836bd24f404412d99611368871510f2136e2fdc",
       "translation_sha256": "893aa16afa7393755b1ab29f20c119d6c59c570900244bdbe9342f890d85bacf",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7147,7 +7162,10 @@
       "source_sha256": "c1cd4f64c5eff8bcde0eff023d1462b1a8b6d19e8c37713551c5ef9747bc68ac",
       "translation_sha256": "61a7adc683cd87a8684771b6d40e456a7b00270cc05c07f3ea292fb5166b7c51",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7163,7 +7181,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "Junia feminine; outstanding among apostles main reading"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7177,7 +7198,10 @@
       "source_sha256": "bd92d495670262d86ffffb582727c6b5e574256d0136e8cf27f5910464dc976c",
       "translation_sha256": "9ff5f3f3e9be0e0b742a1214bdae1c8e1bb03421c0df8b1bdadaf1a795eb144a",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7191,7 +7215,10 @@
       "source_sha256": "e75fbad0386d69fb9e99833b69fb59033598920a92756bca75b476ce820e5406",
       "translation_sha256": "962c5d9996cd193bec9e1b55186bd3526d81a68597ec22916cce488e5f2f1eed",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7205,7 +7232,10 @@
       "source_sha256": "c58cb4ee8ccadd729e884719f0526b811ef19c49b194f55f9c00ba4879c61f3a",
       "translation_sha256": "b338193acf6825459218d978654bf8d3c71a4e89676d82d89873b681583699a6",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7219,7 +7249,10 @@
       "source_sha256": "8faa0731d9af773543d5027787c5c736d4eb6e773b7f105b9840afa47aac0e87",
       "translation_sha256": "1b5a69be700062ee4d2fbfa20fac97defd35a949e785fb4a704d2766a7399feb",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7233,7 +7266,10 @@
       "source_sha256": "9474e864711a83b990d8531e1ab2c81733e6525e2a4f4dff9d1e85753e898a5b",
       "translation_sha256": "e93b68a14eae7f707a3c26a566f82b4c351a6db513c6d29b7d6fb331fcdd56a3",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7247,7 +7283,10 @@
       "source_sha256": "2b1456b0744e14f3ff23925a8371def674b75fab3e9bbe8ad115dd0dbfdd4235",
       "translation_sha256": "452531b99efe8bad039920d516abf9b7cce58d7b869bf6d371ccc508b6726d3b",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7261,7 +7300,10 @@
       "source_sha256": "ed09e3758495f3db51a520dd74e4061c8d8f2509b3c1f0f3b16f3202d26f8ff1",
       "translation_sha256": "011d46aad6e5f62ccbe3f93e4a80fa69adf9f407f38b04072dd56d235025092d",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7275,7 +7317,10 @@
       "source_sha256": "b1b008f71559f462394b18d925d8cb3d735ff51b8b276f9598aca4372efedfe3",
       "translation_sha256": "db2a70d2268c63eb98b00c3b6c8bbb21413e574fc56701b7e7535543bbb77127",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7289,7 +7334,10 @@
       "source_sha256": "65b0fec14b28c43ed159eaf412a9be111a47809b9e77acc052e65b85e0e3bf72",
       "translation_sha256": "9555fc4447a7e40c73007d596b89ec27c0c07e1e4b4e22f679ae3600a8ae4f94",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7303,7 +7351,10 @@
       "source_sha256": "905751afe08fcb9825c8c06c4e09ce26a9621235f92b8fa59dd0874fb3fe7b85",
       "translation_sha256": "90315888f28149c3c39cf4aba8f01badc21c0beaac68fa33933006ad65d7410c",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7317,7 +7368,10 @@
       "source_sha256": "d62546a23fdc715a5aaca480310aceef07894687a71ae3dd74342bd21336b3ed",
       "translation_sha256": "6c5d263e3cf6296d0684a5904a9aa236736e2e1a6878799504a2cc6d370eeca7",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7331,7 +7385,10 @@
       "source_sha256": "2cad7d4fa7ea3c678c8d826c84d02aed29e925a22509355a17a818b54235db55",
       "translation_sha256": "b4d16de1b7aea1a76b9c5ae1fae44561b2d873b7e1d1f4605e464a7d602686c9",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7345,7 +7402,10 @@
       "source_sha256": "29810a0acf32709ba833a0db473acba1c3610136aafb1441d20a6c1c4e1d1933",
       "translation_sha256": "a79a728c784c8d209831fe54f22b29dc2968224ffb9d74997f4e6c0b3993c964",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7359,7 +7419,10 @@
       "source_sha256": "cc2e3c37d35a50cabccb713041c6e28f197dedca411222b51f3240ddb9bf7ed5",
       "translation_sha256": "1d8b9441925d35de6d879faf71b8a5d48c71cc3c0a40b0be00d1fb745c42756f",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7373,7 +7436,10 @@
       "source_sha256": "a0cccacb44e0450db9e2517d7ce8615b2963d64f776c6a0653478d0df5a188b6",
       "translation_sha256": "ee789da802ac59d1eb7ba41ff552a53aa28bbd056b76e3748bddfd1a973de6f3",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7387,7 +7453,10 @@
       "source_sha256": "85c2d3e847f66b2ddfe53ee1df9276c555e88494be40f9e056f22296c61310d6",
       "translation_sha256": "9c5ea0d8c0984a73563cf383b819385d82516fcb4760670c0cf2fdd940e6b0f0",
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7403,7 +7472,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "pinned SBLGNT includes the grace benediction; WH/Treg/NA28 omission noted"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7419,7 +7491,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "public-number gaps in pinned SBLGNT main text; traditional doxology retained in apparatus, not continuous Fluent main text"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7435,7 +7510,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "public-number gaps in pinned SBLGNT main text; traditional doxology retained in apparatus, not continuous Fluent main text"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 16,
@@ -7451,7 +7529,10 @@
       "tsw_blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85",
       "curated_decisions": [
         "public-number gaps in pinned SBLGNT main text; traditional doxology retained in apparatus, not continuous Fluent main text"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     }
   ],
   "summary": {
@@ -7479,28 +7560,21 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "current_revision": {
-    "id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+    "id": "fluent-2026-09-17-romans-16-biblical-fluency-2026-09-16",
     "chapters": [
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15
+      16
     ],
-    "verse_count": 245,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+    "verse_count": 24,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+      "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
       "path": "audit/exegetical-core/fluent-production/romans/BOOK_VERSE_REVIEW_LEDGER.json"
     },
     "note": "Previous wording approvals and Companion bindings do not transfer."
@@ -7547,6 +7621,22 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+        "path": "audit/exegetical-core/fluent-production/romans/BOOK_VERSE_REVIEW_LEDGER.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-2026-09-17-romans-16-biblical-fluency-2026-09-16",
+      "chapters": [
+        16
+      ],
+      "verse_count": 24,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
         "path": "audit/exegetical-core/fluent-production/romans/BOOK_VERSE_REVIEW_LEDGER.json"
       },
       "note": "Previous wording approvals and Companion bindings do not transfer."

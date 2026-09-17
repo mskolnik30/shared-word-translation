@@ -2,181 +2,321 @@
   "book": "Ephesians",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 23,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Eph.txt",
     "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ephesians 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "0d491448906fa28ede5e09ba83b602a4143d39f1ce55be60ee58d5941b32e7f0"
-      },
-      "2": {
-        "source_ref": "Ephesians 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "3542bf950b541ec1367df8110d89a10194b9d8d1b35c81faf5fe27ab80603ecb"
-      },
-      "3": {
-        "source_ref": "Ephesians 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "70201c1f2ea8f383cc688a11a8b87c814afeaf71c3752a23509ddfb89f9fb62d"
-      },
-      "4": {
-        "source_ref": "Ephesians 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "69f765288a92ea525d6af29f09d0999326ac2f85a982b3e5bc54ede353d9c42a"
-      },
-      "5": {
-        "source_ref": "Ephesians 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "46dcafb3656bf3b0563b7fee68f8ed94f52376cdc12807277cd419f267890198"
-      },
-      "6": {
-        "source_ref": "Ephesians 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "91291a19127a44994de255268ccbaafc444c93868917439b6964e5dac128766b"
-      },
-      "7": {
-        "source_ref": "Ephesians 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d5ef83e2f5fa8ce9411d0c8bf6fd45f2ddba863b444121c0f236dacc762f9d44"
-      },
-      "8": {
-        "source_ref": "Ephesians 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "ba484660e2fdcdd891a649a42e145718798fad18262caaff8f22814f1115c322"
-      },
-      "9": {
-        "source_ref": "Ephesians 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "bd0f09bcaf767a7d1c022f538e6b756ea48dfe01567578c18c116e2d87a5c9b0"
-      },
-      "10": {
-        "source_ref": "Ephesians 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "378a7b58f8e83b44c8f3936bae212efe349627b84e76d92ca889774fbab65734"
-      },
-      "11": {
-        "source_ref": "Ephesians 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "91598697302a10dbae277a62de342a7e537a1db0067e8412d2e17047cea588b3"
-      },
-      "12": {
-        "source_ref": "Ephesians 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "1af958ff4079fa765a50206a34509e540abde3aec3af46e310911419c3a85bad"
-      },
-      "13": {
-        "source_ref": "Ephesians 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "4461b08a0efe95c37c5cc0583ba7b82272ae3a8ad07e58024e6ecce7245a5399"
-      },
-      "14": {
-        "source_ref": "Ephesians 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "a4a08599e29218dae7de0a214922bef142d9b74d518c589bbf8d83ba2d56fa6a"
-      },
-      "15": {
-        "source_ref": "Ephesians 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "364eb7cbe07889bf7c7e95697fada23cd6cf1d341e2bba6151b5bd0cb466a513"
-      },
-      "16": {
-        "source_ref": "Ephesians 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "08750ae4a68ab1d8d4867856a37d67f82dda8b5dcd8eff74c854bfa1d24c699e"
-      },
-      "17": {
-        "source_ref": "Ephesians 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "8237c8a0a97247a80be16e8beb5d6956c465514677ba806c1ecd26bc6cb87baa"
-      },
-      "18": {
-        "source_ref": "Ephesians 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "bb601f62242009fe3a02ee2610801f75c069f2526bd36717e16598c9cb9bba01"
-      },
-      "19": {
-        "source_ref": "Ephesians 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "a8ca6424947a3c48856c4c8586bd981931429e237f8d9541c072fcbf7e30d80c"
-      },
-      "20": {
-        "source_ref": "Ephesians 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "41174d2e449e6f2e7c1ec188ee1b9f83e8411c5f6cbc2905eb8b42863ca84681"
-      },
-      "21": {
-        "source_ref": "Ephesians 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "80ee13a3b4b0b380ee2941033fa64f77e1bf93d5bc14c7a75a08f31c623c767b"
-      },
-      "22": {
-        "source_ref": "Ephesians 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "9cd897ade19cae22d16e965a0e77d99e491787373b0ce95ecf3e67d571b5eb60"
-      },
-      "23": {
-        "source_ref": "Ephesians 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "15fc0e2eb40127af716acc323204c3132c456838ebd58454e398869c57ecdc50"
-      }
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 23,
+    "path": "translations/fluent/NT/ephesians/Ephesians_01.md",
+    "before_sha256": "a3fe384b7831c31b298c04b9ddb6b588cbca0c793b2ff6e919d6f4b042efdbd7",
+    "after_sha256": "647d6e2c4dcc660b6b6b9a012b82e00c87250407ec88c1958517859c9d6c14de",
+    "tsw_comparator_path": "books/NT/ephesians/Ephesians_01.md",
+    "tsw_comparator_sha256": "33d4f23133ff6a06aa91deabbf81228f20a08b00e1a779dfcb34dc6b14107d76"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Ephesians 1:1",
+      "delta": "F3",
+      "rationale": "Retains the bracketed place-name uncertainty in the pinned Greek.",
+      "source_reference": "Eph 1:1",
+      "source_verse_sha256": "7c268b9c0f4d1db9e5d4db626ce9cb70617fdfcd38f4a5c0044a55949aa0309e",
+      "before": "Paul, an apostle of Christ Jesus through God’s will, to the holy ones who are in Ephesus and faithful in Christ Jesus:",
+      "after": "Paul, an apostle of Christ Jesus by God's will, to the saints who are [in Ephesus] and faithful in Christ Jesus:",
+      "tsw_comparator": "Paul, an apostle of Christ Jesus by the will of God, To the holy ones who are in Ephesus and are faithful in Christ Jesus:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:3",
+      "delta": "F3",
+      "rationale": "Preserves repeated blessing and heavenly location.",
+      "source_reference": "Eph 1:3",
+      "source_verse_sha256": "e9ee0d5ecade740c629e799409d5263878edc39b8df7d67cc9a31edeeb42b7b7",
+      "before": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms,",
+      "after": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms.",
+      "tsw_comparator": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.88,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:4",
+      "delta": "F3",
+      "rationale": "Keeps divine choice, time, purpose, and love's possible attachment.",
+      "source_reference": "Eph 1:4",
+      "source_verse_sha256": "0200d9f14b30362434901d7cb143b5897d332329f70a42f6d4172a3e92291237",
+      "before": "just as he chose us in him before the foundation of the world to be holy and blameless before him in love.",
+      "after": "For he chose us in Christ before the foundation of the world to be holy and blameless before him in love.",
+      "tsw_comparator": "just as he chose us in him before the foundation of the world, that we should be holy and blameless before him in love,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:5",
+      "delta": "F3",
+      "rationale": "Preserves divine purpose and gendered inheritance status.",
+      "source_reference": "Eph 1:5",
+      "source_verse_sha256": "a9c588392e20604d3b4fa314ae920cebe3a442fe59638bd4a7be6e26509275e5",
+      "before": "He destined us beforehand for adoption through Jesus Christ to himself, according to the good pleasure of his will,",
+      "after": "He predestined us for adoption as sons through Jesus Christ to himself, according to the good pleasure of his will,",
+      "tsw_comparator": "having predestined us for adoption through Jesus Christ to himself, according to the good pleasure of his will,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.894737,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:6",
+      "delta": "F3",
+      "rationale": "Keeps praise, grace wordplay, and Christ's title.",
+      "source_reference": "Eph 1:6",
+      "source_verse_sha256": "f44980364cfe1cd63890421dd668590d9f8d662e44ba3dff9f529e4182ca8aaf",
+      "before": "to the praise of the glory of his grace, which he freely gave us in the Beloved.",
+      "after": "to the praise of his glorious grace, which he freely bestowed on us in the Beloved.",
+      "tsw_comparator": "to the praise of the glory of his grace, with which he has graced us in the Beloved.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:7",
+      "delta": "F3",
+      "rationale": "Preserves costly release, forgiveness, and abundance.",
+      "source_reference": "Eph 1:7",
+      "source_verse_sha256": "ac9a4bd60c292b87bd1376226c0bf0048bdf039fa5da6ea2a5b10c516c3993d5",
+      "before": "In him we have redemption through his blood, the forgiveness of trespasses, according to the riches of his grace,",
+      "after": "In him we have redemption through his blood, the forgiveness of trespasses, according to the wealth of his grace",
+      "tsw_comparator": "In him we have redemption through his blood, the forgiveness of trespasses, according to the riches of his grace,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:8",
+      "delta": "F3",
+      "rationale": "Keeps overflowing grace and its manner/context.",
+      "source_reference": "Eph 1:8",
+      "source_verse_sha256": "ced450bae4b5766402c31eac24016f8006e1a9d3a0b2dd6c8245155d0e3f2a15",
+      "before": "which he lavished on us in all wisdom and understanding.",
+      "after": "that he lavished on us, with all wisdom and understanding.",
+      "tsw_comparator": "which he lavished upon us, in all wisdom and insight,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:9",
+      "delta": "F3",
+      "rationale": "Preserves revealed purpose and mystery language.",
+      "source_reference": "Eph 1:9",
+      "source_verse_sha256": "04990eb89724b242259a25788f3e54de8ffcfb4acd50d59f39cf1c400a94a17e",
+      "before": "He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ,",
+      "after": "He made known to us the mystery of his will, according to his good pleasure that he purposed in Christ,",
+      "tsw_comparator": "making known to us the mystery of his will, according to his good pleasure that he set forth in him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:10",
+      "delta": "F3",
+      "rationale": "Keeps timing, administrative image, and cosmic scope.",
+      "source_reference": "Eph 1:10",
+      "source_verse_sha256": "21e9fbdcce4524f4e38a24305927041effa7ce4fa8ab01b6bda746a9d194b46b",
+      "before": "for the administration of the fullness of the times: to bring everything together in Christ, things in heaven and things on earth—in him.",
+      "after": "for an administration at the fullness of the times: to bring together all things in Christ, things in the heavens and things on earth—in him.",
+      "tsw_comparator": "for the administration of the fullness of times, to sum up all things in Christ, things in heaven and things on earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:11",
+      "delta": "F3",
+      "rationale": "Preserves inheritance/passive-lot range and comprehensive purpose.",
+      "source_reference": "Eph 1:11",
+      "source_verse_sha256": "b686dbd7cf66bd1d420d39f689a0cc7ebf90a9ecc14bb72bc3453d908a12f69a",
+      "before": "In him we also received an inheritance, having been destined beforehand according to the purpose of the one who works all things according to the counsel of his will,",
+      "after": "In him we also received an inheritance, having been predestined according to the purpose of the one who works all things according to the counsel of his will,",
+      "tsw_comparator": "In him we have also been made heirs, having been predestined according to the purpose of the one who works all things according to the counsel of his will,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.877193,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:12",
+      "delta": "F3",
+      "rationale": "Keeps temporal priority and purpose.",
+      "source_reference": "Eph 1:12",
+      "source_verse_sha256": "adf1c9120bd2aa46f6f739ef4c08cb0746ecc0a8499ac66c67a4650cb00ec47f",
+      "before": "so that we who first hoped in Christ might be for the praise of his glory.",
+      "after": "so that we, who were the first to hope in Christ, might live for the praise of his glory.",
+      "tsw_comparator": "so that we who first hoped in Christ might be to the praise of his glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:13",
+      "delta": "F3",
+      "rationale": "Preserves hearing, believing, sealing, and the Spirit's title.",
+      "source_reference": "Eph 1:13",
+      "source_verse_sha256": "9b36f6ebc2bfeed43ee6768e253cf978d4daae8a77f21ca52df6d657f8f0dbc8",
+      "before": "In him you also, when you heard the word of truth, the good news of your salvation, and trusted in him, were sealed with the promised Holy Spirit,",
+      "after": "In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit.",
+      "tsw_comparator": "In him you also, when you heard the word of truth, the good news of your salvation, and believed in him, were sealed with the promised Holy Spirit,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.945455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:14",
+      "delta": "F3",
+      "rationale": "Keeps pledge, inheritance, possession, and praise.",
+      "source_reference": "Eph 1:14",
+      "source_verse_sha256": "4b4f49f0b2c8a9dce39ced3552da33dabcd4d0bc966629f14fda1a8dcd72beb7",
+      "before": "who is the down payment of our inheritance until the redemption of God’s own possession, to the praise of his glory.",
+      "after": "The Spirit is the down payment of our inheritance until the redemption of God's possession, to the praise of his glory.",
+      "tsw_comparator": "who is the first pledge of our inheritance, until the redemption of the possession, to the praise of his glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:15",
+      "delta": "F3",
+      "rationale": "Preserves report, faith, and variant-marked love.",
+      "source_reference": "Eph 1:15",
+      "source_verse_sha256": "bddb7665f381fdc38c767939256e2f89678b4e143c2ca9ffd4dc644b4db1f43d",
+      "before": "For this reason, because I have heard about your trust in the Lord Jesus and your love for all the holy ones,",
+      "after": "For this reason, because I have heard of your faith in the Lord Jesus and your love for all the saints,",
+      "tsw_comparator": "For this reason, because I have heard of your faith in the Lord Jesus and your love toward all the holy ones,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:17",
+      "delta": "F3",
+      "rationale": "Preserves divine titles and requested knowledge.",
+      "source_reference": "Eph 1:17",
+      "source_verse_sha256": "e7eef9938d13d08c32973ab1befa27d1a6312e51d9e42ba01af8b5927bdf636c",
+      "before": "so that the God of our Lord Jesus Christ, the Father of glory, may give you a Spirit of wisdom and revelation in knowing him,",
+      "after": "I pray that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation in knowing him.",
+      "tsw_comparator": "that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and revelation in the knowledge of him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.884615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:18",
+      "delta": "F3",
+      "rationale": "Keeps bodily metaphor, hope, wealth, and communal setting.",
+      "source_reference": "Eph 1:18",
+      "source_verse_sha256": "8ef4abf90899901c865bcea959b771e0716ae2ef455ffdd30f3fe87fec5dbc74",
+      "before": "with the eyes of your heart enlightened, so that you may know the hope of his calling, the riches of the glory of his inheritance among the holy ones,",
+      "after": "May the eyes of your heart be enlightened so that you may know the hope of his calling, the wealth of his glorious inheritance among the saints,",
+      "tsw_comparator": "having the eyes of your heart enlightened, so that you may know what is the hope of his calling, what are the riches of the glory of his inheritance in the holy ones,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:19",
+      "delta": "F3",
+      "rationale": "Preserves stacked power terms and believing recipients.",
+      "source_reference": "Eph 1:19",
+      "source_verse_sha256": "f403b8e4f30df6301d0383021e8cf6ef58cf013c1fdad7b492e2f0594d341cd1",
+      "before": "and the immeasurable greatness of his power toward us who trust, according to the working of his mighty strength.",
+      "after": "and the surpassing greatness of his power toward us who believe, according to the working of his mighty strength.",
+      "tsw_comparator": "and what is the surpassing greatness of his power toward us who believe, according to the working of his mighty strength,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:20",
+      "delta": "F3",
+      "rationale": "Keeps resurrection, enthronement, and location.",
+      "source_reference": "Eph 1:20",
+      "source_verse_sha256": "ba5edbbcd38581d6a15a1bbc95343181a4da34e2a29a27e46c4787403c3d7ab8",
+      "before": "He worked this power in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms,",
+      "after": "God exercised this power in Christ when he raised him from the dead and seated him at his right hand in the heavenly realms,",
+      "tsw_comparator": "which he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:21",
+      "delta": "F3",
+      "rationale": "Preserves complete power list and both ages.",
+      "source_reference": "Eph 1:21",
+      "source_verse_sha256": "9cdc2f9e14fcd3328b6bbbb324b0171240e7e5319e74d91c6c155be70c90a355",
+      "before": "far above every ruler, authority, power, dominion, and every name that is named, not only in this age but also in the age to come.",
+      "after": "far above every ruler, authority, power, and dominion, and every name that is named, not only in this age but also in the age to come.",
+      "tsw_comparator": "far above every ruler and authority and power and dominion, and every name that is named, not only in this age but also in the one to come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.925926,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:22",
+      "delta": "F3",
+      "rationale": "Keeps subjection, body image, and gift to church.",
+      "source_reference": "Eph 1:22",
+      "source_verse_sha256": "b7822a753aff5ac6c89f90823563b13d8ef51a5cae4795172f8a63e0fd591e02",
+      "before": "He put everything under his feet and gave him as head over everything to the church,",
+      "after": "He subjected everything under Christ's feet and gave him as head over everything to the church,",
+      "tsw_comparator": "And he put all things under his feet and gave him as head over all things to the church,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 1:23",
+      "delta": "F3",
+      "rationale": "Preserves dense fullness/filling wordplay.",
+      "source_reference": "Eph 1:23",
+      "source_verse_sha256": "3f28162a1fabc0353af34e53f0993d8abf1ddcb63383f8545696b29b6916d1a2",
+      "before": "which is his body, the fullness of the one who fills everything in every way.",
+      "after": "which is his body, the fullness of the one who fills all things in every way.",
+      "tsw_comparator": "which is his body, the fullness of the one who fills all in all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/ephesians/Ephesians_01.md",
-    "blob_sha": "f3efc55797202d3c89c5e76551f98de1ee574fca"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

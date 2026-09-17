@@ -1,0 +1,1062 @@
+{
+  "scope": "Galatians 1–6",
+  "verses": 149,
+  "summary": {
+    "before": {
+      "identical": 9,
+      "near_identical_nonidentical": 30,
+      "mean_word_similarity": 0.819554
+    },
+    "after": {
+      "identical": 16,
+      "near_identical_nonidentical": 28,
+      "mean_word_similarity": 0.822758
+    }
+  },
+  "rows": [
+    {
+      "reference": "Galatians 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.980392
+    },
+    {
+      "reference": "Galatians 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Galatians 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Galatians 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Galatians 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Galatians 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Galatians 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.585366
+    },
+    {
+      "reference": "Galatians 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.892857
+    },
+    {
+      "reference": "Galatians 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Galatians 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.597015,
+      "after_similarity": 0.698413
+    },
+    {
+      "reference": "Galatians 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Galatians 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.93617,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Galatians 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.791667,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "Galatians 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765957,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Galatians 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Galatians 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.978723
+    },
+    {
+      "reference": "Galatians 1:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Galatians 1:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Galatians 1:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Galatians 1:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Galatians 1:21",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.9,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 1:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Galatians 1:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Galatians 1:24",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 2:1",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.9375,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.72973
+    },
+    {
+      "reference": "Galatians 2:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Galatians 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763636,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Galatians 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Galatians 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.491228,
+      "after_similarity": 0.690909
+    },
+    {
+      "reference": "Galatians 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Galatians 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.95
+    },
+    {
+      "reference": "Galatians 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.86747,
+      "after_similarity": 0.839506
+    },
+    {
+      "reference": "Galatians 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Galatians 2:11",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 2:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.721311,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Galatians 2:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Galatians 2:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Galatians 2:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Galatians 2:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.775862,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "Galatians 2:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Galatians 2:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.529412
+    },
+    {
+      "reference": "Galatians 2:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Galatians 2:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.843373
+    },
+    {
+      "reference": "Galatians 2:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Galatians 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Galatians 3:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Galatians 3:3",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.518519,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Galatians 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.945455,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Galatians 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Galatians 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.454545,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Galatians 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.703704,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Galatians 3:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Galatians 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.849315,
+      "after_similarity": 0.849315
+    },
+    {
+      "reference": "Galatians 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Galatians 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Galatians 3:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Galatians 3:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.76,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Galatians 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Galatians 3:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.892308,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Galatians 3:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Galatians 3:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Galatians 3:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Galatians 3:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Galatians 3:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.766667,
+      "after_similarity": 0.655738
+    },
+    {
+      "reference": "Galatians 3:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Galatians 3:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Galatians 3:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Galatians 3:25",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 3:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.583333,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Galatians 3:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Galatians 3:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Galatians 3:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Galatians 4:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Galatians 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.866667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Galatians 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Galatians 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Galatians 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Galatians 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Galatians 4:7",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Galatians 4:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.944444,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "Galatians 4:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.739726,
+      "after_similarity": 0.767123
+    },
+    {
+      "reference": "Galatians 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Galatians 4:11",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 4:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.634146,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Galatians 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Galatians 4:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Galatians 4:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Galatians 4:16",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 4:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Galatians 4:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Galatians 4:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Galatians 4:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Galatians 4:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Galatians 4:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Galatians 4:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.978723,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Galatians 4:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Galatians 4:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.926829
+    },
+    {
+      "reference": "Galatians 4:26",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 4:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Galatians 4:28",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Galatians 4:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.897959
+    },
+    {
+      "reference": "Galatians 4:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.819672
+    },
+    {
+      "reference": "Galatians 4:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.882353,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Galatians 5:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Galatians 5:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Galatians 5:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Galatians 5:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Galatians 5:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Galatians 5:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Galatians 5:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "Galatians 5:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Galatians 5:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Galatians 5:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.654545,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Galatians 5:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.980392,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Galatians 5:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Galatians 5:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.892857
+    },
+    {
+      "reference": "Galatians 5:14",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.9375,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 5:15",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.833333,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 5:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Galatians 5:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.539683,
+      "after_similarity": 0.515152
+    },
+    {
+      "reference": "Galatians 5:18",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 5:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Galatians 5:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.608696,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Galatians 5:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Galatians 5:22",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 5:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Galatians 5:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.967742,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "Galatians 5:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Galatians 5:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Galatians 6:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.69697,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Galatians 6:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Galatians 6:3",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.5,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 6:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.583333,
+      "after_similarity": 0.521739
+    },
+    {
+      "reference": "Galatians 6:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Galatians 6:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Galatians 6:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Galatians 6:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.779661,
+      "after_similarity": 0.711864
+    },
+    {
+      "reference": "Galatians 6:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Galatians 6:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Galatians 6:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Galatians 6:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Galatians 6:13",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.943396,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Galatians 6:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.847458,
+      "after_similarity": 0.847458
+    },
+    {
+      "reference": "Galatians 6:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Galatians 6:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.611111,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Galatians 6:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Galatians 6:18",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

@@ -1,0 +1,7 @@
+# Ephesians 1–5 authoring self-reread
+
+This is a focused bilingual drafting-assistant reread, not human or independent scholarly review. All 131 exact SBLGNT records in chapters 1–5 were read before authoring, then compared with the revised English, prior Fluent, and TSW.
+
+The reread checked the bracketed [in Ephesus] in 1:1; the long blessing's repeated ‘in Christ,’ choice, adoption, redemption, inheritance, seal, and down-payment language; the eyes of the heart, powers, head/body, and fullness images; death/life and grace/faith/works; Gentile alienation, Israel, the two groups made one, hostility killed at the cross, access, citizenship, household, temple, and dwelling; Paul's interrupted prisoner sentence and resumed prayer; the three co- compounds in 3:6; Christ's faithfulness in 3:12; the unnamed dimensions of 3:18; one body/Spirit/hope/Lord/faith/baptism/God; captive-captivity, descent, gifted leaders who equip the saints, shared maturity, the speaking-truth and whole-body images, anger without sin, labor for sharing, and speech that gives grace.
+
+Chapter 5 was reread for light/darkness, the wake-up quotation, time, Spirit-filled mutual song and thanksgiving, mutual submission in verse 21, the absent verb in verse 22 supplied from that clause, wife/husband gender specificity, head/body comparison, and the husband's repeated self-giving, nourishing, tender-care command. The apparatus explicitly blocks coercive use without replacing the ancient wording. All decisions remain REVIEW_PENDING.

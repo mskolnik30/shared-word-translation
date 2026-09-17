@@ -2,244 +2,425 @@
   "book": "Ephesians",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 32,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Eph.txt",
     "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ephesians 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "27f5a7813513bdbed46ac718cc37b58619513d326f3dd6d9d54ca511a54d9cae"
-      },
-      "2": {
-        "source_ref": "Ephesians 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "66ac9ad78751c181ee5ef4e224dcbcb4c0360476354fb1c32ad8010d8048f3e8"
-      },
-      "3": {
-        "source_ref": "Ephesians 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "614111b82c16b0de8c953847252d65bd97769e896d7f3249caef4a288ccb3856"
-      },
-      "4": {
-        "source_ref": "Ephesians 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "afef7a5eb459a6434c3cc75430a6993057311f83bb8a984f0f257fdda469f79e"
-      },
-      "5": {
-        "source_ref": "Ephesians 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "f2e3cb5752408b38e509294b0c777047936156f7482a8aec5d4756404d94483d"
-      },
-      "6": {
-        "source_ref": "Ephesians 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f9a78c64f69a0c697e5ec3f0dcbbfc5cd2ae7178a65bbd40405afc0af1f3d231"
-      },
-      "7": {
-        "source_ref": "Ephesians 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "254dd0a5eab35adffaa41b6dc307bda08406dbe3bdbe55d73a390938a1476794"
-      },
-      "8": {
-        "source_ref": "Ephesians 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "6f009d2d7306f320a48355a89cdd2682cbe4d14adbe7953cb8b87dd2c278c187"
-      },
-      "9": {
-        "source_ref": "Ephesians 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "820f14717022c613436f4c98449c58a9f89a147023440a354d6fb83eebe07356"
-      },
-      "10": {
-        "source_ref": "Ephesians 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "e0eb451d3eca7aa94998ce1c8bb03245876701cdda4670dcced0955aefeffb35"
-      },
-      "11": {
-        "source_ref": "Ephesians 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "ac474bf03b9106f1741a55831cfdcd8e72ca39d57307c1690849e89670dc2531"
-      },
-      "12": {
-        "source_ref": "Ephesians 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "7fb1a28042edfcbaaf4e75f38faf7b900b2d268238f99d4272d3a1f98f354261"
-      },
-      "13": {
-        "source_ref": "Ephesians 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "c75ba1bd35640f3f049bbebb9cb1a28062ff052c62752e5f9639774ea698592b"
-      },
-      "14": {
-        "source_ref": "Ephesians 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "82cfa055b32aee07f92b44d756a486d98f75149b15a8ca38d892c1ab0e7a8931"
-      },
-      "15": {
-        "source_ref": "Ephesians 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "271e8bf1ecc33f5a41d7b14cd4a5a3b32ed498ae22babb4f9a01c6cf1513bbca"
-      },
-      "16": {
-        "source_ref": "Ephesians 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "424a8d53a65b9e266b78ae80285360e0632822e83ae25e75c91dc767155da088"
-      },
-      "17": {
-        "source_ref": "Ephesians 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "8a06fa47319e8745573e6f27941fa1f5ce8726f09b10f21a9e1edfbf3ab8d43b"
-      },
-      "18": {
-        "source_ref": "Ephesians 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "013ebf9c4297bf704baa6fd77f8432b6c264c385dc2a9f273663bcc4127de2a2"
-      },
-      "19": {
-        "source_ref": "Ephesians 4:19",
-        "source_chapter": 4,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "1a9847f2d585464ca81921ad34f9270258f33b8c8daa036a879b6953ca2769fb"
-      },
-      "20": {
-        "source_ref": "Ephesians 4:20",
-        "source_chapter": 4,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "58b011df0b6dbaed761c18a15e22e213d65c8f1eb0668899e96c2763e40d4d1d"
-      },
-      "21": {
-        "source_ref": "Ephesians 4:21",
-        "source_chapter": 4,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "28f1482ad1ad10b6f9c4dd56c8a040f7fe4328467a4bdf9dd6abad15ae2d98fc"
-      },
-      "22": {
-        "source_ref": "Ephesians 4:22",
-        "source_chapter": 4,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "8ecee2bb61ad02fc60dd28c96cce79081e222a18efe2e5d51fbfa18ee29c2b2c"
-      },
-      "23": {
-        "source_ref": "Ephesians 4:23",
-        "source_chapter": 4,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "767d3dc2070e82a52f1863a07d336b2c76a562196c1b3d9aa3402154186fbb8a"
-      },
-      "24": {
-        "source_ref": "Ephesians 4:24",
-        "source_chapter": 4,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "18427358bcf9dac5098bd8a4c9ca18477a21cf0e8b2cad34fda4e9bd131dda20"
-      },
-      "25": {
-        "source_ref": "Ephesians 4:25",
-        "source_chapter": 4,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "9c3ff4b50d3d03c6b9bd53d93cf76340abd63e7f13b852962731ade0a47e5bbd"
-      },
-      "26": {
-        "source_ref": "Ephesians 4:26",
-        "source_chapter": 4,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "f5d7b1aab149aab73d4cfff2e141e7a20e6f222e2064853751af5452e89382f4"
-      },
-      "27": {
-        "source_ref": "Ephesians 4:27",
-        "source_chapter": 4,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "13ebb1ecc582633c3edcb5e16550db76cd9a2f66b3e3aa586c0fb79db4ba1746"
-      },
-      "28": {
-        "source_ref": "Ephesians 4:28",
-        "source_chapter": 4,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "4180a4a3ac083928b4c498d48bc43b97de54f4f757d52c9c17b0f53307c88c01"
-      },
-      "29": {
-        "source_ref": "Ephesians 4:29",
-        "source_chapter": 4,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "a65075597f3c5629cfbefa59d23b667c226f8363b1358a8a088c046ec5f21b50"
-      },
-      "30": {
-        "source_ref": "Ephesians 4:30",
-        "source_chapter": 4,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "89140257dbcc147949399b533d44bba022368aa851f0c459e29d46f88abda455"
-      },
-      "31": {
-        "source_ref": "Ephesians 4:31",
-        "source_chapter": 4,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "ee738baa84f9ea97d2aaed7361f35ed1d29e9f30d83ce3e0ef1dd89a3680f005"
-      },
-      "32": {
-        "source_ref": "Ephesians 4:32",
-        "source_chapter": 4,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "b244f6203782d272285142e30a11cb4162657dc3a4843f8c28ce3544f566b0d1"
-      }
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 32,
+    "path": "translations/fluent/NT/ephesians/Ephesians_04.md",
+    "before_sha256": "cbdffa026049fb68777d87d3ab0196f5c05ddfd679b9445655d5497bfa8d7d9c",
+    "after_sha256": "bfb21e8450ad148f48d286946aa86d006653f4cc9f02565ed8207b05733efdbe",
+    "tsw_comparator_path": "books/NT/ephesians/Ephesians_04.md",
+    "tsw_comparator_sha256": "c20dc24e25e593c9aaa73f3471cad88b782c74f3cb2d376776641998398d248c"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Ephesians 4:1",
+      "delta": "F3",
+      "rationale": "Keeps prisoner identity, exhortation, and calling repetition.",
+      "source_reference": "Eph 4:1",
+      "source_verse_sha256": "797fe0f88d888ae5d0d6b2befa8de26b050e9791ad297d66594fe5c0ce30c379",
+      "before": "Therefore I, the prisoner in the Lord, urge you to walk worthy of the calling with which you were called,",
+      "after": "Therefore I, the prisoner in the Lord, urge you to walk in a manner worthy of the calling with which you were called,",
+      "tsw_comparator": "Therefore I, the prisoner in the Lord, urge you to walk in a manner worthy of the calling to which you have been called,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.893617,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:2",
+      "delta": "F3",
+      "rationale": "Preserves the four relational qualities.",
+      "source_reference": "Eph 4:2",
+      "source_verse_sha256": "3ce6aba27504b3a0c83001a82e4e33f14ddab2e9a96f0771ffeabb1ff3a4ac66",
+      "before": "with all humility and gentleness, with patience, bearing with one another in love,",
+      "after": "with all humility and gentleness, with patience, bearing with one another in love,",
+      "tsw_comparator": "with all humility and gentleness, with patience, bearing with one another in love,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:3",
+      "delta": "F3",
+      "rationale": "Keeps Spirit as unity's source and peace as bond.",
+      "source_reference": "Eph 4:3",
+      "source_verse_sha256": "880ea607b7f04f687f10060d36a7e44cae6c4f079163cff2530c10027cb447da",
+      "before": "making every effort to maintain the unity of the Spirit in the bond of peace:",
+      "after": "making every effort to preserve the unity of the Spirit in the bond of peace:",
+      "tsw_comparator": "being eager to maintain the unity of the Spirit in the bond of peace.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:4",
+      "delta": "F3",
+      "rationale": "Preserves repeated one and calling.",
+      "source_reference": "Eph 4:4",
+      "source_verse_sha256": "f842307d794810ac7aff1373590f7694848c56da0a92fe9ae47a2279d32a4105",
+      "before": "one body and one Spirit, just as you were called to one hope of your calling;",
+      "after": "one body and one Spirit, just as you were also called in one hope of your calling;",
+      "tsw_comparator": "There is one body and one Spirit, just as also you were called in one hope of your calling,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:6",
+      "delta": "F3",
+      "rationale": "Preserves repeated all and three relations.",
+      "source_reference": "Eph 4:6",
+      "source_verse_sha256": "88a898e059ecf038af1d07c7426d6af37785e81057ecdbf8c872b95e871f99a0",
+      "before": "one God and Father of all, who is over all and through all and in all.",
+      "after": "one God and Father of all, who is over all, through all, and in all.",
+      "tsw_comparator": "one God and Father of all, who is over all and through all and in all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.967742,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:7",
+      "delta": "F3",
+      "rationale": "Keeps movement from unity to individual gift and measured grace.",
+      "source_reference": "Eph 4:7",
+      "source_verse_sha256": "ab14053b13158d9b6f5ef7384e1e55343a63b4f4d49376faa2245e40c420c9a2",
+      "before": "But grace was given to each one of us according to the measure of Christ’s gift.",
+      "after": "But grace was given to each one of us according to the measure of Christ's gift.",
+      "tsw_comparator": "But to each one of us grace was given according to the measure of Christ’s gift.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:8",
+      "delta": "F3",
+      "rationale": "Retains unusual captive-captivity wording and gift shift.",
+      "source_reference": "Eph 4:8",
+      "source_verse_sha256": "64d06cc75fd282be1de984a2a9d31e824cccc6e5422b3643f4e0269f0d8e27c9",
+      "before": "Therefore it says, “When he ascended on high, he took captivity captive and gave gifts to people.”",
+      "after": "Therefore it says, “When he ascended on high, he took captivity captive; he gave gifts to people.”",
+      "tsw_comparator": "Therefore it says, “When he ascended on high he led captivity captive, and gave gifts to human beings.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:9",
+      "delta": "F3",
+      "rationale": "Keeps interpretive question and geographic ambiguity.",
+      "source_reference": "Eph 4:9",
+      "source_verse_sha256": "694ad1bc78a71e0eb5b0b2dd8902c4946084eff61eab51bb2a56c32312e2df4e",
+      "before": "Now what does “he ascended” mean except that he also descended into the lower regions of the earth?",
+      "after": "Now what does “he ascended” mean except that he also descended into the lower parts of the earth?",
+      "tsw_comparator": "Now this expression, “he ascended,” what does it mean except that he also descended into the lower parts of the earth?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:10",
+      "delta": "F3",
+      "rationale": "Preserves same subject, movement, and purpose.",
+      "source_reference": "Eph 4:10",
+      "source_verse_sha256": "a506b0507942acaf2dcfb5eb5dc392407e3853f2213716821b6d7ea4dc91fd30",
+      "before": "The one who descended is the same one who also ascended far above all the heavens so that he might fill all things.",
+      "after": "The one who descended is also the one who ascended far above all the heavens, so that he might fill all things.",
+      "tsw_comparator": "The one who descended is the same one who also ascended far above all the heavens, so that he might fill all things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:11",
+      "delta": "F3",
+      "rationale": "Keeps persons as gifts and the five designations.",
+      "source_reference": "Eph 4:11",
+      "source_verse_sha256": "1708ed0812c25d86a3d75402f0ae498e4aa95eeca5a81562c8e512ee00c657bf",
+      "before": "And he himself gave some as apostles, some as prophets, some as evangelists, and some as shepherds and teachers,",
+      "after": "And he himself gave some as apostles, some as prophets, some as evangelists, and some as pastors and teachers,",
+      "tsw_comparator": "And he gave some as apostles, some as prophets, some as evangelists, some as shepherds and teachers,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:12",
+      "delta": "F3",
+      "rationale": "Preserves equipping, saints' ministry, and bodily construction.",
+      "source_reference": "Eph 4:12",
+      "source_verse_sha256": "16926ca689d3a11b2280c453af734e15eedacdb25f6a1c57da768d5ae0d81d9a",
+      "before": "to equip the holy ones for the work of ministry, for building up Christ’s body,",
+      "after": "to equip the saints for the work of ministry, for building up Christ's body,",
+      "tsw_comparator": "for the equipping of the holy ones for the work of ministry, for the building up of the body of Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:13",
+      "delta": "F3",
+      "rationale": "Keeps communal goal and adult/fullness measure.",
+      "source_reference": "Eph 4:13",
+      "source_verse_sha256": "1f921ce6409c25e05a7fa7fc61a31293ab4c23603eb0dcc09085ea2e715c3e8e",
+      "before": "until we all reach unity of the trust and of the knowledge of God’s Son, mature humanity, the measure of the stature of Christ’s fullness.",
+      "after": "until all of us reach unity in the faith and in knowing the Son of God, mature humanity, the measure of the stature of Christ's fullness.",
+      "tsw_comparator": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to maturity, to the measure of the stature of the fullness of Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.586207,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:14",
+      "delta": "F3",
+      "rationale": "Preserves sea/weather images and intentional deception.",
+      "source_reference": "Eph 4:14",
+      "source_verse_sha256": "fdaa82a1ee21decfb36ffb599be4ea784e7d8ec4417bddc72ceeb516e56b006a",
+      "before": "Then we will no longer be children, tossed by waves and carried around by every wind of teaching, by human trickery and crafty schemes of deceit.",
+      "after": "Then we will no longer be children, tossed by waves and carried around by every wind of teaching, by human trickery and cunning schemes that lead into error.",
+      "tsw_comparator": "so that we may no longer be children, tossed back and forth by the waves and carried about by every wind of teaching, by human cunning, by craftiness in deceitful schemes;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.644068,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:15",
+      "delta": "F3",
+      "rationale": "Keeps truth-as-action, love, growth, and head image.",
+      "source_reference": "Eph 4:15",
+      "source_verse_sha256": "a04a32301df2d08dec8f5bacf048490d08ab17b054022ddb16f761cbff00a02e",
+      "before": "Instead, speaking truth in love, let us grow in every way into him who is the head—Christ.",
+      "after": "Instead, speaking truth in love, let us grow in every way into him who is the head—Christ.",
+      "tsw_comparator": "but speaking the truth in love, we are to grow up in every way into him who is the head, Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:16",
+      "delta": "F3",
+      "rationale": "Preserves integrated body and each part's measured action.",
+      "source_reference": "Eph 4:16",
+      "source_verse_sha256": "daa80ed7bcb529fc547872359a54018b6f58a24b3aa761b4bc29271923e1a9c5",
+      "before": "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love as each part does its work.",
+      "after": "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love as each individual part does its work in proper measure.",
+      "tsw_comparator": "from whom the whole body, joined and held together by every supporting joint, according to the working of each individual part, makes the body grow so that it builds itself up in love.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.507937,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:17",
+      "delta": "F3",
+      "rationale": "Keeps solemn charge and walk/mind relation.",
+      "source_reference": "Eph 4:17",
+      "source_verse_sha256": "6dfd588901a0b2bd303b50cc531461614e608da0a4df4cfb049d8bcc290ca24a",
+      "before": "Therefore I say this and testify in the Lord: you must no longer walk as the Gentiles walk, in the futility of their thinking.",
+      "after": "Therefore I say this and testify in the Lord: you must no longer walk as the Gentiles also walk, in the futility of their minds.",
+      "tsw_comparator": "Therefore I say this and testify in the Lord, that you must no longer walk as the Gentiles walk, in the futility of their minds,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:18",
+      "delta": "F3",
+      "rationale": "Preserves mental, relational, causal, and bodily imagery.",
+      "source_reference": "Eph 4:18",
+      "source_verse_sha256": "36d496f3831a2d6efec01fe75ff968a299cd3a5c0f1962957efe04d3d0822c16",
+      "before": "They are darkened in understanding, alienated from God’s life because of the ignorance in them, because of the hardness of their hearts.",
+      "after": "They are darkened in understanding and alienated from God's life because of the ignorance within them, because of the hardness of their hearts.",
+      "tsw_comparator": "being darkened in understanding, alienated from the life of God because of the ignorance that is in them, due to the hardness of their hearts;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:19",
+      "delta": "F3",
+      "rationale": "Keeps self-surrender, practice, and acquisitive excess.",
+      "source_reference": "Eph 4:19",
+      "source_verse_sha256": "83956b390ce7fc82d602579fcb48ccdce194ee30237b46d58d70ba64133c0d50",
+      "before": "Having become callous, they gave themselves over to sensuality for the practice of every kind of impurity with greed.",
+      "after": "Having become callous, they gave themselves over to debauchery, to practice every kind of impurity with greed.",
+      "tsw_comparator": "who, having become callous, have given themselves over to sensuality for the practice of every kind of impurity with greed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.702703,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:20",
+      "delta": "F3",
+      "rationale": "Retains Christ as the person learned and the interrupted thought.",
+      "source_reference": "Eph 4:20",
+      "source_verse_sha256": "cf5c668bd44307f4cf8e241ef8f7b18b546c082d304c39264b80abe4b3f36d85",
+      "before": "But that is not how you learned Christ—",
+      "after": "But that is not how you learned Christ,",
+      "tsw_comparator": "But you did not learn Christ in this way—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.352941,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:22",
+      "delta": "F3",
+      "rationale": "Preserves clothing metaphor, former conduct, and continuing corruption.",
+      "source_reference": "Eph 4:22",
+      "source_verse_sha256": "5df0a6b78db4daf751ec12549aaeb537504dae3aa2d24ee8c2e38db7a69a8832",
+      "before": "put off the old humanity, which belongs to your former way of life and is being corrupted through deceitful desires;",
+      "after": "you were taught to put off the old person belonging to your former way of life, which is being corrupted by deceitful desires,",
+      "tsw_comparator": "to put off your former way of life, the old self, which is being corrupted according to deceitful desires,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:23",
+      "delta": "F3",
+      "rationale": "Keeps passive renewal and mental sphere.",
+      "source_reference": "Eph 4:23",
+      "source_verse_sha256": "1b346f6afe2efbe6310b8160dd615fc9f48bc18e30f75db59c226c51d85998a2",
+      "before": "be renewed in the spirit of your mind,",
+      "after": "to be renewed in the spirit of your minds,",
+      "tsw_comparator": "and to be renewed in the spirit of your minds,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:24",
+      "delta": "F3",
+      "rationale": "Preserves clothing, creation, divine pattern, and truth.",
+      "source_reference": "Eph 4:24",
+      "source_verse_sha256": "bed3056fe4bf1f8d7a71394c73b3c3c97f7e8e796390780fbdf2edd78d60e89c",
+      "before": "and put on the new humanity, created according to God in righteousness and holiness of truth.",
+      "after": "and to put on the new person, created according to God in the righteousness and holiness that come from truth.",
+      "tsw_comparator": "and to put on the new self, created according to God in righteousness and holiness of truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:25",
+      "delta": "F3",
+      "rationale": "Keeps quotation and bodily reason for truthfulness.",
+      "source_reference": "Eph 4:25",
+      "source_verse_sha256": "335732a5613679cee664ab12155f00e3bacfd2348a2e21fa94edcede60a02a71",
+      "before": "Therefore, putting away falsehood, “let each of you speak truth with your neighbor,” because we are members of one another.",
+      "after": "Therefore, putting away falsehood, “each of you speak truth with your neighbor,” because we are members of one another.",
+      "tsw_comparator": "Therefore, having put away falsehood, speak truth each one with his neighbor, for we are members of one another.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684211,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:26",
+      "delta": "F3",
+      "rationale": "Preserves command, limit, sun image, and ongoing irritation.",
+      "source_reference": "Eph 4:26",
+      "source_verse_sha256": "74f8553eb3c59c039679790898ed88b08238341451203a0c2810a4c54bc14ac3",
+      "before": "“Be angry and do not sin.” Do not let the sun go down on your anger,",
+      "after": "“Be angry, but do not sin.” Do not let the sun set while you remain provoked,",
+      "tsw_comparator": "Be angry and do not sin; do not let the sun set on your anger,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:28",
+      "delta": "F3",
+      "rationale": "Preserves cessation, work, bodily means, and generosity's purpose.",
+      "source_reference": "Eph 4:28",
+      "source_verse_sha256": "3f6ba68ed7c5f15a8ac2d504da415ba11dc3fb821743b38ca767f817a5ba96bf",
+      "before": "The one who steals must steal no longer; instead, let that person work, doing good with their own hands so they may have something to share with anyone in need.",
+      "after": "The one who steals must steal no longer, but rather must labor, doing good work with their own hands, so that they may have something to share with anyone in need.",
+      "tsw_comparator": "Let the one who steals steal no longer, but rather let him labor, doing honest work with his own hands, so that he may have something to share with the one who has need.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.738462,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:29",
+      "delta": "F3",
+      "rationale": "Keeps decay image, situational benefit, and grace.",
+      "source_reference": "Eph 4:29",
+      "source_verse_sha256": "e3238b06071c576d5e49b9943cdd7c2e4e9fb8979be5e7e36e698d64d90faff6",
+      "before": "Let no corrupt word come out of your mouth, but only what is good for building up as the need requires, so that it may give grace to those who hear.",
+      "after": "Let no rotten word come out of your mouth, but only what is good for building up as the need requires, so that it may give grace to those who hear.",
+      "tsw_comparator": "Let no corrupt word come out of your mouth, but only what is good for building up, as fits the need, so that it may give grace to those who hear.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.935484,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:30",
+      "delta": "F3",
+      "rationale": "Preserves personal grief, seal, and future day.",
+      "source_reference": "Eph 4:30",
+      "source_verse_sha256": "786cf4863d365daf42f87496b843a19f30bf43ebe64f556cc4a435ca586ffe7d",
+      "before": "And do not grieve God’s Holy Spirit, by whom you were sealed for the day of redemption.",
+      "after": "And do not grieve God's Holy Spirit, by whom you were sealed for the day of redemption.",
+      "tsw_comparator": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:31",
+      "delta": "F3",
+      "rationale": "Keeps the complete harmful-speech/anger list.",
+      "source_reference": "Eph 4:31",
+      "source_verse_sha256": "d117d493ae56d0b43476113e830c0203fade1292f36276e4b14297e27889c9aa",
+      "before": "Let all bitterness, rage, anger, shouting, and slander be removed from you, along with every kind of malice.",
+      "after": "Let all bitterness, rage, anger, shouting, and slander be removed from you, along with every kind of malice.",
+      "tsw_comparator": "Let all bitterness and wrath and anger and shouting and slander be removed from you, along with all malice.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 4:32",
+      "delta": "F3",
+      "rationale": "Preserves mutuality and divine pattern.",
+      "source_reference": "Eph 4:32",
+      "source_verse_sha256": "d7260587abda16342be7fc7bd1838633d7872007ae2755a9f09503acbd286e31",
+      "before": "Be kind to one another, tenderhearted, forgiving one another, just as God in Christ also forgave you.",
+      "after": "Instead, be kind and compassionate to one another, forgiving each other just as God in Christ forgave you.",
+      "tsw_comparator": "And be kind to one another, tenderhearted, forgiving one another, just as God in Christ forgave you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/ephesians/Ephesians_04.md",
-    "blob_sha": "30764e4bc3b7135a36a6afcc43d668c8ceffaa7d"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

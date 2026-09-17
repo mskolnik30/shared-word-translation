@@ -1,0 +1,40 @@
+{
+  "parent_commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+  "parent_library_version": 92,
+  "book": "Galatians",
+  "slug": "galatians",
+  "chapters": [1, 2, 3, 4, 5, 6],
+  "scope": "Galatians 1–6",
+  "expected_verses": 149,
+  "source_filename": "galatians-pinned-greek.txt",
+  "new_source_files": ["galatians-pinned-greek.txt"],
+  "book_record_files": ["GALATIANS_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Ephesians 1–5",
+  "completed_block_scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6",
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Gal.txt",
+    "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["1:1", "1:4", "1:6", "1:8", "1:9", "1:10", "1:12", "1:13", "1:14", "1:15", "1:16", "1:18", "1:19", "1:22", "1:23", "2:2", "2:3", "2:4", "2:5", "2:6", "2:7", "2:9", "2:10", "2:11", "2:12", "2:13", "2:14", "2:15", "2:16", "2:17", "2:19", "2:20", "2:21", "3:1", "3:2", "3:3", "3:4", "3:5", "3:7", "3:8", "3:10", "3:11", "3:12", "3:13", "3:14", "3:15", "3:16", "3:17", "3:19", "3:20", "3:21", "3:22", "3:23", "3:24", "3:26", "3:27", "3:28", "3:29", "4:1", "4:2", "4:3", "4:4", "4:5", "4:6", "4:7", "4:8", "4:9", "4:10", "4:13", "4:14", "4:15", "4:17", "4:19", "4:22", "4:23", "4:24", "4:25", "4:26", "4:27", "4:29", "4:30", "4:31", "5:1", "5:2", "5:3", "5:4", "5:5", "5:6", "5:7", "5:11", "5:12", "5:13", "5:15", "5:16", "5:17", "5:19", "5:20", "5:21", "5:22", "5:24", "5:25", "6:1", "6:2", "6:3", "6:4", "6:5", "6:6", "6:7", "6:8", "6:11", "6:12", "6:13", "6:14", "6:15", "6:16", "6:17"],
+  "apparatus": {
+    "1": {"notes": [["08–9", "The repeated curse applies even to Paul and an angel if the proclaimed message contradicts the gospel already received; it is not permission for violence."], ["13–14", "Paul describes his own former persecution and attempted destruction of God's church while locating that conduct within his former life in Judaism."], ["18", "The pinned Greek names Cephas, the Aramaic form associated with Peter; the source-form name is retained."]], "vocabulary": [["08", "ἀνάθεμα (anathema)", "Accursed or devoted to destruction."], ["16", "σὰρξ καὶ αἷμα (sarx kai haima)", "Flesh and blood, an idiom for human beings."]]},
+    "2": {"notes": [["04–5", "The intruders spy on freedom in order to enslave. Paul describes resisting their demanded submission so the gospel's truth remains."], ["11–14", "Paul confronts Cephas publicly because fear-driven withdrawal from table fellowship pressured Gentiles to adopt Jewish practice."], ["16, 20", "The Greek phrase can mean faith in Christ or Christ's faithfulness. The main text uses Christ's faithfulness while also explicitly retaining the believers' act of trusting Christ."]], "vocabulary": [["04", "ἐλευθερία (eleutheria)", "Freedom, liberty, or release from enslavement."], ["16", "δικαιόω (dikaioō)", "Justify, vindicate, or declare righteous."]]},
+    "3": {"notes": [["16", "Paul builds an argument on the collective singular ‘offspring,’ identifying the promised offspring with Christ."], ["19–20", "The statement about the mediator is exceptionally compressed and has many interpretations; the translation does not supply an unstated explanation."], ["24", "The paidagōgos was a household guardian or supervisor, not simply a modern schoolteacher."], ["28", "The verse retains enslaved/free and male/female as real social and gendered distinctions while declaring unity in Christ."]], "vocabulary": [["24", "παιδαγωγός (paidagōgos)", "A household guardian supervising a minor."], ["28", "δοῦλος (doulos)", "An enslaved person or slave."]]},
+    "4": {"notes": [["01–7", "The heir is male in the analogy because ‘son’ names full inheritance status in its ancient setting; Paul applies that status to the whole community."], ["13–15", "Paul identifies a bodily weakness but does not diagnose it. The eye language expresses extreme devotion and is not sufficient evidence of a particular illness."], ["22–31", "Paul explicitly calls his reading allegorical. The translation retains Hagar, slavery, expulsion, and the two Jerusalems without turning the analogy into a general judgment about ethnic groups."]], "vocabulary": [["05", "υἱοθεσία (huiothesia)", "Adoption as a son, with full inheritance status."], ["24", "ἀλληγορέω (allēgoreō)", "Speak or interpret allegorically."]]},
+    "5": {"notes": [["12", "Paul's wish uses bodily wordplay with circumcision and means that the agitators would castrate themselves. Its harshness is not softened."], ["13", "Freedom is contrasted with an opportunity for the flesh and immediately directed into loving service pictured as voluntary enslavement."], ["19–23", "The works are plural while the Spirit's fruit is singular. The lists concern practiced communal life, not a tool for excusing coercive judgment."]], "vocabulary": [["12", "ἀποκόπτω (apokoptō)", "Cut off; here, castrate or mutilate."], ["23", "ἐγκράτεια (enkrateia)", "Self-control or mastery of one's impulses."]]},
+    "6": {"notes": [["01", "Restoration is to be done gently and with self-scrutiny, not superiority."], ["02, 5", "The chapter commands mutual burden-bearing and personal load-bearing. The different contexts keep solidarity and responsibility together."], ["16", "‘The Israel of God’ may identify the same rule-following group or an additional group. The conjunction is retained rather than resolving the referent."], ["17", "The marks are bodily scars associated with belonging to Jesus; the text does not claim they are miraculous wounds."]], "vocabulary": [["02", "βάρος (baros)", "A heavy burden or weight."], ["17", "στίγμα (stigma)", "A mark, brand, or scar signifying ownership or experience."]]}
+  }
+}

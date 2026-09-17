@@ -51,8 +51,17 @@ def main():
             shutil.copy2(src,O/'sources'/name)
         bindings_path=O/'sources'/'additional-source-bindings.json'
         bindings=json.loads(bindings_path.read_text()) if bindings_path.exists() else {}
-        bindings[cfg['slug']]={k:v for k,v in cfg['source'].items() if k in ['id','repository','repository_commit','file','git_blob_sha','sha256']}
-        bindings[cfg['slug']]['bytes']=(O/'sources'/cfg['source_filename']).stat().st_size
+        declared_bindings=cfg.get('additional_source_bindings')
+        if declared_bindings:
+            for slug, metadata in declared_bindings.items():
+                source_filename=metadata['source_filename']
+                entry={k:v for k,v in metadata.items() if k in ['id','repository','repository_commit','file','git_blob_sha','sha256']}
+                entry['bytes']=(O/'sources'/source_filename).stat().st_size
+                assert sha((O/'sources'/source_filename).read_bytes())==entry['sha256']
+                bindings[slug]=entry
+        else:
+            bindings[cfg['slug']]={k:v for k,v in cfg['source'].items() if k in ['id','repository','repository_commit','file','git_blob_sha','sha256']}
+            bindings[cfg['slug']]['bytes']=(O/'sources'/cfg['source_filename']).stat().st_size
         dump(bindings_path,bindings)
     if (P/'provenance').exists():shutil.copytree(P/'provenance',O/'provenance')
     prov=O/'provenance'/('parent-version-'+str(cfg['parent_library_version']))
@@ -75,6 +84,7 @@ def main():
     block=q['active_fifty_chapter_block']
     n=cfg.get('batch_chapters',len(cfg['chapters']))
     nv=cfg.get('batch_verses',cfg['expected_verses'])
+    ns=cfg.get('batch_source_records',nv)
     batch_scope=cfg.get('batch_scope',cfg['scope'])
     rel=str(A.relative_to(R))
     state.update(head_commit=head,branch=branch,completed=q['completed_draft_scopes'],counts=counts,
@@ -132,7 +142,7 @@ Report only verified progress and the saved file link. No routine approval reque
 
 New draft work: {batch_scope}, {n} chapters and {nv} verses. The preceding fifty-chapter block is draft-complete and its boundary verification is archived. The new active block is IN_PROGRESS: {block['completed_chapters']} draft-covered and {block['remaining_chapters']} remaining. Next: {cfg['next_scope']}.
 
-All {nv} Greek payloads were read before authoring. Each verse has its own rationale, before/after English, exact source binding, TSW comparator and provisional F0–F3 decision. {verification['focused_authoring_reread_count']} focused bilingual self-rereads are documented. Structural checks passed; no human or independent scholarly review is claimed. Publication is not allowed. Companion quotation/binding reconciliation and all queued whole-book reviews remain pending.
+All {ns} exact Greek source records supporting {nv} public verses were read before authoring. Each verse has its own rationale, before/after English, exact source binding, TSW comparator and provisional F0–F3 decision. {verification['focused_authoring_reread_count']} focused bilingual self-rereads are documented. Structural checks passed; no human or independent scholarly review is claimed. Publication is not allowed. Companion quotation/binding reconciliation and all queued whole-book reviews remain pending.
 
 All {verification['prior_preservation']['ledgers_byte_identical']} prior ledgers and {verification['prior_preservation']['chapters_byte_identical']} previously revised chapters are byte-identical to the parent. TSW, Companion and unrelated work are unchanged. Exact source files, including additional Gospel bindings, are preserved. The prior checkpoint manifest and continuation are retained under provenance. The bundle preserves {len(hist)} revision commits since base {base}. Current head: {head}; parent: {parent}; branch: {branch}.
 

@@ -2,174 +2,321 @@
   "book": "Ephesians",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 22,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_02_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Eph.txt",
     "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ephesians 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "715c9e800fd3683444d7f1321fbf0688b6d5741600b7afca4912ae37793541a1"
-      },
-      "2": {
-        "source_ref": "Ephesians 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "953dca5507b443e5259c611e9ef096996c872cd1cf0e29242b939f724e9d56ec"
-      },
-      "3": {
-        "source_ref": "Ephesians 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "59850e8dd886d8861300de7e8117a0b1715cbd45aa338ee4d453262266e0ece8"
-      },
-      "4": {
-        "source_ref": "Ephesians 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "ad7b744fa0d0a9be044a1f5d65ba05cb8d69ab5553b232fe613baa5bcd8aa2ca"
-      },
-      "5": {
-        "source_ref": "Ephesians 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "da37a49ce41cd918f885c0970f9bd0b1774c1f481c9af40d7bc1fd4d2c5548b1"
-      },
-      "6": {
-        "source_ref": "Ephesians 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "0bdee2a88b323294f21efe8146914d74ea290be7cce774430e7d1d165fb0ccdd"
-      },
-      "7": {
-        "source_ref": "Ephesians 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "f26759f2e1846f2cf6d24c78324e80d97689d699ddaba917af8bb093459014aa"
-      },
-      "8": {
-        "source_ref": "Ephesians 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "8583a5fe15e74167404e47214306b8488b99416954bb3a5dd4d9f3242527cafd"
-      },
-      "9": {
-        "source_ref": "Ephesians 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "f1479033487754e69d0367a89c0596181b1ea4a26a1660712487cd458f58495d"
-      },
-      "10": {
-        "source_ref": "Ephesians 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "5511e1745a955c36256cf7d6df07b49f19c40942eb1cc78e69f8f6dc28d447f5"
-      },
-      "11": {
-        "source_ref": "Ephesians 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "70d06a577c97e316e4f4de374b57e9c2d74a0b6bec11439c7c3d5fb435a07cb6"
-      },
-      "12": {
-        "source_ref": "Ephesians 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "91faa2b73e447caedc0acfca451f0831dfd82cc26845e5905ff8a4f9d60f6e2e"
-      },
-      "13": {
-        "source_ref": "Ephesians 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "c092d8f16d72d80c7b448dc5b1a2d6aae4e29114ec49721a747c3d064ad71653"
-      },
-      "14": {
-        "source_ref": "Ephesians 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "6bd5e4f380d826e5a497ea8caf851130b6815d8fb6fa2b9af6ef467ba003c3fe"
-      },
-      "15": {
-        "source_ref": "Ephesians 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "e4bbb25ee933947113902cfa1262ad4a1e543595641aeb54db911be05eb263ab"
-      },
-      "16": {
-        "source_ref": "Ephesians 2:16",
-        "source_chapter": 2,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "58974028daded100ed8299a7c6f6b0e88f2901080c7c8d61e12e0f3831b1a2a9"
-      },
-      "17": {
-        "source_ref": "Ephesians 2:17",
-        "source_chapter": 2,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "e649418ea9ed231a251c969dc58c229a532d3715d2a93a584855a8171bc29fe3"
-      },
-      "18": {
-        "source_ref": "Ephesians 2:18",
-        "source_chapter": 2,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "feda5b3623df4a4c21976e6c2e28c5be5f340f69982bd36b89469081170e4775"
-      },
-      "19": {
-        "source_ref": "Ephesians 2:19",
-        "source_chapter": 2,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "6708ee69b5aac4ee48558c247a5a13b0f5e15df698e5605033c16fff803e1667"
-      },
-      "20": {
-        "source_ref": "Ephesians 2:20",
-        "source_chapter": 2,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "41dea8796a7e6213e35cebec8829a39d3c22bf6f77c4682f8bb9850082c5c610"
-      },
-      "21": {
-        "source_ref": "Ephesians 2:21",
-        "source_chapter": 2,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "ca9d9911a007f853e64f8051adee39591e0cb008ab63fbc5fc2ccddbe303fb07"
-      },
-      "22": {
-        "source_ref": "Ephesians 2:22",
-        "source_chapter": 2,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "1fff1248b9b3bb7cd0e88637efcd6b8a37e23df5c52f64fa48ecd6615ad273ef"
-      }
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 22,
+    "path": "translations/fluent/NT/ephesians/Ephesians_02.md",
+    "before_sha256": "bfb8b4f52de009ab3c0a5f19c048b7c4d3740bd72a8c320f702505b72306e60f",
+    "after_sha256": "4769e90112d00a302955506b1f44e7c1d4ea3950f80f5d0bf315d869f508db45",
+    "tsw_comparator_path": "books/NT/ephesians/Ephesians_02.md",
+    "tsw_comparator_sha256": "6a65b1fe4438668063fbfc624c7a35c6a3d792c36b29b03d692e20abec28ff7f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Ephesians 2:1",
+      "delta": "F3",
+      "rationale": "Keeps the unfinished opening and death metaphor.",
+      "source_reference": "Eph 2:1",
+      "source_verse_sha256": "09e79ce31d5e38956120864fc95650ad9835ea9e4350662df10edba103d001d4",
+      "before": "You were dead in your trespasses and sins,",
+      "after": "And you were dead in your trespasses and sins,",
+      "tsw_comparator": "And you were dead in your trespasses and sins,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:2",
+      "delta": "F3",
+      "rationale": "Preserves former walk, cosmic ruler, air, and active spirit.",
+      "source_reference": "Eph 2:2",
+      "source_verse_sha256": "d453a6dcadfef33c12f94cbc9c87545e30df7b53b30c40090744795a76b0a988",
+      "before": "in which you once walked according to the age of this world, according to the ruler of the authority of the air, the spirit now at work in the children of disobedience.",
+      "after": "in which you once walked according to the age of this world, according to the ruler of the power of the air, the spirit now working in the children of disobedience.",
+      "tsw_comparator": "in which you once walked, following the course of this age, following the ruler of the authority of the air, the spirit now at work among the children of disobedience.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.721311,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:3",
+      "delta": "F3",
+      "rationale": "Keeps inclusive confession, desires, mind, and wrath idiom.",
+      "source_reference": "Eph 2:3",
+      "source_verse_sha256": "3c193148f52505f73d7a111ce8fd4cc56f6da998ff9918d730708ce52e45204e",
+      "before": "We all once lived among them in the desires of our flesh, doing what the flesh and our thoughts wanted, and we were by nature children of wrath, like the rest.",
+      "after": "All of us also once lived among them in the desires of our flesh, doing what the flesh and our thoughts willed, and we were by nature children of wrath like the rest.",
+      "tsw_comparator": "Among them we too once lived, in the desires of our flesh, doing what the flesh and the mind willed; and we were by nature children of wrath, like the rest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.78125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:5",
+      "delta": "F3",
+      "rationale": "Keeps co-life, interruption, and completed salvation.",
+      "source_reference": "Eph 2:5",
+      "source_verse_sha256": "7a9f28a9227f91a06dd1bcaeef5b9a413c2fd3d5022ff49de40de2acd069e125",
+      "before": "even when we were dead in trespasses, made us alive together with Christ—by grace you have been saved—",
+      "after": "even when we were dead in trespasses, made us alive together with Christ—by grace you have been saved—",
+      "tsw_comparator": "made us alive together with the Messiah—when we were dead in our trespasses—by grace you have been saved—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:6",
+      "delta": "F3",
+      "rationale": "Preserves both co- verbs and location.",
+      "source_reference": "Eph 2:6",
+      "source_verse_sha256": "4ea097b34062fc2b5cbca4a13b3d1f06b26bd099a9ee1773b96b412c59b60464",
+      "before": "and raised us up together and seated us together in the heavenly realms in Christ Jesus,",
+      "after": "and raised us together and seated us together in the heavenly realms in Christ Jesus,",
+      "tsw_comparator": "and raised us up together with him and seated us together with him in the heavenly places, in the Messiah Jesus,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:7",
+      "delta": "F3",
+      "rationale": "Keeps future display, abundance, and kindness.",
+      "source_reference": "Eph 2:7",
+      "source_verse_sha256": "68906979569f628cf40970590ead04b3b275139ee768c324ed3b91381add2b78",
+      "before": "so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus.",
+      "after": "so that in the coming ages he might demonstrate the surpassing wealth of his grace in kindness toward us in Christ Jesus.",
+      "tsw_comparator": "so that in the ages to come he might display the surpassing riches of his grace, in his kindness toward us in the Messiah Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:8",
+      "delta": "F3",
+      "rationale": "Preserves grace, faith, denial of self-source, and gift.",
+      "source_reference": "Eph 2:8",
+      "source_verse_sha256": "0bd878f61ead9578550b93789cfddcec808c81e3fd036ba28f0ef2f520e751a5",
+      "before": "For by grace you have been saved through trust, and this is not from yourselves; it is God’s gift,",
+      "after": "For by grace you have been saved through faith, and this is not from yourselves; it is God's gift,",
+      "tsw_comparator": "For by grace you have been saved, through faith. And this is not from yourselves; it is the gift of God—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:9",
+      "delta": "F3",
+      "rationale": "Keeps the concise exclusion and purpose.",
+      "source_reference": "Eph 2:9",
+      "source_verse_sha256": "df4c6a42b6e9f068fc666afe2de91176333dea888b7bdf1801efb6921b83d22d",
+      "before": "not from works, so that no one may boast.",
+      "after": "not from works, so that no one may boast.",
+      "tsw_comparator": "not from works, so that no one may boast.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:10",
+      "delta": "F3",
+      "rationale": "Preserves creation, prepared works, and walking image.",
+      "source_reference": "Eph 2:10",
+      "source_verse_sha256": "773809a7a821b61dbd5bba3a3df08e11b1f1400dee46eb38194596ef00306399",
+      "before": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we might walk in them.",
+      "after": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them.",
+      "tsw_comparator": "For we are his making, created in the Messiah Jesus for good works, which God prepared in advance, that we might walk in them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:11",
+      "delta": "F3",
+      "rationale": "Keeps ethnic/bodily labels and their human construction.",
+      "source_reference": "Eph 2:11",
+      "source_verse_sha256": "11b168f5bff4ed385773fe9d71dcc268c943219ba0acb5cadea7d8dc6fcf1de0",
+      "before": "Therefore remember that formerly you Gentiles in the flesh—called “uncircumcision” by what is called “circumcision,” performed in the flesh by human hands—",
+      "after": "Therefore remember that formerly you, Gentiles in the flesh—called “uncircumcision” by what is called “circumcision,” performed in the flesh by human hands—",
+      "tsw_comparator": "Therefore remember that once you, the Gentiles in the flesh—called \"the uncircumcision\" by what is called \"the circumcision,\" the kind that is done in flesh by hands—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:12",
+      "delta": "F3",
+      "rationale": "Preserves the full fivefold estrangement.",
+      "source_reference": "Eph 2:12",
+      "source_verse_sha256": "36678d3cec670fc881f50249956d899e7cb90a04147cdccb7061ed067aa0bba7",
+      "before": "remember that at that time you were without Christ, excluded from the citizenship of Israel and strangers to the covenants of promise, having no hope and without God in the world.",
+      "after": "remember that at that time you were without Christ, alienated from the citizenship of Israel and strangers to the covenants of promise, having no hope and without God in the world.",
+      "tsw_comparator": "that at that time you were apart from the Messiah, alienated from the citizenship of Israel, and strangers to the covenants of promise, having no hope and without God in the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:13",
+      "delta": "F3",
+      "rationale": "Keeps spatial reversal and costly means.",
+      "source_reference": "Eph 2:13",
+      "source_verse_sha256": "f675dd0059b9048f136f6eb3746652d5d55d0a67bd45a289d069b76a262abb26",
+      "before": "But now in Christ Jesus, you who once were far away have been brought near by the blood of Christ.",
+      "after": "But now in Christ Jesus, you who once were far away have been brought near by Christ's blood.",
+      "tsw_comparator": "But now, in the Messiah Jesus, you who once were far off have been brought near in the blood of the Messiah.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:14",
+      "delta": "F3",
+      "rationale": "Preserves Christ as peace, two-to-one, wall, body, and hostility.",
+      "source_reference": "Eph 2:14",
+      "source_verse_sha256": "90f74284a8f4f995b870382a2cbcfe5708972636094b7741f4f2a0d2e987b2c3",
+      "before": "For he himself is our peace, who made both groups one and broke down the dividing wall of hostility in his flesh.",
+      "after": "For he himself is our peace. He made the two one and in his flesh tore down the dividing wall, the hostility.",
+      "tsw_comparator": "For he himself is our peace, the one who has made the two one and has broken down the dividing wall of hostility,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:15",
+      "delta": "F3",
+      "rationale": "Keeps legal action, creation, two-to-one, and peace.",
+      "source_reference": "Eph 2:15",
+      "source_verse_sha256": "fc8f7fe8b9303b16a655586241ecbfa2725156b821bc6ee6c1806d288121c2fe",
+      "before": "He rendered powerless the Law of commandments in ordinances, so that he might create in himself one new humanity from the two, making peace,",
+      "after": "He nullified the law of commandments in decrees so that in himself he might create the two into one new humanity, making peace,",
+      "tsw_comparator": "setting aside in his flesh the law of commandments in decrees, so that in himself he might create the two into one new humanity, making peace,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:16",
+      "delta": "F3",
+      "rationale": "Preserves both groups, body, cross, and violent end of hostility.",
+      "source_reference": "Eph 2:16",
+      "source_verse_sha256": "8d1a7087ebc4a1c53695a64c756f6adba3f255869f505350903bfd8b2c682178",
+      "before": "and reconcile both to God in one body through the cross, killing the hostility through it.",
+      "after": "and reconcile both to God in one body through the cross, killing the hostility through it.",
+      "tsw_comparator": "and might reconcile both to God in one body through the cross, putting the hostility to death by it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:17",
+      "delta": "F3",
+      "rationale": "Keeps repeated peace and distance groups.",
+      "source_reference": "Eph 2:17",
+      "source_verse_sha256": "c26a5f15ac0579832b2e5a2d082af083f545d73a5de229008065bbd4e396ad65",
+      "before": "He came and announced good news of peace to you who were far away and peace to those who were near,",
+      "after": "He came and proclaimed peace to you who were far away and peace to those who were near,",
+      "tsw_comparator": "And he came and proclaimed the good news of peace to you who were far off and peace to those who were near.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:18",
+      "delta": "F3",
+      "rationale": "Preserves mediation, both, unity, and destination.",
+      "source_reference": "Eph 2:18",
+      "source_verse_sha256": "d6ba4caf98a426cbdcf9718f3757e439fa342ed8e1cee8f2b57bec1ba5b03023",
+      "before": "because through him we both have access in one Spirit to the Father.",
+      "after": "because through him both groups have access in one Spirit to the Father.",
+      "tsw_comparator": "For through him we both have access in one Spirit to the Father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:19",
+      "delta": "F3",
+      "rationale": "Keeps political and household status reversal.",
+      "source_reference": "Eph 2:19",
+      "source_verse_sha256": "cd3a2e36995e00ce09e37a69d978b0f48561a04d59730c9ae2d284cfc571d6b0",
+      "before": "So then you are no longer strangers and resident foreigners, but fellow citizens with the holy ones and members of God’s household,",
+      "after": "So then, you are no longer strangers and resident foreigners, but fellow citizens with the saints and members of God's household.",
+      "tsw_comparator": "So then you are no longer strangers and resident aliens, but you are fellow citizens with the saints and members of the household of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:20",
+      "delta": "F3",
+      "rationale": "Preserves construction and foundation roles.",
+      "source_reference": "Eph 2:20",
+      "source_verse_sha256": "b6f390a5042885739305ad59302ca70b045afae41509e02584ad650f58fce207",
+      "before": "built on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone.",
+      "after": "You have been built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone.",
+      "tsw_comparator": "built upon the foundation of the apostles and prophets, with the Messiah Jesus himself as the cornerstone,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:21",
+      "delta": "F3",
+      "rationale": "Keeps organic growth and temple image.",
+      "source_reference": "Eph 2:21",
+      "source_verse_sha256": "354a4d0e1010b1df6d6c26de93ebedf0a45a495b0d26637f9098183e656cd839",
+      "before": "In him the whole building, joined together, grows into a holy temple in the Lord.",
+      "after": "In him the whole building, joined together, grows into a holy temple in the Lord.",
+      "tsw_comparator": "in whom the whole building, fitted together, is rising into a holy temple in the Lord;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 2:22",
+      "delta": "F3",
+      "rationale": "Preserves ongoing communal construction and divine dwelling.",
+      "source_reference": "Eph 2:22",
+      "source_verse_sha256": "f017369b2c2b03b48e8c1aaf5b396e3f6d3e760ca94d327c348f03bf0f02a636",
+      "before": "In him you also are being built together into a dwelling place for God in the Spirit.",
+      "after": "And in him you also are being built together into a dwelling place for God in the Spirit.",
+      "tsw_comparator": "in whom you also are being built together into a dwelling for God in the Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/ephesians/Ephesians_02.md",
-    "blob_sha": "c74019f9512e87958230c62d85e18d030d80c744"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

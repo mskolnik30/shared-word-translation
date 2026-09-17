@@ -1,231 +1,151 @@
 {
-  "book": "1 Corinthians",
+  "book": "1Corinthians",
   "chapter": 8,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/1corinthians/1Corinthians_08_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Cor.txt",
-    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Cor.txt",
     "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Corinthians 8:1",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 1,
-            "source_ref": "1 Corinthians 8:1",
-            "segment_mode": "whole",
-            "sha256": "639f9be2a307ccea6ca4b392db4535e047067153e96e53b2b22edd6e5e53af3e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "639f9be2a307ccea6ca4b392db4535e047067153e96e53b2b22edd6e5e53af3e"
-      },
-      "2": {
-        "source_ref": "1 Corinthians 8:2",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 2,
-            "source_ref": "1 Corinthians 8:2",
-            "segment_mode": "whole",
-            "sha256": "43af4c76449e85198d3acaa7ef945b1fc1997b154dc09ecad0e4a92f3758f609"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "43af4c76449e85198d3acaa7ef945b1fc1997b154dc09ecad0e4a92f3758f609"
-      },
-      "3": {
-        "source_ref": "1 Corinthians 8:3",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 3,
-            "source_ref": "1 Corinthians 8:3",
-            "segment_mode": "whole",
-            "sha256": "5264f7324ae3999b1a72b4b38daa7cfd839453fe69d0b1c58b52ca04c2b17128"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5264f7324ae3999b1a72b4b38daa7cfd839453fe69d0b1c58b52ca04c2b17128"
-      },
-      "4": {
-        "source_ref": "1 Corinthians 8:4",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 4,
-            "source_ref": "1 Corinthians 8:4",
-            "segment_mode": "whole",
-            "sha256": "4c57919586da6e303cbedd53e1b779f5dca460029162f7a3c62d836b5025200c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4c57919586da6e303cbedd53e1b779f5dca460029162f7a3c62d836b5025200c"
-      },
-      "5": {
-        "source_ref": "1 Corinthians 8:5",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 5,
-            "source_ref": "1 Corinthians 8:5",
-            "segment_mode": "whole",
-            "sha256": "0b6c3b2dcc7d26d95d2dc0f652ec5acb1e0485e2bd52976e4b965476bc45b527"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0b6c3b2dcc7d26d95d2dc0f652ec5acb1e0485e2bd52976e4b965476bc45b527"
-      },
-      "6": {
-        "source_ref": "1 Corinthians 8:6",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 6,
-            "source_ref": "1 Corinthians 8:6",
-            "segment_mode": "whole",
-            "sha256": "c6406baf3b49a8d6bb5e1cfbeedd3cdd3906b00b8a4d1180a08b3a9c0d074cc0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c6406baf3b49a8d6bb5e1cfbeedd3cdd3906b00b8a4d1180a08b3a9c0d074cc0"
-      },
-      "7": {
-        "source_ref": "1 Corinthians 8:7",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 7,
-            "source_ref": "1 Corinthians 8:7",
-            "segment_mode": "whole",
-            "sha256": "ea08e3f236027fb1d4acff4ae7c10d07f8b3f015fb2515ba362fd564ec426236"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ea08e3f236027fb1d4acff4ae7c10d07f8b3f015fb2515ba362fd564ec426236"
-      },
-      "8": {
-        "source_ref": "1 Corinthians 8:8",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 8,
-            "source_ref": "1 Corinthians 8:8",
-            "segment_mode": "whole",
-            "sha256": "f511fd76710fc25419e9b2ef889f9d9faec052604a344f6e622181d1e1152956"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f511fd76710fc25419e9b2ef889f9d9faec052604a344f6e622181d1e1152956"
-      },
-      "9": {
-        "source_ref": "1 Corinthians 8:9",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 9,
-            "source_ref": "1 Corinthians 8:9",
-            "segment_mode": "whole",
-            "sha256": "944d3eb6ff4b0ac9597ff8a9c715301be8274008a1aea87e79b092ea4ca430ce"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "944d3eb6ff4b0ac9597ff8a9c715301be8274008a1aea87e79b092ea4ca430ce"
-      },
-      "10": {
-        "source_ref": "1 Corinthians 8:10",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 10,
-            "source_ref": "1 Corinthians 8:10",
-            "segment_mode": "whole",
-            "sha256": "a3252842888891d29aabba0d5d97476b2314d81cce63165033ab9f5d1f352547"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a3252842888891d29aabba0d5d97476b2314d81cce63165033ab9f5d1f352547"
-      },
-      "11": {
-        "source_ref": "1 Corinthians 8:11",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 11,
-            "source_ref": "1 Corinthians 8:11",
-            "segment_mode": "whole",
-            "sha256": "eb8052a4e4e45ee8267fd8a773ffcf3e1b55be2039b43b3067dd08276a84378d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "eb8052a4e4e45ee8267fd8a773ffcf3e1b55be2039b43b3067dd08276a84378d"
-      },
-      "12": {
-        "source_ref": "1 Corinthians 8:12",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 12,
-            "source_ref": "1 Corinthians 8:12",
-            "segment_mode": "whole",
-            "sha256": "7994b1106605da215b9d81416224b00e68fd78ab08aa11140b2d1090dc10ce4e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7994b1106605da215b9d81416224b00e68fd78ab08aa11140b2d1090dc10ce4e"
-      },
-      "13": {
-        "source_ref": "1 Corinthians 8:13",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 13,
-            "source_ref": "1 Corinthians 8:13",
-            "segment_mode": "whole",
-            "sha256": "1f76c47af4a173de63a11359ee1d5faa1d1425bd1f973cb1333cca658d7a9e38"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1f76c47af4a173de63a11359ee1d5faa1d1425bd1f973cb1333cca658d7a9e38"
-      }
+    "sha256": "2a706bac29f1e34568bf6862cbc1616471511e9b915d7292adba3e93fb72c946",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Cor",
+    "book_verse_count": 437,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 8,
+    "verse_count": 13,
+    "path": "translations/fluent/NT/1corinthians/1Corinthians_08.md",
+    "before_sha256": "105c3ecf5618756e89ac2f255130c93a5d58b0fc95d2737f20a2b845204767ff",
+    "after_sha256": "217d5ce1328da23c383eeb24af6ffe0df0a8f6c94726db454d24f20a223d225c",
+    "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_08.md",
+    "tsw_comparator_sha256": "2ee11e7197c9ccbd0e61ae4bc3067161bc895aa93bee4feccf7ada8674a5e816"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Corinthians 8:1",
+      "delta": "F3",
+      "rationale": "Marks slogan and preserves inflate/build contrast.",
+      "source_reference": "1Cor 8:1",
+      "source_verse_sha256": "795d21018ccf601dd596cc4f8e0bd1c77366253c40990ff694ac1bc28c949f0f",
+      "before": "Now concerning things sacrificed to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.",
+      "after": "Now concerning food sacrificed to idols: we know that “we all have knowledge.” Knowledge puffs up, but love builds up.",
+      "tsw_comparator": "Now concerning things sacrificed to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:4",
+      "delta": "F3",
+      "rationale": "Keeps paired confessional claims as likely slogans.",
+      "source_reference": "1Cor 8:4",
+      "source_verse_sha256": "58376280d8e516b2f5cce9aefd319c665cd10903bfeb5fd1ddd0c33ece5a4b19",
+      "before": "So concerning the eating of things sacrificed to idols, we know that an idol is nothing in the world and that there is no God except one.",
+      "after": "So concerning the eating of food sacrificed to idols, we know that “an idol is nothing in the world” and that “there is no God but one.”",
+      "tsw_comparator": "Therefore concerning the eating of things sacrificed to idols, we know that an idol is nothing in the world and that there is no God except one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:6",
+      "delta": "F3",
+      "rationale": "Keeps one-God confession and distinct prepositions.",
+      "source_reference": "1Cor 8:6",
+      "source_verse_sha256": "19def16589eac5c4b7feb47df1a945c2e5126ca4734c574ee3cc40be9d415083",
+      "before": "yet for us there is one God, the Father, from whom are everything and we for him, and one Lord, Jesus Christ, through whom are everything and we through him.",
+      "after": "yet for us there is one God, the Father, from whom are all things and for whom we exist; and one Lord, Jesus Christ, through whom are all things and through whom we exist.",
+      "tsw_comparator": "yet for us there is one God, the Father, from whom are all things and we for him, and one Lord, Jesus Christ, through whom are all things and we through him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:7",
+      "delta": "F3",
+      "rationale": "Preserves prior formation, eating, weakness, and defilement.",
+      "source_reference": "1Cor 8:7",
+      "source_verse_sha256": "cf81c4b5c11f8a4b35a21940a885f473c45e45c40a4c51115790819a339135c7",
+      "before": "However, not all have this knowledge; but some, being accustomed to the idol until now, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.",
+      "after": "But not everyone has this knowledge. Some, through their former association with the idol, still eat food as truly offered to an idol, and their weak conscience is defiled.",
+      "tsw_comparator": "However, not all have this knowledge; but some, being accustomed to the idol until now, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.576271,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:10",
+      "delta": "F3",
+      "rationale": "Keeps temple setting and dangerous encouragement.",
+      "source_reference": "1Cor 8:10",
+      "source_verse_sha256": "cca9c9aa2b7563a1dc4e12cff01516d2fd1eb89c8b8ab4dfce917f7dcd3417fa",
+      "before": "For if someone sees you, who have knowledge, reclining in an idol’s temple, will not his conscience, if he is weak, be built up to eat things sacrificed to idols?",
+      "after": "For if someone sees you, who have knowledge, reclining to eat in an idol's temple, will not that person's weak conscience be encouraged to eat food sacrificed to idols?",
+      "tsw_comparator": "For if anyone sees you, who have knowledge, reclining in an idol’s temple, will not his conscience, if he is weak, be built up to eat things sacrificed to idols?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711864,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:11",
+      "delta": "F3",
+      "rationale": "Preserves grave consequence and Christ's death.",
+      "source_reference": "1Cor 8:11",
+      "source_verse_sha256": "1f428627115000de1e9ae8ad78af11cdbbad1f59badc43f09fe9edce9b2f775c",
+      "before": "For through your knowledge the weak one is destroyed—the brother for whom Christ died.",
+      "after": "So by your knowledge the weak person is destroyed—the brother or sister for whom Christ died.",
+      "tsw_comparator": "For through your knowledge the weak one is destroyed—the brother for whom Christ died.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 8:12",
+      "delta": "F3",
+      "rationale": "Keeps bodily striking metaphor as wound and Christward offense.",
+      "source_reference": "1Cor 8:12",
+      "source_verse_sha256": "6317ba77dd5a79998d41e9db6778cd2b4c8566490e1f14154ddce6167f47dcfb",
+      "before": "And thus, sinning against the brothers and sisters and wounding their weak conscience, you sin against Christ.",
+      "after": "When you sin in this way against brothers and sisters and wound their weak conscience, you sin against Christ.",
+      "tsw_comparator": "And thus, sinning against the brothers and wounding their weak conscience, you sin against Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1corinthians/1Corinthians_08.md",
-    "blob_sha": "cda92f828a5c73e6415aae3cc4ddb333f188f062"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

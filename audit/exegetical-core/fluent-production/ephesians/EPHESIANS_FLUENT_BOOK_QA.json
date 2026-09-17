@@ -1,7 +1,7 @@
 {
   "book": "Ephesians",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 6,
   "public_verse_slots": 155,
   "included_verse_labels": 155,
@@ -109,5 +109,55 @@
         "blob_sha": "d131e89e5cc719ae02d524a8e411e4f7cfcbac58"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "verse_count": 131,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+      "path": "audit/exegetical-core/fluent-production/ephesians/EPHESIANS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 131,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+        "path": "audit/exegetical-core/fluent-production/ephesians/EPHESIANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

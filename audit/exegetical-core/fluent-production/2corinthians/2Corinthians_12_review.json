@@ -1,357 +1,278 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_12_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "12:1-10",
-      "decision": "Leave the thorn unidentified and retain power made complete in weakness.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 12:1",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 1,
-            "source_ref": "2 Corinthians 12:1",
-            "segment_mode": "whole",
-            "sha256": "1913f8fbf51d8d8e85f33538cd34553a24486211c152a7214fb009ec85b3849d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1913f8fbf51d8d8e85f33538cd34553a24486211c152a7214fb009ec85b3849d"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 12:2",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 2,
-            "source_ref": "2 Corinthians 12:2",
-            "segment_mode": "whole",
-            "sha256": "0329a75fb5344593b853401d8329dfc807d1e6c3db9ec0680e4398f6528948ac"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0329a75fb5344593b853401d8329dfc807d1e6c3db9ec0680e4398f6528948ac"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 12:3",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 3,
-            "source_ref": "2 Corinthians 12:3",
-            "segment_mode": "whole",
-            "sha256": "819a990a855b79d4c90439ae85a01919626cf65994da46955638dea800a5fb9d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "819a990a855b79d4c90439ae85a01919626cf65994da46955638dea800a5fb9d"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 12:4",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 4,
-            "source_ref": "2 Corinthians 12:4",
-            "segment_mode": "whole",
-            "sha256": "d7123217773d6bd12370214ce04232133367e027adaec322f7b869fb9fc8d0c8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d7123217773d6bd12370214ce04232133367e027adaec322f7b869fb9fc8d0c8"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 12:5",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 5,
-            "source_ref": "2 Corinthians 12:5",
-            "segment_mode": "whole",
-            "sha256": "29747fad054bcf72621de7d542d088c7220688f80cce705a71d0b92c52a29338"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "29747fad054bcf72621de7d542d088c7220688f80cce705a71d0b92c52a29338"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 12:6",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 6,
-            "source_ref": "2 Corinthians 12:6",
-            "segment_mode": "whole",
-            "sha256": "8c0f9c15aaf628491f2dfb09a5aa874bc188e7bc9b97975ff67540f4ba879305"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8c0f9c15aaf628491f2dfb09a5aa874bc188e7bc9b97975ff67540f4ba879305"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 12:7",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 7,
-            "source_ref": "2 Corinthians 12:7",
-            "segment_mode": "whole",
-            "sha256": "d47636d150087d20a6ceda160c0eddfab9c7c26939376413ead404140afbc821"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d47636d150087d20a6ceda160c0eddfab9c7c26939376413ead404140afbc821"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 12:8",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 8,
-            "source_ref": "2 Corinthians 12:8",
-            "segment_mode": "whole",
-            "sha256": "d71381d3e5cdaa33fb16e58814a0fee00f4a5f92543146b3f2fb30f8c18587ee"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d71381d3e5cdaa33fb16e58814a0fee00f4a5f92543146b3f2fb30f8c18587ee"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 12:9",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 9,
-            "source_ref": "2 Corinthians 12:9",
-            "segment_mode": "whole",
-            "sha256": "06730e175dcbcac9998e127465489bd4afbde4ab912d3a12a7f7c28a0e9df2a8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06730e175dcbcac9998e127465489bd4afbde4ab912d3a12a7f7c28a0e9df2a8"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 12:10",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 10,
-            "source_ref": "2 Corinthians 12:10",
-            "segment_mode": "whole",
-            "sha256": "27bf581cd9eadba2962a0c2c1ab90f444a5d1c5def22eeedf0535f0ee4b6c092"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "27bf581cd9eadba2962a0c2c1ab90f444a5d1c5def22eeedf0535f0ee4b6c092"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 12:11",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 11,
-            "source_ref": "2 Corinthians 12:11",
-            "segment_mode": "whole",
-            "sha256": "f8ff5358ca8d356a83fb83631319791a0f634abc67c8ca8ac1ca192998f9f464"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f8ff5358ca8d356a83fb83631319791a0f634abc67c8ca8ac1ca192998f9f464"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 12:12",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 12,
-            "source_ref": "2 Corinthians 12:12",
-            "segment_mode": "whole",
-            "sha256": "54430b0c7b8c8d8a885fc9069d4c5c78bbc54ee4c08d4e3718c6d599e24e2646"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "54430b0c7b8c8d8a885fc9069d4c5c78bbc54ee4c08d4e3718c6d599e24e2646"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 12:13",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 13,
-            "source_ref": "2 Corinthians 12:13",
-            "segment_mode": "whole",
-            "sha256": "00124eccf13d5d688ea0067753bbd07db1a986e29a946524c5409e311f782715"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "00124eccf13d5d688ea0067753bbd07db1a986e29a946524c5409e311f782715"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 12:14",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 14,
-            "source_ref": "2 Corinthians 12:14",
-            "segment_mode": "whole",
-            "sha256": "e3f0908830f1813c1ed548ae22731b0a5b67b8aa1af0b05f3c731f0c99ce3a4f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e3f0908830f1813c1ed548ae22731b0a5b67b8aa1af0b05f3c731f0c99ce3a4f"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 12:15",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 15,
-            "source_ref": "2 Corinthians 12:15",
-            "segment_mode": "whole",
-            "sha256": "a4a88a1a1db607be3cda22bcd1959b53078a4adb9b1a2cb5eec13b6a684018fa"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a4a88a1a1db607be3cda22bcd1959b53078a4adb9b1a2cb5eec13b6a684018fa"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 12:16",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 16,
-            "source_ref": "2 Corinthians 12:16",
-            "segment_mode": "whole",
-            "sha256": "e9ed66a7160da770c824e0b65c7cd68463e327ac9b1bf938a03076dfad39414f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e9ed66a7160da770c824e0b65c7cd68463e327ac9b1bf938a03076dfad39414f"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 12:17",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 17,
-            "source_ref": "2 Corinthians 12:17",
-            "segment_mode": "whole",
-            "sha256": "eb736e2033a363622c4585fb1edd19680bea979f0ec36dbebbf32d65d32db726"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "eb736e2033a363622c4585fb1edd19680bea979f0ec36dbebbf32d65d32db726"
-      },
-      "18": {
-        "source_ref": "2 Corinthians 12:18",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 18,
-            "source_ref": "2 Corinthians 12:18",
-            "segment_mode": "whole",
-            "sha256": "78e80e757d4c9329bd448e5e1da79b329c364bb2f6ae5866b7d5b943aae57275"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "78e80e757d4c9329bd448e5e1da79b329c364bb2f6ae5866b7d5b943aae57275"
-      },
-      "19": {
-        "source_ref": "2 Corinthians 12:19",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 19,
-            "source_ref": "2 Corinthians 12:19",
-            "segment_mode": "whole",
-            "sha256": "8f9e694d90ceccba605329a72d171a66fed53238bb55cc1aee89803a77225d05"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8f9e694d90ceccba605329a72d171a66fed53238bb55cc1aee89803a77225d05"
-      },
-      "20": {
-        "source_ref": "2 Corinthians 12:20",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 20,
-            "source_ref": "2 Corinthians 12:20",
-            "segment_mode": "whole",
-            "sha256": "1bbd3dc2ade1013075e900a665cfbe96a4c18669e94145b9583e3ec3eb68efd1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1bbd3dc2ade1013075e900a665cfbe96a4c18669e94145b9583e3ec3eb68efd1"
-      },
-      "21": {
-        "source_ref": "2 Corinthians 12:21",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 21,
-            "source_ref": "2 Corinthians 12:21",
-            "segment_mode": "whole",
-            "sha256": "db76f84ac4dbb91a17dfea9c535866fc1d0b8db5de360ae226a43fcc63db6c2e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db76f84ac4dbb91a17dfea9c535866fc1d0b8db5de360ae226a43fcc63db6c2e"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_12.md",
+    "before_sha256": "b78b6ca8eb8199f3ec44ecb9779852e6987528ffeb17c712a231653943722569",
+    "after_sha256": "84aaeb960728950c896c5f7aca6f35111adcaf3ea798c9a73119f518efb7d25c",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_12.md",
+    "tsw_comparator_sha256": "b45bb13629373c9455f334451fff250ca47f001659845285bca16e050192735a"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 12:1",
+      "delta": "F3",
+      "rationale": "Keeps necessity, lack of benefit, and topic shift.",
+      "source_reference": "2Cor 12:1",
+      "source_verse_sha256": "ea4eda0cf9e90452d77fe7c70342699d154a4b3b2d086030884e183de4275e4d",
+      "before": "It is necessary to boast, though there is nothing to be gained. I will go on to visions and revelations of the Lord.",
+      "after": "I must boast. It is not beneficial, but I will go on to visions and revelations from the Lord.",
+      "tsw_comparator": "It is necessary to boast, though there is nothing to be gained. I will go on to visions and revelations of the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:2",
+      "delta": "F3",
+      "rationale": "Preserves third-person restraint, exact time, uncertainty, and repetition.",
+      "source_reference": "2Cor 12:2",
+      "source_verse_sha256": "6e5c9673e487f61d201f9265647f2c41481abd32711528c304527ef67fd6c6e1",
+      "before": "I know a man in Christ who fourteen years ago—whether in the body I do not know, or out of the body I do not know, God knows—was caught up to the third heaven.",
+      "after": "I know a man in Christ who fourteen years ago was caught up to the third heaven—whether in the body I do not know, or outside the body I do not know; God knows.",
+      "tsw_comparator": "I know a man in Christ who fourteen years ago—whether in the body I do not know, or out of the body I do not know, God knows—was caught up to the third heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:3",
+      "delta": "F3",
+      "rationale": "Keeps the deliberate repeated uncertainty.",
+      "source_reference": "2Cor 12:3",
+      "source_verse_sha256": "32cd360a24a78dcc4df72564268fc6808277a7a5629344d4435362e8a5184a15",
+      "before": "I know that this man—whether in the body or apart from the body I do not know, God knows—",
+      "after": "And I know that this man—whether in the body or apart from the body I do not know; God knows—",
+      "tsw_comparator": "And I know that this man—whether in the body or apart from the body I do not know, God knows—",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:4",
+      "delta": "F3",
+      "rationale": "Preserves paradise, unheard speech, and prohibition.",
+      "source_reference": "2Cor 12:4",
+      "source_verse_sha256": "c7caf3513b82ab1f7c9a460424ef030f8d4c283b353c0e25669a7f3b5ef6903c",
+      "before": "was caught up into paradise and heard inexpressible words, which it is not permitted for a person to speak.",
+      "after": "was caught up into paradise and heard inexpressible words that a human is not permitted to speak.",
+      "tsw_comparator": "was caught up into paradise and heard inexpressible words, which it is not permitted for a person to speak.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:6",
+      "delta": "F3",
+      "rationale": "Preserves restraint and evidence limit.",
+      "source_reference": "2Cor 12:6",
+      "source_verse_sha256": "299425cb3379e6f495f6a230ea1b12742db07ca3e63d271aa030f2e92effb7c7",
+      "before": "For if I should wish to boast, I would not be foolish, for I would be speaking the truth. But I refrain, so that no one may think more of me than what he sees in me or hears from me.",
+      "after": "For if I wanted to boast, I would not be a fool, because I would be speaking truth. But I refrain, so that no one will credit me with more than what is seen in me or heard from me,",
+      "tsw_comparator": "For if I should wish to boast, I would not be foolish, for I would be speaking the truth. But I refrain, so that no one may think more of me than what he sees in me or hears from me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.716049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:7",
+      "delta": "F3",
+      "rationale": "Keeps cause ambiguity, thorn, Satanic messenger, violence, and repetition.",
+      "source_reference": "2Cor 12:7",
+      "source_verse_sha256": "cc6ba4ae4565f3832fbe2922cd575918d4b34ad8bdc846659292cb2174e4d7dc",
+      "before": "And because of the surpassing greatness of the revelations, therefore, so that I might not be exalted beyond measure, a thorn was given to me in the flesh, a messenger of Satan to strike me, so that I might not be exalted beyond measure.",
+      "after": "even because of the extraordinary revelations. Therefore, so that I would not become conceited, a thorn was given to me in the flesh, a messenger of Satan to strike me, so that I would not become conceited.",
+      "tsw_comparator": "And because of the surpassing greatness of the revelations, therefore, so that I might not be exalted beyond measure, a thorn was given to me in the flesh, a messenger of Satan to strike me, so that I might not be exalted beyond measure.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.716049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:9",
+      "delta": "F3",
+      "rationale": "Keeps direct answer, paradox, and tenting image.",
+      "source_reference": "2Cor 12:9",
+      "source_verse_sha256": "c1fea4021f0305f0d137f25aa7511cd80c70c9011d21c031ee7ed56d5bd56551",
+      "before": "And he said to me, “My grace is sufficient for you, for power is brought to completion in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest upon me.",
+      "after": "But he said to me, “My grace is enough for you, for power is brought to completion in weakness.” Therefore I will most gladly boast all the more in my weaknesses, so that Christ's power may dwell over me.",
+      "tsw_comparator": "And he said to me, “My grace is sufficient for you, for power is brought to completion in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest upon me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810127,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:10",
+      "delta": "F3",
+      "rationale": "Retains real harms, reason, and paradox.",
+      "source_reference": "2Cor 12:10",
+      "source_verse_sha256": "8a49a9129d62eacc15483eb2ef94a45823e92826cdc0026ed07136fcfcded27e",
+      "before": "So I am content with weaknesses, with insults, with hardships, with persecutions, and with distresses, for the sake of Christ. For when I am weak, then I am strong.",
+      "after": "Therefore I take pleasure in weaknesses, insults, hardships, persecutions, and distress for Christ, for whenever I am weak, then I am strong.",
+      "tsw_comparator": "Therefore I am content with weaknesses, with insults, with hardships, with persecutions, and with distresses, for the sake of Christ. For when I am weak, then I am strong.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:11",
+      "delta": "F3",
+      "rationale": "Keeps blame, expected defense, irony, and self-negation.",
+      "source_reference": "2Cor 12:11",
+      "source_verse_sha256": "61c0592be9ed05c5192b463a21b743764a2a9cc1066aae0d476a36f6746827b3",
+      "before": "I have become foolish—you compelled me. For I ought to have been commended by you. For I was in no way inferior to the super-apostles, even if I am nothing.",
+      "after": "I have become a fool; you forced me to it. For I ought to have been recommended by you, because I was in no way inferior to the “super-apostles,” even though I am nothing.",
+      "tsw_comparator": "I have become foolish—you compelled me. For I ought to have been commended by you. For I was in no way inferior to the super-apostles, even if I am nothing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.80597,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:12",
+      "delta": "F3",
+      "rationale": "Preserves passive action, endurance, and three manifestations.",
+      "source_reference": "2Cor 12:12",
+      "source_verse_sha256": "bbc56125810f3cec8f90078ab42c6dd24ec255cca6514c0174d646ef9089bc7f",
+      "before": "The signs of an apostle were performed among you with all endurance, with signs and wonders and works of power.",
+      "after": "The signs of an apostle were performed among you with all endurance, by signs, wonders, and miracles.",
+      "tsw_comparator": "The signs of an apostle were performed among you with all endurance, with signs and wonders and works of power.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:13",
+      "delta": "F3",
+      "rationale": "Keeps the rhetorical comparison and biting apology.",
+      "source_reference": "2Cor 12:13",
+      "source_verse_sha256": "4ea60ab99126834e8cdce348cfd31cbc7450d69a9e05d49aa06afc8ddd155903",
+      "before": "For in what were you treated as inferior to the other churches, except that I myself did not burden you? Forgive me this wrong.",
+      "after": "In what way were you treated as less than the other churches, except that I myself did not burden you? Forgive me this wrong!",
+      "tsw_comparator": "For in what were you treated as inferior to the other churches, except that I myself did not burden you? Forgive me this wrong.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:14",
+      "delta": "F3",
+      "rationale": "Preserves visit count, financial claim, and parental analogy.",
+      "source_reference": "2Cor 12:14",
+      "source_verse_sha256": "d24aca226f1bd994088bd18656a900810d15ba4286b5227fdce81ae8568b2d95",
+      "before": "Here for the third time I am ready to come to you. And I will not be a burden, for I seek not what is yours but you. For children ought not to store up for the parents, but parents for the children.",
+      "after": "Look, I am ready to come to you this third time, and I will not burden you, because I seek not what you own, but you. For children should not save up for their parents, but parents for their children.",
+      "tsw_comparator": "Here for the third time I am ready to come to you. And I will not be a burden, for I seek not what is yours but you. For children ought not to store up for the parents, but parents for the children.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.674699,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:15",
+      "delta": "F3",
+      "rationale": "Keeps financial/person metaphor and painful question.",
+      "source_reference": "2Cor 12:15",
+      "source_verse_sha256": "eb727d7a8f24513549cb556f607768b4864ea3b31ec8b09e46c85b00ba0110f1",
+      "before": "I will most gladly spend and be spent for your souls. If I love you more, am I to be loved less?",
+      "after": "I will most gladly spend and be spent for your lives. If I love you more, am I to be loved less?",
+      "tsw_comparator": "I will most gladly spend and be spent for your souls. If I love you more, am I to be loved less?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.954545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:16",
+      "delta": "F3",
+      "rationale": "Preserves voiced accusation as an ironic question.",
+      "source_reference": "2Cor 12:16",
+      "source_verse_sha256": "620217dbf41135e8856d9d63aeae7cf7c7c6ec3ce13820a2a17331059a2bdccc",
+      "before": "But be that as it may, I did not burden you. Yet, being crafty, I caught you by deceit.",
+      "after": "But let it be so: I did not burden you. Yet, being crafty, did I catch you by deceit?",
+      "tsw_comparator": "But be that as it may, I did not burden you. Yet, being crafty, I caught you by deceit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:19",
+      "delta": "F3",
+      "rationale": "Keeps rhetorical question, divine audience, affection, and purpose.",
+      "source_reference": "2Cor 12:19",
+      "source_verse_sha256": "1b22f3610dd726036bc8f0d1a196ff71ed8bc9d6b983becc7d405d4cae897d79",
+      "before": "Have you been thinking all along that we are defending ourselves to you? It is before God that we speak in Christ, and all for your building up, beloved.",
+      "after": "Have you been thinking all along that we are defending ourselves to you? We speak before God in Christ, and everything, beloved, is for building you up.",
+      "tsw_comparator": "Have you been thinking all along that we are defending ourselves to you? It is before God that we speak in Christ, and all for your building up, beloved.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:20",
+      "delta": "F3",
+      "rationale": "Preserves mutual disappointment and complete vice list.",
+      "source_reference": "2Cor 12:20",
+      "source_verse_sha256": "f0fa638ccf2e942f09ef2360d60fa638b7685b8ae4fa3b90e74e4fdbad334184",
+      "before": "For I fear that perhaps when I come I may find you not as I wish, and that you may find me not as you wish—that perhaps there may be quarreling, jealousy, anger, rivalries, slander, gossip, conceit, disorder.",
+      "after": "For I fear that when I come, I may not find you as I wish, and you may not find me as you wish—that there may be strife, jealousy, fits of anger, selfish ambition, slander, gossip, conceit, and disorder.",
+      "tsw_comparator": "For I fear that perhaps when I come I may find you not as I wish, and that you may find me not as you wish—that perhaps there may be quarreling, jealousy, anger, rivalries, slander, gossip, conceit, disorder.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810127,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 12:21",
+      "delta": "F3",
+      "rationale": "Keeps fear, humiliation, grief, prior sin, and specific harms.",
+      "source_reference": "2Cor 12:21",
+      "source_verse_sha256": "7e222ceeae70fd9c231ee2d98728836bd64c50f7e1a24894087dcf61852e9078",
+      "before": "I fear that when I come again my God may humble me before you, and I may mourn over many of people who have sinned before and have not repented of the impurity and sexual immorality and sensuality that they have practiced.",
+      "after": "I fear that when I come again, my God may humble me before you and I may mourn over many who sinned earlier and have not repented of the impurity, sexual immorality, and debauchery they practiced.",
+      "tsw_comparator": "I fear that when I come again my God may humble me before you, and I may mourn over many of those who have sinned before and have not repented of the impurity and sexual immorality and sensuality that they have practiced.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_12.md",
-    "blob_sha": "69890c799aba3e086fa154f31cc17b182abbcc99"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

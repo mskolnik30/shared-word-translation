@@ -1,306 +1,200 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 6,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_06_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 6:1",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 1,
-            "source_ref": "2 Corinthians 6:1",
-            "segment_mode": "whole",
-            "sha256": "887921413b66626c87e430f5aa2014662522da2d707c407305c752289f38198d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "887921413b66626c87e430f5aa2014662522da2d707c407305c752289f38198d"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 6:2",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 2,
-            "source_ref": "2 Corinthians 6:2",
-            "segment_mode": "whole",
-            "sha256": "7c098f438246c613f863023d19bf966b53fed9256dd04402d99d561664711bd3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7c098f438246c613f863023d19bf966b53fed9256dd04402d99d561664711bd3"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 6:3",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 3,
-            "source_ref": "2 Corinthians 6:3",
-            "segment_mode": "whole",
-            "sha256": "06c93e1f800bc2cd25fc4213a996584c93b1b5cbf9afc49dc9a455960477a906"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06c93e1f800bc2cd25fc4213a996584c93b1b5cbf9afc49dc9a455960477a906"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 6:4",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 4,
-            "source_ref": "2 Corinthians 6:4",
-            "segment_mode": "whole",
-            "sha256": "9408d5fe38c49b477c67b714a39b12eeef446f320160fd731fed781d0e21acd1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9408d5fe38c49b477c67b714a39b12eeef446f320160fd731fed781d0e21acd1"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 6:5",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 5,
-            "source_ref": "2 Corinthians 6:5",
-            "segment_mode": "whole",
-            "sha256": "40a003f1846bf0917d2f4d4ec832345be82abb49051497d6c50df54b8964997b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "40a003f1846bf0917d2f4d4ec832345be82abb49051497d6c50df54b8964997b"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 6:6",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 6,
-            "source_ref": "2 Corinthians 6:6",
-            "segment_mode": "whole",
-            "sha256": "53d4ae46a4cd6149a5377e9d2788415723bd3b28745397fa9b9769aceca231f4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "53d4ae46a4cd6149a5377e9d2788415723bd3b28745397fa9b9769aceca231f4"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 6:7",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 7,
-            "source_ref": "2 Corinthians 6:7",
-            "segment_mode": "whole",
-            "sha256": "fe9d18cc91017dab543527461c5a76ebb6dd391446cf5206823ad8211495cf61"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fe9d18cc91017dab543527461c5a76ebb6dd391446cf5206823ad8211495cf61"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 6:8",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 8,
-            "source_ref": "2 Corinthians 6:8",
-            "segment_mode": "whole",
-            "sha256": "a5c66f50392cfaa53c453100b47cccfd4037c3c7aa9f5dfc22464496563f4545"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a5c66f50392cfaa53c453100b47cccfd4037c3c7aa9f5dfc22464496563f4545"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 6:9",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 9,
-            "source_ref": "2 Corinthians 6:9",
-            "segment_mode": "whole",
-            "sha256": "c7c87a58e3079dea392437caeab1cf1a68d21eb4444bb21c5d78fd9fcb24443a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c7c87a58e3079dea392437caeab1cf1a68d21eb4444bb21c5d78fd9fcb24443a"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 6:10",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 10,
-            "source_ref": "2 Corinthians 6:10",
-            "segment_mode": "whole",
-            "sha256": "80b637c4311fa517299e4e364882f7c24d4b808e45b07d49a6fd6c046f33ad9c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "80b637c4311fa517299e4e364882f7c24d4b808e45b07d49a6fd6c046f33ad9c"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 6:11",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 11,
-            "source_ref": "2 Corinthians 6:11",
-            "segment_mode": "whole",
-            "sha256": "5ed51452ccd01edec8e0453d909a7f18f95928d556d43d7d4b6c91cde9f3a37d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5ed51452ccd01edec8e0453d909a7f18f95928d556d43d7d4b6c91cde9f3a37d"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 6:12",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 12,
-            "source_ref": "2 Corinthians 6:12",
-            "segment_mode": "whole",
-            "sha256": "de3007041b9c47ef538240ea25cf308d976845e24d7efa3b2137941b7adc27b4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "de3007041b9c47ef538240ea25cf308d976845e24d7efa3b2137941b7adc27b4"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 6:13",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 13,
-            "source_ref": "2 Corinthians 6:13",
-            "segment_mode": "whole",
-            "sha256": "4421413236295f0ea0fc1bc683a496ffb51b6e4a5e2f0200172fe8824f265ec2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4421413236295f0ea0fc1bc683a496ffb51b6e4a5e2f0200172fe8824f265ec2"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 6:14",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 14,
-            "source_ref": "2 Corinthians 6:14",
-            "segment_mode": "whole",
-            "sha256": "67d11d1a7b1abb2b35463e347ea172638fedd37ba51afacf425a8f6269f3579b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "67d11d1a7b1abb2b35463e347ea172638fedd37ba51afacf425a8f6269f3579b"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 6:15",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 15,
-            "source_ref": "2 Corinthians 6:15",
-            "segment_mode": "whole",
-            "sha256": "01401712048d2ff1b0afb64739d8d6db794cafb0f8a112dd00378ba6921bf463"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "01401712048d2ff1b0afb64739d8d6db794cafb0f8a112dd00378ba6921bf463"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 6:16",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 16,
-            "source_ref": "2 Corinthians 6:16",
-            "segment_mode": "whole",
-            "sha256": "686b739456b1059536fc660589fc3f1e261672ba74a0894cf29e9835e501cc60"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "686b739456b1059536fc660589fc3f1e261672ba74a0894cf29e9835e501cc60"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 6:17",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 17,
-            "source_ref": "2 Corinthians 6:17",
-            "segment_mode": "whole",
-            "sha256": "2c7ab70509000053a5205cebbfc0faa3313a9b9d076f9ea131cdd61557e40b46"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2c7ab70509000053a5205cebbfc0faa3313a9b9d076f9ea131cdd61557e40b46"
-      },
-      "18": {
-        "source_ref": "2 Corinthians 6:18",
-        "source_records": [
-          {
-            "chapter": 6,
-            "verse": 18,
-            "source_ref": "2 Corinthians 6:18",
-            "segment_mode": "whole",
-            "sha256": "aa80835862651eb0b8f705f18acfe1b7d13820d646f89dfdd70d48d1fc32dad4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aa80835862651eb0b8f705f18acfe1b7d13820d646f89dfdd70d48d1fc32dad4"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 6,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_06.md",
+    "before_sha256": "3050437434a8ad3aab438a72dd64851fe4b5c7fb15b35bf6f2e4ae49c40e1a11",
+    "after_sha256": "b9a24bf9f4b50be64a3d28968302f492b2ce7358279fb54ff5d1fe1643fb9737",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_06.md",
+    "tsw_comparator_sha256": "5e7cccb3970cae705709f65d2406d205ee9be7c7e443183f8e2d509a4058474f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 6:1",
+      "delta": "F3",
+      "rationale": "Preserves joint work, appeal, and risk of empty reception.",
+      "source_reference": "2Cor 6:1",
+      "source_verse_sha256": "57fd7dce33db326c0984d0812fdb55f8e7fd859d21928c6f9c94fdad5cdf7997",
+      "before": "And working together with him, we also urge you not to receive the grace of God in vain.",
+      "after": "Working together with God, we also urge you not to receive God's grace in vain.",
+      "tsw_comparator": "And working together with him, we also urge you not to receive the grace of God in vain.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:4",
+      "delta": "F3",
+      "rationale": "Keeps the servant claim and opening catalogue.",
+      "source_reference": "2Cor 6:4",
+      "source_verse_sha256": "6587dd2477340e97007a772a7f0e3ed71c14c1597f3f7989c2927dca779a6ffd",
+      "before": "but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,",
+      "after": "Instead, in everything we commend ourselves as God's servants: through great endurance, in afflictions, hardships, and distress,",
+      "tsw_comparator": "but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:5",
+      "delta": "F3",
+      "rationale": "Names the real harms and bodily costs.",
+      "source_reference": "2Cor 6:5",
+      "source_verse_sha256": "a2efe1c993bdfff84bdc1543dcc284a31fe9960d82fcb018cd2f2f345df37341",
+      "before": "in beatings, in imprisonments, in riots, in labors, in sleepless nights, in hunger;",
+      "after": "in beatings, imprisonments, and riots, in hard work, sleepless nights, and hunger,",
+      "tsw_comparator": "in beatings, in imprisonments, in riots, in labors, in sleepless nights, in hunger;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:7",
+      "delta": "F3",
+      "rationale": "Keeps truth, power, and two-handed military image.",
+      "source_reference": "2Cor 6:7",
+      "source_verse_sha256": "398f23a3f60bf8a245606e77d021efa94a7404dfc79b7efec1ff9bd5208bd0b6",
+      "before": "in truthful speech, and in the power of God; with the weapons of righteousness for the right hand and for the left,",
+      "after": "in truthful speech and God's power, with the weapons of righteousness in the right hand and the left,",
+      "tsw_comparator": "in truthful speech, and in the power of God; with the weapons of righteousness for the right hand and for the left,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:9",
+      "delta": "F3",
+      "rationale": "Keeps the escalating paradoxes and punishment.",
+      "source_reference": "2Cor 6:9",
+      "source_verse_sha256": "3185d7a759ec90ea4e3b302ec01e08c5fbfa4b68fde59376cbae6f7238e877a3",
+      "before": "as unknown and yet known; as dying, and look, we live; as disciplined, and not killed;",
+      "after": "as unknown, yet fully known; as dying, yet look—we live; as punished, yet not put to death;",
+      "tsw_comparator": "as unknown and yet known; as dying, and behold, we live; as disciplined, and not killed;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:10",
+      "delta": "F3",
+      "rationale": "Retains sorrow, poverty, and possession paradoxes.",
+      "source_reference": "2Cor 6:10",
+      "source_verse_sha256": "ac174e969c5b58ecc4ba2e38568dbe5dfe02ef10ef8268cb97c6c5f89b039c90",
+      "before": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.",
+      "after": "as grieving, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.",
+      "tsw_comparator": "as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:12",
+      "delta": "F3",
+      "rationale": "Preserves repeated constriction and inward location.",
+      "source_reference": "2Cor 6:12",
+      "source_verse_sha256": "15303c20dcee97235ecb955312a60cb60cde5ed0684f5eddfef2a4fe1afa0297",
+      "before": "You are not restricted by us, but you are restricted in your own affections.",
+      "after": "You are not confined by us, but you are confined in your own affections.",
+      "tsw_comparator": "You are not restricted by us, but you are restricted in your own affections.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:14",
+      "delta": "F3",
+      "rationale": "Retains yoking image and paired rhetorical contrasts.",
+      "source_reference": "2Cor 6:14",
+      "source_verse_sha256": "7a0cc26f1887392e469256040257d1367cd72a8804cc3f08ce9be0fd34a2f51c",
+      "before": "Do not be mismatched with unbelievers. For what partnership has righteousness with lawlessness? Or what fellowship has light with darkness?",
+      "after": "Do not be mismatched with unbelievers. For what partnership do righteousness and lawlessness have? Or what fellowship does light have with darkness?",
+      "tsw_comparator": "Do not be mismatched with unbelievers. For what partnership has righteousness with lawlessness? Or what fellowship has light with darkness?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:15",
+      "delta": "F3",
+      "rationale": "Keeps the proper name and two relational questions.",
+      "source_reference": "2Cor 6:15",
+      "source_verse_sha256": "0cebd3613253fdf7589ac49b07f63aa54ef7046e19d92699096a1a5ff0948b37",
+      "before": "What accord has Christ with Belial? Or what portion does a believer share with an unbeliever?",
+      "after": "What agreement does Christ have with Beliar? Or what share does a believer have with an unbeliever?",
+      "tsw_comparator": "What accord has Christ with Belial? Or what portion does a believer share with an unbeliever?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:16",
+      "delta": "F3",
+      "rationale": "Preserves communal temple identity and covenant quotation.",
+      "source_reference": "2Cor 6:16",
+      "source_verse_sha256": "e98499342caad1039f3f2f76b89bbfd05de01fa9259b9d027a8a6b19a9a3147e",
+      "before": "What agreement has the temple of God with idols? For we are the temple of the living God; as God said, “I will dwell in them and walk among them, and I will be their God, and they shall be my people.",
+      "after": "What agreement does God's temple have with idols? For we are the living God's temple, as God said: “I will dwell and walk among them; I will be their God, and they will be my people.”",
+      "tsw_comparator": "What agreement has the temple of God with idols? For we are the temple of the living God; as God said, “I will dwell in them and walk among them, and I will be their God, and they shall be my people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 6:18",
+      "delta": "F3",
+      "rationale": "Retains both gendered kinship terms and divine title.",
+      "source_reference": "2Cor 6:18",
+      "source_verse_sha256": "66e2e1ce1138f6950cb1c29c6b1ce4fcbaa31edc3499a9a4a2772c7f0e9855f0",
+      "before": "and I will be a father to you, and you shall be sons and daughters to me, says the Lord Almighty.”",
+      "after": "“I will be a Father to you, and you will be sons and daughters to me, says the Lord Almighty.”",
+      "tsw_comparator": "and I will be a father to you, and you shall be sons and daughters to me, says the Lord Almighty.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_06.md",
-    "blob_sha": "1a35b9a0ecc6475e2513b3956ac2e4009e5d9197"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

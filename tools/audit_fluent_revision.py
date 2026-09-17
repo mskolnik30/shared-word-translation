@@ -99,21 +99,25 @@ def audit(root, ledger, source_bytes):
                       f"source segment hash mismatch: {verse['reference']} / {ref}")
         else:
             references.append(verse['source_reference'])
-    # A source record can span public verses (e.g. Hebrew Ps 13:6).
-    # Such a split must partition every direct-child word exactly once, in
-    # public order. Every part still binds the complete original XML record,
-    # including its notes; these ranges never replace the full-record hash.
+    # A source record can span public verses (e.g. Hebrew Ps 13:6 or Greek
+    # 2Cor 13:12). Such a split must partition every word/token exactly once,
+    # in public order. Every part still binds the complete original record;
+    # these ranges never replace the full-record hash.
     partitions = {}
     for verse in ledger['verses']:
         if 'source_partition' in verse:
             ref = verse['source_reference']
             part = verse['source_partition']
-            valid = (source.get('format') == 'osis_xml'
-                     and 'source_segments' not in verse
-                     and isinstance(part, dict)
-                     and type(part.get('word_start')) is int
-                     and type(part.get('word_end')) is int
-                     and 1 <= part['word_start'] <= part['word_end']
+            xml_partition = (source.get('format') == 'osis_xml'
+                             and type(part.get('word_start')) is int
+                             and type(part.get('word_end')) is int
+                             and 1 <= part['word_start'] <= part['word_end'])
+            tab_partition = (source.get('format') == 'tab_separated'
+                             and type(part.get('token_start')) is int
+                             and type(part.get('token_end')) is int
+                             and 1 <= part['token_start'] <= part['token_end'])
+            valid = ('source_segments' not in verse and isinstance(part, dict)
+                     and (xml_partition or tab_partition)
                      and isinstance(part.get('reason'), str)
                      and bool(part['reason'].strip()))
             check(valid, f"invalid source partition: {verse['reference']}")
@@ -126,11 +130,16 @@ def audit(root, ledger, source_bytes):
             check(count > 1 and len(parts) == count,
                   f'duplicate ledger reference without complete partitions: {ref}')
             if parts and ref in source_verses:
-                import xml.etree.ElementTree as ET
-                words = [e for e in ET.fromstring(source_verses[ref])
-                         if e.tag.split('}')[-1] == 'w']
-                positions = [i for p in parts
-                             for i in range(p['word_start'], p['word_end'] + 1)]
+                if source.get('format') == 'osis_xml':
+                    import xml.etree.ElementTree as ET
+                    words = [e for e in ET.fromstring(source_verses[ref])
+                             if e.tag.split('}')[-1] == 'w']
+                    positions = [i for p in parts
+                                 for i in range(p['word_start'], p['word_end'] + 1)]
+                else:
+                    words = source_verses[ref].split()
+                    positions = [i for p in parts
+                                 for i in range(p['token_start'], p['token_end'] + 1)]
                 check(positions == list(range(1, len(words) + 1)),
                       f'source partition gap, overlap, or order mismatch: {ref}')
     check(set(references) == set(source_verses), 'ledger/source coverage differs')
@@ -179,19 +188,36 @@ def audit(root, ledger, source_bytes):
                   f"missing omission explanation: {chapter['path']}")
         expected = [f'{v:02}' for v in range(1, maximum + 1) if v not in omitted]
         check(list(after) == expected, f"verse sequence mismatch: {chapter['path']}")
-        comparator_omitted = chapter.get('tsw_omitted_public_labels', [])
-        valid_comparator_omission = (isinstance(comparator_omitted, list)
-                                    and all(type(v) is int for v in comparator_omitted)
-                                    and comparator_omitted == sorted(set(comparator_omitted))
-                                    and set(comparator_omitted).issubset(omitted))
-        check(valid_comparator_omission, f'invalid comparator omitted labels: {chapter["path"]}')
-        if not valid_comparator_omission:
-            comparator_omitted = []
-        if comparator_omitted:
-            check(bool(chapter.get('tsw_omission_reason', '').strip()),
-                  f'missing comparator omission explanation: {chapter["path"]}')
-        comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)
-                               if v not in comparator_omitted]
+        if 'tsw_public_labels' in chapter:
+            declared = chapter['tsw_public_labels']
+            unmatched = chapter.get('tsw_unmatched_source_labels', [])
+            additional = chapter.get('tsw_additional_public_labels', [])
+            valid_alignment = (isinstance(declared, list) and declared == sorted(set(declared))
+                               and all(type(v) is int and v > 0 for v in declared)
+                               and isinstance(unmatched, list) and unmatched == sorted(set(unmatched))
+                               and all(type(v) is int and f'{v:02}' in after for v in unmatched)
+                               and isinstance(additional, list) and additional == sorted(set(additional))
+                               and all(type(v) is int and v > 0 for v in additional)
+                               and set(unmatched).isdisjoint(additional)
+                               and set(declared) == (set(map(int, after)) - set(unmatched)) | set(additional)
+                               and bool(chapter.get('tsw_alignment_reason', '').strip()))
+            check(valid_alignment, f'invalid explicit comparator alignment: {chapter["path"]}')
+            comparator_expected = [f'{v:02}' for v in declared] if valid_alignment else []
+        else:
+            unmatched = []
+            comparator_omitted = chapter.get('tsw_omitted_public_labels', [])
+            valid_comparator_omission = (isinstance(comparator_omitted, list)
+                                        and all(type(v) is int for v in comparator_omitted)
+                                        and comparator_omitted == sorted(set(comparator_omitted))
+                                        and set(comparator_omitted).issubset(omitted))
+            check(valid_comparator_omission, f'invalid comparator omitted labels: {chapter["path"]}')
+            if not valid_comparator_omission:
+                comparator_omitted = []
+            if comparator_omitted:
+                check(bool(chapter.get('tsw_omission_reason', '').strip()),
+                      f'missing comparator omission explanation: {chapter["path"]}')
+            comparator_expected = [f'{v:02}' for v in range(1, maximum + 1)
+                                   if v not in comparator_omitted]
         # Legacy ledgers predate this explicit field and only allowed source
         # omissions already absent from their parent Fluent. New ledgers bind
         # the field even when empty, permitting a declared source correction
@@ -222,8 +248,13 @@ def audit(root, ledger, source_bytes):
         after, old, tsw = chapters[chapter]
         key = f'{label:02}'
         seen[chapter] += 1
-        check(after[key] == verse['after'] and old[key] == verse['before'] and tsw[key] == verse['tsw_comparator'],
+        comparator = tsw.get(key, '')
+        check(after[key] == verse['after'] and old[key] == verse['before'] and comparator == verse['tsw_comparator'],
               f"ledger text mismatch: {verse['reference']}")
+        if label in set(next(c for c in ledger['chapters'] if c['chapter'] == chapter).get('tsw_unmatched_source_labels', [])):
+            check(verse.get('tsw_comparator_status') == 'UNAVAILABLE_PUBLIC_LABEL'
+                  and bool(verse.get('tsw_comparator_reason', '').strip()),
+                  f"missing unmatched comparator metadata: {verse['reference']}")
         check(verse['delta'] in ('F0', 'F1', 'F2', 'F3') and bool(verse['rationale'].strip()),
               f"missing/invalid decision: {verse['reference']}")
         check(verse['editorial_status'] == 'REVIEW_PENDING', f"unexpected approval: {verse['reference']}")

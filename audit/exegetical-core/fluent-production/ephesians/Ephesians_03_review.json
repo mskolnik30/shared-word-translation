@@ -2,167 +2,282 @@
   "book": "Ephesians",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 21,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Eph.txt",
     "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ephesians 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "7efe5b1eca94c5e47c44971775e488aa5e894545df28c6949a62d6a623586231"
-      },
-      "2": {
-        "source_ref": "Ephesians 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "d244e093107dcfca41399bd6ae479b592248f4d848d48622a82b040535effef0"
-      },
-      "3": {
-        "source_ref": "Ephesians 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "e952f5877670fcd3a3880249621f1fff6b6b8817cca4fcee8399b9b0008c74ec"
-      },
-      "4": {
-        "source_ref": "Ephesians 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "8684288f6e0b5d754d9335a7c537764055d1846db5458ca0c3c39dd4156189c1"
-      },
-      "5": {
-        "source_ref": "Ephesians 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "99aa6f5c89d341ad2273105c921f5c04601d623bf78e11e9330e0d60b9dc3c92"
-      },
-      "6": {
-        "source_ref": "Ephesians 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5612dcd693f712cdeb526f5a6d08885b330913dc6b0378dfa68d55d9d221255c"
-      },
-      "7": {
-        "source_ref": "Ephesians 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d658c05fb7cbbcfdb369c5d46dc35ec2a03fda5b7484e86a4d0fcab8071fc28c"
-      },
-      "8": {
-        "source_ref": "Ephesians 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "c9041280737d1098464f732f630b47cda98d6661a959780b541c0a6bff057004"
-      },
-      "9": {
-        "source_ref": "Ephesians 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "a9b7861a692383c5c9509e8d9d5d3bca78d1698d07f1d2df88cf63bb8e472252"
-      },
-      "10": {
-        "source_ref": "Ephesians 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "90366952eabc61ad1180f06f3fcc43587dc3f51f4976e32fe2c6e53b5bdff92a"
-      },
-      "11": {
-        "source_ref": "Ephesians 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "3afca1c32c7723eac97477d70f1e7f2ecac587126d56383efcfb0921d0783c12"
-      },
-      "12": {
-        "source_ref": "Ephesians 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "fdaf7a99fd583b2fa31fb65c53fcadc50f7f07dc92d88421f2607fe73e95f4d5"
-      },
-      "13": {
-        "source_ref": "Ephesians 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "6d8a251a0dcbe94e8f5e97e30affb3542d5a7ee40347d4bc1bc33da6ff28ed9d"
-      },
-      "14": {
-        "source_ref": "Ephesians 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "2d10bbff4b90d6694cac97cf3f9c55dc4439882134f521b67472e1eca8f2fa49"
-      },
-      "15": {
-        "source_ref": "Ephesians 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "58246249dac8acc9ff782a15e05fc0030446b82241ff82bc9ec5f17dbf9698e6"
-      },
-      "16": {
-        "source_ref": "Ephesians 3:16",
-        "source_chapter": 3,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "ca9aac9829e3aeb5b0a60647094b3a015672edeed6017aa69f8d0e3f50421386"
-      },
-      "17": {
-        "source_ref": "Ephesians 3:17",
-        "source_chapter": 3,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "576032e909a768902a33b3e4a6c186f198f04a1401a60d578b55b1f336a9c360"
-      },
-      "18": {
-        "source_ref": "Ephesians 3:18",
-        "source_chapter": 3,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "2758d3b3872a13417653fbf5ba90001facaf762ee717baf9b489026b9869cf1b"
-      },
-      "19": {
-        "source_ref": "Ephesians 3:19",
-        "source_chapter": 3,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "c9e3697c6a90a4add6abe1540707db530bbe95eeda9cad48a7f4cab74aabb933"
-      },
-      "20": {
-        "source_ref": "Ephesians 3:20",
-        "source_chapter": 3,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "07296cc4676d4502e2fb548caaa5f3058becf26e07d04ffd9d1eabfafa65bdd5"
-      },
-      "21": {
-        "source_ref": "Ephesians 3:21",
-        "source_chapter": 3,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "ed751e3dac7719b0b4c646aa02b4502fe0dc80f5becbc0bcfd522c68a2824bfe"
-      }
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/ephesians/Ephesians_03.md",
+    "before_sha256": "21d790af8af406b79ba86ec0234c36ee63042dcf627266cf84784b75ca2f4618",
+    "after_sha256": "f82e0284bc9499f5eee705fe342ad13f97cd34d073751889c4579859a933e80b",
+    "tsw_comparator_path": "books/NT/ephesians/Ephesians_03.md",
+    "tsw_comparator_sha256": "d74072072225b745f3dad6f81a44e3418508dd360a0ff66c2fbe094ee02ee07e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Ephesians 3:1",
+      "delta": "F3",
+      "rationale": "Keeps interrupted sentence and Paul's re-description of imprisonment.",
+      "source_reference": "Eph 3:1",
+      "source_verse_sha256": "c7f3c6cdac1a953b618c11b11c4710647be11e18d303f3c0f91621c21c602cba",
+      "before": "For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—",
+      "after": "For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—",
+      "tsw_comparator": "For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:2",
+      "delta": "F3",
+      "rationale": "Preserves conditional tone, entrusted administration, and recipients.",
+      "source_reference": "Eph 3:2",
+      "source_verse_sha256": "912e726ff45d480e7c68a4702f89dbb6fb4d08bca037092f4615b9cc1f82dda7",
+      "before": "surely you have heard about the stewardship of God’s grace given to me for you,",
+      "after": "surely you have heard about the stewardship of God's grace that was given to me for you,",
+      "tsw_comparator": "if indeed you have heard of the stewardship of the grace of God that was given to me for you,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:3",
+      "delta": "F3",
+      "rationale": "Keeps revelation, mystery, and prior writing.",
+      "source_reference": "Eph 3:3",
+      "source_verse_sha256": "610255f126ba5da94215837b91236d5805b9a215ab6a4756ac50cb5d8f2b2757",
+      "before": "how the mystery was made known to me by revelation, as I wrote briefly before.",
+      "after": "that by revelation the mystery was made known to me, as I wrote briefly before.",
+      "tsw_comparator": "that by revelation the mystery was made known to me, as I wrote briefly before,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:5",
+      "delta": "F3",
+      "rationale": "Keeps comparison across generations and present revelation.",
+      "source_reference": "Eph 3:5",
+      "source_verse_sha256": "48e5525448060be289eb76c2a7ef216c07a92f0b2424f25d719e99794e03b370",
+      "before": "which was not made known to other generations as it has now been revealed to his holy apostles and prophets by the Spirit:",
+      "after": "which was not made known to people in other generations as it has now been revealed by the Spirit to his holy apostles and prophets:",
+      "tsw_comparator": "which in other generations was not made known to the sons of humanity as it has now been revealed to his holy apostles and prophets by the Spirit:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.679245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:6",
+      "delta": "F3",
+      "rationale": "Preserves three co- compounds and equal participation.",
+      "source_reference": "Eph 3:6",
+      "source_verse_sha256": "a20595a151343b1e3ea567df0a15b0db6104d34fa86292abbd394f8d9ba85dee",
+      "before": "the Gentiles are co-heirs, members of the same body, and co-participants in the promise in Christ Jesus through the good news.",
+      "after": "the Gentiles are coheirs, members of the same body, and copartners in the promise in Christ Jesus through the gospel.",
+      "tsw_comparator": "that the Gentiles are fellow heirs, members of the same body, and sharers in the promise in Christ Jesus through the good news.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.790698,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:7",
+      "delta": "F3",
+      "rationale": "Keeps service, gift, grace, and power.",
+      "source_reference": "Eph 3:7",
+      "source_verse_sha256": "eb621d4e32ac85ba0166800923e7041a16b4d6a1190d5cb3aef36c185e18e036",
+      "before": "I became a servant of this good news according to the gift of God’s grace given to me through the working of his power.",
+      "after": "I became a servant of this gospel according to the gift of God's grace given to me through the working of his power.",
+      "tsw_comparator": "Of this I became a servant according to the gift of the grace of God given to me by the working of his power.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:8",
+      "delta": "F3",
+      "rationale": "Preserves Paul's intensified self-description and mission.",
+      "source_reference": "Eph 3:8",
+      "source_verse_sha256": "5750f97fed913d064187ed6d215ad5f5de6286efd438352737da13ef2c2d7fb9",
+      "before": "To me, the least of all the holy ones, this grace was given: to announce to the Gentiles the unsearchable riches of Christ,",
+      "after": "This grace was given to me, the very least of all the saints: to proclaim to the Gentiles the unsearchable wealth of Christ",
+      "tsw_comparator": "To me, the very least of all the holy ones, this grace was given: to proclaim to the Gentiles the unsearchable riches of Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.723404,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:9",
+      "delta": "F3",
+      "rationale": "Keeps universal disclosure, hidden duration, and Creator.",
+      "source_reference": "Eph 3:9",
+      "source_verse_sha256": "fc3a39b75449d945a10e7478a2fc08ac24fd5ccfc4fc91392fe4e52d63b0b7ab",
+      "before": "and to bring to light for everyone the administration of the mystery hidden for ages in God, who created all things,",
+      "after": "and to bring to light for everyone the administration of the mystery hidden for ages in God, who created all things.",
+      "tsw_comparator": "and to bring to light for all what is the administration of the mystery hidden for ages in God who created all things,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:10",
+      "delta": "F3",
+      "rationale": "Preserves church as means, multicolored image, and heavenly powers.",
+      "source_reference": "Eph 3:10",
+      "source_verse_sha256": "9e7edf0af52a3c571656e56ab76afa081add118bd7f3e5193428c376aade8efe",
+      "before": "so that now, through the church, the many-sided wisdom of God might be made known to the rulers and authorities in the heavenly realms,",
+      "after": "This was so that now, through the church, God's richly varied wisdom might be made known to the rulers and authorities in the heavenly realms,",
+      "tsw_comparator": "so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.734694,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:11",
+      "delta": "F3",
+      "rationale": "Keeps purpose's duration and accomplishment.",
+      "source_reference": "Eph 3:11",
+      "source_verse_sha256": "aead896c912d675cb323848390d22bd073882fcf13ec158b7fb57f50a48a995a",
+      "before": "according to the eternal purpose he carried out in Christ Jesus our Lord.",
+      "after": "according to the eternal purpose he accomplished in Christ Jesus our Lord.",
+      "tsw_comparator": "according to the eternal purpose that he accomplished in Christ Jesus our Lord,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:12",
+      "delta": "F3",
+      "rationale": "Renders the genitive as Christ's faithfulness and preserves access.",
+      "source_reference": "Eph 3:12",
+      "source_verse_sha256": "a51e29c8ef3b2eb2175605f5740b6eae66f5a26131ea85ca548cc7716d63330c",
+      "before": "In him we have boldness and confident access through trust in him.",
+      "after": "In him we have boldness and confident access through his faithfulness.",
+      "tsw_comparator": "in whom we have boldness and access with confidence through faith in him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.583333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:13",
+      "delta": "F3",
+      "rationale": "Names affliction and Paul's surprising evaluation.",
+      "source_reference": "Eph 3:13",
+      "source_verse_sha256": "e16b96afae95e7522615a2605af9fca5d1d0207e420ba334b6997cec41d757ea",
+      "before": "Therefore I ask you not to lose heart because of my sufferings for you, which are your glory.",
+      "after": "Therefore I ask you not to lose heart because of my afflictions for you, which are your glory.",
+      "tsw_comparator": "Therefore I ask you not to lose heart over my afflictions for you, which are your glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:15",
+      "delta": "F3",
+      "rationale": "Preserves Father/family wordplay and total scope.",
+      "source_reference": "Eph 3:15",
+      "source_verse_sha256": "71bd8ce4eb94d81701b63281c7130efc523806a8d871ee9b4e11aabae37b02a7",
+      "before": "from whom every family in heaven and on earth is named,",
+      "after": "from whom every family in heaven and on earth receives its name.",
+      "tsw_comparator": "from whom every family in heaven and on earth is named,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:16",
+      "delta": "F3",
+      "rationale": "Keeps prayer, wealth, Spirit, and inner person.",
+      "source_reference": "Eph 3:16",
+      "source_verse_sha256": "45f90ed6fe6e2ed1f57105c5c7256d07226180264f10f4dc0dc1e1487417e0b0",
+      "before": "asking that, according to the riches of his glory, he may grant you to be strengthened with power through his Spirit in your inner being,",
+      "after": "I pray that, according to the wealth of his glory, he may grant you to be strengthened with power through his Spirit in your inner being,",
+      "tsw_comparator": "that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in the inner person,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:17",
+      "delta": "F3",
+      "rationale": "Preserves dwelling plus agricultural and construction metaphors.",
+      "source_reference": "Eph 3:17",
+      "source_verse_sha256": "fa08302eb42a8252798ee894104c573a7cac62209bbb661414e205a72194d021",
+      "before": "so that Christ may dwell in your hearts through trust, as you are rooted and grounded in love.",
+      "after": "so that Christ may dwell in your hearts through faith, as you are rooted and grounded in love.",
+      "tsw_comparator": "so that Christ may dwell in your hearts through faith—being rooted and grounded in love—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:18",
+      "delta": "F3",
+      "rationale": "Keeps four dimensions without supplying an unstated object.",
+      "source_reference": "Eph 3:18",
+      "source_verse_sha256": "3e2cb3bd3b802f7ce2035ce87d68ce1515221b64f1aee174469a46b98e479796",
+      "before": "May you have strength to comprehend, together with all the holy ones, what is the breadth and length and height and depth,",
+      "after": "May you have strength to grasp, together with all the saints, what is the width and length and height and depth,",
+      "tsw_comparator": "that you may have strength to comprehend with all the holy ones what is the breadth and length and height and depth,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.744186,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:19",
+      "delta": "F3",
+      "rationale": "Preserves knowledge paradox and fullness.",
+      "source_reference": "Eph 3:19",
+      "source_verse_sha256": "ac4e6d8d353bbbd19c28d404d61815bcc8841031ad373f4e2793d4977daa41d3",
+      "before": "and to know Christ’s love that surpasses knowledge, so that you may be filled to all the fullness of God.",
+      "after": "and to know Christ's love that surpasses knowledge, so that you may be filled to all the fullness of God.",
+      "tsw_comparator": "and to know the love of Christ that surpasses knowledge, so that you may be filled with all the fullness of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 3:20",
+      "delta": "F3",
+      "rationale": "Keeps extraordinary abundance and active power.",
+      "source_reference": "Eph 3:20",
+      "source_verse_sha256": "0b06714389386f109403b8e0f32059dc4c38e9b89e936919b0157ae536bd4aa7",
+      "before": "Now to the one who is able to do far beyond everything we ask or imagine, according to the power at work within us,",
+      "after": "Now to the one who is able to do far beyond all that we ask or imagine, according to the power at work within us,",
+      "tsw_comparator": "Now to the one who is able to do beyond all things exceedingly more than we ask or think, according to the power that is at work in us,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/ephesians/Ephesians_03.md",
-    "blob_sha": "f429a294f40a73904e3755690c1ab58a83fdb14a"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

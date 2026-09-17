@@ -316,28 +316,21 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "current_revision": {
-    "id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+    "id": "fluent-2026-09-17-romans-16-biblical-fluency-2026-09-16",
     "chapters": [
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15
+      16
     ],
-    "verse_count": 245,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+    "verse_count": 24,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+      "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
       "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
     },
     "note": "Previous wording approvals and Companion bindings do not transfer."
@@ -384,6 +377,22 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+        "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-2026-09-17-romans-16-biblical-fluency-2026-09-16",
+      "chapters": [
+        16
+      ],
+      "verse_count": 24,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
         "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
       },
       "note": "Previous wording approvals and Companion bindings do not transfer."

@@ -1,0 +1,100 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+  "new_chapters": 41,
+  "new_verses": 998,
+  "unique_original_source_records": 997,
+  "cumulative_coverage": {
+    "ledgers": 127,
+    "chapters": 1107,
+    "verses": 29426
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 122,
+    "chapters_byte_identical": 1066,
+    "verses": 28428,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-romans-16/romans-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 24,
+      "unique_source_records": 24
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 437,
+      "unique_source_records": 437
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 257,
+      "unique_source_records": 256
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 149,
+      "unique_source_records": 149
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 131,
+      "unique_source_records": 131
+    }
+  ],
+  "additional_affected_ledgers": [
+    "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+    "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json"
+  ],
+  "source_sensitive_checks": {
+    "romans_names_and_roles": true,
+    "romans_versification": true,
+    "first_corinthians_numbers": true,
+    "first_corinthians_variants": true,
+    "first_corinthians_social_status": true,
+    "second_corinthians_harm_counts": true,
+    "second_corinthians_vision_count": true,
+    "second_corinthians_public_mapping": true,
+    "galatians_names_and_chronology": true,
+    "galatians_numbers_and_body": true,
+    "galatians_status_and_gender": true,
+    "galatians_faithfulness": true,
+    "ephesians_bracketed_place": true,
+    "ephesians_reconciliation": true,
+    "ephesians_co_compounds": true,
+    "ephesians_captive_image": true,
+    "ephesians_household_frame": true
+  },
+  "focused_authoring_reread_count": 588,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31083 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "completed_fifty_chapter_block": {
+    "scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13; Galatians 1–6; Ephesians 1–5",
+    "status": "DRAFT_COMPLETED",
+    "chapters": 50,
+    "verses": 1243,
+    "completion_evidence": "audit/fluent-revision/2026-09-17-ephesians-1-5/block-boundary-verification.json",
+    "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
+  },
+  "active_fifty_chapter_block": {
+    "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "status": "IN_PROGRESS",
+    "chapters_target": 50,
+    "completed_chapters": 0,
+    "completed_scope": "None",
+    "completed_verses": 0,
+    "remaining_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "remaining_chapters": 50,
+    "qualification": "The preceding fifty-chapter block is draft-complete and structurally verified. This next block is queued but has not yet begun; independent editorial review and reader testing remain pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_reviews": "PENDING; Romans, 1 Corinthians, 2 Corinthians, and Galatians newly queued",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

@@ -1,0 +1,7 @@
+# 1 Corinthians authoring self-reread
+
+This is a focused bilingual drafting-assistant reread, not human or independent scholarly review. All 437 exact SBLGNT records were read before authoring. After drafting, the revised English, exact Greek payloads, prior Fluent, and TSW comparators were checked together, with special attention to the provisional F3 decisions.
+
+The reread checked faction and crucifixion language (1:10–25), Spirit/natural-person contrasts (2:6–16), communal temple language (3:9–17), apostolic deprivation and irony (4:8–21), the severe discipline and stated saving purpose in 5:5, the two disputed male sexual terms in 6:9, the Corinthian slogans and bodily-union argument (6:12–20), mutual marital authority and the disputed freedom clause (7:3–5, 15, 21), idol-food conscience and apostolic rights (8–9), twenty-three thousand and ‘test Christ’ (10:8–9), head-covering language and women's praying and prophesying (11:2–16), class harm at the meal and the absence of ‘broken’ in 11:24, gifts and one body including enslaved and free people (12), love without erasing harm (13), the tension between 11:5 and 14:34–35, and the complete bodily-resurrection argument (15).
+
+All numbers in the two wilderness/meal sequences, names, speaker shifts, quoted slogans, textual variants, and public verse labels were checked. No wording was approved for publication; whole-book and independent editorial review remain pending.

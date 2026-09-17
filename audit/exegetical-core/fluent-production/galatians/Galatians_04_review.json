@@ -2,237 +2,361 @@
   "book": "Galatians",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 31,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "e237f14d9e572bbf704ccc8f1bab11a58839d4b1ebaed1e9e5da4ffa11caa50a"
-      },
-      "2": {
-        "source_ref": "Galatians 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "f34842cbc9d0022753689f3aef7eb2381952cfa13053cdcd90076a1af40a87d0"
-      },
-      "3": {
-        "source_ref": "Galatians 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b3d349e59587365acad6a09ade3455a2b8d1ba2bbcbe463b52433355cdb74a5e"
-      },
-      "4": {
-        "source_ref": "Galatians 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "7025ae8cb3b582884d354d7c6ae1d9bb59b9d3009ed83b2cdcb915f695b50a18"
-      },
-      "5": {
-        "source_ref": "Galatians 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "51f762771afcf4cd7ac3eada7cd021ee0fdf28d45dc184332a4bcb2af8434419"
-      },
-      "6": {
-        "source_ref": "Galatians 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "be711628027d00137db74e33b91a8b35dfb03b1affdaa736e1c7631d3185f85d"
-      },
-      "7": {
-        "source_ref": "Galatians 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "f37a6fa204dcd6074fa561b58fc6293991dc1428adcf6b88cc28f711df1cf3e5"
-      },
-      "8": {
-        "source_ref": "Galatians 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "46c54c23343b7f10800fdb6c3c01e2dd294f15d582fdbfaf221d7cfb433cc326"
-      },
-      "9": {
-        "source_ref": "Galatians 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8b73bb7caca1b3a727bee36460ef2e9fd7f0db23722120d2eaf7855ebf8d4dab"
-      },
-      "10": {
-        "source_ref": "Galatians 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "965312a21bdd106eb2a23e76f141ffd129a2555869182d9f5fbac297d7f64ea4"
-      },
-      "11": {
-        "source_ref": "Galatians 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "5d5f1d4aaf82a1c3d0107b3b5c584194441accab473300bcea0ccbd1c4565b86"
-      },
-      "12": {
-        "source_ref": "Galatians 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "fe0f1530df66b244407802c1a3af0d536abcc5d5786bca67e7ee45844a489125"
-      },
-      "13": {
-        "source_ref": "Galatians 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "32d3eb78f10073530c7451d462650b5f4c6b906d0719c90260caabd5abbffbc2"
-      },
-      "14": {
-        "source_ref": "Galatians 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "3ec8a76b54158a3a9c5e63586d46beb5f2cec7960ca6807c0cfd11a81a5ceb64"
-      },
-      "15": {
-        "source_ref": "Galatians 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "bdde625667410a253953769116b0d5d796e50c133f9986cd5909bfedab145356"
-      },
-      "16": {
-        "source_ref": "Galatians 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "8fe2d7b59e247c4b26021027d50f7a9d402e8e22a797e0a3794889caeb8a69a9"
-      },
-      "17": {
-        "source_ref": "Galatians 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "5510387db57f47f5f1b280ddf814b05db37ad52810b15919a1dccea6683ee7bf"
-      },
-      "18": {
-        "source_ref": "Galatians 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "a911df7f7baeb2c4834a6d7cdc4ebb9ec43cf63347c974258afa11d74a928890"
-      },
-      "19": {
-        "source_ref": "Galatians 4:19",
-        "source_chapter": 4,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "bf40e7eca8e4065bca0f416807d900f756068c11133ed717e7d001b0f1865575"
-      },
-      "20": {
-        "source_ref": "Galatians 4:20",
-        "source_chapter": 4,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "0bc0f1ee4aa7e856f0e6f85ca669c033249b162b498c1b7b6fc41579758cc2b3"
-      },
-      "21": {
-        "source_ref": "Galatians 4:21",
-        "source_chapter": 4,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "7edc56caab66fe2350e0190c46cb21b1abfadcdf5eb12fc19dcc2fe7010e21b8"
-      },
-      "22": {
-        "source_ref": "Galatians 4:22",
-        "source_chapter": 4,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "d4f7c97ff0a66678ac69580f294d1e689d9ab6deb0872ee0de9b6521a190e50e"
-      },
-      "23": {
-        "source_ref": "Galatians 4:23",
-        "source_chapter": 4,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "7f966871fdb0b10624ae8664e5cce7ccd3a4b9324d16776792cf50fbef6a2b78"
-      },
-      "24": {
-        "source_ref": "Galatians 4:24",
-        "source_chapter": 4,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "ff2a4061cda5d0c96e2510dc686e8e5b53a0291dc684bdcc98ee1fc196023d0f"
-      },
-      "25": {
-        "source_ref": "Galatians 4:25",
-        "source_chapter": 4,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "f6ebd1faf3b226d61e3bb98a211d9ee2816d0401c826e9381c8217e19b9707f1"
-      },
-      "26": {
-        "source_ref": "Galatians 4:26",
-        "source_chapter": 4,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "bf9d2c59ced78f881c329112c4c9a6933d10d0283496768372bd5984ff5892e2"
-      },
-      "27": {
-        "source_ref": "Galatians 4:27",
-        "source_chapter": 4,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "371a7ee8634b8365e1c27570d1770c866b8521e0d084c2ada473c2a11b7c82ee"
-      },
-      "28": {
-        "source_ref": "Galatians 4:28",
-        "source_chapter": 4,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "99aac78148c2180283dd64ef7493d33a1c42e4f9cbdab2613e66017c96d6be14"
-      },
-      "29": {
-        "source_ref": "Galatians 4:29",
-        "source_chapter": 4,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "8b4b2bcd76962918bec0f41d21ca89221a53b42c622834c3655e4284e16ef136"
-      },
-      "30": {
-        "source_ref": "Galatians 4:30",
-        "source_chapter": 4,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "c62e907a70869976a87b43761d2149632776a39f3aa19750cdb29bd3bb3d6f5f"
-      },
-      "31": {
-        "source_ref": "Galatians 4:31",
-        "source_chapter": 4,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "2f869cbe7f449e93cf7d09fd9ed106a2c193804ec91baa0f28eddfab1737bd72"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 31,
+    "path": "translations/fluent/NT/galatians/Galatians_04.md",
+    "before_sha256": "1561c628e3e6bb714fb1405c4beef792715c5a6e12127865a7d9c604e93d90b4",
+    "after_sha256": "cc4d93369c508714ee5a39380c806cedcf78c9aba905ec1847aa2a9860940e00",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_04.md",
+    "tsw_comparator_sha256": "08c59efd1ff594eb4ddbf5ae1e5e1e7c84e36c940190c916b8fee92e0b0f9c13"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 4:1",
+      "delta": "F3",
+      "rationale": "Preserves ancient household status, gendered heir, and paradox.",
+      "source_reference": "Gal 4:1",
+      "source_verse_sha256": "6448d80289890860cccf447611723a32ed41250e788da5e359dcb9d6184be74f",
+      "before": "What I mean is this: as long as an heir is a child, that heir differs in no way from a slave, though being owner of everything.",
+      "after": "What I mean is that as long as an heir is a minor, he differs in no way from an enslaved person, though he is owner of everything.",
+      "tsw_comparator": "I mean this: as long as an heir is a child, the heir differs in no way from a slave, though the heir is the owner of everything.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:2",
+      "delta": "F3",
+      "rationale": "Keeps household roles and paternal deadline.",
+      "source_reference": "Gal 4:2",
+      "source_verse_sha256": "7da86c6f80567ad7f67f93a7313f2f4fb1bd84455d57300115f3787647812ba6",
+      "before": "Instead, the heir is under guardians and managers until the date set by the father.",
+      "after": "Instead, he is under guardians and estate managers until the date set by his father.",
+      "tsw_comparator": "Rather, the heir is under guardians and stewards until the date set by the father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:3",
+      "delta": "F3",
+      "rationale": "Retains real enslavement and the ambiguous cosmic elements/powers.",
+      "source_reference": "Gal 4:3",
+      "source_verse_sha256": "34e114999a47dd6d2063abe23a87d9c6a2b4cc98a2e3d89ba7b5f94396da1896",
+      "before": "In the same way, when we were children, we were enslaved under the elemental powers of the world.",
+      "after": "In the same way, when we were minors, we were enslaved under the elemental powers of the world.",
+      "tsw_comparator": "So also we, when we were children, were enslaved under the elemental powers of the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:4",
+      "delta": "F3",
+      "rationale": "Keeps divine sending, human birth, and legal location.",
+      "source_reference": "Gal 4:4",
+      "source_verse_sha256": "6ebdc36ee05be1cf3e7934f7adb27b631b87661cd7baf04b64946bd4684c58af",
+      "before": "But when the fullness of time came, God sent his Son, born of a woman, born under the Law,",
+      "after": "But when the fullness of time came, God sent out his Son, born from a woman, born under the law,",
+      "tsw_comparator": "But when the fullness of time had come, God sent the Son, born of a woman, born under the law,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:5",
+      "delta": "F3",
+      "rationale": "Preserves release and gendered inheritance status.",
+      "source_reference": "Gal 4:5",
+      "source_verse_sha256": "b7a1bd8a7816308f4730b11f4f99e9814ca591182fa1cff472b15f91679c86b4",
+      "before": "to redeem those under the Law so that we might receive adoption as sons and daughters.",
+      "after": "to redeem those under the law, so that we might receive adoption as sons.",
+      "tsw_comparator": "in order to redeem those who were under the law, so that we might receive adoption as children.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:6",
+      "delta": "F3",
+      "rationale": "Keeps shift from you to our, Spirit's cry, and Aramaic address.",
+      "source_reference": "Gal 4:6",
+      "source_verse_sha256": "8cd5d653fe6ca36a4d35ec18554bc9cb68bf6d8596c6fc75ff619dc23200d702",
+      "before": "And because you are sons and daughters, God sent the Spirit of his Son into our hearts, crying, “Abba! Father!”",
+      "after": "And because you are sons, God sent the Spirit of his Son into our hearts, crying, “Abba, Father!”",
+      "tsw_comparator": "And because you are children, God has sent the Spirit of the Son into our hearts, crying, “Abba! Father!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:7",
+      "delta": "F3",
+      "rationale": "Preserves singular address and status change.",
+      "source_reference": "Gal 4:7",
+      "source_verse_sha256": "f47fb8b22d9756bfda13efaf25089a50e9adc3bdb86465dc75eb18a37e1ee413",
+      "before": "So you are no longer a slave but a child; and if a child, then also an heir through God.",
+      "after": "So you are no longer enslaved but a son; and if a son, then also an heir through God.",
+      "tsw_comparator": "So you are no longer a slave but a child, and if a child, then also an heir through God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:8",
+      "delta": "F3",
+      "rationale": "Keeps past condition and denial of divine nature.",
+      "source_reference": "Gal 4:8",
+      "source_verse_sha256": "f55ae32cb9fa6ef6c693b1c7b3bfd51e851f22bdaf18e921ade89073025bd749",
+      "before": "Formerly, when you did not know God, you were enslaved to beings that by nature are not gods.",
+      "after": "But formerly, when you did not know God, you were enslaved to beings that by nature are not gods.",
+      "tsw_comparator": "Formerly, when you did not know God, you were enslaved to those that by nature are not gods.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918919,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:9",
+      "delta": "F3",
+      "rationale": "Preserves Paul's correction and renewed enslavement question.",
+      "source_reference": "Gal 4:9",
+      "source_verse_sha256": "f4690cd92ecf36974a37dfe6382f0c6233eee270ed1efd257bafcc0853dc6670",
+      "before": "But now that you know God—or rather, are known by God—how can you turn back again to the weak and poor elemental powers? Do you want to be enslaved to them all over again?",
+      "after": "But now that you know God—or rather, are known by God—how can you turn back again to the weak and impoverished elemental powers? Do you want to be enslaved to them all over again?",
+      "tsw_comparator": "But now that you have come to know God—or rather to be known by God—how can you turn back again to the weak and impoverished elemental powers, whose slaves you want to be once more?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.767123,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:10",
+      "delta": "F3",
+      "rationale": "Keeps the fourfold calendar list.",
+      "source_reference": "Gal 4:10",
+      "source_verse_sha256": "eba762860315f3ec2ad73db14a53e5fc5722ab028006e9451d2843909aa868a8",
+      "before": "You carefully observe days, months, seasons, and years.",
+      "after": "You carefully observe days and months and seasons and years.",
+      "tsw_comparator": "You observe days and months and seasons and years!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:13",
+      "delta": "F3",
+      "rationale": "Names bodily weakness without diagnosing it.",
+      "source_reference": "Gal 4:13",
+      "source_verse_sha256": "656f90a3bc4537eeaed0e2f2215946c3b3b4c1312ecd7c84420b6ef5c524c8f8",
+      "before": "You know that it was because of a bodily weakness that I first announced the good news to you.",
+      "after": "You know that it was because of a bodily weakness that I first proclaimed the gospel to you.",
+      "tsw_comparator": "You know that it was because of a weakness of the flesh that I proclaimed the good news to you the first time,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:14",
+      "delta": "F3",
+      "rationale": "Keeps disability-like stigma, rejection verbs, and extraordinary welcome.",
+      "source_reference": "Gal 4:14",
+      "source_verse_sha256": "b2f19eb56e03bb3434c157621566ede380e113be924d4c379f98afdd83e87f8c",
+      "before": "Though my bodily condition was a trial for you, you did not despise or reject me. Instead, you received me as an angel of God, as Christ Jesus.",
+      "after": "Although my bodily condition was a trial for you, you did not despise or spit at me. Instead, you welcomed me as an angel of God, as Christ Jesus.",
+      "tsw_comparator": "and though my condition was a trial to you, you did not despise or reject me, but received me as an angel of God, as Christ Jesus himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:15",
+      "delta": "F3",
+      "rationale": "Retains violent hyperbole without inferring an eye illness.",
+      "source_reference": "Gal 4:15",
+      "source_verse_sha256": "63a058576c1aa29d875da94206469245db1f69547f845b9674b6a8822df1d35d",
+      "before": "Where then is the blessedness you had? I testify that, if possible, you would have torn out your eyes and given them to me.",
+      "after": "Where, then, is that sense of blessing you had? For I testify that, if possible, you would have torn out your eyes and given them to me.",
+      "tsw_comparator": "Where then is that blessing of yours? For I testify to you that, if possible, you would have torn out your eyes and given them to me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:17",
+      "delta": "F3",
+      "rationale": "Preserves manipulation through exclusion and attention.",
+      "source_reference": "Gal 4:17",
+      "source_verse_sha256": "8d80dc86d05f81537bbed9167b6105bb546c2133eceeccec0e056ca977db34a8",
+      "before": "Those people are eager for you, but not for a good purpose. They want to shut you out so that you will be eager for them.",
+      "after": "Those people are zealous for you, but not for a good purpose. They want to shut you out so that you will be zealous for them.",
+      "tsw_comparator": "They are eager for you, but not for good; they want to shut you out, so that you may be eager for them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77551,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:19",
+      "delta": "F3",
+      "rationale": "Preserves Paul's maternal birth image and unfinished sentence.",
+      "source_reference": "Gal 4:19",
+      "source_verse_sha256": "51a6c64158741960af64ea00e3ced681b25d3f76016ba30a61f0413197d81d72",
+      "before": "My children, for whom I am again suffering birth pains until Christ is formed in you,",
+      "after": "My children, for whom I am again in labor pains until Christ is formed in you,",
+      "tsw_comparator": "My little children, for whom I am again in the pain of childbirth until Christ is formed in you,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:22",
+      "delta": "F3",
+      "rationale": "Retains gender and actual enslaved/free status.",
+      "source_reference": "Gal 4:22",
+      "source_verse_sha256": "9a6cb04df567050157e5fdcbabcb582419fc264351679474e76e34875b77ed7e",
+      "before": "For it is written that Abraham had two sons, one by the slave woman and one by the free woman.",
+      "after": "For it is written that Abraham had two sons, one by the enslaved woman and one by the free woman.",
+      "tsw_comparator": "For it is written that Abraham had two sons, one by a slave woman and one by a free woman.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:23",
+      "delta": "F3",
+      "rationale": "Keeps birth and promise contrast.",
+      "source_reference": "Gal 4:23",
+      "source_verse_sha256": "30aef5283e92ed07e5b086095a38fb17d59526917f9d5a326bffca000eaca5d6",
+      "before": "But the son of the slave woman was born according to the flesh, while the son of the free woman was born through promise.",
+      "after": "The one by the enslaved woman was born according to the flesh, but the one by the free woman through promise.",
+      "tsw_comparator": "But the son of the slave was born according to the flesh, while the son of the free woman was born through promise.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:24",
+      "delta": "F3",
+      "rationale": "Preserves Paul's stated allegory, geography, and slavery.",
+      "source_reference": "Gal 4:24",
+      "source_verse_sha256": "b2c87855a46562a586c3820baa295381336290b0f9645afdead9887fcff0c146",
+      "before": "These things are being spoken allegorically, for these women are two covenants. One is from Mount Sinai, bearing children for slavery; this is Hagar.",
+      "after": "These things are being interpreted allegorically, for these women represent two covenants. One is from Mount Sinai, bearing children into slavery; this is Hagar.",
+      "tsw_comparator": "Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.680851,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:25",
+      "delta": "F3",
+      "rationale": "Keeps difficult identification, location, and correspondence.",
+      "source_reference": "Gal 4:25",
+      "source_verse_sha256": "e79f81c6e2d8b1eb8334e3cfb4fc3d481c32767cd55abe4b9443d657cbb2d4cb",
+      "before": "Now Hagar corresponds to Mount Sinai in Arabia and corresponds to the present Jerusalem, because she is in slavery with her children.",
+      "after": "Now Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is enslaved with her children.",
+      "tsw_comparator": "Now Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:26",
+      "delta": "F3",
+      "rationale": "Preserves female city image and kinship.",
+      "source_reference": "Gal 4:26",
+      "source_verse_sha256": "ce6950fd54d5c03f08fc20f5d928cb2647e2116fb76e4cf87285c0f3102f8c56",
+      "before": "But the Jerusalem above is free, and she is our mother.",
+      "after": "But the Jerusalem above is free, and she is our mother.",
+      "tsw_comparator": "But the Jerusalem above is free, and she is our mother.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:27",
+      "delta": "F3",
+      "rationale": "Keeps all gendered imagery and comparative quotation.",
+      "source_reference": "Gal 4:27",
+      "source_verse_sha256": "44c0e508b31f2a9df5d9264987ff71fc570fbaae5b9a1eed91875668695bd602",
+      "before": "For it is written, “Rejoice, barren woman who does not bear; break out and cry aloud, you who are not in labor, because the children of the deserted woman are more numerous than those of the woman who has a husband.”",
+      "after": "For it is written, “Rejoice, barren woman who does not give birth; break out and cry aloud, woman who has no labor pains, because the deserted woman's children are more numerous than those of the woman who has a husband.”",
+      "tsw_comparator": "For it is written, “Rejoice, O barren one who does not bear; break forth and cry aloud, you who are not in labor; for the children of the desolate one are more than those of the one who has a husband.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:29",
+      "delta": "F3",
+      "rationale": "Keeps persecution and temporal analogy.",
+      "source_reference": "Gal 4:29",
+      "source_verse_sha256": "38641c14f2e4d21430e5f9845f7b3391de806f3dff9bf160094a1585ecb4c4a0",
+      "before": "But just as the one born according to the flesh persecuted the one born according to the Spirit then, so it is now.",
+      "after": "But just as then the one born according to the flesh persecuted the one born according to the Spirit, so it is now.",
+      "tsw_comparator": "But just as at that time the one born according to the flesh persecuted the one born according to the Spirit, so it is now also.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.897959,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:30",
+      "delta": "F3",
+      "rationale": "Retains the harsh expulsion quotation and status terms.",
+      "source_reference": "Gal 4:30",
+      "source_verse_sha256": "471f95ebf60e352c6dfe415d15395b428ed608c67ac4611390d803f9fff3e5bb",
+      "before": "But what does the Scripture say? “Drive out the slave woman and her son, because the slave woman’s son will certainly not inherit with the free woman’s son.”",
+      "after": "But what does Scripture say? “Drive out the enslaved woman and her son, for the son of the enslaved woman will certainly not inherit with the son of the free woman.”",
+      "tsw_comparator": "But what does the scripture say? “Cast out the slave woman and her son, for the son of the slave shall not inherit with the son of the free woman.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.819672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 4:31",
+      "delta": "F3",
+      "rationale": "Keeps the allegorical conclusion and community identity.",
+      "source_reference": "Gal 4:31",
+      "source_verse_sha256": "5fb24e7165da3e0353b31f0e825927cf509b7d227942f7e762bf026cf529eaaa",
+      "before": "Therefore, brothers and sisters, we are not children of the slave woman but of the free woman.",
+      "after": "Therefore, brothers and sisters, we are not children of the enslaved woman, but of the free woman.",
+      "tsw_comparator": "So then, brothers and sisters, we are not children of the slave but of the free woman.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_04.md",
-    "blob_sha": "76a07bd2201792257ae89c5d7dc42790cfaea35c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

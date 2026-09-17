@@ -1,306 +1,161 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_04_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 4:1",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 1,
-            "source_ref": "2 Corinthians 4:1",
-            "segment_mode": "whole",
-            "sha256": "b8fd9723280a757fd8b1be7a54d0494c57921a14f10f70386986cc3ed372cb53"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8fd9723280a757fd8b1be7a54d0494c57921a14f10f70386986cc3ed372cb53"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 4:2",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 2,
-            "source_ref": "2 Corinthians 4:2",
-            "segment_mode": "whole",
-            "sha256": "f8fad07b40aef00d393dfec821caad528c59ccd67cd5dfea5a5213190be53385"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f8fad07b40aef00d393dfec821caad528c59ccd67cd5dfea5a5213190be53385"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 4:3",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 3,
-            "source_ref": "2 Corinthians 4:3",
-            "segment_mode": "whole",
-            "sha256": "6216d3493a389256686da6dcf1a201f218c8844647078e20b61b853ed1cd5eed"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6216d3493a389256686da6dcf1a201f218c8844647078e20b61b853ed1cd5eed"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 4:4",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 4,
-            "source_ref": "2 Corinthians 4:4",
-            "segment_mode": "whole",
-            "sha256": "5db56a6ef5366b28957f593b05ea6e75c13d737782324e72c0ac7b953dcb3db0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5db56a6ef5366b28957f593b05ea6e75c13d737782324e72c0ac7b953dcb3db0"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 4:5",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 5,
-            "source_ref": "2 Corinthians 4:5",
-            "segment_mode": "whole",
-            "sha256": "3ae0fe9fb54bf554fe27267dd7bf304f27435b0ca66b177461578d4e0819db04"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3ae0fe9fb54bf554fe27267dd7bf304f27435b0ca66b177461578d4e0819db04"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 4:6",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 6,
-            "source_ref": "2 Corinthians 4:6",
-            "segment_mode": "whole",
-            "sha256": "2889b0dbc6f3105966a5ca9c6f63c55b5b93b587236760935e912d20df7fc45c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2889b0dbc6f3105966a5ca9c6f63c55b5b93b587236760935e912d20df7fc45c"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 4:7",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 7,
-            "source_ref": "2 Corinthians 4:7",
-            "segment_mode": "whole",
-            "sha256": "f58540826f7301b68c59cebba67359ea4e68049ca4a9d5362b1233f12acdc89f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f58540826f7301b68c59cebba67359ea4e68049ca4a9d5362b1233f12acdc89f"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 4:8",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 8,
-            "source_ref": "2 Corinthians 4:8",
-            "segment_mode": "whole",
-            "sha256": "406039f44d3959977d3ed621ab4e99a02a19c935fc34a1c32f12e8173fee5b08"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "406039f44d3959977d3ed621ab4e99a02a19c935fc34a1c32f12e8173fee5b08"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 4:9",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 9,
-            "source_ref": "2 Corinthians 4:9",
-            "segment_mode": "whole",
-            "sha256": "f26a9a6326e70d8f82918c8a4ce5b773cabb695db65f7a16295fffb26c946f6d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f26a9a6326e70d8f82918c8a4ce5b773cabb695db65f7a16295fffb26c946f6d"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 4:10",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 10,
-            "source_ref": "2 Corinthians 4:10",
-            "segment_mode": "whole",
-            "sha256": "bb394314cfe97a55aba8cb3f88b0a07037cabcf9b39dc6c0481cdebe4c2d99c6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bb394314cfe97a55aba8cb3f88b0a07037cabcf9b39dc6c0481cdebe4c2d99c6"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 4:11",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 11,
-            "source_ref": "2 Corinthians 4:11",
-            "segment_mode": "whole",
-            "sha256": "d34e38cb76aa6044f192ce25870e2c03055829c5ac0fe8967e48ee020fac451d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d34e38cb76aa6044f192ce25870e2c03055829c5ac0fe8967e48ee020fac451d"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 4:12",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 12,
-            "source_ref": "2 Corinthians 4:12",
-            "segment_mode": "whole",
-            "sha256": "68ae10dd9cdae4711793b143d3aa044be57ea4579c108fb0a2fe70768482318b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "68ae10dd9cdae4711793b143d3aa044be57ea4579c108fb0a2fe70768482318b"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 4:13",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 13,
-            "source_ref": "2 Corinthians 4:13",
-            "segment_mode": "whole",
-            "sha256": "abdc43482c863c971a8f13041244270ae02e4f1546998a9f54b7dae85fdc789c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "abdc43482c863c971a8f13041244270ae02e4f1546998a9f54b7dae85fdc789c"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 4:14",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 14,
-            "source_ref": "2 Corinthians 4:14",
-            "segment_mode": "whole",
-            "sha256": "8d8139e2c51db792a6bea456e1c44c891dc669ec432d5e7224bef1f32d0d4603"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8d8139e2c51db792a6bea456e1c44c891dc669ec432d5e7224bef1f32d0d4603"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 4:15",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 15,
-            "source_ref": "2 Corinthians 4:15",
-            "segment_mode": "whole",
-            "sha256": "008f0b0e0460a9b1de080f71556ae0b9156cdfae0fe626a57ac6539f09f0b5f5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "008f0b0e0460a9b1de080f71556ae0b9156cdfae0fe626a57ac6539f09f0b5f5"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 4:16",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 16,
-            "source_ref": "2 Corinthians 4:16",
-            "segment_mode": "whole",
-            "sha256": "7761b64cbff4ecfbea957309c77f062a390ac3f8d75172a08ab67b74cad52b34"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7761b64cbff4ecfbea957309c77f062a390ac3f8d75172a08ab67b74cad52b34"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 4:17",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 17,
-            "source_ref": "2 Corinthians 4:17",
-            "segment_mode": "whole",
-            "sha256": "ff0c7a7d46d7f6a7e694dea1218c89e4f1753c3a926f0fccc6cdbb040608b947"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ff0c7a7d46d7f6a7e694dea1218c89e4f1753c3a926f0fccc6cdbb040608b947"
-      },
-      "18": {
-        "source_ref": "2 Corinthians 4:18",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 18,
-            "source_ref": "2 Corinthians 4:18",
-            "segment_mode": "whole",
-            "sha256": "d10c962c4e20d209e09a22fbcf0102b9c0c3b14f06052baaeea0a0f89b8a4d99"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d10c962c4e20d209e09a22fbcf0102b9c0c3b14f06052baaeea0a0f89b8a4d99"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_04.md",
+    "before_sha256": "216d0e91233a937fcbd9eb63f4638eb4a125406df210faa10aa148059c10f679",
+    "after_sha256": "7d347979273f9a4156d95623b2d42240cdad2a5c5b349ebd085d6b5f7d5ca358",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_04.md",
+    "tsw_comparator_sha256": "bbaf8de69333b4a86c1b7914d09eacd914495c6a1f872292cd8edc48cf19ab97"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 4:2",
+      "delta": "F3",
+      "rationale": "Preserves renunciation, ethical contrasts, conscience, and Godward accountability.",
+      "source_reference": "2Cor 4:2",
+      "source_verse_sha256": "03167e760710a29d3e975e2c0141576d227cc382a0fc37e095df9c991635596e",
+      "before": "But we have renounced the hidden things of shame, not walking in craftiness nor falsifying the word of God, but by the open statement of the truth commending ourselves to every conscience in the sight of God.",
+      "after": "Instead, we have renounced secret, shameful things. We do not walk in deceit or distort God's word, but by openly presenting the truth we commend ourselves to every human conscience before God.",
+      "tsw_comparator": "But we have renounced the hidden things of shame, not walking in craftiness nor falsifying the word of God, but by the open statement of the truth commending ourselves to every conscience in the sight of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.463768,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:4",
+      "delta": "F3",
+      "rationale": "Preserves agency, blindness, light, glory, and image.",
+      "source_reference": "2Cor 4:4",
+      "source_verse_sha256": "7cfce945e0e730696ea2af517c48a11a027ace8d5fa5e3cec520da4a8da0e55f",
+      "before": "in whose case the god of this age has blinded the minds of the unbelieving, so that they might not see the light of the good news of the glory of Christ, who is the image of God.",
+      "after": "In their case, the god of this age has blinded the minds of unbelievers so that the light of the gospel of Christ's glory, who is God's image, would not shine on them.",
+      "tsw_comparator": "in whose case the god of this age has blinded the minds of the unbelieving, so that they might not see the light of the good news of the glory of Christ, who is the image of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647887,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:7",
+      "delta": "F3",
+      "rationale": "Keeps fragile-container image and divine source of power.",
+      "source_reference": "2Cor 4:7",
+      "source_verse_sha256": "f1483ca4b0f4e58b07b6cd5f423b1eca46bf11e6dbe6bd422509ef2e2598bf4c",
+      "before": "But we have this treasure in clay jars, so that the surpassing power may be from God and not from us.",
+      "after": "But we have this treasure in clay jars so that the extraordinary power may be God's and not from us.",
+      "tsw_comparator": "But we have this treasure in clay jars, so that the surpassing power may be from God and not from us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:8",
+      "delta": "F3",
+      "rationale": "Preserves both real harms and their limits.",
+      "source_reference": "2Cor 4:8",
+      "source_verse_sha256": "f143675f79190c24fa7900e3458bf0bc3d6e366115c6e99b57f468743cf4a9c4",
+      "before": "We are afflicted in every way, but not crushed; perplexed, but not driven to despair;",
+      "after": "We are afflicted in every way but not crushed, perplexed but not driven to despair,",
+      "tsw_comparator": "We are afflicted in every way, but not crushed; perplexed, but not driven to despair;",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:10",
+      "delta": "F3",
+      "rationale": "Preserves bodily death/life correspondence.",
+      "source_reference": "2Cor 4:10",
+      "source_verse_sha256": "b2e01222b1cb2a41329aa728017c0e59b50d972c020833420c83e7d2e85c2163",
+      "before": "always carrying in the body the death of Jesus, so that the life of Jesus may also be made visible in our bodies.",
+      "after": "We always carry around in the body the death of Jesus, so that the life of Jesus may also be revealed in our body.",
+      "tsw_comparator": "always carrying in the body the death of Jesus, so that the life of Jesus may also be made visible in our bodies.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:11",
+      "delta": "F3",
+      "rationale": "Keeps passive exposure to death and mortal embodiment.",
+      "source_reference": "2Cor 4:11",
+      "source_verse_sha256": "6f899b40b1aa97241997fa2e97e7dbe7612af2e4a0e8fc97815780a491597ae7",
+      "before": "For we who live are always being given over to death for Jesus’ sake, so that the life of Jesus may also be made visible in our mortal flesh.",
+      "after": "For we who live are continually being handed over to death because of Jesus, so that Jesus' life may also be revealed in our mortal flesh.",
+      "tsw_comparator": "For we who live are always being given over to death for Jesus’ sake, so that the life of Jesus may also be made visible in our mortal flesh.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:16",
+      "delta": "F3",
+      "rationale": "Retains bodily deterioration and inward renewal without denial.",
+      "source_reference": "2Cor 4:16",
+      "source_verse_sha256": "d2258382bf9414e2f1adfefef72dd078c72d5cff6a83d09d67ac58d1b99abb66",
+      "before": "So we do not lose heart. Even though our outer person is wasting away, our inner person is being renewed day by day.",
+      "after": "Therefore we do not lose heart. Even though our outer person is wasting away, our inner person is being renewed day by day.",
+      "tsw_comparator": "Therefore we do not lose heart. Even though our outer person is wasting away, our inner person is being renewed day by day.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 4:17",
+      "delta": "F3",
+      "rationale": "Keeps Paul's provocative light/weight and temporal contrast.",
+      "source_reference": "2Cor 4:17",
+      "source_verse_sha256": "a238b47dcd6998021ac29119b7319a447f9e91bde025e3ba946ba0def1dbd6f7",
+      "before": "For this light affliction is preparing for us an eternal weight of glory beyond all measure,",
+      "after": "For our momentary light affliction is producing for us an eternal weight of glory beyond all measure,",
+      "tsw_comparator": "For this light affliction is preparing for us an eternal weight of glory beyond all measure,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_04.md",
-    "blob_sha": "29d170d1bf4391d65f628a5328f77bdc1f274c0b"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

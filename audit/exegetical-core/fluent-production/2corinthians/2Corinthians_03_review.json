@@ -1,312 +1,174 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_03_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "3:1-18",
-      "decision": "Preserve covenant contrast without translating Paul as rejecting Israel or the Hebrew Scriptures.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 3:1",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 1,
-            "source_ref": "2 Corinthians 3:1",
-            "segment_mode": "whole",
-            "sha256": "d15a30e5d95d8d22df1a83c001dc25543bf317ce6cdb242f732ededa3d703d0e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d15a30e5d95d8d22df1a83c001dc25543bf317ce6cdb242f732ededa3d703d0e"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 3:2",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 2,
-            "source_ref": "2 Corinthians 3:2",
-            "segment_mode": "whole",
-            "sha256": "759e7f476014b0fe6d03a5356a94d497c8b5ffed437519ba7f918a0bac854c20"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "759e7f476014b0fe6d03a5356a94d497c8b5ffed437519ba7f918a0bac854c20"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 3:3",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 3,
-            "source_ref": "2 Corinthians 3:3",
-            "segment_mode": "whole",
-            "sha256": "cb12b20a86ccfbdec3e417d23c598c358bfabcb410c1dd68e9ff686db589e9a6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cb12b20a86ccfbdec3e417d23c598c358bfabcb410c1dd68e9ff686db589e9a6"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 3:4",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 4,
-            "source_ref": "2 Corinthians 3:4",
-            "segment_mode": "whole",
-            "sha256": "2387999c8ae09a278d6bac613214b8fefdd92cbd98abb93219366814831258a5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2387999c8ae09a278d6bac613214b8fefdd92cbd98abb93219366814831258a5"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 3:5",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 5,
-            "source_ref": "2 Corinthians 3:5",
-            "segment_mode": "whole",
-            "sha256": "068bfb0ca47f1233419a9fb068341398b7d2cda61d8b42909cbe0d6bd01633b8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "068bfb0ca47f1233419a9fb068341398b7d2cda61d8b42909cbe0d6bd01633b8"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 3:6",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 6,
-            "source_ref": "2 Corinthians 3:6",
-            "segment_mode": "whole",
-            "sha256": "8b83546a64103bd8a42185696668c8bc716c44ae600786afa1dfe16645c6c09f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8b83546a64103bd8a42185696668c8bc716c44ae600786afa1dfe16645c6c09f"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 3:7",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 7,
-            "source_ref": "2 Corinthians 3:7",
-            "segment_mode": "whole",
-            "sha256": "d78721fbf322280df4d7245bff383d7d37deb3c52c8a6fc9f097c9277f28722c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d78721fbf322280df4d7245bff383d7d37deb3c52c8a6fc9f097c9277f28722c"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 3:8",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 8,
-            "source_ref": "2 Corinthians 3:8",
-            "segment_mode": "whole",
-            "sha256": "c524265e5b28a582433990d2c975667823367472d7004fe0d650f17c22a00a05"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c524265e5b28a582433990d2c975667823367472d7004fe0d650f17c22a00a05"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 3:9",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 9,
-            "source_ref": "2 Corinthians 3:9",
-            "segment_mode": "whole",
-            "sha256": "75fb5cc7909fb284cfae5bb673db4a62ede6fb77968bd35eb2d5936b640d2241"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "75fb5cc7909fb284cfae5bb673db4a62ede6fb77968bd35eb2d5936b640d2241"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 3:10",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 10,
-            "source_ref": "2 Corinthians 3:10",
-            "segment_mode": "whole",
-            "sha256": "3bcc99bb614de9ef564b49d80e5bee60dfb9995f24dc9c413a884875c1a0e2e4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3bcc99bb614de9ef564b49d80e5bee60dfb9995f24dc9c413a884875c1a0e2e4"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 3:11",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 11,
-            "source_ref": "2 Corinthians 3:11",
-            "segment_mode": "whole",
-            "sha256": "d85144880592e00260388a5d0625b88b88e66ffaa57126b0ef287fde1645ee20"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d85144880592e00260388a5d0625b88b88e66ffaa57126b0ef287fde1645ee20"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 3:12",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 12,
-            "source_ref": "2 Corinthians 3:12",
-            "segment_mode": "whole",
-            "sha256": "c6666c2990f5a3ce1ab2c1773a0dbb2ee1fdcb7ea39243c878e72d886ce0e67a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c6666c2990f5a3ce1ab2c1773a0dbb2ee1fdcb7ea39243c878e72d886ce0e67a"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 3:13",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 13,
-            "source_ref": "2 Corinthians 3:13",
-            "segment_mode": "whole",
-            "sha256": "8d1931e4a981ffcec8d3354e492f1ea059340a6c0250ecb4dfc57fda3e999c4b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8d1931e4a981ffcec8d3354e492f1ea059340a6c0250ecb4dfc57fda3e999c4b"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 3:14",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 14,
-            "source_ref": "2 Corinthians 3:14",
-            "segment_mode": "whole",
-            "sha256": "244cd59450799e0c1887bdc6e94b9b25024559994b4e9e8651310320cd44114d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "244cd59450799e0c1887bdc6e94b9b25024559994b4e9e8651310320cd44114d"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 3:15",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 15,
-            "source_ref": "2 Corinthians 3:15",
-            "segment_mode": "whole",
-            "sha256": "d62033ff10468d1d2a56e506c6e1ec1694c7e7e1e1d1842fa6f9b9daa35748b7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d62033ff10468d1d2a56e506c6e1ec1694c7e7e1e1d1842fa6f9b9daa35748b7"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 3:16",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 16,
-            "source_ref": "2 Corinthians 3:16",
-            "segment_mode": "whole",
-            "sha256": "453848bec272afb02d00bbaf386cd0788804f94ef0086c1687a7100edb74f1d6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "453848bec272afb02d00bbaf386cd0788804f94ef0086c1687a7100edb74f1d6"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 3:17",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 17,
-            "source_ref": "2 Corinthians 3:17",
-            "segment_mode": "whole",
-            "sha256": "9a9e2bbdaa000065c973ef239dd12b7fd7d074ef83a8120b4d58e5fad60d2d4b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9a9e2bbdaa000065c973ef239dd12b7fd7d074ef83a8120b4d58e5fad60d2d4b"
-      },
-      "18": {
-        "source_ref": "2 Corinthians 3:18",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 18,
-            "source_ref": "2 Corinthians 3:18",
-            "segment_mode": "whole",
-            "sha256": "ec9c117a3d37f82bcdd58dca8f241756364cea4fb1e33909b2e451b8797966f0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ec9c117a3d37f82bcdd58dca8f241756364cea4fb1e33909b2e451b8797966f0"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_03.md",
+    "before_sha256": "53836632c6121200aad09bf59300ac238c03b276149f339a4065c6719ef22a8c",
+    "after_sha256": "4c663110a84ddbe459b11e4369e4921d167f0408579b3e3d0d4f190d0b8b4c69",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_03.md",
+    "tsw_comparator_sha256": "d5789d8f304b521eb8d1808db4eec91272cdcff361be221f0d99966600ebad01"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 3:3",
+      "delta": "F3",
+      "rationale": "Keeps authorship, service, Spirit, and tablet contrasts.",
+      "source_reference": "2Cor 3:3",
+      "source_verse_sha256": "a33fe549263da44358da4e652d0a45808a829dfb70f72c8ae7c47aa7698d6549",
+      "before": "revealed as a letter of Christ, delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.",
+      "after": "You show that you are Christ's letter, delivered through our ministry, written not with ink but with the Spirit of the living God, not on stone tablets but on tablets of human hearts.",
+      "tsw_comparator": "revealed as a letter of Christ, delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.707692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:5",
+      "delta": "F3",
+      "rationale": "Preserves the repeated sufficiency language and contrast.",
+      "source_reference": "2Cor 3:5",
+      "source_verse_sha256": "c075a68ef97b419d05075a9f0bf9955183905f0bf62479aff58118c41d61bc83",
+      "before": "Not that we are sufficient in ourselves to claim anything as from ourselves, but our sufficiency is from God,",
+      "after": "Not that we are sufficient in ourselves to consider anything as coming from ourselves; our sufficiency comes from God.",
+      "tsw_comparator": "Not that we are sufficient in ourselves to claim anything as from ourselves, but our sufficiency is from God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:6",
+      "delta": "F3",
+      "rationale": "Keeps covenantal service and the severe letter/Spirit contrast.",
+      "source_reference": "2Cor 3:6",
+      "source_verse_sha256": "266c81c2cf1d5d8b1d13d7e7a4c487ebb796126c375f2a97a0bac258084a8966",
+      "before": "who has made us sufficient as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.",
+      "after": "He also made us sufficient as ministers of a new covenant—not of letter but of Spirit, for the letter kills, but the Spirit gives life.",
+      "tsw_comparator": "who has made us sufficient as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:7",
+      "delta": "F3",
+      "rationale": "Retains death, stone, glory, Israel, and the fading qualification.",
+      "source_reference": "2Cor 3:7",
+      "source_verse_sha256": "082bb4181c0b9888bb021086a0a19d5a3a054bf1b93d55e322d1f7534004126a",
+      "before": "Now if the ministry of death, carved in letters on stone, came with glory, so that the people of Israel could not gaze at Moses’ face because of the glory of his face, a glory that was being set aside,",
+      "after": "Now if the ministry of death, engraved in letters on stones, came with glory, so that the Israelites could not look steadily at Moses' face because of its glory—a glory being brought to an end—",
+      "tsw_comparator": "Now if the ministry of death, carved in letters on stone, came with glory, so that the people of Israel could not gaze at Moses’ face because of the glory of his face, a glory that was being set aside,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684211,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:9",
+      "delta": "F3",
+      "rationale": "Keeps the two ministries and abundance.",
+      "source_reference": "2Cor 3:9",
+      "source_verse_sha256": "3abde391b94192896008f8c6e63096060ef2df13310257b577f6d411bd6be0fd",
+      "before": "For if there was glory in the ministry of condemnation, the ministry of righteousness must abound in glory even more.",
+      "after": "For if there was glory in the ministry of condemnation, much more does the ministry of righteousness overflow with glory.",
+      "tsw_comparator": "For if there was glory in the ministry of condemnation, the ministry of righteousness must abound in glory even more.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:13",
+      "delta": "F3",
+      "rationale": "Keeps Moses, veil, gaze, and end without harmonizing the image.",
+      "source_reference": "2Cor 3:13",
+      "source_verse_sha256": "fdd9e200c538fe474bfe2de4ecb0141a589e65f35785ee793b28ba714b8fc087",
+      "before": "not like Moses, who would put a veil over his face so that the people of Israel might not gaze at the end of what was being set aside.",
+      "after": "not like Moses, who put a veil over his face so the Israelites would not gaze at the end of what was being brought to an end.",
+      "tsw_comparator": "not like Moses, who would put a veil over his face so that the people of Israel might not gaze at the end of what was being set aside.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:14",
+      "delta": "F3",
+      "rationale": "Retains hardening, continuing veil, and Christological removal.",
+      "source_reference": "2Cor 3:14",
+      "source_verse_sha256": "a8adb412752f836deffe5653426902f9627ed89b97d58958267d89902d1801e5",
+      "before": "But their minds were hardened. For to this day, when the old covenant is read, the same veil remains, not being lifted, because it is set aside in Christ.",
+      "after": "But their minds were hardened. For to this very day the same veil remains at the reading of the old covenant; it is not lifted, because only in Christ is it taken away.",
+      "tsw_comparator": "But their minds were hardened. For to this day, when the old covenant is read, the same veil remains, not being lifted, because it is set aside in Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.548387,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:17",
+      "delta": "F3",
+      "rationale": "Keeps the dense identification and freedom statement.",
+      "source_reference": "2Cor 3:17",
+      "source_verse_sha256": "88c59d9dd23aa28f77456341539cfa4d065a582f18084dd758df715612209039",
+      "before": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.",
+      "after": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.",
+      "tsw_comparator": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 3:18",
+      "delta": "F3",
+      "rationale": "Retains mirror ambiguity, progressive transformation, image, and source.",
+      "source_reference": "2Cor 3:18",
+      "source_verse_sha256": "c62790095aa168bddbf99f9535d0d34eb4052073e5d435a132e6e8b37073ce3b",
+      "before": "And all of us, with unveiled face, seeing the glory of the Lord as in a mirror, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit.",
+      "after": "And all of us, with unveiled faces, beholding as in a mirror the Lord's glory, are being transformed into the same image from glory to glory, as from the Lord, the Spirit.",
+      "tsw_comparator": "And all of us, with unveiled face, seeing the glory of the Lord as in a mirror, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.80597,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_03.md",
-    "blob_sha": "b55d67cff91bef0e7f41df83af1d9f532397ba1f"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

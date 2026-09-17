@@ -1,252 +1,161 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_13_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "13:12-14",
-      "decision": "Map SBLGNT 13:12-13 to public-English 13:12-14 explicitly.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 13:1",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 1,
-            "source_ref": "2 Corinthians 13:1",
-            "segment_mode": "whole",
-            "sha256": "04f40663b1608b60df6233a577607dfa14d0ac15b000fbe5877e6fac571f855b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "04f40663b1608b60df6233a577607dfa14d0ac15b000fbe5877e6fac571f855b"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 13:2",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 2,
-            "source_ref": "2 Corinthians 13:2",
-            "segment_mode": "whole",
-            "sha256": "a4daa3a3c2194d38e7eb340144d8980148f1e22a2d9e7134056157407909a29c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a4daa3a3c2194d38e7eb340144d8980148f1e22a2d9e7134056157407909a29c"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 13:3",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 3,
-            "source_ref": "2 Corinthians 13:3",
-            "segment_mode": "whole",
-            "sha256": "ef68756d0cc029834871de23bd0155c912844c90af530311500529368c08c4bb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ef68756d0cc029834871de23bd0155c912844c90af530311500529368c08c4bb"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 13:4",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 4,
-            "source_ref": "2 Corinthians 13:4",
-            "segment_mode": "whole",
-            "sha256": "6d33219ca89d8f2114bbbad1a917784419410da644f864fe953db71a5dca59c5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d33219ca89d8f2114bbbad1a917784419410da644f864fe953db71a5dca59c5"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 13:5",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 5,
-            "source_ref": "2 Corinthians 13:5",
-            "segment_mode": "whole",
-            "sha256": "d416850c5365ac750517683e4a7b0c4a304b6bc784f1befb9277fd59f735951e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d416850c5365ac750517683e4a7b0c4a304b6bc784f1befb9277fd59f735951e"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 13:6",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 6,
-            "source_ref": "2 Corinthians 13:6",
-            "segment_mode": "whole",
-            "sha256": "88b3ce7a2a4948992aea7da1abaf97da99e6f687af52a1fb67ba77bceff6570b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "88b3ce7a2a4948992aea7da1abaf97da99e6f687af52a1fb67ba77bceff6570b"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 13:7",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 7,
-            "source_ref": "2 Corinthians 13:7",
-            "segment_mode": "whole",
-            "sha256": "811d3c97797164234c4934db445327f97c081393ee4121f0b0e45780afb55d46"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "811d3c97797164234c4934db445327f97c081393ee4121f0b0e45780afb55d46"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 13:8",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 8,
-            "source_ref": "2 Corinthians 13:8",
-            "segment_mode": "whole",
-            "sha256": "43efd966e135eac026832dd9d10a44215eea6fb8f09f852a3de1c4c7ddc8c82e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "43efd966e135eac026832dd9d10a44215eea6fb8f09f852a3de1c4c7ddc8c82e"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 13:9",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 9,
-            "source_ref": "2 Corinthians 13:9",
-            "segment_mode": "whole",
-            "sha256": "506bba770c825bddcdda799d0ab260edbf553a39c49df03c6f2bd482c1284d03"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "506bba770c825bddcdda799d0ab260edbf553a39c49df03c6f2bd482c1284d03"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 13:10",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 10,
-            "source_ref": "2 Corinthians 13:10",
-            "segment_mode": "whole",
-            "sha256": "f64ff4a3536ddd17331f34ad3ca1269297aaed0d84c054603dd117354a0a82a7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f64ff4a3536ddd17331f34ad3ca1269297aaed0d84c054603dd117354a0a82a7"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 13:11",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 11,
-            "source_ref": "2 Corinthians 13:11",
-            "segment_mode": "whole",
-            "sha256": "8223716d3566fafe6441e9aeef0de0e82a08a44651888cc2dbe2ca105d4a131c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8223716d3566fafe6441e9aeef0de0e82a08a44651888cc2dbe2ca105d4a131c"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 13:12a",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 12,
-            "source_ref": "2 Corinthians 13:12a",
-            "segment_mode": "before",
-            "sha256": "5c778e3bc0c28be4b43e7e22eb18b9f582319c76e1b78f21325cbcf3780c60c2"
-          }
-        ],
-        "segment_mode": "before",
-        "sha256": "5c778e3bc0c28be4b43e7e22eb18b9f582319c76e1b78f21325cbcf3780c60c2"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 13:12b",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 12,
-            "source_ref": "2 Corinthians 13:12b",
-            "segment_mode": "from",
-            "sha256": "ea2d83f58817519cf945ff7bfd326b1414bd9054f17618edc00e3f95358847e2"
-          }
-        ],
-        "segment_mode": "from",
-        "sha256": "ea2d83f58817519cf945ff7bfd326b1414bd9054f17618edc00e3f95358847e2"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 13:13",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 13,
-            "source_ref": "2 Corinthians 13:13",
-            "segment_mode": "whole",
-            "sha256": "aa208c8c0b70ce8b4ef6908094629288c85fa1f8b4f51c55325c754ad427a847"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aa208c8c0b70ce8b4ef6908094629288c85fa1f8b4f51c55325c754ad427a847"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 14,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_13.md",
+    "before_sha256": "8014f053b65aec79b49c7b561914187fb1a7dbe7032bd289743d2306271356ef",
+    "after_sha256": "6be8eb53963dd0fd83181e5a1ba42412e69c506a602003d465c74a480f7af6e4",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_13.md",
+    "tsw_comparator_sha256": "81ebe5a79d2e7e40638d1f9e3b4c190ccf246e12ff91c353cecd8b293e6405dc"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 13:1",
+      "delta": "F3",
+      "rationale": "Preserves exact visit count and legal quotation.",
+      "source_reference": "2Cor 13:1",
+      "source_verse_sha256": "140946cdb300a81be9aec4cf81cb3aeca8095428245d28a42a8b5cd99cd5f993",
+      "before": "This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”",
+      "after": "This will be my third visit to you. “Every matter must be established by the testimony of two or three witnesses.”",
+      "tsw_comparator": "This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:2",
+      "delta": "F3",
+      "rationale": "Keeps audiences, past warning, and severe future resolve.",
+      "source_reference": "2Cor 13:2",
+      "source_verse_sha256": "8d50c5122d8a8fd7cbfdd56e3e1ecaf5fd322b50b5c39ecacfdd3b5ec8bcac62",
+      "before": "I warned people who sinned before and all the others, and I warn them now while absent, as I did when present on my second visit: if I come again, I will not spare them—",
+      "after": "I warned those who sinned earlier and everyone else, and now I warn them in advance while absent, just as I did when present the second time: if I come again, I will not spare them,",
+      "tsw_comparator": "I warned those who sinned before and all the others, and I warn them now while absent, as I did when present on my second visit: if I come again, I will not spare them—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:4",
+      "delta": "F3",
+      "rationale": "Keeps crucifixion, life, and applied parallel.",
+      "source_reference": "2Cor 13:4",
+      "source_verse_sha256": "f96fb478a48c0dab1843c1f8829a6f8ef1563d8ac2088e268f4995fba34c901d",
+      "before": "For he was crucified in weakness, but lives by the power of God. For we also are weak in him, but we will live with him by the power of God toward you.",
+      "after": "For he was crucified in weakness, yet he lives by God's power. For we too are weak in him, yet we will live with him by God's power in our dealings with you.",
+      "tsw_comparator": "For he was crucified in weakness, but lives by the power of God. For we also are weak in him, but we will live with him by the power of God toward you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.69697,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:5",
+      "delta": "F3",
+      "rationale": "Preserves reflexive commands and communal Christ relation.",
+      "source_reference": "2Cor 13:5",
+      "source_verse_sha256": "8cfa6b8a226c6c2eb642235d9fa3f0ac81c9dbf06cc7729890c75925edffa8d9",
+      "before": "Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not recognize this about yourselves—that Jesus Christ is in you—unless indeed you fail the test?",
+      "after": "Examine yourselves to see whether you are in the faith; test yourselves. Or do you not recognize about yourselves that Jesus Christ is among you—unless, indeed, you fail the test?",
+      "tsw_comparator": "Examine yourselves, to see whether you are in the faith. Test yourselves. Or do you not recognize this about yourselves—that Jesus Christ is in you—unless indeed you fail the test?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:7",
+      "delta": "F3",
+      "rationale": "Preserves ethical aim over apostolic reputation.",
+      "source_reference": "2Cor 13:7",
+      "source_verse_sha256": "c721f8016b4a6831509c138e856b207e0fe1124342dcf793cfcece8f5d617c0e",
+      "before": "Now we pray to God that you may not do wrong—not that we may appear approved, but that you may do what is right, even if we seem to have failed.",
+      "after": "Now we pray to God that you do nothing wrong—not so that we may appear to have passed the test, but so that you may do what is right, even if we appear to have failed.",
+      "tsw_comparator": "Now we pray to God that you may not do wrong—not that we may appear approved, but that you may do what is right, even if we seem to have failed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:9",
+      "delta": "F3",
+      "rationale": "Preserves weakness/strength and concise goal.",
+      "source_reference": "2Cor 13:9",
+      "source_verse_sha256": "b4d2d7b33aab2c1aef8bb6bda9d8ffa1716710cf243ceb519c0740201507ce7a",
+      "before": "For we rejoice when we are weak and you are strong. Your restoration is what we pray for.",
+      "after": "For we rejoice whenever we are weak but you are strong. We also pray for this: your restoration.",
+      "tsw_comparator": "For we rejoice when we are weak and you are strong. Your restoration is what we pray for.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:10",
+      "delta": "F3",
+      "rationale": "Keeps absence/presence, severity, authority, and its limit.",
+      "source_reference": "2Cor 13:10",
+      "source_verse_sha256": "62696e076b36c89cfda68de4403fafebab5342155ad20fbcabc4259757fcc69e",
+      "before": "For this reason I write these things while absent, so that when present I may not have to act severely, according to the authority that the Lord gave me for building up and not for tearing down.",
+      "after": "This is why I write these things while absent, so that when present I will not have to act harshly according to the authority the Lord gave me for building up and not tearing down.",
+      "tsw_comparator": "For this reason I write these things while absent, so that when present I may not have to act severely, according to the authority that the Lord gave me for building up and not for tearing down.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.861111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 13:11",
+      "delta": "F3",
+      "rationale": "Preserves the sequence of communal imperatives and promise.",
+      "source_reference": "2Cor 13:11",
+      "source_verse_sha256": "9de0d986268c15d4088970dd449ad2e2465c2ff87a39146abd5808f58b91c06c",
+      "before": "Finally, brothers and sisters, rejoice. Be restored; be encouraged; be of one mind; live in peace; and the God of love and peace will be with you.",
+      "after": "Finally, brothers and sisters, rejoice. Be restored, be encouraged, think in harmony, live in peace, and the God of love and peace will be with you.",
+      "tsw_comparator": "Finally, brothers and sisters, rejoice. Be restored; be encouraged; be of one mind; live in peace; and the God of love and peace will be with you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_13.md",
-    "blob_sha": "6a77753a5f66b35602f62e188270e6ea573d6477"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,167 +2,283 @@
   "book": "Galatians",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 21,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_02_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "3b52f6164bee8987a4b61548bd6c46a4aac40cd63038edba9425be48a7b258d2"
-      },
-      "2": {
-        "source_ref": "Galatians 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "de2ba050e53ed7da01ba7a0e941b9c07cfda54adc0df88dd6338f27d650aef88"
-      },
-      "3": {
-        "source_ref": "Galatians 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "0b2b902026fbb154c69ec67c8d94bb9ceddc5e79fe93be61b72c1584d2411fd6"
-      },
-      "4": {
-        "source_ref": "Galatians 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "13d655beaa663bc1b59c264f7238d3694ce91952c491380aebebf717bf0125ff"
-      },
-      "5": {
-        "source_ref": "Galatians 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "fa4fce5e7349ac18c8482b11af717a582fec4a3a2c688f11f4f04528f37e7f55"
-      },
-      "6": {
-        "source_ref": "Galatians 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "a582c9826100e598c2b51d6e4a2ef1dc75b773e54c3d93a7c0a924be9fb1e6bd"
-      },
-      "7": {
-        "source_ref": "Galatians 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "9f816b7212b1e6a66cc6bf13b7e51b1b331f07cfb9faeb472559addc3122f501"
-      },
-      "8": {
-        "source_ref": "Galatians 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "a417296feb93752737876e39d4371dd60515094051b5bf3caffb178c7ce23132"
-      },
-      "9": {
-        "source_ref": "Galatians 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8f71a1e3588ff389f095ff6d31f0fc316c49274fc5a17e53e9a4260b76de36b1"
-      },
-      "10": {
-        "source_ref": "Galatians 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "0268c14f8b29223305ad46c4e6dbaf01b921dca68c74dde92d3a3dea3187647a"
-      },
-      "11": {
-        "source_ref": "Galatians 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "c97501382f6ffd7ef0e2c0b5b4f54c7b19426934e416dd290a801bf764c0066f"
-      },
-      "12": {
-        "source_ref": "Galatians 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "139c929fb56c69e1ad77a507610653824863eaee85c06c0b65f257fa602afc32"
-      },
-      "13": {
-        "source_ref": "Galatians 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "2d27d3256c1cfc175d2577b17ec776c6aa6ee80b1737a972380c6427da19f4a4"
-      },
-      "14": {
-        "source_ref": "Galatians 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "4dd060fc57e928e0adf5ba6d6d1d2255864d30b56dc67e6f17b9da0671379a25"
-      },
-      "15": {
-        "source_ref": "Galatians 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "84bb099dabb7763d7b3f2707311b539d7be4611b4734901438c7245f72d3f80f"
-      },
-      "16": {
-        "source_ref": "Galatians 2:16",
-        "source_chapter": 2,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "3a06f1017fcf164e825364c58375a9704a73f7150ef233cb57060d37aaf8e5e5"
-      },
-      "17": {
-        "source_ref": "Galatians 2:17",
-        "source_chapter": 2,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "8c9ae19fdfc69ba2f71f56be570c64dadc37b19fecf52ff92215f476d198cc64"
-      },
-      "18": {
-        "source_ref": "Galatians 2:18",
-        "source_chapter": 2,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "34ec9a4b3b091544561de14eaa916ed357e5b78fd2c8158b0d4cd920e17e43fa"
-      },
-      "19": {
-        "source_ref": "Galatians 2:19",
-        "source_chapter": 2,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "18af3ebab3ef520382957ec191e7a2620ea71123cf1c8a22557ad0fff59d0898"
-      },
-      "20": {
-        "source_ref": "Galatians 2:20",
-        "source_chapter": 2,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "08daef60fa6642697bb3da07aa02b53c3831151022bed9829e5bc6de70584baa"
-      },
-      "21": {
-        "source_ref": "Galatians 2:21",
-        "source_chapter": 2,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "a0dd54068e425635166a252710cc6be900095bddc21894f35e8d1fadd61ac695"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/galatians/Galatians_02.md",
+    "before_sha256": "4cb636911cef27b781898804b2fe63943d1845e8c78dd61b45a008bf4d793a7f",
+    "after_sha256": "b77476b1b94b65c8d758113802772aa818b0b2416573abfeb3a5a49bcd02c115",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_02.md",
+    "tsw_comparator_sha256": "ee4567457a279297a5aee3387756f4024f7da02d331eb065efb927feaaba4de7"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 2:2",
+      "delta": "F3",
+      "rationale": "Keeps revelation, public mission, private consultation, and race image.",
+      "source_reference": "Gal 2:2",
+      "source_verse_sha256": "39056c0ee6f926213b1dc9b0e4168234e812c9839efd42310c54675af7e945f8",
+      "before": "I went up because of a revelation and set before them the good news I proclaim among the Gentiles—but privately before those considered leaders—to make sure I was not running, or had not run, in vain.",
+      "after": "I went up because of a revelation and set before them the gospel I proclaim among the Gentiles—but privately before those considered influential—so that I would not be running, or have run, in vain.",
+      "tsw_comparator": "I went up according to a revelation and set before them the good news that I proclaim among the Gentiles—but privately before those who seemed influential—lest somehow I might be running or had run in vain.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72973,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:3",
+      "delta": "F3",
+      "rationale": "Preserves ethnicity and absence of compulsion.",
+      "source_reference": "Gal 2:3",
+      "source_verse_sha256": "3aba872c1753fe4c90d19ae3fcf9e0785644c64e832a2d64692e26e1a76a3aac",
+      "before": "Yet even Titus, who was with me and was Greek, was not compelled to be circumcised.",
+      "after": "Yet even Titus, who was with me and was Greek, was not compelled to be circumcised.",
+      "tsw_comparator": "But not even Titus, who was with me, though he was a Greek, was compelled to be circumcised.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:4",
+      "delta": "F3",
+      "rationale": "Keeps infiltration, surveillance, freedom, and enslavement.",
+      "source_reference": "Gal 2:4",
+      "source_verse_sha256": "4025d541381c71b5264861ab182c80dc16e6257c88d7216a6ff453c9b922ad69",
+      "before": "The issue arose because of false brothers who had slipped in to spy on the freedom we have in Christ Jesus, so that they might enslave us.",
+      "after": "The issue arose because of false brothers who slipped in to spy on the freedom we have in Christ Jesus, so that they might enslave us.",
+      "tsw_comparator": "Yet because of false brothers secretly brought in—who slipped in to spy out our freedom that we have in Christ Jesus, so that they might enslave us—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:5",
+      "delta": "F3",
+      "rationale": "Preserves resistance, duration, and protective purpose.",
+      "source_reference": "Gal 2:5",
+      "source_verse_sha256": "cd0286d678c3b764027d6b53d2127f5bed5bf044aa9cabd3364f3c8459de7787",
+      "before": "We did not yield to them in submission even for an hour, so that the truth of the good news might remain with you.",
+      "after": "We did not yield to them in submission even for an hour, so that the truth of the gospel might remain with you.",
+      "tsw_comparator": "to them we did not yield in submission even for a moment, so that the truth of the good news might remain with you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:6",
+      "delta": "F3",
+      "rationale": "Keeps Paul's dismissive parenthesis and nonpartiality.",
+      "source_reference": "Gal 2:6",
+      "source_verse_sha256": "2922e1d2be42d2ded5fca7a1ba134734856afb89292b7ffdf026e792b2387acb",
+      "before": "As for those who were considered important—whatever they once were makes no difference to me; God does not show partiality—they added nothing to my message.",
+      "after": "But from those considered influential—whatever they once were makes no difference to me; God shows no partiality—those influential people added nothing to me.",
+      "tsw_comparator": "And from those who seemed to be something—what they were makes no difference to me; God shows no partiality—those, I say, who seemed influential added nothing to me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.690909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:7",
+      "delta": "F3",
+      "rationale": "Preserves the two mission fields and entrusted gospel.",
+      "source_reference": "Gal 2:7",
+      "source_verse_sha256": "59ee4b8f19ecfbfb589a98c0adee2b35a577e11bceff105ed477e137233bca75",
+      "before": "On the contrary, when they saw that I had been entrusted with the good news for the uncircumcised, just as Peter had been for the circumcised—",
+      "after": "On the contrary, when they saw that I had been entrusted with the gospel for the uncircumcised, just as Peter had for the circumcised—",
+      "tsw_comparator": "On the contrary, when they saw that I had been entrusted with the good news to the uncircumcised, just as Peter to the circumcised",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:9",
+      "delta": "F3",
+      "rationale": "Preserves names, perceived status, recognition, agreement, and destinations.",
+      "source_reference": "Gal 2:9",
+      "source_verse_sha256": "aff4767401d18608f3defdc04ed00bd6d776010dcad2f41a87cfafc79020601f",
+      "before": "and when James, Cephas, and John, who were considered pillars, recognized the grace given to me, they gave Barnabas and me the right hand of fellowship, agreeing that we should go to the Gentiles and they to the circumcised.",
+      "after": "and when James, Cephas, and John, who were considered pillars, recognized the grace given to me, they gave Barnabas and me the right hand of fellowship: we would go to the Gentiles, and they to the circumcised.",
+      "tsw_comparator": "and when James and Cephas and John, who were regarded as pillars, perceived the grace that had been given to me, they gave to Barnabas and me the right hand of fellowship, that we should go to the Gentiles and they to the circumcised—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.839506,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:10",
+      "delta": "F3",
+      "rationale": "Keeps the sole request and Paul's eagerness.",
+      "source_reference": "Gal 2:10",
+      "source_verse_sha256": "884607db490fe2cf40f2768e5a4eea7209522111657ffbe9402a6e4aeeec89f2",
+      "before": "They asked only that we remember the poor—the very thing I was eager to do.",
+      "after": "They asked only that we remember the poor—the very thing I was also eager to do.",
+      "tsw_comparator": "only they asked us to remember the poor, which very thing I was eager to do.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:11",
+      "delta": "F3",
+      "rationale": "Preserves source name, place, public confrontation, and judgment.",
+      "source_reference": "Gal 2:11",
+      "source_verse_sha256": "5c82ddbb11887b03bb3779ad0ab39136bda75fe72e38abccb059f763249d44c1",
+      "before": "But when Cephas came to Antioch, I opposed him to his face because he stood condemned.",
+      "after": "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.",
+      "tsw_comparator": "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:12",
+      "delta": "F3",
+      "rationale": "Keeps chronology, table fellowship, withdrawal, and fear.",
+      "source_reference": "Gal 2:12",
+      "source_verse_sha256": "0b5129a90732018c905f7ed3470d65536ed4d5da06ddbf4fabfc5f42b9b2d6b7",
+      "before": "Before certain people came from James, he used to eat with the Gentiles. But when they came, he drew back and separated himself because he was afraid of those from the circumcision group.",
+      "after": "For before certain people came from James, he used to eat with Gentiles. But when they came, he drew back and separated himself because he feared those of the circumcision.",
+      "tsw_comparator": "For before certain men came from James, he was eating with the Gentiles; but when they came, he drew back and separated himself, fearing those of the circumcision.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.793103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:13",
+      "delta": "F3",
+      "rationale": "Preserves group identities and hypocrisy's influence.",
+      "source_reference": "Gal 2:13",
+      "source_verse_sha256": "7f0461ee5f951495159faead7b7b24be0ba1da83a61935e2762b7767414d4587",
+      "before": "The rest of the Jewish believers joined him in this hypocrisy, so that even Barnabas was led astray by their hypocrisy.",
+      "after": "And the rest of the Jews joined him in hypocrisy, so that even Barnabas was led astray by their hypocrisy.",
+      "tsw_comparator": "And the rest of the Jews joined him in hypocrisy, so that even Barnabas was carried away by their hypocrisy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:14",
+      "delta": "F3",
+      "rationale": "Keeps public rebuke, identities, conduct, and coercion question.",
+      "source_reference": "Gal 2:14",
+      "source_verse_sha256": "a2ea6b814cff5e19a418fac6a26b5a31d2ff820d31ecf35bc5b208fa2f3dd012",
+      "before": "But when I saw that they were not walking straight according to the truth of the good news, I said to Cephas in front of everyone, “If you, though Jewish, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”",
+      "after": "But when I saw that they were not walking straight according to the truth of the gospel, I said to Cephas in front of everyone, “If you, though a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”",
+      "tsw_comparator": "But when I saw that they were not walking straight according to the truth of the good news, I said to Cephas before them all, “If you, though a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.897959,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:15",
+      "delta": "F3",
+      "rationale": "Preserves Paul's insider formulation while quotation marks signal the contested label.",
+      "source_reference": "Gal 2:15",
+      "source_verse_sha256": "2e9e141e98771301caea3dc5cdcab42f4e9a45029f98780a0d2b811f1b6318b3",
+      "before": "We are Jews by birth and not sinners from among the Gentiles,",
+      "after": "We are Jews by birth and not “Gentile sinners,”",
+      "tsw_comparator": "We ourselves are Jews by birth and not Gentile sinners;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:16",
+      "delta": "F3",
+      "rationale": "Preserves all repetitions and renders the genitive as Christ's faithfulness while noting human believing.",
+      "source_reference": "Gal 2:16",
+      "source_verse_sha256": "511ada39c81f4003eead588ce8be848f87eb41ebfa6fb3e0bc99047a9b110005",
+      "before": "yet we know that a person is not set right by works of the Law but through the faithfulness of Jesus Christ. So we too have trusted in Christ Jesus so that we might be set right through the faithfulness of Christ and not by works of the Law, because by works of the Law no flesh will be set right.",
+      "after": "yet we know that a person is not justified by works of the law but through the faithfulness of Jesus Christ. So we too believed in Christ Jesus, so that we might be justified by Christ's faithfulness and not by works of the law, because by works of the law no flesh will be justified.",
+      "tsw_comparator": "yet we know that a person is not justified by works of the law but through faith in Jesus Christ. And we have believed in Christ Jesus, so that we might be justified by faith in Christ and not by works of the law, because by works of the law no flesh will be justified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.872727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:17",
+      "delta": "F3",
+      "rationale": "Keeps conditional objection and forceful denial.",
+      "source_reference": "Gal 2:17",
+      "source_verse_sha256": "9c40a6065449847a0c36bc274588802700eb96c41151ce9cfd447227fed72ac5",
+      "before": "But if, while seeking to be set right in Christ, we ourselves were found to be sinners, is Christ then a servant of sin? Certainly not!",
+      "after": "But if, while seeking to be justified in Christ, we ourselves were also found to be sinners, does that make Christ a servant of sin? Absolutely not!",
+      "tsw_comparator": "But if, in seeking to be justified in Christ, we ourselves were also found to be sinners, is Christ then a servant of sin? Certainly not!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830189,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:19",
+      "delta": "F3",
+      "rationale": "Keeps paradox, purpose, and co-crucifixion.",
+      "source_reference": "Gal 2:19",
+      "source_verse_sha256": "325832b907052b0c4a84a61b24af60f209373e641f3deb281905e19eba619b26",
+      "before": "Through the Law I died to the Law so that I might live to God. I have been crucified with Christ.",
+      "after": "For through the law I died to the law so that I might live to God. I have been crucified with Christ.",
+      "tsw_comparator": "For through the law I died to the law, so that I might live to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:20",
+      "delta": "F3",
+      "rationale": "Preserves embodied life and again renders the genitive as the Son's faithfulness.",
+      "source_reference": "Gal 2:20",
+      "source_verse_sha256": "d0ae0d75b1b1757f8d3b59a8ad380f386c9bf0b563642b3173eff582c0562cb2",
+      "before": "It is no longer I who live, but Christ lives in me. And the life I now live in the flesh, I live by the faithfulness of the Son of God, who loved me and gave himself for me.",
+      "after": "It is no longer I who live, but Christ lives in me. The life I now live in the flesh, I live by the faithfulness of the Son of God, who loved me and gave himself for me.",
+      "tsw_comparator": "I have been crucified with Christ; and it is no longer I who live, but Christ lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.843373,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 2:21",
+      "delta": "F3",
+      "rationale": "Keeps the stark consequence.",
+      "source_reference": "Gal 2:21",
+      "source_verse_sha256": "bef019f78ed3545c1074cb6d88b273a834eb70fd9507b072f89fa3a7ab4077e4",
+      "before": "I do not set aside God’s grace, because if righteousness comes through the Law, then Christ died for nothing.",
+      "after": "I do not set aside God's grace, for if righteousness comes through the law, then Christ died for nothing.",
+      "tsw_comparator": "I do not set aside the grace of God; for if righteousness comes through the law, then Christ died for nothing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_02.md",
-    "blob_sha": "8d493bcb161579bc1908d9f72fde46533796638c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

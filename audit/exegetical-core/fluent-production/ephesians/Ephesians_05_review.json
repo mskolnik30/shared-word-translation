@@ -2,251 +2,451 @@
   "book": "Ephesians",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 33,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-ephesians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/ephesians/Ephesians_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Eph.txt",
     "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Ephesians 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "4e7b458f336a62c54069eefd0445936eb0f8717581b823ca992eca1a0db2ad0d"
-      },
-      "2": {
-        "source_ref": "Ephesians 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "09c5a7ea0813cd03cfe82b0763c7fa55f3c5dd10b097897c2fd7a0583a9f601d"
-      },
-      "3": {
-        "source_ref": "Ephesians 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b6e68b7c9cbc5f260bd431fdef65e8d57a19c5c93a3ee332c35e10f5b2d40905"
-      },
-      "4": {
-        "source_ref": "Ephesians 5:4",
-        "source_chapter": 5,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "24832820aa567518b97f5cf5e9827438cb3c81168d9eb11eec59d408578efaa1"
-      },
-      "5": {
-        "source_ref": "Ephesians 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "a1df05e848d7e0b24567b405f058df0c938361bd816f574c867807be4573f34a"
-      },
-      "6": {
-        "source_ref": "Ephesians 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "70f1ea98eb0daeaba53ca44b72ed71e9601590757dfeba1d349cf33241d94df1"
-      },
-      "7": {
-        "source_ref": "Ephesians 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "17b099784e00c73d71009937d71723846dcbb414cb2e8d7abbf1e0efceae6d4a"
-      },
-      "8": {
-        "source_ref": "Ephesians 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "0a9a51ce2e608822a60876ac0062103663239070ddc614b2e8ebe9a66ba45ec4"
-      },
-      "9": {
-        "source_ref": "Ephesians 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "0bcf97fd8ceed9e2db7d350785feb724c2209e324f69b2aad7ad831d6da5709c"
-      },
-      "10": {
-        "source_ref": "Ephesians 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "6e3f161a05e8b59a41ca0fbf8a52e1aa4cbce2c962846cc7a040cdfc81110364"
-      },
-      "11": {
-        "source_ref": "Ephesians 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "70c639b9ac80e0f7726e43bb3f6ad3173e294b14e5714d65f8c2fea9155ebaec"
-      },
-      "12": {
-        "source_ref": "Ephesians 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "d66f6c8b16ae122fbfa5a57664c753db5291ce53b2fb18a76e94ae43eaf28b6d"
-      },
-      "13": {
-        "source_ref": "Ephesians 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "46d92b7bc0c040569f7b657e9e17cd5d7bbc6c4aadc58127a55ab5a7567cfc03"
-      },
-      "14": {
-        "source_ref": "Ephesians 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "45bb5aac3671c8fb0651d4b6803da46ccdb827d44f81b521d57b18a7998404b6"
-      },
-      "15": {
-        "source_ref": "Ephesians 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "32acecf9dab43f23bc2af7e78679164f4dbe0ffaec31003f02206f18319d031d"
-      },
-      "16": {
-        "source_ref": "Ephesians 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "a728bec21798e599b19dc80a16255b3bff7960df938b522b3df16377aaf03f08"
-      },
-      "17": {
-        "source_ref": "Ephesians 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "f18ba317d7a21d5c7957c28fd11095a5b821ac2336ed04f9ea826aa4050a9e5f"
-      },
-      "18": {
-        "source_ref": "Ephesians 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "4ce768a9d9ee31d6ae0e94495d707049fe09d2dd68e2afd080d11eee00c68da1"
-      },
-      "19": {
-        "source_ref": "Ephesians 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "1d8178c20133b79b8747d733f8a00b99118268c5871a2eab4e8714e969893758"
-      },
-      "20": {
-        "source_ref": "Ephesians 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "8ead0e03df721177b9028711a505a890a0bb4e2bcf4d01951fbec1c4768e8188"
-      },
-      "21": {
-        "source_ref": "Ephesians 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "f9beadd29bbe53fbe0ecfa5fc107aeb1d6430d6261739034d8d2b0ac5bc2871b"
-      },
-      "22": {
-        "source_ref": "Ephesians 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "101ba590c1e4a68494cda5f63a1e4eb96b510de2ca5e62b83002c09858480cce"
-      },
-      "23": {
-        "source_ref": "Ephesians 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "912782f73f9964bd833e5bdc92e75bf4b8025c05c47f0d4fe308b1d19bdb3b97"
-      },
-      "24": {
-        "source_ref": "Ephesians 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "0d6a64ccd2a15e91720722efe6d0f49a2c02aa2933a58f2d7042d0459610b79c"
-      },
-      "25": {
-        "source_ref": "Ephesians 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "9eaaa5a2daf737a900e4f7c453159101a8da7496957535d55ac1d485cf6225a3"
-      },
-      "26": {
-        "source_ref": "Ephesians 5:26",
-        "source_chapter": 5,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "8ed3c4b53fd1876f8d23785fc923e88fec5d98eb029733a310d30fe78ae508b6"
-      },
-      "27": {
-        "source_ref": "Ephesians 5:27",
-        "source_chapter": 5,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "cf5559ac737fb281cdf177a947c6c42891d06e58e8c7d41f03591579b8c3f518"
-      },
-      "28": {
-        "source_ref": "Ephesians 5:28",
-        "source_chapter": 5,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "993b25cf95c4ea9c10479aa4fa585545e31acb9dbae0fd11702741fc6ba0df1e"
-      },
-      "29": {
-        "source_ref": "Ephesians 5:29",
-        "source_chapter": 5,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "5bddc785955e3addbbedbb20c411fc76aa4ccdf1a1b0dc303117fa741dd567a4"
-      },
-      "30": {
-        "source_ref": "Ephesians 5:30",
-        "source_chapter": 5,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "cc5dbce6c09be974c62ec40bd23b44a884b42896688b24ed5922d8ee01a53a6a"
-      },
-      "31": {
-        "source_ref": "Ephesians 5:31",
-        "source_chapter": 5,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "f10fe57839765b07819278be93e142747721517b2c0df3ebbb0d57e212efb4c0"
-      },
-      "32": {
-        "source_ref": "Ephesians 5:32",
-        "source_chapter": 5,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "4cab36df4b60c950f59d64a516c390ed276977e54181c6ceb906143909ad300c"
-      },
-      "33": {
-        "source_ref": "Ephesians 5:33",
-        "source_chapter": 5,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "62adaa40a6f5a8e03ec6a9a67ea043866f8fb1394616d32dd1c66e16b7e8b6c0"
-      }
+    "sha256": "c15837d245dc849384a0be9f6c76de65590ffd496474f48c16822696ca024f6a",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Eph.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Eph",
+    "book_verse_count": 155,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 33,
+    "path": "translations/fluent/NT/ephesians/Ephesians_05.md",
+    "before_sha256": "85230364768e2157ab247f63f8b028b361574f1c75711cd20cb66a7995b68364",
+    "after_sha256": "411fbb5acc5cc79ecada0c6be8e1a68b0ba3f50b0d3eafa5742eb371ea8e41d5",
+    "tsw_comparator_path": "books/NT/ephesians/Ephesians_05.md",
+    "tsw_comparator_sha256": "87a31855be2dbf0fd3965bd7ef62dca294d856ed766470e25cef5fca30154e4c"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-ephesians-1-5/ephesians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Ephesians 5:1",
+      "delta": "F3",
+      "rationale": "Keeps divine imitation grounded in beloved kinship.",
+      "source_reference": "Eph 5:1",
+      "source_verse_sha256": "24ba2b596d57d6ac2d6ea3fadfa2d239a631b7c56e327c124fb110d671562e6d",
+      "before": "Therefore imitate God as beloved children,",
+      "after": "Therefore imitate God, as dearly loved children,",
+      "tsw_comparator": "Therefore be imitators of God, as beloved children,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:2",
+      "delta": "F3",
+      "rationale": "Preserves self-giving, cultic terms, and fragrance image.",
+      "source_reference": "Eph 5:2",
+      "source_verse_sha256": "68277f381a47dd2d7edd2ca2d96d904df90ac0c3b03cd7511bd5caebd5eba356",
+      "before": "and walk in love, just as Christ loved us and gave himself for us, an offering and sacrifice to God as a fragrant aroma.",
+      "after": "and walk in love, just as Christ loved us and gave himself for us as an offering and sacrifice to God, a fragrant aroma.",
+      "tsw_comparator": "and walk in love, just as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:3",
+      "delta": "F3",
+      "rationale": "Keeps broad categories and community standard.",
+      "source_reference": "Eph 5:3",
+      "source_verse_sha256": "b698e0591e3a3dfd3dd4a097231c2f3677dfe957f4f1ea64deac4880f325afc5",
+      "before": "But sexual immorality and every kind of impurity or greed must not even be named among you, as is fitting for holy people,",
+      "after": "But sexual immorality, every kind of impurity, or greed must not even be named among you, as is fitting for saints.",
+      "tsw_comparator": "But sexual immorality and all impurity or greed must not even be named among you, as is fitting for holy ones.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:4",
+      "delta": "F3",
+      "rationale": "Preserves speech contrasts and thanksgiving wordplay.",
+      "source_reference": "Eph 5:4",
+      "source_verse_sha256": "4831c3c44b0fc3e61e6fa4073ef02917387c252ae9052a35531335808624bf31",
+      "before": "nor obscenity, foolish talk, or crude joking, which are out of place, but rather thanksgiving.",
+      "after": "Nor should there be shameful behavior, foolish talk, or crude joking, which are improper, but rather thanksgiving.",
+      "tsw_comparator": "Obscenity, foolish talk, or crude joking—things that are out of place—must not be found among you; instead, there is thanksgiving.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.358974,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:5",
+      "delta": "F3",
+      "rationale": "Keeps vice identities, greed/idolatry relation, and inheritance.",
+      "source_reference": "Eph 5:5",
+      "source_verse_sha256": "07d6e937298326a24c3753dd73e051378316892a42ee168a4e6bc20905f952e1",
+      "before": "For know this clearly: no sexually immoral, impure, or greedy person—who is an idolater—has an inheritance in Christ’s and God’s kingdom.",
+      "after": "For know this with certainty: no sexually immoral, impure, or greedy person—who is an idolater—has an inheritance in the kingdom of Christ and of God.",
+      "tsw_comparator": "For you may be sure of this: everyone who is sexually immoral or impure, or who is greedy (that is, an idolater), has no inheritance in the reign of Christ and of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.633333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:6",
+      "delta": "F3",
+      "rationale": "Preserves warning, cause, wrath, and kinship idiom.",
+      "source_reference": "Eph 5:6",
+      "source_verse_sha256": "3e5decb2e32a7cee02e9b95e7785bd3c3aadbff745d307e2834ad7ef2d9107df",
+      "before": "Let no one deceive you with empty words, because because of these things God’s wrath comes on the children of disobedience.",
+      "after": "Let no one deceive you with empty words, for because of these things God's wrath comes upon the children of disobedience.",
+      "tsw_comparator": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the children of disobedience.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:8",
+      "delta": "F3",
+      "rationale": "Preserves identity contrast and movement command.",
+      "source_reference": "Eph 5:8",
+      "source_verse_sha256": "903d6c4722a4d34dc7c31e0774b16db9e803e5e5acf97e6330e75b4edb1291d2",
+      "before": "For you were once darkness, but now you are light in the Lord. Walk as children of light—",
+      "after": "For you were once darkness, but now you are light in the Lord. Walk as children of light—",
+      "tsw_comparator": "For once you were darkness, but now in the Lord you are light. Walk as children of light—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:9",
+      "delta": "F3",
+      "rationale": "Keeps light-fruit metaphor and three qualities.",
+      "source_reference": "Eph 5:9",
+      "source_verse_sha256": "3e0f54944ac06e22b2dd383ca0de6c81084a00c6092ddb2407a8cf3410e13eb3",
+      "before": "for the fruit of the light consists in every kind of goodness, righteousness, and truth—",
+      "after": "for the fruit of the light consists in all goodness, righteousness, and truth—",
+      "tsw_comparator": "for the fruit of the light is found in all that is good and right and true—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:10",
+      "delta": "F3",
+      "rationale": "Preserves active discernment linked to walking.",
+      "source_reference": "Eph 5:10",
+      "source_verse_sha256": "fd4c1e7a07b119bcae455289f79c8c032ea9fdfc7f56bc7449c4c273d79e2ef6",
+      "before": "testing what is pleasing to the Lord.",
+      "after": "testing what is pleasing to the Lord.",
+      "tsw_comparator": "and try to discern what is pleasing to the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:11",
+      "delta": "F3",
+      "rationale": "Keeps participation/exposure contrast.",
+      "source_reference": "Eph 5:11",
+      "source_verse_sha256": "1d6245b5a373ca17429ac54d35c1c19226da9374e9620b771c48e980acfe6adf",
+      "before": "Do not participate in the fruitless works of darkness; instead, expose them.",
+      "after": "Do not participate in the fruitless works of darkness, but instead expose them.",
+      "tsw_comparator": "Take no part in the unfruitful works of darkness, but instead expose them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:12",
+      "delta": "F3",
+      "rationale": "Preserves secrecy and speech restraint.",
+      "source_reference": "Eph 5:12",
+      "source_verse_sha256": "e3a5429e59776788f934515a862b781a4ed3c703869f991a4ca1f41d4d71e9d2",
+      "before": "For it is shameful even to speak about the things they do in secret.",
+      "after": "For it is shameful even to speak of the things they do in secret.",
+      "tsw_comparator": "For it is shameful even to mention what such people do in secret.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:13",
+      "delta": "F3",
+      "rationale": "Keeps exposure and manifestation.",
+      "source_reference": "Eph 5:13",
+      "source_verse_sha256": "f0fcf08402521e7002f9771063882c075b5ca49acb3c34a84cbde9d5e1e9dddf",
+      "before": "But everything exposed by the light becomes visible,",
+      "after": "But everything exposed by the light becomes visible,",
+      "tsw_comparator": "But everything exposed by the light becomes visible,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:14",
+      "delta": "F3",
+      "rationale": "Preserves difficult light claim and poetic summons.",
+      "source_reference": "Eph 5:14",
+      "source_verse_sha256": "d5c369ab98ded472b543a3289eda81605778739c2ab1f27473782b0cb9c0f53f",
+      "before": "for everything made visible is light. Therefore it says, “Wake up, sleeper, and rise from the dead, and Christ will shine on you.”",
+      "after": "for everything made visible is light. Therefore it says, “Wake up, sleeper, and rise from the dead, and Christ will shine on you.”",
+      "tsw_comparator": "for everything that becomes visible is light. Therefore it says, “Awake, sleeper, and rise from the dead, and Christ will shine on you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.869565,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:15",
+      "delta": "F3",
+      "rationale": "Keeps exact attention, movement image, and contrast.",
+      "source_reference": "Eph 5:15",
+      "source_verse_sha256": "acc8d115ef2adcb206984a97fae06daf27fad9d7a5abae688fc37aaf887eb20e",
+      "before": "Therefore watch carefully how you walk—not as unwise people but as wise,",
+      "after": "Therefore watch carefully how you walk—not as unwise people but as wise,",
+      "tsw_comparator": "Be careful, then, how you live—not as unwise but as wise,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:16",
+      "delta": "F3",
+      "rationale": "Retains commercial time image and moral reason.",
+      "source_reference": "Eph 5:16",
+      "source_verse_sha256": "21a63995e4d230118af4d7d1dcf386c120ef1f5fef03d8c626e46a92d770c347",
+      "before": "making the most of the time, because the days are evil.",
+      "after": "buying up the opportunity, because the days are evil.",
+      "tsw_comparator": "making the most of the time, because the days are evil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:18",
+      "delta": "F3",
+      "rationale": "Preserves intoxication/consequence and Spirit contrast.",
+      "source_reference": "Eph 5:18",
+      "source_verse_sha256": "8c52a0f71322a1634477b1a7f478e88c3703e5dfdd41eec103430ee2a681b9dd",
+      "before": "Do not get drunk with wine, which leads to reckless living, but be filled with the Spirit,",
+      "after": "Do not get drunk with wine, which leads to reckless living, but be filled by the Spirit,",
+      "tsw_comparator": "Do not get drunk with wine, for that is debauchery; but be filled with the Spirit,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:19",
+      "delta": "F3",
+      "rationale": "Keeps mutual speech, three song forms, and inward music.",
+      "source_reference": "Eph 5:19",
+      "source_verse_sha256": "64a77590acf47ff59aed7eb2d202e3d281618bd0bf176c7ce7afd82a5a55cf55",
+      "before": "speaking to one another with psalms, hymns, and spiritual songs, singing and making music in your heart to the Lord,",
+      "after": "speaking to one another with psalms, hymns, and spiritual songs, singing and making melody to the Lord with your heart,",
+      "tsw_comparator": "speaking to one another with psalms and hymns and spiritual songs, singing and making melody to the Lord in your hearts,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:20",
+      "delta": "F3",
+      "rationale": "Preserves both comprehensive terms and divine relations.",
+      "source_reference": "Eph 5:20",
+      "source_verse_sha256": "b97f06df8e08d07baca14548a827dd4181f1e92383170ead201e62eff284a333",
+      "before": "giving thanks always for everything to God the Father in the name of our Lord Jesus Christ,",
+      "after": "always giving thanks for everything to God the Father in the name of our Lord Jesus Christ,",
+      "tsw_comparator": "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:21",
+      "delta": "F3",
+      "rationale": "Keeps mutual submission as the participial frame.",
+      "source_reference": "Eph 5:21",
+      "source_verse_sha256": "381ac92f45694d96addcacefda6ba2fedd00b217eb177cc33840f715420f5056",
+      "before": "submitting to one another in reverence for Christ.",
+      "after": "submitting to one another in reverence for Christ.",
+      "tsw_comparator": "submitting to one another out of reverence for Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:22",
+      "delta": "F3",
+      "rationale": "Supplies the verb from the immediately preceding mutual-submission clause.",
+      "source_reference": "Eph 5:22",
+      "source_verse_sha256": "d3cbcf1fe3bac71b8e601093ad1182d46b858bef6d825c721a415fee7af9dc3c",
+      "before": "Wives, submit to your own husbands as to the Lord,",
+      "after": "Wives, submit to your own husbands as to the Lord,",
+      "tsw_comparator": "Wives, to your husbands as to the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:23",
+      "delta": "F3",
+      "rationale": "Preserves husband/wife specificity and head/body comparison.",
+      "source_reference": "Eph 5:23",
+      "source_verse_sha256": "1b8534d83613aa6ba7adf46d5fcdd2aaa580e2824b686a403b4cc7b8c3f16abf",
+      "before": "because the husband is head of the wife as Christ also is head of the church—he himself being Savior of the body.",
+      "after": "because a husband is head of his wife as Christ is head of the church, he himself the Savior of the body.",
+      "tsw_comparator": "For the husband is the head of the wife just as Christ is the head of the church—the body of which he is the Savior.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:24",
+      "delta": "F3",
+      "rationale": "Keeps the comparison and comprehensive wording.",
+      "source_reference": "Eph 5:24",
+      "source_verse_sha256": "5b70b494e6468b6112c5f77e642857611235001bd5290b95262bf8065a49b08a",
+      "before": "But as the church submits to Christ, so wives should submit to their husbands in everything.",
+      "after": "But as the church submits to Christ, so wives should submit to their husbands in everything.",
+      "tsw_comparator": "Just as the church submits to Christ, so also wives should submit in everything to their husbands.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:25",
+      "delta": "F3",
+      "rationale": "Preserves direct gendered command and self-giving standard.",
+      "source_reference": "Eph 5:25",
+      "source_verse_sha256": "1a7b4e3b46aaab11001166758d35272f50be0567e6321914a4f802726a9f77bf",
+      "before": "Husbands, love your wives, just as Christ loved the church and gave himself for her,",
+      "after": "Husbands, love your wives, just as Christ loved the church and gave himself for her,",
+      "tsw_comparator": "Husbands, love your wives, just as Christ loved the church and gave himself up for her,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.967742,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:26",
+      "delta": "F3",
+      "rationale": "Keeps sanctifying purpose, feminine church, washing, and word.",
+      "source_reference": "Eph 5:26",
+      "source_verse_sha256": "b4b33ec9c05d18c26a0143cd1f88047edb3847309f1af1ff0fa499960d6ddc87",
+      "before": "so that he might make her holy, cleansing her with the washing of water by the word,",
+      "after": "so that he might make her holy, cleansing her by the washing of water with the word,",
+      "tsw_comparator": "in order to make her holy, cleansing her by the washing of water with the word,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:27",
+      "delta": "F3",
+      "rationale": "Preserves presentation, bodily images, and ethical purpose.",
+      "source_reference": "Eph 5:27",
+      "source_verse_sha256": "2486dc8fff277a45e1250933f154b76241846175a37bbacb999c04a21717f9bc",
+      "before": "so that he might present the church to himself in splendor, without spot or wrinkle or anything like that, but holy and blameless.",
+      "after": "so that he might present the church to himself in splendor, without spot or wrinkle or anything like that, but holy and blameless.",
+      "tsw_comparator": "so as to present the church to himself in splendor, without spot or wrinkle or anything of the kind—yes, so that she may be holy and without blemish.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.653846,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:28",
+      "delta": "F3",
+      "rationale": "Keeps bodily identity and male specificity.",
+      "source_reference": "Eph 5:28",
+      "source_verse_sha256": "014596c2394f25d29b60c052ce813c08e7f39da24928d403a26873775f1850bc",
+      "before": "In the same way husbands ought to love their wives as their own bodies. The one who loves his wife loves himself.",
+      "after": "In the same way, husbands ought to love their own wives as their own bodies. The man who loves his own wife loves himself,",
+      "tsw_comparator": "In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:29",
+      "delta": "F3",
+      "rationale": "Preserves nourishment and tender bodily care.",
+      "source_reference": "Eph 5:29",
+      "source_verse_sha256": "96bb0034b6818c780f6b4b2e684d688b78e031b5e1dc7a31e4acad4beea8063f",
+      "before": "For no one ever hated their own flesh, but nourishes and cares for it, just as Christ does the church,",
+      "after": "for no one ever hated his own flesh, but nourishes and tenderly cares for it, just as Christ does the church,",
+      "tsw_comparator": "For no one ever hates one’s own body, but nourishes and cherishes it, just as Christ does the church,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:30",
+      "delta": "F3",
+      "rationale": "Keeps corporate bodily relation.",
+      "source_reference": "Eph 5:30",
+      "source_verse_sha256": "c7d398518eac5e82817a6dab3381d23f8d6b089b1910cc41d3edf6a2ca995e21",
+      "before": "because we are members of his body.",
+      "after": "because we are members of his body.",
+      "tsw_comparator": "because we are members of his body.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:31",
+      "delta": "F3",
+      "rationale": "Preserves gender, movement, union, and quotation.",
+      "source_reference": "Eph 5:31",
+      "source_verse_sha256": "d67ab37041db02990b570551c4455111f0f51306cd4cc2899717ca31c1e5afec",
+      "before": "“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”",
+      "after": "“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”",
+      "tsw_comparator": "“For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:32",
+      "delta": "F3",
+      "rationale": "Keeps magnitude and stated referent.",
+      "source_reference": "Eph 5:32",
+      "source_verse_sha256": "67af0848017b4e9bddbd90d64d0ed1eada75460097a96d852195ab44c066a78d",
+      "before": "This mystery is great, but I am speaking about Christ and the church.",
+      "after": "This mystery is great, and I am speaking about Christ and the church.",
+      "tsw_comparator": "This mystery is great, and I am speaking with reference to Christ and the church.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Ephesians 5:33",
+      "delta": "F3",
+      "rationale": "Preserves differentiated closing commands; respect renders relational fear.",
+      "source_reference": "Eph 5:33",
+      "source_verse_sha256": "8828d518b467306dc497e5c4431c8ba9cf13661bc2048d793bdf99e76b55a122",
+      "before": "Nevertheless, each one of you must love his own wife as himself, and the wife must respect her husband.",
+      "after": "Nevertheless, each one of you must love his own wife as himself, and the wife should respect her husband.",
+      "tsw_comparator": "Each of you, however, should love his wife as himself, and a wife should respect her husband.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/ephesians/Ephesians_05.md",
-    "blob_sha": "8e068fba6beb1d18440586ce0717ac4594927ee3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

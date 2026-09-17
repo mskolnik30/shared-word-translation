@@ -4,119 +4,71 @@ testament: NT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
 ---
+
 
 ## Proclaiming Christ Crucified
 
 <p>
-v01: I, when I came to you, brothers and sisters, did not come with superiority of speech or of wisdom, proclaiming to you the testimony of God.
-
-v02: For I decided to know nothing among you except Jesus Christ, and him crucified.
+v01: And when I came to you, brothers and sisters, I did not come with superior speech or wisdom as I proclaimed God's testimony to you.
+v02: For I decided to know nothing among you except Jesus Christ—and him crucified.
 </p>
 
 <p>
-v03: I was with you in weakness and in fear and in much trembling,
-
-v04: and my speech and my proclamation were not in persuasive words of wisdom, but in demonstration of the Spirit and of power,
-
-v05: so that your trust might not be in the wisdom of men but in the power of God.
+v03: I came to you in weakness, fear, and much trembling.
+v04: My speech and my proclamation were not in persuasive words of wisdom but in a demonstration of the Spirit and power,
+v05: so that your faith would not rest on human wisdom but on God's power.
 </p>
 
 ## Wisdom from the Spirit
 
 <p>
-v06: Yet we speak wisdom among the mature, but not a wisdom of this age nor of the rulers of this age, who are being brought to nothing;
-
-v07: but we speak God’s wisdom in a mystery, the hidden wisdom, which God predestined before the ages for our glory,
+v06: Yet we do speak wisdom among the mature, though not the wisdom of this age or of this age's rulers, who are passing away.
+v07: Instead, we speak God's wisdom in a mystery, the hidden wisdom God determined before the ages for our glory.
 </p>
 
 <p>
-v08: which none of the rulers of this age understood; for if they had understood it, they would not have crucified the Lord of glory.
-
-v09: But just as it is written,
-
-“What eye has not seen and ear has not heard,
-
-and has not entered into the heart of man,
-
-what things God has prepared for those who love him.”
+v08: None of this age's rulers understood it, for if they had, they would not have crucified the Lord of glory.
+v09: But as it is written: “What no eye has seen, no ear has heard, and no human heart has imagined—what God has prepared for those who love him.”
 </p>
 
 <p>
-v10: But to us God revealed them through the Spirit; for the Spirit searches everything, even the depths of God.
-
-v11: For who among men knows the things of a man except the spirit of the man that is in him? So also no one knows the things of God except the Spirit of God.
+v10: But God revealed these things to us through the Spirit, for the Spirit searches everything, even God's depths.
+v11: For who among humans knows a person's thoughts except that person's spirit within? In the same way, no one knows God's thoughts except God's Spirit.
 </p>
 
 <p>
-v12: Now we have received not the spirit of the world, but the Spirit who is from God, so that we may know the things freely given to us by God,
-
-v13: which things we also speak, not in words taught by human wisdom, but in those taught by the Spirit, interpreting spiritual things to spiritual people.
+v12: Now we did not receive the spirit of the world but the Spirit who is from God, so that we may know the things God has graciously given us.
+v13: We also speak these things, not in words taught by human wisdom but in words taught by the Spirit, interpreting spiritual things to spiritual people.
 </p>
 
 <p>
-v14: But the natural person does not receive the things of the Spirit of God, for they are foolishness to him, and he is not able to understand them, because they are spiritually discerned.
-
-v15: But the spiritual person discerns everything, yet he himself is discerned by no one.
+v14: But the merely natural person does not receive the things of God's Spirit, for they are foolishness to that person, who cannot understand them because they are discerned spiritually.
+v15: The spiritual person discerns all things but is himself judged by no one.
 </p>
 
 <p>
-v16: For “Who has known the mind of the Lord so as to instruct him?” But we have the mind of Christ.
+v16: For “who has known the Lord's mind so as to instruct him?” But we have Christ's mind.
 </p>
 
 ## Notes
 
-v01–02: Message centers exclusively on Christ crucified.
+v01: The pinned Greek reads ‘testimony of God’; some witnesses read ‘mystery of God.’
 
-v03–05: Weakness serves to highlight divine power.
+v06: ‘Mature’ can also mean complete; the word does not identify a secret spiritual elite.
 
-v06–08: True wisdom is hidden from worldly rulers.
+v13: The final phrase can mean interpreting spiritual things to spiritual people, combining spiritual things with spiritual words, or explaining spiritual realities spiritually.
 
-v10–12: The Spirit reveals divine realities.
-
-v13: Spiritual truth requires Spirit-taught expression.
-
-v14–15: Distinction between natural and spiritual perception.
-
-v16: Believers participate in the mind of Christ.
+v14–15: ‘Natural’ and ‘spiritual’ describe relation to God's Spirit in this argument, not a license for unaccountable superiority.
 
 ## Vocabulary
 
-v01: ὑπεροχή (hyperochē)
-“Superiority.”
+v07: **μυστήριον (mystērion)**: A divine purpose once hidden and now disclosed.
 
-v02: σταυρόω (stauroō)
-“To crucify.”
+v14: **ψυχικός (psychikos)**: Natural, merely human, or lacking the Spirit.
 
-v04: ἀπόδειξις (apodeixis)
-“Demonstration.”
-
-v06: τέλειος (teleios)
-“Mature.”
-
-v07: μυστήριον (mystērion)
-“Mystery.”
-
-v08: ἄρχων (archōn)
-“Ruler.”
-
-v10: βάθος (bathos)
-“Depth.”
-
-v11: πνεῦμα (pneuma)
-“Spirit.”
-
-v12: χαρίζομαι (charizomai)
-“To give freely.”
-
-v13: συγκρίνω (synkrinō)
-“To interpret.”
-
-v14: ψυχικός (psychikos)
-“Natural.”
-
-v15: ἀνακρίνω (anakrinō)
-“To discern.”
-
-v16: νοῦς (nous)
-“Mind.”
+v15: **ἀνακρίνω (anakrinō)**: Examine, discern, or investigate.

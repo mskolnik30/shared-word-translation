@@ -1,0 +1,56 @@
+{
+  "parent_commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+  "parent_library_version": 92,
+  "book": "2Corinthians",
+  "slug": "2corinthians",
+  "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+  "scope": "2 Corinthians 1–13",
+  "expected_verses": 257,
+  "source_filename": "2corinthians-pinned-greek.txt",
+  "new_source_files": ["2corinthians-pinned-greek.txt"],
+  "book_record_files": ["2_CORINTHIANS_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Galatians 1–6; Ephesians 1–5",
+  "completed_block_scope": "Romans 7–16; 1 Corinthians 1–16; 2 Corinthians 1–13",
+  "source_omissions": {},
+  "source_public_mapping": {
+    "13": {
+      "12": [
+        {"public": 12, "token_start": 1, "token_end": 5, "reason": "Established public versification divides the two complete sentences of SBLGNT 2Cor 13:12 between public labels 12 and 13."},
+        {"public": 13, "token_start": 6, "token_end": 10, "reason": "Established public versification divides the two complete sentences of SBLGNT 2Cor 13:12 between public labels 12 and 13."}
+      ],
+      "13": [{"public": 14}]
+    }
+  },
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Cor.txt",
+    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["1:4", "1:8", "1:9", "1:11", "1:15", "1:17", "1:22", "1:23", "1:24", "2:4", "2:5", "2:6", "2:7", "2:10", "2:14", "2:16", "2:17", "3:3", "3:5", "3:6", "3:7", "3:9", "3:13", "3:14", "3:17", "3:18", "4:2", "4:4", "4:7", "4:8", "4:10", "4:11", "4:16", "4:17", "5:1", "5:3", "5:4", "5:6", "5:7", "5:10", "5:14", "5:16", "5:17", "5:19", "5:20", "5:21", "6:1", "6:4", "6:5", "6:7", "6:9", "6:10", "6:12", "6:14", "6:15", "6:16", "6:18", "7:2", "7:3", "7:5", "7:8", "7:9", "7:10", "7:11", "7:12", "8:2", "8:3", "8:4", "8:7", "8:8", "8:12", "8:13", "8:14", "8:19", "8:20", "8:21", "8:23", "9:4", "9:5", "9:6", "9:7", "9:8", "9:10", "9:13", "10:1", "10:2", "10:3", "10:4", "10:5", "10:6", "10:7", "10:8", "10:10", "10:12", "10:13", "10:15", "10:16", "10:18", "11:1", "11:2", "11:3", "11:4", "11:5", "11:7", "11:8", "11:9", "11:12", "11:13", "11:14", "11:15", "11:17", "11:19", "11:20", "11:21", "11:23", "11:24", "11:25", "11:26", "11:27", "11:28", "11:29", "11:32", "11:33", "12:1", "12:2", "12:3", "12:4", "12:6", "12:7", "12:9", "12:10", "12:11", "12:12", "12:13", "12:14", "12:15", "12:16", "12:19", "12:20", "12:21", "13:1", "13:2", "13:4", "13:5", "13:7", "13:9", "13:10", "13:11"],
+  "apparatus": {
+    "1": {"notes": [["08–10", "Paul names crushing affliction, despair of life, and an inward death sentence; the passage does not deny trauma, but locates hope in the God who raises the dead."], ["22", "The Spirit is called a down payment or first installment, a commercial image of a promised completion."], ["24", "Paul explicitly denies ruling over the Corinthians' faith and describes the workers as coworkers for their joy."]], "vocabulary": [["03", "παράκλησις (paraklēsis)", "Comfort, encouragement, or strengthening appeal."], ["22", "ἀρραβών (arrabōn)", "Down payment, deposit, or first installment."]]},
+    "2": {"notes": [["05–11", "After a majority punishment, Paul calls the community to forgiveness, comfort, and reaffirmed love so the person is not overwhelmed by grief."], ["14", "The triumphal procession can include captives being led; the image is not reduced to a generic victory parade."], ["17", "The commercial verb depicts people who peddle or adulterate God's word for gain."]], "vocabulary": [["07", "καταπίνω (katapinō)", "Swallow up, overwhelm, or devour."], ["14", "θριαμβεύω (thriambeuō)", "Lead in a triumphal procession."]]},
+    "3": {"notes": [["06", "‘Letter’ and ‘Spirit’ contrast modes of covenant ministry in this argument; the line is not a dismissal of careful reading."], ["07–16", "Paul's difficult veil reading of Moses and Israel is preserved without expanding it into a judgment about Jewish people beyond the passage."], ["18", "The verb can mean beholding as in a mirror or reflecting. The main text retains the mirror image and transformation."]], "vocabulary": [["06", "διαθήκη (diathēkē)", "Covenant or binding arrangement."], ["18", "μεταμορφόω (metamorphoō)", "Transform or change in form."]]},
+    "4": {"notes": [["07", "The clay-jar image holds human fragility together with power that belongs to God."], ["08–12", "Affliction, persecution, striking down, and exposure to death are translated as real harms, not merely inward states."], ["17", "Calling affliction ‘light’ is Paul's contrast with an immeasurable weight of glory; it should not be used to minimize another person's suffering."]], "vocabulary": [["07", "ὀστράκινος (ostrakinos)", "Made of earthenware or clay."], ["17", "βάρος (baros)", "Weight, burden, or heaviness."]]},
+    "5": {"notes": [["01–4", "Paul layers tent, building, clothing, nakedness, and being swallowed by life. The images are allowed to overlap rather than being forced into one diagram."], ["10", "The judgment concerns what each person did through the body; bodily life is morally consequential."], ["21", "‘Made him sin’ is a compressed and much-debated claim. The translation does not decide whether ‘sin offering’ is implied."]], "vocabulary": [["05", "ἀρραβών (arrabōn)", "Down payment or first installment."], ["18", "καταλλαγή (katallagē)", "Reconciliation or restoration of relationship."]]},
+    "6": {"notes": [["04–10", "The catalogue names beatings, prisons, hunger, dishonor, and grief while also naming endurance, truth, love, and joy."], ["14", "The rare verb pictures being placed under an unequal or mismatched yoke; the following questions explain incompatible allegiance."], ["18", "The promise explicitly names both sons and daughters."]], "vocabulary": [["04", "διάκονος (diakonos)", "Servant or minister."], ["14", "ἑτεροζυγέω (heterozygeō)", "Be mismatched under a different yoke."]]},
+    "7": {"notes": [["08–10", "Paul distinguishes sorrow that produces repentance and salvation from sorrow that produces death; he does not celebrate pain for its own sake."], ["11", "The response includes a desire to see justice done, not only private emotion."], ["12", "The text names both a wrongdoer and a person wronged even while stating another purpose for the letter."]], "vocabulary": [["09", "μετάνοια (metanoia)", "Repentance, a change of mind and direction."], ["11", "ἐκδίκησις (ekdikēsis)", "Vindication, justice, or punishment of wrong."]]},
+    "8": {"notes": [["02–5", "The Macedonians give amid deep poverty and act voluntarily; their example is not permission to coerce people who lack necessities."], ["12–14", "A gift is accepted according to what a person has. Paul's stated aim is equality, not others' relief at the Corinthians' expense."], ["19–21", "The churches appoint a traveling companion, and Paul explains public safeguards for administering a large gift."]], "vocabulary": [["04", "κοινωνία (koinōnia)", "Sharing, participation, or fellowship."], ["13", "ἰσότης (isotēs)", "Equality or fair balance."]]},
+    "9": {"notes": [["05–7", "The gift is prepared in advance so it is generous rather than extracted; each person decides in the heart, not under pressure."], ["06", "‘With blessings’ can describe generous sowing and a resulting harvest of blessing."], ["08", "The repeated forms of ‘all’ and ‘every’ emphasize sufficiency for good work rather than luxury for its own sake."]], "vocabulary": [["05", "πλεονεξία (pleonexia)", "Greed, exploitation, or something extracted."], ["07", "ἱλαρός (hilaros)", "Cheerful or glad."]]},
+    "10": {"notes": [["01–2", "Paul quotes or echoes charges that he is timid in person and bold at a distance before answering them."], ["03–6", "The military imagery targets arguments, proud obstacles, and disobedience in this dispute; it is not a mandate for physical violence."], ["08", "Paul says the Lord gave authority for building up the community and not for tearing it down."]], "vocabulary": [["04", "ὀχύρωμα (ochyrōma)", "Stronghold or fortified place."], ["13", "κανών (kanōn)", "Measured boundary, field, or rule."]]},
+    "11": {"notes": [["08", "Paul deliberately says he ‘robbed’ other churches by accepting their support; the harsh irony highlights Corinth's cost-free benefit."], ["20", "Paul names enslavement, economic predation, arrogance, and a blow to the face as abuse the Corinthians wrongly tolerate."], ["23–27", "The catalogue preserves imprisonment, beating, stoning, shipwreck, danger, hunger, cold, and inadequate clothing as real bodily harm."]], "vocabulary": [["05", "ὑπερλίαν ἀπόστολοι (hyperlian apostoloi)", "An ironic expression often rendered ‘super-apostles.’"], ["33", "σαργάνη (sarganē)", "A woven basket or hamper."]]},
+    "12": {"notes": [["02–4", "Paul twice says he does not know whether the experience was in or outside the body; the translation preserves that uncertainty."], ["07", "The thorn, its relation to the revelations, and the messenger of Satan are not identified more precisely than the Greek."], ["09", "Christ's power ‘dwells over’ Paul with a verb related to pitching a tent, linking weakness with protective presence."]], "vocabulary": [["04", "παράδεισος (paradeisos)", "Paradise, a garden-like dwelling with God."], ["07", "σκόλοψ (skolops)", "Thorn, stake, or sharp splinter."]]},
+    "13": {"notes": [["01–2", "Paul invokes the legal rule of two or three witnesses while warning that his third visit will not spare persistent wrongdoing."], ["05", "The commands are plural and directed to the whole community: they are to examine and test themselves."], ["07–10", "Paul values the Corinthians doing good and being restored above appearing personally successful; his authority is for building up."]], "vocabulary": [["05", "δοκιμάζω (dokimazō)", "Test, examine, or prove genuine."], ["09", "κατάρτισις (katartisis)", "Restoration, mending, or full preparation."]]}
+  }
+}

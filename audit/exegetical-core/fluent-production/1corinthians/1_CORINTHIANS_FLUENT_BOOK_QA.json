@@ -1,7 +1,7 @@
 {
   "book": "1 Corinthians",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 16,
   "public_verse_slots": 437,
   "included_verse_labels": 437,
@@ -135,5 +135,88 @@
         "blob_sha": "b40c02445813c6397c141cbbee42fe327d7db833"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "verse_count": 437,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+      "path": "audit/exegetical-core/fluent-production/1corinthians/1_CORINTHIANS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "verse_count": 437,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+        "path": "audit/exegetical-core/fluent-production/1corinthians/1_CORINTHIANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

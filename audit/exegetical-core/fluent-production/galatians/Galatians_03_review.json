@@ -2,223 +2,374 @@
   "book": "Galatians",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 29,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "36ef3b0851d04fd9dd32b683a3075b1235593fbf1576c5c307ffb49dd80f7974"
-      },
-      "2": {
-        "source_ref": "Galatians 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "288e4873fdce6d0da13352cbf82081cd26fb73f98cf4d776a75caa51f625855c"
-      },
-      "3": {
-        "source_ref": "Galatians 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "f76787faf6d5629013bf1cfc6a9c8ce8d8a035240b0b39500b9e732c3f0591fe"
-      },
-      "4": {
-        "source_ref": "Galatians 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "3dade4a737393899c522653f5c276f744599b366c757e4700cd15f21484f84a5"
-      },
-      "5": {
-        "source_ref": "Galatians 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "2b0ebfb27b75320eed81affec4e9052984b57b40f59cb6b4a844311f206c3a8d"
-      },
-      "6": {
-        "source_ref": "Galatians 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "2994ed5f9d41168d5e20c08f4a6ff6871d120f5ae3bb966aa6836942302ad1fd"
-      },
-      "7": {
-        "source_ref": "Galatians 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "64f283f8a32d034354a4adac01b2c600569993d49589408f7c782c463f280aae"
-      },
-      "8": {
-        "source_ref": "Galatians 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "076b904d8a793879128dbe7f93609f8551a9661cce2c47c83f81e04a1cd606aa"
-      },
-      "9": {
-        "source_ref": "Galatians 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "97ddb0ddb300a48c196d142ba52ce7e0340aa49879f6d47024dc68fd27488f0c"
-      },
-      "10": {
-        "source_ref": "Galatians 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "44d80c187de9379d2e231a2371eaf294665022c61524a9770925072e80493805"
-      },
-      "11": {
-        "source_ref": "Galatians 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "e1cab612f057232e30d08f511f09573374f41f73281c7033f41b8b57281d5f73"
-      },
-      "12": {
-        "source_ref": "Galatians 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b41a85571ca3045c390f748a5c32b4d25d72cca12842e895e545056308dbc113"
-      },
-      "13": {
-        "source_ref": "Galatians 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "637da7ba85ac66ac9b8e6e4c2bd6a9a1acc1bed9bf5df2fc0f7af6b956d819fe"
-      },
-      "14": {
-        "source_ref": "Galatians 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "e671c46ce378ff0f8e41bed172f999be0a4b15c90587b71dad80c49726dacb88"
-      },
-      "15": {
-        "source_ref": "Galatians 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "98c300de026011b2039ae660948f476eaed12dc0a321d150e3ded3f6ecdaa207"
-      },
-      "16": {
-        "source_ref": "Galatians 3:16",
-        "source_chapter": 3,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "af1f93195bfb3b3db82e1fe9914f5588a4bc9ea1fa93f610ca7bc5bb94a9bd40"
-      },
-      "17": {
-        "source_ref": "Galatians 3:17",
-        "source_chapter": 3,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "55ea7308ea7117463c862520513056f8ba9945229ec572b9952b0ca73d07b9e4"
-      },
-      "18": {
-        "source_ref": "Galatians 3:18",
-        "source_chapter": 3,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "f07b570619039ade722e09689ef3ae6514ebabdf16b72a7be0d0ed96b524fcdb"
-      },
-      "19": {
-        "source_ref": "Galatians 3:19",
-        "source_chapter": 3,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "4ee8e6a2f75a096a434957ed77d8687971361b689866c70a602afaff30f0dc9e"
-      },
-      "20": {
-        "source_ref": "Galatians 3:20",
-        "source_chapter": 3,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "57a4b130eb3c1faacc146b967d312d9d496597545a9c0bcd1c059e8922ebea57"
-      },
-      "21": {
-        "source_ref": "Galatians 3:21",
-        "source_chapter": 3,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "a878396af2839a582611fd3f61bdc2caca529c652771d4cbe07bf887fa7ef95b"
-      },
-      "22": {
-        "source_ref": "Galatians 3:22",
-        "source_chapter": 3,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "49da93717272bcc8642b713713b529afb0ad76c62f44a0891608d254e45462aa"
-      },
-      "23": {
-        "source_ref": "Galatians 3:23",
-        "source_chapter": 3,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "f34028e745a65266cbe34632691f47b13b3df6c354f5a85f57106d2d2d25ff41"
-      },
-      "24": {
-        "source_ref": "Galatians 3:24",
-        "source_chapter": 3,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "b4a258f5a36f6f5663723361414a7b0a22ee393cfc9b562dbd4b0cf5e28b243c"
-      },
-      "25": {
-        "source_ref": "Galatians 3:25",
-        "source_chapter": 3,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "421dfeb1b3eb82337c131aab291aa5733fb9cdc296cb336dd8b2ed2cbc5a117c"
-      },
-      "26": {
-        "source_ref": "Galatians 3:26",
-        "source_chapter": 3,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "03eca1e2331947320cf28ceda7263b60a7b3573740ceb94bd9a346d896f66f68"
-      },
-      "27": {
-        "source_ref": "Galatians 3:27",
-        "source_chapter": 3,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "3c307a3de29b1243a71de6983f8357ac8681dfed65efe672b1d86fb810371e6a"
-      },
-      "28": {
-        "source_ref": "Galatians 3:28",
-        "source_chapter": 3,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "78302baa14743fed0bab9f407ab4f4bf1d2ed2c692d1943b4b4502c4c1426c63"
-      },
-      "29": {
-        "source_ref": "Galatians 3:29",
-        "source_chapter": 3,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "95fc5e0b454e79e27e7d1b8889c4c9c1b989e451bed901b942039963b4a7f6cc"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 29,
+    "path": "translations/fluent/NT/galatians/Galatians_03.md",
+    "before_sha256": "a468201790a84a77522abaa79ad3af01b473b0bd463b04c9ade3ed15b99baa8f",
+    "after_sha256": "c73d8a288d82a1db058826a47901601e9e33a21dc93ca774755914567c05beb1",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_03.md",
+    "tsw_comparator_sha256": "08ac0030e522db1f31e042a9976f2a6505863ea49bc7f3a08b4148fc19e41beb"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 3:1",
+      "delta": "F3",
+      "rationale": "Retains direct rebuke, bewitching image, and public portrayal.",
+      "source_reference": "Gal 3:1",
+      "source_verse_sha256": "5962cefed44085b685db4fd41d5336bc92939047607e09d583fa71c148178c9b",
+      "before": "Foolish Galatians! Who has bewitched you? Before your eyes Jesus Christ was publicly portrayed as crucified.",
+      "after": "O foolish Galatians! Who bewitched you? Before your eyes Jesus Christ was publicly portrayed as crucified.",
+      "tsw_comparator": "O foolish Galatians! Who has bewitched you, before whose eyes Jesus Christ was publicly portrayed as crucified?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:2",
+      "delta": "F3",
+      "rationale": "Keeps the single diagnostic question and contrast.",
+      "source_reference": "Gal 3:2",
+      "source_verse_sha256": "8dc711f2dca47d1d3a1e70c8104e6ea15d9eeede795ff8f61b5597e919cfc772",
+      "before": "I want to learn only this from you: Did you receive the Spirit by works of the Law or by hearing with trust?",
+      "after": "I want to learn only this from you: did you receive the Spirit by works of the law, or by hearing with faith?",
+      "tsw_comparator": "Let me ask you only this: did you receive the Spirit by works of the law or by hearing with faith?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:3",
+      "delta": "F3",
+      "rationale": "Preserves beginning/completion and Spirit/flesh contrasts.",
+      "source_reference": "Gal 3:3",
+      "source_verse_sha256": "9d4ca16b6c460222026e991fd100569f452a554509f5ddb077be1ee4d93e68c1",
+      "before": "Are you so foolish? Having begun by the Spirit, are you now being brought to completion by the flesh?",
+      "after": "Are you so foolish? Having begun by the Spirit, are you now being completed by the flesh?",
+      "tsw_comparator": "Are you so foolish? Having begun by the Spirit, are you now being completed by the flesh?",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:4",
+      "delta": "F3",
+      "rationale": "Keeps the verb's suffer/experience range and final qualification.",
+      "source_reference": "Gal 3:4",
+      "source_verse_sha256": "f20ded47b9e657a553f4fb4162507cbd069092405319fa66ded4184f8bee22ed",
+      "before": "Did you experience so much for nothing—if indeed it was for nothing?",
+      "after": "Did you experience so much in vain—if it really was in vain?",
+      "tsw_comparator": "Did you suffer so many things in vain—if indeed it was in vain?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:5",
+      "delta": "F3",
+      "rationale": "Preserves present divine action and repeated contrast.",
+      "source_reference": "Gal 3:5",
+      "source_verse_sha256": "7a6b87691e62386e346d51ebacd3358737418ad2b7a5093d45a02c2a1c2b6409",
+      "before": "So then, does the one who supplies the Spirit to you and works miracles among you do so by works of the Law or by hearing with trust?",
+      "after": "So does the one who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith?",
+      "tsw_comparator": "Then does the one who supplies the Spirit to you and works miracles among you do so by works of the law or by hearing with faith?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:7",
+      "delta": "F3",
+      "rationale": "Preserves kinship claim without male-only English.",
+      "source_reference": "Gal 3:7",
+      "source_verse_sha256": "d956920024ae5f9547914f77e0212fd4d8a268af20e25371aa950b097c62803b",
+      "before": "Know, then, that those who live by trust are Abraham’s children.",
+      "after": "Know, then, that those who belong to faith are Abraham's children.",
+      "tsw_comparator": "know then that those of faith—these are sons of Abraham.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:8",
+      "delta": "F3",
+      "rationale": "Keeps Scripture personified and promise scope.",
+      "source_reference": "Gal 3:8",
+      "source_verse_sha256": "ef25c7af75543d4f38cb700babdbe406f9b3a9bf61f6d1a1988896b74f5ff8bf",
+      "before": "Scripture, foreseeing that God would set the Gentiles right by trust, announced the good news beforehand to Abraham: “All the nations will be blessed in you.”",
+      "after": "And Scripture, foreseeing that God would justify the Gentiles by faith, announced the gospel beforehand to Abraham: “All the nations will be blessed in you.”",
+      "tsw_comparator": "And the Scripture, foreseeing that God would justify the Gentiles by faith, proclaimed the good news beforehand to Abraham, saying, “In you shall all the nations be blessed.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754717,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:10",
+      "delta": "F3",
+      "rationale": "Keeps universal scope and full quotation demand.",
+      "source_reference": "Gal 3:10",
+      "source_verse_sha256": "401f2860ea23f37ffc4808da47a466df48537b305a80cea3675a004c77c261ae",
+      "before": "For all who rely on works of the Law are under a curse, because it is written, “Cursed is everyone who does not continue in everything written in the book of the Law, to do it.”",
+      "after": "For all who rely on works of the law are under a curse, because it is written, “Cursed is everyone who does not continue in everything written in the book of the law, to do it.”",
+      "tsw_comparator": "For all who are of works of the law are under a curse; for it is written, “Cursed is everyone who does not continue in all things written in the book of the law, to do them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.849315,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:11",
+      "delta": "F3",
+      "rationale": "Preserves conclusion and scriptural reason.",
+      "source_reference": "Gal 3:11",
+      "source_verse_sha256": "a49a37fefb4656464c62b00e51f921d757aadc67c41dc0a3ed93a3427a7d0091",
+      "before": "Now it is clear that no one is set right before God by the Law, because “the righteous one will live by trust.”",
+      "after": "Now it is clear that no one is justified before God by the law, because “the righteous one will live by faith.”",
+      "tsw_comparator": "Now it is evident that no one is justified before God by the law, for “the righteous one shall live by faith.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:12",
+      "delta": "F3",
+      "rationale": "Keeps contrast and quotation.",
+      "source_reference": "Gal 3:12",
+      "source_verse_sha256": "ce51d20ef18d94367fc9405567a439fb1c52cf617a207bc04ba09523a35e1c78",
+      "before": "But the Law is not based on trust; rather, “the one who does these things will live by them.”",
+      "after": "But the law does not operate by faith; instead, “The one who does these things will live by them.”",
+      "tsw_comparator": "But the law is not of faith; rather, “the one who does them shall live by them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:13",
+      "delta": "F3",
+      "rationale": "Preserves redemption, substitution, curse, and tree image.",
+      "source_reference": "Gal 3:13",
+      "source_verse_sha256": "65adbdd21c34e4155eaea7f104d095c80a870b9c84789ff1dbda530f0cb2b44a",
+      "before": "Christ redeemed us from the curse of the Law by becoming a curse for us, because it is written, “Cursed is everyone who hangs on a tree,”",
+      "after": "Christ redeemed us from the curse of the law by becoming a curse for us, because it is written, “Cursed is everyone who hangs on a tree,”",
+      "tsw_comparator": "Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who hangs on a tree”—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:14",
+      "delta": "F3",
+      "rationale": "Keeps double purpose and promise.",
+      "source_reference": "Gal 3:14",
+      "source_verse_sha256": "f32456e9b673364cc740c036aaaa43d92af1bcfee179a564ed55e856fd4952a1",
+      "before": "so that the blessing of Abraham might come to the Gentiles in Christ Jesus, so that we might receive the promised Spirit through trust.",
+      "after": "so that in Christ Jesus Abraham's blessing might come to the Gentiles, so that we might receive the promised Spirit through faith.",
+      "tsw_comparator": "so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promise of the Spirit through faith.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:15",
+      "delta": "F3",
+      "rationale": "Preserves human analogy and legal actions.",
+      "source_reference": "Gal 3:15",
+      "source_verse_sha256": "242697ffdac110fbfff75474035d81aa30dfbd4f6d158208470fb24638427643",
+      "before": "Brothers and sisters, I am speaking in human terms: even with a human covenant, once it has been ratified, no one sets it aside or adds to it.",
+      "after": "Brothers and sisters, I speak in human terms: even a human covenant, once ratified, cannot be annulled or supplemented by anyone.",
+      "tsw_comparator": "Brothers and sisters, I speak according to human terms: even a human covenant, once ratified, no one sets aside or adds to it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:16",
+      "delta": "F3",
+      "rationale": "Keeps Paul's singular/plural argument and collective wordplay.",
+      "source_reference": "Gal 3:16",
+      "source_verse_sha256": "5feb4886b32ae6665ef34325bc9bc8011086b490194ce3357f02a31c28dfbcd9",
+      "before": "Now the promises were spoken to Abraham and to his offspring. It does not say, “and to offsprings,” as though referring to many, but to one: “and to your offspring,” who is Christ.",
+      "after": "Now the promises were spoken to Abraham and to his offspring. It does not say, “and to offsprings,” as referring to many, but as to one: “and to your offspring,” who is Christ.",
+      "tsw_comparator": "Now the promises were spoken to Abraham and to his offspring. It does not say, “And to offsprings,” as of many, but as of one, “And to your offspring,” who is Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:17",
+      "delta": "F3",
+      "rationale": "Preserves exact number, chronology, and legal consequence.",
+      "source_reference": "Gal 3:17",
+      "source_verse_sha256": "b9ae24fc493ddb0f50c9a13791f6e7afc044273cae28e77167ceb49999f49535",
+      "before": "What I mean is this: the Law, which came four hundred thirty years later, does not invalidate a covenant previously established by God so as to cancel the promise.",
+      "after": "What I mean is this: the law, which came four hundred thirty years later, does not annul a covenant previously ratified by God and so cancel the promise.",
+      "tsw_comparator": "This is what I mean: the law, which came four hundred thirty years afterward, does not annul a covenant previously ratified by God, so as to nullify the promise.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807018,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:19",
+      "delta": "F3",
+      "rationale": "Preserves purpose ambiguity, duration, angels, and mediator.",
+      "source_reference": "Gal 3:19",
+      "source_verse_sha256": "9553588155636824374adb93e4e697fa24228eb7b17b1f73c3b5e7d8ba56288f",
+      "before": "Why then the Law? It was added because of transgressions, until the offspring should come to whom the promise had been made. It was put in place through angels by the hand of a mediator.",
+      "after": "Why, then, the law? It was added because of transgressions, until the offspring to whom the promise had been made would come. It was arranged through angels by the hand of a mediator.",
+      "tsw_comparator": "Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, having been ordained through angels by the hand of a mediator.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:20",
+      "delta": "F3",
+      "rationale": "Keeps the compressed and difficult contrast.",
+      "source_reference": "Gal 3:20",
+      "source_verse_sha256": "cd6a6bcb1ac293e707d654f72a2dfb5e45f2d9345d0116f2da7965fda8a42807",
+      "before": "Now a mediator is not for one party only, but God is one.",
+      "after": "Now a mediator is not for one party alone, but God is one.",
+      "tsw_comparator": "Now a mediator is not for one alone, but God is one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:21",
+      "delta": "F3",
+      "rationale": "Preserves question, denial, and unreal condition.",
+      "source_reference": "Gal 3:21",
+      "source_verse_sha256": "2bebcf1b67dd2224705177d27eebf9d033f0bdb2dd539135c67bbfd33700c7cc",
+      "before": "Is the Law then opposed to God’s promises? Certainly not! For if a law had been given that could give life, righteousness would indeed come from the Law.",
+      "after": "Is the law, then, opposed to God's promises? Absolutely not! For if a law had been given that could impart life, righteousness would indeed have come by the law.",
+      "tsw_comparator": "Is the law then against the promises of God? Certainly not! For if a law had been given that was able to give life, then righteousness would indeed be from the law.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655738,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:22",
+      "delta": "F3",
+      "rationale": "Keeps confinement image, universal scope, Christ's faithfulness, and believing recipients.",
+      "source_reference": "Gal 3:22",
+      "source_verse_sha256": "26de4ce584da9537608d36d10dea2d3771e692e66ad281e7e133bb1f246c49ab",
+      "before": "But Scripture imprisoned everything under sin so that the promise through the faithfulness of Jesus Christ might be given to those who trust.",
+      "after": "But Scripture imprisoned everything under sin, so that the promise by the faithfulness of Jesus Christ might be given to those who believe.",
+      "tsw_comparator": "But the Scripture imprisoned all things under sin, so that the promise by faith in Jesus Christ might be given to those who believe.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:23",
+      "delta": "F3",
+      "rationale": "Preserves guarded imprisonment and temporal movement.",
+      "source_reference": "Gal 3:23",
+      "source_verse_sha256": "3666e9ebc031eae94e5a17f9a3dc9a38a60a8702d46859e9a2801da53e9fdf60",
+      "before": "Before this trust came, we were kept under the Law, imprisoned until the trust that was about to be revealed.",
+      "after": "Before this faith came, we were held under guard by the law, imprisoned until the coming faith would be revealed.",
+      "tsw_comparator": "But before faith came, we were held in custody under the law, imprisoned until the coming faith was to be revealed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:24",
+      "delta": "F3",
+      "rationale": "Renders the household supervisor rather than modern classroom teacher.",
+      "source_reference": "Gal 3:24",
+      "source_verse_sha256": "15843aa558aedd5b88d9dce39166004f78034158e2a79ac87ff6073b3b31c3ad",
+      "before": "So the Law became our guardian until Christ, so that we might be set right by trust.",
+      "after": "Thus the law became our guardian until Christ, so that we might be justified by faith.",
+      "tsw_comparator": "So then, the law has become our guardian until Christ, so that we might be justified by faith.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:26",
+      "delta": "F3",
+      "rationale": "Retains the gendered inheritance status of sons while addressing all.",
+      "source_reference": "Gal 3:26",
+      "source_verse_sha256": "f1d7564ef787d6ca216519be01df0a59858459beefad7f8fd034b61bc85e47ff",
+      "before": "For all of you are God’s children through trust in Christ Jesus.",
+      "after": "For all of you are God's sons through faith in Christ Jesus.",
+      "tsw_comparator": "For you are all sons of God through faith in Christ Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:27",
+      "delta": "F3",
+      "rationale": "Keeps baptism and clothing image.",
+      "source_reference": "Gal 3:27",
+      "source_verse_sha256": "32203ac8896fafcb20d85ddfd3ab7a0cfda148e25faf8ffe1d58fd7db4340ac4",
+      "before": "For all of you who were baptized into Christ have clothed yourselves with Christ.",
+      "after": "For all of you who were baptized into Christ have clothed yourselves with Christ.",
+      "tsw_comparator": "For as many of you as were baptized into Christ have clothed yourselves with Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:28",
+      "delta": "F3",
+      "rationale": "Preserves actual enslaved status, creation echo, and unity.",
+      "source_reference": "Gal 3:28",
+      "source_verse_sha256": "b22c3140f88234d0d04ea01374218a3589acdfd0fd0428cf8c33360815595be6",
+      "before": "There is no Jew or Greek, slave or free, male and female, for you are all one in Christ Jesus.",
+      "after": "There is no Jew or Greek, there is no enslaved or free person, there is no male and female, for all of you are one in Christ Jesus.",
+      "tsw_comparator": "There is no Jew or Greek, there is no slave or free, there is no male and female; for you are all one in Christ Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 3:29",
+      "delta": "F3",
+      "rationale": "Keeps belonging, kinship, and inheritance.",
+      "source_reference": "Gal 3:29",
+      "source_verse_sha256": "26abe48408ad1ae15bf43f5980309cd473457efc8355d8aa54942a551ed3d0db",
+      "before": "And if you belong to Christ, then you are Abraham’s offspring, heirs according to promise.",
+      "after": "And if you belong to Christ, then you are Abraham's offspring, heirs according to promise.",
+      "tsw_comparator": "And if you are Christ’s, then you are Abraham’s offspring, heirs according to the promise.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_03.md",
-    "blob_sha": "b9fe18ba9046814c5fa0f59e9575350eee9fcf21"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

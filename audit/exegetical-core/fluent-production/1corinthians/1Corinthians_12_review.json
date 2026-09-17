@@ -1,501 +1,203 @@
 {
-  "book": "1 Corinthians",
+  "book": "1Corinthians",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/1corinthians/1Corinthians_12_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Cor.txt",
-    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Cor.txt",
     "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Corinthians 12:1",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 1,
-            "source_ref": "1 Corinthians 12:1",
-            "segment_mode": "whole",
-            "sha256": "a2f37fbe6a6ec57b895241866dccadd51f4370e433d5d5a7c612f846f9ead5bf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a2f37fbe6a6ec57b895241866dccadd51f4370e433d5d5a7c612f846f9ead5bf"
-      },
-      "2": {
-        "source_ref": "1 Corinthians 12:2",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 2,
-            "source_ref": "1 Corinthians 12:2",
-            "segment_mode": "whole",
-            "sha256": "8d68aef21507f86a4eb3ae50b51aadcb841fead23d5e071d363143057d249ab9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8d68aef21507f86a4eb3ae50b51aadcb841fead23d5e071d363143057d249ab9"
-      },
-      "3": {
-        "source_ref": "1 Corinthians 12:3",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 3,
-            "source_ref": "1 Corinthians 12:3",
-            "segment_mode": "whole",
-            "sha256": "77b237c8b0ccb1dcb02965d95a35487e4c6a51ff84d8ecee75bce612e5309d3f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "77b237c8b0ccb1dcb02965d95a35487e4c6a51ff84d8ecee75bce612e5309d3f"
-      },
-      "4": {
-        "source_ref": "1 Corinthians 12:4",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 4,
-            "source_ref": "1 Corinthians 12:4",
-            "segment_mode": "whole",
-            "sha256": "8549d16333ae0c48c083c00b5ff8666b91b6068382e3160171831e38e065ba12"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8549d16333ae0c48c083c00b5ff8666b91b6068382e3160171831e38e065ba12"
-      },
-      "5": {
-        "source_ref": "1 Corinthians 12:5",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 5,
-            "source_ref": "1 Corinthians 12:5",
-            "segment_mode": "whole",
-            "sha256": "8a4d4125b4c28b745323a28526259e324721e91bde506d3d232e2001bc42bc79"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8a4d4125b4c28b745323a28526259e324721e91bde506d3d232e2001bc42bc79"
-      },
-      "6": {
-        "source_ref": "1 Corinthians 12:6",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 6,
-            "source_ref": "1 Corinthians 12:6",
-            "segment_mode": "whole",
-            "sha256": "9f2c9425a959d6573fa8e75adddd25de730872c10b045d51a4104d30bb979f6b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9f2c9425a959d6573fa8e75adddd25de730872c10b045d51a4104d30bb979f6b"
-      },
-      "7": {
-        "source_ref": "1 Corinthians 12:7",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 7,
-            "source_ref": "1 Corinthians 12:7",
-            "segment_mode": "whole",
-            "sha256": "4bab97e721024cc5cb3df5d5fa7e02ca018a60e8c446e37a75fd5cd718e9140f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4bab97e721024cc5cb3df5d5fa7e02ca018a60e8c446e37a75fd5cd718e9140f"
-      },
-      "8": {
-        "source_ref": "1 Corinthians 12:8",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 8,
-            "source_ref": "1 Corinthians 12:8",
-            "segment_mode": "whole",
-            "sha256": "7f7e42e5a7bfd57c0c8cd03ee74429ff9e9579498e28a77405a3481c82a2c82d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7f7e42e5a7bfd57c0c8cd03ee74429ff9e9579498e28a77405a3481c82a2c82d"
-      },
-      "9": {
-        "source_ref": "1 Corinthians 12:9",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 9,
-            "source_ref": "1 Corinthians 12:9",
-            "segment_mode": "whole",
-            "sha256": "2ce735644c7f6f64beef2f3d98768740adccc5493174b9a8ba2c005120d31227"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2ce735644c7f6f64beef2f3d98768740adccc5493174b9a8ba2c005120d31227"
-      },
-      "10": {
-        "source_ref": "1 Corinthians 12:10",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 10,
-            "source_ref": "1 Corinthians 12:10",
-            "segment_mode": "whole",
-            "sha256": "a216cc77e129efca36c4ba38aae1a4491d400b4ec52863f64f8bc38904cc140d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a216cc77e129efca36c4ba38aae1a4491d400b4ec52863f64f8bc38904cc140d"
-      },
-      "11": {
-        "source_ref": "1 Corinthians 12:11",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 11,
-            "source_ref": "1 Corinthians 12:11",
-            "segment_mode": "whole",
-            "sha256": "ea9a72a882b0bb4854617bee5783b32886a53e905fe9ddab90db5e08d71723bf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ea9a72a882b0bb4854617bee5783b32886a53e905fe9ddab90db5e08d71723bf"
-      },
-      "12": {
-        "source_ref": "1 Corinthians 12:12",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 12,
-            "source_ref": "1 Corinthians 12:12",
-            "segment_mode": "whole",
-            "sha256": "43ebbea14330dc0d0321b520cbf30fed067233b1788e184427817cdcff4899be"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "43ebbea14330dc0d0321b520cbf30fed067233b1788e184427817cdcff4899be"
-      },
-      "13": {
-        "source_ref": "1 Corinthians 12:13",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 13,
-            "source_ref": "1 Corinthians 12:13",
-            "segment_mode": "whole",
-            "sha256": "b9f2aeb9ab7af192482d679bae3af8e458f7c5865feedea42df3648c5631a79c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b9f2aeb9ab7af192482d679bae3af8e458f7c5865feedea42df3648c5631a79c"
-      },
-      "14": {
-        "source_ref": "1 Corinthians 12:14",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 14,
-            "source_ref": "1 Corinthians 12:14",
-            "segment_mode": "whole",
-            "sha256": "0a28e45880a542295aa7288cffbdd86cb5b639633ab7d042af7b63f4caffcd37"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0a28e45880a542295aa7288cffbdd86cb5b639633ab7d042af7b63f4caffcd37"
-      },
-      "15": {
-        "source_ref": "1 Corinthians 12:15",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 15,
-            "source_ref": "1 Corinthians 12:15",
-            "segment_mode": "whole",
-            "sha256": "595245e27e7ade8b9756a567326a42d313398bd6c1604f2e9d1aa77a37155de1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "595245e27e7ade8b9756a567326a42d313398bd6c1604f2e9d1aa77a37155de1"
-      },
-      "16": {
-        "source_ref": "1 Corinthians 12:16",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 16,
-            "source_ref": "1 Corinthians 12:16",
-            "segment_mode": "whole",
-            "sha256": "9f42358ff24c35f8c3489e3389bcd28ec1067d16d666c1739230474ca8a9f3ed"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9f42358ff24c35f8c3489e3389bcd28ec1067d16d666c1739230474ca8a9f3ed"
-      },
-      "17": {
-        "source_ref": "1 Corinthians 12:17",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 17,
-            "source_ref": "1 Corinthians 12:17",
-            "segment_mode": "whole",
-            "sha256": "d7aa38741bcbb225ccd27d2cc19ca3ef77a744129c13bc1fc621bfbe20842f37"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d7aa38741bcbb225ccd27d2cc19ca3ef77a744129c13bc1fc621bfbe20842f37"
-      },
-      "18": {
-        "source_ref": "1 Corinthians 12:18",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 18,
-            "source_ref": "1 Corinthians 12:18",
-            "segment_mode": "whole",
-            "sha256": "d238fd9caf56f03103cb269b398a693cd6006d2dcc2b94937cc34c0db4c80af7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d238fd9caf56f03103cb269b398a693cd6006d2dcc2b94937cc34c0db4c80af7"
-      },
-      "19": {
-        "source_ref": "1 Corinthians 12:19",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 19,
-            "source_ref": "1 Corinthians 12:19",
-            "segment_mode": "whole",
-            "sha256": "0337c66e734426dea04e7182cf061f3bc2456b77266e064ffc1fd26d1b7ee1b8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0337c66e734426dea04e7182cf061f3bc2456b77266e064ffc1fd26d1b7ee1b8"
-      },
-      "20": {
-        "source_ref": "1 Corinthians 12:20",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 20,
-            "source_ref": "1 Corinthians 12:20",
-            "segment_mode": "whole",
-            "sha256": "f9a1d83613eeab7109e92085d006dd1efd6fc0d64994b5a1b6c15c696bb36942"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f9a1d83613eeab7109e92085d006dd1efd6fc0d64994b5a1b6c15c696bb36942"
-      },
-      "21": {
-        "source_ref": "1 Corinthians 12:21",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 21,
-            "source_ref": "1 Corinthians 12:21",
-            "segment_mode": "whole",
-            "sha256": "5f51fb3fcb52ac48c121e52edce78591cde48d19e9aae6ca653fbeda2f0c0014"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5f51fb3fcb52ac48c121e52edce78591cde48d19e9aae6ca653fbeda2f0c0014"
-      },
-      "22": {
-        "source_ref": "1 Corinthians 12:22",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 22,
-            "source_ref": "1 Corinthians 12:22",
-            "segment_mode": "whole",
-            "sha256": "7f457e75e21eaac146620e470c31ddf06f8ff04cdfbe2c89da32e9b20bab6aeb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7f457e75e21eaac146620e470c31ddf06f8ff04cdfbe2c89da32e9b20bab6aeb"
-      },
-      "23": {
-        "source_ref": "1 Corinthians 12:23",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 23,
-            "source_ref": "1 Corinthians 12:23",
-            "segment_mode": "whole",
-            "sha256": "3aea2b85cbcf68aec56d2f4785da1f24fc46701c3c63ea7e4f8b89e65485554d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3aea2b85cbcf68aec56d2f4785da1f24fc46701c3c63ea7e4f8b89e65485554d"
-      },
-      "24": {
-        "source_ref": "1 Corinthians 12:24",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 24,
-            "source_ref": "1 Corinthians 12:24",
-            "segment_mode": "whole",
-            "sha256": "eb0757402726a41e2360cd943a5e8bad8a82d212b49a4616e6422b4e38046150"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "eb0757402726a41e2360cd943a5e8bad8a82d212b49a4616e6422b4e38046150"
-      },
-      "25": {
-        "source_ref": "1 Corinthians 12:25",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 25,
-            "source_ref": "1 Corinthians 12:25",
-            "segment_mode": "whole",
-            "sha256": "5bb3eb762cc91f059284ce680e4248ba3c13ba1332b28a665957875fe819fb9d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5bb3eb762cc91f059284ce680e4248ba3c13ba1332b28a665957875fe819fb9d"
-      },
-      "26": {
-        "source_ref": "1 Corinthians 12:26",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 26,
-            "source_ref": "1 Corinthians 12:26",
-            "segment_mode": "whole",
-            "sha256": "aa2014bf939ff9c43e9caf6a15c568d34dd79251f13348247960ad214f97bafb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "aa2014bf939ff9c43e9caf6a15c568d34dd79251f13348247960ad214f97bafb"
-      },
-      "27": {
-        "source_ref": "1 Corinthians 12:27",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 27,
-            "source_ref": "1 Corinthians 12:27",
-            "segment_mode": "whole",
-            "sha256": "5f27330ca0251d4a9cc132734a28c502a953566d902d9c32c1cf4d3b0bcff2ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5f27330ca0251d4a9cc132734a28c502a953566d902d9c32c1cf4d3b0bcff2ba"
-      },
-      "28": {
-        "source_ref": "1 Corinthians 12:28",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 28,
-            "source_ref": "1 Corinthians 12:28",
-            "segment_mode": "whole",
-            "sha256": "f98f9f0c2fe7f4fc400396d6172d957d51f577bedcca266c9aea3a257781c86d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f98f9f0c2fe7f4fc400396d6172d957d51f577bedcca266c9aea3a257781c86d"
-      },
-      "29": {
-        "source_ref": "1 Corinthians 12:29",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 29,
-            "source_ref": "1 Corinthians 12:29",
-            "segment_mode": "whole",
-            "sha256": "5f14ce85a8c100cff7829ade37f765be17041df58dbd95d2efddba74852d6298"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5f14ce85a8c100cff7829ade37f765be17041df58dbd95d2efddba74852d6298"
-      },
-      "30": {
-        "source_ref": "1 Corinthians 12:30",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 30,
-            "source_ref": "1 Corinthians 12:30",
-            "segment_mode": "whole",
-            "sha256": "d6e9a737da755b16313a81e777b21d54aa08450f8e82b8cb5b54851ea26a5ce5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d6e9a737da755b16313a81e777b21d54aa08450f8e82b8cb5b54851ea26a5ce5"
-      },
-      "31": {
-        "source_ref": "1 Corinthians 12:31",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 31,
-            "source_ref": "1 Corinthians 12:31",
-            "segment_mode": "whole",
-            "sha256": "06cdd703f738cb69970a589f296ed321e6118948e9b54068ee64e766cf355bbf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06cdd703f738cb69970a589f296ed321e6118948e9b54068ee64e766cf355bbf"
-      }
+    "sha256": "2a706bac29f1e34568bf6862cbc1616471511e9b915d7292adba3e93fb72c946",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Cor",
+    "book_verse_count": 437,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 31,
+    "path": "translations/fluent/NT/1corinthians/1Corinthians_12.md",
+    "before_sha256": "97b94046cff620259751946a127bfbb3f3210b224b69014168490a707f8edd13",
+    "after_sha256": "a48696ac55f8952717c4d9419c3a72d7b3293d72a4f1cc5ccd1434227d5f12f6",
+    "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_12.md",
+    "tsw_comparator_sha256": "bf2d544a408c62563880966d5941796663222db9958ace9bacbaf96e2d1d3361"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Corinthians 12:1",
+      "delta": "F3",
+      "rationale": "Uses gifts while noting the Greek's broader spiritual-things sense.",
+      "source_reference": "1Cor 12:1",
+      "source_verse_sha256": "c8e637835f660e3d9944f4bbd71bb67880bce18842ff5f8abf7861f1c07155c4",
+      "before": "Now concerning spiritual matters, brothers and sisters, I do not want you to be uninformed.",
+      "after": "Now concerning spiritual gifts, brothers and sisters, I do not want you to be uninformed.",
+      "tsw_comparator": "Now concerning spiritual matters, brothers and sisters, I do not want you to be uninformed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:2",
+      "delta": "F3",
+      "rationale": "Keeps former identity and passive misdirection.",
+      "source_reference": "1Cor 12:2",
+      "source_verse_sha256": "761db565c9e4ff6c8299ddc1530d41d36724784571be61bfcfe14e829f9f816b",
+      "before": "You know that when you were Gentiles, you were led astray to mute idols, however you were led.",
+      "after": "You know that when you were Gentiles, you were led astray to mute idols, however you were led.",
+      "tsw_comparator": "You know that when you were Gentiles, you were led astray to mute idols, however you were led.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:3",
+      "delta": "F3",
+      "rationale": "Preserves two confessions and Spirit criterion.",
+      "source_reference": "1Cor 12:3",
+      "source_verse_sha256": "1da855b3cf5b7e79f1e001ebadb6742ab0ed1957a715d6ed439a927df944ac44",
+      "before": "So I reveal to you that no one speaking in the Spirit of God says, “Jesus is accursed,” and no one can say, “Jesus is Lord,” except in the Holy Spirit.",
+      "after": "Therefore, I want you to know that no one speaking by God's Spirit says, “Jesus is accursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.",
+      "tsw_comparator": "Therefore I make known to you that no one speaking in the Spirit of God says, “Jesus is accursed,” and no one can say, “Jesus is Lord,” except in the Holy Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:7",
+      "delta": "F3",
+      "rationale": "Preserves individual gift and communal purpose.",
+      "source_reference": "1Cor 12:7",
+      "source_verse_sha256": "77bdc1f99933c38c9d980d953b0758ff5b5d60f717ba38848414b410a1a0044f",
+      "before": "To each is given the manifestation of the Spirit for the common good.",
+      "after": "A manifestation of the Spirit is given to each person for the common good.",
+      "tsw_comparator": "To each is given the manifestation of the Spirit for the common good.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.592593,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:10",
+      "delta": "F3",
+      "rationale": "Keeps the full differentiated list.",
+      "source_reference": "1Cor 12:10",
+      "source_verse_sha256": "167c6f51576e1138425b29e34a5e6e0140f7228a6e7fd1022333788f2ad55f8e",
+      "before": "to another workings of powers, to another prophecy, to another discernments of spirits, to another kinds of tongues, to another interpretation of tongues.",
+      "after": "to another workings of miracles, to another prophecy, to another discernment of spirits, to another various kinds of tongues, and to another interpretation of tongues.",
+      "tsw_comparator": "to another workings of powers, to another prophecy, to another discernments of spirits, to another kinds of tongues, to another interpretation of tongues.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:13",
+      "delta": "F3",
+      "rationale": "Retains ethnic and status pairs, including slavery.",
+      "source_reference": "1Cor 12:13",
+      "source_verse_sha256": "10582161fda2ecfe397b184e79a49360cfc13e2797e41f7d18539fb65b1dbef5",
+      "before": "For in one Spirit we were all baptized into one body—whether Jews or Greeks, whether slaves or free—and all were made to drink of one Spirit.",
+      "after": "For in one Spirit we were all baptized into one body—whether Jews or Greeks, enslaved or free—and we were all given one Spirit to drink.",
+      "tsw_comparator": "For in one Spirit we were all baptized into one body—whether Jews or Greeks, whether slaves or free—and all were made to drink of one Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.763636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:22",
+      "delta": "F3",
+      "rationale": "Keeps perceived weakness and necessity.",
+      "source_reference": "1Cor 12:22",
+      "source_verse_sha256": "01f76a279315991468c928fb7eddb674f559ef971d4b56ddaa594bfa349959f0",
+      "before": "On the contrary, the members of the body that seem to be weaker are necessary,",
+      "after": "On the contrary, the members of the body that seem weaker are indispensable,",
+      "tsw_comparator": "On the contrary, the members of the body that seem to be weaker are necessary,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:23",
+      "delta": "F3",
+      "rationale": "Preserves embodied social analogy and dignity.",
+      "source_reference": "1Cor 12:23",
+      "source_verse_sha256": "d9ba375072c37620e9cc1b2d1cac65d58017c58be25bce23f8e3ab1b98162cf6",
+      "before": "and those parts of the body that we think less honorable we bestow greater honor, and our unpresentable parts are treated with greater modesty,",
+      "after": "and those members we consider less honorable we clothe with greater honor, while our unpresentable parts are treated with greater modesty.",
+      "tsw_comparator": "and those parts of the body that we think less honorable we bestow greater honor, and our unpresentable parts are treated with greater modesty,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:24",
+      "delta": "F3",
+      "rationale": "Keeps divine rebalancing of honor.",
+      "source_reference": "1Cor 12:24",
+      "source_verse_sha256": "59f0b3418df5f8a5ccdf711901667c4fa95207ff9868e71624ae045051a43a02",
+      "before": "while our presentable parts have no need. But God has so composed the body, giving greater honor to the part that lacked it,",
+      "after": "Our presentable parts have no need of this. But God has composed the body, giving greater honor to the part that lacked it,",
+      "tsw_comparator": "while our presentable parts have no need. But God has so composed the body, giving greater honor to the part that lacked it,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.913043,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:28",
+      "delta": "F3",
+      "rationale": "Keeps order and complete ministry list.",
+      "source_reference": "1Cor 12:28",
+      "source_verse_sha256": "ebba331488a5078c7bca249f1177e12fe6009dacb93a8dbdb676a308e57542a9",
+      "before": "God has appointed in the church first apostles, second prophets, third teachers, then works of power, then gifts of healings, helps, administrations, various kinds of tongues.",
+      "after": "And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, leading, and various kinds of tongues.",
+      "tsw_comparator": "And God has appointed in the church first apostles, second prophets, third teachers, then works of power, then gifts of healings, helps, administrations, various kinds of tongues.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.792453,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 12:31",
+      "delta": "F3",
+      "rationale": "Preserves command and superlative transition.",
+      "source_reference": "1Cor 12:31",
+      "source_verse_sha256": "1ef777daad06343713d0e37a36efdfaea3b08e06253a98cf6183791b8da1754e",
+      "before": "But earnestly desire the greater gifts. And yet I show you a still more excellent way.",
+      "after": "But eagerly desire the greater gifts. And now I will show you a way beyond all comparison.",
+      "tsw_comparator": "But earnestly desire the greater gifts. And yet I show you a still more excellent way.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1corinthians/1Corinthians_12.md",
-    "blob_sha": "f0fbcb359b6e279afe58b47c594d637d6af41089"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

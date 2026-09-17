@@ -1,0 +1,7 @@
+# 2 Corinthians authoring self-reread
+
+This is a focused bilingual drafting-assistant reread, not human or independent scholarly review. All 256 exact SBLGNT records were read before authoring. The 257 established public verses were then reread with their exact Greek bindings, prior Fluent, and TSW comparators.
+
+The reread checked comfort and crushing affliction (1:3–11), Paul's denial of domination (1:24), punishment followed by forgiveness and comfort (2:5–11), the captive-triumph and aroma images (2:14–17), letter/Spirit and Moses' veil (3), clay jars and real bodily harm (4), tent/clothing/new-creation/reconciliation images (5), the servant catalogue and unequal-yoke questions (6), sorrow, repentance, justice, and the wronged person (7), voluntary generosity, equality, and financial safeguards (8–9), authority limited to building up (10), the fool's speech and complete harm catalogue with every number (11), visions, bodily uncertainty, the thorn, weakness, and accusations of exploitation (12), and examination/restoration/authority in chapter 13.
+
+SBLGNT 13:12 contains the holy-kiss sentence and the all-saints greeting in one exact record; these are partitioned across established public labels 12 and 13 by all ten Greek tokens in order. SBLGNT 13:13 is bound to public label 14. Full-record hashes remain attached to both partitions. This mapping and all names, numbers, speakers, irony, and variant markers remain structurally checked and editorially pending.

@@ -4,157 +4,59 @@ testament: NT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16
 ---
+
 
 ## Paul’s Visions and Revelations
 
 <p>
-v01: It is necessary to boast, though there is nothing to be gained. I will go on to visions and revelations of the Lord.
-
-v02: I know a man in Christ who fourteen years ago—whether in the body I do not know, or out of the body I do not know, God knows—was caught up to the third heaven.
-
-v03: I know that this man—whether in the body or apart from the body I do not know, God knows—
-
-v04: was caught up into paradise and heard inexpressible words, which it is not permitted for a person to speak.
-
-v05: On behalf of such a one I will boast, but on my own behalf I will not boast, except in weaknesses.
-
-v06: For if I should wish to boast, I would not be foolish, for I would be speaking the truth. But I refrain, so that no one may think more of me than what he sees in me or hears from me.
-
-v07: And because of the surpassing greatness of the revelations, therefore, so that I might not be exalted beyond measure, a thorn was given to me in the flesh, a messenger of Satan to strike me, so that I might not be exalted beyond measure.
-
-v08: Three times I pleaded with the Lord about this, that it should depart from me.
-
-v09: And he said to me, “My grace is sufficient for you, for power is brought to completion in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest upon me.
-
-v10: So I am content with weaknesses, with insults, with hardships, with persecutions, and with distresses, for the sake of Christ. For when I am weak, then I am strong.
+v01: I must boast. It is not beneficial, but I will go on to visions and revelations from the Lord.
+v02: I know a man in Christ who fourteen years ago was caught up to the third heaven—whether in the body I do not know, or outside the body I do not know; God knows.
+v03: And I know that this man—whether in the body or apart from the body I do not know; God knows—
+v04: was caught up into paradise and heard inexpressible words that a human is not permitted to speak.
+v05: I will boast about such a person, but I will not boast about myself except in my weaknesses.
+v06: For if I wanted to boast, I would not be a fool, because I would be speaking truth. But I refrain, so that no one will credit me with more than what is seen in me or heard from me,
+v07: even because of the extraordinary revelations. Therefore, so that I would not become conceited, a thorn was given to me in the flesh, a messenger of Satan to strike me, so that I would not become conceited.
+v08: Three times I pleaded with the Lord about this, that it would leave me.
+v09: But he said to me, “My grace is enough for you, for power is brought to completion in weakness.” Therefore I will most gladly boast all the more in my weaknesses, so that Christ's power may dwell over me.
+v10: Therefore I take pleasure in weaknesses, insults, hardships, persecutions, and distress for Christ, for whenever I am weak, then I am strong.
 </p>
 
 ## Concern for the Corinthians
 
 <p>
-v11: I have become foolish—you compelled me. For I ought to have been commended by you. For I was in no way inferior to the super-apostles, even if I am nothing.
-
-v12: The signs of an apostle were performed among you with all endurance, with signs and wonders and works of power.
-
-v13: For in what were you treated as inferior to the other churches, except that I myself did not burden you? Forgive me this wrong.
-
-v14: Here for the third time I am ready to come to you. And I will not be a burden, for I seek not what is yours but you. For children ought not to store up for the parents, but parents for the children.
-
-v15: I will most gladly spend and be spent for your souls. If I love you more, am I to be loved less?
-
-v16: But be that as it may, I did not burden you. Yet, being crafty, I caught you by deceit.
-
-v17: Did I take advantage of you through any of those whom I sent to you?
-
-v18: I urged Titus to go, and I sent the brother with him. Did Titus take advantage of you? Did we not walk in the same spirit? Did we not walk in the same steps?
+v11: I have become a fool; you forced me to it. For I ought to have been recommended by you, because I was in no way inferior to the “super-apostles,” even though I am nothing.
+v12: The signs of an apostle were performed among you with all endurance, by signs, wonders, and miracles.
+v13: In what way were you treated as less than the other churches, except that I myself did not burden you? Forgive me this wrong!
+v14: Look, I am ready to come to you this third time, and I will not burden you, because I seek not what you own, but you. For children should not save up for their parents, but parents for their children.
+v15: I will most gladly spend and be spent for your lives. If I love you more, am I to be loved less?
+v16: But let it be so: I did not burden you. Yet, being crafty, did I catch you by deceit?
+v17: Did I exploit you through any of those I sent to you?
+v18: I urged Titus to go and sent the brother with him. Did Titus exploit you? Did we not walk in the same spirit and in the same footsteps?
 </p>
 
 ## Final Warnings
 
 <p>
-v19: Have you been thinking all along that we are defending ourselves to you? It is before God that we speak in Christ, and all for your building up, beloved.
-
-v20: For I fear that perhaps when I come I may find you not as I wish, and that you may find me not as you wish—that perhaps there may be quarreling, jealousy, anger, rivalries, slander, gossip, conceit, disorder.
-
-v21: I fear that when I come again my God may humble me before you, and I may mourn over many of people who have sinned before and have not repented of the impurity and sexual immorality and sensuality that they have practiced.
+v19: Have you been thinking all along that we are defending ourselves to you? We speak before God in Christ, and everything, beloved, is for building you up.
+v20: For I fear that when I come, I may not find you as I wish, and you may not find me as you wish—that there may be strife, jealousy, fits of anger, selfish ambition, slander, gossip, conceit, and disorder.
+v21: I fear that when I come again, my God may humble me before you and I may mourn over many who sinned earlier and have not repented of the impurity, sexual immorality, and debauchery they practiced.
 </p>
 
 ## Notes
 
-v01: “Necessary to boast” frames the section with tension. Paul continues a mode he has already undermined.
+v02–4: Paul twice says he does not know whether the experience was in or outside the body; the translation preserves that uncertainty.
 
-v02–04: The account is distanced (“a man in Christ”), preserving both truth and restraint. Experience is affirmed without full explanation.
+v07: The thorn, its relation to the revelations, and the messenger of Satan are not identified more precisely than the Greek.
 
-v02–03: The repeated uncertainty (“whether in the body…God knows”) preserves ambiguity rather than resolving it.
-
-v04: “Inexpressible words” are heard but not transmitted. Revelation is limited in its communicability.
-
-v05–06: Boasting is redirected. Truth is not denied, but its use is constrained.
-
-v07: The “thorn” is unnamed. Its function (preventing exaltation) is emphasized over its identity.
-
-v07: Repetition (“so that I might not be exalted beyond measure”) underscores purpose.
-
-v08–09: Prayer is answered not by removal but by reinterpretation. Grace reframes weakness.
-
-v09: “Power is brought to completion in weakness” inverts expected associations between strength and success.
-
-v10: Weakness becomes the condition for participation in Christ’s power.
-
-v11: Paul names the irony of his position. The Corinthians’ failure to commend him forces his self-defense.
-
-v12: Apostolic authenticity is grounded in endurance as well as signs.
-
-v13: “Forgive me this wrong” is ironic, exposing their distorted expectations.
-
-v14–15: Parental imagery frames Paul’s relationship to the community. Giving is directed toward persons, not possessions.
-
-v16: The charge of deceit is acknowledged rhetorically without being affirmed.
-
-v17–18: Appeal is made to consistency of conduct among Paul and his co-workers.
-
-v19: Defense is reframed as speech before God, oriented toward the community’s building up.
-
-v20–21: Anticipation of conflict and sin shapes Paul’s concern. The list of vices is communal, not merely individual.
-
-v21: Mourning replaces triumph. Failure to repent remains unresolved at the chapter’s end.
+v09: Christ's power ‘dwells over’ Paul with a verb related to pitching a tent, linking weakness with protective presence.
 
 ## Vocabulary
 
-v01: ὀπτασία (optasia)
-“Vision.” A supernatural sight or appearance.
+v04: **παράδεισος (paradeisos)**: Paradise, a garden-like dwelling with God.
 
-v01: ἀποκάλυψις (apokalypsis)
-“Revelation.” Disclosure of what is hidden.
-
-v02: ἁρπάζω (harpazō)
-“To be caught up.” Sudden or forceful taking.
-
-v02: τρίτος οὐρανός (tritos ouranos)
-“Third heaven.” A layered conception of heaven.
-
-v04: παράδεισος (paradeisos)
-“Paradise.” A place of divine presence or blessedness.
-
-v05: καυχάομαι (kauchaomai)
-“To boast.” To speak with confidence or pride.
-
-v07: σκόλοψ (skolops)
-“Thorn.” A sharp object causing ongoing distress.
-
-v07: ἄγγελος Σατανᾶ (angelos Satana)
-“Messenger of Satan.” An agent of affliction.
-
-v08: παρακαλέω (parakaleō)
-“To plead” or “to appeal.”
-
-v09: χάρις (charis)
-“Grace.” Unmerited favor or sustaining gift.
-
-v09: δύναμις (dynamis)
-“Power.” Often divine effectiveness.
-
-v09: τελέω (teleō)
-“To bring to completion.” To reach intended end.
-
-v10: ἀσθένεια (astheneia)
-“Weakness.” Lack of strength, often physical or social.
-
-v12: σημεῖον (sēmeion)
-“Sign.” An act pointing beyond itself.
-
-v15: δαπανάω (dapanaō)
-“To spend.” To expend resources.
-
-v15: δαπανάομαι (dapanaomai)
-“To be spent.” Passive or reflexive form emphasizing self-giving.
-
-v19: οἰκοδομή (oikodomē)
-“Building up.” Edification of the community.
-
-v20: ζῆλος (zēlos)
-“Jealousy.” Intense desire that can lead to conflict.
-
-v21: μετάνοια (metanoia)
-“Repentance.” A change of mind and direction.
+v07: **σκόλοψ (skolops)**: Thorn, stake, or sharp splinter.

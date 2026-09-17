@@ -1,357 +1,213 @@
 {
-  "book": "2 Corinthians",
+  "book": "2Corinthians",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/2corinthians/2Corinthians_05_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Cor.txt",
-    "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "5:14-21",
-      "decision": "Keep reconciliation grounded in God's action in Christ and preserve the compressed force of 5:21.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Cor.txt",
     "git_blob_sha": "9fa2dfdaf9736f102f4377084c6176cc92ff7e89",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Corinthians 5:1",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 1,
-            "source_ref": "2 Corinthians 5:1",
-            "segment_mode": "whole",
-            "sha256": "5de5f60f61bc143a623faab891cf6e677b25c5f0d89cd1c07268c81f3b4e2360"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5de5f60f61bc143a623faab891cf6e677b25c5f0d89cd1c07268c81f3b4e2360"
-      },
-      "2": {
-        "source_ref": "2 Corinthians 5:2",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 2,
-            "source_ref": "2 Corinthians 5:2",
-            "segment_mode": "whole",
-            "sha256": "b3541c151bf2e9247b2bcacf7c6acd71fac17fab41f098b53871280efaa92e62"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b3541c151bf2e9247b2bcacf7c6acd71fac17fab41f098b53871280efaa92e62"
-      },
-      "3": {
-        "source_ref": "2 Corinthians 5:3",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 3,
-            "source_ref": "2 Corinthians 5:3",
-            "segment_mode": "whole",
-            "sha256": "a3a11714b377b4daa1367b98cb98ec711141b8e7987ab57f2e1d49b9edae5770"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a3a11714b377b4daa1367b98cb98ec711141b8e7987ab57f2e1d49b9edae5770"
-      },
-      "4": {
-        "source_ref": "2 Corinthians 5:4",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 4,
-            "source_ref": "2 Corinthians 5:4",
-            "segment_mode": "whole",
-            "sha256": "631c989e73a5e82df4916e24a9971e6b75e51b72413f180edbb82490b9c3746e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "631c989e73a5e82df4916e24a9971e6b75e51b72413f180edbb82490b9c3746e"
-      },
-      "5": {
-        "source_ref": "2 Corinthians 5:5",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 5,
-            "source_ref": "2 Corinthians 5:5",
-            "segment_mode": "whole",
-            "sha256": "ad3c47230a7efad396c04008d80f08ba68c28407c885f0f762ee36f277169700"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ad3c47230a7efad396c04008d80f08ba68c28407c885f0f762ee36f277169700"
-      },
-      "6": {
-        "source_ref": "2 Corinthians 5:6",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 6,
-            "source_ref": "2 Corinthians 5:6",
-            "segment_mode": "whole",
-            "sha256": "1927302b5d18e97f6c26f636792109617b34fd8beb956aa3a4d5f20aaab106e4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1927302b5d18e97f6c26f636792109617b34fd8beb956aa3a4d5f20aaab106e4"
-      },
-      "7": {
-        "source_ref": "2 Corinthians 5:7",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 7,
-            "source_ref": "2 Corinthians 5:7",
-            "segment_mode": "whole",
-            "sha256": "a641cf52fa4a703f61fb301a98d8dd1f3aaa2b54fbd357fa1c45818f7e880e56"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a641cf52fa4a703f61fb301a98d8dd1f3aaa2b54fbd357fa1c45818f7e880e56"
-      },
-      "8": {
-        "source_ref": "2 Corinthians 5:8",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 8,
-            "source_ref": "2 Corinthians 5:8",
-            "segment_mode": "whole",
-            "sha256": "17e43ee7f3ebcf3c3aa4074216163dc951884fa9934369e4662b95ca4303f8c8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "17e43ee7f3ebcf3c3aa4074216163dc951884fa9934369e4662b95ca4303f8c8"
-      },
-      "9": {
-        "source_ref": "2 Corinthians 5:9",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 9,
-            "source_ref": "2 Corinthians 5:9",
-            "segment_mode": "whole",
-            "sha256": "32b90a64ef215e7a4e014cca4cca9f75faef9766088953f007eaf0708e63f92d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "32b90a64ef215e7a4e014cca4cca9f75faef9766088953f007eaf0708e63f92d"
-      },
-      "10": {
-        "source_ref": "2 Corinthians 5:10",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 10,
-            "source_ref": "2 Corinthians 5:10",
-            "segment_mode": "whole",
-            "sha256": "a296dc9384ad0c40b846b653895f1ec87900120c9316c2a678e4421fc297b351"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a296dc9384ad0c40b846b653895f1ec87900120c9316c2a678e4421fc297b351"
-      },
-      "11": {
-        "source_ref": "2 Corinthians 5:11",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 11,
-            "source_ref": "2 Corinthians 5:11",
-            "segment_mode": "whole",
-            "sha256": "3c63836c245720121e375be8ed5fe020f0ad2abe59b0a3f718359d98648e37f4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3c63836c245720121e375be8ed5fe020f0ad2abe59b0a3f718359d98648e37f4"
-      },
-      "12": {
-        "source_ref": "2 Corinthians 5:12",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 12,
-            "source_ref": "2 Corinthians 5:12",
-            "segment_mode": "whole",
-            "sha256": "cab6324e5c8fa3e406bb124406169d7f73540805b1049eeaab656e693b7c8494"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cab6324e5c8fa3e406bb124406169d7f73540805b1049eeaab656e693b7c8494"
-      },
-      "13": {
-        "source_ref": "2 Corinthians 5:13",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 13,
-            "source_ref": "2 Corinthians 5:13",
-            "segment_mode": "whole",
-            "sha256": "a377be5c95d8b692cb222d5bd0a4fdc6e600dac3cc2c991b1879cc430f61e106"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a377be5c95d8b692cb222d5bd0a4fdc6e600dac3cc2c991b1879cc430f61e106"
-      },
-      "14": {
-        "source_ref": "2 Corinthians 5:14",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 14,
-            "source_ref": "2 Corinthians 5:14",
-            "segment_mode": "whole",
-            "sha256": "7747916f97b683858fb55486c36636ba7e36ddb14a74ffc4efd3795dd8d33dc7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7747916f97b683858fb55486c36636ba7e36ddb14a74ffc4efd3795dd8d33dc7"
-      },
-      "15": {
-        "source_ref": "2 Corinthians 5:15",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 15,
-            "source_ref": "2 Corinthians 5:15",
-            "segment_mode": "whole",
-            "sha256": "9d5e72057803a2d9ee55d78358e8ded189d30c393a91d13dc67f8ab259203601"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9d5e72057803a2d9ee55d78358e8ded189d30c393a91d13dc67f8ab259203601"
-      },
-      "16": {
-        "source_ref": "2 Corinthians 5:16",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 16,
-            "source_ref": "2 Corinthians 5:16",
-            "segment_mode": "whole",
-            "sha256": "06ff2b3c48c5432495b46f12dcb851ef7324e4ae934efb7f9c2e58a68429d218"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06ff2b3c48c5432495b46f12dcb851ef7324e4ae934efb7f9c2e58a68429d218"
-      },
-      "17": {
-        "source_ref": "2 Corinthians 5:17",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 17,
-            "source_ref": "2 Corinthians 5:17",
-            "segment_mode": "whole",
-            "sha256": "4d15108cdb2dbcd6dfc67707dd45193734f63dc76f1eed8330bc18f36a820c51"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4d15108cdb2dbcd6dfc67707dd45193734f63dc76f1eed8330bc18f36a820c51"
-      },
-      "18": {
-        "source_ref": "2 Corinthians 5:18",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 18,
-            "source_ref": "2 Corinthians 5:18",
-            "segment_mode": "whole",
-            "sha256": "b6d621bca743cdbd7654d16217649ca183288128b123cdb6ef852d56098ae077"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b6d621bca743cdbd7654d16217649ca183288128b123cdb6ef852d56098ae077"
-      },
-      "19": {
-        "source_ref": "2 Corinthians 5:19",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 19,
-            "source_ref": "2 Corinthians 5:19",
-            "segment_mode": "whole",
-            "sha256": "6ef0f8b629f927f5b941ef39c798acb601efbccd7bdeed43b8d18e21060df9c4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6ef0f8b629f927f5b941ef39c798acb601efbccd7bdeed43b8d18e21060df9c4"
-      },
-      "20": {
-        "source_ref": "2 Corinthians 5:20",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 20,
-            "source_ref": "2 Corinthians 5:20",
-            "segment_mode": "whole",
-            "sha256": "cd09f998ba57bc2f9ee4c26e7103441eaa8218da78a987a86d95bbb1b5940fb1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cd09f998ba57bc2f9ee4c26e7103441eaa8218da78a987a86d95bbb1b5940fb1"
-      },
-      "21": {
-        "source_ref": "2 Corinthians 5:21",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 21,
-            "source_ref": "2 Corinthians 5:21",
-            "segment_mode": "whole",
-            "sha256": "c5e6fd0a8d1f6c0e8fa4c9aada83c4e86f0d3ee729983fac4ab7222f20f06231"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c5e6fd0a8d1f6c0e8fa4c9aada83c4e86f0d3ee729983fac4ab7222f20f06231"
-      }
+    "sha256": "af6a60d5f851762c7ee22be6f15975e706a55cf24bd0b890d6ee9ab2ad74bd18",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Cor",
+    "book_verse_count": 256,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/2corinthians/2Corinthians_05.md",
+    "before_sha256": "b6200d96307ce288d7e45325b96df55479d10946ef17f5b95e5c29c4fc13b73c",
+    "after_sha256": "fb09637f5424ce68326aa19dfd0e387a3c4dd2a437a7325ce249a6d7b2ba99c8",
+    "tsw_comparator_path": "books/NT/2corinthians/2Corinthians_05.md",
+    "tsw_comparator_sha256": "513f59efefd51d180786721363f7c9ae737822d60939929ee8ae1d7a4922a77a"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2corinthians-1-13/2corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Corinthians 5:1",
+      "delta": "F3",
+      "rationale": "Keeps tent/building contrast and divine origin.",
+      "source_reference": "2Cor 5:1",
+      "source_verse_sha256": "90c57cc5aa3343f7f8d335181524f983ac6a8ab5485a21b0fabdcae521bd9013",
+      "before": "For we know that if the earthly tent we live in is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.",
+      "after": "For we know that if our earthly tent-house is dismantled, we have a building from God, an eternal house in the heavens, not made by human hands.",
+      "tsw_comparator": "For we know that if the earthly tent we live in is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:3",
+      "delta": "F3",
+      "rationale": "Keeps the marked source uncertainty and nakedness contrast.",
+      "source_reference": "2Cor 5:3",
+      "source_verse_sha256": "bb00263d37084927750ccc8e9bfa778fc94d73c6da007dd0c863376fa462b449",
+      "before": "if indeed, when we have been clothed, we will not be found naked.",
+      "after": "if indeed, once clothed, we will not be found naked.",
+      "tsw_comparator": "if indeed, when we have been clothed, we will not be found naked.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:4",
+      "delta": "F3",
+      "rationale": "Retains burden, clothing sequence, and swallowed-up image.",
+      "source_reference": "2Cor 5:4",
+      "source_verse_sha256": "ebaeeaf5a3e9defa9af100980d1e5864406b159aa1a641a07010f958ff59578b",
+      "before": "For while we are in this tent, we groan, being burdened—not because we want to be unclothed, but further clothed, so that what is mortal may be swallowed up by life.",
+      "after": "For while we are in this tent, we groan under a burden, because we do not want to be unclothed but further clothed, so that what is mortal may be swallowed up by life.",
+      "tsw_comparator": "For while we are in this tent, we groan, being burdened—not because we want to be unclothed, but further clothed, so that what is mortal may be swallowed up by life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878788,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:6",
+      "delta": "F3",
+      "rationale": "Preserves home/away wordplay and bodily location.",
+      "source_reference": "2Cor 5:6",
+      "source_verse_sha256": "4ed652658f05380f67649c56fad765c9e41c85d35bd81c190444966530aa35de",
+      "before": "So we are always confident, even though we know that while we are at home in the body we are away from the Lord—",
+      "after": "So we are always confident, knowing that while we are at home in the body, we are away from the Lord,",
+      "tsw_comparator": "Therefore we are always confident, even though we know that while we are at home in the body we are away from the Lord—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:7",
+      "delta": "F3",
+      "rationale": "Keeps the concise governing contrast.",
+      "source_reference": "2Cor 5:7",
+      "source_verse_sha256": "50ba8457483c5fe1189a00412d39264c4d89a08f0a9d3eeb413b0617c2fc611e",
+      "before": "for we walk by trust, not by sight.",
+      "after": "for we walk by faith, not by sight.",
+      "tsw_comparator": "for we walk by faith, not by sight.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:10",
+      "delta": "F3",
+      "rationale": "Preserves universal appearance, bodily deeds, and moral alternatives.",
+      "source_reference": "2Cor 5:10",
+      "source_verse_sha256": "d6cf83cae189b70a088f53d71c13e459e10d4489a83a03d3878abc2a115ac64e",
+      "before": "For we must all appear before the judgment seat of Christ, so that each may receive what is due for what has been done in the body, whether good or bad.",
+      "after": "For all of us must appear before Christ's judgment seat, so that each may receive what is due for what was done through the body, whether good or worthless.",
+      "tsw_comparator": "For we must all appear before the judgment seat of Christ, so that each may receive what is due for what has been done in the body, whether good or bad.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:14",
+      "delta": "F3",
+      "rationale": "Preserves the force of love and compact representative logic.",
+      "source_reference": "2Cor 5:14",
+      "source_verse_sha256": "e3836d3cd0805d5003caaf6fbebf90456eec81b99f9ace93bfdedf615a34a774",
+      "before": "For the love of Christ compels us, because we have concluded this: one has died for all; therefore all have died.",
+      "after": "For Christ's love compels us, because we have concluded this: one died for all; therefore all died.",
+      "tsw_comparator": "For the love of Christ compels us, because we have concluded this: one has died for all; therefore all have died.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:16",
+      "delta": "F3",
+      "rationale": "Retains repeated regard and chronological change.",
+      "source_reference": "2Cor 5:16",
+      "source_verse_sha256": "f0c2274525a721946defea96c809426110a78d87cecf8f122e93913f8c6b3025",
+      "before": "From now on, therefore, we regard no one according to the flesh; even though we once regarded Christ according to the flesh, we regard him thus no longer.",
+      "after": "So from now on we regard no one according to the flesh. Even if we once regarded Christ according to the flesh, we no longer regard him that way.",
+      "tsw_comparator": "From now on, therefore, we regard no one according to the flesh; even though we once regarded Christ according to the flesh, we regard him thus no longer.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807018,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:17",
+      "delta": "F3",
+      "rationale": "Keeps the verbless exclamation and creation contrast.",
+      "source_reference": "2Cor 5:17",
+      "source_verse_sha256": "9465ee3f477638da9521b61a1b6b7f1a5a99f9001a91ca57ed5d780274c60227",
+      "before": "So if someone is in Christ, there is a new creation: the old has passed away; look, the new has come.",
+      "after": "Therefore, if anyone is in Christ—new creation! The old things have passed away; look, new things have come.",
+      "tsw_comparator": "So if anyone is in Christ, there is a new creation: the old has passed away; behold, the new has come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:19",
+      "delta": "F3",
+      "rationale": "Keeps world scope, non-counting, and deposited message.",
+      "source_reference": "2Cor 5:19",
+      "source_verse_sha256": "955c5a29fba2f2a90e2145e85d22f018cbc1851c60afba0bf03e1b0356392042",
+      "before": "namely, that God was in Christ reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.",
+      "after": "That is, in Christ God was reconciling the world to himself, not counting their trespasses against them, and he entrusted the message of reconciliation to us.",
+      "tsw_comparator": "namely, that God was in Christ reconciling the world to himself, not counting their trespasses against them, and entrusting to us the message of reconciliation.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:20",
+      "delta": "F3",
+      "rationale": "Preserves representative office and direct appeal.",
+      "source_reference": "2Cor 5:20",
+      "source_verse_sha256": "163adfd11d5e64b870d86e4ab947aceb36b845f45ea85e028dd4ad63d9b2f047",
+      "before": "So we are ambassadors for Christ, since God is making an appeal through us; we implore you on behalf of Christ: be reconciled to God.",
+      "after": "Therefore we are ambassadors for Christ, as though God were making his appeal through us. We plead on Christ's behalf: be reconciled to God.",
+      "tsw_comparator": "Therefore we are ambassadors for Christ, since God is making an appeal through us; we implore you on behalf of Christ: be reconciled to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.734694,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Corinthians 5:21",
+      "delta": "F3",
+      "rationale": "Keeps the severe sin/righteousness exchange without explanatory expansion.",
+      "source_reference": "2Cor 5:21",
+      "source_verse_sha256": "06824c781f78ef779f5e594ca028cf4d8c5b4f52f454a0828486950e814b80a8",
+      "before": "The one who knew no sin, God made to be sin for us, so that in him we might become the righteousness of God.",
+      "after": "God made the one who knew no sin to be sin for us, so that in him we might become God's righteousness.",
+      "tsw_comparator": "The one who knew no sin, God made to be sin for us, so that in him we might become the righteousness of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2corinthians/2Corinthians_05.md",
-    "blob_sha": "b42f39a888e6157692524c02f748ed7ae7c60db0"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

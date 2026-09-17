@@ -2,146 +2,244 @@
   "book": "Galatians",
   "chapter": 6,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 18,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-galatians-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/galatians/Galatians_06_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Gal.txt",
     "git_blob_sha": "f0ccf0cd88061ba2df09f88c8cc6da9101d92aa6",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Galatians 6:1",
-        "source_chapter": 6,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "c83108874a902606a522dcaca48847c31f32a4c8778dea99fbef4c57e3dd846f"
-      },
-      "2": {
-        "source_ref": "Galatians 6:2",
-        "source_chapter": 6,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "cdd3e1bf8bd9c16b67ec5d309f07c1a35737be3a5304ab45a0a1c641adb97b13"
-      },
-      "3": {
-        "source_ref": "Galatians 6:3",
-        "source_chapter": 6,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "bf3276dd86441170657f3e085856c882f8b21dcafc367a8f52bf80ff6c4f639c"
-      },
-      "4": {
-        "source_ref": "Galatians 6:4",
-        "source_chapter": 6,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "0758bd16f6ab3ad93fdc6e046d8112e212bd69345afdeb3d8b7605dfbde7e7fa"
-      },
-      "5": {
-        "source_ref": "Galatians 6:5",
-        "source_chapter": 6,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "1f8d810aa1ef816a183b530c3db1f91a44dfe53ccf9c70ab7d263b0b4b0373a5"
-      },
-      "6": {
-        "source_ref": "Galatians 6:6",
-        "source_chapter": 6,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "2e41dadc19feeb1ef15e82ff8a5929139f62518066ec319e9c2176847907af64"
-      },
-      "7": {
-        "source_ref": "Galatians 6:7",
-        "source_chapter": 6,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "bf35e753ab05837dc1a24f5237e4314dc2079a8d6b9410e254a29b7620d3a1fa"
-      },
-      "8": {
-        "source_ref": "Galatians 6:8",
-        "source_chapter": 6,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3ff0d52713419be3eabc0ce1ab67a9c8a7cacc3a4fcd6dd9aa8ecb79e7a52e7f"
-      },
-      "9": {
-        "source_ref": "Galatians 6:9",
-        "source_chapter": 6,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "aea6d9754bafa4d770fd633545c57c583308c835f95f2d79f82bb9bb6beffae9"
-      },
-      "10": {
-        "source_ref": "Galatians 6:10",
-        "source_chapter": 6,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "a45dbd728c27f0174e76e9dbe860352ae8e8235ccb24f9e1a4b303f0183b2898"
-      },
-      "11": {
-        "source_ref": "Galatians 6:11",
-        "source_chapter": 6,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "c7947d3c58d880b15569502376315db242ba6a3dd9ed2a5078e1cc3696beeabc"
-      },
-      "12": {
-        "source_ref": "Galatians 6:12",
-        "source_chapter": 6,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "c9b72a8462080f2829e07da66092913475ba9a764f1d0802d5171a656027f5c4"
-      },
-      "13": {
-        "source_ref": "Galatians 6:13",
-        "source_chapter": 6,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "a20bfb4055e5cfd55f7e5748232880d868613d2e1b3ddae1ed71f909cc762bb7"
-      },
-      "14": {
-        "source_ref": "Galatians 6:14",
-        "source_chapter": 6,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "db3bea1a6269f1707610672dae05e7ade051a19d4675928351e3055a3c20de05"
-      },
-      "15": {
-        "source_ref": "Galatians 6:15",
-        "source_chapter": 6,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "07a0e07b27e8fbed020cd4883f1feb593d4cd7452d687ba15380a79e42392507"
-      },
-      "16": {
-        "source_ref": "Galatians 6:16",
-        "source_chapter": 6,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "e52e6f2630dfbf86c8ed248f391627856b27bbe52d80d4b2eebd99f3946def8b"
-      },
-      "17": {
-        "source_ref": "Galatians 6:17",
-        "source_chapter": 6,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "51def0302186b3a3365f96b05f7633d42f60e8f50e2d5247d559ec1244b55630"
-      },
-      "18": {
-        "source_ref": "Galatians 6:18",
-        "source_chapter": 6,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "7b79cb9caf4511dccaafef32ef480005f86010a9862fa6c1b55e60dd955b9ef6"
-      }
+    "sha256": "cea30996850efb7a24d5be03d5d1ea052f2200e292f8bdd190c57298bd8c2fb1",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Gal.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Gal",
+    "book_verse_count": 149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 6,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/galatians/Galatians_06.md",
+    "before_sha256": "b684bbf9071b6ceb48e02fcf73ca6c4c0795ca2c4857830bb4be40ff39601b79",
+    "after_sha256": "6f45df79ba38cddaa97d1dd6605fde5e86730cf409c7e51d17c98d5295161666",
+    "tsw_comparator_path": "books/NT/galatians/Galatians_06.md",
+    "tsw_comparator_sha256": "bdd6747667b4554888718efb736a0ebab5a699103337fd7612bf90a0eda1c589"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-galatians-1-6/galatians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Galatians 6:1",
+      "delta": "F3",
+      "rationale": "Keeps restoration, gentleness, and self-scrutiny.",
+      "source_reference": "Gal 6:1",
+      "source_verse_sha256": "fd3ae371e999d4c85fd9515145e10d469a0f55d9ccb036c46f2c3751a881d810",
+      "before": "Brothers and sisters, even if someone is caught in some wrongdoing, you who are spiritual should restore that person in a spirit of gentleness, watching yourself so that you too are not tested.",
+      "after": "Brothers and sisters, even if someone is caught in some trespass, you who are spiritual should restore that person in a spirit of gentleness, watching yourself so that you too are not tempted.",
+      "tsw_comparator": "Brothers and sisters, even if a person is caught in some transgression, you who are spiritual should restore such a one in a spirit of gentleness, watching yourself, lest you also be tempted.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:2",
+      "delta": "F3",
+      "rationale": "Preserves mutual burden-bearing and fulfillment.",
+      "source_reference": "Gal 6:2",
+      "source_verse_sha256": "2ee0356788ea95e7706ff172a03486e78e83292bd0614b9af6308229991f11f3",
+      "before": "Carry one another’s burdens, and in this way fulfill the law of Christ.",
+      "after": "Carry one another's burdens, and in this way you will fulfill the law of Christ.",
+      "tsw_comparator": "Bear one another’s burdens, and in this way you will fulfill the law of Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:3",
+      "delta": "F3",
+      "rationale": "Keeps inflated self-assessment and self-deception.",
+      "source_reference": "Gal 6:3",
+      "source_verse_sha256": "2f7c86064f766ed0024926c2d852b907d15e83b9773ffeea38e7dfd5a953636a",
+      "before": "For if anyone thinks they are something when they are nothing, they deceive themselves.",
+      "after": "For if anyone thinks he is something when he is nothing, he deceives himself.",
+      "tsw_comparator": "For if anyone thinks he is something, when he is nothing, he deceives himself.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:4",
+      "delta": "F3",
+      "rationale": "Preserves self-examination and noncomparative boasting.",
+      "source_reference": "Gal 6:4",
+      "source_verse_sha256": "90850d39253a38a00325026eba6ff15f68444ac736ec1ee29289d38555532f0b",
+      "before": "Each person should test their own work, and then they will have reason for satisfaction in themselves alone and not in comparison with someone else.",
+      "after": "But each person should test their own work, and then the reason for boasting will concern themselves alone and not the other person,",
+      "tsw_comparator": "But let each one examine his own work, and then he will have reason for boasting in himself alone and not in another;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.521739,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:5",
+      "delta": "F3",
+      "rationale": "Keeps personal responsibility alongside shared burdens.",
+      "source_reference": "Gal 6:5",
+      "source_verse_sha256": "a9b4eda1835d3947d670d983f64c4a45c7b849b1f8b6f2bddbb79591a05ea7af",
+      "before": "For each person will carry their own load.",
+      "after": "for each person will carry their own load.",
+      "tsw_comparator": "for each will bear his own load.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:6",
+      "delta": "F3",
+      "rationale": "Preserves material/general sharing and reciprocal roles.",
+      "source_reference": "Gal 6:6",
+      "source_verse_sha256": "a7403d6fd4b1af6979937c366f26f516beba9b1b3529acf4f70dee2dc4d4233f",
+      "before": "The one who is taught the word should share all good things with the one who teaches.",
+      "after": "The one being taught the word should share every good thing with the one who teaches.",
+      "tsw_comparator": "Let the one who is taught the word share all good things with the one who teaches.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:7",
+      "delta": "F3",
+      "rationale": "Keeps warning and sow/reap correspondence.",
+      "source_reference": "Gal 6:7",
+      "source_verse_sha256": "c834a50de73ec46ebf45c90c69cb3fb56e618307475b4e8f8765944a4e156048",
+      "before": "Do not be deceived: God is not mocked. Whatever a person sows, that is what they will reap.",
+      "after": "Do not be deceived: God is not mocked. For whatever a person sows, that is also what the person will reap.",
+      "tsw_comparator": "Do not be deceived: God is not mocked, for whatever a person sows, this he will also reap.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:8",
+      "delta": "F3",
+      "rationale": "Preserves agents, sources, and contrasting harvests.",
+      "source_reference": "Gal 6:8",
+      "source_verse_sha256": "c0933eb6557fddd0a86c539bf9ee97b36dc65a6849bf418962d012177bd5460f",
+      "before": "The one who sows to their own flesh will reap decay from the flesh, but the one who sows to the Spirit will reap eternal life from the Spirit.",
+      "after": "The one who sows for their own flesh will reap decay from the flesh, but the one who sows for the Spirit will reap eternal life from the Spirit.",
+      "tsw_comparator": "For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711864,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:11",
+      "delta": "F3",
+      "rationale": "Keeps visual size and personal handwriting.",
+      "source_reference": "Gal 6:11",
+      "source_verse_sha256": "4dabb7f683cecf01874a3a71dddfd8f4fbd116abfaf436f8980c8b03eb422640",
+      "before": "See what large letters I am writing to you with my own hand!",
+      "after": "See what large letters I write to you with my own hand!",
+      "tsw_comparator": "See with what large letters I am writing to you with my own hand.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:12",
+      "delta": "F3",
+      "rationale": "Preserves bodily display, coercion, and motive.",
+      "source_reference": "Gal 6:12",
+      "source_verse_sha256": "d0920f8172f5a2e732d102443023aeab4340f175af9bd505c8e0a5b954642053",
+      "before": "Those who want to make a good showing in the flesh are the ones trying to compel you to be circumcised, only so they will not be persecuted for Christ’s cross.",
+      "after": "Those who want to make a good showing in the flesh are the ones compelling you to be circumcised, only so that they will not be persecuted for Christ's cross.",
+      "tsw_comparator": "It is those who want to make a good showing in the flesh who compel you to be circumcised, and only so that they may not be persecuted for the cross of Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:13",
+      "delta": "F3",
+      "rationale": "Keeps hypocrisy and bodily boasting.",
+      "source_reference": "Gal 6:13",
+      "source_verse_sha256": "a810b71b9a298b0d104407cfe082cd2927967f2eda9f841a8da786ec6dc44f71",
+      "before": "For even those who are circumcised do not themselves keep the Law, but they want you to be circumcised so they can boast in your flesh.",
+      "after": "For even those who are circumcised do not themselves keep the law, but they want you to be circumcised so that they may boast in your flesh.",
+      "tsw_comparator": "For even those who are circumcised do not themselves keep the law, but they want you to be circumcised so that they may boast in your flesh.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:14",
+      "delta": "F3",
+      "rationale": "Preserves reciprocal crucifixion and sole boast.",
+      "source_reference": "Gal 6:14",
+      "source_verse_sha256": "6caf40a865a233ee4dc9702c21743fac42e9ec683b3b8ebf7a426e11877e476b",
+      "before": "But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me and I to the world.",
+      "after": "But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me and I to the world.",
+      "tsw_comparator": "But far be it from me to boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.847458,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:15",
+      "delta": "F3",
+      "rationale": "Keeps bodily statuses and terse creation alternative.",
+      "source_reference": "Gal 6:15",
+      "source_verse_sha256": "ab73f61b1fb976d307874b056b4768e6874cc594f23b40241b80f6da22586983",
+      "before": "For neither circumcision nor uncircumcision is anything; what matters is a new creation.",
+      "after": "For neither circumcision nor uncircumcision is anything, but new creation is.",
+      "tsw_comparator": "For neither circumcision nor uncircumcision is anything, but a new creation.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:16",
+      "delta": "F3",
+      "rationale": "Preserves the conjunction and distinct but debated referent.",
+      "source_reference": "Gal 6:16",
+      "source_verse_sha256": "1ed978b1b71b45fec8c8e39dd8f8da21be2dc63423d66daec4daf826b0d7bd13",
+      "before": "Peace and mercy upon all who walk by this rule, and upon the Israel of God.",
+      "after": "Peace and mercy be upon all who follow this rule, and upon the Israel of God.",
+      "tsw_comparator": "And as many as walk by this rule—peace be upon them and mercy, and upon the Israel of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Galatians 6:17",
+      "delta": "F3",
+      "rationale": "Retains bodily scars as marks of belonging.",
+      "source_reference": "Gal 6:17",
+      "source_verse_sha256": "df8dbd5a1e5681077fd8cfd3fb228f68e5459ccfe8e4d81cc643b828f482356e",
+      "before": "From now on let no one cause me trouble, because I carry the marks of Jesus on my body.",
+      "after": "From now on let no one cause me trouble, for I carry the marks of Jesus on my body.",
+      "tsw_comparator": "From now on let no one cause me trouble, for I bear in my body the marks of Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/galatians/Galatians_06.md",
-    "blob_sha": "3d63f93610f9c4c587b57537190881604bd045ca"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

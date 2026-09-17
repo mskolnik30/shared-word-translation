@@ -1,231 +1,151 @@
 {
-  "book": "1 Corinthians",
+  "book": "1Corinthians",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "601ddbd8612ac0c74e0184544e9402c861937e54",
+    "path": "audit/exegetical-core/fluent-production/1corinthians/1Corinthians_05_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Cor.txt",
-    "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Cor.txt",
     "git_blob_sha": "e3518b277c62f4f28c62089dffdda385fb30ed5b",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Corinthians 5:1",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 1,
-            "source_ref": "1 Corinthians 5:1",
-            "segment_mode": "whole",
-            "sha256": "a5fc7ee00e6e1075f6eeebe6bf44ac3d434949a14c4d268843fd659d6987f692"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a5fc7ee00e6e1075f6eeebe6bf44ac3d434949a14c4d268843fd659d6987f692"
-      },
-      "2": {
-        "source_ref": "1 Corinthians 5:2",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 2,
-            "source_ref": "1 Corinthians 5:2",
-            "segment_mode": "whole",
-            "sha256": "14ba3b9d67156a0035b81f601c79bb9c55d8c15475afce062765a551667893c0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "14ba3b9d67156a0035b81f601c79bb9c55d8c15475afce062765a551667893c0"
-      },
-      "3": {
-        "source_ref": "1 Corinthians 5:3",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 3,
-            "source_ref": "1 Corinthians 5:3",
-            "segment_mode": "whole",
-            "sha256": "ebddfbd7b5138f78f578d9d1007e1eda74df07f05fd5fcc93aa6af26da751605"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ebddfbd7b5138f78f578d9d1007e1eda74df07f05fd5fcc93aa6af26da751605"
-      },
-      "4": {
-        "source_ref": "1 Corinthians 5:4",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 4,
-            "source_ref": "1 Corinthians 5:4",
-            "segment_mode": "whole",
-            "sha256": "b12497fb87b6aa44eb4b332456cb7e789184a22817ff4cf227b173d014f29dbe"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b12497fb87b6aa44eb4b332456cb7e789184a22817ff4cf227b173d014f29dbe"
-      },
-      "5": {
-        "source_ref": "1 Corinthians 5:5",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 5,
-            "source_ref": "1 Corinthians 5:5",
-            "segment_mode": "whole",
-            "sha256": "4a1b59153a6b8a56983c6221ac07c70b0abf9321eb4c30f6f181dd7c00396f88"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4a1b59153a6b8a56983c6221ac07c70b0abf9321eb4c30f6f181dd7c00396f88"
-      },
-      "6": {
-        "source_ref": "1 Corinthians 5:6",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 6,
-            "source_ref": "1 Corinthians 5:6",
-            "segment_mode": "whole",
-            "sha256": "781bfdc04455fc0f292990993a15814a98ae84aa7e1f2b4497f777b3f956fd07"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "781bfdc04455fc0f292990993a15814a98ae84aa7e1f2b4497f777b3f956fd07"
-      },
-      "7": {
-        "source_ref": "1 Corinthians 5:7",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 7,
-            "source_ref": "1 Corinthians 5:7",
-            "segment_mode": "whole",
-            "sha256": "cc15a9f58c80f01c2156f0f80885fa9c4be734a0ae9a3d43955128571b203420"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cc15a9f58c80f01c2156f0f80885fa9c4be734a0ae9a3d43955128571b203420"
-      },
-      "8": {
-        "source_ref": "1 Corinthians 5:8",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 8,
-            "source_ref": "1 Corinthians 5:8",
-            "segment_mode": "whole",
-            "sha256": "3693eea3d7496749c8bb7b8f35f544122512580eebe52169ffadbbcea89d3a1f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3693eea3d7496749c8bb7b8f35f544122512580eebe52169ffadbbcea89d3a1f"
-      },
-      "9": {
-        "source_ref": "1 Corinthians 5:9",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 9,
-            "source_ref": "1 Corinthians 5:9",
-            "segment_mode": "whole",
-            "sha256": "09cf8262f92ba45c0b652a07d23ff1b1f489ddb9f20064debfe1f0ffb43415e9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "09cf8262f92ba45c0b652a07d23ff1b1f489ddb9f20064debfe1f0ffb43415e9"
-      },
-      "10": {
-        "source_ref": "1 Corinthians 5:10",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 10,
-            "source_ref": "1 Corinthians 5:10",
-            "segment_mode": "whole",
-            "sha256": "899d124f72b968d42b100fbcd2a153f6023cdbfaeb2c2ba2ba9698ab53f66434"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "899d124f72b968d42b100fbcd2a153f6023cdbfaeb2c2ba2ba9698ab53f66434"
-      },
-      "11": {
-        "source_ref": "1 Corinthians 5:11",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 11,
-            "source_ref": "1 Corinthians 5:11",
-            "segment_mode": "whole",
-            "sha256": "10d744a33379f6678ac05e5737d5a8dc2fcd95b05294d5f4c7de2fb09329b856"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "10d744a33379f6678ac05e5737d5a8dc2fcd95b05294d5f4c7de2fb09329b856"
-      },
-      "12": {
-        "source_ref": "1 Corinthians 5:12",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 12,
-            "source_ref": "1 Corinthians 5:12",
-            "segment_mode": "whole",
-            "sha256": "3595438d76274396aeb017124ce698cfcd2cb03ec2495bca5fd753aab09332d0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3595438d76274396aeb017124ce698cfcd2cb03ec2495bca5fd753aab09332d0"
-      },
-      "13": {
-        "source_ref": "1 Corinthians 5:13",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 13,
-            "source_ref": "1 Corinthians 5:13",
-            "segment_mode": "whole",
-            "sha256": "3c99992d5dc92ec4a62b67692f1facd7e6bf233364510f445b97db3d69e95ed4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3c99992d5dc92ec4a62b67692f1facd7e6bf233364510f445b97db3d69e95ed4"
-      }
+    "sha256": "2a706bac29f1e34568bf6862cbc1616471511e9b915d7292adba3e93fb72c946",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Cor.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Cor",
+    "book_verse_count": 437,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 13,
+    "path": "translations/fluent/NT/1corinthians/1Corinthians_05.md",
+    "before_sha256": "99b3b79b263c8e2e6a73d583d79f1f19e799e95e89959fc21a422987f049177e",
+    "after_sha256": "649af51d615114cdaeb88402fa871508a228a8e2c07c92ba0ebfa986035af9a7",
+    "tsw_comparator_path": "books/NT/1corinthians/1Corinthians_05.md",
+    "tsw_comparator_sha256": "c301cdcf73a990040f61de6d9a7072d227892daad9b3358c3075984a361f71ab"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1corinthians-1-16/1corinthians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Corinthians 5:1",
+      "delta": "F3",
+      "rationale": "Preserves the report, offense, and specific relationship.",
+      "source_reference": "1Cor 5:1",
+      "source_verse_sha256": "b8ed686584ec47ee478c6daf108ef770690f80114f78f50638f76aa0bc5222c9",
+      "before": "It is actually reported that there is sexual immorality among you, and such immorality as is not even among the Gentiles—that someone has his father’s wife.",
+      "after": "It is actually reported that there is sexual immorality among you, and of a kind not tolerated even among the Gentiles: a man has his father's wife.",
+      "tsw_comparator": "It is actually reported that there is sexual immorality among you, and such immorality as is not even among the Gentiles—that someone has his father’s wife.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:3",
+      "delta": "F3",
+      "rationale": "Preserves absence/presence and prior judgment.",
+      "source_reference": "1Cor 5:3",
+      "source_verse_sha256": "0333473d779e4f3bbf5e795adff2d63e2e3f51b48ed6cd5c7dcff05052925261",
+      "before": "For I indeed, though absent in body but present in spirit, have already judged the one who has done this, as if I were present:",
+      "after": "For though absent in body, I am present in spirit, and as though present I have already judged the one who did this.",
+      "tsw_comparator": "For I indeed, though absent in body but present in spirit, have already judged the one who has done this, as though I were present:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:5",
+      "delta": "F3",
+      "rationale": "Retains severe discipline, bodily destruction, and saving aim.",
+      "source_reference": "1Cor 5:5",
+      "source_verse_sha256": "9b02945a3200f5a62e69aa89e114c9822d903c1ec2d0cd024e315507aa5a0145",
+      "before": "to deliver such a one to Satan for the destruction of the flesh, so that the spirit may be saved in the day of the Lord.",
+      "after": "hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the day of the Lord.",
+      "tsw_comparator": "to deliver such a one to Satan for the destruction of the flesh, so that the spirit may be saved in the day of the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:7",
+      "delta": "F3",
+      "rationale": "Preserves festival imagery and Christ's sacrifice.",
+      "source_reference": "1Cor 5:7",
+      "source_verse_sha256": "1c140aff9c3e09804e0b7f29589c3d7cff545d8681c110a2efd223ae72bb8d4a",
+      "before": "Clean out the old leaven so that you may be a new lump, just as you are unleavened. For Christ, our Passover, has been sacrificed.",
+      "after": "Clean out the old yeast so that you may be a new batch, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.",
+      "tsw_comparator": "Clean out the old leaven so that you may be a new lump, just as you are unleavened. For Christ, our Passover, has been sacrificed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:9",
+      "delta": "F3",
+      "rationale": "Preserves reference to an earlier letter and continuing clarification.",
+      "source_reference": "1Cor 5:9",
+      "source_verse_sha256": "fa26a7f646b4234cd9256ee22fcba8e1678676691cdf5eac0ab7f27572962132",
+      "before": "I wrote to you in my letter not to associate with sexually immoral people—",
+      "after": "I wrote to you in my letter not to associate with sexually immoral people—",
+      "tsw_comparator": "I wrote to you in my letter not to associate with sexually immoral people—",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:11",
+      "delta": "F3",
+      "rationale": "Preserves named community status and full behavior list.",
+      "source_reference": "1Cor 5:11",
+      "source_verse_sha256": "4b75b106a69432e4385177cf5fb9603ae286d4659fd0fdc1a66864f06c997cff",
+      "before": "But now I write to you not to associate with anyone who is called a brother if he is sexually immoral or greedy or an idolater or a reviler or a drunkard or a swindler—not even to eat with such a one.",
+      "after": "But now I am writing to you not to associate with anyone who bears the name of brother or sister yet is sexually immoral, greedy, an idolater, verbally abusive, a drunkard, or a swindler. Do not even eat with such a person.",
+      "tsw_comparator": "But now I write to you not to associate with anyone who is called a brother if he is sexually immoral or greedy or an idolater or a reviler or a drunkard or a swindler—not even to eat with such a one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.682353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Corinthians 5:13",
+      "delta": "F3",
+      "rationale": "Preserves divine judgment and scriptural command.",
+      "source_reference": "1Cor 5:13",
+      "source_verse_sha256": "0038bb13f43bc63bc4c11598571e0c3e9dd83a5468d3e46dd0ad995a41d37fc3",
+      "before": "Yet God judges those outside. “Remove the evil person from among yourselves.”",
+      "after": "God judges outsiders. “Remove the evil person from among you.”",
+      "tsw_comparator": "But God judges those outside. “Remove the evil person from among yourselves.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1corinthians/1Corinthians_05.md",
-    "blob_sha": "dbcab9ab1cc204835b2fa2ae69b1bd6b97b1b774"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

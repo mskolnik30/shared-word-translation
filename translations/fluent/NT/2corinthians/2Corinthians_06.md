@@ -4,118 +4,71 @@ testament: NT
 chapter: 6
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16
 ---
+
 
 ## The Ministry Received in Grace
 
 <p>
-v01: And working together with him, we also urge you not to receive the grace of God in vain.
-
-v02: For he says,
-
-“In an acceptable time I heard you,
-
-and in a day of salvation I helped you.”
-
-Behold, now is the acceptable time; behold, now is the day of salvation.
+v01: Working together with God, we also urge you not to receive God's grace in vain.
+v02: For he says, “At an acceptable time I listened to you, and on a day of salvation I helped you.” Look, now is the acceptable time; look, now is the day of salvation.
 </p>
 
 <p>
-v03: We put no obstacle in anyone’s way, so that no fault may be found with the ministry,
-
-v04: but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,
-
-v05: in beatings, in imprisonments, in riots, in labors, in sleepless nights, in hunger;
+v03: We put no obstacle in anyone's way, so that the ministry will not be discredited.
+v04: Instead, in everything we commend ourselves as God's servants: through great endurance, in afflictions, hardships, and distress,
+v05: in beatings, imprisonments, and riots, in hard work, sleepless nights, and hunger,
 </p>
 
 <p>
-v06: in purity, in knowledge, in patience, in kindness, in the Holy Spirit, in genuine love,
-
-v07: in truthful speech, and in the power of God; with the weapons of righteousness for the right hand and for the left,
-
-v08: through honor and dishonor, through slander and praise; regarded as deceivers and yet true,
+v06: in purity, knowledge, patience, and kindness, in the Holy Spirit and sincere love,
+v07: in truthful speech and God's power, with the weapons of righteousness in the right hand and the left,
+v08: through glory and dishonor, slander and praise; treated as deceivers, yet truthful;
 </p>
 
 <p>
-v09: as unknown and yet known; as dying, and look, we live; as disciplined, and not killed;
-
-v10: as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.
+v09: as unknown, yet fully known; as dying, yet look—we live; as punished, yet not put to death;
+v10: as grieving, yet always rejoicing; as poor, yet making many rich; as having nothing, yet possessing everything.
 </p>
 
 ## Appeal for Reconciliation
 
 <p>
-v11: We have spoken openly to you, Corinthians; our heart has been opened wide.
-
-v12: You are not restricted by us, but you are restricted in your own affections.
-
-v13: In return—I speak as to children—open wide your hearts also.
+v11: We have spoken openly to you, Corinthians; our heart has opened wide.
+v12: You are not confined by us, but you are confined in your own affections.
+v13: In return—I speak as to my children—open wide to us also.
 </p>
 
 ## Separation from Idolatry
 
 <p>
-v14: Do not be mismatched with unbelievers. For what partnership has righteousness with lawlessness? Or what fellowship has light with darkness?
-
-v15: What accord has Christ with Belial? Or what portion does a believer share with an unbeliever?
+v14: Do not be mismatched with unbelievers. For what partnership do righteousness and lawlessness have? Or what fellowship does light have with darkness?
+v15: What agreement does Christ have with Beliar? Or what share does a believer have with an unbeliever?
 </p>
 
 <p>
-v16: What agreement has the temple of God with idols? For we are the temple of the living God; as God said,
-
-“I will dwell in them and walk among them,
-
-and I will be their God,
-
-and they shall be my people.
+v16: What agreement does God's temple have with idols? For we are the living God's temple, as God said: “I will dwell and walk among them; I will be their God, and they will be my people.”
 </p>
 
 <p>
-v17: So go out from their midst,
-
-and be separate from them, says the Lord,
-
-and touch nothing unclean;
-
-then I will welcome you,
-
-v18: and I will be a father to you,
-
-and you shall be sons and daughters to me,
-
-says the Lord Almighty.”
+v17: “Therefore come out from among them and be separate, says the Lord. Do not touch what is unclean, and I will welcome you.”
+v18: “I will be a Father to you, and you will be sons and daughters to me, says the Lord Almighty.”
 </p>
 
 ## Notes
 
-v01–02: “Now” carries urgency. Grace is not abstract but time-bound in reception.
+v04–10: The catalogue names beatings, prisons, hunger, dishonor, and grief while also naming endurance, truth, love, and joy.
 
-v03–05: Paul lists external hardships without commentary, letting accumulation convey credibility.
+v14: The rare verb pictures being placed under an unequal or mismatched yoke; the following questions explain incompatible allegiance.
 
-v06–07: Internal qualities and divine empowerment are paired with external endurance.
-
-v08–10: Paradox structures identity. Opposites are held together without resolution.
-
-v11–13: The barrier is relational, not doctrinal. Paul locates restriction within the community’s response.
-
-v14–16: The language of separation is framed through incompatible pairings.
-
-v16–18: Scriptural citations ground identity in God’s dwelling presence rather than institutional form.
+v18: The promise explicitly names both sons and daughters.
 
 ## Vocabulary
 
-v01: συνεργέω (synergeō)
-“To work together.” Implies participation, not independence.
+v04: **διάκονος (diakonos)**: Servant or minister.
 
-v04: ὑπομονή (hypomonē)
-“Endurance.” Steadfast persistence under pressure.
-
-v08: δόξα (doxa)
-“Honor.” Public recognition or valuation.
-
-v10: κατέχω (katechō)
-“To possess.” To hold firmly or retain.
-“To possess.” To hold firmly or retain.
-
-v14: ἑτεροζυγέω (heterozygeō)
-“To be mismatched.” Unequal pairing, often in covenantal terms.
+v14: **ἑτεροζυγέω (heterozygeō)**: Be mismatched under a different yoke.

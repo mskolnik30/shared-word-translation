@@ -4,108 +4,64 @@ testament: NT
 chapter: 8
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
 ---
+
 
 ## Food Offered to Idols
 
 <p>
-v01: Now concerning things sacrificed to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.
-
-v02: If someone thinks that he knows anything, he does not yet know as he ought to know;
-
-v03: but if someone loves God, he is known by him.
+v01: Now concerning food sacrificed to idols: we know that “we all have knowledge.” Knowledge puffs up, but love builds up.
+v02: If anyone thinks they know something, they do not yet know as they ought to know.
+v03: But if anyone loves God, that person is known by God.
 </p>
 
 <p>
-v04: So concerning the eating of things sacrificed to idols, we know that an idol is nothing in the world and that there is no God except one.
-
-v05: For even if there are so-called gods whether in heaven or on earth—as indeed there are many gods and many lords—
+v04: So concerning the eating of food sacrificed to idols, we know that “an idol is nothing in the world” and that “there is no God but one.”
+v05: For even if there are so-called gods, whether in heaven or on earth—as indeed there are many gods and many lords—
 </p>
 
 <p>
-v06: yet for us there is one God, the Father, from whom are everything and we for him, and one Lord, Jesus Christ, through whom are everything and we through him.
+v06: yet for us there is one God, the Father, from whom are all things and for whom we exist; and one Lord, Jesus Christ, through whom are all things and through whom we exist.
 </p>
 
 <p>
-v07: However, not all have this knowledge; but some, being accustomed to the idol until now, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.
+v07: But not everyone has this knowledge. Some, through their former association with the idol, still eat food as truly offered to an idol, and their weak conscience is defiled.
 </p>
 
 <p>
-v08: But food will not commend us to God; neither if we do not eat are we worse, nor if we eat are we better.
+v08: Food will not bring us before God. We are no worse if we do not eat and no better if we do.
 </p>
 
 <p>
-v09: But take care that this right of yours does not somehow become a stumbling block to the weak.
-
-v10: For if someone sees you, who have knowledge, reclining in an idol’s temple, will not his conscience, if he is weak, be built up to eat things sacrificed to idols?
+v09: But take care that this freedom of yours does not somehow become a stumbling block to the weak.
+v10: For if someone sees you, who have knowledge, reclining to eat in an idol's temple, will not that person's weak conscience be encouraged to eat food sacrificed to idols?
 </p>
 
 <p>
-v11: For through your knowledge the weak one is destroyed—the brother for whom Christ died.
-
-v12: And thus, sinning against the brothers and sisters and wounding their weak conscience, you sin against Christ.
+v11: So by your knowledge the weak person is destroyed—the brother or sister for whom Christ died.
+v12: When you sin in this way against brothers and sisters and wound their weak conscience, you sin against Christ.
 </p>
 
 <p>
-v13: So, if food causes my brother to stumble, I will never eat meat forever, so that I may not cause my brother to stumble.
+v13: Therefore, if food causes my brother or sister to stumble, I will never eat meat again, so that I do not cause them to stumble.
 </p>
 
 ## Notes
 
-v01: Knowledge without love leads to pride.
+v01: ‘We all have knowledge’ is likely a Corinthian slogan. Paul immediately contrasts knowledge that inflates with love that builds.
 
-v03: True knowledge is relational—being known by God.
+v07–12: A conscience formed by former idol worship can be wounded; the knowledgeable person's freedom is judged by its effect on a person for whom Christ died.
 
-v04–06: Monotheism reframes idol discussion.
-
-v07: Conscience varies in strength and awareness.
-
-v08: Food has no intrinsic spiritual value.
-
-v09–12: Freedom must be governed by concern for others.
-
-v13: Love limits personal rights to prevent harm.
+v04–6: Paul acknowledges many beings called gods and lords while confessing one God, the Father, and one Lord, Jesus Christ.
 
 ## Vocabulary
 
-v01: φυσιοόω (physioō)
-“To puff up.”
+v01: **εἰδωλόθυτον (eidōlothyton)**: Food offered in sacrifice to an idol.
 
-v01: οἰκοδομέω (oikodomeō)
-“To build up.”
+v01: **οἰκοδομέω (oikodomeō)**: Build up or strengthen a community.
 
-v03: γινώσκω (ginōskō)
-“To know.”
-
-v04: εἴδωλον (eidōlon)
-“Idol.”
-
-v06: κύριος (kyrios)
-“Lord.”
-
-v07: συνείδησις (syneidēsis)
-“Conscience.”
-
-v07: μολύνω (molynō)
-“To defile.”
-
-v08: παραστήνω (paristēmi)
-“To commend.”
-
-v09: ἐξουσία (exousia)
-“Right, authority.”
-
-v09: πρόσκομμα (proskomma)
-“Stumbling block.”
-
-v10: ἀνακείμενος (anakeimenos)
-“Reclining.”
-
-v11: ἀπόλλυμι (apollymi)
-“To destroy.”
-
-v12: τύπτω (typtō)
-“To wound.”
-
-v13: σκανδαλίζω (skandalizō)
-“To cause to stumble.”
+v07: **συνείδησις (syneidēsis)**: Conscience or moral awareness.
