@@ -307,36 +307,27 @@
     14,
     15,
     16,
-    17
+    17,
+    18,
+    19,
+    20,
+    21
   ],
   "current_revision": {
-    "id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+    "id": "fluent-john-18-21-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17
+      18,
+      19,
+      20,
+      21
     ],
-    "verse_count": 740,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+    "verse_count": 138,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+      "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
       "path": "audit/exegetical-core/fluent-production/john/JOHN_FLUENT_BOOK_QA.json"
     },
     "note": "Previous wording approvals and Companion bindings do not transfer."
@@ -370,6 +361,25 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+        "path": "audit/exegetical-core/fluent-production/john/JOHN_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-john-18-21-biblical-fluency-2026-09-16",
+      "chapters": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "verse_count": 138,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
         "path": "audit/exegetical-core/fluent-production/john/JOHN_FLUENT_BOOK_QA.json"
       },
       "note": "Previous wording approvals and Companion bindings do not transfer."

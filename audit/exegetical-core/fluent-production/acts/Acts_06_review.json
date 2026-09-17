@@ -2,127 +2,166 @@
   "book": "Acts",
   "chapter": 6,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 15,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_06.md",
-    "blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_06_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 6:1",
-        "source_chapter": 6,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "703c635e6688460cbe875eda2107caa83944162f5f53abc3ed9b11bf154f957c"
-      },
-      "2": {
-        "source_ref": "Acts 6:2",
-        "source_chapter": 6,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "cd9d531d0e223fd2972ba113e589c736408b3eb661e760321de5d94cd654b4f0"
-      },
-      "3": {
-        "source_ref": "Acts 6:3",
-        "source_chapter": 6,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "31832745f7389327654345cdc5288af2cbb704e6f3ca5bba79e2265b0bb597aa"
-      },
-      "4": {
-        "source_ref": "Acts 6:4",
-        "source_chapter": 6,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "095b876dcb8bd0d25c0efb7898d7509bbe79d90b00e90fd6bff129927eba2dad"
-      },
-      "5": {
-        "source_ref": "Acts 6:5",
-        "source_chapter": 6,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "68e9c3e8398da14b4c90b74e9fd77e3fc6ae019de40579ca8f6393c3b6117212"
-      },
-      "6": {
-        "source_ref": "Acts 6:6",
-        "source_chapter": 6,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "da4e1dced07d09c67cc0c69ad92cfc77bdfe4649503c0b5eb72fe27523438a63"
-      },
-      "7": {
-        "source_ref": "Acts 6:7",
-        "source_chapter": 6,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d585d3e8b3798d5102ae46e73a36e97ac5c414d8fc100d43205f0a623442631c"
-      },
-      "8": {
-        "source_ref": "Acts 6:8",
-        "source_chapter": 6,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "bc347559971d72010b2c57ab6103f12a6c945aebe3ad3c132b539a00e160d996"
-      },
-      "9": {
-        "source_ref": "Acts 6:9",
-        "source_chapter": 6,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "31a45b35d21c37fa5f3d4485e8ac82a13c0295dbd55446a87acf1626bbcb16a8"
-      },
-      "10": {
-        "source_ref": "Acts 6:10",
-        "source_chapter": 6,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "28e8dc0cba01c894a41ffe5edc23fd291ca207c95d490062a3e2115c3e374cda"
-      },
-      "11": {
-        "source_ref": "Acts 6:11",
-        "source_chapter": 6,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "ea26985d10c2e7d3a4e1fdedaaef073e713e23abd5758044c8cd41ea6c0fa38a"
-      },
-      "12": {
-        "source_ref": "Acts 6:12",
-        "source_chapter": 6,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ed0300586afea6ad0f644850580d49a413a060df3d7370a37526ec580be1e248"
-      },
-      "13": {
-        "source_ref": "Acts 6:13",
-        "source_chapter": 6,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "3dd023037b757d62d152910d965036005a3338d8ac4eac447c1545f6fa365b3b"
-      },
-      "14": {
-        "source_ref": "Acts 6:14",
-        "source_chapter": 6,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "99ec0b3fc41d172064e72b739bfcbfc44bca1e1762fdd8739bc89831bb2a893e"
-      },
-      "15": {
-        "source_ref": "Acts 6:15",
-        "source_chapter": 6,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "8a3e2d8a6fbe9d724441eb38660392e65548cbcd5fe4f825052e73538747fbe7"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 6,
+    "verse_count": 15,
+    "path": "translations/fluent/NT/acts/Acts_06.md",
+    "before_sha256": "3a4517e98a08cb44f93ed37e02d265c8d3285a53012ceeb1c1b02dce88942576",
+    "after_sha256": "7625696458b5e3b69153cc6e7e0fcbbd7596c5a3d5528bb5c9834e6f41df9af1",
+    "tsw_comparator_path": "books/NT/acts/Acts_06.md",
+    "tsw_comparator_sha256": "8d6fa2d08c2b69649a1685b24900f53f98722afdcae495ce23451a53d55bd252"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 6:1",
+      "delta": "F3",
+      "rationale": "Preserves growth, language-cultural groups, complaint, gendered widows, neglect, and daily service.",
+      "source_reference": "Acts 6:1",
+      "source_verse_sha256": "28dbe72be6285bd87bed401de1ca22a922e4e0b0777cfa2b7e526c7d8312a610",
+      "before": "In those days, as the number of disciples was increasing, a complaint arose from the Hellenists against the Hebrews because their widows were being overlooked in the daily distribution.",
+      "after": "In those days, as the number of disciples increased, the Greek-speaking Jewish believers began complaining against the Hebrew-speaking believers because their widows were being overlooked in the daily distribution.",
+      "tsw_comparator": "Now in these days, as the disciples were increasing in number, there arose a complaint of the Hellenists against the Hebrews, because their widows were being overlooked in the daily distribution.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612903,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:2",
+      "delta": "F3",
+      "rationale": "Keeps Twelve, whole community, judgment, word, and table service without belittling it.",
+      "source_reference": "Acts 6:2",
+      "source_verse_sha256": "d9fa3191bb50f786954ca1f0e392aaa85721e9676573e5cdffcc2a14520a1ed1",
+      "before": "The twelve called together the whole community of disciples and said, “It would not be right for us to neglect God’s word in order to serve tables.",
+      "after": "So the Twelve called the whole community of disciples together and said, “It would not be right for us to neglect God’s word in order to serve tables.",
+      "tsw_comparator": "And the twelve, summoning the multitude of the disciples, said, “It is not pleasing for us to neglect the word of God to serve tables.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.603774,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:3",
+      "delta": "F3",
+      "rationale": "Preserves community address, exact number and gender, reputation, Spirit, wisdom, appointment, and task.",
+      "source_reference": "Acts 6:3",
+      "source_verse_sha256": "d67eac751283818a7911d5c01d2a263435a7acaa44525fc764fc25655126f108",
+      "before": "Therefore, brothers and sisters, select from among you seven men with good reputations, full of the Spirit and wisdom, whom we can appoint over this responsibility.",
+      "after": "Brothers and sisters, select from among you seven men with good reputations, full of the Spirit and wisdom, whom we will appoint over this responsibility.",
+      "tsw_comparator": "Therefore, brothers, select from among you seven men of good reputation, full of the Spirit and wisdom, whom we will appoint over this need.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.816327,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:5",
+      "delta": "F3",
+      "rationale": "Preserves communal approval, all seven names, Stephen’s qualities, Nicolaus’s status, and origin.",
+      "source_reference": "Acts 6:5",
+      "source_verse_sha256": "d7b43df409c3c3336add2b8bd12a0891fb0a25e914b26db8de6bc472171b8484",
+      "before": "This proposal pleased the whole community. They chose Stephen, a man full of faith and the Holy Spirit; Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a convert to Judaism from Antioch.",
+      "after": "This proposal pleased the whole community. They chose Stephen, a man full of faith and the Holy Spirit, along with Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a convert to Judaism from Antioch.",
+      "tsw_comparator": "And the word pleased the whole multitude, and they chose Stephen, a man full of faith and the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus, a proselyte of Antioch.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:9",
+      "delta": "F3",
+      "rationale": "Preserves synagogue name, regions, movement, and dispute.",
+      "source_reference": "Acts 6:9",
+      "source_verse_sha256": "80807c47e3da6f7c53a4e654812fa6e22965a26c2b9fa49c44bb2067b157305f",
+      "before": "But some people from the synagogue called the Synagogue of the Freedmen, along with Cyrenians, Alexandrians, and people from Cilicia and Asia, rose up and argued with Stephen.",
+      "after": "But some members of the synagogue called the Synagogue of the Freedmen—including people from Cyrene, Alexandria, Cilicia, and Asia—rose up and argued with Stephen.",
+      "tsw_comparator": "But some of those from the synagogue called that of the Freedmen, and of the Cyrenians and Alexandrians, and of those from Cilicia and Asia, rose up disputing with Stephen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.607143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:11",
+      "delta": "F3",
+      "rationale": "Preserves covert instigation, male witnesses, accusation, Moses, and God.",
+      "source_reference": "Acts 6:11",
+      "source_verse_sha256": "6f77c04e833067f0e0f1c877837fb6cebfc60d93d9fe21b77f7186f5065fa633",
+      "before": "Then they secretly prompted men to say, “We have heard him speaking blasphemous words against Moses and God.”",
+      "after": "Then they secretly induced men to say, “We heard him speak blasphemous words against Moses and God.”",
+      "tsw_comparator": "Then they secretly instigated men to say, “We have heard him speaking blasphemous words against Moses and God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:13",
+      "delta": "F3",
+      "rationale": "Preserves false testimony, persistent-speech charge, sanctuary, and law.",
+      "source_reference": "Acts 6:13",
+      "source_verse_sha256": "1544410b975489456161b4fed2199b03ed1dc2fde453e062ed32ec8084b0f053",
+      "before": "They set up false witnesses who said, “This man never stops speaking against this holy place and the Law.",
+      "after": "They set up false witnesses who said, “This man never stops speaking against this holy place and the law.",
+      "tsw_comparator": "and they set up false witnesses who said, “This man does not cease speaking words against this holy place and the Law;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:14",
+      "delta": "F3",
+      "rationale": "Keeps reported claim, Jesus’ full identification, destruction, customs, Moses, and tradition.",
+      "source_reference": "Acts 6:14",
+      "source_verse_sha256": "e10a08cdf976bf025170b36b323f1b37e662cacc867ad0943e36475cd0654bf0",
+      "before": "We have heard him say that this Jesus the Nazarene will destroy this place and change the customs Moses handed down to us.”",
+      "after": "For we heard him say that this Jesus the Nazarene will destroy this place and change the customs Moses handed down to us.”",
+      "tsw_comparator": "for we have heard him saying that this Jesus the Nazarene will destroy this place and will change the customs that Moses handed down to us.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.897959,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 6:15",
+      "delta": "F3",
+      "rationale": "Preserves whole council, sustained gaze, face, and angel comparison.",
+      "source_reference": "Acts 6:15",
+      "source_verse_sha256": "81a34014e0b109fd6dbedb9c1f0909d6900996a511bbdc66998084d78dca9f86",
+      "before": "Everyone sitting in the council looked intently at Stephen and saw that his face was like the face of an angel.",
+      "after": "Everyone sitting in the council stared at Stephen and saw that his face was like the face of an angel.",
+      "tsw_comparator": "And all those sitting in the council, looking intently at him, saw his face like the face of an angel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

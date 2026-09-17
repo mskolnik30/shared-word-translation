@@ -1,0 +1,50 @@
+{
+  "parent_commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+  "parent_library_version": 88,
+  "book": "John",
+  "slug": "john",
+  "chapters": [18, 19, 20, 21],
+  "scope": "John 18–21",
+  "expected_verses": 138,
+  "source_filename": "john-pinned-greek.txt",
+  "book_record_files": ["JOHN_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Acts 1–28; Romans 1–6",
+  "completed_block_scope": "John 6–21",
+  "source_omissions": {},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["18:5", "18:6", "18:12", "18:20", "18:22", "18:28", "18:31", "18:36", "18:37", "18:40", "19:1", "19:3", "19:7", "19:11", "19:14", "19:15", "19:20", "19:25", "19:28", "19:30", "19:31", "19:34", "19:35", "19:39", "20:8", "20:17", "20:18", "20:19", "20:22", "20:23", "20:25", "20:28", "20:31", "21:7", "21:8", "21:11", "21:15", "21:17", "21:18", "21:22", "21:23", "21:24"],
+  "focused_extra_references": [],
+  "apparatus": {
+    "18": {
+      "notes": [["05–06", "‘I am he’ is ordinary self-identification in the arrest exchange and also echoes John’s absolute ‘I am’ language. The wording leaves that resonance visible."], ["12, 31, 36", "‘The Judean leaders’ identifies the authorities and officers acting in the Jerusalem proceedings. It does not refer to Jewish people as a whole; Jesus, his disciples, and the first witnesses are Jewish."], ["17", "The gatekeeper is a young female slave. Her gender and social status are retained."], ["22–23", "An officer slaps Jesus during questioning. The translation names the blow plainly rather than turning it into a verbal insult."], ["28", "The leaders remain outside the Roman headquarters to avoid ceremonial defilement and to eat the Passover meal, creating a deliberate irony in the narrative."], ["36", "Jesus says his kingdom is not ‘from’ this world, describing its source. He does not say it has no claim upon or concern for the world."], ["40", "The noun can mean robber, bandit, or insurrectionist. ‘Violent rebel’ fits the political contrast with Jesus’ kingship without denying criminal violence."]],
+      "vocabulary": [["03", "σπεῖρα (speira)", "A Roman military cohort or a detachment from one."], ["28", "πραιτώριον (praitōrion)", "The Roman governor’s headquarters."], ["36", "βασιλεία (basileia)", "Kingdom, reign, or royal rule."]]
+    },
+    "19": {
+      "notes": [["01–03", "The flogging, thorn crown, robe, mockery, and blows are concrete state and military violence. The translation does not soften the harm."], ["11", "‘From above’ can point to God as the source of Pilate’s derivative authority and also echoes John’s recurring above-below language."], ["14", "The sixth hour is approximately noon. John’s Passover chronology is preserved rather than harmonized with another Gospel."], ["20", "‘Hebrew’ here refers to the local Jewish language, commonly understood as Aramaic in this setting. The other languages are Latin and Greek."], ["25", "The grammar may name four women or allow Jesus’ mother’s sister to be Mary of Clopas. The main text does not force a count."], ["30", "The verb means ‘it has been completed’ or ‘accomplished,’ not merely that suffering has stopped."], ["31–34", "The soldiers break the legs of the two crucified men and pierce Jesus’ side. These acts of bodily violence remain explicit."], ["39", "A Roman pound was smaller than a modern pound, but the total remains an exceptionally large quantity. The ancient measure is retained with an approximate modern description."]],
+      "vocabulary": [["13", "βῆμα (bēma)", "A raised judgment seat or tribunal."], ["17", "Γολγοθᾶ (Golgotha)", "The Hebrew or Aramaic name for the Place of the Skull."], ["30", "τετέλεσται (tetelestai)", "It has been completed or accomplished."]]
+    },
+    "20": {
+      "notes": [["08", "The verse says the beloved disciple ‘saw and believed’ without explicitly stating what he believed at that moment; the next verse says the disciples did not yet understand the Scripture about resurrection."], ["17", "The command can mean ‘do not keep holding on to me,’ not necessarily ‘do not touch me at all.’ Mary is immediately sent to announce Jesus’ ascent."], ["19", "‘The Judean leaders’ identifies those the disciples feared in Jerusalem, not Jewish people as a whole."], ["22", "Jesus breathes on the disciples as he gives the Holy Spirit, evoking God’s life-giving breath without requiring the verse to be collapsed into the later Pentecost scene."], ["23", "The paired sayings about forgiving and retaining sins are translated directly. The verse does not itself specify a later institutional procedure."], ["25", "Thomas asks for embodied evidence of wounds caused by nails and the spear. His demand is not reduced to a personality label."], ["31", "The pinned text reads ‘so that you may believe.’ A major variant can be understood as ‘so that you may continue to believe.’"]],
+      "vocabulary": [["16", "Ῥαββουνί (Rabbouni)", "My teacher or revered teacher."], ["21", "πέμπω (pempō)", "Send or commission."], ["29", "μακάριος (makarios)", "Blessed, flourishing under God’s favor."]]
+    },
+    "21": {
+      "notes": [["07", "Peter had removed his outer garment for work; the Greek word can mean naked or lightly clothed. The translation avoids implying a detail the narrative does not settle."], ["08", "Two hundred cubits is roughly ninety meters or one hundred yards. The ancient measure is retained in the main text."], ["11", "The exact count is 153 large fish. The narrative supplies no interpretation of the number."], ["15", "‘More than these’ can compare Peter’s love with the other disciples’ love, with his love for the disciples, or with his attachment to the fishing equipment. The main text preserves the ambiguity."], ["15–17", "Two Greek verbs for love alternate in the exchange, as do two verbs for tending the flock. Their ranges overlap in John, so the translation does not build a sharp hierarchy on the word changes."], ["18–19", "The saying about Peter’s outstretched hands and compelled movement is interpreted by the narrator as indicating the death by which Peter would glorify God."], ["22–23", "Jesus states a hypothetical condition about the beloved disciple. The narrator explicitly corrects the rumor that the disciple would not die."]],
+      "vocabulary": [["07", "ἐπενδύτης (ependytes)", "An outer garment worn over other clothing."], ["16", "ποιμαίνω (poimainō)", "Shepherd, tend, or care for a flock."], ["24", "μαρτυρέω (martyreō)", "Testify or bear witness."]]
+    }
+  }
+}

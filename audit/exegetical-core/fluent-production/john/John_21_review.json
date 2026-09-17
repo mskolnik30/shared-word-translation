@@ -2,196 +2,164 @@
   "book": "John",
   "chapter": 21,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 25,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-18-21-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+    "path": "audit/exegetical-core/fluent-production/john/John_21_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 21:1",
-        "source_chapter": 21,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "790effa59eaae5bafee5f51dad73bdcb8076e0ddfc43bde697c50e029cfcf2ab"
-      },
-      "2": {
-        "source_ref": "John 21:2",
-        "source_chapter": 21,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "1eea0b220d68cb860bb685872bf42ac2081ac49cc4c438706325869d42a1a6e6"
-      },
-      "3": {
-        "source_ref": "John 21:3",
-        "source_chapter": 21,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "2c16f05303540dc784cf4957115a08b61ca882b7258a77cf5d58393b098e0d2c"
-      },
-      "4": {
-        "source_ref": "John 21:4",
-        "source_chapter": 21,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "96a607950b15fa1e4d7e3d63623abb660b9bff3edf4576a36604458bc908c108"
-      },
-      "5": {
-        "source_ref": "John 21:5",
-        "source_chapter": 21,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "dce01adaf58c9129476b7a7b4ea1780b430e6f3f405eb5ac848e51fd909d9f81"
-      },
-      "6": {
-        "source_ref": "John 21:6",
-        "source_chapter": 21,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "18f33dbf7075bd8ad1b2560f8195f68d8ee443689db4b5c85491e9bb5505e189"
-      },
-      "7": {
-        "source_ref": "John 21:7",
-        "source_chapter": 21,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "13f98ace3a1be32ca8bcc3705255f87652055038e7458433b422e57da0701fbe"
-      },
-      "8": {
-        "source_ref": "John 21:8",
-        "source_chapter": 21,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "8c931ffe412d12490a153782462d138a1717cf63af469b9dbc94cc43d71594e0"
-      },
-      "9": {
-        "source_ref": "John 21:9",
-        "source_chapter": 21,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "fc1625f16f66851cc28685c4e8e2f063d131a3cc004270ea6f7b7e082efe5bb9"
-      },
-      "10": {
-        "source_ref": "John 21:10",
-        "source_chapter": 21,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "e5c5ac192d0e20a4da56035d3073fa53d13833fcb0bffa9df027e31dd187b45a"
-      },
-      "11": {
-        "source_ref": "John 21:11",
-        "source_chapter": 21,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "fd0ca8271f74b844f9d150509f0a430c4cb3560aa6ca33727b5ec0703a8c68b0"
-      },
-      "12": {
-        "source_ref": "John 21:12",
-        "source_chapter": 21,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "e5959ecac231b409d3280a31db5e327eacb2a517bd6e464d5183c3f1aef0cd62"
-      },
-      "13": {
-        "source_ref": "John 21:13",
-        "source_chapter": 21,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "5583b0d0325925c9ac712c6be9ab6530127c9255eef6eb66d96c527248eb1fdc"
-      },
-      "14": {
-        "source_ref": "John 21:14",
-        "source_chapter": 21,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "e044a6ca15c51974e12cbe03d8c00ff98ab0e3beac8d01572a4d301fa3adea05"
-      },
-      "15": {
-        "source_ref": "John 21:15",
-        "source_chapter": 21,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "464af6af0dfba1b6b40d1ab79077592f1ee7d13aa5abb6b11390368b25913a7c"
-      },
-      "16": {
-        "source_ref": "John 21:16",
-        "source_chapter": 21,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "9ef5acf4af98351195be79496e4fff481dfe677445f33a475b5f9ff7442974b3"
-      },
-      "17": {
-        "source_ref": "John 21:17",
-        "source_chapter": 21,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "0334dd2aa7494f90bf4d174345332bcbdf0c70af30504b49211a5a5dd620a104"
-      },
-      "18": {
-        "source_ref": "John 21:18",
-        "source_chapter": 21,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "edf4a6dbf8a523f6eb60d941dcb3612b506e957b1a7249beec7736e5205a9fac"
-      },
-      "19": {
-        "source_ref": "John 21:19",
-        "source_chapter": 21,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "cfe676f949d6e81a2b105ef7e2aba64ae2ba50fff7b27ef470ecac5b803cf15f"
-      },
-      "20": {
-        "source_ref": "John 21:20",
-        "source_chapter": 21,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "55a3bd02de36e61f9cce69ec2d7304ad6cb98d7d72310d34cd657650e0dfd959"
-      },
-      "21": {
-        "source_ref": "John 21:21",
-        "source_chapter": 21,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "eccf897830d807b15d519163d685f544eaae1748e1795ff6796c630e4aff13f6"
-      },
-      "22": {
-        "source_ref": "John 21:22",
-        "source_chapter": 21,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "99323045b64a87cbef70133de91a5966086a487a9f19c2a4c146909282e2b241"
-      },
-      "23": {
-        "source_ref": "John 21:23",
-        "source_chapter": 21,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "3980c4f7438b75dfe9463661e602f741245ae2a29a0109f2b5b055a1c052ab68"
-      },
-      "24": {
-        "source_ref": "John 21:24",
-        "source_chapter": 21,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "983ddaabba51239eb2a2d19d10f0096cf5e5e2f1b83bed6ee63b120004cc692b"
-      },
-      "25": {
-        "source_ref": "John 21:25",
-        "source_chapter": 21,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e594e0ee207421215b0b700d9cc724caec636284fccaa41dbe1bfbba6646076d"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 21,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/john/John_21.md",
+    "before_sha256": "37e418b6850229c9c19d81eb5e66d4272fdafd9ba79d3d130c360f05d38d5f7a",
+    "after_sha256": "8bdf33683af603302e75ec3aed1e68033e08483c8298953fdf57323ba4d024d6",
+    "tsw_comparator_path": "books/NT/john/John_21.md",
+    "tsw_comparator_sha256": "2bc5e930b5bdfade08ab26fd157994d6eb77d5aa35d071869b718f0dab5286a5"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 21:7",
+      "delta": "F3",
+      "rationale": "Keeps beloved disciple’s recognition, Peter’s clothing action and state, and plunge.",
+      "source_reference": "John 21:7",
+      "source_verse_sha256": "ecbed5fb20085f7dabd0be9f324efdac8cd31fb45878ab5ba4834d994734efb4",
+      "before": "The disciple Jesus loved said to Peter, “It is the Lord!” When Simon Peter heard it was the Lord, he put on his outer garment, because he was stripped for work, and threw himself into the sea.",
+      "after": "The disciple Jesus loved told Peter, “It is the Lord!” When Simon Peter heard that it was the Lord, he tied his outer garment around himself, because he was stripped for work, and plunged into the sea.",
+      "tsw_comparator": "Therefore that disciple whom Jesus loved said to Peter, “It is the Lord.” When Simon Peter heard that it was the Lord, he put on his outer garment (for he was stripped for work) and threw himself into the sea.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.779221,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:8",
+      "delta": "F3",
+      "rationale": "Preserves boat size, net, fish, proximity, and ancient approximate measure.",
+      "source_reference": "John 21:8",
+      "source_verse_sha256": "0bf32996c91cfa1398872ece832ae560a0a36e84e66641b52fa57252c3bd21ff",
+      "before": "The other disciples came in the little boat, dragging the net full of fish, because they were not far from land, only about two hundred cubits away.",
+      "after": "The other disciples came in the small boat, dragging the net full of fish, because they were not far from land—only about two hundred cubits.",
+      "tsw_comparator": "But the other disciples came in the little boat, for they were not far from the land, but about two hundred cubits, dragging the net full of fish.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.481481,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:11",
+      "delta": "F3",
+      "rationale": "Keeps Peter’s actions, exact number, size, abundance, and intact net.",
+      "source_reference": "John 21:11",
+      "source_verse_sha256": "6f7defb3e86a220de2f9df677caa5c8c97c07a9db157d3edf036f51374c60094",
+      "before": "Simon Peter went aboard and hauled the net ashore, full of large fish—one hundred fifty-three of them. Even though there were so many, the net was not torn.",
+      "after": "So Simon Peter climbed aboard and hauled the net ashore, full of 153 large fish. Even with so many, the net was not torn.",
+      "tsw_comparator": "Simon Peter went up and drew the net to land, full of large fish—one hundred fifty-three; and though there were so many, the net was not torn.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.603774,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:15",
+      "delta": "F3",
+      "rationale": "Keeps full address, ambiguous comparison, exchanged love verbs without overstating their distinction, knowledge, and commission.",
+      "source_reference": "John 21:15",
+      "source_verse_sha256": "f22ec203f386dcb067237098e9beef683bb4924aa1e75c6b20c44e9f9cd89bf2",
+      "before": "When they had eaten breakfast, Jesus said to Simon Peter, “Simon son of John, do you love me more than these?” Peter said, “Yes, Lord. You know that I love you.” Jesus told him, “Feed my lambs.”",
+      "after": "After they had eaten breakfast, Jesus asked Simon Peter, “Simon son of John, do you love me more than these?” He answered, “Yes, Lord; you know that I love you.” Jesus told him, “Feed my lambs.”",
+      "tsw_comparator": "So when they had eaten breakfast, Jesus said to Simon Peter, “Simon, son of John, do you love me more than these?” He said to him, “Yes, Lord; you know that I love you.” He said to him, “Feed my lambs.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.805195,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:17",
+      "delta": "F3",
+      "rationale": "Keeps third count, grief, repeated question, comprehensive knowledge, and commission.",
+      "source_reference": "John 21:17",
+      "source_verse_sha256": "691238290e2bdc8e9c676ad55c431e8e895122692ee12ae90bc96840ece961b1",
+      "before": "He asked him the third time, “Simon son of John, do you love me?” Peter was grieved because Jesus asked him the third time, “Do you love me?” He said, “Lord, you know everything. You know that I love you.” Jesus told him, “Feed my sheep.”",
+      "after": "Jesus asked him a third time, “Simon son of John, do you love me?” Peter was grieved that Jesus asked him the third time, “Do you love me?” He answered, “Lord, you know everything; you know that I love you.” Jesus told him, “Feed my sheep.",
+      "tsw_comparator": "He said to him the third time, “Simon, son of John, do you love me?” Peter was grieved because he said to him the third time, “Do you love me?” And he said to him, “Lord, you know all things; you know that I love you.” Jesus said to him, “Feed my sheep.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.747475,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:18",
+      "delta": "F3",
+      "rationale": "Preserves double amen, age contrast, dressing, freedom, outstretched hands, and compelled movement.",
+      "source_reference": "John 21:18",
+      "source_verse_sha256": "ad961922a14b7c37672a03d97e31b1b1fef2806ffa398a34e644735c39b63f17",
+      "before": "“Truly, truly, I tell you, when you were younger, you tied your own belt and walked where you wanted. But when you grow old, you will stretch out your hands, and someone else will tie you and carry you where you do not want to go.”",
+      "after": "Truly, truly, I tell you: when you were younger, you dressed yourself and walked wherever you wanted. But when you grow old, you will stretch out your hands, and someone else will dress you and carry you where you do not want to go.”",
+      "tsw_comparator": "Truly, truly, I say to you, when you were younger, you used to dress yourself and walk where you wished. But when you grow old, you will stretch out your hands, and another will dress you and carry you where you do not wish.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:22",
+      "delta": "F3",
+      "rationale": "Preserves hypothetical condition, coming, refusal of comparison, and emphatic command.",
+      "source_reference": "John 21:22",
+      "source_verse_sha256": "392e6cd0a15f049495abe562e5abe46954fc7ec43e24f9b27d21f3e958a0962e",
+      "before": "Jesus said, “If I want him to remain until I come, what is that to you? You follow me.”",
+      "after": "Jesus told him, “If I want him to remain until I come, what is that to you? You follow me.”",
+      "tsw_comparator": "Jesus said to him, “If I want him to remain until I come, what is that to you? You follow me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:23",
+      "delta": "F3",
+      "rationale": "Keeps community, rumor, correction, and exact conditional saying.",
+      "source_reference": "John 21:23",
+      "source_verse_sha256": "d7a296c02bd45b84ee3576983799778059e1147639d8be3ceba2ac11d4828a7c",
+      "before": "So this saying spread among the brothers that this disciple would not die. But Jesus did not tell Peter that he would not die; he said, “If I want him to remain until I come, what is that to you?”",
+      "after": "So this saying spread among the brothers and sisters that this disciple would not die. But Jesus did not tell Peter that he would not die; he said, “If I want him to remain until I come, what is that to you?”",
+      "tsw_comparator": "Therefore this saying went out among the brothers that that disciple would not die. Yet Jesus did not say to him that he would not die, but, “If I want him to remain until I come, what is that to you?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.771084,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 21:24",
+      "delta": "F3",
+      "rationale": "Preserves witness, authorship claim, communal knowledge, and truth.",
+      "source_reference": "John 21:24",
+      "source_verse_sha256": "21ae3ee065a696a2ac6ff2780f855ec1fc74b04f25a082273bf6e596373c72f3",
+      "before": "This is the disciple who testifies about these things and wrote these things, and we know that his testimony is true.",
+      "after": "This is the disciple who testifies about these things and wrote them down, and we know that his testimony is true.",
+      "tsw_comparator": "This is the disciple who testifies about these things, and who wrote these things; and we know that his testimony is true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_21.md",
-    "blob_sha": "cef55322d0353d01220d4cecf6c0b3323bfd11c3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

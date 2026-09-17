@@ -2,204 +2,140 @@
   "book": "Acts",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 26,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_01.md",
-    "blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "51ab2a1e86b29c1695e077318e069a4ced81b24c37a0561b2d4825d7f3b23f21"
-      },
-      "2": {
-        "source_ref": "Acts 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "8d3a6c168dcb9882567e4baa0a55e41e354e329f37cd59ac4cc7dd1551803e26"
-      },
-      "3": {
-        "source_ref": "Acts 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "c6100dbd83eb9208b4f50e60b1dc382affdb226dc911a0d8edd801bcf84b5ee5"
-      },
-      "4": {
-        "source_ref": "Acts 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "5cdf43550dbba97e882384c6221e2d60d4c1b6c8c307b9bbfb1bf2cc070d6d50"
-      },
-      "5": {
-        "source_ref": "Acts 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "660c20283d42401b8fe18bdcb121fd26ca9f0ed2bbc37cf6986f4939a75d86e4"
-      },
-      "6": {
-        "source_ref": "Acts 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "cb2425fef558b4508333eec827d23c579bec7964ed66c4f7c7dee23ed3292315"
-      },
-      "7": {
-        "source_ref": "Acts 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "002071e918138ff450c506be6524ac9b0bffbebb34dbc91eff4e138d0b173495"
-      },
-      "8": {
-        "source_ref": "Acts 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "d56ae75702940ac29301b44eedfc3578b3a6a55f6dfed87cdca2fd9644da1085"
-      },
-      "9": {
-        "source_ref": "Acts 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e3f27a196d40407b12c4493b3bba2feaefc7f750596c1217e6f1b06679c1d2a5"
-      },
-      "10": {
-        "source_ref": "Acts 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "7879bb611b0b190835a2aa46800a4fd9114d3ae4eb3c824af71f90ec2870624d"
-      },
-      "11": {
-        "source_ref": "Acts 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "b88bf12501299d58b3080a1a8f53a1bb3a5c3ef789975072379bb4f103140f6c"
-      },
-      "12": {
-        "source_ref": "Acts 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "c642b9ac0becc10b76f5d3119031f8a283a65d09a92b3044f45f8b217dca2f51"
-      },
-      "13": {
-        "source_ref": "Acts 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "a7c7204c1c426d268077f94ee47c59f71d7a747a585433122ffc3ab2a291772b"
-      },
-      "14": {
-        "source_ref": "Acts 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "62093d3e4dbf2e2faa8a3c1f81c731a60d28785dff6ce387573e21d10b8201f1"
-      },
-      "15": {
-        "source_ref": "Acts 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "199626a79449e2c444d405e935c027d327c79542fd8648d8b9d38a2f57574611"
-      },
-      "16": {
-        "source_ref": "Acts 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "68b3fb04a0330e0ce9cb4bf4c5366de0ba03fcee3f9d395a300d64f6d9c1138c"
-      },
-      "17": {
-        "source_ref": "Acts 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "611491fd5302fe227325e15555d8f413c0f1fce05c49a7cc9677c18c2b4f5f42"
-      },
-      "18": {
-        "source_ref": "Acts 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "50afa641151f7f0807ec256283ee939da0955f2153de74ca592a4743b17e5db3"
-      },
-      "19": {
-        "source_ref": "Acts 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f42cd9f1a970bf9535796ca7fabab4d49c8b0e02f5793266b9a499773ce550d2"
-      },
-      "20": {
-        "source_ref": "Acts 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "51dee0808878b19aeedea99f1515923abc9082559041788aac9c12a6342f985b"
-      },
-      "21": {
-        "source_ref": "Acts 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "8511c7c7830923c86b48fe9dba580ed34c17372592afd7eb29ed986d58a3ee22"
-      },
-      "22": {
-        "source_ref": "Acts 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "e29ad3b0c989a6aa001718c790ad83bbc844235ebfcd645dd7e1733a3517a0ef"
-      },
-      "23": {
-        "source_ref": "Acts 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "e01173bfc78f6f3abdba1d84f104ba07cf631ac6ebef8f418a13d6df967be361"
-      },
-      "24": {
-        "source_ref": "Acts 1:24",
-        "source_chapter": 1,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "f886f12727bd3c8709ede8cd8f17965efc0f5c6b3f977fffeb91530ecf25e010"
-      },
-      "25": {
-        "source_ref": "Acts 1:25",
-        "source_chapter": 1,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "59a72154f8b292902ebb67b1a978f8da59e8735a468afb7fe4b2afedeab97125"
-      },
-      "26": {
-        "source_ref": "Acts 1:26",
-        "source_chapter": 1,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "c3c22dc13b192a6f30846b9dd1e2182d57b3b2b5f7e5a8cdecd71d3cfe6385ca"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/acts/Acts_01.md",
+    "before_sha256": "2940f427c8ccf47d66884c24fddec9b07bb150e0844413bd93ade8d085a7d527",
+    "after_sha256": "eef18b84c566fb82dde78356a6eeafe7e4ccede8e76cb80a72d098edb8d24234",
+    "tsw_comparator_path": "books/NT/acts/Acts_01.md",
+    "tsw_comparator_sha256": "f2ff30220c9ab20b9de66040cc682918a9739df349b25b09e2fac00bbb1262c0"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 1:4",
+      "delta": "F3",
+      "rationale": "Renders the likely shared-meal setting and preserves command, city, waiting, Father, and Jesus’ prior promise.",
+      "source_reference": "Acts 1:4",
+      "source_verse_sha256": "0213cf50808e4b0ac3d922fb22effe8c6eed482a9bb2af92f3e78c72eb55448b",
+      "before": "While meeting with them, he ordered them not to leave Jerusalem but to wait for the Father’s promise, “which,” he said, “you heard from me.",
+      "after": "While he was eating with them, he ordered them not to leave Jerusalem but to wait for the Father’s promise, “which you heard about from me.",
+      "tsw_comparator": "And while staying with them, he commanded them not to depart from Jerusalem, but to wait for the promise of the Father, “which,” he said, “you heard from me;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.690909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:8",
+      "delta": "F3",
+      "rationale": "Preserves contrast, Spirit-given power, witness, geographic movement, and world horizon.",
+      "source_reference": "Acts 1:8",
+      "source_verse_sha256": "2d70db4859aecccdfb4fd04be6372b4701d97e2ace717e3152ed7c24a8372d7a",
+      "before": "But you will receive power when the Holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth.”",
+      "after": "But you will receive power when the Holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth.”",
+      "tsw_comparator": "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.861538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:14",
+      "delta": "F3",
+      "rationale": "Preserves unanimity, persistence, prayer, women, Mary, and Jesus’ brothers.",
+      "source_reference": "Acts 1:14",
+      "source_verse_sha256": "68ffb00b97d687803c263aed11c30a17a3598ea27dd729878c8ce71d95ac5e27",
+      "before": "All of them were devoting themselves together to prayer, along with the women, Mary the mother of Jesus, and his brothers.",
+      "after": "All of them were united and devoted to prayer, together with the women, Mary the mother of Jesus, and his brothers.",
+      "tsw_comparator": "All these were devoting themselves with one accord to prayer, together with the women and Mary the mother of Jesus, and his brothers.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:15",
+      "delta": "F3",
+      "rationale": "Keeps time, Peter’s action, inclusive community sense, approximate number, and speech opening.",
+      "source_reference": "Acts 1:15",
+      "source_verse_sha256": "3f61d0d050ce28806e64446b4f83500fc01efa700e8ee2d37d1992c80027e5d2",
+      "before": "In those days Peter stood up among the brothers and sisters—the gathering numbered about one hundred twenty people—and said,",
+      "after": "In those days Peter stood among the brothers and sisters—a gathering of about 120 people—and said,",
+      "tsw_comparator": "In those days Peter stood up in the midst of the brothers (the number of names together was about one hundred twenty) and said,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.52381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:18",
+      "delta": "F3",
+      "rationale": "Preserves field, corrupt payment, fall, bodily rupture, and graphic death.",
+      "source_reference": "Acts 1:18",
+      "source_verse_sha256": "5d3b85acbf4a78d6f770cc8e281d2a35e21e6003763697bfa7836d717e7456ee",
+      "before": "Now this man acquired a field with the wages of unrighteousness. Falling headfirst, he burst open in the middle, and all his insides spilled out.",
+      "after": "Now this man acquired a field with the wages of injustice. Falling headfirst, he burst open in the middle, and all his insides spilled out.",
+      "tsw_comparator": "(Now this man acquired a field with the wages of unrighteousness, and falling headlong he burst open in the middle and all his bowels spilled out.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:21",
+      "delta": "F3",
+      "rationale": "Keeps conclusion, male candidate requirement in this episode, continuous companionship, and idiom of activity.",
+      "source_reference": "Acts 1:21",
+      "source_verse_sha256": "87a88e703f4877aa824fe9a3479ac79c9f3ffcd5a0f7b568c4229dafeb7948bf",
+      "before": "Therefore one of the men who accompanied us during the whole time the Lord Jesus went in and out among us,",
+      "after": "Therefore, one of the men who accompanied us the whole time the Lord Jesus went in and out among us—",
+      "tsw_comparator": "So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 1:25",
+      "delta": "F3",
+      "rationale": "Keeps ministry, apostleship, Judas’s departure, and restrained destination phrase.",
+      "source_reference": "Acts 1:25",
+      "source_verse_sha256": "e53ffb4340ec65a2f241f985f3038b246df2e7e5f5246df4c7bd9e0f901f47bb",
+      "before": "to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.”",
+      "after": "to take the place in this ministry and apostleship from which Judas turned away to go to his own place.”",
+      "tsw_comparator": "to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

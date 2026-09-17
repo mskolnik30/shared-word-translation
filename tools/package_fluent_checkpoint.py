@@ -24,6 +24,7 @@ def main():
     ap.add_argument('--parent-checkpoint',type=Path,required=True)
     ap.add_argument('--scope-directory',type=Path,required=True)
     ap.add_argument('--output-directory',type=Path,required=True)
+    ap.add_argument('--additional-source-directory',type=Path)
     a=ap.parse_args(); P=a.parent_checkpoint.resolve(); A=a.scope_directory.resolve(); O=a.output_directory.resolve()
     assert not O.exists(),'Use a fresh packaging directory to exclude stale files.'
     O.mkdir(parents=True)
@@ -41,6 +42,18 @@ def main():
         src=R/f;assert src.is_file(),f
         dest=O/'repository'/f;dest.parent.mkdir(parents=True,exist_ok=True);shutil.copy2(src,dest)
     shutil.copytree(P/'sources',O/'sources')
+    new_source_files=cfg.get('new_source_files',[])
+    if new_source_files:
+        assert a.additional_source_directory is not None
+        source_dir=a.additional_source_directory.resolve()
+        for name in new_source_files:
+            src=source_dir/name;assert src.is_file(),src
+            shutil.copy2(src,O/'sources'/name)
+        bindings_path=O/'sources'/'additional-source-bindings.json'
+        bindings=json.loads(bindings_path.read_text()) if bindings_path.exists() else {}
+        bindings[cfg['slug']]={k:v for k,v in cfg['source'].items() if k in ['id','repository','repository_commit','file','git_blob_sha','sha256']}
+        bindings[cfg['slug']]['bytes']=(O/'sources'/cfg['source_filename']).stat().st_size
+        dump(bindings_path,bindings)
     if (P/'provenance').exists():shutil.copytree(P/'provenance',O/'provenance')
     prov=O/'provenance'/('parent-version-'+str(cfg['parent_library_version']))
     prov.mkdir(parents=True,exist_ok=True)
@@ -105,7 +118,7 @@ Current head: {head}; parent: {parent}; required base: {base}; branch: {branch}.
 Draft coverage: {counts['chapters']} chapters, {counts['verses']} verses, {len(ledgers)} ledgers. Existing files across all 1189 chapters do not count as current revision coverage.
 Active block: {block['scope']}. Completed {block['completed_chapters']} chapters / {block['completed_verses']} verses: {block['completed_scope']}. Remaining {block['remaining_chapters']}: {block['remaining_scope']}. Finish this block before starting another. This is explicitly an incomplete block.
 Read repository instructions, FLUENT_TRANSLATION_PHILOSOPHY.md, WORK_QUEUE.json, and latest ledgers. Read every verified pinned original-language verse before authoring. TSW and prior English are comparators, not templates. Preserve meaning, voice, difficult images, consequential uncertainty, gender when specific, real harm, repetition, and clear relationships. Use selective Notes/Vocabulary, not sermons. No word-change quota.
-Keep verse-level rationale, before/after, exact source hash/reference, TSW comparator, and provisional F0–F3. Preserve frontmatter, v01 labels, headings, paragraphs, and source omissions. Hash exact source payloads including whitespace, variant markers, and written/read annotations. Verify complete source SHA-256 and Git blob identity. Gospel source: Faithlife/SBLGNT commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c. All four full Gospel source files are included; Luke/John bindings are in sources/additional-source-bindings.json. Actual variant-marked main-text words must not be mistaken for omissions. Mark 3:14 lacks the apostles clause; 6:30 includes apostles. Mark 7:4 includes couches, 7:16 is absent, adultery is in 7:22, and 7:35 lacks immediately. Do not use previous notes as source evidence. Treat Mark's bracketed endings separately from main-text uncertainty.
+Keep verse-level rationale, before/after, exact source hash/reference, TSW comparator, and provisional F0–F3. Preserve frontmatter, v01 labels, headings, paragraphs, and source omissions. Hash exact source payloads including whitespace, variant markers, and written/read annotations. Verify complete source SHA-256 and Git blob identity. New Testament source: Faithlife/SBLGNT commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c. The full Gospel and Acts source files are included; additional bindings are in sources/additional-source-bindings.json. Actual variant-marked main-text words must not be mistaken for omissions. Do not use previous notes as source evidence; distinguish bracketed textual traditions from main-text uncertainty.
 Keep REVIEW_PENDING, qa_scope structural, publication_allowed false. Old approvals and Companion bindings do not transfer. Preserve all prior ledgers, historical provenance, chapters outside active scope, TSW and Companion; queue quotation/binding reconciliation. Retain whole-book reviews. Run affected source audits, translation-family audit, git diff --check, names/numbers/speakers/variants checks, and a documented bilingual authoring reread. Never claim human or independent review.
 Verify the local checkout against this archive. If absent, clone the authorized GitHub repository and fetch this cumulative bundle; preserve Git parent objects, not just a patch. The bundle contains every revision commit since the required base. Current build, verification and packaging scripts are in repository/tools and do not require transient scripts. Read their scope restrictions before adapting them. Older verify_batch scripts bind their historical checkpoints and should be run at those commits.
 Update exact counts and queue; commit locally; rebuild cumulative bundle, changed files, pinned sources, readers, history, continuation and SHA-256 manifest. Replace the SAME canonical file with the retained current version guard using the Library upload helper. Reconcile conflicts; never bypass the guard. Save expensive unfinished work explicitly as incomplete.

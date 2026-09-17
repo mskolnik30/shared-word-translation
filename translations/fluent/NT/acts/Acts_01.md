@@ -4,106 +4,79 @@ testament: NT
 chapter: 1
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-acts-1-6-biblical-fluency-2026-09-16
 ---
+
 
 ## The Promise of the Spirit
 
 <p>
 v01: In my first account, Theophilus, I wrote about everything Jesus began to do and teach
-v02: until the day he was taken up, after giving instructions through the Holy Spirit to the apostles he had chosen.
-v03: After his suffering, he presented himself alive to them with many convincing proofs. He appeared to them over forty days and spoke about God’s kingdom.
-v04: While meeting with them, he ordered them not to leave Jerusalem but to wait for the Father’s promise, “which,” he said, “you heard from me.
-v05: John baptized with water, but in a few days you will be baptized with the Holy Spirit.”
+v02: until the day he was taken up, after giving commands through the Holy Spirit to the apostles he had chosen.
+v03: After his suffering, he presented himself alive to them with many convincing proofs. He appeared to them over forty days and spoke about the kingdom of God.
+v04: While he was eating with them, he ordered them not to leave Jerusalem but to wait for the Father’s promise, “which you heard about from me.
+v05: John baptized with water, but in just a few days you will be baptized with the Holy Spirit.”
 </p>
 
 ## Witnesses to the Ends of the Earth
 
 <p>
-v06: So when they came together, they asked him, “Lord, is this the time when you will restore the kingdom to Israel?”
-v07: He said to them, “It is not for you to know the times or seasons the Father has set by his own authority.
+v06: So when they had come together, they asked him, “Lord, is this the time when you will restore the kingdom to Israel?”
+v07: He told them, “It is not for you to know the times or seasons the Father has set by his own authority.
 v08: But you will receive power when the Holy Spirit comes upon you, and you will be my witnesses in Jerusalem, throughout Judea and Samaria, and to the ends of the earth.”
-v09: After saying this, while they were watching, he was lifted up, and a cloud took him from their sight.
-v10: As they stood staring into heaven while he was going, look—two men in white clothing stood beside them.
-v11: They said, “Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven, will come in the same way you saw him go into heaven.”
+v09: After saying this, he was lifted up as they watched, and a cloud took him from their sight.
+v10: As they were staring into heaven while he went, suddenly two men in white clothing stood beside them.
+v11: They said, “Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken from you into heaven, will come in the same way you saw him go into heaven.”
 </p>
 
 ## The Disciples Gather
 
 <p>
-v12: Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day’s journey away.
-v13: When they entered the city, they went upstairs to the room where they were staying: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James.
-v14: All of them were devoting themselves together to prayer, along with the women, Mary the mother of Jesus, and his brothers.
+v12: Then they returned to Jerusalem from the mountain called the Mount of Olives, which is near Jerusalem—a Sabbath day’s journey away.
+v13: When they arrived, they went up to the upstairs room where they were staying: Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James.
+v14: All of them were united and devoted to prayer, together with the women, Mary the mother of Jesus, and his brothers.
 </p>
 
 ## Matthias Is Chosen
 
 <p>
-v15: In those days Peter stood up among the brothers and sisters—the gathering numbered about one hundred twenty people—and said,
-v16: “Brothers and sisters, the Scripture had to be fulfilled that the Holy Spirit spoke beforehand through David concerning Judas, who became a guide to those who arrested Jesus.
-v17: He was counted among us and received his share in this ministry.”
-v18: Now this man acquired a field with the wages of unrighteousness. Falling headfirst, he burst open in the middle, and all his insides spilled out.
-v19: This became known to everyone living in Jerusalem, so the field was called in their own language Akeldama, that is, Field of Blood.
-v20: “For it is written in the book of Psalms:
-‘Let his dwelling become desolate,
-and let no one live in it,’
-and,
-‘Let another take his office.’
-v21: Therefore one of the men who accompanied us during the whole time the Lord Jesus went in and out among us,
-v22: beginning from John’s baptism until the day Jesus was taken up from us, must become with us a witness to his resurrection.”
-v23: They put forward two men: Joseph called Barsabbas, who was also called Justus, and Matthias.
-v24: Then they prayed, “Lord, you know everyone’s heart. Show which one of these two you have chosen
-v25: to take the place in this ministry and apostleship from which Judas turned aside to go to his own place.”
-v26: They cast lots for them, and the lot fell to Matthias, who was counted with the eleven apostles.
+v15: In those days Peter stood among the brothers and sisters—a gathering of about 120 people—and said,
+v16: “Brothers and sisters, the Scripture had to be fulfilled that the Holy Spirit spoke beforehand through David’s mouth concerning Judas, who became a guide for those who arrested Jesus.
+v17: For he was counted among us and received a share in this ministry.”
+v18: Now this man acquired a field with the wages of injustice. Falling headfirst, he burst open in the middle, and all his insides spilled out.
+v19: Everyone living in Jerusalem learned about this, so in their own language they called that field Akeldama, meaning Field of Blood.
+v20: “For it is written in the book of Psalms: ‘Let his dwelling become desolate; let no one live in it,’ and, ‘Let another take his position of oversight.’
+v21: Therefore, one of the men who accompanied us the whole time the Lord Jesus went in and out among us—
+v22: beginning with John’s baptism until the day Jesus was taken up from us—must become a witness with us to his resurrection.”
+v23: So they proposed two: Joseph called Barsabbas, who was also called Justus, and Matthias.
+v24: Then they prayed, “Lord, you know every heart. Show which one of these two you have chosen
+v25: to take the place in this ministry and apostleship from which Judas turned away to go to his own place.”
+v26: They cast lots for them, and the lot fell to Matthias, so he was counted with the eleven apostles.
 </p>
 
 ## Notes
 
-v01: “Began to do and teach” deliberately links Acts with Luke. The wording suggests continuation rather than a disconnected second story.
+v04: The verb can refer to gathering or eating together. The shared-meal sense fits the embodied resurrection setting, while the command itself is clear.
 
-v03: Luke refers to “many convincing proofs” without itemizing them. The emphasis is sustained resurrection presence and instruction.
+v08: The movement from Jerusalem through Judea and Samaria to the earth’s end supplies a geographic program for Acts; ‘witnesses’ includes testimony that may become costly.
 
-v06–08: Jesus does not directly deny Israel’s restoration hope. He redirects the disciples from knowing the timetable toward Spirit-empowered witness.
+v14: The women, Mary, and Jesus’ brothers are explicitly present in the praying community.
 
-v08: Jerusalem → Judea → Samaria → ends of the earth functions as a structural map for Acts.
+v15: The Greek address is grammatically masculine but refers to the gathered community; ‘brothers and sisters’ communicates that inclusive audience.
 
-v09–11: The ascension is narrated visually but without speculative description of heaven.
+v18: The account graphically describes Judas’s body bursting open. The translation retains the harm without embellishment.
 
-v14: Women, Mary, and Jesus’ brothers are named as part of the praying community, which is broader than the apostolic circle.
+v21–22: The replacement candidate in this episode is required to be a man who accompanied the group from John’s baptism through the ascension and can witness to the resurrection.
 
-v16–20: Scripture is interpreted through Judas’ place in the story. Acts’ account of Judas’ death is allowed to stand without harmonizing it to Matthew.
-
-v21–22: The replacement apostle must have accompanied Jesus’ ministry and become specifically a resurrection witness.
-
-v24–26: Prayer and casting lots are used together. The narrative presents the choice as sought from God, not generated by apostolic preference alone.
+v25: ‘His own place’ is deliberately restrained. The verse does not name or describe Judas’s destination.
 
 ## Vocabulary
 
-v03: τεκμήριον (tekmērion)
-“Convincing proof, evidence.”
+v02: **ἀπόστολος (apostolos)**: One who is sent, an apostle or authorized messenger.
 
-v04: ἐπαγγελία (epangelia)
-“Promise.”
+v08: **μάρτυς (martys)**: Witness; later usage also gives English the word martyr.
 
-v07: καιρός (kairos)
-“Season, appointed time.”
-
-v08: δύναμις (dynamis)
-“Power.”
-
-v08: μάρτυς (martys)
-“Witness.”
-
-v14: ὁμοθυμαδόν (homothymadon)
-“Together with one purpose.”
-
-v16: πληρόω (plēroō)
-“To fulfill.”
-
-v20: ἐπισκοπή (episkopē)
-“Office, oversight.”
-
-v24: καρδιογνώστης (kardiognōstēs)
-“Knower of hearts.”
-
-v26: κλῆρος (klēros)
-“Lot.”
+v26: **κλῆρος (klēros)**: Lot, allotted share, or assigned portion.

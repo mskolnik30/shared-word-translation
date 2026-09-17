@@ -581,12 +581,34 @@
       "scope": "John 1–17",
       "verses": 740,
       "ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json"
+    },
+    {
+      "scope": "John 18–21",
+      "verses": 138,
+      "ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json"
+    },
+    {
+      "scope": "Acts 1–6",
+      "verses": 193,
+      "ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "John 18–21; Acts 1–28; Romans 1–6",
-      "action": "Continue the remaining 38 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "Acts 7–28; Romans 1–6",
+      "action": "Continue the remaining 28 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+    },
+    {
+      "scope": "Whole-book Mark consistency review",
+      "action": "All 16 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review repeated language, rapid narrative movement, speakers, textual endings, and cross-batch consistency. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book Luke consistency review",
+      "action": "All 24 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review travel structure, repeated language, names, speakers, textual variants, and cross-batch consistency. Independent editorial review remains pending."
+    },
+    {
+      "scope": "Whole-book John consistency review",
+      "action": "All 21 chapters have source-based revision drafts. Read the complete revised book and apparatus continuously; review recurring terms, signs, festival chronology, speakers, textual variants, and cross-batch consistency. Independent editorial review remains pending."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -784,11 +806,11 @@
     "scope": "John 6–21; Acts 1–28; Romans 1–6",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 12,
-    "completed_scope": "John 6–17",
-    "completed_verses": 528,
-    "remaining_scope": "John 18–21; Acts 1–28; Romans 1–6",
-    "remaining_chapters": 38,
+    "completed_chapters": 22,
+    "completed_scope": "John 6–21; Acts 1–6",
+    "completed_verses": 859,
+    "remaining_scope": "Acts 7–28; Romans 1–6",
+    "remaining_chapters": 28,
     "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. The preceding fifty-chapter block is draft-complete; source and structural checks passed for this partial block. Independent editorial review and reader testing remain pending."
   }
 }

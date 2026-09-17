@@ -2,238 +2,164 @@
   "book": "John",
   "chapter": 20,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 31,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-18-21-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+    "path": "audit/exegetical-core/fluent-production/john/John_20_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 20:1",
-        "source_chapter": 20,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "ae4ec701d1f324a022618b31fa79a0f1955e9f3ad99b9fdf9901fee0f2b27405"
-      },
-      "2": {
-        "source_ref": "John 20:2",
-        "source_chapter": 20,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "061b0e878bf00431b1f22e62c69c55d39685ef801b5cef816660a9cd59796bd4"
-      },
-      "3": {
-        "source_ref": "John 20:3",
-        "source_chapter": 20,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "0a8a8669b6a454bcda7c1b0a4caf920172a37973f213ff7624c5007e1f267e4a"
-      },
-      "4": {
-        "source_ref": "John 20:4",
-        "source_chapter": 20,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "6a6097ad2b566569e862c0c3e0efb070e5e0d64c76cec7f82e99cdf6d86b90a7"
-      },
-      "5": {
-        "source_ref": "John 20:5",
-        "source_chapter": 20,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "80f1cbd43fcfba98e71c826f46a91da5f1eec0f05601366f77043f2ba96d999a"
-      },
-      "6": {
-        "source_ref": "John 20:6",
-        "source_chapter": 20,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5c56a37e987cdc0b886a79921cf58c9421aaeb2822a42d4e06035dec9d50d5eb"
-      },
-      "7": {
-        "source_ref": "John 20:7",
-        "source_chapter": 20,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "06f42b8f8782694ff35aee17b3236751aa7525ecdaef131c64ce950e861ecdd8"
-      },
-      "8": {
-        "source_ref": "John 20:8",
-        "source_chapter": 20,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "cb646892cdedcff71abc082768196bdea7976808ab6e8d878596d1f443f2ec9e"
-      },
-      "9": {
-        "source_ref": "John 20:9",
-        "source_chapter": 20,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "2f2db3bb57a43affa5faa898fbd801f61a905f477ad603cc6a86e9527893b685"
-      },
-      "10": {
-        "source_ref": "John 20:10",
-        "source_chapter": 20,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "32079fd4270e394aa236d62d48761083ac071ce0796b17073c1396ead9b43e82"
-      },
-      "11": {
-        "source_ref": "John 20:11",
-        "source_chapter": 20,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "85674021bd4a9ddefb649f0acdda38ce57ef8f7024397af06e68583812837b5c"
-      },
-      "12": {
-        "source_ref": "John 20:12",
-        "source_chapter": 20,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b30d738ca9eadf3ef7ca51eeb5e2fbf181a602db4450c728b3e487da8ca80079"
-      },
-      "13": {
-        "source_ref": "John 20:13",
-        "source_chapter": 20,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "a334766203e2ece19c53e11c5247a2254d7b2d79910308f1356bd387c77299f7"
-      },
-      "14": {
-        "source_ref": "John 20:14",
-        "source_chapter": 20,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "339fb78bb87fd009134661f76dfaebf1b36cb1c5a59d4a8610ad9ef2230e9218"
-      },
-      "15": {
-        "source_ref": "John 20:15",
-        "source_chapter": 20,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "384905425480a60f8b81394f2e95130e45419fba14d533c2ba32fb7b19bcbac8"
-      },
-      "16": {
-        "source_ref": "John 20:16",
-        "source_chapter": 20,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "efdb4dbc69ba9c3912e269ffa56be49cc7c69882e223e5577d305b6fc0b7ecae"
-      },
-      "17": {
-        "source_ref": "John 20:17",
-        "source_chapter": 20,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "e1e7deab0cb3d1296f12d5603e7d60c1e65d22586275617e85cdcf339cc35c3b"
-      },
-      "18": {
-        "source_ref": "John 20:18",
-        "source_chapter": 20,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "e14471977f2d4fdab942c65b216fd4d344b68d086a299d5d607ac722c1a8db9b"
-      },
-      "19": {
-        "source_ref": "John 20:19",
-        "source_chapter": 20,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "1928612df7c63cf4337b85ad954d6e74325301a6f50d9ff288a337c5946b89ac"
-      },
-      "20": {
-        "source_ref": "John 20:20",
-        "source_chapter": 20,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "7c704d57762fb6ca08d77e6b8ae23849e3f06f17cdef4b2698184a73516dba18"
-      },
-      "21": {
-        "source_ref": "John 20:21",
-        "source_chapter": 20,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "387b65bf62af90a785ca7754b987e0889de54344c524131ab8092e660457847c"
-      },
-      "22": {
-        "source_ref": "John 20:22",
-        "source_chapter": 20,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "af540e296bedc73e126bb311568cfc3368a9f54797a9d66c1182127211965774"
-      },
-      "23": {
-        "source_ref": "John 20:23",
-        "source_chapter": 20,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "8e677834fc7e8119017962be3dd3a608ad0778d9cfb63bc60bf50818826986bc"
-      },
-      "24": {
-        "source_ref": "John 20:24",
-        "source_chapter": 20,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "9308f039e53411febab049e224f66aec3eb801bad702a2c97cc16bb5e20b5d21"
-      },
-      "25": {
-        "source_ref": "John 20:25",
-        "source_chapter": 20,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "36bf38e1032c845cf6b77722d3deb11a0ddf987b26ab9974e7afd216bb67c995"
-      },
-      "26": {
-        "source_ref": "John 20:26",
-        "source_chapter": 20,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "87bf7427b68f77be5a87eba6ea5358bc05644656a2d715b75a65623c6f667969"
-      },
-      "27": {
-        "source_ref": "John 20:27",
-        "source_chapter": 20,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "304ab277b3a2d86c979a5403a8ba54170bf086192c5067291230fbc7ab79ed12"
-      },
-      "28": {
-        "source_ref": "John 20:28",
-        "source_chapter": 20,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "bf8dfea658fbe57e60a8cbf5cf6b91f9eaece09ca5c213ba770d79462cb4654f"
-      },
-      "29": {
-        "source_ref": "John 20:29",
-        "source_chapter": 20,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "e906461f8c007d62e1aad5716b044e379284882db04023387688c127cc6db894"
-      },
-      "30": {
-        "source_ref": "John 20:30",
-        "source_chapter": 20,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "9f3c00c2b0672b512555163a963021ce450c84c4005a074f46574aefbf987e8f"
-      },
-      "31": {
-        "source_ref": "John 20:31",
-        "source_chapter": 20,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "bc3cec1f1e9bd5612817085023eb85df248fad553ff8e882aefc57c1e3799e1d"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 20,
+    "verse_count": 31,
+    "path": "translations/fluent/NT/john/John_20.md",
+    "before_sha256": "0c2c163690edd44e27c77d24e6455778015e5e8af2a83ce1044adc6079da50ce",
+    "after_sha256": "4edd9ea685ccde4ee9200838954583b8b0698328c25b40867c473ff79e17730f",
+    "tsw_comparator_path": "books/NT/john/John_20.md",
+    "tsw_comparator_sha256": "1c330f6f69a23085b79f6a431f374ee018573b3de1dcde06038f529043991479"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-18-21/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 20:8",
+      "delta": "F3",
+      "rationale": "Keeps arrival reminder, entry, sight, and faith without supplying its object.",
+      "source_reference": "John 20:8",
+      "source_verse_sha256": "8c81a871e0b610128c330d8716919d8654b0efcfd307e681fb4cb73cb52c1ddd",
+      "before": "Then the other disciple, who had reached the tomb first, also went in. He saw and trusted.",
+      "after": "Then the other disciple, who had reached the tomb first, also went in. He saw and believed.",
+      "tsw_comparator": "Then the other disciple, who reached the tomb first, also went in, and he saw and trusted;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:17",
+      "delta": "F3",
+      "rationale": "Preserves command’s ongoing force, reason, commission, brothers, ascent, and parallel relations.",
+      "source_reference": "John 20:17",
+      "source_verse_sha256": "a71162a6d0fe13e03bb36d1c8d5fb0088d8e5832d3d77bed889b8ab9951ae623",
+      "before": "Jesus said, “Do not keep holding on to me, because I have not yet ascended to the Father. But go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”",
+      "after": "Jesus told her, “Do not hold on to me, because I have not yet ascended to the Father. But go to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”",
+      "tsw_comparator": "Jesus said to her, “Do not hold on to me, for I have not yet ascended to the Father. But go to my sisters and brothers and say to them, ‘I am ascending to my Father and your Father, to my God and your God.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:18",
+      "delta": "F3",
+      "rationale": "Keeps Mary as commissioned witness, direct claim, and full report.",
+      "source_reference": "John 20:18",
+      "source_verse_sha256": "588d6b94e0360801b30fc264007273f9c9c4ab8e80b7a5143541e9268d37f54e",
+      "before": "Mary Magdalene went and announced to the disciples, “I have seen the Lord!” and told them what he had said to her.",
+      "after": "Mary Magdalene went and announced to the disciples, “I have seen the Lord!” She also told them what he had said to her.",
+      "tsw_comparator": "Mary Magdalene went and announced to the disciples, “I have seen the Lord,” and that he had said these things to her.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:19",
+      "delta": "F3",
+      "rationale": "Preserves time, locked doors, fear and its object, Jesus’ arrival, position, and greeting.",
+      "source_reference": "John 20:19",
+      "source_verse_sha256": "3a21b1e5888d37351186be420734d9a7ab7fc45b7c908c9d1af0a2083ef07ec9",
+      "before": "When it was evening on that first day of the week, and the doors were locked where the disciples were because of fear of the Jewish authorities, Jesus came and stood among them. He said, “Peace to you.”",
+      "after": "That evening, on the first day of the week, the doors where the disciples were gathered were locked because they feared the Judean leaders. Jesus came, stood among them, and said, “Peace be with you.”",
+      "tsw_comparator": "When it was evening on that day, the first day of the week, and the doors were locked where the disciples were for fear of the Judeans, Jesus came and stood among them and said, “Peace be with you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.702703,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:22",
+      "delta": "F3",
+      "rationale": "Keeps embodied breath action and command.",
+      "source_reference": "John 20:22",
+      "source_verse_sha256": "cd7e4db9a40aeb49722998a0596e74be500e0ccdc3d2fe3d31cacf8927678fe7",
+      "before": "After saying this, he breathed on them and said, “Receive the Holy Spirit.",
+      "after": "After saying this, he breathed on them and said, “Receive the Holy Spirit.",
+      "tsw_comparator": "And when he had said this, he breathed on them and said to them, “Receive the Holy Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:23",
+      "delta": "F3",
+      "rationale": "Preserves paired conditions, forgiveness, and retention without adding institutional procedure.",
+      "source_reference": "John 20:23",
+      "source_verse_sha256": "6e2dca8706a26fbad1d6060a0fe78657c22e3b20523ba87c4ff2f3672fe63210",
+      "before": "If you forgive anyone’s sins, they are forgiven them; if you hold any sins, they are held.”",
+      "after": "If you forgive anyone’s sins, they are forgiven; if you retain anyone’s sins, they are retained.”",
+      "tsw_comparator": "If you forgive the sins of any, they are forgiven them; if you hold them, they are held.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647059,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:25",
+      "delta": "F3",
+      "rationale": "Preserves their witness, Thomas’s conditions, nails, body wounds, and emphatic refusal.",
+      "source_reference": "John 20:25",
+      "source_verse_sha256": "0a1212679a129d199c0530e3f411b652a81418a63e28caa540ec55406c656282",
+      "before": "So the other disciples told him, “We have seen the Lord!” But he said, “Unless I see the nail mark in his hands, put my finger into the nail mark, and put my hand into his side, I will certainly not trust.”",
+      "after": "So the other disciples told him, “We have seen the Lord!” But he told them, “Unless I see the nail marks in his hands, put my finger into the nail marks, and put my hand into his side, I will never believe.”",
+      "tsw_comparator": "So the other disciples told him, “We have seen the Lord.” But he said to them, “Unless I see in his hands the mark of the nails, and put my finger into the mark of the nails, and put my hand into his side, I will certainly not trust.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.747253,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:28",
+      "delta": "F3",
+      "rationale": "Keeps direct address and both titles.",
+      "source_reference": "John 20:28",
+      "source_verse_sha256": "bae68b8d0db2fa3058a37ffa246aa697d2d2054dde41f63011be2ce21ebc8d60",
+      "before": "Thomas answered him, “My Lord and my God!”",
+      "after": "Thomas answered him, “My Lord and my God!”",
+      "tsw_comparator": "Thomas answered him, “My Lord and my God!”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 20:31",
+      "delta": "F3",
+      "rationale": "Preserves textual-variant main reading’s purpose, titles, faith, life, and name.",
+      "source_reference": "John 20:31",
+      "source_verse_sha256": "265dff4394abd4cd6f12b5a8e5e32b6226b591f00b4c57643d92066505ca088f",
+      "before": "But these have been written so that you may trust that Jesus is the Christ, God’s Son, and so that by trusting you may have life in his name.",
+      "after": "But these are written so that you may believe that Jesus is the Messiah, the Son of God, and by believing may have life in his name.",
+      "tsw_comparator": "but these are written so that you may trust that Jesus is the Christ, the Son of God, and so that by trusting you may have life in his name.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_20.md",
-    "blob_sha": "5ae4685c9dfb1085c2f49e4d15715691b922ca48"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

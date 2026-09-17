@@ -21,7 +21,10 @@
       "source_sha256": "51ab2a1e86b29c1695e077318e069a4ced81b24c37a0561b2d4825d7f3b23f21",
       "translation_sha256": "a7f8a596d7cdfbf0da7b315e6adf4079f87c0bf1b055240bbbd867ebc053eb18",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -35,7 +38,10 @@
       "source_sha256": "8d3a6c168dcb9882567e4baa0a55e41e354e329f37cd59ac4cc7dd1551803e26",
       "translation_sha256": "f8d48ea2ba2b9e05f018612ad6d2cd562202b65a1883847e3c9d551191c63ab5",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -49,7 +55,10 @@
       "source_sha256": "c6100dbd83eb9208b4f50e60b1dc382affdb226dc911a0d8edd801bcf84b5ee5",
       "translation_sha256": "54ba32657b2c6e8f3330a6fd60cffe93267fd22b0bc03633704d738db5b8a1e1",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -63,7 +72,10 @@
       "source_sha256": "5cdf43550dbba97e882384c6221e2d60d4c1b6c8c307b9bbfb1bf2cc070d6d50",
       "translation_sha256": "779219eff8fd7f7f598edbf640bdb9216bc904b8fc52a8c100aa1951f077ded3",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -77,7 +89,10 @@
       "source_sha256": "660c20283d42401b8fe18bdcb121fd26ca9f0ed2bbc37cf6986f4939a75d86e4",
       "translation_sha256": "a94cd43abb6ea36f6e32629dec6505ad551fc5df8278b51ef5f3b1e387c7a066",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -91,7 +106,10 @@
       "source_sha256": "cb2425fef558b4508333eec827d23c579bec7964ed66c4f7c7dee23ed3292315",
       "translation_sha256": "c7958501292221a70b6a97caaa1aa61cbb1cd599eea64eac1e5b3c53024363a6",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -105,7 +123,10 @@
       "source_sha256": "002071e918138ff450c506be6524ac9b0bffbebb34dbc91eff4e138d0b173495",
       "translation_sha256": "278c8a221d6a8bdc4b45aacfce19ad42610b0f1af48cd3081b7cf256e23b8e64",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -121,7 +142,10 @@
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
       "curated_decisions": [
         "geographic witness program retained as structural horizon"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -135,7 +159,10 @@
       "source_sha256": "e3f27a196d40407b12c4493b3bba2feaefc7f750596c1217e6f1b06679c1d2a5",
       "translation_sha256": "0cf9fe0c30e65d422890b0c1df47dcc0f15a411877e8a3102797dc5f6e92de99",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -149,7 +176,10 @@
       "source_sha256": "7879bb611b0b190835a2aa46800a4fd9114d3ae4eb3c824af71f90ec2870624d",
       "translation_sha256": "866b645e309f44d3daa3f3ab476fbe77ba0ea4d2601dd97c22fc7f8f891535d8",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -163,7 +193,10 @@
       "source_sha256": "b88bf12501299d58b3080a1a8f53a1bb3a5c3ef789975072379bb4f103140f6c",
       "translation_sha256": "d2ff4c0c296e9e3a629aee52c6b25a418593c96eeadcff42dc76ebfaceb14dac",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -177,7 +210,10 @@
       "source_sha256": "c642b9ac0becc10b76f5d3119031f8a283a65d09a92b3044f45f8b217dca2f51",
       "translation_sha256": "ff011b3f51b02b25910194d0b703fe731553d5be6abe96be62934014f2e8c0b4",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -191,7 +227,10 @@
       "source_sha256": "a7c7204c1c426d268077f94ee47c59f71d7a747a585433122ffc3ab2a291772b",
       "translation_sha256": "0e18f66082960ac9d2905794f383ef902850cc5e2966d9b7dd2f6fd111dc6b7c",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -205,7 +244,10 @@
       "source_sha256": "62093d3e4dbf2e2faa8a3c1f81c731a60d28785dff6ce387573e21d10b8201f1",
       "translation_sha256": "a6e07291995f651b66ba811cb56ed1bf7b2ff24b855e73439f67ca1a78dea2ca",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -219,7 +261,10 @@
       "source_sha256": "199626a79449e2c444d405e935c027d327c79542fd8648d8b9d38a2f57574611",
       "translation_sha256": "672a7a6ff31628405ebfb590d9af894ee46ffd8f1e0c3f104acf1dc1163391f1",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -233,7 +278,10 @@
       "source_sha256": "68b3fb04a0330e0ce9cb4bf4c5366de0ba03fcee3f9d395a300d64f6d9c1138c",
       "translation_sha256": "a105f1e42c9f0ea98a81bccfe325077460a3df50256edfc82b1e7ed5c735ac3a",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -247,7 +295,10 @@
       "source_sha256": "611491fd5302fe227325e15555d8f413c0f1fce05c49a7cc9677c18c2b4f5f42",
       "translation_sha256": "5e63951fbd992656e55ffa949a725b35bd422c6a04a0fdbbe0f691b74138ad48",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -261,7 +312,10 @@
       "source_sha256": "50afa641151f7f0807ec256283ee939da0955f2153de74ca592a4743b17e5db3",
       "translation_sha256": "c27262fe9dabaacc07a53ccf6b3b584b6d82e0f2490e8fb0ff138b197b06db6f",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -275,7 +329,10 @@
       "source_sha256": "f42cd9f1a970bf9535796ca7fabab4d49c8b0e02f5793266b9a499773ce550d2",
       "translation_sha256": "50def11f2c4943688bc760cac311518304301ff951cb3c9e3d6fadbecd42db33",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -289,7 +346,10 @@
       "source_sha256": "51dee0808878b19aeedea99f1515923abc9082559041788aac9c12a6342f985b",
       "translation_sha256": "71bdf3f4daf512e9bb1c01f5a811fc5161467abde42a5010910c3ba97f9ea610",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -303,7 +363,10 @@
       "source_sha256": "8511c7c7830923c86b48fe9dba580ed34c17372592afd7eb29ed986d58a3ee22",
       "translation_sha256": "b442c263143fdb942b1f62b494a5e4abe83b5268ed1f6486282943f6d840d407",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -317,7 +380,10 @@
       "source_sha256": "e29ad3b0c989a6aa001718c790ad83bbc844235ebfcd645dd7e1733a3517a0ef",
       "translation_sha256": "0c4e3bea4cbcc4bf4ce18fbb9ee171ae43fd08c853fcee79c423e6dc18252112",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -331,7 +397,10 @@
       "source_sha256": "e01173bfc78f6f3abdba1d84f104ba07cf631ac6ebef8f418a13d6df967be361",
       "translation_sha256": "e58b15255e26db5ad38889e421671388ab409ea18fed76851eb94de893386997",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -345,7 +414,10 @@
       "source_sha256": "f886f12727bd3c8709ede8cd8f17965efc0f5c6b3f977fffeb91530ecf25e010",
       "translation_sha256": "f93fe0926c8cf87319efd8cb7e39fd5cdefdae9067721b072c53fafa6b1a01d1",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -359,7 +431,10 @@
       "source_sha256": "59a72154f8b292902ebb67b1a978f8da59e8735a468afb7fe4b2afedeab97125",
       "translation_sha256": "d7f89d2af9c731038cccdc3f3d5590e3764881e518f00351dc274da190cb716b",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -373,7 +448,10 @@
       "source_sha256": "c3c22dc13b192a6f30846b9dd1e2182d57b3b2b5f7e5a8cdecd71d3cfe6385ca",
       "translation_sha256": "cedddd8b84b572a8f5e19d5d13d227a3e4edf8886ab4796a78d6488b5b03358c",
       "tsw_blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -387,7 +465,10 @@
       "source_sha256": "e4af3dd6a35accfe9866f967314ae37093369894d2041e638609120c1903a699",
       "translation_sha256": "efd1e4c9b1b92f3a79a474577403dfdc5d531dc5512727c5de9cfcc383ad2117",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -401,7 +482,10 @@
       "source_sha256": "8a02d01cfc24fd2a5638ccebbda411c5dbb3867c65e764b7ac9002f0563da6bf",
       "translation_sha256": "5ffdd6ef0077378d24f3b048e7b00d6cb84fa9d8e90ec4290cd128313a0e97c5",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -415,7 +499,10 @@
       "source_sha256": "ab6f62cad1ba713bf3829dc0f5acb9679e27c2021c7793f205cc12fbe344f6f9",
       "translation_sha256": "e6ce8dea1e8cb82780fdcb38695d205fb6f5064608695f26635bbf2722591160",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -429,7 +516,10 @@
       "source_sha256": "dbc83b64c053ae58a52e4a5dd2bd8379133553697522618e4f86998c4ca29494",
       "translation_sha256": "afad3ef2f1e2037940a1986fb969dff9f3d801e438798d7012a2c0aa98f60334",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -443,7 +533,10 @@
       "source_sha256": "a299e2f1aaaa128557d0339a09f332354f7a3cd80151664a541c0d6c197c5354",
       "translation_sha256": "0e3efec9ca431da090573ca72ad596ed5a643e274dc8fe894162fe2d8c29acf5",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -457,7 +550,10 @@
       "source_sha256": "1fd0395d667afb0cdd07486293b5f628d740051ef70d33a554548e937c102f80",
       "translation_sha256": "7dc2cc34656fb5b5f33a491319a94f3eb44165501b9e57faa15ca3b96f0db694",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -471,7 +567,10 @@
       "source_sha256": "b4a2c45477cdd32801bbd49b03e357174fae16786546bd97c7cd133a98b9a6f2",
       "translation_sha256": "00e3906136ef88457c262c07fc8a52caa3ce206f7d549dce9cfb21074f3d4ed2",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -485,7 +584,10 @@
       "source_sha256": "f15a2cd1ce4911d05af84e2e4d0bf97f788f80eb1cba42455f22098fc65ea86d",
       "translation_sha256": "88a46cea93389466dd765473eb28f63993cbdb30dbc4a2c199cfbceb8da00899",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -499,7 +601,10 @@
       "source_sha256": "0264094278c36fb13b08a42ff07e590ae64e6298663a3633fd7fdb6ef714d36e",
       "translation_sha256": "a24c9f5b3c692b3aff3a66c267ca658ae15cef88b7be03a058e13332c91c85d7",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -513,7 +618,10 @@
       "source_sha256": "090c773078da306e66a0f0e813996f294fe26f095f7e6395b44f383c8a3a1d9f",
       "translation_sha256": "df468ee802a02a2c0d64f3f4013465d46ecdf47340dc21cae1547c7541569c1b",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -527,7 +635,10 @@
       "source_sha256": "4226f3bca34fccc05158d30cf3df5ea02885d9567c529d0e8f0a9d16e69ff446",
       "translation_sha256": "0366d151b0beabc57d764af1265c34962fe04be8542a80a6fa99734498d04767",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -541,7 +652,10 @@
       "source_sha256": "884dee96cc957ee777274bfd2e204ecc2094e38e1f6a608630f7f32a2e52960c",
       "translation_sha256": "eb4278fb6dc8a22dfd7d5a601ef7f03725dc8db90c01e945d44e5f5cec7808bc",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -555,7 +669,10 @@
       "source_sha256": "a85c9cf6beeead9ffa1f2eb4b667911dfd28350e33831b18c48a7839e3aa8c40",
       "translation_sha256": "627462b97fdf4e0a5cb34111460cd79146de3b7bfce74e01f73575702c6dadd5",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -569,7 +686,10 @@
       "source_sha256": "9105a7910d1daba614a1f0358c7797a9c4c194c5cd0b90f05239a654597b7a10",
       "translation_sha256": "4febbbd779458969dc6683d73d08df9c8b7500dd35333acfbdebc710bfd7348d",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -583,7 +703,10 @@
       "source_sha256": "dbc4ef4c7cd8c8248bedf5b58477c509dfe9d799956870cb0a97ad159b6d039c",
       "translation_sha256": "1c30189f893a986200978ba0ba740f73952b91c8220437f2c3ab8acbbb96d667",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -597,7 +720,10 @@
       "source_sha256": "6b08a7a1a23c3087784b98db0646c948c925231690521c1cdac9433a6728940b",
       "translation_sha256": "db0dac8c58083af9135d4593cf7680e6124e78412a8656831cd450890d443f23",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -613,7 +739,10 @@
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
       "curated_decisions": [
         "Joel all-flesh language preserves gender/age/status expansion"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -629,7 +758,10 @@
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
       "curated_decisions": [
         "Joel all-flesh language preserves gender/age/status expansion"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -643,7 +775,10 @@
       "source_sha256": "83ce745440b76e0b4ff088ff9f8611fcbd9032067c77f8ca7ea8dec5584e7d5c",
       "translation_sha256": "da80b6f7bcd58eda4d87893f292a50af30885aca885f4365028d75e777af1bbc",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -657,7 +792,10 @@
       "source_sha256": "d2068980fa5f2130cb1332f2017c802316ebff1a3d08eac1a3df8ee155548d03",
       "translation_sha256": "3309655fd832729bb1943740145ce37bfbd22f7aeb32e0902580f77e51ab4325",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -671,7 +809,10 @@
       "source_sha256": "52504f2163f3aa9e515929c1e4418b4294016511d0400c582f3b92b7a7dc91d9",
       "translation_sha256": "9bb3bcab9ff2c7a2146afd7cbc2d8ec3a3774b0a7e571caf4047b1a098a83dad",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -685,7 +826,10 @@
       "source_sha256": "ea183a699401ba28c2fa1ea50f5e1fdce66bb499a0bebc6b497495fecb766dec",
       "translation_sha256": "0536b9d537d19001ef212d91c5ae649a0fd7808b101cc7e0dbd67cdcca39b25c",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -699,7 +843,10 @@
       "source_sha256": "5860f686400846623870bc5a9663d65ea516158bc78b2e8d003e58746cdc3ffb",
       "translation_sha256": "6557c3f106faa6987acfeacfef8f38076e138d8cf472bf1e0f3f67870ca5441c",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -713,7 +860,10 @@
       "source_sha256": "37f2984b66c29be6ab0fc779e0b2b458bb009f7c127e7bdad644485bcb2b5a97",
       "translation_sha256": "1f9193df182a2480f40457fd8c1b2deaf755eb3764aa0e1b379a1a5c6475f63e",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -727,7 +877,10 @@
       "source_sha256": "af2ad6114547cab4a37fe9068175d33cac2a3dafae6c3de250fd7bf4bdb71472",
       "translation_sha256": "e2fe54eb693ed0659f451fa7af21ad96ed4e29d5befcfd4525465bc6255031c2",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -741,7 +894,10 @@
       "source_sha256": "ba19809d94880d001bb7458bb178170afe33c33b8def4d88170d1ddc176ab5a9",
       "translation_sha256": "e35d348c01e5799eaba5ecc3c196be7bfe5f092d204b150be053462b3c002655",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -755,7 +911,10 @@
       "source_sha256": "472de36e95d25b46a5fed7e57ec0c0209e886278ff83aa3f2633fe5d30481a33",
       "translation_sha256": "ad69edbda2da2c7004d78fc9d0e9f2baa5154972a5f5ae0bce93b7889a1f1457",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -769,7 +928,10 @@
       "source_sha256": "9cc0b171c84dc2fc6a9b28baea64f536e2b533adba4edebbc844edc50d1fef93",
       "translation_sha256": "28d8f1d805ff279ba1309dab03d12e8ff9e03b755cb5868c778950cb6dc7cff6",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -783,7 +945,10 @@
       "source_sha256": "0679d82e7a6e84f7aee9dea9f9a00998ef363ea715d68143cbc007ca31159017",
       "translation_sha256": "e5b37918ca5e64b372611e7aaff88f096db311372e1433f0e9f2b9559a96a1d5",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -797,7 +962,10 @@
       "source_sha256": "a7662fd736d8961c0e104467b2b4d0584eb62634075a13b2ff0ce0f21e26e923",
       "translation_sha256": "35648c0346e385310c5292e87bbc0cf21d0d30a48001a4b1052cffa368f42977",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -811,7 +979,10 @@
       "source_sha256": "6bbc335ea4b96c3d1012d2d41f3082a3579c07eee589d7c5ddfb1e262474185c",
       "translation_sha256": "96059869325c420d796157877ed7effff9be11224abde323190e3dc25ec338f2",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -825,7 +996,10 @@
       "source_sha256": "9a82e34ebdf3a66df4ca887f292b56eaf0b5f1239087630259fa545771837044",
       "translation_sha256": "bdea7537561669fc24683678ad0708570443d950e71432252d7870266baa5819",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -839,7 +1013,10 @@
       "source_sha256": "ccfd5cd4e16fb052375c59621e4650177bd67970f3e4d47ede42467e28f18c22",
       "translation_sha256": "5f6e276d0e8f572f78ba422ae8a993bd6adc81f155214ad16b46484b224ea22f",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -853,7 +1030,10 @@
       "source_sha256": "e9c1173f0e7c9a50b26b34fafb5d8add4c5eeb7b308a913db63a71830c7c7788",
       "translation_sha256": "30beb083ec9481a1d6168691af5d331c7998a1d6f2a3c8d6d357545d26caa3cb",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -867,7 +1047,10 @@
       "source_sha256": "8f03d0dbba1e441061757c0907ec3ad79a899d8aa6b13998fef2efb0417b8f73",
       "translation_sha256": "cab0cac23955b1e589e92acd3acaf40247cc2accb30ea6fd2ab7a9f3f34f05de",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -881,7 +1064,10 @@
       "source_sha256": "1b83a535a81a261f1eb00b7c449a1b4a8072f1544a9f7ebf988a4d692c905860",
       "translation_sha256": "5f24d8b1f75b099c9cf9ab81e61428f1e91127df6277194c2154f0ff50c40237",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -895,7 +1081,10 @@
       "source_sha256": "6a936d344c2879d6b92c6e66bfbdd50241223fab28b36e9f47c493539c669bfa",
       "translation_sha256": "bdac17779cec7555ed3f6664b94bb50b2b96d515267e7848837b247fe499767f",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -909,7 +1098,10 @@
       "source_sha256": "3e45de734a93f9041d2f06de9d06c2168efcafc1d0727defe910db647a1711ac",
       "translation_sha256": "3c9845a1153abc18aff99b1e6fa8f1c0c61d1a39689b6196fcb6adef24dbaf60",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -923,7 +1115,10 @@
       "source_sha256": "b4a04645892222a279c7e6d3c47c7140f674c2d8ea9993dd11b37b5ac44ca4d6",
       "translation_sha256": "7b6bab7ca0c5d1e5b9d90e54eeacf492f36c7fc522efdf5ab2fc4838433a0df5",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -937,7 +1132,10 @@
       "source_sha256": "1546e9f846e2c63e61fd3121be8746c7c015b959f9419aaaf357574b00b4a613",
       "translation_sha256": "1d0228b8bb3361925f7058005cfeb9b591bf3936ae0acdcf907e7e812e1ea34f",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -951,7 +1149,10 @@
       "source_sha256": "579aad20e587b38c550f1f9da2dd8c9da143d318c0a06df2b498195e02c682eb",
       "translation_sha256": "8e2ce18624922f0bdcb530482eadef19ec6a3bad4c13bc6359a1ef92a4eef00e",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -965,7 +1166,10 @@
       "source_sha256": "92f583e24edf61b92999a2ae1155fccf947cb2ce9954e4d3e9b76558d9170dae",
       "translation_sha256": "788abb2fd18c9b7b12bc222e0e9e5a3b887aee790cd62b1060560cd7a5934d5c",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -979,7 +1183,10 @@
       "source_sha256": "aaf52e400a44b736fdde60127c9eca433d65051370b0349fc7d8b4ddb2c0a311",
       "translation_sha256": "000706dac28b74702cbc0abfb88c1c24ef9513368e3843c459dca4798c9bca96",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -993,7 +1200,10 @@
       "source_sha256": "b744acc5f234809df21f3f6ef5186d11e87d4153cb2dd08b7b9c18af7c1e32f5",
       "translation_sha256": "3183df5d4bafeb3c7ecd3931fb7280c2f63232de4590ee18d4b3cc09e179e799",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -1007,7 +1217,10 @@
       "source_sha256": "abe905decbb1c9532b55b80e499c50527ce7121d9edcdd5b9b3cde32daf18491",
       "translation_sha256": "fa7466a733433932ad02a3570a49de38a0092b4b0d23a72ec039a8bb833e7263",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -1021,7 +1234,10 @@
       "source_sha256": "4b4753ba30a5769c81291e4991480223b7895c40a9c30b850e228766ab56a2af",
       "translation_sha256": "8ec41f18402e2a39d3f2be07b9b99fa610afc7cf972e27f73196bcf9d233495e",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 2,
@@ -1035,7 +1251,10 @@
       "source_sha256": "b9b8eb43076256f299bc2792e44ede99248048927be84f2badb7f4fc41e38e53",
       "translation_sha256": "86b933e0513285875e4554c8b89eb54a88ce1045c3b5dae144cbe5844c70c490",
       "tsw_blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1049,7 +1268,10 @@
       "source_sha256": "9286201ec5cb96a9626481f05bc321a7fb893f9f6a5e4fa748a0db174929e3b7",
       "translation_sha256": "57f4be677ec762eff85204811ce42d3e89d1dd123bb62200bf6120f6eafa0db7",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1063,7 +1285,10 @@
       "source_sha256": "5bba89c3c47062945f2712344a71b9a1b522d601e5692dd6033e615d6e8e2124",
       "translation_sha256": "c67c08b141d04758ac5888ad0af9b8d3f2c835e25c59132755624f6943fa6270",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1077,7 +1302,10 @@
       "source_sha256": "c29a72d9a25d5ca93feac100fcc07999962049380210f31196ce87664fd5f43a",
       "translation_sha256": "b69547a5ff33e36cd5b9481874ff0cf0eb32fe506e6eaae8b89a0175172d3779",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1091,7 +1319,10 @@
       "source_sha256": "8c7e2636ecb6d5019d4adc44a57a2d87243e2266a73fa5e1df9ee9fb1631e9d3",
       "translation_sha256": "c883a6ed3c79013baa7e6f3aa22c9c2c071333051dbc6a6d46cc144bd494d5e1",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1105,7 +1336,10 @@
       "source_sha256": "6f3da7020126b67465cb890f0efdd9874fbdd6b8d8d84919f30f2a3ff3bdcb13",
       "translation_sha256": "ae49807e23674c29a0a20e748930b920236c24feb9dccd05e0ac308d5ae271c5",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1119,7 +1353,10 @@
       "source_sha256": "f5108db3829862ffa69be870054a99093bfce05b16cc19b3786af1cd05925fe0",
       "translation_sha256": "6ac319757bf910435d3d79ee8f898c503a3bbb62c88aa8f89f80ba67d5b6b3ad",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1133,7 +1370,10 @@
       "source_sha256": "63bba231802c51f7b76700399000cb55f0926210470bb7f4699328829831c619",
       "translation_sha256": "384be8ce96545971bb874c0d69e30d833ae7138d953de90fc072597b8cfbe6cb",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1147,7 +1387,10 @@
       "source_sha256": "68f1b70601134f763fee19b8f783e0a6fe645c8ed72c210419811fa13a73f59a",
       "translation_sha256": "d40bbe7280a721e91bc569d7c98db23866315da0f29f41591bf035fdf4d6776b",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1161,7 +1404,10 @@
       "source_sha256": "54d8d2acba498e24e871a751d2bcbdc7efd3098c0ed34b46c89bb5cf4e14af91",
       "translation_sha256": "1f52341309b21342db83a1fd65c4cc37bf64496cfeb2b8a190104a78492867aa",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1175,7 +1421,10 @@
       "source_sha256": "9535d67f015b8f48c219c7b8fed9e0c4f4138e9bb260d68a8006094893df8cc6",
       "translation_sha256": "befe40b0af053eb4ae980f4256df706ebed819d7186d5d15f085124d0ed88a02",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1189,7 +1438,10 @@
       "source_sha256": "435b7fe89b954c30de851e1fbc6feb20b0ba396ba1d7c9d677c242853e16dc1d",
       "translation_sha256": "420be6bb9cc8abeb41c5ad98b4f2bae7ff48a693f036b2c52f4482b848d4ca35",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1203,7 +1455,10 @@
       "source_sha256": "d409f36163fec91198f3341dd971cb55a5ad8b65c4fec532465ae8faa847f434",
       "translation_sha256": "898ece2c27c4e038bf5b5978cc619d956660ab7e283eba59795e138cf9e87a88",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1217,7 +1472,10 @@
       "source_sha256": "00206058432921c4080e3abea5f37351ffe6c7f9a5cd53b61689879df1d325ac",
       "translation_sha256": "100c174e69a4ca603f9f8a97762c94ef65a6a41fcc2a939e66db5a4dc5b16b06",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1231,7 +1489,10 @@
       "source_sha256": "2cb45d486ebae6a337c0a17047379c3fdf462686766c7464504083f5a7c3cda3",
       "translation_sha256": "657c761a9615c78724b52678cd9ebc33acd2c83fc4abd9457c10174b7df477bf",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1245,7 +1506,10 @@
       "source_sha256": "d82fbb9953c82bbd9825b71c9330089ad525336839929b9082415ce9f2642e74",
       "translation_sha256": "b6b370ab7753e71122e8bf293051aec21895ceb96f5bf06a14ca2b6b6f639276",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1259,7 +1523,10 @@
       "source_sha256": "2386ec6d9fa950c4d4fea1a3ed1ced8ab22016d1db00d90ad3b7c65ead4355ce",
       "translation_sha256": "0554e12c0ad2dbe299c043888f67bcf176651286a7eed7aea41d7a16037cf3d1",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1273,7 +1540,10 @@
       "source_sha256": "61b414faf5139a3808494d82f24cfab0461f4abff905d5dc93c864b55445ec79",
       "translation_sha256": "8378b134b0789b82b0f221de160b0d821f3fc4a4f19a1ad9aca1e27434c55566",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1287,7 +1557,10 @@
       "source_sha256": "d70d88f207ba361a2cfd1679dd8d5a24316c0d7b202981348b182c47301b1763",
       "translation_sha256": "f441edd226dced05f675b06ffb14a6fedcc7c8687088990277ec5f7a99d9263c",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1301,7 +1574,10 @@
       "source_sha256": "f34e955910ddc33e752f9f3d784576a1e1ea7c0f8eb4b43a636a91b338e8b799",
       "translation_sha256": "eb1111128cd65af134dd2dde43e8ae17b53c3f240f0233960fce42816af2bcc6",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1315,7 +1591,10 @@
       "source_sha256": "f78aff3374a29382d16b00f20f905c35880016c9bea070c02a3afc415518bc8c",
       "translation_sha256": "3c174fc1bad83549353c930629247451cadc880cb288d1b89b6b66da97d96695",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1331,7 +1610,10 @@
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
       "curated_decisions": [
         "restoration of all things left broad, not made a doctrinal universalism proof"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1345,7 +1627,10 @@
       "source_sha256": "5dc12fa7a3169164738cf98c9f25a80906b6392f42a2eff932de1f050a17cccf",
       "translation_sha256": "95ea00d5f27ebd392f437ee2ec68554afc1f40ed31b32d34afc0519394a3601c",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1359,7 +1644,10 @@
       "source_sha256": "7b4dde5f8da34d1dbe840fbeb0d44c8373857ca749fd41ec04c473e819ce9fb6",
       "translation_sha256": "8bbe3809d9bb56579b1c36b1afa9cae19a799019863ee2af8d71972660e960b5",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1373,7 +1661,10 @@
       "source_sha256": "f2c2c77b3ae0285548e528d62938f3e3f464f23ee186d2dca0a5d32bb2557213",
       "translation_sha256": "614efa92280dcca1096ad754a5ec9b68126e8fb56c131800392a8c9b3de39ba1",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1387,7 +1678,10 @@
       "source_sha256": "e86c57f4c12f2d8adf5d9cc5eb2f4362cacf9932830ca9de8e5cb4f46546fc13",
       "translation_sha256": "1ff9de0c67668e85b0f2dedf1c299f8b7de065f07e434f28335103102fbda4bd",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 3,
@@ -1401,7 +1695,10 @@
       "source_sha256": "a870155c221040f1440285a93a2e56551a2002e8f1c2a0e12ca2d3cdf8452171",
       "translation_sha256": "f18f59cca4ab0cda4efa2f65b5ba2c9f7fdff8e286454e08cc0827bc7ab494f8",
       "tsw_blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1415,7 +1712,10 @@
       "source_sha256": "996f0548b3caa0ffe38d6437971de3acf220397e0037d8f6b3ddd244e8d318a3",
       "translation_sha256": "59a5e812371cd92c82b0bba9688250ff091345fc3fa64740b1cce8b47bab2ec3",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1429,7 +1729,10 @@
       "source_sha256": "1d6bf75c1755addb32acae2be011db50a480d00206d7fcef40277415da1a2c04",
       "translation_sha256": "3d8a5d5c4ea6b404faf2093374d782cc8f244c8ea7d073f1985e6d4b6337a6c8",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1443,7 +1746,10 @@
       "source_sha256": "9b3e8d2bef9136ed515119c331f37fc4db692597a8b72b9d7ad7f7f9893a8b5b",
       "translation_sha256": "682b6b6033d9046295be36870b174c3aec647e2c0e5610db828e4ad8070f7b39",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1457,7 +1763,10 @@
       "source_sha256": "30172eaaa36006d1b9bd6279954e5e6ac659d70b3d118a83175ceef6bf5c7781",
       "translation_sha256": "86d93014a4e95c43ceae09dc9c922e21489de78436f76f5d6e4baf5856ca1c38",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1471,7 +1780,10 @@
       "source_sha256": "8029059654902403da043beccdfc690191e6de5a5d69410d65fdcaffbdc08161",
       "translation_sha256": "2ee8e28871012eea271f12450a95c539c08a12f961066b2e82444041bebb5143",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1485,7 +1797,10 @@
       "source_sha256": "91e8fe690a3641acc8d06649edaf86e7cf03e13e42a71a6edec234cfbc78fcc1",
       "translation_sha256": "a7a943ea8cb53fe4e6f27b8a177a950a263d1c535bc30637205260c42bddbf02",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1499,7 +1814,10 @@
       "source_sha256": "ee9b63814ea8a136429ebc3466da245f003a7bfd3728f518cf89a2b8a1416125",
       "translation_sha256": "2e5e328a347dc63c78fc98d9f60345e3c13ceba85b146a94468374f55e962f4f",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1513,7 +1831,10 @@
       "source_sha256": "5aa8f652a4d5d29650195f2f2401200b9a740d19942a2971f32e9dfb130d1f1b",
       "translation_sha256": "0cb00baa6cf9a066afd72670b72af8d4d2383e86829cbd2cdff4959cfd6c52a4",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1527,7 +1848,10 @@
       "source_sha256": "f9d91d545edbcba86435be44b3d17c898049bdc0e9c953da9422cd46009d87f1",
       "translation_sha256": "86255ef6a8e6d4ac19fd87492940985e40ced98d403fda07c234945c356c2970",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1541,7 +1865,10 @@
       "source_sha256": "754c4cd8e71517e8b5daf4a72b5dd9b2116144313781a586c5e744697538ba6e",
       "translation_sha256": "f2037fb7dbc98714e52978d1c8af34059451a5e571c531bbae43abe3f333b1ea",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1555,7 +1882,10 @@
       "source_sha256": "c76b0a768edf8d560fafbd91302addd0f12292b3808d608f96a2729c45382618",
       "translation_sha256": "4fe39cb1e10f7eeafb089797ca73f480aae7cf6baeb06c3adaa0ba5df69ed325",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1571,7 +1901,10 @@
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
       "curated_decisions": [
         "no other name salvation claim retained directly"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1585,7 +1918,10 @@
       "source_sha256": "c021215bfc91b5d7bf356ebb525d1343a26840639699ff2c3556e30d072316f6",
       "translation_sha256": "7e790e24ff0476bb7002e42b6ccec2e56bc4766a6d9c5ae451dbc67431f40949",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1599,7 +1935,10 @@
       "source_sha256": "199ff416fa5760ed9c95717c6fefea68f6b409bd226a5b93da2fb74b4f74b5af",
       "translation_sha256": "fa056c439e8b9da8a7690b27cea88d023631944701c730d4d5e5eecbbf7bf3ea",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1613,7 +1952,10 @@
       "source_sha256": "24705bf399e61331bc4f75af975ee92c15add6531a3b17b85163a52320483c0c",
       "translation_sha256": "1a8876859a760a390d4ce09fbdb02dd7949dcbccadc8634a7fba197dc468c3d6",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1627,7 +1969,10 @@
       "source_sha256": "96639b53d41d40f5628d3e40804f135a839e2cd3f2a8d67ebf610a81257f2116",
       "translation_sha256": "9a3fc73516e34f8f32511294bb6d29d53b97baaa39d00741e06af3cb43e7eaaa",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1641,7 +1986,10 @@
       "source_sha256": "94a58c0eb818451c42c234dce047257c2d024c503878ca93edbb6f065ad2f13b",
       "translation_sha256": "3911ef0e3f1ee034897f265410fc2ebc7226d3c0c71ea43838dff726d3b94714",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1655,7 +2003,10 @@
       "source_sha256": "62cce6e2107315e5432eb4280b591f7625744415a0b4b2e7409a4d8e81bf22a2",
       "translation_sha256": "485dc1b7c7373c8dd1c542c0dc2ac8356d329619e374c5077c41d90230a4b820",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1669,7 +2020,10 @@
       "source_sha256": "e2f184f2fbf531ae0bf41e3eaa3f954b2f481c587c901eecb4aee8e9ad0c1172",
       "translation_sha256": "a056392b186d1c5b6e7800ca288d34a010bdf226df5041eb2d6b2a1ad8596117",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1683,7 +2037,10 @@
       "source_sha256": "6dec20e8818a02e6ca7cd47e1c6e1cca075c2e9a1ba75a62a741de2940346405",
       "translation_sha256": "022d48bc84f9fc4f2360381259bac3603864bcfee345e4b7cd9b60437f37ede7",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1697,7 +2054,10 @@
       "source_sha256": "dfb603ec0d795384f2e18355e3b7cf152c42d6de6a6269865f8bedd3f9897851",
       "translation_sha256": "687f605e5ae5de7d7d02ed88d1109a57c41118b66cfc0c60db64356cf2e9c03a",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1711,7 +2071,10 @@
       "source_sha256": "03f67370d14cd6e7b193040940b88d878416f96039ce2ead15e1e9b57438f84f",
       "translation_sha256": "c295c5a4e99f23d0b67fdb7036870b413b3b8c7fdff5352b6d7028864d2e6f78",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1725,7 +2088,10 @@
       "source_sha256": "4d05c348ebcb4d27b443e9b83e804cf49d314a53b6670ecdc0fee8b49bef2e5b",
       "translation_sha256": "f2a7f0aaf7399a85f47e2306ba140f668b09985f43b7a81898baab7b9714f125",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1739,7 +2105,10 @@
       "source_sha256": "12f49864388dfc62859641174f0ccda52ec980ab71637622ff6c4149dc87e88d",
       "translation_sha256": "aca4b02cccf814bb0b2db82c84df72c7e0b49b995dd4186cd2271d0700426f65",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1753,7 +2122,10 @@
       "source_sha256": "2a3e10a76a8caad77651426f5aec76eb4723123339542eb780aa9c23d68b5990",
       "translation_sha256": "f74b5621f1a9505108cfc9202e03fcc056f6690bdf85945782fcb12b2c69c56f",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1767,7 +2139,10 @@
       "source_sha256": "bb6239f977e3c127caf8d488606aab0f533bbaf2b8966121f854ebf261ddc666",
       "translation_sha256": "244cd431ebc30dd4e6364e032e381e94f329b5a1c7fb6901c1670cfbcf3e2f8f",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1781,7 +2156,10 @@
       "source_sha256": "195c196f854c87f3587856c92de37eb17dcb06a9231b37af653a727ef2bce38b",
       "translation_sha256": "664a71677bb49e74587a54979737eb954f8a7e85fdc48b297ef693d7b5eb6c6b",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1795,7 +2173,10 @@
       "source_sha256": "b35c4381822fbb336f717896f8c3750aa9164bb07ff3274d60cb80be79c769c0",
       "translation_sha256": "57d7ababe979ef9766e623421181df267d7eb40af874a6b93ca7fbc42a944022",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1809,7 +2190,10 @@
       "source_sha256": "e2b7850145a16756d5984346cb7ec60d89947b3af4e37a9f59b3f3e86681f13e",
       "translation_sha256": "d89227d98c94233b35136a323aa973fb3ea31c6b6624d1f709bd79126616187b",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1823,7 +2207,10 @@
       "source_sha256": "354ec40a9bb67fa9f7dfb69694eaae57125d47e3a1975fe4b5255679fc9d2f3b",
       "translation_sha256": "cb8acba859ead645a210cc35f354fd8af52e1789b814a2edcec7bc5dd55b51a5",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1837,7 +2224,10 @@
       "source_sha256": "ffe48047b7667328676c5e034d6a146d578eaf411d463be362ff51f0ac005ff4",
       "translation_sha256": "f84acb77840e64182fd9a50b4479213936f9073a1194552348ee28d03174790d",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1851,7 +2241,10 @@
       "source_sha256": "18db33d5628b88939ae740f4e74c09cc6486c419f79377d8be9a2a2ff8317240",
       "translation_sha256": "2c82f0c7c4610c4c3dca732d448730415223dbff4e1074831efd1526649511cc",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1865,7 +2258,10 @@
       "source_sha256": "ccde8e32e54b1e28b52bc74a18fb88af23ea72af16fb31acc74b870d33a4c1c9",
       "translation_sha256": "6ef3878fcfd388fb17b8ed3623921a431b72c2fe039cd76939fd0a42b1a3de65",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1879,7 +2275,10 @@
       "source_sha256": "2e70086e10fd841d828f5ceee9befb2b987401354a40feb2257cda399c089fed",
       "translation_sha256": "47e2af9765ae2c89e93043c4edefb6f100766fec6aef4da2343644b898c068b7",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1893,7 +2292,10 @@
       "source_sha256": "5a7445c1e94e35e4ab7368cf35188c95e0853996a1bc1b31db97661cd1297b7d",
       "translation_sha256": "7b31c0ab2f3c9c371832b8254c8f8e74d20a303288fcf6917799769a4d2e6114",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1907,7 +2309,10 @@
       "source_sha256": "cfe3d7cd4a8018a979417c3992495ceea0b9aecc71e4217817fd95f4d569f44c",
       "translation_sha256": "56a8e41686d06c5b9de43cd6343dc9011939ab529223fa1c3d8c807fefe99886",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 4,
@@ -1921,7 +2326,10 @@
       "source_sha256": "679987046dd8dd1d9c475d31219636b7c6e6f8f1b6a5c2738ecf1b36cc8f24c1",
       "translation_sha256": "b9128bc2238c76078dd04b42d93a3af5550ba254e4d971f885641916d37e75c2",
       "tsw_blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -1935,7 +2343,10 @@
       "source_sha256": "db4a75585ed25d66e760705dc08a7366a6abc36ec1f3270a36bfc8dddd911f9e",
       "translation_sha256": "aa591f05c78ae15c8db8649dedc6a716d7cab973f9286a46d867437fa841b5bd",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -1949,7 +2360,10 @@
       "source_sha256": "859336b543accbae5dea2ab578cb0f613f5013cf581ae489bbab0c4e9493eaaa",
       "translation_sha256": "ab22930c85a6138bd37365ba9b8ac06babe19883bcae08c984a51a81852dd1bb",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -1963,7 +2377,10 @@
       "source_sha256": "de79f015afc15ce891eb1ea8e138ad31a6f26e86862c66596f02ee477a752537",
       "translation_sha256": "e0cacbbcbd2189b51d86eb0d84ed72514393ac8003e9d697f04c48af4311f732",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -1979,7 +2396,10 @@
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
       "curated_decisions": [
         "property remained under Ananias' authority; deception not compulsory communism is issue"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -1993,7 +2413,10 @@
       "source_sha256": "f822c6ac860a987744d4355bd9c10daf1f1c5bf1f18181ac56f39d2ddf5ae20a",
       "translation_sha256": "98caa1149a3a1d153cbfd9a0dfe9f3c62c86bf59e3ccd9330dbf71849d3ce607",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2007,7 +2430,10 @@
       "source_sha256": "7849b257a8ead4994ba0dee8c4c0889b2c705d90ce7ff0e803363080c1804b65",
       "translation_sha256": "9d344e812cb75de94185c7b6b19634711937751150b9de77711ffeba9068073b",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2021,7 +2447,10 @@
       "source_sha256": "5dbb1cd49e81fdf070375ee82e8c60883ef12fd132dbf10f9e015495fdf878ce",
       "translation_sha256": "f79a3d1f79226d27c8003d28be958cc4d04b78e3ad68aed530d376fee9515594",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2035,7 +2464,10 @@
       "source_sha256": "9cf580ab4f45ea04abc28bd61cba3e1fd472563927c8f35b3d4f16196a32ed26",
       "translation_sha256": "b08fe07eb0b1b26bf5c5b0f71042f8f198d4b12e10797201d91ed50553c6931e",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2049,7 +2481,10 @@
       "source_sha256": "aa8e82d4677a90e7e77d5f81e80f4ac6ebc43c3b436ec8bc2d65631013136dcf",
       "translation_sha256": "812bc93d83d5f99a3a0031a8c9f4c84b3099a129c9688747841b3a4843a90605",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2063,7 +2498,10 @@
       "source_sha256": "c9412a2b6c93aa99817830a09fdd90afc0892d0f36af800d57d3904784f5c2c7",
       "translation_sha256": "a9b73e4caded919f8e3ca140884e3c0051819b08ad960d62698bad35dc60c34f",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2077,7 +2515,10 @@
       "source_sha256": "9fb556337f572628806cad5c6ebe4b85043d43d7980c6f12c616aefc78d948b7",
       "translation_sha256": "41ff753c0b13ecb76a10971c3f74e0cd3c1a73c694f5183c5d27160b4bd46ff9",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2091,7 +2532,10 @@
       "source_sha256": "bff50b8ff9eab29ab346a8336701fd32f37aedf4010995ea3b0dec225dfbb62a",
       "translation_sha256": "646746622661837b94168b75263a6b4d2b2dd919163958cc07701ff13d53b19b",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2105,7 +2549,10 @@
       "source_sha256": "f9842d793c66362fd533f16dd15055197449fcee94a19c1983d333baa89b67cd",
       "translation_sha256": "94eae61319086fc2644a82fb661f718b2eea37ac26ff5302d8b5e806b9c75108",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2119,7 +2566,10 @@
       "source_sha256": "a4c0015ff365ec9aaa046a0d7d1d39a9535a9ab424a1fa5332c1beecd09a7907",
       "translation_sha256": "f29315bdd7cd577bbb684773b93d76c4875ea3d9073d2245b2c9c605082dcedf",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2133,7 +2583,10 @@
       "source_sha256": "f9badc0563ca8dbb8f86e5bdf0d6c60ac2abeed1d7ad2c028901a77305e36678",
       "translation_sha256": "7a676a6de898a9429e0bdfdf57c218c0bb25ee428fae71e08142a450aa7210ee",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2147,7 +2600,10 @@
       "source_sha256": "3e0d9f127d98598f5a091d164bc6ac7abe99b9a603aa24f6d5e777bcb86b433a",
       "translation_sha256": "4d9acb67e0397648f25779d21a9d73d40f02b88e79a6550b5ee3e18a7bce0410",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2161,7 +2617,10 @@
       "source_sha256": "379a2b6ddfaaa0689d20d6c832ab6f4e26c203085b99aa2d133be8205dca7666",
       "translation_sha256": "b3e5acea03116a75514333a8ede1676ba672dc2563e48912c58048e276de9a37",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2175,7 +2634,10 @@
       "source_sha256": "5f71ef5af1b07ff81b53d2c1f922e963889c68680b2930b200545d5c100d2964",
       "translation_sha256": "1eb8f3bd46ff8ac0ceafb62c8d67813e6b1d6a0b88132fe107caa1334bf669d9",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2189,7 +2651,10 @@
       "source_sha256": "47dd1740a852ecc5f2d80f8355b095801c77485199fa4709d7f911fad624c7f3",
       "translation_sha256": "72924d632b8a22bb2685325b5051d615edacd4e42cd9824d5a3c73709d274362",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2203,7 +2668,10 @@
       "source_sha256": "7ec74545183005a81d651db59c8e6d61cf131f9ff77bb34d1b6160e1bf24c337",
       "translation_sha256": "6d5a9d62aa3c235f56fe0f225fd54a83011ee6cb8334d4b482b82115fcb064f4",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2217,7 +2685,10 @@
       "source_sha256": "c1a62c7dd9c8e8d40284ddef1f4b01c901613b92727bccfc1da8548a99e4b5a5",
       "translation_sha256": "373b6f1f6d387107e7e9117684b5f444a7560efb21154a26fcd837f5f17df5da",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2231,7 +2702,10 @@
       "source_sha256": "8535147785adbc696293da6d7082508d0fccfbe835a2b64905630d83e46f727f",
       "translation_sha256": "4d515c98744fe8b22e8dbebf534e60765fe1092503de15e6ef7d42094f24aa5d",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2245,7 +2719,10 @@
       "source_sha256": "3b25421fe4a60ada2a8b04801be3460c5046ffbd8e7f6db5ffd6fb1509b6cfed",
       "translation_sha256": "a768952e120e50b093657fc00e0922de0bc652c167aa5932166166eca0ee8139",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2259,7 +2736,10 @@
       "source_sha256": "e57dcb68610c5bc5b02059db18c5b25647af42cafaa6f6463df065b467b0a3f8",
       "translation_sha256": "d54d94570684a2362d06801cd46eb0c0ad5520cea3aa0c8af4ea4b8bb738b646",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2273,7 +2753,10 @@
       "source_sha256": "12df049072d9a160ee96ba049e47506895c40a4f94caf64db727c76900a0bf0a",
       "translation_sha256": "45e98b0a370cf917e1ec8557ccbd17289a42e2768d0e0f227e053b61db16eaea",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2287,7 +2770,10 @@
       "source_sha256": "a5d6ba4ccdc64a9849da77569507a45ead964a082f2762cb0064ebc879780b00",
       "translation_sha256": "c593ea9efc624ca45f2f2eefb6fe92caf9eb1318d6ee88e66afceddcb4c60ad7",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2301,7 +2787,10 @@
       "source_sha256": "d6b7aed8da244035680aa12a4089ea4c4e38dd3ccbf07b935da129124a8b6934",
       "translation_sha256": "ac76bd2d8122b37357e5e99227badc788a9ca35f3b09446c0d69fc25885ffdfd",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2315,7 +2804,10 @@
       "source_sha256": "89d1195dc0277ba5270930909e5b3d5b7125cbdb25ce0337fbc63af91e6cd732",
       "translation_sha256": "f77a583e14377b56610685d1a776dd1cb2a01b2a1073d7f18ddc00e378650637",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2329,7 +2821,10 @@
       "source_sha256": "002e3d72fd2f59ea42c44bc02c81b95a605a008b10b1165620fa97137c5c404c",
       "translation_sha256": "146e022bc5ef16480fe98833542c59929b2c465162b634879a20bc8ee775c448",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2343,7 +2838,10 @@
       "source_sha256": "178f693d4376c56f408404b6a04215eda8428df24d012c1e833fe0a8519f4fa1",
       "translation_sha256": "815a3e7b0060795d40c3aa465af0e0cb78c6269aaa67ddc77235445212f56522",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2357,7 +2855,10 @@
       "source_sha256": "61add8ab2324416326e69185ea960d38a9e5c248ee070ee149e9c6ad80713882",
       "translation_sha256": "b8daa27792c2e99c89b055ac0f658772379ba9de0aaa2b88f7e09e7754800c7c",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2371,7 +2872,10 @@
       "source_sha256": "336869b7bd3755ecc76730b342fbba17b049d80ed7a0801cf1b2f2883d76a4ad",
       "translation_sha256": "d8042951622aed3dae20ef352d9cddea0c6ff5c3914957c8311de12f980dc057",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2385,7 +2889,10 @@
       "source_sha256": "28e1f155e53b2cdfe288b8b60768daf459ca6de54ef35867be7e6a0f850ba49e",
       "translation_sha256": "b3a2cdee8e941232fd39a975e38b8e0d2db3df45a990b7786d49e97e56f5be07",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2399,7 +2906,10 @@
       "source_sha256": "8bb4cf41c1b01d809929abd7d261a7f4b18a987da739d1578d63db55c4f7fc22",
       "translation_sha256": "40458d3d2c333c6675c1cc0ff8e84e29747417c7333e973c0f30f52a07231378",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2413,7 +2923,10 @@
       "source_sha256": "85001de578482d731de7ada5e35155d203a1b509faf9912ebfbd8ccc1c1a14c6",
       "translation_sha256": "cc8bbeccb39e498f3d2638cb7d059d48abb3e1da25b528fbca5afffc94eca746",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2427,7 +2940,10 @@
       "source_sha256": "2f042addf49e5a20b30c06043237007b05b8c76510d35c3c0bdb3b0bfa5766ff",
       "translation_sha256": "5da5ab4b7afb712d03322736f29fdd265d66eea376ac5112ff407e58a407a652",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2441,7 +2957,10 @@
       "source_sha256": "f8a4ec4a96e60d43b69ed96c93cb6b0cebd9c658eebe68be3b86f47ff8f75cab",
       "translation_sha256": "f5e867798477735b58ba6cbbe44ed464d0f9a3764b11a4642b5ef87d28c2c290",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2455,7 +2974,10 @@
       "source_sha256": "c8852ab5ec27e923c4beb0b2786c31816d61bc52077a092e2f321637efbf617d",
       "translation_sha256": "0103ba62f369274e69e71a516d288f0782cf874a489064b60219f45238d057e3",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2469,7 +2991,10 @@
       "source_sha256": "511ffe9565ab314e1e34b3ff1743f7a674220952d3ec3750ecbd9742b8984797",
       "translation_sha256": "ebb885708179d82863a03ee1a31602328984ab829f8da51f675835a634e0635a",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2483,7 +3008,10 @@
       "source_sha256": "18871b53fc6ff62215376ee6cf0cb04cbb3ea437b14db94f83a58b24f829b9ee",
       "translation_sha256": "c9da5c9b9bbcecc6225aae7e33e0bf662bc3ea4abb9d2bfe9b8b6474847c9a9d",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2497,7 +3025,10 @@
       "source_sha256": "26b6be38fa7933b63a8989537102c63b16b8b445b1da03208b85f40793f93522",
       "translation_sha256": "1bbc2cddd8177a8acb3d03a9578087ad9d8b7d13bedd018b2532a72de1372566",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 5,
@@ -2511,7 +3042,10 @@
       "source_sha256": "51c18c576ce57d055a4713e5ecec5bb062fec8ab527957e80631043755b3ea36",
       "translation_sha256": "ab40fcf9666879d6d4d14b594cd02c99c76769521bdde156f770c19870be1eb1",
       "tsw_blob_sha": "484cb98416b3e0d085864b0d358148509982e605",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2527,7 +3061,10 @@
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
       "curated_decisions": [
         "Hellenist/Hebrew conflict treated as internal Jewish cultural-linguistic divide"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2541,7 +3078,10 @@
       "source_sha256": "cd9d531d0e223fd2972ba113e589c736408b3eb661e760321de5d94cd654b4f0",
       "translation_sha256": "a27437909ca0736a64cdb38ac591471b4acda58d3727aa99f87bb0cd5aebedd2",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2555,7 +3095,10 @@
       "source_sha256": "31832745f7389327654345cdc5288af2cbb704e6f3ca5bba79e2265b0bb597aa",
       "translation_sha256": "ea434063a2c5bd0e85019f34e27f57f55fb235606821c57da1feb888893a7014",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2569,7 +3112,10 @@
       "source_sha256": "095b876dcb8bd0d25c0efb7898d7509bbe79d90b00e90fd6bff129927eba2dad",
       "translation_sha256": "6fc4843053ee12b4e1e25286f7940c59680c948e5a715b9470a4026ffffcc083",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2583,7 +3129,10 @@
       "source_sha256": "68e9c3e8398da14b4c90b74e9fd77e3fc6ae019de40579ca8f6393c3b6117212",
       "translation_sha256": "06034652b4b8173b5ba4d13e61ed9bceb8b3ed9725ca799e9bb429d1e926c24d",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2597,7 +3146,10 @@
       "source_sha256": "da4e1dced07d09c67cc0c69ad92cfc77bdfe4649503c0b5eb72fe27523438a63",
       "translation_sha256": "358d5f6ea5d1c889cca67745c275b15fe4c126eef75db6862a31ce355f7f98df",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2611,7 +3163,10 @@
       "source_sha256": "d585d3e8b3798d5102ae46e73a36e97ac5c414d8fc100d43205f0a623442631c",
       "translation_sha256": "b53dee25ef7f970beabe7060664cec3f69566158c1c83d081232ac55d49eacab",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2625,7 +3180,10 @@
       "source_sha256": "bc347559971d72010b2c57ab6103f12a6c945aebe3ad3c132b539a00e160d996",
       "translation_sha256": "43f1f4a9ea471fa70f7bd716dae9c0ced8531431e8fb3af62df1ada7c00a0688",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2639,7 +3197,10 @@
       "source_sha256": "31a45b35d21c37fa5f3d4485e8ac82a13c0295dbd55446a87acf1626bbcb16a8",
       "translation_sha256": "d68db647c34d1462cee0c1d7157bdb37c678ef3cfc9f0e27fb6bbb470d684829",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2653,7 +3214,10 @@
       "source_sha256": "28e8dc0cba01c894a41ffe5edc23fd291ca207c95d490062a3e2115c3e374cda",
       "translation_sha256": "18fd0ed1b0407c34b64ec125a2f74b21c0c7ecf604b9141fa38ac279b15412d2",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2667,7 +3231,10 @@
       "source_sha256": "ea26985d10c2e7d3a4e1fdedaaef073e713e23abd5758044c8cd41ea6c0fa38a",
       "translation_sha256": "5bf8ba26acbf54b31be3eb3f3c8fd7ad98018428e0a10d5df193d8bc05dbeb90",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2681,7 +3248,10 @@
       "source_sha256": "ed0300586afea6ad0f644850580d49a413a060df3d7370a37526ec580be1e248",
       "translation_sha256": "da216eca7fd74d6c5942bad68d49457413b9b4f66be4c52b4e835794e299bced",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2695,7 +3265,10 @@
       "source_sha256": "3dd023037b757d62d152910d965036005a3338d8ac4eac447c1545f6fa365b3b",
       "translation_sha256": "1639556a7c724f1d63fbf50f679552add481b4afcb7b8ed2c8040a9fc538acce",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2709,7 +3282,10 @@
       "source_sha256": "99ec0b3fc41d172064e72b739bfcbfc44bca1e1762fdd8739bc89831bb2a893e",
       "translation_sha256": "c7c2a9c177e7d27193eb8e760ed441bb7c5ad0de58210e6c0e50a17c31de167b",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 6,
@@ -2723,7 +3299,10 @@
       "source_sha256": "8a3e2d8a6fbe9d724441eb38660392e65548cbcd5fe4f825052e73538747fbe7",
       "translation_sha256": "18c4bd8c90bcdf18d354e507dade4ba4c65e71befed49d6bf1a0a41c21af9f5d",
       "tsw_blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 7,
@@ -14231,5 +14810,60 @@
     "F3": 58
   },
   "public_verse_slots": 1007,
-  "included_source_bindings": 1003
+  "included_source_bindings": 1003,
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "current_revision": {
+    "id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "verse_count": 193,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+      "path": "audit/exegetical-core/fluent-production/acts/BOOK_VERSE_REVIEW_LEDGER.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 193,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+        "path": "audit/exegetical-core/fluent-production/acts/BOOK_VERSE_REVIEW_LEDGER.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ],
+  "historical_summary_note": "Original classifications and English hashes remain historical; affected entries are explicitly superseded."
 }

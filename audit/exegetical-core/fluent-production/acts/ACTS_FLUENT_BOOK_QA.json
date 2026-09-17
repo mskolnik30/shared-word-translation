@@ -1,8 +1,8 @@
 {
   "book": "Acts",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 28,
   "public_verse_slots": 1007,
   "included_verse_labels": 1003,
@@ -339,5 +339,58 @@
         "blob_sha": "f04622b3f8eaf6e0b2b0dadee79aa28fb54785d5"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "current_revision": {
+    "id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "verse_count": 193,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+      "path": "audit/exegetical-core/fluent-production/acts/ACTS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "verse_count": 193,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+        "path": "audit/exegetical-core/fluent-production/acts/ACTS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

@@ -1,0 +1,985 @@
+{
+  "scope": "John 18–21",
+  "verses": 138,
+  "summary": {
+    "before": {
+      "identical": 3,
+      "near_identical_nonidentical": 24,
+      "mean_word_similarity": 0.810743
+    },
+    "after": {
+      "identical": 6,
+      "near_identical_nonidentical": 15,
+      "mean_word_similarity": 0.794809
+    }
+  },
+  "rows": [
+    {
+      "reference": "John 18:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "John 18:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "John 18:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.92
+    },
+    {
+      "reference": "John 18:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "John 18:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "John 18:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "John 18:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "John 18:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "John 18:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.52381,
+      "after_similarity": 0.52381
+    },
+    {
+      "reference": "John 18:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "John 18:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "John 18:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "John 18:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 18:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "John 18:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "John 18:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.885246,
+      "after_similarity": 0.766667
+    },
+    {
+      "reference": "John 18:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "John 18:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.721311,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "John 18:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "John 18:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 18:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "John 18:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "John 18:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "John 18:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 18:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.885246
+    },
+    {
+      "reference": "John 18:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "John 18:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "John 18:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.953846,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "John 18:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "John 18:30",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.888889,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 18:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.877193,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "John 18:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.536585,
+      "after_similarity": 0.536585
+    },
+    {
+      "reference": "John 18:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "John 18:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "John 18:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "John 18:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.853659,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "John 18:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88172,
+      "after_similarity": 0.851064
+    },
+    {
+      "reference": "John 18:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.703704,
+      "after_similarity": 0.763636
+    },
+    {
+      "reference": "John 18:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "John 18:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "John 19:1",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 19:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "John 19:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.702703,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "John 19:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862069,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "John 19:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "John 19:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.71875
+    },
+    {
+      "reference": "John 19:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "John 19:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "John 19:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "John 19:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "John 19:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.920635,
+      "after_similarity": 0.969697
+    },
+    {
+      "reference": "John 19:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.825397,
+      "after_similarity": 0.861538
+    },
+    {
+      "reference": "John 19:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "John 19:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.622222,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "John 19:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77193,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "John 19:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "John 19:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.64,
+      "after_similarity": 0.708333
+    },
+    {
+      "reference": "John 19:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "John 19:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "John 19:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "John 19:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.912281,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "John 19:22",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 19:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.876712,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "John 19:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.835165
+    },
+    {
+      "reference": "John 19:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "John 19:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "John 19:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 19:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.45,
+      "after_similarity": 0.526316
+    },
+    {
+      "reference": "John 19:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.872727
+    },
+    {
+      "reference": "John 19:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "John 19:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "John 19:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "John 19:33",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.972973,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 19:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.918919
+    },
+    {
+      "reference": "John 19:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "John 19:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "John 19:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "John 19:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.725,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "John 19:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "John 19:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.634146,
+      "after_similarity": 0.809524
+    },
+    {
+      "reference": "John 19:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.703704
+    },
+    {
+      "reference": "John 19:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.971429,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "John 20:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.688525
+    },
+    {
+      "reference": "John 20:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "John 20:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.56,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "John 20:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.742857,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "John 20:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "John 20:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 20:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "John 20:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "John 20:9",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.83871,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 20:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "John 20:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "John 20:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "John 20:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "John 20:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "John 20:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.790123
+    },
+    {
+      "reference": "John 20:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "John 20:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.860465,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "John 20:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "John 20:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.831169,
+      "after_similarity": 0.702703
+    },
+    {
+      "reference": "John 20:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "John 20:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "John 20:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "John 20:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.647059
+    },
+    {
+      "reference": "John 20:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "John 20:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.835165,
+      "after_similarity": 0.747253
+    },
+    {
+      "reference": "John 20:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.983051
+    },
+    {
+      "reference": "John 20:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "John 20:28",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "John 20:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "John 20:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "John 20:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "John 21:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.930233,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "John 21:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "John 21:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.806452,
+      "after_similarity": 0.793651
+    },
+    {
+      "reference": "John 21:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "John 21:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "John 21:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.763158
+    },
+    {
+      "reference": "John 21:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.779221
+    },
+    {
+      "reference": "John 21:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.509091,
+      "after_similarity": 0.481481
+    },
+    {
+      "reference": "John 21:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "John 21:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "John 21:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.813559,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "John 21:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765957,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "John 21:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "John 21:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "John 21:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.871795,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "John 21:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "John 21:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.828283,
+      "after_similarity": 0.747475
+    },
+    {
+      "reference": "John 21:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.733333,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "John 21:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "John 21:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.688525,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "John 21:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "John 21:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.95,
+      "after_similarity": 0.926829
+    },
+    {
+      "reference": "John 21:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790123,
+      "after_similarity": 0.771084
+    },
+    {
+      "reference": "John 21:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.976744,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "John 21:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.69697,
+      "after_similarity": 0.71875
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

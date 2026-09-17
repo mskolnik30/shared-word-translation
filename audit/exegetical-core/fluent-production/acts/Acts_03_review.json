@@ -2,204 +2,205 @@
   "book": "Acts",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 26,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_03.md",
-    "blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "027d78b5e44b2c3983b66df0d4de64f9dac8c0fd",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "9286201ec5cb96a9626481f05bc321a7fb893f9f6a5e4fa748a0db174929e3b7"
-      },
-      "2": {
-        "source_ref": "Acts 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "5bba89c3c47062945f2712344a71b9a1b522d601e5692dd6033e615d6e8e2124"
-      },
-      "3": {
-        "source_ref": "Acts 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "c29a72d9a25d5ca93feac100fcc07999962049380210f31196ce87664fd5f43a"
-      },
-      "4": {
-        "source_ref": "Acts 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "8c7e2636ecb6d5019d4adc44a57a2d87243e2266a73fa5e1df9ee9fb1631e9d3"
-      },
-      "5": {
-        "source_ref": "Acts 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "6f3da7020126b67465cb890f0efdd9874fbdd6b8d8d84919f30f2a3ff3bdcb13"
-      },
-      "6": {
-        "source_ref": "Acts 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f5108db3829862ffa69be870054a99093bfce05b16cc19b3786af1cd05925fe0"
-      },
-      "7": {
-        "source_ref": "Acts 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "63bba231802c51f7b76700399000cb55f0926210470bb7f4699328829831c619"
-      },
-      "8": {
-        "source_ref": "Acts 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "68f1b70601134f763fee19b8f783e0a6fe645c8ed72c210419811fa13a73f59a"
-      },
-      "9": {
-        "source_ref": "Acts 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "54d8d2acba498e24e871a751d2bcbdc7efd3098c0ed34b46c89bb5cf4e14af91"
-      },
-      "10": {
-        "source_ref": "Acts 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "9535d67f015b8f48c219c7b8fed9e0c4f4138e9bb260d68a8006094893df8cc6"
-      },
-      "11": {
-        "source_ref": "Acts 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "435b7fe89b954c30de851e1fbc6feb20b0ba396ba1d7c9d677c242853e16dc1d"
-      },
-      "12": {
-        "source_ref": "Acts 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "d409f36163fec91198f3341dd971cb55a5ad8b65c4fec532465ae8faa847f434"
-      },
-      "13": {
-        "source_ref": "Acts 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "00206058432921c4080e3abea5f37351ffe6c7f9a5cd53b61689879df1d325ac"
-      },
-      "14": {
-        "source_ref": "Acts 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "2cb45d486ebae6a337c0a17047379c3fdf462686766c7464504083f5a7c3cda3"
-      },
-      "15": {
-        "source_ref": "Acts 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "d82fbb9953c82bbd9825b71c9330089ad525336839929b9082415ce9f2642e74"
-      },
-      "16": {
-        "source_ref": "Acts 3:16",
-        "source_chapter": 3,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "2386ec6d9fa950c4d4fea1a3ed1ced8ab22016d1db00d90ad3b7c65ead4355ce"
-      },
-      "17": {
-        "source_ref": "Acts 3:17",
-        "source_chapter": 3,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "61b414faf5139a3808494d82f24cfab0461f4abff905d5dc93c864b55445ec79"
-      },
-      "18": {
-        "source_ref": "Acts 3:18",
-        "source_chapter": 3,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "d70d88f207ba361a2cfd1679dd8d5a24316c0d7b202981348b182c47301b1763"
-      },
-      "19": {
-        "source_ref": "Acts 3:19",
-        "source_chapter": 3,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f34e955910ddc33e752f9f3d784576a1e1ea7c0f8eb4b43a636a91b338e8b799"
-      },
-      "20": {
-        "source_ref": "Acts 3:20",
-        "source_chapter": 3,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "f78aff3374a29382d16b00f20f905c35880016c9bea070c02a3afc415518bc8c"
-      },
-      "21": {
-        "source_ref": "Acts 3:21",
-        "source_chapter": 3,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "6f194763a3f667c6257ec0620f7223204107d5e501b5afed232043b7e20253eb"
-      },
-      "22": {
-        "source_ref": "Acts 3:22",
-        "source_chapter": 3,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "5dc12fa7a3169164738cf98c9f25a80906b6392f42a2eff932de1f050a17cccf"
-      },
-      "23": {
-        "source_ref": "Acts 3:23",
-        "source_chapter": 3,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "7b4dde5f8da34d1dbe840fbeb0d44c8373857ca749fd41ec04c473e819ce9fb6"
-      },
-      "24": {
-        "source_ref": "Acts 3:24",
-        "source_chapter": 3,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "f2c2c77b3ae0285548e528d62938f3e3f464f23ee186d2dca0a5d32bb2557213"
-      },
-      "25": {
-        "source_ref": "Acts 3:25",
-        "source_chapter": 3,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e86c57f4c12f2d8adf5d9cc5eb2f4362cacf9932830ca9de8e5cb4f46546fc13"
-      },
-      "26": {
-        "source_ref": "Acts 3:26",
-        "source_chapter": 3,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "a870155c221040f1440285a93a2e56551a2002e8f1c2a0e12ca2d3cdf8452171"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/acts/Acts_03.md",
+    "before_sha256": "573af1c53a1344321d89af6ab860ef82949fa58b8a2a925fdbf639097653979d",
+    "after_sha256": "e5ccba616d6c0fadf91ff0edf38c29a49a85983334e41d841bf4fbcfd7a20770",
+    "tsw_comparator_path": "books/NT/acts/Acts_03.md",
+    "tsw_comparator_sha256": "e75800782744fd79476177d059ddf0f971ac8f023a3e97dfb0e660f0d4bc0fcc"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 3:2",
+      "delta": "F3",
+      "rationale": "Keeps congenital condition without defining the man by it, being carried, daily placement, gate name, and request.",
+      "source_reference": "Acts 3:2",
+      "source_verse_sha256": "40a158f13794ab084aa1b9314c7bf53a4932fcbb0fd9f3d5e829fe5b5f9a1e52",
+      "before": "A man who had been unable to walk from birth was being carried in. Every day people placed him at the temple gate called Beautiful so he could ask for alms from those entering the temple.",
+      "after": "A man who had been unable to walk from his mother’s womb was being carried there. Every day people placed him at the temple gate called Beautiful so he could ask those entering for alms.",
+      "tsw_comparator": "And a certain man, lame from his mother’s womb, was being carried, whom they were placing daily at the gate of the temple called Beautiful, to ask alms from those entering into the temple.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.492754,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:7",
+      "delta": "F3",
+      "rationale": "Preserves touch, body side, raising, immediacy, and body parts.",
+      "source_reference": "Acts 3:7",
+      "source_verse_sha256": "2a4612b7b1d124b85e63a6551103e95d5bd760e986a897ce189dcd0558683b2a",
+      "before": "Taking him by the right hand, Peter raised him up. Immediately his feet and ankles became strong.",
+      "after": "Taking him by the right hand, Peter raised him up. Immediately the man’s feet and ankles became strong.",
+      "tsw_comparator": "And taking him by the right hand, he raised him up; and immediately his feet and ankles were made strong.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:13",
+      "delta": "F3",
+      "rationale": "Preserves ancestral names, servant ambiguity, glory, handover, denial, Pilate, and release decision.",
+      "source_reference": "Acts 3:13",
+      "source_verse_sha256": "0be7b4829b776ef88537638cc062e7a361c5cf117704a5c6a6cce4892d477d61",
+      "before": "The God of Abraham, Isaac, and Jacob, the God of our ancestors, glorified his servant Jesus. You handed him over and denied him before Pilate even though Pilate had decided to release him.",
+      "after": "The God of Abraham, Isaac, and Jacob—the God of our ancestors—has glorified his servant Jesus. You handed him over and denied him before Pilate, even though Pilate had decided to release him.",
+      "tsw_comparator": "The God of Abraham and Isaac and Jacob, the God of our fathers, has glorified his servant Jesus, whom you handed over and denied in the presence of Pilate, when he had decided to release him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.771429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:14",
+      "delta": "F3",
+      "rationale": "Keeps titles, denial, request, murderer, and release.",
+      "source_reference": "Acts 3:14",
+      "source_verse_sha256": "166ee3a222b5872cd0fd94e0fa5bd268c50b03e7e8d44a84cb91cd88c104deb0",
+      "before": "You denied the Holy and Righteous One and asked for a murderer to be given to you.",
+      "after": "You denied the Holy and Righteous One and asked for a murderer to be released to you.",
+      "tsw_comparator": "But you denied the Holy and Righteous One and asked for a man who was a murderer to be granted to you,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:15",
+      "delta": "F3",
+      "rationale": "Preserves sharp paradox, divine resurrection, and apostolic witness.",
+      "source_reference": "Acts 3:15",
+      "source_verse_sha256": "77f677146c56fc7645f6a3e9208f519ea282d96690ae8e3593ef6cf97bf72d95",
+      "before": "You killed the Author of life, whom God raised from the dead. We are witnesses of this.",
+      "after": "You killed the Author of life, but God raised him from the dead. We are witnesses of this.",
+      "tsw_comparator": "and you killed the Author of life, whom God raised from the dead, of which we are witnesses.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:16",
+      "delta": "F3",
+      "rationale": "Keeps name, faith’s debated relation, public knowledge, strengthening, completeness, and witnesses.",
+      "source_reference": "Acts 3:16",
+      "source_verse_sha256": "631fcee189a5376cdfc2768b2944fd867c1a3ddae765b906a1502537e06ae0ff",
+      "before": "Through trust in his name, his name has made this man strong—the man you see and know. The trust that comes through Jesus has given him this complete healing in front of you all.",
+      "after": "By faith in Jesus’ name, his name has strengthened this man whom you see and know. The faith that comes through Jesus has given him this complete healing in front of all of you.",
+      "tsw_comparator": "And by faith in his name, this one whom you see and know, his name has made strong; and the faith that is through him has given him this complete health in the presence of you all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647887,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:19",
+      "delta": "F3",
+      "rationale": "Keeps inference, two commands, purpose, sins, and erasure image.",
+      "source_reference": "Acts 3:19",
+      "source_verse_sha256": "28ba22146a3e235915d1d635b0085bdf7829b1d5ba059837fbe7635960ba1249",
+      "before": "Therefore repent and turn back so that your sins may be wiped away,",
+      "after": "Therefore repent and turn back, so that your sins may be wiped away,",
+      "tsw_comparator": "Therefore repent and turn back, so that your sins may be wiped away,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:21",
+      "delta": "F3",
+      "rationale": "Keeps necessity, heaven, temporal limit, restoration, God’s speech, and prophets.",
+      "source_reference": "Acts 3:21",
+      "source_verse_sha256": "f64acdc17f402a2d746d106658f0329f418c40fff5f4c76dc6d43575ed9b794f",
+      "before": "whom heaven must receive until the times of restoration of all things, which God spoke through his holy prophets long ago.",
+      "after": "Heaven must receive him until the times when everything is restored, which God spoke about through his holy prophets from long ago.",
+      "tsw_comparator": "whom heaven must receive until the times of restoration of all things, which God spoke by the mouth of his holy prophets from of old.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.553191,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:22",
+      "delta": "F3",
+      "rationale": "Preserves Moses, divine action, kinship, prophetic comparison, and comprehensive listening.",
+      "source_reference": "Acts 3:22",
+      "source_verse_sha256": "a7d3850950bd32a4edb8f7717a15eb531627ebaff0ea9d7f9dd02ae4ce12761b",
+      "before": "Moses said, ‘The Lord your God will raise up for you from among your brothers a prophet like me. You must listen to him in everything he tells you.",
+      "after": "Moses said, ‘The Lord your God will raise up for you a prophet like me from among your own brothers and sisters. Listen to him in everything he tells you.",
+      "tsw_comparator": "Moses said, ‘The Lord God will raise up for you a prophet like me from your brothers; you shall listen to him in everything that he speaks to you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.813559,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:23",
+      "delta": "F3",
+      "rationale": "Keeps universal warning, refusal to listen, destruction, and community.",
+      "source_reference": "Acts 3:23",
+      "source_verse_sha256": "d512755add1b941f1a7736a7cab65334906889bfdd0157727f59190a1aeec6b1",
+      "before": "Every person who does not listen to that prophet will be completely cut off from the people.’",
+      "after": "Every person who does not listen to that prophet will be completely cut off from the people.’",
+      "tsw_comparator": "And it shall be that every soul who does not listen to that prophet shall be utterly destroyed from the people.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:25",
+      "delta": "F3",
+      "rationale": "Keeps inherited relation, covenant, ancestors, Abraham, offspring, families, earth, and blessing.",
+      "source_reference": "Acts 3:25",
+      "source_verse_sha256": "ca8f1f52a0d6a242f6a78f928b348e3ad715060414c1a5678630e6d880c33196",
+      "before": "You are the children of the prophets and of the covenant God made with your ancestors when he told Abraham, ‘Through your offspring all the families of the earth will be blessed.’",
+      "after": "You are the children of the prophets and of the covenant God made with your ancestors when he told Abraham, ‘Through your offspring all the families of the earth will be blessed.’",
+      "tsw_comparator": "You are the sons of the prophets and of the covenant which God made with your fathers, saying to Abraham, ‘And in your seed all the families of the earth shall be blessed.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.738462,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 3:26",
+      "delta": "F3",
+      "rationale": "Preserves divine raising and sending, priority, blessing, each person, and repentance.",
+      "source_reference": "Acts 3:26",
+      "source_verse_sha256": "2bea8b2ad0634b09dd2c6ebbf2b894644b42412af0b2fbc6937d4a3f38bdfaaa",
+      "before": "God raised up his servant and sent him to you first, to bless you by turning each of you away from your evil ways.”",
+      "after": "God raised up his servant and sent him first to you, to bless you by turning each of you away from your evil ways.”",
+      "tsw_comparator": "To you first, God, having raised up his servant, sent him to bless you by turning each of you from your wickedness.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.73913,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
