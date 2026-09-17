@@ -4,135 +4,53 @@ testament: NT
 chapter: 12
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16
 ---
+
 
 ## The Woman and the Dragon
 
 <p>
-v01: And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
-
-v02: She was pregnant and was crying out in labor and in the pain of giving birth.
-
-v03: And another sign appeared in heaven: look, a great red dragon, having seven heads and ten horns, and on his heads seven diadems.
-
-v04: His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it.
-
-v05: She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,
-
-v06: and the woman fled into the wilderness, where she has a place prepared by God, so that there she might be nourished for 1,260 days.
-
-v07: Now there was war in heaven: Michael and his angels fighting against the dragon. And the dragon and his angels fought back,
-
-v08: but he was not strong enough, and there was no longer any place for them in heaven.
-
-v09: And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the entire world—he was thrown down to the earth, and his angels were thrown down with him.
-
-v10: And I heard a loud voice in heaven, saying,
-
-“Now the salvation and the power and the kingdom of our God
-
-and the authority of his Christ have come,
-
-for the accuser of our brothers has been thrown down,
-
-who accuses them day and night before our God.
-
-v11: And they have conquered him by the blood of the Lamb
-
-and by the word of their testimony,
-
-for they did not love their lives even unto death.
-
-v12: So rejoice, O heavens and you who dwell in them!
-
-But woe to the earth and the sea,
-
-for the devil has come down to you in great wrath,
-
-because he knows that his time is short.”
-
-v13: And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child.
-
-v14: But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.
-
-v15: The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood,
-
-v16: but the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
-
-v17: Then the dragon became enraged with the woman and went off to make war on the rest of her offspring, people who keep the commandments of God and hold to the testimony of Jesus.
+v01: A great sign appeared in heaven: a woman clothed with the sun, with the moon beneath her feet and a crown of twelve stars on her head.
+v02: She was pregnant and cried out in labor, in the torment of giving birth.
+v03: Another sign appeared in heaven: a great fiery red dragon with seven heads and ten horns, and seven royal crowns on his heads.
+v04: His tail swept a third of the stars of heaven and threw them to the earth. The dragon stood before the woman who was about to give birth, ready to devour her child as soon as she gave birth.
+v05: She gave birth to a son, a male child who is to shepherd all the nations with an iron rod. Her child was snatched away to God and to his throne.
+v06: The woman fled into the wilderness, where she had a place prepared by God, so that she could be fed there for 1,260 days.
+v07: War broke out in heaven. Michael and his angels fought the dragon, and the dragon and his angels fought back,
+v08: but he did not prevail, and no place was found for them in heaven any longer.
+v09: The great dragon was thrown down—the ancient serpent called the Devil and Satan, who leads the whole inhabited world astray. He was thrown to the earth, and his angels were thrown down with him.
+v10: I heard a loud voice in heaven say:
+“Now have come the salvation and power
+and kingdom of our God,
+and the authority of his Christ,
+because the accuser of our brothers and sisters has been thrown down,
+the one who accuses them before our God day and night.
+v11: They overcame him through the Lamb's blood
+and through the word of their testimony;
+they did not love their lives even in the face of death.
+v12: So rejoice, heavens and all who dwell in them!
+Woe to the earth and the sea,
+because the devil has come down to you in great fury,
+knowing that he has little time.”
+v13: When the dragon saw that he had been thrown to the earth, he pursued the woman who had given birth to the male child.
+v14: The woman was given the two wings of the great eagle so that she could fly to her place in the wilderness, where she is fed for a time, times and half a time, away from the serpent's presence.
+v15: The serpent poured water like a river from his mouth after the woman, to sweep her away in the river.
+v16: But the earth helped the woman: it opened its mouth and swallowed the river that the dragon had poured from his mouth.
+v17: The dragon was enraged with the woman and went away to wage war against the rest of her offspring, those who keep God's commands and hold the testimony of Jesus.
 </p>
 
 ## Notes
 
-v01: The “sign” signals symbolic vision rather than literal description.
+v05: The source says both “son” and “male,” and uses the shepherding verb with the iron rod.
 
-v01–02: The woman is depicted with cosmic imagery, not identified.
+v14: “A time, times and half a time” is retained rather than converted to a single unit.
 
-v03: The dragon’s features accumulate without explanation.
-
-v04: The sweeping of stars is described without clarification of meaning.
-
-v05: The child’s role is stated through scriptural language without naming identity.
-
-v06: The wilderness functions as both refuge and testing space.
-
-v07–09: Conflict is narrated without strategic detail; outcome is decisive.
-
-v09: Multiple names are given without harmonization, expanding identification.
-
-v10–11: Victory is attributed to both divine action and human witness.
-
-v11: Conquering is linked to death rather than avoidance of it.
-
-v12: Time is shortened but not quantified.
-
-v14: The time expression is symbolic and not aligned with prior units.
-
-v15–16: Creation responds; the earth acts without explanation.
-
-v17: The focus shifts from the woman to her offspring without transition.
+v17: The pinned source has a separate verse 18, “He stood on the sand of the sea.” The inherited public layout places it at the start of 13:1; both original records are separately bound there.
 
 ## Vocabulary
 
-v01: σημεῖον (sēmeion)
-
-“Sign.” Indicator pointing beyond itself.
-
-v03: δράκων (drakōn)
-
-“Dragon.” A symbolic adversary, not defined by species.
-
-v04: σύρω (syro)
-
-“To sweep” or “drag.” Forceful movement.
-
-v05: ποιμαίνω (poimainō)
-
-“To rule” or “shepherd.” Authority expressed as guidance or control.
-
-v06: ἔρημος (erēmos)
-
-“Wilderness.” Place of isolation and provision.
-
-v07: πόλεμος (polemos)
-
-“War.” Conflict without specified form.
-
-v09: διάβολος (diabolos)
-
-“Slanderer” or “devil.” One who accuses or opposes.
-
-v10: κατήγωρ (katēgor)
-
-“Accuser.” One who brings charges.
-
-v11: μαρτυρία (martyria)
-“Testimony.” Witness borne publicly.
-
-v14: καιρός (kairos)
-
-“Time.” Appointed or significant period.
-
-v17: σπέρμα (sperma)
-
-“Offspring.” Descendants or continuation.
+v03: **διάδημα (diadēma)**: Royal crown or diadem, distinguished from the wreath-crown term elsewhere.

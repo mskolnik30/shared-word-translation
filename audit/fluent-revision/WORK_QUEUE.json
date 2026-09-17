@@ -721,12 +721,21 @@
       "scope": "Jude 1",
       "verses": 25,
       "ledger": "audit/fluent-revision/2026-09-17-jude-1-1/jude-verse-review.json"
+    },
+    {
+      "scope": "Revelation 1–22",
+      "verses": 404,
+      "ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Revelation 1–22",
-      "action": "Continue Revelation 1–22 without routine approval; read verified pinned Greek before authoring."
+      "scope": "Independent editorial review and reader testing",
+      "action": "All 1189 chapters have revision drafts. Obtain independent original-language editorial review and reader testing; complete queued whole-book consistency reviews and Companion quotation/binding reconciliation. No publication approval is implied."
+    },
+    {
+      "scope": "Whole-book Revelation consistency review",
+      "action": "Read all 22 revised chapters and apparatus continuously; review images, titles, time formulas, numbers, speakers, songs and source/public verse mappings. Rebind any changes. Independent review remains pending."
     },
     {
       "scope": "Whole-book Jude consistency review",
@@ -1038,13 +1047,21 @@
   ],
   "active_fifty_chapter_block": {
     "scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
-    "status": "IN_PROGRESS",
+    "status": "DRAFT_COMPLETED",
     "chapters_target": 32,
-    "completed_chapters": 10,
-    "completed_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1",
-    "completed_verses": 198,
-    "remaining_scope": "Revelation 1–22",
-    "remaining_chapters": 22,
-    "qualification": "Final project remainder: 10 of 32 chapters drafted; Revelation 1–22 remains. Independent review, whole-book review and reader testing remain pending."
-  }
+    "completed_chapters": 32,
+    "completed_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+    "completed_verses": 602,
+    "remaining_scope": "None — drafting complete through Revelation 22",
+    "remaining_chapters": 0,
+    "qualification": "All 32 chapters of the final remainder have source-based revision drafts: 602 public verses supported by 603 exact Greek records. Independent review, queued whole-book reviews, reader testing and Companion reconciliation remain pending."
+  },
+  "draft_status": "DRAFT_COMPLETE",
+  "draft_coverage": {
+    "chapters": 1189,
+    "verses": 31083,
+    "ledgers": 145
+  },
+  "draft_completion_evidence": "audit/fluent-revision/2026-09-17-revelation-1-22/verification.json",
+  "continuation_automation_next_action": "Pause existing drafting automation after the verified complete checkpoint is saved; drafting through Revelation 22 is complete."
 }

@@ -4,152 +4,71 @@ testament: NT
 chapter: 21
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16
 ---
+
 
 ## A New Heaven and a New Earth
 
 <p>
-v01: Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.
-
-v02: And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
-
-v03: And I heard a loud voice from the throne saying, “Look, the dwelling of God is with mankind. He will dwell with them, and they will be his peoples, and God himself will be with them,
-
-v04: and he will wipe away every tear from their eyes, and death will be no more, neither will there be mourning nor crying nor pain anymore, for the former things have passed away.”
-
-v05: And the one seated on the throne said, “Look, I am making everything new.” And he said, “Write this down, for these words are trustworthy and true.”
-
-v06: And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.
-
-v07: The one who conquers will inherit these things, and I will be his God and he will be my son.
-
-v08: But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.”
+v01: I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.
+v02: I saw the holy city, new Jerusalem, coming down from heaven from God, prepared like a bride adorned for her husband.
+v03: I heard a loud voice from the throne say:
+“Look, God's tent is with humanity.
+He will dwell with them,
+and they will be his peoples,
+and God himself will be with them.
+v04: He will wipe every tear from their eyes,
+and death will be no more.
+Grief, crying and pain will be no more,
+because the former things have passed away.”
+v05: The one seated on the throne said, “Look, I am making all things new.” He also said, “Write, because these words are faithful and true.”
+v06: He said to me, “These things are done. I am the Alpha and the Omega, the beginning and the end. I will give freely from the spring of the water of life to anyone who thirsts.
+v07: The one who overcomes will inherit these things, and I will be their God, and they will be my son.
+v08: But as for the cowardly, the faithless, the detestable, murderers, the sexually immoral, sorcerers, idolaters and all liars, their portion will be in the lake burning with fire and sulfur. This is the second death.”
 </p>
 
 ## The New Jerusalem
 
 <p>
-v09: Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, “Come, I will show you the bride, the wife of the Lamb.”
-
-v10: And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from God,
-
-v11: having the glory of God, its radiance like a most rare jewel, like a jasper, clear as crystal.
-
-v12: It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates names were written, which are the names of the twelve tribes of the sons of Israel:
-
-v13: on the east three gates, on the north three gates, on the south three gates, and on the west three gates.
-
-v14: And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.
-
-v15: And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls.
-
-v16: The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal.
-
-v17: He also measured its wall, 144 cubits by human measurement, which is also an angel’s measurement.
-
-v18: The wall was built of jasper, while the city was pure gold, like clear glass.
-
-v19: The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald,
-
-v20: the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.
-
-v21: And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, like transparent glass.
-
-v22: And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb.
-
-v23: And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.
-
-v24: By its light the nations will walk, and the kings of the earth will bring their glory into it,
-
-v25: and its gates will never be shut by day—and there will be no night there.
-
-v26: They will bring into it the glory and the honor of the nations.
-
-v27: But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only people who are written in the Lamb’s book of life.
+v09: One of the seven angels who had the seven bowls full of the seven last plagues came and spoke to me: “Come, I will show you the bride, the Lamb's wife.”
+v10: He carried me away in the Spirit to a great, high mountain and showed me the holy city Jerusalem coming down from heaven from God,
+v11: having God's glory. Her radiance was like a most precious stone, like jasper, clear as crystal.
+v12: She had a great, high wall with twelve gates, and twelve angels at the gates. On the gates were written the names of the twelve tribes of the children of Israel.
+v13: There were three gates on the east, three on the north, three on the south and three on the west.
+v14: The city's wall had twelve foundations, and on them were the twelve names of the Lamb's twelve apostles.
+v15: The one speaking with me had a golden measuring reed to measure the city, its gates and its wall.
+v16: The city lay square, its length the same as its width. He measured the city with the reed: 12,000 stadia. Its length, width and height were equal.
+v17: He measured its wall: 144 cubits, by human measure, which the angel was using.
+v18: The wall was built of jasper, and the city was pure gold, like clear glass.
+v19: The foundations of the city's wall were adorned with every precious stone: the first with jasper, the second sapphire, the third chalcedony, the fourth emerald,
+v20: the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth and the twelfth amethyst.
+v21: The twelve gates were twelve pearls, each gate made of a single pearl. The city's street was pure gold, like transparent glass.
+v22: I saw no temple in her, because the Lord God, the Almighty, and the Lamb are her temple.
+v23: The city has no need of the sun or moon to shine on her, because God's glory lights her, and her lamp is the Lamb.
+v24: The nations will walk by her light, and the kings of the earth bring their glory into her.
+v25: Her gates will never be shut by day, and there will be no night there.
+v26: They will bring the glory and honor of the nations into her.
+v27: Nothing unclean will ever enter her, nor anyone who practices abomination or falsehood, but only those written in the Lamb's book of life.
 </p>
 
 ## Notes
 
-v01: The new creation replaces the former; continuity is not explained.
+v03: The pinned text reads the plural “peoples”; other witnesses have the singular “people.” Its final clause ends “God himself will be with them.”
 
-v01: The absence of the sea signals removal of prior instability.
+v06: The pinned completed verb is plural, rendered “these things are done.”
 
-v02: The city is described relationally (“as a bride”), not structurally alone.
+v07: “My son” retains the scriptural sonship formula in a promise addressed to the one who overcomes.
 
-v03: Dwelling is mutual; presence defines relationship.
+v17: The verse gives the wall’s measurement without specifying height or thickness.
 
-v04: Suffering is removed through negation rather than transformation described.
+v19–20: Ancient gemstone names do not always match modern mineral classifications. The conventional names retain the twelvefold sequence.
 
-v05: Renewal is declared ongoing (“making”), not only completed.
-
-v06: “It is done” parallels earlier declarations without repetition of context.
-
-v06: Gift is given without cost; qualification is not specified.
-
-v07: Relationship is expressed in covenantal terms.
-
-v08: Exclusion is listed without gradation; outcome is shared.
-
-v09–10: The bride and city are identified without separation.
-
-v11: Radiance is described comparatively, not defined.
-
-v12–14: Twelve-fold structure integrates multiple traditions.
-
-v15–17: Measurement signifies order; scale exceeds ordinary experience.
-
-v18–21: Materials are described cumulatively without interpretation.
-
-v22: Absence of temple is explained through presence.
-
-v23: Light is internal, not external.
-
-v24–26: Nations remain but are reoriented.
-
-v27: Entry is restricted by identity, not access alone.
+v24: The pinned text has “the nations,” without the expansion “of those who are saved.”
 
 ## Vocabulary
 
-v01: καινός (kainos)
-
-“New.” New in kind, not merely in time.
-
-v02: πόλις (polis)
-
-“City.” Organized dwelling and center of life.
-
-v03: σκηνή (skēnē)
-
-“Dwelling.” Place of presence.
-
-v04: δάκρυον (dakryon)
-
-“Tear.” Expression of suffering, removed here.
-
-v06: πηγή (pēgē)
-
-“Spring.” Source of water.
-
-v07: κληρονομέω (klēronomeō)
-
-“To inherit.” To receive as possession.
-
-v08: λίμνη τοῦ πυρός (limnē tou pyros)
-
-“Lake of fire.” Final place of judgment.
-
-v16: στάδιον (stadion)
-
-“Measure of distance.” Used to express scale.
-
-v18: ὑάλος (hyalos)
-
-“Glass.” Transparent material.
-
-v22: ναός (naos)
-
-“Temple.” Central place of worship.
-
-v27: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
-
-“Book of life.” Record of belonging.
+v16–17: **στάδιον / πῆχυς**: Stadion and cubit: ancient length units. 12,000 stadia is roughly 2,200 kilometers; 144 cubits roughly 65 meters.

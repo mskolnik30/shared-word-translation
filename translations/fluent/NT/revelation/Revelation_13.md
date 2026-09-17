@@ -4,154 +4,74 @@ testament: NT
 chapter: 13
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16
 ---
+
 
 ## The First Beast
 
 <p>
-v01: Then the dragon stood on the sand of the sea. I saw a beast rising out of the sea, having ten horns and seven heads, and on its horns ten diadems, and on its heads blasphemous names.
+v01: He stood on the sand of the sea. I saw a beast rising from the sea, with ten horns and seven heads, ten royal crowns on its horns and blasphemous names on its heads.
 </p>
 
 <p>
-v02: And the beast that I saw was like a leopard, its feet were like a bear’s, and its mouth was like a lion’s mouth. The dragon gave it his power and his throne and great authority.
+v02: The beast I saw was like a leopard, with feet like a bear's and a mouth like a lion's mouth. The dragon gave it his power, his throne and great authority.
 </p>
 
 <p>
-v03: One of its heads seemed as if it had been slain to death, and its deadly wound was healed, and the entire earth marveled as they followed the beast.
-
-v04: And they worshiped the dragon because he had given his authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can make war with it?”
+v03: One of its heads looked as though it had been slaughtered to death, but its fatal wound was healed. The whole earth marveled and followed the beast.
+v04: They worshiped the dragon because he had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?”
 </p>
 
 <p>
-v05: And the beast was given a mouth speaking great things and blasphemies, and it was given authority to act for forty-two months.
-
-v06: It opened its mouth in blasphemies against God, to blaspheme his name and his dwelling, that is, people who dwell in heaven.
-
-v07: And it was allowed to make war on the saints and to conquer them, and authority was given it over every tribe and people and language and nation,
-
-v08: and everyone who dwell on the earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
+v05: The beast was given a mouth speaking boastful things and blasphemies, and it was given authority to act for forty-two months.
+v06: It opened its mouth to blaspheme God, to blaspheme his name and his dwelling—those who dwell in heaven.
+v07: It was given power to wage war against the holy ones and overcome them, and it was given authority over every tribe, people, language and nation.
+v08: All who live on the earth will worship it, everyone whose name has not been written in the book of life of the Lamb who was slaughtered, from the foundation of the world.
 </p>
 
 <p>
-v09: If someone has an ear, let him hear:
-
-v10: If someone is for captivity, into captivity he goes;
-
-if anyone is to be killed with the sword, with the sword he must be killed.
-
-Here is a call for the endurance and faith of the saints.
+v09: If anyone has an ear, let them hear.
+v10: If anyone is destined for captivity, into captivity they go;
+if anyone is to be killed by the sword, by the sword they must be killed.
+Here is the endurance and faith of the holy ones.
 </p>
 
 <p>
-v11: Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.
-v12: It exercises all the authority of the first beast in its presence, and it makes the earth and people who dwell in it worship the first beast, whose deadly wound was healed.
-v13: It performs great signs, even making fire come down from heaven to earth in front of people,
+v11: I saw another beast rising from the earth. It had two horns like a lamb's, but it spoke like a dragon.
+v12: It exercises all the first beast's authority in its presence, and makes the earth and those who live on it worship the first beast, whose fatal wound was healed.
+v13: It performs great signs, even making fire come down from heaven to earth in people's sight.
 </p>
 
 <p>
-v14: and by the signs that it is allowed to perform in the presence of the beast it deceives the earth’s inhabitants, telling them to make an image for the beast that was wounded by the sword and yet lived.
-v15: And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and cause people who would not worship the image of the beast to be killed.
+v14: It leads those who live on the earth astray through the signs it was allowed to perform in the beast's presence. It tells them to make an image for the beast that had the sword wound and lived.
+v15: It was allowed to give breath to the beast's image, so that the image could speak and cause everyone who would not worship it to be killed.
 </p>
 
 <p>
-v16: Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,
-v17: so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
+v16: It makes everyone—small and great, rich and poor, free and slave—receive a mark on their right hand or their forehead,
+v17: so that no one can buy or sell unless they have the mark: the beast's name or the number of its name.
 </p>
 
 <p>
-v18: This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+v18: Here is wisdom. Let the one with understanding calculate the beast's number, for it is a human number, and its number is six hundred sixty-six.
 </p>
 
 ## Notes
 
-v01: The beast rises from the sea, signaling emergence from chaos rather than stable origin.
+v01: The opening sentence follows source 12:18, which reads “he stood”; another reading has “I stood.” The remainder is source 13:1. Public numbering remains unchanged.
 
-v01–02: Features combine earlier symbolic elements without resolving identity.
+v06: The pinned text places “those who dwell in heaven” after “his dwelling” without another and.
 
-v02: Authority is received, not inherent.
+v08: “From the foundation of the world” can modify the writing of names or the slaughtering of the Lamb. The Greek places it at the end; compare 17:8.
 
-v03: The healed wound provokes global response; restoration leads to allegiance.
+v10: The pinned wording concerns going into captivity and being killed by the sword. Other readings speak of taking captives or killing and then receiving the same fate.
 
-v04: Worship is directed through mediated authority (dragon → beast).
-
-v05: Speech is emphasized as instrument of influence and opposition.
-
-v05: Time is limited (“forty-two months”), not indefinite.
-
-v06: Blasphemy extends to both God and those associated with God.
-
-v07: Conquest is permitted; authority is described as given.
-
-v08: Worship is universal in scope but not without distinction.
-
-v08: The “book of life” introduces prior belonging without explanation.
-
-v09–10: The saying functions as warning and recognition rather than instruction.
-
-v10: Endurance is framed within inevitability, not avoidance.
-
-v11: The second beast appears similar to a lamb but speaks differently, creating dissonance.
-
-v12: Authority is derivative; action reinforces prior allegiance.
-
-v13–14: Signs function as instruments of deception rather than revelation.
-
-v14: The image is constructed in response to perceived power.
-
-v15: Breath is given, but source authority remains external.
-
-v16–17: The mark regulates participation in economic life.
-
-v17: Identity is reduced to name or number without clarification.
-
-v18: The number is presented as requiring interpretation, not immediate recognition.
+v18: “A human number” may also mean “the number of a man.” The pinned text reads 666; some witnesses read 616. No individual is named here.
 
 ## Vocabulary
 
-v01: θηρίον (thērion)
-
-“Beast.” A figure of power or opposition, not specified by category.
-
-v02: ἐξουσία (exousia)
-
-“Authority.” Delegated power to act.
-
-v03: πληγή (plēgē)
-
-“Wound.” A striking or blow, here appearing fatal.
-
-v04: προσκυνέω (proskyneō)
-
-“To worship.” To show reverence or submission.
-
-v05: βλασφημία (blasphēmia)
-
-“Blasphemy.” Speech that opposes or dishonors God.
-
-v07: νικάω (nikaō)
-
-“To conquer.” Victory described without method.
-
-v08: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
-
-“Book of life.” Record of belonging, not defined.
-
-v11: κέρας (keras)
-
-“Horn.” Symbol of strength or authority.
-
-v13: σημεῖον (sēmeion)
-
-“Sign.” Indicator that can reveal or deceive.
-
-v14: εἰκών (eikōn)
-
-“Image.” Representation that carries identity or authority.
-
-v16: χάραγμα (charagma)
-
-“Mark.” Inscription or imprint indicating allegiance.
-
-v18: ἀριθμός (arithmos)
-
-“Number.” Value requiring interpretation.
+v16: **χάραγμα (charagma)**: An engraved, impressed or branded mark.

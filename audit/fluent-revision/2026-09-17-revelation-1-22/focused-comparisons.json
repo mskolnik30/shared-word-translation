@@ -1,0 +1,2131 @@
+{
+  "status": "AUTHORING_REREAD_COMPLETED",
+  "review_type": "Drafting-assistant bilingual self-reread; not human or independent scholarly review",
+  "authoring_record_sha256": "ac23afe5b8608e0a7114758dee62b9d84808b6742f8354a1256ff00ec22735d0",
+  "rows": [
+    {
+      "reference": "Revelation 1:1",
+      "delta": "F3",
+      "rationale": "Preserves the revelation-of relation, delegated disclosure and explicit slave language.",
+      "source_reference": "Rev 1:1",
+      "source_verse_sha256": "3f033f11063f3faf902c4a0c56366be044e9cd9bacb2c9fda36bfb3b0faa0641",
+      "before": "The revelation of Jesus Christ, which God gave to him to show to his servants what must soon take place. He made it known by sending his angel to his servant John,",
+      "after": "The revelation of Jesus Christ, which God gave him to show his slaves what must happen soon. He made it known by sending his angel to his slave John,",
+      "tsw_comparator": "The revelation of Jesus Christ, which God gave to him to show to his servants what must soon take place. He made it known by sending his angel to his servant John,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.852459,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:1",
+          "payload": "Ἀποκάλυψις Ἰησοῦ Χριστοῦ, ἣν ἔδωκεν αὐτῷ ὁ θεὸς δεῖξαι τοῖς δούλοις αὐτοῦ, ἃ δεῖ γενέσθαι ἐν τάχει, καὶ ἐσήμανεν ἀποστείλας διὰ τοῦ ἀγγέλου αὐτοῦ τῷ δούλῳ αὐτοῦ Ἰωάννῃ, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:4",
+      "delta": "F3",
+      "rationale": "Keeps seven spirits and the unusual divine time formula without interpreting them away.",
+      "source_reference": "Rev 1:4",
+      "source_verse_sha256": "6c0821118fe82387a083ebea3d34bea654a91aa257fe4abb9434662667b55364",
+      "before": "John to the seven churches that are in Asia: Grace to you and peace from the one who is and who was and who is to come, and from the seven spirits who are before his throne,",
+      "after": "John, to the seven churches in Asia: grace and peace to you from the one who is and who was and who is coming, and from the seven spirits before his throne,",
+      "tsw_comparator": "John to the seven churches that are in Asia: Grace to you and peace from the one who is and who was and who is to come, and from the seven spirits who are before his throne,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84058,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:4",
+          "payload": "Ἰωάννης ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ Ἀσίᾳ· χάρις ὑμῖν καὶ εἰρήνη ⸀ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, καὶ ἀπὸ τῶν ἑπτὰ πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:5",
+      "delta": "F3",
+      "rationale": "Follows freed rather than washed and preserves all three titles and the unfinished doxology.",
+      "source_reference": "Rev 1:5",
+      "source_verse_sha256": "1dcf57417fb241b65fad95dfab589e14095ba658fb01b450ed929df40021a19b",
+      "before": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To the one who loves us and has freed us from our sins by his blood,",
+      "after": "and from Jesus Christ, the faithful witness, the firstborn of the dead and the ruler of the kings of the earth. To the one who loves us and freed us from our sins by his blood—",
+      "tsw_comparator": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To the one who loves us and has freed us from our sins by his blood,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.986301,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:5",
+          "payload": "καὶ ἀπὸ Ἰησοῦ Χριστοῦ, ὁ μάρτυς ὁ πιστός, ὁ πρωτότοκος τῶν νεκρῶν καὶ ὁ ἄρχων τῶν βασιλέων τῆς γῆς. Τῷ ἀγαπῶντι ἡμᾶς καὶ ⸀λύσαντι ἡμᾶς ⸀ἐκ τῶν ἁμαρτιῶν ἡμῶν ἐν τῷ αἵματι αὐτοῦ— "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:6",
+      "delta": "F3",
+      "rationale": "Keeps kingdom rather than kings and the relation his God and Father.",
+      "source_reference": "Rev 1:6",
+      "source_verse_sha256": "80eb0d8a584862aeeb0eb0befd998a48a9e9a7da3852605ceee6755260b32bca",
+      "before": "and made us a kingdom, priests to his God and Father—to him be glory and dominion forever and ever. Amen.",
+      "after": "and made us a kingdom, priests to his God and Father—to him be glory and power forever and ever. Amen.",
+      "tsw_comparator": "and made us a kingdom, priests to his God and Father—to him be glory and dominion forever and ever. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:6",
+          "payload": "καὶ ἐποίησεν ἡμᾶς βασιλείαν, ἱερεῖς τῷ θεῷ καὶ πατρὶ αὐτοῦ— αὐτῷ ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας ⸂τῶν αἰώνων⸃· ἀμήν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:8",
+      "delta": "F3",
+      "rationale": "Keeps the Greek letter names and exact divine title without an added beginning/end expansion.",
+      "source_reference": "Rev 1:8",
+      "source_verse_sha256": "afff7bf51a5a69b8baef55ca8e21765ceb6f31e7c8efac565a19e31371978026",
+      "before": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is to come, the Almighty.",
+      "after": "“I am the Alpha and the Omega,” says the Lord God, “the one who is and who was and who is coming, the Almighty.”",
+      "tsw_comparator": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is to come, the Almighty.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.938776,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:8",
+          "payload": "Ἐγώ εἰμι τὸ Ἄλφα καὶ τὸ Ὦ, λέγει κύριος, ὁ θεός, ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, ὁ παντοκράτωρ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:9",
+      "delta": "F3",
+      "rationale": "Preserves the three shared realities and leaves because of and testimony of open.",
+      "source_reference": "Rev 1:9",
+      "source_verse_sha256": "18228e8acd66dea8f8abf9071e08eb4211efd028c84954dfde8973653e990e9e",
+      "before": "I, John, your brother and partner in the affliction and kingdom and endurance that are in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus.",
+      "after": "I, John, your brother and fellow participant in the suffering, kingdom and endurance in Jesus, was on the island called Patmos because of God's word and the testimony of Jesus.",
+      "tsw_comparator": "I, John, your brother and partner in the affliction and kingdom and endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:9",
+          "payload": "Ἐγὼ Ἰωάννης, ὁ ἀδελφὸς ὑμῶν καὶ ⸀συγκοινωνὸς ἐν τῇ θλίψει καὶ βασιλείᾳ καὶ ὑπομονῇ ⸀ἐν Ἰησοῦ, ἐγενόμην ἐν τῇ νήσῳ τῇ καλουμένῃ Πάτμῳ διὰ τὸν λόγον τοῦ θεοῦ ⸀καὶ τὴν μαρτυρίαν ⸀Ἰησοῦ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:13",
+      "delta": "F3",
+      "rationale": "Keeps the son-of-man allusion, comparison and clothing details.",
+      "source_reference": "Rev 1:13",
+      "source_verse_sha256": "94b6797616a32e76da51d8f452a0c1fac7d30d18f460fc4e7affd4b2c2786549",
+      "before": "and among the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+      "after": "and among the lampstands, one like a son of man, dressed in a robe reaching to his feet, with a golden sash around his chest.",
+      "tsw_comparator": "and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:13",
+          "payload": "καὶ ἐν μέσῳ ⸀τῶν λυχνιῶν ὅμοιον ⸀υἱὸν ἀνθρώπου, ἐνδεδυμένον ποδήρη καὶ περιεζωσμένον πρὸς τοῖς μαστοῖς ζώνην χρυσᾶν· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:15",
+      "delta": "F3",
+      "rationale": "Retains the metal and water imagery with the uncertain alloy noted.",
+      "source_reference": "Rev 1:15",
+      "source_verse_sha256": "923e071ffe6b7363369f6aeefbdfead4c77594eb9bef5ac1088236c82c2f779d",
+      "before": "his feet were like burnished bronze, refined in a furnace, and his voice was like the sound of many waters.",
+      "after": "His feet were like burnished bronze, as though refined in a furnace, and his voice was like the sound of many waters.",
+      "tsw_comparator": "his feet were like burnished bronze, refined in a furnace, and his voice was like the sound of many waters.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:15",
+          "payload": "καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ, ὡς ἐν καμίνῳ ⸀πεπυρωμένης, καὶ ἡ φωνὴ αὐτοῦ ὡς φωνὴ ὑδάτων πολλῶν, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:18",
+      "delta": "F3",
+      "rationale": "Keeps death and life together and distinguishes Hades from later lake-of-fire imagery.",
+      "source_reference": "Rev 1:18",
+      "source_verse_sha256": "9c199eeb797c3ead4e9cbec6046ca76f20df4e6ebe1ad57fba510f526f709a9c",
+      "before": "and the living one. I was dead, and look, I am alive forever and ever, and I have the keys of death and Hades.",
+      "after": "and the living one. I was dead, and look—I am alive forever and ever! I hold the keys of Death and Hades.",
+      "tsw_comparator": "and the living one. I was dead, and behold, I am alive forever and ever, and I have the keys of death and Hades.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.893617,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:18",
+          "payload": "καὶ ὁ ζῶν— καὶ ἐγενόμην νεκρὸς καὶ ἰδοὺ ζῶν εἰμι εἰς τοὺς αἰῶνας τῶν ⸀αἰώνων— καὶ ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 1:20",
+      "delta": "F3",
+      "rationale": "Preserves the interpretation the vision itself supplies and leaves angels' identity unspecified.",
+      "source_reference": "Rev 1:20",
+      "source_verse_sha256": "2fe94260c7f87997235be46424730917b149a6be7e661651651c6b60ebd2bddc",
+      "before": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
+      "after": "As for the mystery of the seven stars you saw in my right hand and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are seven churches.”",
+      "tsw_comparator": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.972973,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 1:20",
+          "payload": "τὸ μυστήριον τῶν ἑπτὰ ἀστέρων ⸀οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου, καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς· οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσίν, καὶ αἱ λυχνίαι αἱ ἑπτὰ ἑπτὰ ἐκκλησίαι εἰσίν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:9",
+      "delta": "F3",
+      "rationale": "Retains the speaker's localized polemical claim without extending it to Jews generally.",
+      "source_reference": "Rev 2:9",
+      "source_verse_sha256": "12cd5f9ba268b08f49b35240976dca608a7da4eff36f0f8f513cedd12648879c",
+      "before": "I know your affliction and your poverty (but you are rich), and the slander of people who say that they are Jews and are not, but are a synagogue of Satan.",
+      "after": "I know your suffering and poverty—but you are rich—and the slander from those who say they are Jews and are not, but are a synagogue of Satan.",
+      "tsw_comparator": "I know your affliction and your poverty (but you are rich), and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:9",
+          "payload": "Οἶδά ⸀σου τὴν θλῖψιν καὶ τὴν πτωχείαν, ἀλλὰ πλούσιος εἶ, καὶ τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς, καὶ οὐκ εἰσίν, ἀλλὰ συναγωγὴ τοῦ Σατανᾶ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:13",
+      "delta": "F3",
+      "rationale": "Retains the named witness, actual killing and repeated where clauses.",
+      "source_reference": "Rev 2:13",
+      "source_verse_sha256": "512e7afa37d93302c140a7554661b03aa2ed0a59f34fafcea733f942987dd185",
+      "before": "I know where you dwell, where Satan’s throne is. Yet you hold firmly my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.",
+      "after": "I know where you live, where Satan's throne is. You hold firmly to my name and did not deny faith in me even in the days of Antipas, my witness, my faithful one, who was killed among you, where Satan lives.",
+      "tsw_comparator": "I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:13",
+          "payload": "⸀Οἶδα ποῦ κατοικεῖς, ὅπου ὁ θρόνος τοῦ Σατανᾶ, καὶ κρατεῖς τὸ ὄνομά μου, καὶ οὐκ ἠρνήσω τὴν πίστιν μου ⸀καὶ ἐν ταῖς ⸀ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός ⸀μου, ὃς ἀπεκτάνθη παρʼ ὑμῖν, ὅπου ὁ Σατανᾶς κατοικεῖ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:20",
+      "delta": "F3",
+      "rationale": "Retains the woman's specific gender and claimed role, both acts and slavery vocabulary.",
+      "source_reference": "Rev 2:20",
+      "source_verse_sha256": "e69e4ef7f39d08baa30005f7caeb27b711371a1efc933934ce71d5b95b639701",
+      "before": "But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and deceiving my servants to practice sexual immorality and to eat food sacrificed to idols.",
+      "after": "But I have this against you: you tolerate the woman Jezebel, who calls herself a prophet and teaches and leads my slaves astray to commit sexual immorality and eat food sacrificed to idols.",
+      "tsw_comparator": "But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and deceiving my servants to practice sexual immorality and to eat food sacrificed to idols.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:20",
+          "payload": "ἀλλὰ ἔχω κατὰ σοῦ ὅτι ἀφεῖς τὴν ⸀γυναῖκα Ἰεζάβελ, ἡ ⸀λέγουσα ἑαυτὴν προφῆτιν, καὶ διδάσκει καὶ πλανᾷ τοὺς ἐμοὺς δούλους πορνεῦσαι καὶ φαγεῖν εἰδωλόθυτα. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:22",
+      "delta": "F3",
+      "rationale": "Preserves the bed metaphor without silently adding sick and follows her works rather than their works.",
+      "source_reference": "Rev 2:22",
+      "source_verse_sha256": "179f1f665174788380ca79a1c765227673b94a4ac128ad158ed967c619b2d0b1",
+      "before": "Look, I will throw her onto a sickbed, and people who commit adultery with her into great affliction, unless they repent of her works,",
+      "after": "Look, I am throwing her onto a bed, and those who commit adultery with her into great suffering, unless they repent of her works.",
+      "tsw_comparator": "Behold, I will throw her onto a sickbed, and those who commit adultery with her into great affliction, unless they repent of her works,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.791667,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:22",
+          "payload": "ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, καὶ τοὺς μοιχεύοντας μετʼ αὐτῆς εἰς θλῖψιν μεγάλην, ἐὰν μὴ ⸀μετανοήσωσιν ἐκ τῶν ἔργων αὐτῆς· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:23",
+      "delta": "F3",
+      "rationale": "Keeps the harsh threat and anatomical image; alternatives are explained in notes.",
+      "source_reference": "Rev 2:23",
+      "source_verse_sha256": "5666def4906500153a2a545d2915f70e44993a014b9c486eee049b7f8328c9cb",
+      "before": "and I will strike her children dead. And all the churches will know that I am the one who searches mind and heart, and I will give to each of you according to your works.",
+      "after": "I will kill her children with death. Then all the churches will know that I am the one who searches kidneys and hearts, and I will give each of you according to your works.",
+      "tsw_comparator": "and I will strike her children dead. And all the churches will know that I am the one who searches mind and heart, and I will give to each of you according to your works.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:23",
+          "payload": "καὶ τὰ τέκνα αὐτῆς ἀποκτενῶ ἐν θανάτῳ· καὶ γνώσονται πᾶσαι αἱ ἐκκλησίαι ὅτι ἐγώ εἰμι ὁ ἐραυνῶν νεφροὺς καὶ καρδίας, καὶ δώσω ὑμῖν ἑκάστῳ κατὰ τὰ ἔργα ὑμῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:27",
+      "delta": "F3",
+      "rationale": "Preserves the shepherding verb and violent comparison rather than smoothing it into a single ruling term.",
+      "source_reference": "Rev 2:27",
+      "source_verse_sha256": "9ac76a017ce89d3807146ba4d8607852d873b962c1627977eed9424540c75f25",
+      "before": "and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father.",
+      "after": "and that person will shepherd them with an iron rod, as clay vessels are shattered,",
+      "tsw_comparator": "and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.325581,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:27",
+          "payload": "καὶ ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ ὡς τὰ σκεύη τὰ κεραμικὰ ⸀συντρίβεται, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 2:28",
+      "delta": "F3",
+      "rationale": "Keeps the Father's prior gift and the unnamed star's promise at the source boundary.",
+      "source_reference": "Rev 2:28",
+      "source_verse_sha256": "ff06054709352bb13ba40cf7908a08ed425fbec054198d7130be5dba5cd283c4",
+      "before": "And I will give him the morning star.",
+      "after": "just as I too have received from my Father. And I will give that person the morning star.",
+      "tsw_comparator": "And I will give him the morning star.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.538462,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 2:28",
+          "payload": "ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου, καὶ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 3:9",
+      "delta": "F3",
+      "rationale": "Retains the specific polemical description and promised reversal without extending it to a people as a whole.",
+      "source_reference": "Rev 3:9",
+      "source_verse_sha256": "10540dbffd4eec35bbed4431f65187bc8d653d7ccf620b33b0717d9723162b87",
+      "before": "Look, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—look, I will make them come and bow down before your feet, and they will learn that I have loved you.",
+      "after": "Look, I will give you some from the synagogue of Satan, those who say they are Jews and are not, but lie. Look, I will make them come and bow before your feet and know that I have loved you.",
+      "tsw_comparator": "Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—behold, I will make them come and bow down before your feet, and they will learn that I have loved you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 3:9",
+          "payload": "ἰδοὺ ⸀διδῶ ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι, καὶ οὐκ εἰσὶν ἀλλὰ ψεύδονται— ἰδοὺ ποιήσω αὐτοὺς ἵνα ⸂ἥξουσιν καὶ προσκυνήσουσιν⸃ ἐνώπιον τῶν ποδῶν σου, καὶ γνῶσιν ὅτι ⸀ἐγὼ ἠγάπησά σε. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 3:10",
+      "delta": "F3",
+      "rationale": "Preserves keep/keep and the ambiguous from relation instead of selecting an end-times mechanism.",
+      "source_reference": "Rev 3:10",
+      "source_verse_sha256": "d592010671531faab3dace4804b3182b840bb8a512d0a555b3c26b47a8f0f209",
+      "before": "Because you have kept my word of endurance, I will keep you from the hour of trial that is coming on the entire world, to test the earth’s inhabitants.",
+      "after": "Because you have kept my word of endurance, I too will keep you from the hour of testing that is about to come on the whole inhabited world, to test those who live on the earth.",
+      "tsw_comparator": "Because you have kept my word of endurance, I will keep you from the hour of trial that is coming on the whole world, to test those who dwell on the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.852941,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 3:10",
+          "payload": "ὅτι ἐτήρησας τὸν λόγον τῆς ὑπομονῆς μου, κἀγώ σε τηρήσω ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι ἐπὶ τῆς οἰκουμένης ὅλης, πειράσαι τοὺς κατοικοῦντας ἐπὶ τῆς γῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 3:14",
+      "delta": "F3",
+      "rationale": "Preserves beginning with its consequential range in the note rather than resolving it in the text.",
+      "source_reference": "Rev 3:14",
+      "source_verse_sha256": "9b047b8f94a647839377ee488ab2cf344ed71dd61adb6425a5d5912a5ea88311",
+      "before": "“And to the angel of the church in Laodicea write: The words of the Amen, the faithful and true witness, the beginning of God’s creation.",
+      "after": "“To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the beginning of God's creation:",
+      "tsw_comparator": "“And to the angel of the church in Laodicea write: The words of the Amen, the faithful and true witness, the beginning of God’s creation.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 3:14",
+          "payload": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας γράψον· Τάδε λέγει ὁ Ἀμήν, ὁ μάρτυς ὁ πιστὸς ⸀καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 3:16",
+      "delta": "F3",
+      "rationale": "Retains the visceral verb and the reversal of hot/cold order.",
+      "source_reference": "Rev 3:16",
+      "source_verse_sha256": "133143fc894ba99292bb5b8628e784bf998458a7c9c3e9b5888a5aae0ea1eb37",
+      "before": "So, because you are lukewarm, and neither hot nor cold, I am about to spit you out of my mouth.",
+      "after": "So because you are lukewarm, neither hot nor cold, I am about to vomit you out of my mouth.",
+      "tsw_comparator": "So, because you are lukewarm, and neither hot nor cold, I am about to spit you out of my mouth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 3:16",
+          "payload": "οὕτως, ὅτι χλιαρὸς εἶ καὶ ⸀οὔτε ζεστὸς οὔτε ψυχρός, μέλλω σε ἐμέσαι ἐκ τοῦ στόματός μου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 4:1",
+      "delta": "F3",
+      "rationale": "Follows the pinned punctuation placing the final after these things with the ensuing vision, noting the alternate attachment.",
+      "source_reference": "Rev 4:1",
+      "source_verse_sha256": "89251c236ae4fc14f26399e2208d1d025a0d2e2130baf61a96a4fa80f15e87d9",
+      "before": "After this I looked, and look, a door standing open in heaven. And the first voice, which I had heard speaking to me like a trumpet, said, “Come up here, and I will show you what must take place after these things.”",
+      "after": "After these things I looked, and there was an open door in heaven. The first voice I had heard, speaking to me like a trumpet, said, “Come up here, and I will show you what must happen.” After these things,",
+      "tsw_comparator": "After this I looked, and behold, a door standing open in heaven. And the first voice, which I had heard speaking to me like a trumpet, said, “Come up here, and I will show you what must take place after these things.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.804878,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 4:1",
+          "payload": "Μετὰ ταῦτα εἶδον, καὶ ἰδοὺ θύρα ἠνεῳγμένη ἐν τῷ οὐρανῷ, καὶ ἡ φωνὴ ἡ πρώτη ἣν ἤκουσα ὡς σάλπιγγος λαλούσης μετʼ ἐμοῦ, λέγων· Ἀνάβα ὧδε, καὶ δείξω σοι ἃ δεῖ γενέσθαι. μετὰ ταῦτα "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 4:6",
+      "delta": "F3",
+      "rationale": "Preserves the difficult spatial relation and bodily imagery.",
+      "source_reference": "Rev 4:6",
+      "source_verse_sha256": "af0aa0da5cf2185a2c5cc5034e6bf4575ef0887757a0bf86d70a91cf51bb487f",
+      "before": "and before the throne there was something like a sea of glass, like crystal.",
+      "after": "Before the throne was something like a sea of glass, like crystal. In the midst of the throne and around it were four living creatures, full of eyes in front and behind.",
+      "tsw_comparator": "and before the throne there was something like a sea of glass, like crystal.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.521739,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 4:6",
+          "payload": "καὶ ἐνώπιον τοῦ θρόνου ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ. Καὶ ἐν μέσῳ τοῦ θρόνου καὶ κύκλῳ τοῦ θρόνου τέσσαρα ζῷα γέμοντα ὀφθαλμῶν ἔμπροσθεν καὶ ὄπισθεν· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 4:11",
+      "delta": "F3",
+      "rationale": "Keeps the source's existed/were-created order rather than harmonizing it to a smoother sequence.",
+      "source_reference": "Rev 4:11",
+      "source_verse_sha256": "d3378184b9e75e890995d81dd2afdd8c0d753e911a616793a6abc9d6324b8343",
+      "before": "the twenty-four elders fall down before the one seated on the throne and worship the one who lives forever and ever. They cast their crowns before the throne, saying, “Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”",
+      "after": "“You are worthy, our Lord and God, to receive glory and honor and power, because you created all things; by your will they existed and were created.”",
+      "tsw_comparator": "the twenty-four elders fall down before the one seated on the throne and worship the one who lives forever and ever. They cast their crowns before the throne, saying, “Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.564706,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 4:11",
+          "payload": "Ἄξιος εἶ, ὁ κύριος καὶ ὁ θεὸς ⸀ἡμῶν, λαβεῖν τὴν δόξαν καὶ τὴν τιμὴν καὶ τὴν δύναμιν, ὅτι σὺ ἔκτισας ⸀τὰ πάντα, καὶ διὰ τὸ θέλημά σου ἦσαν καὶ ἐκτίσθησαν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 5:6",
+      "delta": "F3",
+      "rationale": "Preserves the standing/slaughtered tension and exact anatomical numbers and interpretation.",
+      "source_reference": "Rev 5:6",
+      "source_verse_sha256": "5ce899a46d8a719dc9d1f8b22b11ea75e14fff0a66eaa4093158aee8585989d7",
+      "before": "And I saw among the throne and of the four living creatures and among the elders a Lamb standing, as if it had been slain, having seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.",
+      "after": "I saw, in the midst of the throne and the four living creatures and among the elders, a Lamb standing as though slaughtered. He had seven horns and seven eyes, which are the seven spirits of God sent into all the earth.",
+      "tsw_comparator": "And I saw in the midst of the throne and of the four living creatures and in the midst of the elders a Lamb standing, as though it had been slain, having seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.847826,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 5:6",
+          "payload": "Καὶ εἶδον ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων ἀρνίον ⸀ἑστηκὸς ὡς ἐσφαγμένον, ⸀ἔχων κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, ⸀οἵ εἰσιν τὰ ἑπτὰ πνεύματα τοῦ θεοῦ, ⸀ἀπεσταλμένοι εἰς πᾶσαν τὴν γῆν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 5:9",
+      "delta": "F3",
+      "rationale": "Preserves the present sing, blood and purchase imagery; supplies people as the implicit object without adding us.",
+      "source_reference": "Rev 5:9",
+      "source_verse_sha256": "cc07fe7832dfa2605f8057a319e2709a4f83a09182ba7fcf7d630b8012774505",
+      "before": "And they sing a new song, saying, “Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you purchased for God people from every tribe and language and people and nation,",
+      "after": "They sing a new song: “You are worthy to take the scroll and open its seals, because you were slaughtered and by your blood bought for God people from every tribe, language, people and nation.",
+      "tsw_comparator": "And they sing a new song, saying, “Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you purchased for God people from every tribe and language and people and nation,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 5:9",
+          "payload": "καὶ ᾄδουσιν ᾠδὴν καινὴν λέγοντες· Ἄξιος εἶ λαβεῖν τὸ βιβλίον καὶ ἀνοῖξαι τὰς σφραγῖδας αὐτοῦ, ὅτι ἐσφάγης καὶ ἠγόρασας τῷ ⸀θεῷ ἐν τῷ αἵματί σου ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 5:10",
+      "delta": "F3",
+      "rationale": "Follows the pinned them, kingdom and present reign readings.",
+      "source_reference": "Rev 5:10",
+      "source_verse_sha256": "7bc448ec9729c415e5788274095c9f2fe2de4c4b353c7a13e48f071d777a3216",
+      "before": "and you have made them a kingdom and priests to our God, and they will reign on the earth.”",
+      "after": "You made them a kingdom and priests to our God, and they reign on the earth.”",
+      "tsw_comparator": "and you have made them a kingdom and priests to our God, and they will reign on the earth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 5:10",
+          "payload": "καὶ ἐποίησας αὐτοὺς τῷ θεῷ ἡμῶν ⸀βασιλείαν καὶ ἱερεῖς, καὶ ⸀βασιλεύουσιν ἐπὶ τῆς γῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 6:6",
+      "delta": "F3",
+      "rationale": "Preserves the price ratio and coin; the measure is explained separately.",
+      "source_reference": "Rev 6:6",
+      "source_verse_sha256": "a59f94dae85737830ebcc6e8186647d8d5e903ddc79f85cb2d2df95854b02ad3",
+      "before": "And I heard what seemed to be a voice among the four living creatures saying, “A measure of wheat for a denarius, and three measures of barley for a denarius, and do not harm the oil and the wine.”",
+      "after": "I heard what sounded like a voice among the four living creatures saying, “A measure of wheat for a denarius, and three measures of barley for a denarius! Do not harm the oil or the wine.”",
+      "tsw_comparator": "And I heard what seemed to be a voice in the midst of the four living creatures saying, “A measure of wheat for a denarius, and three measures of barley for a denarius, and do not harm the oil and the wine.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 6:6",
+          "payload": "καὶ ἤκουσα ⸀ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες ⸀κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 6:8",
+      "delta": "F3",
+      "rationale": "Retains the green pallor, paired agents, exact fraction and four means of killing.",
+      "source_reference": "Rev 6:8",
+      "source_verse_sha256": "f2100c07220bd7e6a61ddca049d5511615c34e83bce13810e79a0ea201b2bdb9",
+      "before": "And I looked, and look, a pale horse, and its rider’s name was Death, and Hades followed with him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.",
+      "after": "I looked, and there was a pale green horse! Its rider was named Death, and Hades followed him. They were given authority over a fourth of the earth, to kill by sword, famine, death and the wild beasts of the earth.",
+      "tsw_comparator": "And I looked, and behold, a pale horse, and its rider’s name was Death, and Hades followed with him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.704545,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 6:8",
+          "payload": "καὶ ⸂εἶδον, καὶ⸃ ἰδοὺ ἵππος χλωρός, καὶ ὁ καθήμενος ἐπάνω αὐτοῦ ὄνομα αὐτῷ ὁ Θάνατος, καὶ ὁ ᾅδης ἠκολούθει ⸂μετʼ αὐτοῦ⸃, καὶ ἐδόθη ⸀αὐτοῖς ἐξουσία ἐπὶ τὸ τέταρτον τῆς γῆς, ἀποκτεῖναι ἐν ῥομφαίᾳ καὶ ἐν λιμῷ καὶ ἐν θανάτῳ καὶ ὑπὸ τῶν θηρίων τῆς γῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 6:11",
+      "delta": "F3",
+      "rationale": "Makes the completion's implicit number explicit, with the alternative recorded in a note, and preserves further killing.",
+      "source_reference": "Rev 6:11",
+      "source_verse_sha256": "8ec3e6ef4808b78ac9e560316211f4f67b385c9bef9da75afdad4a23be7a4908",
+      "before": "Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers and sisters should be complete, who were to be killed as they themselves had been.",
+      "after": "Each was given a white robe, and they were told to rest a little longer, until the full number of their fellow slaves, their brothers and sisters who were to be killed as they had been, was complete.",
+      "tsw_comparator": "Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.763158,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 6:11",
+          "payload": "καὶ ἐδόθη αὐτοῖς ἑκάστῳ στολὴ λευκή, καὶ ἐρρέθη αὐτοῖς ἵνα ⸀ἀναπαύσονται ἔτι χρόνον ⸀μικρόν, ἕως ⸀πληρωθῶσιν καὶ οἱ σύνδουλοι αὐτῶν καὶ οἱ ἀδελφοὶ ⸀αὐτῶν οἱ μέλλοντες ⸀ἀποκτέννεσθαι ὡς καὶ αὐτοί. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 6:17",
+      "delta": "F3",
+      "rationale": "Follows the pinned plural their and preserves the final question.",
+      "source_reference": "Rev 6:17",
+      "source_verse_sha256": "4c995b7edd98cdce3d52fa3db6475867a9472415aedaf8db7d54e260f8ce80a5",
+      "before": "for the great day of their wrath has come, and who can stand?”",
+      "after": "because the great day of their wrath has come, and who can stand?”",
+      "tsw_comparator": "for the great day of their wrath has come, and who is able to stand?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 6:17",
+          "payload": "ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς ⸀αὐτῶν, καὶ τίς δύναται σταθῆναι; "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:4",
+      "delta": "F3",
+      "rationale": "Keeps the heard number and Israel relation without replacing the people with an interpretation.",
+      "source_reference": "Rev 7:4",
+      "source_verse_sha256": "bc9f0ac86534f0ce3e21ee29f47ae26c601dcf65e0e5df43e63bc738292b8dd0",
+      "before": "And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel:",
+      "after": "I heard the number of those sealed: 144,000, sealed from every tribe of the children of Israel.",
+      "tsw_comparator": "And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:4",
+          "payload": "Καὶ ἤκουσα τὸν ἀριθμὸν τῶν ἐσφραγισμένων, ⸀ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, ⸀ἐσφραγισμένοι ἐκ πάσης φυλῆς υἱῶν Ἰσραήλ· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:5",
+      "delta": "F3",
+      "rationale": "Preserves the first three names, order and repeated number.",
+      "source_reference": "Rev 7:5",
+      "source_verse_sha256": "baaca2ec1d267d4a10cd13720d5bb5f41ffeeec800bae06e4feba5aac6e16c25",
+      "before": "from the tribe of Judah 12,000 sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,",
+      "after": "From the tribe of Judah, 12,000 sealed; from the tribe of Reuben, 12,000; from the tribe of Gad, 12,000;",
+      "tsw_comparator": "from the tribe of Judah 12,000 sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:5",
+          "payload": "ἐκ φυλῆς Ἰούδα δώδεκα χιλιάδες ⸀ἐσφραγισμένοι, ἐκ φυλῆς Ῥουβὴν δώδεκα χιλιάδες, ἐκ φυλῆς Γὰδ δώδεκα χιλιάδες, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:6",
+      "delta": "F3",
+      "rationale": "Retains the source's tribal spelling equivalents and the exact repeated totals.",
+      "source_reference": "Rev 7:6",
+      "source_verse_sha256": "12866a8b120bcdf688ef88fccb093dac1b1a5f915f79aa1896505cf06e3809bb",
+      "before": "from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,",
+      "after": "from the tribe of Asher, 12,000; from the tribe of Naphtali, 12,000; from the tribe of Manasseh, 12,000;",
+      "tsw_comparator": "from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:6",
+          "payload": "ἐκ φυλῆς Ἀσὴρ δώδεκα χιλιάδες, ἐκ φυλῆς Νεφθαλὶμ δώδεκα χιλιάδες, ἐκ φυλῆς Μανασσῆ δώδεκα χιλιάδες, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:7",
+      "delta": "F3",
+      "rationale": "Keeps the middle three tribes in their given order.",
+      "source_reference": "Rev 7:7",
+      "source_verse_sha256": "62f16d97346ed63dfa48ab7322f7a66dd4eee7387885d625b39e665e52cbe0cb",
+      "before": "from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,",
+      "after": "from the tribe of Simeon, 12,000; from the tribe of Levi, 12,000; from the tribe of Issachar, 12,000;",
+      "tsw_comparator": "from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:7",
+          "payload": "ἐκ φυλῆς Συμεὼν δώδεκα χιλιάδες, ἐκ φυλῆς Λευὶ δώδεκα χιλιάδες, ἐκ φυλῆς Ἰσσαχὰρ δώδεκα χιλιάδες, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:8",
+      "delta": "F3",
+      "rationale": "Preserves Joseph rather than substituting another tribal list and repeats sealed at the close.",
+      "source_reference": "Rev 7:8",
+      "source_verse_sha256": "4039d17507065792ccb8923cecf6a4d658092c3a8b937310bf66b48f201adc42",
+      "before": "from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000 sealed.",
+      "after": "from the tribe of Zebulun, 12,000; from the tribe of Joseph, 12,000; from the tribe of Benjamin, 12,000 sealed.",
+      "tsw_comparator": "from the tribe of Zebulun 12,000, from the tribe of Joseph 12,000, from the tribe of Benjamin 12,000 sealed.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:8",
+          "payload": "ἐκ φυλῆς Ζαβουλὼν δώδεκα χιλιάδες, ἐκ φυλῆς Ἰωσὴφ δώδεκα χιλιάδες, ἐκ φυλῆς Βενιαμὶν δώδεκα χιλιάδες ⸀ἐσφραγισμένοι. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:14",
+      "delta": "F3",
+      "rationale": "Keeps the present coming and the paradoxical blood-whitening image.",
+      "source_reference": "Rev 7:14",
+      "source_verse_sha256": "5e05de928f0d214ac6e0ee030681e01fcfba851ada6e5306add849146df218e1",
+      "before": "I said to him, “Sir, you know.” And he said to me, “These are the ones coming out of the great affliction. They have washed their robes and made them white in the blood of the Lamb.",
+      "after": "I said to him, “My lord, you know.” He said to me, “These are the ones coming out of the great suffering. They washed their robes and made them white in the Lamb's blood.",
+      "tsw_comparator": "I said to him, “Sir, you know.” And he said to me, “These are the ones coming out of the great affliction. They have washed their robes and made them white in the blood of the Lamb.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84507,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:14",
+          "payload": "καὶ ⸀εἴρηκα αὐτῷ· Κύριέ μου, σὺ οἶδας. καὶ εἶπέν μοι· Οὗτοί εἰσιν οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης, καὶ ἔπλυναν τὰς στολὰς αὐτῶν καὶ ἐλεύκαναν ⸀αὐτὰς ἐν τῷ αἵματι τοῦ ἀρνίου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 7:17",
+      "delta": "F3",
+      "rationale": "Preserves the Lamb-as-shepherd tension and the bodily removal of tears.",
+      "source_reference": "Rev 7:17",
+      "source_verse_sha256": "aef9ace7e291223a9c09fdae10efa7634469f7fdd2eeac81a3904de82aef01be",
+      "before": "For the Lamb among the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”",
+      "after": "because the Lamb in the midst of the throne will shepherd them and lead them to springs of the water of life, and God will wipe every tear from their eyes.”",
+      "tsw_comparator": "For the Lamb in the midst of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.885246,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 7:17",
+          "payload": "ὅτι τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου ⸀ποιμανεῖ αὐτούς, καὶ ⸀ὁδηγήσει αὐτοὺς ἐπὶ ζωῆς πηγὰς ὑδάτων· καὶ ἐξαλείψει ὁ θεὸς πᾶν δάκρυον ἐκ τῶν ὀφθαλμῶν αὐτῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 8:7",
+      "delta": "F3",
+      "rationale": "Preserves both thirds, all grass and the repeated burning without harmonizing the quantities.",
+      "source_reference": "Rev 8:7",
+      "source_verse_sha256": "ab2777ab6b89d4c76fecede054abd3aa7a0abd32a7672606e9807a1867373b67",
+      "before": "The first angel sounded, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.",
+      "after": "The first sounded his trumpet. Hail and fire mixed with blood came and were thrown to the earth. A third of the earth burned, a third of the trees burned, and all the green grass burned.",
+      "tsw_comparator": "The first angel sounded, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765432,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 8:7",
+          "payload": "Καὶ ὁ πρῶτος ἐσάλπισεν· καὶ ἐγένετο χάλαζα καὶ πῦρ μεμιγμένα ἐν αἵματι, καὶ ἐβλήθη εἰς τὴν γῆν· καὶ τὸ τρίτον τῆς γῆς κατεκάη, καὶ τὸ τρίτον τῶν δένδρων κατεκάη, καὶ πᾶς χόρτος χλωρὸς κατεκάη. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 8:13",
+      "delta": "F3",
+      "rationale": "Follows eagle rather than angel and keeps the triple woe and remaining three.",
+      "source_reference": "Rev 8:13",
+      "source_verse_sha256": "2f0eb1aeae6a358ada8afba9b58a13e40cfe5621f82a1ddd61492a3f823e55f5",
+      "before": "Then I looked, and I heard an eagle crying with a loud voice as it flew in midheaven, “Woe, woe, woe to the earth’s inhabitants, at the blasts of the remaining trumpets that the three angels are about to sound!”",
+      "after": "I looked and heard an eagle flying high overhead, calling in a loud voice, “Woe, woe, woe to those who live on the earth, because of the remaining trumpet blasts of the three angels who are about to sound them!”",
+      "tsw_comparator": "Then I looked, and I heard an eagle crying with a loud voice as it flew in midheaven, “Woe, woe, woe to those who dwell on the earth, at the blasts of the remaining trumpets that the three angels are about to sound!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.674699,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 8:13",
+          "payload": "Καὶ εἶδον, καὶ ἤκουσα ἑνὸς ἀετοῦ πετομένου ἐν μεσουρανήματι λέγοντος φωνῇ μεγάλῃ· Οὐαὶ οὐαὶ οὐαὶ ⸂τοὺς κατοικοῦντας⸃ ἐπὶ τῆς γῆς ἐκ τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 9:6",
+      "delta": "F3",
+      "rationale": "Keeps the terrible desire and the source's present flees without softening the suffering.",
+      "source_reference": "Rev 9:6",
+      "source_verse_sha256": "5c66dd9f1da2c97756ffb464f437390c5ffd962bc2f8e80d5f6b2b0b83cd78bb",
+      "before": "And in those days people will seek death and will not find it; they will long to die, but death will flee from them.",
+      "after": "In those days people will seek death and will not find it. They will long to die, but death flees from them.",
+      "tsw_comparator": "And in those days people will seek death and will not find it; they will long to die, but death will flee from them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.913043,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 9:6",
+          "payload": "καὶ ἐν ταῖς ἡμέραις ἐκείναις ζητήσουσιν οἱ ἄνθρωποι τὸν θάνατον καὶ οὐ μὴ εὑρήσουσιν αὐτόν, καὶ ἐπιθυμήσουσιν ἀποθανεῖν καὶ ⸀φεύγει ⸂ὁ θάνατος ἀπʼ αὐτῶν⸃. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 9:13",
+      "delta": "F3",
+      "rationale": "Follows the pinned text without adding four to the horns.",
+      "source_reference": "Rev 9:13",
+      "source_verse_sha256": "1454abe36a89a49d35c3def175dcfbce35483334e3e9a65ff8589a41045b9bfd",
+      "before": "Then the sixth angel sounded, and I heard a voice from the four horns of the golden altar before God,",
+      "after": "The sixth angel sounded his trumpet. I heard one voice from the horns of the golden altar before God,",
+      "tsw_comparator": "Then the sixth angel sounded, and I heard a voice from the four horns of the golden altar before God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 9:13",
+          "payload": "Καὶ ὁ ἕκτος ἄγγελος ἐσάλπισεν· καὶ ἤκουσα φωνὴν μίαν ἐκ ⸀τῶν κεράτων τοῦ θυσιαστηρίου τοῦ χρυσοῦ τοῦ ἐνώπιον τοῦ θεοῦ, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 9:16",
+      "delta": "F3",
+      "rationale": "Renders twice ten-thousand times ten-thousand exactly and retains heard rather than counted.",
+      "source_reference": "Rev 9:16",
+      "source_verse_sha256": "0b640f2e0a1cec7072b474703cc420d8e7667bd9c616fcc358df9059ea4f689d",
+      "before": "The number of mounted troops was twice ten thousand times ten thousand; I heard their number.",
+      "after": "The number of the mounted troops was two hundred million; I heard their number.",
+      "tsw_comparator": "The number of mounted troops was twice ten thousand times ten thousand; I heard their number.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 9:16",
+          "payload": "καὶ ὁ ἀριθμὸς τῶν στρατευμάτων τοῦ ⸀ἱππικοῦ ⸀δισμυριάδες μυριάδων· ἤκουσα τὸν ἀριθμὸν αὐτῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 9:21",
+      "delta": "F3",
+      "rationale": "Keeps the four offenses and repeats repentance rather than merging the list with verse 20.",
+      "source_reference": "Rev 9:21",
+      "source_verse_sha256": "8b5e9fe1a7dfc13442dc163800c8c17c2259bbe2ecef4d93f8daf14456ab5b45",
+      "before": "nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.",
+      "after": "They did not repent of their murders, their sorceries, their sexual immorality or their thefts.",
+      "tsw_comparator": "nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 9:21",
+          "payload": "καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν ⸀φαρμάκων αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 10:6",
+      "delta": "F3",
+      "rationale": "Keeps the threefold creation formula; the time/delay range is noted.",
+      "source_reference": "Rev 10:6",
+      "source_verse_sha256": "d9e4dd656e7e5cffff762ebe0171289048609ef62f5356ecabeb11d850c53db4",
+      "before": "and swore by the one who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,",
+      "after": "and swore by the one who lives forever and ever, who created heaven and everything in it, earth and everything in it, and sea and everything in it: “There will be no more delay.",
+      "tsw_comparator": "and swore by the one who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 10:6",
+          "payload": "καὶ ⸀ὤμοσεν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὰ ἐν αὐτῷ καὶ τὴν γῆν καὶ τὰ ἐν αὐτῇ καὶ τὴν θάλασσαν καὶ τὰ ἐν αὐτῇ, ὅτι χρόνος οὐκέτι ἔσται· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 10:7",
+      "delta": "F3",
+      "rationale": "Renders the proleptic completion in context without changing its certainty and preserves slaves/prophets.",
+      "source_reference": "Rev 10:7",
+      "source_verse_sha256": "241c90392746875cb85e08cb4753c891efd31b8ca5e66697087200886789e72a",
+      "before": "but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.",
+      "after": "But in the days when the seventh angel is about to sound his trumpet, God's mystery will be completed, just as he announced the good news to his slaves the prophets.”",
+      "tsw_comparator": "but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.539683,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 10:7",
+          "payload": "ἀλλʼ ἐν ταῖς ἡμέραις τῆς φωνῆς τοῦ ἑβδόμου ἀγγέλου, ὅταν μέλλῃ σαλπίζειν, καὶ ἐτελέσθη τὸ μυστήριον τοῦ θεοῦ, ὡς εὐηγγέλισεν τοὺς ⸂ἑαυτοῦ δούλους⸃ τοὺς προφήτας. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 10:11",
+      "delta": "F3",
+      "rationale": "Follows the plural they without naming speakers and preserves all four groups.",
+      "source_reference": "Rev 10:11",
+      "source_verse_sha256": "9e843ffba0dcb9b5315d1941524613392fdff7d1a2bfe0681553479c9b384cc1",
+      "before": "And I was told, “You must again prophesy about many peoples and nations and languages and kings.”",
+      "after": "They said to me, “You must prophesy again about many peoples, nations, languages and kings.”",
+      "tsw_comparator": "And I was told, “You must again prophesy about many peoples and nations and languages and kings.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 10:11",
+          "payload": "Καὶ λέγουσίν μοι· Δεῖ σε πάλιν προφητεῦσαι ἐπὶ λαοῖς ⸀καὶ ἔθνεσιν καὶ γλώσσαις καὶ βασιλεῦσιν πολλοῖς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 11:3",
+      "delta": "F3",
+      "rationale": "Supplies authority as the implied object of give and preserves both numbers and clothing.",
+      "source_reference": "Rev 11:3",
+      "source_verse_sha256": "04a0cc7f2b760d3c00aa19932b3b0fc5ca96bf051319ba767dfe88658528963c",
+      "before": "And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”",
+      "after": "I will give authority to my two witnesses, and they will prophesy for 1,260 days, dressed in sackcloth.”",
+      "tsw_comparator": "And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 11:3",
+          "payload": "καὶ δώσω τοῖς δυσὶν μάρτυσίν μου, καὶ προφητεύσουσιν ἡμέρας χιλίας διακοσίας ἑξήκοντα, ⸀περιβεβλημένοι σάκκους. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 11:8",
+      "delta": "F3",
+      "rationale": "Retains the two symbolic names and crucifixion clue without substituting a city name.",
+      "source_reference": "Rev 11:8",
+      "source_verse_sha256": "99f66709e78e36c3d8fd0f66d0cc0c68a1d2bd77deddbfafb0c1fc94562de970",
+      "before": "and their dead bodies will lie in the street of the great city that is symbolically called Sodom and Egypt, where their Lord was crucified.",
+      "after": "Their bodies will lie in the street of the great city, spiritually called Sodom and Egypt, where their Lord was also crucified.",
+      "tsw_comparator": "and their dead bodies will lie in the street of the great city that is symbolically called Sodom and Egypt, where their Lord was crucified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851064,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 11:8",
+          "payload": "καὶ τὸ πτῶμα αὐτῶν ἐπὶ τῆς πλατείας τῆς πόλεως τῆς μεγάλης, ἥτις καλεῖται πνευματικῶς Σόδομα καὶ Αἴγυπτος, ὅπου καὶ ὁ κύριος αὐτῶν ἐσταυρώθη. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 11:12",
+      "delta": "F3",
+      "rationale": "Follows they heard rather than I heard and keeps the watching enemies.",
+      "source_reference": "Rev 11:12",
+      "source_verse_sha256": "16260a895351249fa51fe230d361fe29d58a7c8cfe44d23e0ecb167a0b791d04",
+      "before": "Then they heard a loud voice from heaven saying to them, “Come up here!” And they went up to heaven in a cloud, and their enemies watched them.",
+      "after": "They heard a loud voice from heaven saying to them, “Come up here!” They went up to heaven in the cloud, and their enemies watched them.",
+      "tsw_comparator": "Then they heard a loud voice from heaven saying to them, “Come up here!” And they went up to heaven in a cloud, and their enemies watched them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.925926,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 11:12",
+          "payload": "καὶ ⸀ἤκουσαν ⸂φωνῆς μεγάλης⸃ ἐκ τοῦ οὐρανοῦ ⸀λεγούσης αὐτοῖς· ⸀Ἀνάβατε ὧδε, καὶ ἀνέβησαν εἰς τὸν οὐρανὸν ἐν τῇ νεφέλῃ, καὶ ἐθεώρησαν αὐτοὺς οἱ ἐχθροὶ αὐτῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 11:15",
+      "delta": "F3",
+      "rationale": "Preserves the singular kingdom and he without resolving the final pronoun to a substituted name.",
+      "source_reference": "Rev 11:15",
+      "source_verse_sha256": "f0968a530570f05ac84153e00d43d45355a1fcbac54e89a8a41451720e41f7e6",
+      "before": "Then the seventh angel sounded, and there were loud voices in heaven, saying, “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.”",
+      "after": "The seventh angel sounded his trumpet, and loud voices in heaven said: “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he will reign forever and ever.”",
+      "tsw_comparator": "Then the seventh angel sounded, and there were loud voices in heaven, saying, “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.873239,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 11:15",
+          "payload": "Καὶ ὁ ἕβδομος ἄγγελος ἐσάλπισεν· καὶ ἐγένοντο φωναὶ μεγάλαι ἐν τῷ οὐρανῷ ⸀λέγοντες· Ἐγένετο ἡ βασιλεία τοῦ κόσμου τοῦ κυρίου ἡμῶν καὶ τοῦ χριστοῦ αὐτοῦ, καὶ βασιλεύσει εἰς τοὺς αἰῶνας τῶν αἰώνων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 11:17",
+      "delta": "F3",
+      "rationale": "Follows the pinned two-part time formula without adding who is coming.",
+      "source_reference": "Rev 11:17",
+      "source_verse_sha256": "e163e7bbb2cd525f28d6b94509ceb9b673d6bd943a9e36cc00118b8029d94289",
+      "before": "saying, “We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.",
+      "after": "saying: “We thank you, Lord God, the Almighty, who is and who was, because you have taken your great power and begun to reign.",
+      "tsw_comparator": "saying, “We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 11:17",
+          "payload": "λέγοντες· Εὐχαριστοῦμέν σοι, κύριε, ὁ θεός, ὁ παντοκράτωρ, ὁ ὢν καὶ ὁ ἦν, ὅτι εἴληφας τὴν δύναμίν σου τὴν μεγάλην καὶ ἐβασίλευσας. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 12:5",
+      "delta": "F3",
+      "rationale": "Preserves the emphatic male designation, shepherding and abrupt rescue.",
+      "source_reference": "Rev 12:5",
+      "source_verse_sha256": "90d7c580b875128dfee3aa670c8382fad366181c6905415693224c9161cec8dc",
+      "before": "She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,",
+      "after": "She gave birth to a son, a male child who is to shepherd all the nations with an iron rod. Her child was snatched away to God and to his throne.",
+      "tsw_comparator": "She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 12:5",
+          "payload": "καὶ ἔτεκεν υἱόν, ⸀ἄρσεν, ὃς μέλλει ποιμαίνειν πάντα τὰ ἔθνη ἐν ῥάβδῳ σιδηρᾷ· καὶ ἡρπάσθη τὸ τέκνον αὐτῆς πρὸς τὸν θεὸν καὶ πρὸς τὸν θρόνον αὐτοῦ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 12:14",
+      "delta": "F3",
+      "rationale": "Keeps the two wings and untranslated symbolic time formula rather than substituting a calculated duration.",
+      "source_reference": "Rev 12:14",
+      "source_verse_sha256": "c4f332f2765762ce554683158ef4d71d1639603f1d5db00a1dd55e7f14a04a76",
+      "before": "But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.",
+      "after": "The woman was given the two wings of the great eagle so that she could fly to her place in the wilderness, where she is fed for a time, times and half a time, away from the serpent's presence.",
+      "tsw_comparator": "But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 12:14",
+          "payload": "καὶ ἐδόθησαν τῇ γυναικὶ ⸀αἱ δύο πτέρυγες τοῦ ἀετοῦ τοῦ μεγάλου, ἵνα πέτηται εἰς τὴν ἔρημον εἰς τὸν τόπον αὐτῆς, ⸂ὅπου τρέφεται⸃ ἐκεῖ καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ ἀπὸ προσώπου τοῦ ὄφεως. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:1",
+      "delta": "F3",
+      "rationale": "Combines exact source 12:18 and 13:1 at the inherited public 13:1 boundary, keeping he stood, horn/head order, crown placement and plural names.",
+      "source_reference": "Rev 13:1",
+      "source_verse_sha256": "16caa1d4d6d7b8851bd09fec41e88b4ea71022b24bac40aad4d1eb31d43bf623",
+      "before": "Then the dragon stood on the sand of the sea. I saw a beast rising out of the sea, having ten horns and seven heads, and on its horns ten diadems, and on its heads blasphemous names.",
+      "after": "He stood on the sand of the sea. I saw a beast rising from the sea, with ten horns and seven heads, ten royal crowns on its horns and blasphemous names on its heads.",
+      "tsw_comparator": "And I saw a beast rising out of the sea, having ten horns and seven heads, and on its horns ten diadems, and on its heads blasphemous names.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612903,
+      "editorial_status": "REVIEW_PENDING",
+      "source_segments": [
+        {
+          "source_reference": "Rev 12:18",
+          "source_verse_sha256": "87998cabb93abaaccc30f0ec7205fb618139d9522853f58f97464004d7fab892"
+        },
+        {
+          "source_reference": "Rev 13:1",
+          "source_verse_sha256": "16caa1d4d6d7b8851bd09fec41e88b4ea71022b24bac40aad4d1eb31d43bf623"
+        }
+      ],
+      "source_mapping_reason": "The inherited public 13:1 combines source Rev 12:18 with Rev 13:1. Both source payloads retain their exact separate hashes; public labels and the 404-verse layout are preserved.",
+      "exact_source_records": [
+        {
+          "reference": "Rev 12:18",
+          "payload": "καὶ ⸀ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης. "
+        },
+        {
+          "reference": "Rev 13:1",
+          "payload": "Καὶ εἶδον ἐκ τῆς θαλάσσης θηρίον ἀναβαῖνον, ἔχον κέρατα δέκα καὶ κεφαλὰς ἑπτά, καὶ ἐπὶ τῶν κεράτων αὐτοῦ δέκα διαδήματα, καὶ ἐπὶ τὰς κεφαλὰς αὐτοῦ ⸀ὀνόματα βλασφημίας. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:6",
+      "delta": "F3",
+      "rationale": "Preserves the pinned apposition without adding and before the heavenly dwellers.",
+      "source_reference": "Rev 13:6",
+      "source_verse_sha256": "2d969fa17225954c0ad696c2d882d4db32aa981f704d54ed4e2d4a49e6b0cedc",
+      "before": "It opened its mouth in blasphemies against God, to blaspheme his name and his dwelling, that is, people who dwell in heaven.",
+      "after": "It opened its mouth to blaspheme God, to blaspheme his name and his dwelling—those who dwell in heaven.",
+      "tsw_comparator": "It opened its mouth in blasphemies against God, to blaspheme his name and his dwelling, that is, those who dwell in heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 13:6",
+          "payload": "καὶ ἤνοιξε τὸ στόμα αὐτοῦ εἰς ⸀βλασφημίας πρὸς τὸν θεόν, βλασφημῆσαι τὸ ὄνομα αὐτοῦ καὶ τὴν σκηνὴν αὐτοῦ, τοὺς ἐν τῷ οὐρανῷ σκηνοῦντας. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:8",
+      "delta": "F3",
+      "rationale": "Retains the final time phrase with its attachment ambiguity documented in the note.",
+      "source_reference": "Rev 13:8",
+      "source_verse_sha256": "3849ae9cbd1a9c28c8693a6e6664135bd3eb477ea482d15c61d992eafcb9cd0d",
+      "before": "and everyone who dwell on the earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.",
+      "after": "All who live on the earth will worship it, everyone whose name has not been written in the book of life of the Lamb who was slaughtered, from the foundation of the world.",
+      "tsw_comparator": "and all who dwell on the earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746269,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 13:8",
+          "payload": "καὶ προσκυνήσουσιν ⸀αὐτὸν πάντες οἱ κατοικοῦντες ἐπὶ τῆς γῆς, ⸀οὗ οὐ γέγραπται τὸ ὄνομα ⸀αὐτοῦ ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου τοῦ ἐσφαγμένου ἀπὸ καταβολῆς κόσμου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:10",
+      "delta": "F3",
+      "rationale": "Follows the pinned passive fate wording rather than the variant retributive whoever kills formulation.",
+      "source_reference": "Rev 13:10",
+      "source_verse_sha256": "cfc6f5cbfaedeff1b4179b925c51a4c5582a65249c652dda8338a2be62b2ac3b",
+      "before": "If someone is for captivity, into captivity he goes; if anyone is to be killed with the sword, with the sword he must be killed. Here is a call for the endurance and faith of the saints.",
+      "after": "If anyone is destined for captivity, into captivity they go; if anyone is to be killed by the sword, by the sword they must be killed. Here is the endurance and faith of the holy ones.",
+      "tsw_comparator": "If anyone is for captivity, into captivity he goes; if anyone is to be killed with the sword, with the sword he must be killed. Here is a call for the endurance and faith of the saints.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.767123,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 13:10",
+          "payload": "εἴ τις ⸂εἰς αἰχμαλωσίαν, εἰς αἰχμαλωσίαν⸃ ὑπάγει· εἴ τις ἐν μαχαίρῃ ⸀ἀποκτανθῆναι αὐτὸν ἐν μαχαίρῃ ἀποκτανθῆναι. ὧδέ ἐστιν ἡ ὑπομονὴ καὶ ἡ πίστις τῶν ἁγίων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:16",
+      "delta": "F3",
+      "rationale": "Preserves all three social pairs, right hand and alternative forehead.",
+      "source_reference": "Rev 13:16",
+      "source_verse_sha256": "6329124a0cd4db1b91ba46975fc28b56afde633c1ab8ae62d58df27428e9ef5b",
+      "before": "Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,",
+      "after": "It makes everyone—small and great, rich and poor, free and slave—receive a mark on their right hand or their forehead,",
+      "tsw_comparator": "Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 13:16",
+          "payload": "καὶ ποιεῖ πάντας, τοὺς μικροὺς καὶ τοὺς μεγάλους, καὶ τοὺς πλουσίους καὶ τοὺς πτωχούς, καὶ τοὺς ἐλευθέρους καὶ τοὺς δούλους, ἵνα ⸀δῶσιν αὐτοῖς ⸀χάραγμα ἐπὶ τῆς χειρὸς αὐτῶν τῆς δεξιᾶς ἢ ἐπὶ τὸ μέτωπον αὐτῶν, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 13:18",
+      "delta": "F3",
+      "rationale": "Keeps the calculation invitation and human/man ambiguity; the 616 variant is noted separately.",
+      "source_reference": "Rev 13:18",
+      "source_verse_sha256": "b748f197f5dda92ef2d351b9cc7f940ff856d3fc73683c80d91339ae49a28206",
+      "before": "This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.",
+      "after": "Here is wisdom. Let the one with understanding calculate the beast's number, for it is a human number, and its number is six hundred sixty-six.",
+      "tsw_comparator": "This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 13:18",
+          "payload": "ὧδε ἡ σοφία ἐστίν· ὁ ἔχων νοῦν ψηφισάτω τὸν ἀριθμὸν τοῦ θηρίου, ἀριθμὸς γὰρ ἀνθρώπου ἐστίν· καὶ ὁ ἀριθμὸς ⸀αὐτοῦ ⸂ἑξακόσιοι ἑξήκοντα ἕξ⸃. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:3",
+      "delta": "F3",
+      "rationale": "Preserves the pinned like, present sing and restricted learning.",
+      "source_reference": "Rev 14:3",
+      "source_verse_sha256": "8cec78004e5a2a967a201995a8ca5fb61c751a0d807f2a3343572799d784eb23",
+      "before": "and they were singing a new song before the throne and before the four living creatures and before the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.",
+      "after": "They sing what is like a new song before the throne, the four living creatures and the elders. No one could learn the song except the 144,000 who had been bought from the earth.",
+      "tsw_comparator": "and they were singing a new song before the throne and before the four living creatures and before the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.821918,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:3",
+          "payload": "καὶ ᾄδουσιν ⸀ὡς ᾠδὴν καινὴν ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τῶν τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων· καὶ οὐδεὶς ἐδύνατο μαθεῖν τὴν ᾠδὴν εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, οἱ ἠγορασμένοι ἀπὸ τῆς γῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:4",
+      "delta": "F3",
+      "rationale": "Keeps the specifically gendered sexual image and purchase/firstfruits language without interpreting them away.",
+      "source_reference": "Rev 14:4",
+      "source_verse_sha256": "138be70c686f251d345b183f2cfeb18aba80660c0edb2ef863d335e7b85dec95",
+      "before": "These are the ones who have not defiled themselves with women, for they are pure. These are the ones who follow the Lamb wherever he goes. These have been redeemed from among mankind as firstfruits for God and the Lamb,",
+      "after": "These are the ones who have not defiled themselves with women, for they are virgins. These are the ones who follow the Lamb wherever he goes. These were bought from humanity as firstfruits for God and the Lamb,",
+      "tsw_comparator": "These are the ones who have not defiled themselves with women, for they are pure. These are the ones who follow the Lamb wherever he goes. These have been redeemed from among mankind as firstfruits for God and the Lamb,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:4",
+          "payload": "οὗτοί εἰσιν οἳ μετὰ γυναικῶν οὐκ ἐμολύνθησαν, παρθένοι γάρ εἰσιν· ⸀οὗτοι οἱ ἀκολουθοῦντες τῷ ἀρνίῳ ὅπου ἂν ⸀ὑπάγῃ· ⸁οὗτοι ἠγοράσθησαν ἀπὸ τῶν ἀνθρώπων ἀπαρχὴ τῷ θεῷ καὶ τῷ ἀρνίῳ, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:8",
+      "delta": "F3",
+      "rationale": "Retains the repeated fallen and wine/sexual imagery; the passion/wrath range is noted.",
+      "source_reference": "Rev 14:8",
+      "source_verse_sha256": "7e6703d1a60eefe9f342f4b8d3e1953337080bdfd2354498523da247a681f049",
+      "before": "Another angel, a second, followed, saying, “Fallen, fallen is Babylon the great, she who has made all nations drink the wine of the passion of her immorality.”",
+      "after": "Another angel, a second, followed, saying, “Fallen, fallen is Babylon the great, who made all the nations drink the wine of the passion of her prostitution!”",
+      "tsw_comparator": "Another angel, a second, followed, saying, “Fallen, fallen is Babylon the great, she who has made all nations drink the wine of the passion of her immorality.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90566,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:8",
+          "payload": "Καὶ ἄλλος ⸂δεύτερος ἄγγελος⸃ ἠκολούθησεν λέγων· Ἔπεσεν, ⸀ἔπεσεν Βαβυλὼν ἡ μεγάλη, ⸀ἣ ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς πεπότικεν πάντα τὰ ἔθνη. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:10",
+      "delta": "F3",
+      "rationale": "Preserves full-strength wine and torment with both witnessing groups.",
+      "source_reference": "Rev 14:10",
+      "source_verse_sha256": "3ed2663fdbd1e9e16ab0be30183abd845f7b10dbd2b1916b540beb0a640a520d",
+      "before": "he also will drink the wine of the wrath of God, poured unmixed into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.",
+      "after": "that person too will drink the wine of God's fury, poured full strength into the cup of his wrath, and will be tormented with fire and sulfur before the holy angels and before the Lamb.",
+      "tsw_comparator": "he also will drink the wine of the wrath of God, poured unmixed into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.649351,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:10",
+          "payload": "καὶ αὐτὸς πίεται ἐκ τοῦ οἴνου τοῦ θυμοῦ τοῦ θεοῦ τοῦ κεκερασμένου ἀκράτου ἐν τῷ ποτηρίῳ τῆς ὀργῆς αὐτοῦ, καὶ βασανισθήσεται ἐν πυρὶ καὶ θείῳ ἐνώπιον ⸂ἀγγέλων ἁγίων⸃ καὶ ἐνώπιον τοῦ ἀρνίου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:12",
+      "delta": "F3",
+      "rationale": "Preserves the genitive faith of Jesus with its interpretive alternatives in the note.",
+      "source_reference": "Rev 14:12",
+      "source_verse_sha256": "b3962b9ec20b9d46a9fd98805944a79fe0f4380289d62ee790ed67bb8097a8e8",
+      "before": "Here is a call for the endurance of the saints, people who keep the commandments of God and the faith of Jesus.",
+      "after": "Here is the endurance of the holy ones, those who keep God's commands and the faith of Jesus.",
+      "tsw_comparator": "Here is a call for the endurance of the saints, those who keep the commandments of God and the faith of Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:12",
+          "payload": "Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν Ἰησοῦ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:13",
+      "delta": "F3",
+      "rationale": "Keeps the writing command, from-now-on phrase, named Spirit and labor/works contrast.",
+      "source_reference": "Rev 14:13",
+      "source_verse_sha256": "686c1f35329f5a50ed44760f73b9a523bb907b48b793d0fd8475ac5278aadb1b",
+      "before": "And I heard a voice from heaven saying, “Write this: Blessed are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “that they may rest from their labors, for their works follow them.”",
+      "after": "I heard a voice from heaven say, “Write: Blessed are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “they will rest from their labors, for their works follow them.”",
+      "tsw_comparator": "And I heard a voice from heaven saying, “Write this: Blessed are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “that they may rest from their labors, for their works follow them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90411,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:13",
+          "payload": "Καὶ ἤκουσα φωνῆς ἐκ τοῦ οὐρανοῦ λεγούσης· Γράψον· Μακάριοι οἱ νεκροὶ οἱ ἐν κυρίῳ ἀποθνῄσκοντες ἀπʼ ἄρτι. ⸂ναί, λέγει⸃ τὸ πνεῦμα, ἵνα ⸀ἀναπαήσονται ἐκ τῶν κόπων αὐτῶν, τὰ ⸀γὰρ ἔργα αὐτῶν ἀκολουθεῖ μετʼ αὐτῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 14:20",
+      "delta": "F3",
+      "rationale": "Keeps the shocking height, exact distance and ancient unit with conversion only in notes.",
+      "source_reference": "Rev 14:20",
+      "source_verse_sha256": "a06f374ffa896d0b4a9d89603827a38741b39f60fa0ed9a681506ca8331c828d",
+      "before": "And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for about 1,600 stadia.",
+      "after": "The winepress was trodden outside the city, and blood flowed from it as high as horses' bridles for 1,600 stadia.",
+      "tsw_comparator": "And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for about 1,600 stadia.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 14:20",
+          "payload": "καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 15:2",
+      "delta": "F3",
+      "rationale": "Keeps something like, the three adversarial objects and the on/beside ambiguity in notes.",
+      "source_reference": "Rev 15:2",
+      "source_verse_sha256": "d8bcde085e56e808a52a7128a9ad3bcd7e6c54cd737d4c675930424c0e9d5f79",
+      "before": "And I saw what appeared to be a sea of glass mixed with fire, and people who had conquered the beast and its image and the number of its name, standing beside the sea of glass, holding harps of God.",
+      "after": "I saw something like a sea of glass mixed with fire, and those who had overcome the beast, its image and the number of its name standing on the sea of glass, holding harps of God.",
+      "tsw_comparator": "And I saw what appeared to be a sea of glass mixed with fire, and those who had conquered the beast and its image and the number of its name, standing beside the sea of glass, holding harps of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 15:2",
+          "payload": "Καὶ εἶδον ὡς θάλασσαν ὑαλίνην μεμιγμένην πυρί, καὶ τοὺς νικῶντας ἐκ τοῦ θηρίου καὶ ἐκ τῆς εἰκόνος αὐτοῦ καὶ ἐκ τοῦ ἀριθμοῦ τοῦ ὀνόματος αὐτοῦ ἑστῶτας ἐπὶ τὴν θάλασσαν τὴν ὑαλίνην, ἔχοντας κιθάρας τοῦ θεοῦ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 15:3",
+      "delta": "F3",
+      "rationale": "Follows the pinned ages rather than nations or saints and preserves both songs and Moses' status.",
+      "source_reference": "Rev 15:3",
+      "source_verse_sha256": "548c5655b0e3b2c62902b8b57fde7a11f6b0187bebae0d8bd4244bc689862a7c",
+      "before": "And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and marvelous are your works, Lord God Almighty. Just and true are your ways, O King of the nations.",
+      "after": "They sing the song of Moses, God's slave, and the song of the Lamb: “Great and astonishing are your works, Lord God, the Almighty. Righteous and true are your ways, King of the ages.",
+      "tsw_comparator": "And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, “Great and marvelous are your works, Lord God Almighty. Just and true are your ways, O King of the nations.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 15:3",
+          "payload": "καὶ ᾄδουσιν τὴν ᾠδὴν Μωϋσέως τοῦ δούλου τοῦ θεοῦ καὶ τὴν ᾠδὴν τοῦ ἀρνίου λέγοντες· Μεγάλα καὶ θαυμαστὰ τὰ ἔργα σου, κύριε, ὁ θεός, ὁ παντοκράτωρ· δίκαιαι καὶ ἀληθιναὶ αἱ ὁδοί σου, ὁ βασιλεὺς τῶν ⸀αἰώνων· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 15:6",
+      "delta": "F3",
+      "rationale": "Follows linen and preserves both sevens and the sash position.",
+      "source_reference": "Rev 15:6",
+      "source_verse_sha256": "d0365ca2941f1609f1f1bf9c4156891c3e1c16ffb655626f3306384c91efc93e",
+      "before": "and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, and with golden sashes around their chests.",
+      "after": "The seven angels with the seven plagues came out of the temple, dressed in clean, shining linen, with golden sashes around their chests.",
+      "tsw_comparator": "and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, and with golden sashes around their chests.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 15:6",
+          "payload": "καὶ ἐξῆλθον οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ πληγὰς ἐκ τοῦ ναοῦ, ⸀ἐνδεδυμένοι ⸀λίνον καθαρὸν λαμπρὸν καὶ περιεζωσμένοι περὶ τὰ στήθη ζώνας χρυσᾶς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 16:5",
+      "delta": "F3",
+      "rationale": "Follows the holy one reading rather than a later shall-be expansion.",
+      "source_reference": "Rev 16:5",
+      "source_verse_sha256": "d49a5de7059607fd8f857673c48e8f38e1ea3b583dc540e6bc4ae3ea12f5bfce",
+      "before": "And I heard the angel of the waters saying, “Just are you, the one who is and who was, O Holy One, for you have brought these judgments.",
+      "after": "I heard the angel of the waters say: “You are righteous, the one who is and who was, the holy one, because you have judged these things.",
+      "tsw_comparator": "And I heard the angel of the waters saying, “Just are you, the one who is and who was, O Holy One, for you have brought these judgments.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 16:5",
+          "payload": "καὶ ἤκουσα τοῦ ἀγγέλου τῶν ὑδάτων λέγοντος· Δίκαιος εἶ, ὁ ὢν καὶ ὁ ἦν, ⸀ὁ ὅσιος, ὅτι ταῦτα ἔκρινας, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 16:7",
+      "delta": "F3",
+      "rationale": "Retains the altar itself as speaker rather than supplying another angel.",
+      "source_reference": "Rev 16:7",
+      "source_verse_sha256": "ec24866310d8c01cbe82aef9870de1d38872a8f360dbfa95a9d2c1e7169b99e3",
+      "before": "And I heard the altar saying, “Yes, Lord God Almighty, true and just are your judgments.”",
+      "after": "I heard the altar say, “Yes, Lord God, the Almighty, your judgments are true and righteous.”",
+      "tsw_comparator": "And I heard the altar saying, “Yes, Lord God Almighty, true and just are your judgments.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 16:7",
+          "payload": "καὶ ἤκουσα τοῦ θυσιαστηρίου λέγοντος· Ναί, κύριε, ὁ θεός, ὁ παντοκράτωρ, ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις σου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 16:15",
+      "delta": "F3",
+      "rationale": "Retains the abrupt inserted speech and literal clothing image without adding a named speaker.",
+      "source_reference": "Rev 16:15",
+      "source_verse_sha256": "d2c8dbf1fa58230fd900d3c4832af954f0b84ef9930696ba469665756d6a1381",
+      "before": "“Look, I am coming like a thief. Blessed is the one who stays awake, keeping his garments on, so that he may not go about naked and be seen exposed!”",
+      "after": "“Look, I am coming like a thief. Blessed is the one who stays awake and keeps their clothes, so that they do not walk naked and have their shame exposed.”",
+      "tsw_comparator": "“Behold, I am coming like a thief. Blessed is the one who stays awake, keeping his garments on, so that he may not go about naked and be seen exposed!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.633333,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 16:15",
+          "payload": "Ἰδοὺ ἔρχομαι ὡς κλέπτης. μακάριος ὁ γρηγορῶν καὶ τηρῶν τὰ ἱμάτια αὐτοῦ, ἵνα μὴ γυμνὸς περιπατῇ καὶ βλέπωσιν τὴν ἀσχημοσύνην αὐτοῦ— "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 16:16",
+      "delta": "F3",
+      "rationale": "Renders the collective gathering by the spirits with the singular Greek form noted; retains the place name without resolving its etymology.",
+      "source_reference": "Rev 16:16",
+      "source_verse_sha256": "889cf3dba6ee38c667acf70f2d9502b94678c3808eefd5a253841d8b1cba3f87",
+      "before": "And they gathered them at the place that in Hebrew is called Armageddon.",
+      "after": "They gathered them to the place called in Hebrew Harmagedon.",
+      "tsw_comparator": "And they gathered them at the place that in Hebrew is called Armageddon.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.608696,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 16:16",
+          "payload": "καὶ συνήγαγεν αὐτοὺς εἰς τὸν τόπον τὸν καλούμενον Ἑβραϊστὶ Ἁρμαγεδών. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 16:21",
+      "delta": "F3",
+      "rationale": "Keeps the approximate ancient weight and repeated severity without replacing it with a precise modern measure.",
+      "source_reference": "Rev 16:21",
+      "source_verse_sha256": "496f834b6937d0556177f03a7a6677150169ef8c0348164fe275aa5c0ef9e7e6",
+      "before": "And great hailstones, about a talent in weight, fell from heaven on people, and they cursed God for the plague of the hail, because the plague was exceedingly great.",
+      "after": "Great hailstones, each about a talent in weight, came down from heaven on people. They blasphemed God because of the plague of hail, for that plague was exceedingly great.",
+      "tsw_comparator": "And great hailstones, about a talent in weight, fell from heaven on people, and they cursed God for the plague of the hail, because the plague was exceedingly great.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.724138,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 16:21",
+          "payload": "καὶ χάλαζα μεγάλη ὡς ταλαντιαία καταβαίνει ἐκ τοῦ οὐρανοῦ ἐπὶ τοὺς ἀνθρώπους· καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸν θεὸν ἐκ τῆς πληγῆς τῆς χαλάζης, ὅτι μεγάλη ἐστὶν ἡ πληγὴ αὐτῆς σφόδρα. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:5",
+      "delta": "F3",
+      "rationale": "Keeps mystery adjacent to the written name with the alternative attachment noted.",
+      "source_reference": "Rev 17:5",
+      "source_verse_sha256": "3f5a6b1eaa2f094b6ab21993275a383382273d9427bebdbac105b129aa577f88",
+      "before": "and on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of the abominations of the earth.”",
+      "after": "On her forehead was written a name, a mystery: “Babylon the great, the mother of prostitutes and of the earth's abominations.”",
+      "tsw_comparator": "and on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of the abominations of the earth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:5",
+          "payload": "καὶ ἐπὶ τὸ μέτωπον αὐτῆς ὄνομα γεγραμμένον, μυστήριον, Βαβυλὼν ἡ μεγάλη, ἡ μήτηρ τῶν πορνῶν καὶ τῶν βδελυγμάτων τῆς γῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:8",
+      "delta": "F3",
+      "rationale": "Preserves the repeated temporal parody, abyss and destruction, following the pinned future presence reading.",
+      "source_reference": "Rev 17:8",
+      "source_verse_sha256": "78e2cd3d64d25c63aa25e7bde2b62a9f366bd29b6c8cd27cfaf4fb271869ee43",
+      "before": "The beast that you saw was, and is not, and is about to rise from the abyss and go to destruction. And the dwellers on the earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+      "after": "The beast you saw was, and is not, and is about to rise from the abyss and go to destruction. Those who live on the earth, whose names have not been written in the book of life from the foundation of the world, will marvel when they see the beast, because it was, and is not, and will be present.",
+      "tsw_comparator": "The beast that you saw was, and is not, and is about to rise from the abyss and go to destruction. And the dwellers on the earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:8",
+          "payload": "τὸ θηρίον ὃ εἶδες ἦν καὶ οὐκ ἔστιν, καὶ μέλλει ἀναβαίνειν ἐκ τῆς ἀβύσσου, καὶ εἰς ἀπώλειαν ⸀ὑπάγει· καὶ ⸀θαυμασθήσονται οἱ κατοικοῦντες ἐπὶ τῆς γῆς, ὧν οὐ γέγραπται ⸂τὸ ὄνομα⸃ ἐπὶ τὸ βιβλίον τῆς ζωῆς ἀπὸ καταβολῆς κόσμου, βλεπόντων ⸂τὸ θηρίον ὅτι ἦν⸃ καὶ οὐκ ἔστιν καὶ παρέσται. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:9",
+      "delta": "F3",
+      "rationale": "Keeps both interpretations and the source boundary before the kings' enumeration.",
+      "source_reference": "Rev 17:9",
+      "source_verse_sha256": "a863290101bbb20192e10d0d63e1aa32a7a8867db0a24f4dbca0b78929fbcff6",
+      "before": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+      "after": "Here is the mind that has wisdom: the seven heads are seven mountains on which the woman sits. They are also seven kings:",
+      "tsw_comparator": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:9",
+          "payload": "Ὧδε ὁ νοῦς ὁ ἔχων σοφίαν. αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη εἰσίν, ὅπου ἡ γυνὴ κάθηται ἐπʼ αὐτῶν. καὶ βασιλεῖς ⸂ἑπτά εἰσιν⸃· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:10",
+      "delta": "F3",
+      "rationale": "Retains the exact five/one/other sequence and short duration without assigning identities.",
+      "source_reference": "Rev 17:10",
+      "source_verse_sha256": "6dfe4377a3d6252a1723d23d6c9faf4ac1e9be15d4c6ca01111c3763159518b3",
+      "before": "they are also seven kings, five have fallen, one is, the other has not yet come, and when he comes he must remain only a little while.",
+      "after": "five have fallen, one is, and the other has not yet come. When he comes, he must remain a little while.",
+      "tsw_comparator": "they are also seven kings, five have fallen, one is, the other has not yet come, and when he comes he must remain only a little while.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:10",
+          "payload": "οἱ πέντε ἔπεσαν, ὁ εἷς ἔστιν, ὁ ἄλλος οὔπω ἦλθεν, καὶ ὅταν ἔλθῃ ὀλίγον ⸂αὐτὸν δεῖ⸃ μεῖναι, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:11",
+      "delta": "F3",
+      "rationale": "Preserves the difficult eighth/from-seven relation and repeated destination.",
+      "source_reference": "Rev 17:11",
+      "source_verse_sha256": "85878b452982cf9931521f84fa37a6963e3710260eeccb921737dac1b0ca5bc4",
+      "before": "As for the beast that was and is not, it is an eighth but belongs to the seven, and it goes to destruction.",
+      "after": "The beast that was and is not is itself an eighth, and belongs to the seven, and goes to destruction.",
+      "tsw_comparator": "As for the beast that was and is not, it is an eighth but belongs to the seven, and it goes to destruction.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:11",
+          "payload": "καὶ τὸ θηρίον ὃ ἦν καὶ οὐκ ἔστιν. καὶ ⸀αὐτὸς ὄγδοός ἐστιν καὶ ἐκ τῶν ἑπτά ἐστιν, καὶ εἰς ἀπώλειαν ὑπάγει. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 17:16",
+      "delta": "F3",
+      "rationale": "Follows and the beast and retains the full violence against the personified city.",
+      "source_reference": "Rev 17:16",
+      "source_verse_sha256": "783f93ec041dd3ddbe070b02c5985288481b264b9099b192b7927c45b5257c97",
+      "before": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+      "after": "The ten horns you saw and the beast will hate the prostitute. They will leave her desolate and naked, eat her flesh and burn her with fire.",
+      "tsw_comparator": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.847458,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 17:16",
+          "payload": "καὶ τὰ δέκα κέρατα ἃ εἶδες καὶ τὸ θηρίον, οὗτοι μισήσουσι τὴν πόρνην, καὶ ἠρημωμένην ποιήσουσιν αὐτὴν καὶ ⸀γυμνήν, καὶ τὰς σάρκας αὐτῆς φάγονται, καὶ αὐτὴν κατακαύσουσιν ἐν πυρί· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 18:2",
+      "delta": "F3",
+      "rationale": "Follows the pinned additional beast clause and preserves repeated fallen and haunt.",
+      "source_reference": "Rev 18:2",
+      "source_verse_sha256": "8e060b15f22bbf35cc9948ecc9a7fe705e8ed9a6cc10778daa5cdb4f1316770a",
+      "before": "And he called out with a mighty voice, “Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.",
+      "after": "He cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a dwelling for demons, a haunt of every unclean spirit, a haunt of every unclean bird, and a haunt of every unclean and hated beast.",
+      "tsw_comparator": "And he called out with a mighty voice, “Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.819277,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 18:2",
+          "payload": "καὶ ἔκραξεν ⸀ἐν ἰσχυρᾷ φωνῇ λέγων· Ἔπεσεν, ⸀ἔπεσεν Βαβυλὼν ἡ μεγάλη, καὶ ἐγένετο κατοικητήριον ⸀δαιμονίων καὶ φυλακὴ παντὸς πνεύματος ἀκαθάρτου καὶ φυλακὴ παντὸς ὀρνέου ἀκαθάρτου ⸂καὶ φυλακὴ παντὸς θηρίου ἀκαθάρτου⸃ καὶ μεμισημένου, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 18:3",
+      "delta": "F3",
+      "rationale": "Follows the pinned have fallen rather than have drunk and keeps rulers, merchants and luxury distinct.",
+      "source_reference": "Rev 18:3",
+      "source_verse_sha256": "1f74c0c69c4e1e3d095001949ebc61ccce4ab17425c49236811304d23d9c5b89",
+      "before": "For all nations have drunk the wine of the passion of her immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxury.”",
+      "after": "For all the nations have fallen through the wine of the passion of her prostitution. The kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the power of her luxury.”",
+      "tsw_comparator": "For all nations have drunk the wine of the passion of her immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxury.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 18:3",
+          "payload": "ὅτι ἐκ τοῦ οἴνου τοῦ θυμοῦ τῆς πορνείας αὐτῆς ⸀πέπτωκαν πάντα τὰ ἔθνη, καὶ οἱ βασιλεῖς τῆς γῆς μετʼ αὐτῆς ἐπόρνευσαν, καὶ οἱ ἔμποροι τῆς γῆς ἐκ τῆς δυνάμεως τοῦ στρήνους αὐτῆς ἐπλούτησαν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 18:13",
+      "delta": "F3",
+      "rationale": "Retains the full list's final commodification of human bodies and lives instead of hiding it in a generic goods term.",
+      "source_reference": "Rev 18:13",
+      "source_verse_sha256": "467c6afee74315b3fceb78e0610e8c643973b46c5d36b63ffcd57c29605749bd",
+      "before": "cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves—that is, human lives.",
+      "after": "cinnamon and spice, incense, perfume and frankincense; wine, oil, fine flour and wheat; cattle and sheep; horses and carriages; and bodies—human lives.",
+      "tsw_comparator": "cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves—that is, human lives.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 18:13",
+          "payload": "καὶ κιννάμωμον ⸂καὶ ἄμωμον⸃ καὶ θυμιάματα καὶ μύρον καὶ λίβανον καὶ οἶνον καὶ ἔλαιον καὶ σεμίδαλιν καὶ σῖτον καὶ ⸂κτήνη καὶ πρόβατα⸃, καὶ ἵππων καὶ ῥεδῶν καὶ σωμάτων, καὶ ψυχὰς ἀνθρώπων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 18:14",
+      "delta": "F3",
+      "rationale": "Keeps the shift to direct address and the pinned third-person find rather than harmonizing it to you.",
+      "source_reference": "Rev 18:14",
+      "source_verse_sha256": "6ea0e71ba30fc1d82b6abacd1c44093b68b63992bc74cfdfafa95457a120e0a6",
+      "before": "“The fruit for which your soul longed has gone from you, and all your delicacies and your splendors are lost to you, never to be found again!”",
+      "after": "The fruit your soul longed for has gone from you. All your luxury and splendor have vanished from you, and they will never find them again.",
+      "tsw_comparator": "“The fruit for which your soul longed has gone from you, and all your delicacies and your splendors are lost to you, never to be found again!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.566038,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 18:14",
+          "payload": "καὶ ἡ ὀπώρα ⸂σου τῆς ἐπιθυμίας τῆς ψυχῆς⸃ ἀπῆλθεν ἀπὸ σοῦ, καὶ πάντα τὰ λιπαρὰ καὶ τὰ λαμπρὰ ἀπώλετο ἀπὸ σοῦ, καὶ ⸀οὐκέτι ⸂οὐ μὴ αὐτὰ εὑρήσουσιν⸃. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 18:20",
+      "delta": "F3",
+      "rationale": "Keeps the contrasting command to rejoice and the legal reversal without softening it.",
+      "source_reference": "Rev 18:20",
+      "source_verse_sha256": "ba63741e4fe7045c4af52d111db350d016e70cf5378384f36bab50c25bfe17a6",
+      "before": "Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!",
+      "after": "Rejoice over her, heaven, and you holy ones, apostles and prophets, because God has judged your case against her.”",
+      "tsw_comparator": "Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 18:20",
+          "payload": "Εὐφραίνου ἐπʼ αὐτῇ, οὐρανέ, καὶ οἱ ἅγιοι καὶ οἱ ἀπόστολοι καὶ οἱ προφῆται, ὅτι ἔκρινεν ὁ θεὸς τὸ κρίμα ὑμῶν ἐξ αὐτῆς. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:7",
+      "delta": "F3",
+      "rationale": "Follows the pinned future we will give and retains the bride's own preparation.",
+      "source_reference": "Rev 19:7",
+      "source_verse_sha256": "8ed92c28d8a9084a11e43425bed432b97aa8dd5b51d715fe718f4daf7e04131e",
+      "before": "Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his bride has made herself ready;",
+      "after": "Let us rejoice and be glad, and we will give him glory, because the Lamb's wedding has come, and his wife has prepared herself.",
+      "tsw_comparator": "Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his bride has made herself ready;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:7",
+          "payload": "χαίρωμεν καὶ ⸀ἀγαλλιῶμεν, καὶ ⸀δώσομεν τὴν δόξαν αὐτῷ, ὅτι ἦλθεν ὁ γάμος τοῦ ἀρνίου, καὶ ἡ γυνὴ αὐτοῦ ἡτοίμασεν ἑαυτήν, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:10",
+      "delta": "F3",
+      "rationale": "Keeps the rejected worship and both open testimony-of-Jesus expressions.",
+      "source_reference": "Rev 19:10",
+      "source_verse_sha256": "ef6234d23fee7a6a4349600a99c182ea57a57a4b80a1a9062b9148f9180ad070",
+      "before": "Then I fell down at his feet to worship him, but he said to me, “Do not do that! I am a servant with you and your brothers and sisters who hold the testimony of Jesus. Worship God! For the testimony of Jesus[b] is the spirit of prophecy.”",
+      "after": "I fell at his feet to worship him, but he said, “Do not do that! I am a fellow slave with you and your brothers and sisters who hold the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.”",
+      "tsw_comparator": "Then I fell down at his feet to worship him, but he said to me, “Do not do that! I am a servant with you and your brothers and sisters who hold the testimony of Jesus. Worship God! For the testimony of Jesus[b] is the spirit of prophecy.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914894,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:10",
+          "payload": "καὶ ἔπεσα ἔμπροσθεν τῶν ποδῶν αὐτοῦ προσκυνῆσαι αὐτῷ. καὶ λέγει μοι· Ὅρα μή· σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων τὴν μαρτυρίαν Ἰησοῦ· τῷ θεῷ προσκύνησον· ἡ γὰρ ⸀μαρτυρία Ἰησοῦ ἐστιν τὸ πνεῦμα τῆς προφητείας. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:12",
+      "delta": "F3",
+      "rationale": "Follows the direct eyes-as-flame wording and keeps the undisclosed name.",
+      "source_reference": "Rev 19:12",
+      "source_verse_sha256": "b608142be87ea2b721d09d0b72772c4d53d4aacb9d8159b395870940774ddf5b",
+      "before": "His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself.",
+      "after": "His eyes are a flame of fire, and on his head are many royal crowns. He has a name written that no one knows except himself.",
+      "tsw_comparator": "His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:12",
+          "payload": "οἱ δὲ ὀφθαλμοὶ ⸀αὐτοῦ φλὸξ πυρός, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, ⸀ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτός, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:13",
+      "delta": "F3",
+      "rationale": "Follows dipped rather than sprinkled and does not identify whose blood.",
+      "source_reference": "Rev 19:13",
+      "source_verse_sha256": "f0e144ab443c49ef9a3218ea50abb6f54cfa064a40307cee95ca7a370980b645",
+      "before": "He is clothed in a robe dipped in blood, and the name by which he is called is the Word of God.",
+      "after": "He is dressed in a robe dipped in blood, and his name is called the Word of God.",
+      "tsw_comparator": "He is clothed in a robe dipped in blood, and the name by which he is called is the Word of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:13",
+          "payload": "καὶ περιβεβλημένος ἱμάτιον ⸀βεβαμμένον αἵματι, καὶ ⸀κέκληται τὸ ὄνομα αὐτοῦ ὁ Λόγος τοῦ Θεοῦ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:18",
+      "delta": "F3",
+      "rationale": "Preserves repeated flesh and every social group without sanitizing the gruesome feast.",
+      "source_reference": "Rev 19:18",
+      "source_verse_sha256": "760c3763d0d89f550eaa9ee347a7f6c5a0f846b71044647063df450c837e099c",
+      "before": "to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great.”",
+      "after": "to eat the flesh of kings, the flesh of military commanders, the flesh of the powerful, the flesh of horses and their riders, and the flesh of everyone, free and slave, small and great.”",
+      "tsw_comparator": "to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.828571,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:18",
+          "payload": "ἵνα φάγητε σάρκας βασιλέων καὶ σάρκας χιλιάρχων καὶ σάρκας ἰσχυρῶν καὶ σάρκας ἵππων καὶ τῶν καθημένων ἐπʼ ⸀αὐτῶν, καὶ σάρκας πάντων ἐλευθέρων τε καὶ δούλων καὶ μικρῶν ⸀καὶ μεγάλων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 19:20",
+      "delta": "F3",
+      "rationale": "Preserves capture, the deception's recipients and the explicit alive.",
+      "source_reference": "Rev 19:20",
+      "source_verse_sha256": "39bf96ee428e43c0bf9cbb095d39b934958752ee475fecb4649b28417ac2c649",
+      "before": "And the beast was captured, and with it the false prophet who in its presence had done the signs by which he deceived people who had received the mark of the beast and people who worshiped its image. These two were thrown alive into the lake of fire that burns with sulfur.",
+      "after": "The beast was captured, and with it the false prophet who had performed signs in its presence, deceiving those who received the beast's mark and worshiped its image. The two were thrown alive into the lake of fire burning with sulfur.",
+      "tsw_comparator": "And the beast was captured, and with it the false prophet who in its presence had done the signs by which he deceived those who had received the mark of the beast and those who worshiped its image. These two were thrown alive into the lake of fire that burns with sulfur.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731183,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 19:20",
+          "payload": "καὶ ἐπιάσθη τὸ θηρίον καὶ ⸂μετʼ αὐτοῦ ὁ⸃ ψευδοπροφήτης ὁ ποιήσας τὰ σημεῖα ἐνώπιον αὐτοῦ, ἐν οἷς ἐπλάνησεν τοὺς λαβόντας τὸ χάραγμα τοῦ θηρίου καὶ τοὺς προσκυνοῦντας τῇ εἰκόνι αὐτοῦ· ζῶντες ἐβλήθησαν οἱ δύο εἰς τὴν λίμνην τοῦ πυρὸς ⸂τῆς καιομένης⸃ ἐν θείῳ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 20:4",
+      "delta": "F3",
+      "rationale": "Preserves the unnamed enthroned figures, explicit beheading and the relation of the two described groups without imposing a millennial scheme.",
+      "source_reference": "Rev 20:4",
+      "source_verse_sha256": "c798bd8f6638a2ae794fe0d2fa76e00e95e8de9c84430ec3289c3e46fecbbfe3",
+      "before": "Then I saw thrones, and seated on them were those to whom authority to judge was given. Also I saw the souls of people who had been beheaded for the testimony of Jesus and for the word of God, and people who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years.",
+      "after": "I saw thrones, and those seated on them were given authority to judge. I also saw the souls of those beheaded because of the testimony of Jesus and God's word, and those who had not worshiped the beast or its image or received its mark on their foreheads or hands. They came to life and reigned with Christ for a thousand years.",
+      "tsw_comparator": "Then I saw thrones, and seated on them were those to whom authority to judge was given. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808824,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 20:4",
+          "payload": "Καὶ εἶδον θρόνους, καὶ ἐκάθισαν ἐπʼ αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς, καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν Ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ, καὶ οἵτινες οὐ προσεκύνησαν τὸ θηρίον οὐδὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον καὶ ἐπὶ τὴν χεῖρα αὐτῶν· καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ τοῦ χριστοῦ ⸀χίλια ἔτη. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 20:5",
+      "delta": "F3",
+      "rationale": "Keeps the interruption and named resurrection without resolving the chronology beyond the text.",
+      "source_reference": "Rev 20:5",
+      "source_verse_sha256": "ac45efb52fc889ab93e8c15a9a144c1ce7dabca31a7862172259fab5ccc18f1e",
+      "before": "The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.",
+      "after": "The rest of the dead did not come to life until the thousand years were completed. This is the first resurrection.",
+      "tsw_comparator": "The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 20:5",
+          "payload": "⸀οἱ λοιποὶ τῶν νεκρῶν οὐκ ἔζησαν ἄχρι τελεσθῇ τὰ χίλια ἔτη. αὕτη ἡ ἀνάστασις ἡ πρώτη. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 20:10",
+      "delta": "F3",
+      "rationale": "Preserves all three figures and the duration without narrowing the plural they.",
+      "source_reference": "Rev 20:10",
+      "source_verse_sha256": "2920604e00918db7798693744e85af52299fb5048d2c6cb0ea760340c3be3824",
+      "before": "and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.",
+      "after": "The devil who led them astray was thrown into the lake of fire and sulfur, where the beast and the false prophet are. They will be tormented day and night forever and ever.",
+      "tsw_comparator": "and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 20:10",
+          "payload": "καὶ ὁ διάβολος ὁ πλανῶν αὐτοὺς ἐβλήθη εἰς τὴν λίμνην τοῦ πυρὸς καὶ θείου, ὅπου καὶ τὸ θηρίον καὶ ὁ ψευδοπροφήτης, καὶ βασανισθήσονται ἡμέρας καὶ νυκτὸς εἰς τοὺς αἰῶνας τῶν αἰώνων. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 20:14",
+      "delta": "F3",
+      "rationale": "Keeps the destruction of personified Death/Hades and the text's explicit identification.",
+      "source_reference": "Rev 20:14",
+      "source_verse_sha256": "8e5cdac5f5aef8b4cf57169b32edcbc45e0474c020f23bd1d5401b05a560b3b6",
+      "before": "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.",
+      "after": "Death and Hades were thrown into the lake of fire. This is the second death: the lake of fire.",
+      "tsw_comparator": "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.974359,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 20:14",
+          "payload": "καὶ ὁ θάνατος καὶ ὁ ᾅδης ἐβλήθησαν εἰς τὴν λίμνην τοῦ πυρός. οὗτος ὁ ⸂θάνατος ὁ δεύτερός⸃ ἐστιν, ἡ λίμνη τοῦ πυρός. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:3",
+      "delta": "F3",
+      "rationale": "Follows the pinned throne and plural peoples and retains the tent/dwelling connection.",
+      "source_reference": "Rev 21:3",
+      "source_verse_sha256": "96328c3dfbbd59fc5d5b34f109b0c807664b3123f923193bec4afeda8afe6df3",
+      "before": "And I heard a loud voice from the throne saying, “Look, the dwelling of God is with mankind. He will dwell with them, and they will be his peoples, and God himself will be with them,",
+      "after": "I heard a loud voice from the throne say: “Look, God's tent is with humanity. He will dwell with them, and they will be his peoples, and God himself will be with them.",
+      "tsw_comparator": "And I heard a loud voice from the throne saying, “Behold, the dwelling of God is with mankind. He will dwell with them, and they will be his peoples, and God himself will be with them,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:3",
+          "payload": "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ ⸀θρόνου λεγούσης· Ἰδοὺ ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων, καὶ σκηνώσει μετʼ αὐτῶν, καὶ αὐτοὶ ⸀λαοὶ αὐτοῦ ἔσονται, καὶ αὐτὸς ὁ θεὸς ⸂μετʼ αὐτῶν ἔσται⸃, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:6",
+      "delta": "F3",
+      "rationale": "Follows the plural completed form and preserves the free gift and both title pairs.",
+      "source_reference": "Rev 21:6",
+      "source_verse_sha256": "13ad6c8f829e751dc6f5c7a2fd5938788aa97c8c64d91077bb5d13cecfd635a6",
+      "before": "And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.",
+      "after": "He said to me, “These things are done. I am the Alpha and the Omega, the beginning and the end. I will give freely from the spring of the water of life to anyone who thirsts.",
+      "tsw_comparator": "And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:6",
+          "payload": "καὶ εἶπέν μοι· ⸂Γέγοναν. ἐγὼ⸃ τὸ Ἄλφα καὶ τὸ Ὦ, ἡ ἀρχὴ καὶ τὸ τέλος. ἐγὼ τῷ διψῶντι δώσω ἐκ τῆς πηγῆς τοῦ ὕδατος τῆς ζωῆς δωρεάν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:7",
+      "delta": "F3",
+      "rationale": "Keeps the sonship/inheritance formula while using a generic singular recipient.",
+      "source_reference": "Rev 21:7",
+      "source_verse_sha256": "88007a24b42a6f4057576eb4efa1dfc711a33508bc0fbd8b2ead19cfe5029e4b",
+      "before": "The one who conquers will inherit these things, and I will be his God and he will be my son.",
+      "after": "The one who overcomes will inherit these things, and I will be their God, and they will be my son.",
+      "tsw_comparator": "The one who conquers will inherit these things, and I will be his God and he will be my son.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:7",
+          "payload": "ὁ νικῶν κληρονομήσει ταῦτα, καὶ ἔσομαι αὐτῷ θεὸς καὶ αὐτὸς ἔσται μοι υἱός. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:16",
+      "delta": "F3",
+      "rationale": "Retains the enormous exact measure and three equal dimensions without choosing a symbolic interpretation.",
+      "source_reference": "Rev 21:16",
+      "source_verse_sha256": "529b28ed6a437789fb53c67b4f4a121fc248c24ad1a5a913fe38f177b9f65617",
+      "before": "The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal.",
+      "after": "The city lay square, its length the same as its width. He measured the city with the reed: 12,000 stadia. Its length, width and height were equal.",
+      "tsw_comparator": "The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.793103,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:16",
+          "payload": "καὶ ἡ πόλις τετράγωνος κεῖται, καὶ τὸ μῆκος αὐτῆς ⸀ὅσον τὸ πλάτος. καὶ ἐμέτρησεν τὴν πόλιν τῷ καλάμῳ ἐπὶ ⸀σταδίους δώδεκα ⸀χιλιάδων· τὸ μῆκος καὶ τὸ πλάτος καὶ τὸ ὕψος αὐτῆς ἴσα ἐστίν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:17",
+      "delta": "F3",
+      "rationale": "Keeps the exact measure and human/angel relation without supplying height or thickness.",
+      "source_reference": "Rev 21:17",
+      "source_verse_sha256": "f197a5748846d585d2c43015024705c105bf9a2853cb463294c02ff374c79c4f",
+      "before": "He also measured its wall, 144 cubits by human measurement, which is also an angel’s measurement.",
+      "after": "He measured its wall: 144 cubits, by human measure, which the angel was using.",
+      "tsw_comparator": "He also measured its wall, 144 cubits by human measurement, which is also an angel’s measurement.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:17",
+          "payload": "καὶ ἐμέτρησεν τὸ τεῖχος αὐτῆς ἑκατὸν τεσσεράκοντα τεσσάρων πηχῶν, μέτρον ἀνθρώπου, ὅ ἐστιν ἀγγέλου. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:19",
+      "delta": "F3",
+      "rationale": "Keeps the first four stones and ordinal sequence with ancient mineral uncertainty noted.",
+      "source_reference": "Rev 21:19",
+      "source_verse_sha256": "daf3e94a2958680964d012d7236887cb2e56a4f9062782e5471f0290fa9de356",
+      "before": "The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald,",
+      "after": "The foundations of the city's wall were adorned with every precious stone: the first with jasper, the second sapphire, the third chalcedony, the fourth emerald,",
+      "tsw_comparator": "The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754717,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:19",
+          "payload": "⸀οἱ θεμέλιοι τοῦ τείχους τῆς πόλεως παντὶ λίθῳ τιμίῳ κεκοσμημένοι· ὁ θεμέλιος ὁ πρῶτος ἴασπις, ὁ δεύτερος σάπφιρος, ὁ τρίτος χαλκηδών, ὁ τέταρτος σμάραγδος, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:20",
+      "delta": "F3",
+      "rationale": "Preserves all eight remaining stones in order without modernizing uncertain mineral names.",
+      "source_reference": "Rev 21:20",
+      "source_verse_sha256": "120b7de32548117053e72daf1fa740e9ec7c2459dd1aa7c26b9e6ed31666af70",
+      "before": "the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.",
+      "after": "the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth and the twelfth amethyst.",
+      "tsw_comparator": "the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.938776,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:20",
+          "payload": "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 21:24",
+      "delta": "F3",
+      "rationale": "Follows the short nations reading without adding of the saved and retains the tense shift.",
+      "source_reference": "Rev 21:24",
+      "source_verse_sha256": "83ea04dd0bc5a78a9ebd83587ef7ecfdc2c14d10e7508eab5dd556731a52c246",
+      "before": "By its light the nations will walk, and the kings of the earth will bring their glory into it,",
+      "after": "The nations will walk by her light, and the kings of the earth bring their glory into her.",
+      "tsw_comparator": "By its light the nations will walk, and the kings of the earth will bring their glory into it,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 21:24",
+          "payload": "καὶ περιπατήσουσιν τὰ ἔθνη διὰ τοῦ φωτὸς αὐτῆς· καὶ οἱ βασιλεῖς τῆς γῆς φέρουσιν ⸂τὴν δόξαν αὐτῶν⸃ εἰς αὐτήν· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:2",
+      "delta": "F3",
+      "rationale": "Preserves the singular tree on both sides and the twelve/monthly relation without resolving the spatial image.",
+      "source_reference": "Rev 22:2",
+      "source_verse_sha256": "17cd349fc44c7833948263b206322293bdd93507b817dd0e0b286a190eec76a3",
+      "before": "through the middle of the street of the city. On either side of the river is the tree of life with its twelve kinds of fruit, producing its fruit each month, and the leaves of the tree are for the healing of the nations.",
+      "after": "down the middle of the city's street. On either side of the river was the tree of life, bearing twelve crops of fruit, yielding its fruit each month. The tree's leaves are for the healing of the nations.",
+      "tsw_comparator": "through the middle of the street of the city. On either side of the river is the tree of life with its twelve kinds of fruit, producing its fruit each month, and the leaves of the tree are for the healing of the nations.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756098,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:2",
+          "payload": "ἐν μέσῳ τῆς πλατείας αὐτῆς· καὶ τοῦ ποταμοῦ ἐντεῦθεν καὶ ἐκεῖθεν ξύλον ζωῆς ποιοῦν καρποὺς δώδεκα, κατὰ μῆνα ἕκαστον ⸀ἀποδιδοῦν τὸν καρπὸν αὐτοῦ, καὶ τὰ φύλλα τοῦ ξύλου εἰς θεραπείαν τῶν ἐθνῶν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:3",
+      "delta": "F3",
+      "rationale": "Keeps the curse's removal, shared throne and singular his/him with explicit slaves.",
+      "source_reference": "Rev 22:3",
+      "source_verse_sha256": "83077d34b3d584755ca973a12d9ec29b19cd483e17c829c88b6e5b8b558c0166",
+      "before": "No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.",
+      "after": "There will no longer be anything accursed. The throne of God and of the Lamb will be in the city, and his slaves will serve him.",
+      "tsw_comparator": "No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:3",
+          "payload": "καὶ πᾶν κατάθεμα οὐκ ἔσται ἔτι. καὶ ὁ θρόνος τοῦ θεοῦ καὶ τοῦ ἀρνίου ἐν αὐτῇ ἔσται, καὶ οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ, "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:6",
+      "delta": "F3",
+      "rationale": "Follows the pinned spirits of the prophets and preserves the opening book's disclosure language.",
+      "source_reference": "Rev 22:6",
+      "source_verse_sha256": "24d275ad523f58e72ff2a52b684fd342c038f5a40bf7c03cb68503e6aea56b4c",
+      "before": "And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.”",
+      "after": "He said to me, “These words are faithful and true. The Lord, the God of the spirits of the prophets, sent his angel to show his slaves what must happen soon.”",
+      "tsw_comparator": "And he said to me, “These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:6",
+          "payload": "Καὶ ⸀εἶπέν μοι· Οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί, καὶ ⸀ὁ κύριος, ὁ θεὸς τῶν πνευμάτων τῶν προφητῶν, ἀπέστειλεν τὸν ἄγγελον αὐτοῦ δεῖξαι τοῖς δούλοις αὐτοῦ ἃ δεῖ γενέσθαι ἐν τάχει· "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:11",
+      "delta": "F3",
+      "rationale": "Retains the unsettling fourfold imperatives and repeated still without smoothing them into description.",
+      "source_reference": "Rev 22:11",
+      "source_verse_sha256": "f0cb4d534930b43345946ad8569f2bf1230d68a3d17e1ce9d692a29708f9a5b2",
+      "before": "Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”",
+      "after": "Let the one who does wrong still do wrong; let the filthy still be filthy; let the righteous still practice righteousness; and let the holy still be holy.”",
+      "tsw_comparator": "Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:11",
+          "payload": "ὁ ἀδικῶν ἀδικησάτω ἔτι, καὶ ὁ ῥυπαρὸς ⸀ῥυπαρευθήτω ἔτι, καὶ ὁ δίκαιος δικαιοσύνην ποιησάτω ἔτι, καὶ ὁ ἅγιος ἁγιασθήτω ἔτι. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:14",
+      "delta": "F3",
+      "rationale": "Follows wash robes rather than do commandments and retains access to tree and gates.",
+      "source_reference": "Rev 22:14",
+      "source_verse_sha256": "003757f921edb92751f4e226cbdd4418178d0ab944f3d8859a1a4db1b18a898d",
+      "before": "Blessed are people who wash their robes, so that they may have the right to the tree of life and may enter the city by the gates.",
+      "after": "Blessed are those who wash their robes, so that they may have the right to the tree of life and enter the city through its gates.",
+      "tsw_comparator": "Blessed are those who wash their robes, so that they may have the right to the tree of life and may enter the city by the gates.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90566,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:14",
+          "payload": "Μακάριοι οἱ ⸂πλύνοντες τὰς στολὰς αὐτῶν⸃, ἵνα ἔσται ἡ ἐξουσία αὐτῶν ἐπὶ τὸ ξύλον τῆς ζωῆς καὶ τοῖς πυλῶσιν εἰσέλθωσιν εἰς τὴν πόλιν. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:19",
+      "delta": "F3",
+      "rationale": "Follows tree of life rather than book of life and keeps the reciprocal removal.",
+      "source_reference": "Rev 22:19",
+      "source_verse_sha256": "44c0cea300e8ec3e67df451bf0cf3f84ab0bb1c95caa447aa7688492a39c952f",
+      "before": "and if someone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.",
+      "after": "If anyone takes away from the words of the scroll of this prophecy, God will take away that person's share in the tree of life and in the holy city described in this scroll.",
+      "tsw_comparator": "and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:19",
+          "payload": "καὶ ἐάν τις ἀφέλῃ ἀπὸ τῶν λόγων τοῦ βιβλίου τῆς προφητείας ταύτης, ⸀ἀφελεῖ ὁ θεὸς τὸ μέρος αὐτοῦ ἀπὸ τοῦ ξύλου τῆς ζωῆς καὶ ἐκ τῆς πόλεως τῆς ἁγίας, τῶν γεγραμμένων ἐν τῷ βιβλίῳ τούτῳ. "
+        }
+      ]
+    },
+    {
+      "reference": "Revelation 22:21",
+      "delta": "F3",
+      "rationale": "Follows the pinned short ending with all, without adding Christ, saints or a final Amen.",
+      "source_reference": "Rev 22:21",
+      "source_verse_sha256": "351f5fabc9841a0e78daf9275674c1394c29965ad4793b6eb30f374eef220511",
+      "before": "The grace of the Lord Jesus be with all. Amen.",
+      "after": "The grace of the Lord Jesus be with all.",
+      "tsw_comparator": "The grace of the Lord Jesus be with all. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING",
+      "exact_source_records": [
+        {
+          "reference": "Rev 22:21",
+          "payload": "Ἡ χάρις τοῦ κυρίου ⸀Ἰησοῦ μετὰ ⸀πάντων. "
+        }
+      ]
+    }
+  ]
+}

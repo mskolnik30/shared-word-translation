@@ -1,0 +1,18 @@
+{
+  "status": "PASSED",
+  "draft_status": "DRAFT_COMPLETE",
+  "final_block_chapters": 32,
+  "final_block_public_verses": 602,
+  "final_block_source_records": 603,
+  "cumulative_coverage": {
+    "ledgers": 145,
+    "chapters": 1189,
+    "verses": 31083
+  },
+  "evidence": [
+    "audit/fluent-revision/2026-09-17-jude-1-1/verification.json",
+    "audit/fluent-revision/2026-09-17-revelation-1-22/verification.json"
+  ],
+  "publication_allowed": false,
+  "independent_editorial_review": "REVIEW_PENDING"
+}

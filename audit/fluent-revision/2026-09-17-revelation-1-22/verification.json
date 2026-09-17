@@ -1,0 +1,64 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "2b1ff481e1e390d6ddbcaf7ca03aa19bfcb62975",
+  "new_chapters": 22,
+  "new_verses": 404,
+  "unique_original_source_records": 405,
+  "cumulative_coverage": {
+    "ledgers": 145,
+    "chapters": 1189,
+    "verses": 31083
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 144,
+    "chapters_byte_identical": 1167,
+    "verses": 30679,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 404,
+      "unique_source_records": 405
+    }
+  ],
+  "source_sensitive_checks": {
+    "opening_variants": true,
+    "specific_harm": true,
+    "lamb_reign": true,
+    "tribal_names": true,
+    "tribal_numbers": true,
+    "trumpet_variants": true,
+    "witness_numbers": true,
+    "dragon_boundary": true,
+    "beast_variants": true,
+    "specific_gender": true,
+    "songs_and_speakers": true,
+    "babylon_variants": true,
+    "final_judgment": true,
+    "new_city": true,
+    "twelve_stones": true,
+    "ending_variants": true
+  },
+  "focused_authoring_reread_count": 111,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31083 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "active_fifty_chapter_block": {
+    "scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+    "status": "DRAFT_COMPLETED",
+    "chapters_target": 32,
+    "completed_chapters": 32,
+    "completed_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+    "completed_verses": 602,
+    "remaining_scope": "None — drafting complete through Revelation 22",
+    "remaining_chapters": 0,
+    "qualification": "All 32 chapters of the final remainder have source-based revision drafts: 602 public verses supported by 603 exact Greek records. Independent review, queued whole-book reviews, reader testing and Companion reconciliation remain pending."
+  },
+  "draft_status": "DRAFT_COMPLETE",
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_reviews": "PENDING; all prior queue entries retained and Revelation added",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

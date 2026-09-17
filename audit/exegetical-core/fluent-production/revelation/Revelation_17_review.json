@@ -2,311 +2,166 @@
   "book": "Revelation",
   "chapter": 17,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "2b1ff481e1e390d6ddbcaf7ca03aa19bfcb62975",
+    "path": "audit/exegetical-core/fluent-production/revelation/Revelation_17_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rev.txt",
-    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "17:1-18:24",
-      "decision": "Retain Babylon's political, economic, violent, and idolatrous dimensions; avoid sexualized blame detached from empire.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rev.txt",
     "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Revelation 17:1",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 1,
-            "source_ref": "Revelation 17:1",
-            "segment_mode": "whole",
-            "sha256": "c574508ad6b0267e498ee876752c73552dcaecafbd08cc553eed4e018fb72b90"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c574508ad6b0267e498ee876752c73552dcaecafbd08cc553eed4e018fb72b90"
-      },
-      "2": {
-        "source_ref": "Revelation 17:2",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 2,
-            "source_ref": "Revelation 17:2",
-            "segment_mode": "whole",
-            "sha256": "9254b0b5e8e6fd26d252750db2c643a8b90740058709f425d15bdd116943a43e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9254b0b5e8e6fd26d252750db2c643a8b90740058709f425d15bdd116943a43e"
-      },
-      "3": {
-        "source_ref": "Revelation 17:3",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 3,
-            "source_ref": "Revelation 17:3",
-            "segment_mode": "whole",
-            "sha256": "f190021a91a291e4e8e988f42aeb0b87314b654d8baddeea1101c2d6db645241"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f190021a91a291e4e8e988f42aeb0b87314b654d8baddeea1101c2d6db645241"
-      },
-      "4": {
-        "source_ref": "Revelation 17:4",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 4,
-            "source_ref": "Revelation 17:4",
-            "segment_mode": "whole",
-            "sha256": "b24a922f210a8b8c1ec7b3fa9802cd166eee4778a040d3551a7fb2ed41df157d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b24a922f210a8b8c1ec7b3fa9802cd166eee4778a040d3551a7fb2ed41df157d"
-      },
-      "5": {
-        "source_ref": "Revelation 17:5",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 5,
-            "source_ref": "Revelation 17:5",
-            "segment_mode": "whole",
-            "sha256": "792cc9c4ec48906bd332004f49e5599618c493feb68c0cfc64aa00f2bea69eca"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "792cc9c4ec48906bd332004f49e5599618c493feb68c0cfc64aa00f2bea69eca"
-      },
-      "6": {
-        "source_ref": "Revelation 17:6",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 6,
-            "source_ref": "Revelation 17:6",
-            "segment_mode": "whole",
-            "sha256": "cb371cfd7752a736479f24cbc98681fbbead0d68c0898d773691bc4a5d74e802"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cb371cfd7752a736479f24cbc98681fbbead0d68c0898d773691bc4a5d74e802"
-      },
-      "7": {
-        "source_ref": "Revelation 17:7",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 7,
-            "source_ref": "Revelation 17:7",
-            "segment_mode": "whole",
-            "sha256": "696ca524256525f666a397776d0ba8ae82d18a40016410f3608444bed89d02ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "696ca524256525f666a397776d0ba8ae82d18a40016410f3608444bed89d02ba"
-      },
-      "8": {
-        "source_ref": "Revelation 17:8",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 8,
-            "source_ref": "Revelation 17:8",
-            "segment_mode": "whole",
-            "sha256": "d5992fe1c1b1241b0f2a1295141a02ca00f52fe7e8d3c48fd31ba599369d603e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d5992fe1c1b1241b0f2a1295141a02ca00f52fe7e8d3c48fd31ba599369d603e"
-      },
-      "9": {
-        "source_ref": "Revelation 17:9",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 9,
-            "source_ref": "Revelation 17:9",
-            "segment_mode": "whole",
-            "sha256": "e0e76678fddb54a36bf5daf681e74b85787da9439d0a8544f7eb96d526be544f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e0e76678fddb54a36bf5daf681e74b85787da9439d0a8544f7eb96d526be544f"
-      },
-      "10": {
-        "source_ref": "Revelation 17:10",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 10,
-            "source_ref": "Revelation 17:10",
-            "segment_mode": "whole",
-            "sha256": "33b757d6d5c42c0adaa5c4d065e7b2427ff9692407e7aebe4bd81d3ac1ca8078"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "33b757d6d5c42c0adaa5c4d065e7b2427ff9692407e7aebe4bd81d3ac1ca8078"
-      },
-      "11": {
-        "source_ref": "Revelation 17:11",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 11,
-            "source_ref": "Revelation 17:11",
-            "segment_mode": "whole",
-            "sha256": "49b98ee29f80877a5acd19ef3388618b7a0d297cb96ec761b40005bd9fad2ffc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "49b98ee29f80877a5acd19ef3388618b7a0d297cb96ec761b40005bd9fad2ffc"
-      },
-      "12": {
-        "source_ref": "Revelation 17:12",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 12,
-            "source_ref": "Revelation 17:12",
-            "segment_mode": "whole",
-            "sha256": "68f69d93806acb29ee808b87372062f4823c06f7a7a824a20518a6477d76523b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "68f69d93806acb29ee808b87372062f4823c06f7a7a824a20518a6477d76523b"
-      },
-      "13": {
-        "source_ref": "Revelation 17:13",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 13,
-            "source_ref": "Revelation 17:13",
-            "segment_mode": "whole",
-            "sha256": "25017b39a8f1cf349bdfea887b2019cd6c0bef064acc258b40db98d8cd32e6ae"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "25017b39a8f1cf349bdfea887b2019cd6c0bef064acc258b40db98d8cd32e6ae"
-      },
-      "14": {
-        "source_ref": "Revelation 17:14",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 14,
-            "source_ref": "Revelation 17:14",
-            "segment_mode": "whole",
-            "sha256": "3b18126944d51afb7dc8ab46e88f6491acb90c74d3b5fd28c99b10516c798c39"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3b18126944d51afb7dc8ab46e88f6491acb90c74d3b5fd28c99b10516c798c39"
-      },
-      "15": {
-        "source_ref": "Revelation 17:15",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 15,
-            "source_ref": "Revelation 17:15",
-            "segment_mode": "whole",
-            "sha256": "5b60e26110df2db133ca0d95ef574ed7d6e233f9e31ff137d89bfe70f41f4c77"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5b60e26110df2db133ca0d95ef574ed7d6e233f9e31ff137d89bfe70f41f4c77"
-      },
-      "16": {
-        "source_ref": "Revelation 17:16",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 16,
-            "source_ref": "Revelation 17:16",
-            "segment_mode": "whole",
-            "sha256": "b724debe02d625cf81ae41fb9df3578c40f6f0af1dc58a6e36c37fd6a3709d2a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b724debe02d625cf81ae41fb9df3578c40f6f0af1dc58a6e36c37fd6a3709d2a"
-      },
-      "17": {
-        "source_ref": "Revelation 17:17",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 17,
-            "source_ref": "Revelation 17:17",
-            "segment_mode": "whole",
-            "sha256": "ff4ff83175ea85785e3075589383f57b07d284b5d5c598063c09c18ff649b932"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ff4ff83175ea85785e3075589383f57b07d284b5d5c598063c09c18ff649b932"
-      },
-      "18": {
-        "source_ref": "Revelation 17:18",
-        "source_records": [
-          {
-            "chapter": 17,
-            "verse": 18,
-            "source_ref": "Revelation 17:18",
-            "segment_mode": "whole",
-            "sha256": "ac0736d6fa41f558b33003f93eaad10476c4f14df737c1b4a9b1756915d32d7a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ac0736d6fa41f558b33003f93eaad10476c4f14df737c1b4a9b1756915d32d7a"
-      }
+    "sha256": "61419de7970661f8c481975c35b50e7c1df0422db0c6400d1ce2c6ade35da9f0",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rev.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rev",
+    "book_verse_count": 405,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 17,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/revelation/Revelation_17.md",
+    "before_sha256": "eed89d3440fca7a417e506adbc474f406e6e3195103acc05e3ec0c41c48deb44",
+    "after_sha256": "c40b87f580705e650abd9a394e071dc9faf7724ba951c50c04f8ed481ef3cc0b",
+    "tsw_comparator_path": "books/NT/revelation/Revelation_17.md",
+    "tsw_comparator_sha256": "72b1060b1f3a2c2c23afb26fcda8c9e44a2d02558b3c69918db59d85a599fa5a",
+    "tsw_public_labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "tsw_unmatched_source_labels": [],
+    "tsw_additional_public_labels": [],
+    "tsw_alignment_reason": "Pinned 17:9 contains the seven-kings clause placed in TSW 17:10. Compare 17:9–10 together; public labels remain unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Revelation 17:5",
+      "delta": "F3",
+      "rationale": "Keeps mystery adjacent to the written name with the alternative attachment noted.",
+      "source_reference": "Rev 17:5",
+      "source_verse_sha256": "3f5a6b1eaa2f094b6ab21993275a383382273d9427bebdbac105b129aa577f88",
+      "before": "and on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of the abominations of the earth.”",
+      "after": "On her forehead was written a name, a mystery: “Babylon the great, the mother of prostitutes and of the earth's abominations.”",
+      "tsw_comparator": "and on her forehead was written a name of mystery: “Babylon the great, mother of prostitutes and of the abominations of the earth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 17:8",
+      "delta": "F3",
+      "rationale": "Preserves the repeated temporal parody, abyss and destruction, following the pinned future presence reading.",
+      "source_reference": "Rev 17:8",
+      "source_verse_sha256": "78e2cd3d64d25c63aa25e7bde2b62a9f366bd29b6c8cd27cfaf4fb271869ee43",
+      "before": "The beast that you saw was, and is not, and is about to rise from the abyss and go to destruction. And the dwellers on the earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+      "after": "The beast you saw was, and is not, and is about to rise from the abyss and go to destruction. Those who live on the earth, whose names have not been written in the book of life from the foundation of the world, will marvel when they see the beast, because it was, and is not, and will be present.",
+      "tsw_comparator": "The beast that you saw was, and is not, and is about to rise from the abyss and go to destruction. And the dwellers on the earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 17:9",
+      "delta": "F3",
+      "rationale": "Keeps both interpretations and the source boundary before the kings' enumeration.",
+      "source_reference": "Rev 17:9",
+      "source_verse_sha256": "a863290101bbb20192e10d0d63e1aa32a7a8867db0a24f4dbca0b78929fbcff6",
+      "before": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+      "after": "Here is the mind that has wisdom: the seven heads are seven mountains on which the woman sits. They are also seven kings:",
+      "tsw_comparator": "This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 17:10",
+      "delta": "F3",
+      "rationale": "Retains the exact five/one/other sequence and short duration without assigning identities.",
+      "source_reference": "Rev 17:10",
+      "source_verse_sha256": "6dfe4377a3d6252a1723d23d6c9faf4ac1e9be15d4c6ca01111c3763159518b3",
+      "before": "they are also seven kings, five have fallen, one is, the other has not yet come, and when he comes he must remain only a little while.",
+      "after": "five have fallen, one is, and the other has not yet come. When he comes, he must remain a little while.",
+      "tsw_comparator": "they are also seven kings, five have fallen, one is, the other has not yet come, and when he comes he must remain only a little while.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 17:11",
+      "delta": "F3",
+      "rationale": "Preserves the difficult eighth/from-seven relation and repeated destination.",
+      "source_reference": "Rev 17:11",
+      "source_verse_sha256": "85878b452982cf9931521f84fa37a6963e3710260eeccb921737dac1b0ca5bc4",
+      "before": "As for the beast that was and is not, it is an eighth but belongs to the seven, and it goes to destruction.",
+      "after": "The beast that was and is not is itself an eighth, and belongs to the seven, and goes to destruction.",
+      "tsw_comparator": "As for the beast that was and is not, it is an eighth but belongs to the seven, and it goes to destruction.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 17:16",
+      "delta": "F3",
+      "rationale": "Follows and the beast and retains the full violence against the personified city.",
+      "source_reference": "Rev 17:16",
+      "source_verse_sha256": "783f93ec041dd3ddbe070b02c5985288481b264b9099b192b7927c45b5257c97",
+      "before": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+      "after": "The ten horns you saw and the beast will hate the prostitute. They will leave her desolate and naked, eat her flesh and burn her with fire.",
+      "tsw_comparator": "And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.847458,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/revelation/Revelation_17.md",
-    "blob_sha": "0c23aba5c9c5b55b3ff76a58d11cad4f58fa4d88"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

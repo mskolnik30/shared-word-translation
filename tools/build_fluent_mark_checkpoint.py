@@ -147,6 +147,16 @@ def main():
                 editorial_status='REVIEW_PENDING')
             if (c, v) in partition_for_public:
                 decision['source_partition'] = partition_for_public[c, v]
+            merged = cfg.get('source_merges', {}).get(ref)
+            if merged:
+                # Preserve separately hashed records when a public verse spans
+                # a source chapter boundary (Revelation 12:18 / public 13:1).
+                assert source_ref in merged and len(merged) >= 2
+                decision['source_segments'] = [dict(
+                    source_reference=source['osis_book_id']+' '+r,
+                    source_verse_sha256=sha(raw[tuple(map(int, r.split(':')))].encode()))
+                    for r in merged]
+                decision['source_mapping_reason'] = cfg['source_merge_reasons'][ref]
             if v in unmatched:
                 decision['tsw_comparator_status'] = 'UNAVAILABLE_PUBLIC_LABEL'
                 decision['tsw_comparator_reason'] = alignment['reason']

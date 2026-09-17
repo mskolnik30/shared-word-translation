@@ -2,341 +2,195 @@
   "book": "Revelation",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "2b1ff481e1e390d6ddbcaf7ca03aa19bfcb62975",
+    "path": "audit/exegetical-core/fluent-production/revelation/Revelation_01_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rev.txt",
-    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "1:1-3",
-      "decision": "Frame apocalypse as unveiling meant to be read, heard, and kept—not merely decoded.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rev.txt",
     "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Revelation 1:1",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 1,
-            "source_ref": "Revelation 1:1",
-            "segment_mode": "whole",
-            "sha256": "bdb342019a37db8c065631081e60e3dad7e4adc09b1b3276f4759100f071c7f2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bdb342019a37db8c065631081e60e3dad7e4adc09b1b3276f4759100f071c7f2"
-      },
-      "2": {
-        "source_ref": "Revelation 1:2",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 2,
-            "source_ref": "Revelation 1:2",
-            "segment_mode": "whole",
-            "sha256": "d0b6cf013f35c234942f756790f7b52d1417cb0b5d3fbfd086e59dce709f5250"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d0b6cf013f35c234942f756790f7b52d1417cb0b5d3fbfd086e59dce709f5250"
-      },
-      "3": {
-        "source_ref": "Revelation 1:3",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 3,
-            "source_ref": "Revelation 1:3",
-            "segment_mode": "whole",
-            "sha256": "bf34d655c9787d634b3aa6b8afa1533cc35f2e3fcf7b9c13477268cdbca9a372"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bf34d655c9787d634b3aa6b8afa1533cc35f2e3fcf7b9c13477268cdbca9a372"
-      },
-      "4": {
-        "source_ref": "Revelation 1:4",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 4,
-            "source_ref": "Revelation 1:4",
-            "segment_mode": "whole",
-            "sha256": "756b61f1435f8a1c5a99cb31e0e482d15d731bb3904d9be402b05333e1fcc774"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "756b61f1435f8a1c5a99cb31e0e482d15d731bb3904d9be402b05333e1fcc774"
-      },
-      "5": {
-        "source_ref": "Revelation 1:5",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 5,
-            "source_ref": "Revelation 1:5",
-            "segment_mode": "whole",
-            "sha256": "4ae67604bd9015a764f916bcf37db51cef47b43bdb41876342ec7b28a21fcd3f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4ae67604bd9015a764f916bcf37db51cef47b43bdb41876342ec7b28a21fcd3f"
-      },
-      "6": {
-        "source_ref": "Revelation 1:6",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 6,
-            "source_ref": "Revelation 1:6",
-            "segment_mode": "whole",
-            "sha256": "f680ef94702ff5ddfe29255b960b093db6e2e1b23c7d685c19df5af629b9d0c1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f680ef94702ff5ddfe29255b960b093db6e2e1b23c7d685c19df5af629b9d0c1"
-      },
-      "7": {
-        "source_ref": "Revelation 1:7",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 7,
-            "source_ref": "Revelation 1:7",
-            "segment_mode": "whole",
-            "sha256": "c9160fce3923cc7aeddc342bd8a82c267746c80aa426bdf8f07ac21fafddf512"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c9160fce3923cc7aeddc342bd8a82c267746c80aa426bdf8f07ac21fafddf512"
-      },
-      "8": {
-        "source_ref": "Revelation 1:8",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 8,
-            "source_ref": "Revelation 1:8",
-            "segment_mode": "whole",
-            "sha256": "0250d15aa3f610c3a88c113e25474dca0d5a1020b8f005219d74dac0a9e725c8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0250d15aa3f610c3a88c113e25474dca0d5a1020b8f005219d74dac0a9e725c8"
-      },
-      "9": {
-        "source_ref": "Revelation 1:9",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 9,
-            "source_ref": "Revelation 1:9",
-            "segment_mode": "whole",
-            "sha256": "5e50e691d48cbae575ccc20c1dd2ca04093edae323f0740330c1c39a939f8557"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5e50e691d48cbae575ccc20c1dd2ca04093edae323f0740330c1c39a939f8557"
-      },
-      "10": {
-        "source_ref": "Revelation 1:10",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 10,
-            "source_ref": "Revelation 1:10",
-            "segment_mode": "whole",
-            "sha256": "698855d194ef0f5e0d5c09c35aa61ffd3b577bd8e64183a4e78af62865d53c18"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "698855d194ef0f5e0d5c09c35aa61ffd3b577bd8e64183a4e78af62865d53c18"
-      },
-      "11": {
-        "source_ref": "Revelation 1:11",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 11,
-            "source_ref": "Revelation 1:11",
-            "segment_mode": "whole",
-            "sha256": "6a1feae3e4d4ed20d77cc64b1c5c7458da9ee2af91617c16b87c5b327d448519"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6a1feae3e4d4ed20d77cc64b1c5c7458da9ee2af91617c16b87c5b327d448519"
-      },
-      "12": {
-        "source_ref": "Revelation 1:12",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 12,
-            "source_ref": "Revelation 1:12",
-            "segment_mode": "whole",
-            "sha256": "e4a5cc7612aae57f3209d41451d29a6677cfb21621969a0fd0f34a9874110130"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e4a5cc7612aae57f3209d41451d29a6677cfb21621969a0fd0f34a9874110130"
-      },
-      "13": {
-        "source_ref": "Revelation 1:13",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 13,
-            "source_ref": "Revelation 1:13",
-            "segment_mode": "whole",
-            "sha256": "410d0abbd43eed01174a299527908e364710af4acf99b7a4b12e50da5b815e92"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "410d0abbd43eed01174a299527908e364710af4acf99b7a4b12e50da5b815e92"
-      },
-      "14": {
-        "source_ref": "Revelation 1:14",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 14,
-            "source_ref": "Revelation 1:14",
-            "segment_mode": "whole",
-            "sha256": "db6a61a942c5a9b37fed7ca637c7ca9995a6e247ccc4f6957a276d75cb99b9ef"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db6a61a942c5a9b37fed7ca637c7ca9995a6e247ccc4f6957a276d75cb99b9ef"
-      },
-      "15": {
-        "source_ref": "Revelation 1:15",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 15,
-            "source_ref": "Revelation 1:15",
-            "segment_mode": "whole",
-            "sha256": "c5bfbc8877fc65e5c297ae212b4f17583e014ebd569d2b2b75351ace1a7d1965"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c5bfbc8877fc65e5c297ae212b4f17583e014ebd569d2b2b75351ace1a7d1965"
-      },
-      "16": {
-        "source_ref": "Revelation 1:16",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 16,
-            "source_ref": "Revelation 1:16",
-            "segment_mode": "whole",
-            "sha256": "3a52ff87b4a79df5597def790fdb35b89047baf7491f992fbee8aff046cdf1a5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3a52ff87b4a79df5597def790fdb35b89047baf7491f992fbee8aff046cdf1a5"
-      },
-      "17": {
-        "source_ref": "Revelation 1:17",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 17,
-            "source_ref": "Revelation 1:17",
-            "segment_mode": "whole",
-            "sha256": "1ba2f6ef3de43cd1c7b4fb526ebca77bd0fe0a14ce0ae21235bdd5f54b68478b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1ba2f6ef3de43cd1c7b4fb526ebca77bd0fe0a14ce0ae21235bdd5f54b68478b"
-      },
-      "18": {
-        "source_ref": "Revelation 1:18",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 18,
-            "source_ref": "Revelation 1:18",
-            "segment_mode": "whole",
-            "sha256": "cd35726f472bd2a613209aab66537dc2cd24e9308223c10270aac7a2bf464ab8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cd35726f472bd2a613209aab66537dc2cd24e9308223c10270aac7a2bf464ab8"
-      },
-      "19": {
-        "source_ref": "Revelation 1:19",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 19,
-            "source_ref": "Revelation 1:19",
-            "segment_mode": "whole",
-            "sha256": "9cd6580a7cbb04ba160930dc2a17ad6c49a483789fd8ba6f4d9cc4f15abc1450"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9cd6580a7cbb04ba160930dc2a17ad6c49a483789fd8ba6f4d9cc4f15abc1450"
-      },
-      "20": {
-        "source_ref": "Revelation 1:20",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 20,
-            "source_ref": "Revelation 1:20",
-            "segment_mode": "whole",
-            "sha256": "ec0645651539148cf9a5795c6f96871eb941287de8a54e15e592679473b8af7f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ec0645651539148cf9a5795c6f96871eb941287de8a54e15e592679473b8af7f"
-      }
+    "sha256": "61419de7970661f8c481975c35b50e7c1df0422db0c6400d1ce2c6ade35da9f0",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rev.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rev",
+    "book_verse_count": 405,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 20,
+    "path": "translations/fluent/NT/revelation/Revelation_01.md",
+    "before_sha256": "e18f70b41a3c18a0b3afd492110388477e6d1eed4278b009530acd919d783c23",
+    "after_sha256": "4ad72a3cc7aed1f0798e88279cf72839d0713a647ef59542b48a6158ef929deb",
+    "tsw_comparator_path": "books/NT/revelation/Revelation_01.md",
+    "tsw_comparator_sha256": "b7645f658028d10d042e9a1ddefd63e62c60720e8036f876e38428ce50e74ac7"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-revelation-1-22/revelation-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Revelation 1:1",
+      "delta": "F3",
+      "rationale": "Preserves the revelation-of relation, delegated disclosure and explicit slave language.",
+      "source_reference": "Rev 1:1",
+      "source_verse_sha256": "3f033f11063f3faf902c4a0c56366be044e9cd9bacb2c9fda36bfb3b0faa0641",
+      "before": "The revelation of Jesus Christ, which God gave to him to show to his servants what must soon take place. He made it known by sending his angel to his servant John,",
+      "after": "The revelation of Jesus Christ, which God gave him to show his slaves what must happen soon. He made it known by sending his angel to his slave John,",
+      "tsw_comparator": "The revelation of Jesus Christ, which God gave to him to show to his servants what must soon take place. He made it known by sending his angel to his servant John,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.852459,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:4",
+      "delta": "F3",
+      "rationale": "Keeps seven spirits and the unusual divine time formula without interpreting them away.",
+      "source_reference": "Rev 1:4",
+      "source_verse_sha256": "6c0821118fe82387a083ebea3d34bea654a91aa257fe4abb9434662667b55364",
+      "before": "John to the seven churches that are in Asia: Grace to you and peace from the one who is and who was and who is to come, and from the seven spirits who are before his throne,",
+      "after": "John, to the seven churches in Asia: grace and peace to you from the one who is and who was and who is coming, and from the seven spirits before his throne,",
+      "tsw_comparator": "John to the seven churches that are in Asia: Grace to you and peace from the one who is and who was and who is to come, and from the seven spirits who are before his throne,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84058,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:5",
+      "delta": "F3",
+      "rationale": "Follows freed rather than washed and preserves all three titles and the unfinished doxology.",
+      "source_reference": "Rev 1:5",
+      "source_verse_sha256": "1dcf57417fb241b65fad95dfab589e14095ba658fb01b450ed929df40021a19b",
+      "before": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To the one who loves us and has freed us from our sins by his blood,",
+      "after": "and from Jesus Christ, the faithful witness, the firstborn of the dead and the ruler of the kings of the earth. To the one who loves us and freed us from our sins by his blood—",
+      "tsw_comparator": "and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To the one who loves us and has freed us from our sins by his blood,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.986301,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:6",
+      "delta": "F3",
+      "rationale": "Keeps kingdom rather than kings and the relation his God and Father.",
+      "source_reference": "Rev 1:6",
+      "source_verse_sha256": "80eb0d8a584862aeeb0eb0befd998a48a9e9a7da3852605ceee6755260b32bca",
+      "before": "and made us a kingdom, priests to his God and Father—to him be glory and dominion forever and ever. Amen.",
+      "after": "and made us a kingdom, priests to his God and Father—to him be glory and power forever and ever. Amen.",
+      "tsw_comparator": "and made us a kingdom, priests to his God and Father—to him be glory and dominion forever and ever. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:8",
+      "delta": "F3",
+      "rationale": "Keeps the Greek letter names and exact divine title without an added beginning/end expansion.",
+      "source_reference": "Rev 1:8",
+      "source_verse_sha256": "afff7bf51a5a69b8baef55ca8e21765ceb6f31e7c8efac565a19e31371978026",
+      "before": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is to come, the Almighty.",
+      "after": "“I am the Alpha and the Omega,” says the Lord God, “the one who is and who was and who is coming, the Almighty.”",
+      "tsw_comparator": "“I am the Alpha and the Omega,” says the Lord God, the one who is and who was and who is to come, the Almighty.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.938776,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:9",
+      "delta": "F3",
+      "rationale": "Preserves the three shared realities and leaves because of and testimony of open.",
+      "source_reference": "Rev 1:9",
+      "source_verse_sha256": "18228e8acd66dea8f8abf9071e08eb4211efd028c84954dfde8973653e990e9e",
+      "before": "I, John, your brother and partner in the affliction and kingdom and endurance that are in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus.",
+      "after": "I, John, your brother and fellow participant in the suffering, kingdom and endurance in Jesus, was on the island called Patmos because of God's word and the testimony of Jesus.",
+      "tsw_comparator": "I, John, your brother and partner in the affliction and kingdom and endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:13",
+      "delta": "F3",
+      "rationale": "Keeps the son-of-man allusion, comparison and clothing details.",
+      "source_reference": "Rev 1:13",
+      "source_verse_sha256": "94b6797616a32e76da51d8f452a0c1fac7d30d18f460fc4e7affd4b2c2786549",
+      "before": "and among the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+      "after": "and among the lampstands, one like a son of man, dressed in a robe reaching to his feet, with a golden sash around his chest.",
+      "tsw_comparator": "and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:15",
+      "delta": "F3",
+      "rationale": "Retains the metal and water imagery with the uncertain alloy noted.",
+      "source_reference": "Rev 1:15",
+      "source_verse_sha256": "923e071ffe6b7363369f6aeefbdfead4c77594eb9bef5ac1088236c82c2f779d",
+      "before": "his feet were like burnished bronze, refined in a furnace, and his voice was like the sound of many waters.",
+      "after": "His feet were like burnished bronze, as though refined in a furnace, and his voice was like the sound of many waters.",
+      "tsw_comparator": "his feet were like burnished bronze, refined in a furnace, and his voice was like the sound of many waters.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.952381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:18",
+      "delta": "F3",
+      "rationale": "Keeps death and life together and distinguishes Hades from later lake-of-fire imagery.",
+      "source_reference": "Rev 1:18",
+      "source_verse_sha256": "9c199eeb797c3ead4e9cbec6046ca76f20df4e6ebe1ad57fba510f526f709a9c",
+      "before": "and the living one. I was dead, and look, I am alive forever and ever, and I have the keys of death and Hades.",
+      "after": "and the living one. I was dead, and look—I am alive forever and ever! I hold the keys of Death and Hades.",
+      "tsw_comparator": "and the living one. I was dead, and behold, I am alive forever and ever, and I have the keys of death and Hades.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.893617,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Revelation 1:20",
+      "delta": "F3",
+      "rationale": "Preserves the interpretation the vision itself supplies and leaves angels' identity unspecified.",
+      "source_reference": "Rev 1:20",
+      "source_verse_sha256": "2fe94260c7f87997235be46424730917b149a6be7e661651651c6b60ebd2bddc",
+      "before": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
+      "after": "As for the mystery of the seven stars you saw in my right hand and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are seven churches.”",
+      "tsw_comparator": "As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.972973,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/revelation/Revelation_01.md",
-    "blob_sha": "de0032edecde5472f89d26fe7b84c668f8c6089c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }
