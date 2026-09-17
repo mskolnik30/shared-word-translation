@@ -1,0 +1,2294 @@
+{
+  "scope": "Acts 7–14",
+  "verses": 325,
+  "summary": {
+    "before": {
+      "identical": 6,
+      "near_identical_nonidentical": 28,
+      "mean_word_similarity": 0.733111
+    },
+    "after": {
+      "identical": 5,
+      "near_identical_nonidentical": 17,
+      "mean_word_similarity": 0.708116
+    }
+  },
+  "rows": [
+    {
+      "reference": "Acts 7:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Acts 7:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "Acts 7:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 7:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.754098,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Acts 7:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.805556,
+      "after_similarity": 0.760563
+    },
+    {
+      "reference": "Acts 7:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.618182,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Acts 7:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.826087
+    },
+    {
+      "reference": "Acts 7:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.698413
+    },
+    {
+      "reference": "Acts 7:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Acts 7:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.793103
+    },
+    {
+      "reference": "Acts 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Acts 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Acts 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6875,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Acts 7:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.583333,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Acts 7:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.836364
+    },
+    {
+      "reference": "Acts 7:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Acts 7:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.695652,
+      "after_similarity": 0.32
+    },
+    {
+      "reference": "Acts 7:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Acts 7:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 7:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 7:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Acts 7:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Acts 7:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Acts 7:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.682927
+    },
+    {
+      "reference": "Acts 7:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.603774,
+      "after_similarity": 0.581818
+    },
+    {
+      "reference": "Acts 7:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.619048,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Acts 7:28",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.88,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Acts 7:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Acts 7:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.791667,
+      "after_similarity": 0.791667
+    },
+    {
+      "reference": "Acts 7:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Acts 7:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Acts 7:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Acts 7:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.835821,
+      "after_similarity": 0.865672
+    },
+    {
+      "reference": "Acts 7:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.805556,
+      "after_similarity": 0.816901
+    },
+    {
+      "reference": "Acts 7:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Acts 7:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Acts 7:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.911765,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Acts 7:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "Acts 7:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.52459,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Acts 7:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Acts 7:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.781609,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 7:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Acts 7:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Acts 7:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.655738,
+      "after_similarity": 0.677966
+    },
+    {
+      "reference": "Acts 7:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Acts 7:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Acts 7:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Acts 7:49",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.813559
+    },
+    {
+      "reference": "Acts 7:50",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Acts 7:51",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Acts 7:52",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.931034
+    },
+    {
+      "reference": "Acts 7:53",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Acts 7:54",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Acts 7:55",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Acts 7:56",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Acts 7:57",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Acts 7:58",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Acts 7:59",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Acts 7:60",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.641509,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Acts 8:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.626866,
+      "after_similarity": 0.584615
+    },
+    {
+      "reference": "Acts 8:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 8:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Acts 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Acts 8:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Acts 8:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "Acts 8:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.510638,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Acts 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Acts 8:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Acts 8:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Acts 8:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.810811,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Acts 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.703704,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Acts 8:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.538462,
+      "after_similarity": 0.415094
+    },
+    {
+      "reference": "Acts 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Acts 8:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.482759
+    },
+    {
+      "reference": "Acts 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Acts 8:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62069,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Acts 8:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.731707,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 8:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Acts 8:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Acts 8:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.772727
+    },
+    {
+      "reference": "Acts 8:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Acts 8:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.511628,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 8:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.528302,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "Acts 8:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.813559,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "Acts 8:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.735294,
+      "after_similarity": 0.676056
+    },
+    {
+      "reference": "Acts 8:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Acts 8:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.538462
+    },
+    {
+      "reference": "Acts 8:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Acts 8:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Acts 8:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.892308,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Acts 8:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.926829,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Acts 8:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Acts 8:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5625,
+      "after_similarity": 0.606061
+    },
+    {
+      "reference": "Acts 8:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Acts 8:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.681818,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Acts 8:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.852459,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Acts 8:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.64,
+      "after_similarity": 0.541667
+    },
+    {
+      "reference": "Acts 9:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Acts 9:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.766667,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Acts 9:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.594595,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Acts 9:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Acts 9:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 9:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.742857
+    },
+    {
+      "reference": "Acts 9:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Acts 9:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Acts 9:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Acts 9:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Acts 9:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.793651
+    },
+    {
+      "reference": "Acts 9:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Acts 9:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Acts 9:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Acts 9:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Acts 9:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Acts 9:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863158,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Acts 9:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Acts 9:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.333333
+    },
+    {
+      "reference": "Acts 9:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.482759,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Acts 9:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.394737
+    },
+    {
+      "reference": "Acts 9:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.478261
+    },
+    {
+      "reference": "Acts 9:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Acts 9:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.697674,
+      "after_similarity": 0.52381
+    },
+    {
+      "reference": "Acts 9:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Acts 9:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.703704,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Acts 9:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.716049,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 9:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.484848,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Acts 9:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Acts 9:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 9:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.738462
+    },
+    {
+      "reference": "Acts 9:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.421053,
+      "after_similarity": 0.421053
+    },
+    {
+      "reference": "Acts 9:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.772727,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "Acts 9:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Acts 9:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 9:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.816327,
+      "after_similarity": 0.638298
+    },
+    {
+      "reference": "Acts 9:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.52381
+    },
+    {
+      "reference": "Acts 9:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Acts 9:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.805195,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Acts 9:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.678571,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Acts 9:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.487805,
+      "after_similarity": 0.380952
+    },
+    {
+      "reference": "Acts 9:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Acts 9:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Acts 10:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Acts 10:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Acts 10:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.893617,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Acts 10:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.825397,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Acts 10:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Acts 10:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Acts 10:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Acts 10:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Acts 10:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.73913,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Acts 10:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Acts 10:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Acts 10:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Acts 10:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.695652
+    },
+    {
+      "reference": "Acts 10:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 10:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.974359,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Acts 10:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Acts 10:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.576271
+    },
+    {
+      "reference": "Acts 10:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Acts 10:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Acts 10:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Acts 10:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.826087,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Acts 10:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.813187,
+      "after_similarity": 0.813953
+    },
+    {
+      "reference": "Acts 10:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711864,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Acts 10:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Acts 10:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Acts 10:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Acts 10:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.56
+    },
+    {
+      "reference": "Acts 10:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864198,
+      "after_similarity": 0.649351
+    },
+    {
+      "reference": "Acts 10:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Acts 10:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Acts 10:31",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Acts 10:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.92,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Acts 10:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.71875,
+      "after_similarity": 0.686567
+    },
+    {
+      "reference": "Acts 10:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.428571,
+      "after_similarity": 0.344828
+    },
+    {
+      "reference": "Acts 10:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.606061,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Acts 10:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Acts 10:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Acts 10:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.90625
+    },
+    {
+      "reference": "Acts 10:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Acts 10:40",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Acts 10:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.716981
+    },
+    {
+      "reference": "Acts 10:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.962963,
+      "after_similarity": 0.962963
+    },
+    {
+      "reference": "Acts 10:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Acts 10:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Acts 10:45",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Acts 10:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "Acts 10:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "Acts 10:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Acts 11:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.878049
+    },
+    {
+      "reference": "Acts 11:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "Acts 11:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.64,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Acts 11:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.421053,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Acts 11:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821918,
+      "after_similarity": 0.821918
+    },
+    {
+      "reference": "Acts 11:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Acts 11:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 11:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 11:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Acts 11:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Acts 11:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.390244,
+      "after_similarity": 0.358974
+    },
+    {
+      "reference": "Acts 11:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Acts 11:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.90566
+    },
+    {
+      "reference": "Acts 11:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Acts 11:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Acts 11:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Acts 11:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.618182,
+      "after_similarity": 0.618182
+    },
+    {
+      "reference": "Acts 11:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.583333,
+      "after_similarity": 0.478261
+    },
+    {
+      "reference": "Acts 11:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711864,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Acts 11:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.821429,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Acts 11:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Acts 11:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.634146
+    },
+    {
+      "reference": "Acts 11:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.553191,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Acts 11:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Acts 11:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Acts 11:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Acts 11:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 11:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830769,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 11:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 11:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "Acts 12:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.516129,
+      "after_similarity": 0.424242
+    },
+    {
+      "reference": "Acts 12:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Acts 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.530612,
+      "after_similarity": 0.367347
+    },
+    {
+      "reference": "Acts 12:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.610169
+    },
+    {
+      "reference": "Acts 12:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.486486,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "Acts 12:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711864,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Acts 12:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.647887,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Acts 12:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.596491,
+      "after_similarity": 0.607143
+    },
+    {
+      "reference": "Acts 12:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Acts 12:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.658228
+    },
+    {
+      "reference": "Acts 12:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Acts 12:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.745098
+    },
+    {
+      "reference": "Acts 12:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Acts 12:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.679245,
+      "after_similarity": 0.52
+    },
+    {
+      "reference": "Acts 12:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Acts 12:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.518519,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Acts 12:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72093,
+      "after_similarity": 0.650602
+    },
+    {
+      "reference": "Acts 12:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.702703,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Acts 12:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "Acts 12:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.567901
+    },
+    {
+      "reference": "Acts 12:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.590909,
+      "after_similarity": 0.418605
+    },
+    {
+      "reference": "Acts 12:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Acts 12:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.76,
+      "after_similarity": 0.76
+    },
+    {
+      "reference": "Acts 12:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.352941,
+      "after_similarity": 0.631579
+    },
+    {
+      "reference": "Acts 12:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 13:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Acts 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Acts 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 13:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Acts 13:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.488889,
+      "after_similarity": 0.723404
+    },
+    {
+      "reference": "Acts 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.54902,
+      "after_similarity": 0.509804
+    },
+    {
+      "reference": "Acts 13:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "Acts 13:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Acts 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Acts 13:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.677966,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 13:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.697674,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Acts 13:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Acts 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.73913,
+      "after_similarity": 0.73913
+    },
+    {
+      "reference": "Acts 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.619048,
+      "after_similarity": 0.55814
+    },
+    {
+      "reference": "Acts 13:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.766667,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Acts 13:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Acts 13:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.677419
+    },
+    {
+      "reference": "Acts 13:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.96,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Acts 13:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Acts 13:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.722222,
+      "after_similarity": 0.457143
+    },
+    {
+      "reference": "Acts 13:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Acts 13:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.619718,
+      "after_similarity": 0.611111
+    },
+    {
+      "reference": "Acts 13:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Acts 13:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Acts 13:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.739726
+    },
+    {
+      "reference": "Acts 13:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.734694,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Acts 13:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.596491,
+      "after_similarity": 0.535714
+    },
+    {
+      "reference": "Acts 13:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.516129,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Acts 13:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.652174,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Acts 13:30",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Acts 13:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.961538
+    },
+    {
+      "reference": "Acts 13:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.758621,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Acts 13:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Acts 13:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.677966,
+      "after_similarity": 0.655172
+    },
+    {
+      "reference": "Acts 13:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.8125
+    },
+    {
+      "reference": "Acts 13:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.439024,
+      "after_similarity": 0.604651
+    },
+    {
+      "reference": "Acts 13:37",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Acts 13:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.628571
+    },
+    {
+      "reference": "Acts 13:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.44898,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "Acts 13:40",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.428571,
+      "after_similarity": 0.428571
+    },
+    {
+      "reference": "Acts 13:41",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.733333,
+      "after_similarity": 0.813559
+    },
+    {
+      "reference": "Acts 13:42",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.3,
+      "after_similarity": 0.3
+    },
+    {
+      "reference": "Acts 13:43",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.557377,
+      "after_similarity": 0.542373
+    },
+    {
+      "reference": "Acts 13:44",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Acts 13:45",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.52381,
+      "after_similarity": 0.465116
+    },
+    {
+      "reference": "Acts 13:46",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.746667,
+      "after_similarity": 0.746667
+    },
+    {
+      "reference": "Acts 13:47",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.724138
+    },
+    {
+      "reference": "Acts 13:48",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.553191,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Acts 13:49",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Acts 13:50",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.698413
+    },
+    {
+      "reference": "Acts 13:51",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.774194
+    },
+    {
+      "reference": "Acts 13:52",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.956522,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Acts 14:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.581818,
+      "after_similarity": 0.528302
+    },
+    {
+      "reference": "Acts 14:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Acts 14:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.730159,
+      "after_similarity": 0.655738
+    },
+    {
+      "reference": "Acts 14:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.594595,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Acts 14:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.540541
+    },
+    {
+      "reference": "Acts 14:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.717949,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Acts 14:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Acts 14:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.595745,
+      "after_similarity": 0.595745
+    },
+    {
+      "reference": "Acts 14:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.564103,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 14:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.545455,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Acts 14:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.784314
+    },
+    {
+      "reference": "Acts 14:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Acts 14:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.603774
+    },
+    {
+      "reference": "Acts 14:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Acts 14:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.610526
+    },
+    {
+      "reference": "Acts 14:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Acts 14:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763636,
+      "after_similarity": 0.830189
+    },
+    {
+      "reference": "Acts 14:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.518519,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Acts 14:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Acts 14:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Acts 14:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.711111
+    },
+    {
+      "reference": "Acts 14:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.541667,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Acts 14:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.782609
+    },
+    {
+      "reference": "Acts 14:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.588235,
+      "after_similarity": 0.588235
+    },
+    {
+      "reference": "Acts 14:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Acts 14:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.765957,
+      "after_similarity": 0.765957
+    },
+    {
+      "reference": "Acts 14:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.654545,
+      "after_similarity": 0.690909
+    },
+    {
+      "reference": "Acts 14:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.526316
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

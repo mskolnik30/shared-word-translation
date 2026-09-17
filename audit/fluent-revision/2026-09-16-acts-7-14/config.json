@@ -1,0 +1,154 @@
+{
+  "parent_commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+  "parent_library_version": 89,
+  "book": "Acts",
+  "slug": "acts",
+  "chapters": [7, 8, 9, 10, 11, 12, 13, 14],
+  "scope": "Acts 7–14",
+  "expected_verses": 325,
+  "batch_scope": "Acts 7–14",
+  "batch_chapters": 8,
+  "batch_verses": 325,
+  "batch_reader_filename": "Fluent-Acts-7-14.md",
+  "batch_ledgers": ["audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json"],
+  "active_block_ranges": [
+    {"slug": "john", "start": 6, "end": 21},
+    {"slug": "acts", "start": 1, "end": 14}
+  ],
+  "source_filename": "acts-pinned-greek.txt",
+  "book_record_files": ["ACTS_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "Acts 15–28; Romans 1–6",
+  "completed_block_scope": "John 6–21; Acts 1–14",
+  "source_omissions": {"8": [37]},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": ["7:5", "7:6", "7:7", "7:8", "7:14", "7:16", "7:19", "7:20", "7:23", "7:25", "7:30", "7:34", "7:35", "7:38", "7:42", "7:43", "7:45", "7:46", "7:48", "7:51", "7:52", "7:53", "7:58", "7:60", "8:1", "8:3", "8:7", "8:10", "8:12", "8:16", "8:20", "8:22", "8:23", "8:27", "8:32", "8:33", "8:36", "8:38", "8:39", "9:1", "9:2", "9:7", "9:12", "9:15", "9:16", "9:17", "9:18", "9:25", "9:30", "9:31", "9:33", "9:36", "9:39", "9:40", "10:2", "10:4", "10:11", "10:12", "10:14", "10:15", "10:20", "10:22", "10:25", "10:28", "10:30", "10:34", "10:35", "10:36", "10:38", "10:39", "10:41", "10:43", "10:45", "10:47", "11:3", "11:8", "11:12", "11:14", "11:17", "11:18", "11:20", "11:23", "11:26", "11:28", "11:29", "12:2", "12:4", "12:7", "12:10", "12:11", "12:13", "12:15", "12:17", "12:19", "12:20", "12:23", "12:25", "13:1", "13:2", "13:6", "13:8", "13:10", "13:11", "13:13", "13:18", "13:20", "13:22", "13:25", "13:26", "13:27", "13:29", "13:33", "13:34", "13:36", "13:38", "13:39", "13:41", "13:43", "13:45", "13:46", "13:47", "13:48", "13:50", "13:51", "14:2", "14:3", "14:5", "14:8", "14:9", "14:10", "14:13", "14:15", "14:17", "14:19", "14:22", "14:23", "14:27"],
+  "focused_extra_references": [],
+  "apparatus": {
+    "7": {
+      "notes": [
+        ["14", "Stephen gives the family total as seventy-five, following the Greek form of the ancestral story. The translation does not harmonize this with the Hebrew total of seventy."],
+        ["16", "Stephen compresses details associated with the ancestral burials and the purchase at Shechem. The translation follows his speech rather than silently reconciling it with Genesis."],
+        ["38", "The word translated ‘assembly’ is the same term often rendered ‘church’; here it refers to Israel gathered in the wilderness."],
+        ["43", "Moloch and Rephan are names in Stephen’s quotation of the prophets. The exact ancient identifications are not explained in the main text."],
+        ["51", "‘Uncircumcised in heart and ears’ is a prophetic image for stubborn resistance, not a statement about physical disability."]
+      ],
+      "vocabulary": [
+        ["08", "διαθήκη (diathēkē)", "Covenant, an established binding relationship or arrangement."],
+        ["35", "λυτρωτής (lytrōtēs)", "Redeemer or liberator, one who brings release."],
+        ["38", "λόγια (logia)", "Divine sayings or oracles."]
+      ]
+    },
+    "8": {
+      "notes": [
+        ["09–24", "Simon’s belief and baptism are narrated, but Peter exposes his attempt to buy divine authority. The account does not invite readers to treat the Spirit as a commodity."],
+        ["23", "The Greek uses the vivid images ‘gall of bitterness’ and ‘bond of injustice.’ The main text communicates their moral force without turning them into a medical diagnosis."],
+        ["27", "The traveler is both an Ethiopian court official and a eunuch. The translation preserves these identities rather than reducing him to his occupation."],
+        ["37", "Verse 37 is absent from the pinned Greek text, so the public verse numbering moves from 36 to 38."]
+      ],
+      "vocabulary": [
+        ["05", "χριστός (christos)", "Messiah or Anointed One."],
+        ["20", "δωρεά (dōrea)", "Gift, especially something freely bestowed."],
+        ["27", "εὐνοῦχος (eunouchos)", "Eunuch; a man whose embodied and social status could be associated with royal service."]
+      ]
+    },
+    "9": {
+      "notes": [
+        ["02", "‘The Way’ is an early name for the Jesus-following movement. Both men and women are explicit targets of Saul’s arrests."],
+        ["07", "The companions hear the voice but see no one. Later retellings emphasize different aspects of what they perceived; this verse is translated on its own terms."],
+        ["15–16", "Saul is chosen to carry Jesus’ name to Gentiles, kings, and Israel, and he is also told that this mission will involve suffering."],
+        ["36", "Tabitha is Aramaic and Dorcas Greek; both names mean gazelle. She is explicitly called a female disciple."],
+        ["39", "The widows’ tunics and garments make Dorcas’s care materially visible rather than merely describing her as kind."]
+      ],
+      "vocabulary": [
+        ["02", "ὁδός (hodos)", "Way, road, or manner of life; here a name for the early movement."],
+        ["15", "σκεῦος ἐκλογῆς (skeuos eklogēs)", "A chosen instrument or vessel."],
+        ["27", "παρρησιάζομαι (parrēsiazomai)", "Speak openly, freely, or boldly."]
+      ]
+    },
+    "10": {
+      "notes": [
+        ["01", "A centurion ordinarily commanded about one hundred soldiers; the Italian Cohort identifies Cornelius’s military unit."],
+        ["14–15", "Peter’s vision uses food categories, but Peter later states its human implication: he must not call any person defiled or unclean."],
+        ["28", "Peter describes a serious inherited boundary around association with foreigners, then explicitly attributes its overturning to God."],
+        ["34–35", "God’s impartiality is expressed in welcome across nations. The lines do not claim that human merit purchases grace."],
+        ["45–48", "The Spirit is poured out before these Gentile hearers are baptized in water, removing the circumcised believers’ stated reason to withhold baptism."]
+      ],
+      "vocabulary": [
+        ["34", "προσωπολήμπτης (prosōpolēmptēs)", "One who shows partiality or judges by status."],
+        ["36", "εἰρήνη (eirēnē)", "Peace, wholeness, and restored well-being."],
+        ["43", "ἄφεσις (aphesis)", "Release or forgiveness."]
+      ]
+    },
+    "11": {
+      "notes": [
+        ["02–03", "The criticism centers on Peter entering the homes of uncircumcised men and eating with them, not merely on his preaching."],
+        ["12", "Peter says the Spirit told him to go without ‘making distinctions.’ Six fellow believers accompany him as witnesses."],
+        ["17", "Peter’s question frames resistance to the Gentiles’ reception of the Spirit as standing in God’s way."],
+        ["20", "The pinned text reads ‘Greek-speaking people,’ a form that can refer to Hellenists; the note does not silently substitute a different textual reading."],
+        ["28–30", "The anticipated famine leads the disciples to concrete, ability-based relief for believers in Judea."]
+      ],
+      "vocabulary": [
+        ["18", "μετάνοια (metanoia)", "Repentance, a changed mind and direction."],
+        ["23", "χάρις (charis)", "Grace or favor freely given."],
+        ["26", "Χριστιανός (Christianos)", "Christian, a person identified with Christ."]
+      ]
+    },
+    "12": {
+      "notes": [
+        ["02", "Herod has James killed with the sword. The narrative states the political violence plainly."],
+        ["04", "Four squads of four soldiers underline the security around Peter; ‘Passover’ is the festival setting, not a Christian Easter observance."],
+        ["15", "‘His angel’ is the gathered group’s proposed explanation. The narrator reports it without endorsing a complete theory of guardian angels."],
+        ["19", "The guards’ removal follows an official examination and carries the threat of execution. The translation names the lethal consequence."],
+        ["23", "Herod’s death is described graphically as being eaten by worms. The harm is retained without embellishment."]
+      ],
+      "vocabulary": [
+        ["04", "πάσχα (pascha)", "Passover, the festival remembering Israel’s deliverance from Egypt."],
+        ["05", "ἐκτενῶς (ektenōs)", "Earnestly, fervently, or with sustained intensity."],
+        ["20", "κοιτών (koitōn)", "Bedchamber; by extension, a trusted royal chamberlain or household official."]
+      ]
+    },
+    "13": {
+      "notes": [
+        ["01", "Manaen’s description indicates that he was raised with or closely associated with Herod the tetrarch; the precise social arrangement is uncertain."],
+        ["18", "The pinned Greek supports ‘put up with them,’ a difficult description of God’s patience in the wilderness. A closely related textual form can mean ‘carried them.’"],
+        ["19–20", "The syntax places the approximately 450 years with the preceding sequence before the judges. The main text makes that punctuation choice visible rather than disguising it."],
+        ["33", "The psalm’s ‘today I have begotten you’ retains a royal birth image. Paul uses the quotation here while announcing God’s fulfillment in raising up Jesus."],
+        ["48", "‘Appointed to eternal life’ is retained without adding an explanation of how divine appointment and human response relate."]
+      ],
+      "vocabulary": [
+        ["07", "ἀνθύπατος (anthypatos)", "Proconsul, a Roman provincial governor."],
+        ["22", "θέλημα (thelēma)", "Will, desire, or purpose."],
+        ["39", "δικαιόω (dikaioō)", "Declare or set right; justify."]
+      ]
+    },
+    "14": {
+      "notes": [
+        ["08", "The man’s inability to walk is lifelong, from birth. Person-first language preserves his humanity without hiding the condition."],
+        ["12–15", "The crowd identifies Barnabas with Zeus and Paul with Hermes. The apostles reject the honor and insist on their shared humanity."],
+        ["17", "Rain, fruitful seasons, food, and joy are named as God’s witness in ordinary provision."],
+        ["19–20", "The crowd stones Paul and drags him outside the city believing him dead. The narrative records severe collective violence without stating explicitly that he died."],
+        ["22", "Entry into God’s kingdom through many troubles describes the disciples’ costly path; it does not call the violence against them good."]
+      ],
+      "vocabulary": [
+        ["15", "ματαῖος (mataios)", "Empty, futile, or worthless; here describing idols and their worship."],
+        ["22", "θλῖψις (thlipsis)", "Pressure, trouble, affliction, or persecution."],
+        ["23", "πρεσβύτερος (presbyteros)", "Elder, a recognized leader in a local church."]
+      ]
+    }
+  }
+}

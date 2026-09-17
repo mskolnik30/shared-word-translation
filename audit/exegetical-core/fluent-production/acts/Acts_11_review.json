@@ -2,232 +2,194 @@
   "book": "Acts",
   "chapter": 11,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 30,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_11.md",
-    "blob_sha": "b2812aac948b9ed3ffa3d670532da09ba7d0305a"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_11_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 11:1",
-        "source_chapter": 11,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "31ecc7492653bdbc287d6fe7f904518a0611992d0089e3bb646a968894803a3d"
-      },
-      "2": {
-        "source_ref": "Acts 11:2",
-        "source_chapter": 11,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "e988f1b41d69cff8286862b49349f8bfb95beaab68a4676b1f931b7ce077d924"
-      },
-      "3": {
-        "source_ref": "Acts 11:3",
-        "source_chapter": 11,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "e616b1ae7260598bd60e1ecdcc1df6629f302aff7c60f9aae13192c1fb3a9476"
-      },
-      "4": {
-        "source_ref": "Acts 11:4",
-        "source_chapter": 11,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "a656fd1104dd5071f9d54a971220aaf47075d617a37ad49bd34f92536044ef51"
-      },
-      "5": {
-        "source_ref": "Acts 11:5",
-        "source_chapter": 11,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "70aefc464f291c1fdf7284ea373faf873ae5afd08b8f18cfd50ccc1f9ec19b17"
-      },
-      "6": {
-        "source_ref": "Acts 11:6",
-        "source_chapter": 11,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "db52c6e926684a927f56061329a6de4102ff3dfdce9b4528d3112a8f65e256f3"
-      },
-      "7": {
-        "source_ref": "Acts 11:7",
-        "source_chapter": 11,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "9c4060fbdc2df1de48c25d0615d7dcfadfeb11c10e1fd4b18ccd412f50d4f7cc"
-      },
-      "8": {
-        "source_ref": "Acts 11:8",
-        "source_chapter": 11,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "89f82b0fbf9b41c26a818b3d3136ff576190db54ed5675bcd509759e0b77ac7a"
-      },
-      "9": {
-        "source_ref": "Acts 11:9",
-        "source_chapter": 11,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "d40d2432f565ca62e77378d514074493e19ff5b3c6d6ac464bcb87f81edee145"
-      },
-      "10": {
-        "source_ref": "Acts 11:10",
-        "source_chapter": 11,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "4990902b616cbea13cd8480b44efb8565dcd7c64a61e6251bf176a4cf95812bb"
-      },
-      "11": {
-        "source_ref": "Acts 11:11",
-        "source_chapter": 11,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "a67c6f59de85e6193d7a0bfc0c34c0f8b4f3d7351e80c774955011035d5e0246"
-      },
-      "12": {
-        "source_ref": "Acts 11:12",
-        "source_chapter": 11,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ed191a370c178107be843b90f6c062d497b7a96355a1a46b366342e10330be91"
-      },
-      "13": {
-        "source_ref": "Acts 11:13",
-        "source_chapter": 11,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "2a622d5fcc5804e4fd50b307cef952cbdeb096e2d73875f6ff31b7fed411f283"
-      },
-      "14": {
-        "source_ref": "Acts 11:14",
-        "source_chapter": 11,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "7995355afc03206dfca0b49ad0a0bd2af360ce138b46fca826fbff8f421b008e"
-      },
-      "15": {
-        "source_ref": "Acts 11:15",
-        "source_chapter": 11,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "794e877bb32ef9859169d9fcdad02667b094077d9d6d617bc901db2ec27af7b1"
-      },
-      "16": {
-        "source_ref": "Acts 11:16",
-        "source_chapter": 11,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "a1e737a916f4163a0f0e315b0e389ca6828c41a30562eff28478f35478105ab1"
-      },
-      "17": {
-        "source_ref": "Acts 11:17",
-        "source_chapter": 11,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "e0a1f559beb4f903ceff6c1c3ff3095e065ac46a27cc071ad2319e2d0132c067"
-      },
-      "18": {
-        "source_ref": "Acts 11:18",
-        "source_chapter": 11,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "98659a23966790d345fb36443a0f5ce1bea44a4f09f8748820565b00bc0b843a"
-      },
-      "19": {
-        "source_ref": "Acts 11:19",
-        "source_chapter": 11,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "c7090c425b2d62793ea53c3e95e5ecbebdf20e5f7c90cd2aa0c2522102a6f5e7"
-      },
-      "20": {
-        "source_ref": "Acts 11:20",
-        "source_chapter": 11,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "22a358e0d2e43f9b53e91bb54026c9b35b9c36378e5dc13925c38daf7e53968d"
-      },
-      "21": {
-        "source_ref": "Acts 11:21",
-        "source_chapter": 11,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "f21e00cd216bab852ce2bf8230b5f656635680e598546af8c95caaef3fa55e47"
-      },
-      "22": {
-        "source_ref": "Acts 11:22",
-        "source_chapter": 11,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "a8c188fd88ca8b93261f4e9cdc12caca29a1f450c73c7966532571ab08138b14"
-      },
-      "23": {
-        "source_ref": "Acts 11:23",
-        "source_chapter": 11,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "7ce07db8270ccac402c8e3de7c45b9eaef6d5855a680ec32ed238232d0a6a3fe"
-      },
-      "24": {
-        "source_ref": "Acts 11:24",
-        "source_chapter": 11,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "64b25fffca12d70d2a66c76c9a311d6e5df445200af024c8df0dec34f8a5edab"
-      },
-      "25": {
-        "source_ref": "Acts 11:25",
-        "source_chapter": 11,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "d8583b9be72d35c7fbc5c7ca281f17e8528fdb58738f2b92e19893f38fc46dd7"
-      },
-      "26": {
-        "source_ref": "Acts 11:26",
-        "source_chapter": 11,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "d8083ea08835a515473efc4de72e6d82bfc9d29ad50ad3bb8402ed8abda9a232"
-      },
-      "27": {
-        "source_ref": "Acts 11:27",
-        "source_chapter": 11,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "fc844e22cb454f0ad709c688265965600a676464a195bcd99401146613831ab6"
-      },
-      "28": {
-        "source_ref": "Acts 11:28",
-        "source_chapter": 11,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "4a46dec1c5078187f4bdd894377f12b3ec16745813ec3be559146de52789688c"
-      },
-      "29": {
-        "source_ref": "Acts 11:29",
-        "source_chapter": 11,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "5dcbae8bf9836e57d9c17f03ac4bb13a8d5214058898d0cfd34eeb128a5a3936"
-      },
-      "30": {
-        "source_ref": "Acts 11:30",
-        "source_chapter": 11,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "04ac874c285a34ceec7caf2c774ce838681815e49cf70914ec2ecb5600479da0"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 11,
+    "verse_count": 30,
+    "path": "translations/fluent/NT/acts/Acts_11.md",
+    "before_sha256": "7d7a19e86bb6a5ff6f5aeeedd0699272406dd0d942fedd85ea79cbbd5c442313",
+    "after_sha256": "7eb5d4cd1856a116a4c8d00b503783de85eacf07f820313fd26db39a4c86d895",
+    "tsw_comparator_path": "books/NT/acts/Acts_11.md",
+    "tsw_comparator_sha256": "b682d1ebcd4decf2e79a953e3362527b383488aee22b325367aabf4b132b1ce2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 11:3",
+      "delta": "F3",
+      "rationale": "Preserves accusation, boundary crossing, male hosts, and shared table.",
+      "source_reference": "Acts 11:3",
+      "source_verse_sha256": "583e2d8d257c67f35036d8b068af30a63bff339bd6862a691f3be3749d680c87",
+      "before": "saying, “You went into the house of uncircumcised men and ate with them.”",
+      "after": "saying, “You went into the homes of uncircumcised men and ate with them!”",
+      "tsw_comparator": "saying, “You went in to men having uncircumcision and ate with them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:8",
+      "delta": "F3",
+      "rationale": "Keeps emphatic refusal, paired purity terms, and lifelong claim.",
+      "source_reference": "Acts 11:8",
+      "source_verse_sha256": "9f64ed5e44d79478ba04fbf011f1ee22d348448ee569a8cebed212a7b2533d3f",
+      "before": "But I said, ‘Certainly not, Lord! Nothing common or unclean has ever entered my mouth.’",
+      "after": "But I said, ‘Certainly not, Lord! Nothing defiled or unclean has ever entered my mouth.’",
+      "tsw_comparator": "But I said, ‘By no means, Lord; for nothing common or unclean has ever entered into my mouth.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:12",
+      "delta": "F3",
+      "rationale": "Keeps Spirit direction, non-discrimination, exact number of witnesses, and boundary crossing.",
+      "source_reference": "Acts 11:12",
+      "source_verse_sha256": "2eaf199efe9841195f8fd9a9b9a9488c9eae275bd15fe1124bf9677f7abe1060",
+      "before": "The Spirit told me to go with them without making distinctions. These six brothers also went with me, and we entered the man’s house.",
+      "after": "The Spirit told me to go with them without making distinctions. These six brothers also went with me, and we entered the man’s house.",
+      "tsw_comparator": "And the Spirit told me to go with them, making no distinction. And these six brothers also went with me, and we entered into the man’s house.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:14",
+      "delta": "F3",
+      "rationale": "Keeps verbal means and household scope of salvation.",
+      "source_reference": "Acts 11:14",
+      "source_verse_sha256": "fbd25aff815fef563fe3de30a1d370173dd7be7be0852d763ba2f7d45e5a3765",
+      "before": "He will speak words to you by which you and your whole household will be saved.’",
+      "after": "He will speak words by which you and your whole household will be saved.’",
+      "tsw_comparator": "who will speak words to you by which you will be saved, you and all your household.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.580645,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:17",
+      "delta": "F3",
+      "rationale": "Preserves equal gift, common faith, divine agency, and rhetorical humility.",
+      "source_reference": "Acts 11:17",
+      "source_verse_sha256": "6b613e53e5c0860b924d052eb7b916634a387fa41ce1a9398890ec3ec586f6ed",
+      "before": "Therefore, if God gave them the same gift he gave us when we trusted in the Lord Jesus Christ, who was I to stand in God’s way?”",
+      "after": "So if God gave them the same gift he gave us when we believed in the Lord Jesus Christ, who was I to stand in God’s way?”",
+      "tsw_comparator": "Therefore if God gave to them the same gift as also to us who believed in the Lord Jesus Christ, who was I that I could hinder God?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.618182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:18",
+      "delta": "F3",
+      "rationale": "Keeps changed response, worship, Gentile inclusion, repentance, and life.",
+      "source_reference": "Acts 11:18",
+      "source_verse_sha256": "fda81c7de634ba415c6a1f10fe2c879206c2abef8368fc1c63cb3c152458a99a",
+      "before": "When they heard these things, they became quiet and glorified God, saying, “Then God has granted even to the Gentiles repentance that leads to life.”",
+      "after": "When they heard this, they stopped objecting and glorified God, saying, “Then God has granted even the Gentiles repentance that leads to life.”",
+      "tsw_comparator": "And hearing these things, they became silent, and they glorified God, saying, “Then to the Gentiles also God has granted repentance unto life.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.478261,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:20",
+      "delta": "F3",
+      "rationale": "Retains male agents, origins, destination, pinned Greek audience term, and message.",
+      "source_reference": "Acts 11:20",
+      "source_verse_sha256": "fb9483fda64ff7541fc75ef619dce0b0c2809e656225394b9c8b19238b8a1d0e",
+      "before": "But some of them, men from Cyprus and Cyrene, came to Antioch and began speaking also to Greeks, announcing the good news of the Lord Jesus.",
+      "after": "But some of them, men from Cyprus and Cyrene, came to Antioch and also spoke to Greek-speaking people, proclaiming the good news about the Lord Jesus.",
+      "tsw_comparator": "But there were some of them, men of Cyprus and Cyrene, who came to Antioch and were speaking also to the Greeks, proclaiming the good news of the Lord Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:23",
+      "delta": "F3",
+      "rationale": "Keeps sight of grace, joy, inclusive exhortation, and heart purpose.",
+      "source_reference": "Acts 11:23",
+      "source_verse_sha256": "d759514a3e016865e4fc384be0bfdd67b92f6d3b11ff216a09078427bd5788f4",
+      "before": "When he arrived and saw God’s grace, he rejoiced and encouraged everyone to remain faithful to the Lord with steadfast purpose of heart.",
+      "after": "When he arrived and saw God’s grace, he rejoiced and encouraged everyone to remain devoted to the Lord with steadfast hearts.",
+      "tsw_comparator": "who, coming and seeing the grace of God, rejoiced and was encouraging them all to remain with the Lord with steadfast purpose of heart,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.444444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:26",
+      "delta": "F3",
+      "rationale": "Preserves finding, movement, exact year, teaching, crowd, location, and first naming.",
+      "source_reference": "Acts 11:26",
+      "source_verse_sha256": "fdf6af5b82234b53ba7cba11ed768ccd6c6063520f2a5b7061c902f95872b722",
+      "before": "and when he found him, he brought him to Antioch. For a whole year they met with the church and taught a considerable crowd. It was in Antioch that the disciples were first called Christians.",
+      "after": "and when he found him, he brought him to Antioch. For a whole year they met with the church and taught a large crowd. It was in Antioch that the disciples were first called Christians.",
+      "tsw_comparator": "and finding him, he brought him to Antioch. And it happened that for a whole year they were gathered together in the church and taught a considerable crowd; and in Antioch the disciples were first called Christians.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:28",
+      "delta": "F3",
+      "rationale": "Preserves name, Spirit agency, famine severity and scope, and imperial timing.",
+      "source_reference": "Acts 11:28",
+      "source_verse_sha256": "00ea4e9994f2a51848aa9578f0ac7e0058e3e40dfe0b929f5d55b303daedadc4",
+      "before": "One of them, named Agabus, stood up and indicated through the Spirit that a severe famine was about to come over the whole inhabited world. This happened during the reign of Claudius.",
+      "after": "One of them, named Agabus, stood up and indicated through the Spirit that a severe famine would come over the whole inhabited world. This happened during the reign of Claudius.",
+      "tsw_comparator": "And one of them named Agabus stood up and signified through the Spirit that a great famine was about to come over the whole inhabited world—which happened in the days of Claudius.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 11:29",
+      "delta": "F3",
+      "rationale": "Keeps individual ability, deliberate aid, inclusive community, and destination.",
+      "source_reference": "Acts 11:29",
+      "source_verse_sha256": "a70ea89b4546cb34174df008cc2befcae6614da87bfccd8b04243d934f6e204d",
+      "before": "So the disciples decided, each according to their ability, to send relief to the brothers and sisters living in Judea.",
+      "after": "So each of the disciples, according to their means, decided to send relief to the brothers and sisters living in Judea.",
+      "tsw_comparator": "So the disciples, each according to his ability, determined to send relief to the brothers dwelling in Judea;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

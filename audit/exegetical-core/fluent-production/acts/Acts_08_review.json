@@ -2,295 +2,254 @@
   "book": "Acts",
   "chapter": 8,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 39,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_08.md",
-    "blob_sha": "db063e65d18320ea676d74b5ee59cf3604394636"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_08_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 8:1",
-        "source_chapter": 8,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "894537aad352c89ac81c5e27d98f976f9b8c5b5e99d53707ccf1789ef35e8fb1"
-      },
-      "2": {
-        "source_ref": "Acts 8:2",
-        "source_chapter": 8,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "e99be877e1bd7c6bd2c762480cb9adf0b0d88f2509b00fe252d589559c99ddab"
-      },
-      "3": {
-        "source_ref": "Acts 8:3",
-        "source_chapter": 8,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "f90a0422206ac2cc6ee35f661d0df3a675aad87fdb7e294e8868937c962ca34a"
-      },
-      "4": {
-        "source_ref": "Acts 8:4",
-        "source_chapter": 8,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "96556c3ce9a070ada9f696e18884fbf9eee81b4139b63bcc7571106c477087c9"
-      },
-      "5": {
-        "source_ref": "Acts 8:5",
-        "source_chapter": 8,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "41fce143c1889c7615b304cab025468502e05b36d217508fcec5eb336b52d94a"
-      },
-      "6": {
-        "source_ref": "Acts 8:6",
-        "source_chapter": 8,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "c2edcbae7a66f42124fbe1a991f497a4850294e0d7514f9ba8d4507313fbdf96"
-      },
-      "7": {
-        "source_ref": "Acts 8:7",
-        "source_chapter": 8,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "17499334a79d1e0456c06bd85c98fc4aecabb7b9791b25c2fb645ac5ee7ce7ca"
-      },
-      "8": {
-        "source_ref": "Acts 8:8",
-        "source_chapter": 8,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "a9d40057281170bd6b403517b19cc45607271022d4d86ccecc08de9505167cf3"
-      },
-      "9": {
-        "source_ref": "Acts 8:9",
-        "source_chapter": 8,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "91b6c0e6f0c51a9af8e8463e48968617ecaa30a9b2ebd3fa717da84282d0990e"
-      },
-      "10": {
-        "source_ref": "Acts 8:10",
-        "source_chapter": 8,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "8e3a9c18a8537527c1d450233f337ae139d7b861d4dd46791a9322ade902955b"
-      },
-      "11": {
-        "source_ref": "Acts 8:11",
-        "source_chapter": 8,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "2011121141c228bf2236149a3112bc3aff7db29b8610c56b05e11e7ce66ef43f"
-      },
-      "12": {
-        "source_ref": "Acts 8:12",
-        "source_chapter": 8,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "7d45eb6c6623fe69e9e22de94a033a8ef4e308193a90703549be3c222a3a00f6"
-      },
-      "13": {
-        "source_ref": "Acts 8:13",
-        "source_chapter": 8,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "1e0582e7a203fed5c41de0ff5b513c844d219aafeb0bbcb71ab0fde9fcd8356a"
-      },
-      "14": {
-        "source_ref": "Acts 8:14",
-        "source_chapter": 8,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "b805e15f37ed8aa780fbb4e674894f96859d90b5dc72c7bc7041d3b7677ec19f"
-      },
-      "15": {
-        "source_ref": "Acts 8:15",
-        "source_chapter": 8,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "b2ad644834c0c16b0d64ca0a93706fddd148bb7e0e18452711e3b33f2f82205b"
-      },
-      "16": {
-        "source_ref": "Acts 8:16",
-        "source_chapter": 8,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "8cadab66f1a2bdac3de8f16fca76ee98d556e4dfc8be12bc14e0419d80db800b"
-      },
-      "17": {
-        "source_ref": "Acts 8:17",
-        "source_chapter": 8,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "5234176a05bcdb9ce4d998c52976fb3f5c3e2d4757c7c88f3b53282ba071f599"
-      },
-      "18": {
-        "source_ref": "Acts 8:18",
-        "source_chapter": 8,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8a55142b41083cef35e41fa8fa13593428263f79c0584eb780030c153471b8a3"
-      },
-      "19": {
-        "source_ref": "Acts 8:19",
-        "source_chapter": 8,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "edacc282a9d4054580c98b784b38a9be24424ca0574dfbb691845e0c6e2ed12f"
-      },
-      "20": {
-        "source_ref": "Acts 8:20",
-        "source_chapter": 8,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "93e7bc4a9ca8631670231301dfefe06909a2841069e2dcdf93218b77b02d2a17"
-      },
-      "21": {
-        "source_ref": "Acts 8:21",
-        "source_chapter": 8,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "66869f56502a4bf00308abe5538fa66bda0798cc2c0f1b3798845dfd2c843d5c"
-      },
-      "22": {
-        "source_ref": "Acts 8:22",
-        "source_chapter": 8,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "8265c9c25acbb36730486fdfb0e4eb6ed505932b32ea542785f0799388d82b23"
-      },
-      "23": {
-        "source_ref": "Acts 8:23",
-        "source_chapter": 8,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "08484917c35a6e80a840f0e421cd4c92ec46b85238a351f265d3cfb37ad846d1"
-      },
-      "24": {
-        "source_ref": "Acts 8:24",
-        "source_chapter": 8,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "b5cd60c51e0a2593e9349670bc5c42e8f339006d7d2cb427573e97cf1ea48106"
-      },
-      "25": {
-        "source_ref": "Acts 8:25",
-        "source_chapter": 8,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "b619ab81f936a56bf93d276a6663df29430f23af649726605d6bacabd830d80c"
-      },
-      "26": {
-        "source_ref": "Acts 8:26",
-        "source_chapter": 8,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "65dc5262f2b9bdc24f0aaa586bb2b9c10eb646a700568f4b378324f4718b3863"
-      },
-      "27": {
-        "source_ref": "Acts 8:27",
-        "source_chapter": 8,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "a078057e73f3cb58ac0cc0c8e096a3b4906f94fd62b63ff234baac43dde56161"
-      },
-      "28": {
-        "source_ref": "Acts 8:28",
-        "source_chapter": 8,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "da10a236d1623844d48769a6abe17e20b918fd2fdb9ed64e255639309791498e"
-      },
-      "29": {
-        "source_ref": "Acts 8:29",
-        "source_chapter": 8,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "79109095d035760e45278e98305562599ce71b2baf8de5dbadc9644769a28e79"
-      },
-      "30": {
-        "source_ref": "Acts 8:30",
-        "source_chapter": 8,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "558b80645884c59ba9d28620fb04ddb85a5321bd70242b86b57ee915795d0268"
-      },
-      "31": {
-        "source_ref": "Acts 8:31",
-        "source_chapter": 8,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "3da1c05e00aade76bb8697eec4ff14666e4e3e0baa686401a78fcbf5792dd7e7"
-      },
-      "32": {
-        "source_ref": "Acts 8:32",
-        "source_chapter": 8,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "d9a66c2db0b7f8c05c901505c806236f83e9de409b9c5599f86fae1557373bf4"
-      },
-      "33": {
-        "source_ref": "Acts 8:33",
-        "source_chapter": 8,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "84a7ecd9025d3f517c6c32cf5da3fb723d39c5e5d71ea8dad5e133ed1ac336cc"
-      },
-      "34": {
-        "source_ref": "Acts 8:34",
-        "source_chapter": 8,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "8594e3fdd39a916dd0a423b9470a05d93885a66cc842aef75d502f1122a074ae"
-      },
-      "35": {
-        "source_ref": "Acts 8:35",
-        "source_chapter": 8,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "7c479e91f3bd67b4b2ae51f9f9d9b26c91f219a119fc27effc425a2f839cda1e"
-      },
-      "36": {
-        "source_ref": "Acts 8:36",
-        "source_chapter": 8,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "3ab752a7b2c4018866e35ce77eabb8fbed72f8a61cd0a319599b448a9286b684"
-      },
-      "38": {
-        "source_ref": "Acts 8:38",
-        "source_chapter": 8,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "647b29312cbd2c0d4313f43bd018a03fef4cba4d638a1f50df7e0b9acd2811d8"
-      },
-      "39": {
-        "source_ref": "Acts 8:39",
-        "source_chapter": 8,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "75a6d2a1c48b5bf0c24439b8bbc069d0820f1e824751b68320c3358413f214f6"
-      },
-      "40": {
-        "source_ref": "Acts 8:40",
-        "source_chapter": 8,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "50b3a664839612400b15238cfee455f244c0ca3a50a345a09e73910ae0462cce"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 8,
+    "verse_count": 39,
+    "path": "translations/fluent/NT/acts/Acts_08.md",
+    "before_sha256": "94fe63dedcac39576da5f62e781463a543b8197d153818c85752923ed166e076",
+    "after_sha256": "588d64af7f57262409e8a23a707a03d3b9500cacdf677e4f11ae3debfff6b9f6",
+    "tsw_comparator_path": "books/NT/acts/Acts_08.md",
+    "tsw_comparator_sha256": "91f5b56e45030d8472a15771e575ae62771d069c2b95b6b86be89c505e1c2e49",
+    "source_omitted_public_labels": [
+      37
+    ],
+    "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+    "tsw_omitted_public_labels": [
+      37
+    ],
+    "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 8:1",
+      "delta": "F3",
+      "rationale": "Names Stephen for clarity and preserves approval, persecution, exception, and geography.",
+      "source_reference": "Acts 8:1",
+      "source_verse_sha256": "b93cbe3f895271359399bee57dae4b75f0c1c0112bb0270f4db8c57d26bc0af6",
+      "before": "Saul approved of Stephen’s death. On that day a severe persecution broke out against the church in Jerusalem, and everyone except the apostles was scattered throughout the regions of Judea and Samaria.",
+      "after": "Saul approved of Stephen’s killing. That day a severe persecution began against the church in Jerusalem, and everyone except the apostles was scattered throughout the regions of Judea and Samaria.",
+      "tsw_comparator": "And Saul was consenting to his death. And on that day a great persecution arose against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.584615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:3",
+      "delta": "F3",
+      "rationale": "Retains destructive force, domestic intrusion, both genders, and imprisonment.",
+      "source_reference": "Acts 8:3",
+      "source_verse_sha256": "4d0366f95efe3aff744ce9d811e5908b53cc386720a7c6cf8fc339474aa8f70b",
+      "before": "But Saul was ravaging the church, entering house after house, dragging away both men and women, and handing them over to prison.",
+      "after": "But Saul was ravaging the church. Going from house to house, he dragged off both men and women and put them in prison.",
+      "tsw_comparator": "But Saul was ravaging the church, entering house after house, and dragging off both men and women, he was delivering them to prison.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.652174,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:7",
+      "delta": "F3",
+      "rationale": "Retains spirit action, cries, specific conditions, and healing.",
+      "source_reference": "Acts 8:7",
+      "source_verse_sha256": "7e16627599605271a53cc4f63c6982788219844f22c0afdf120a0a64f9410560",
+      "before": "Unclean spirits came out of many people with loud cries, and many who were paralyzed or unable to walk were healed.",
+      "after": "Unclean spirits came out of many people, crying with a loud voice, and many who were paralyzed or unable to walk were healed.",
+      "tsw_comparator": "For from many of those having unclean spirits, they were coming out, crying with a loud voice, and many who were paralyzed and lame were healed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.612245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:10",
+      "delta": "F3",
+      "rationale": "Retains comprehensive audience and claimed title.",
+      "source_reference": "Acts 8:10",
+      "source_verse_sha256": "34a73c49effb7add9da96b37255e85d15cf2c18504909c6d46a48414f6d14440",
+      "before": "Everyone, from the least to the greatest, paid attention to him and said, “This man is the power of God called Great.”",
+      "after": "Everyone, from the least to the greatest, paid attention to him and said, “This man is the power of God called Great.”",
+      "tsw_comparator": "To him they all were giving attention, from the least to the greatest, saying, “This man is the power of God that is called Great.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638298,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:12",
+      "delta": "F3",
+      "rationale": "Preserves belief, message’s two themes, both genders, and baptism.",
+      "source_reference": "Acts 8:12",
+      "source_verse_sha256": "8c744f4a231afae865c4720f2cc64c203ff60c5ec55d9b8cca03a88860b2d52d",
+      "before": "But when they trusted Philip as he announced the good news about God’s kingdom and the name of Jesus Christ, both men and women were baptized.",
+      "after": "But when they believed Philip as he proclaimed the good news about the kingdom of God and the name of Jesus Christ, both men and women were baptized.",
+      "tsw_comparator": "But when they believed Philip proclaiming the good news about the kingdom of God and the name of Jesus Christ, they were being baptized, both men and women.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.821429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:16",
+      "delta": "F3",
+      "rationale": "Keeps temporal sequence, “fallen” image, baptism, and name.",
+      "source_reference": "Acts 8:16",
+      "source_verse_sha256": "f81b94de026906cb8ed4a5983c758e63264106a2f1c48ad8662f4bd30aa50fd5",
+      "before": "because the Spirit had not yet fallen on any of them; they had only been baptized in the name of the Lord Jesus.",
+      "after": "because the Spirit had not yet fallen on any of them. They had only been baptized in the name of the Lord Jesus.",
+      "tsw_comparator": "for he had not yet fallen upon any of them, but they had only been baptized into the name of the Lord Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:20",
+      "delta": "F3",
+      "rationale": "Preserves Peter’s severe curse and the contrast between gift and purchase.",
+      "source_reference": "Acts 8:20",
+      "source_verse_sha256": "af49511970aaf3b8c01cf57b6e6474b5c0dbe546ce2256b072a48c0c5484cf5f",
+      "before": "But Peter said to him, “May your silver perish with you because you thought you could obtain God’s gift with money!",
+      "after": "But Peter told him, “May your silver perish with you, because you thought you could acquire God’s gift with money!",
+      "tsw_comparator": "But Peter said to him, “May your silver be with you for destruction, because you thought to obtain the gift of God with money!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:22",
+      "delta": "F3",
+      "rationale": "Keeps repentance, prayer, conditional restraint, inward intent, and forgiveness.",
+      "source_reference": "Acts 8:22",
+      "source_verse_sha256": "f58522b535f17f4596c6cc00fc8b8cd426845b4333eeaf9d543089271b01d2ab",
+      "before": "Therefore repent of this evil and pray to the Lord that, if possible, the intention of your heart may be forgiven.",
+      "after": "So repent of this wickedness and pray to the Lord that, if possible, the intention of your heart may be forgiven.",
+      "tsw_comparator": "Therefore repent of this wickedness of yours and pray to the Lord, if perhaps the intent of your heart may be forgiven you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:23",
+      "delta": "F3",
+      "rationale": "Preserves the bitter-gall and binding images.",
+      "source_reference": "Acts 8:23",
+      "source_verse_sha256": "e9b6dc70e1b9898e8e1b86f1356af9f1814e24ebd8624a35115327c6f8a4d31a",
+      "before": "For I see that you are poisoned by bitterness and bound by unrighteousness.”",
+      "after": "For I see that you are poisoned by bitterness and bound by injustice.”",
+      "tsw_comparator": "For I see you being in the gall of bitterness and the bond of unrighteousness.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.428571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:27",
+      "delta": "F3",
+      "rationale": "Retains ethnicity, embodied status, royal title, office, treasury, and worship journey.",
+      "source_reference": "Acts 8:27",
+      "source_verse_sha256": "35848a2b4d28564b2fa880ee98467760310954755097dcd6d9f6cbf4a9c492df",
+      "before": "So Philip got up and went. Look—an Ethiopian man, a eunuch and court official of Candace, queen of the Ethiopians, who was in charge of all her treasury, had come to Jerusalem to worship.",
+      "after": "So he got up and went. There he saw an Ethiopian man, a eunuch and high official of Candace, queen of the Ethiopians, who was in charge of all her treasury. He had come to Jerusalem to worship",
+      "tsw_comparator": "And rising, he went. And behold, an Ethiopian man, a eunuch, a court official of Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.676056,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:32",
+      "delta": "F3",
+      "rationale": "Keeps animal images, violence, silence, and present-tense quotation.",
+      "source_reference": "Acts 8:32",
+      "source_verse_sha256": "bd1ae1dcede4c4c4e6c3bac9a8da4b8d0f41246ada099571137f4719c870e2aa",
+      "before": "The passage of Scripture he was reading was: “Like a sheep he was led to slaughter, and like a lamb silent before its shearer, he does not open his mouth.",
+      "after": "The passage of Scripture he was reading was this: “He was led like a sheep to slaughter, and like a lamb silent before its shearer, he does not open his mouth.",
+      "tsw_comparator": "Now the passage of Scripture that he was reading was this: “Like a sheep he was led to slaughter, and like a lamb before its shearer is silent, so he does not open his mouth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:33",
+      "delta": "F3",
+      "rationale": "Preserves humiliation, removed judgment, difficult generation question, and death.",
+      "source_reference": "Acts 8:33",
+      "source_verse_sha256": "bfdcf9197dbf2c7a230566aa63640f1cd52ee9a0f9b9180097eb98fc6d1e0d72",
+      "before": "In his humiliation justice was denied him. Who will describe his generation? For his life is taken from the earth.”",
+      "after": "In his humiliation justice was denied him. Who can describe his generation? For his life is taken from the earth.”",
+      "tsw_comparator": "In his humiliation justice was taken from him; who will describe his generation? For his life is taken from the earth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:36",
+      "delta": "F3",
+      "rationale": "Keeps journey, water, exclamation, and barrier question.",
+      "source_reference": "Acts 8:36",
+      "source_verse_sha256": "b51bc4d1b9b98129611b8f9ef40e5a923cb3fb2e71a1723ad5cebbf23217c8c6",
+      "before": "As they traveled along the road, they came to some water. The eunuch said, “Look—water! What prevents me from being baptized?”",
+      "after": "As they traveled along the road, they came to some water. The eunuch said, “Look, here is water! What prevents me from being baptized?”",
+      "tsw_comparator": "And as they were going along the road, they came to some water, and the eunuch says, “Behold, water; what prevents me from being baptized?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77551,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:38",
+      "delta": "F3",
+      "rationale": "Retains command, both participants, descent, and baptism.",
+      "source_reference": "Acts 8:38",
+      "source_verse_sha256": "b5edc38557dda2244e1112e6bac8783c6c5d102299d379161747e33530d6a8db",
+      "before": "He ordered the chariot to stop. Philip and the eunuch both went down into the water, and Philip baptized him.",
+      "after": "He ordered the chariot to stop. Both Philip and the eunuch went down into the water, and Philip baptized him.",
+      "tsw_comparator": "And he commanded the chariot to stop, and they both went down into the water, both Philip and the eunuch, and he baptized him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.590909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 8:39",
+      "delta": "F3",
+      "rationale": "Preserves ascent, Spirit action, separation, journey, and joy.",
+      "source_reference": "Acts 8:39",
+      "source_verse_sha256": "28faa188b51ee1fcd5470a71ade9ce0b7b2634ac2abcee7c510827bc7203009d",
+      "before": "When they came up out of the water, the Spirit of the Lord carried Philip away. The eunuch did not see him again but continued on his way rejoicing.",
+      "after": "When they came up out of the water, the Spirit of the Lord suddenly took Philip away. The eunuch did not see him again but went on his way rejoicing.",
+      "tsw_comparator": "And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch did not see him anymore, for he went on his way rejoicing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

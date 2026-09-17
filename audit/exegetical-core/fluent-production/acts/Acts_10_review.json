@@ -2,358 +2,311 @@
   "book": "Acts",
   "chapter": 10,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 48,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_10.md",
-    "blob_sha": "51adf24bd39642cff5a0b0f4202ab85e2ae1ff2b"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_10_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 10:1",
-        "source_chapter": 10,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "a6a68f3c249d22026b5672bde0e6a919701afecad6d828dca569ba2fde479d3c"
-      },
-      "2": {
-        "source_ref": "Acts 10:2",
-        "source_chapter": 10,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "c217202a09a5dcb7f7410499584bcf237f661c7b04c838d7f899d6ffc7b5fd3d"
-      },
-      "3": {
-        "source_ref": "Acts 10:3",
-        "source_chapter": 10,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "d31fbc86c3286b2cb07a77afe64e45f34258433089ac11646dfcebe3d6baa7fe"
-      },
-      "4": {
-        "source_ref": "Acts 10:4",
-        "source_chapter": 10,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "9c58c81c3c2adbcb393cb604a1dd596a02d4db5ddce90f2efdd855a0d2ced023"
-      },
-      "5": {
-        "source_ref": "Acts 10:5",
-        "source_chapter": 10,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "5fb064011bc303b6b98eeb249cbda2c93318f29e058a504bc1e5b9bcbd34b22a"
-      },
-      "6": {
-        "source_ref": "Acts 10:6",
-        "source_chapter": 10,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5707469b2adfeef71af426637c6c4360a04b9289e940c87afd28f8025e195abf"
-      },
-      "7": {
-        "source_ref": "Acts 10:7",
-        "source_chapter": 10,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "57e2776510dfdd3ef77eb4af14d31e7d665460a4216bb8f1f2ea9539a544425d"
-      },
-      "8": {
-        "source_ref": "Acts 10:8",
-        "source_chapter": 10,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3ddf7e04fcb4122f519614e0e1a5587bf298505b3d0fce4fc2aa4cbaa9091d75"
-      },
-      "9": {
-        "source_ref": "Acts 10:9",
-        "source_chapter": 10,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "0da5f527dc29294fc1d6cd91920f3f29f8efa7af9f64b9da3ff85595093f9e55"
-      },
-      "10": {
-        "source_ref": "Acts 10:10",
-        "source_chapter": 10,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "2357b5bfc541f70117ec242d471421c9d8eeee3a16cae743bd6b2bed23082920"
-      },
-      "11": {
-        "source_ref": "Acts 10:11",
-        "source_chapter": 10,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "6d9280ad523fcae29b1ef4805d1011978ce55824dd7f58c4342d3b5ee9684ef5"
-      },
-      "12": {
-        "source_ref": "Acts 10:12",
-        "source_chapter": 10,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "2ef623b5b8e713e54547f420f80b74ad9666f581750a7238a30b8a421cbb067e"
-      },
-      "13": {
-        "source_ref": "Acts 10:13",
-        "source_chapter": 10,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "9c0969020d7f221aa5fd7f92d9fe83712f6e94fa30fb1d8a02eb34f3ddefea48"
-      },
-      "14": {
-        "source_ref": "Acts 10:14",
-        "source_chapter": 10,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "6507b2e6b0ec1771d56c71da738a6179049febd3cd04379e40cda27c71e46cbe"
-      },
-      "15": {
-        "source_ref": "Acts 10:15",
-        "source_chapter": 10,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "6b47e661180435c8d45a103b633ce381d87edb432aecc9ee9cd5fb239992532f"
-      },
-      "16": {
-        "source_ref": "Acts 10:16",
-        "source_chapter": 10,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "338350a35237d0f998f23592ce3c15166b17b76ea4796776a278fa946a6a32df"
-      },
-      "17": {
-        "source_ref": "Acts 10:17",
-        "source_chapter": 10,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "fdd0583793fe40a6d72b41e64dc75af254a6383309d84215d6e1cd79cc925d0b"
-      },
-      "18": {
-        "source_ref": "Acts 10:18",
-        "source_chapter": 10,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "6b12e686adf74018e74d974ee05260e55f0de52158e861f4005ff35c3433d02a"
-      },
-      "19": {
-        "source_ref": "Acts 10:19",
-        "source_chapter": 10,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "c218d1c563281c6bd0a85c5076fe14ab7b2c8be6a26b4e397132a21d3032f7b2"
-      },
-      "20": {
-        "source_ref": "Acts 10:20",
-        "source_chapter": 10,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "5e573bfe79dbcaaa40d30744d4d64893bee91fdebbfaca2bf11dee5e52e27ede"
-      },
-      "21": {
-        "source_ref": "Acts 10:21",
-        "source_chapter": 10,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "d6bf34f9dce0b7da77de602250b55da013b127971a3d2e781c566d13eda188fe"
-      },
-      "22": {
-        "source_ref": "Acts 10:22",
-        "source_chapter": 10,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "5fdf50b66f8f5b43134c6906f13944e8121ebf84603732fdda4e14cd4bb27703"
-      },
-      "23": {
-        "source_ref": "Acts 10:23",
-        "source_chapter": 10,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "098da1101a87df2378729411adfdfd9662cb5105dee4a46e82e86b8fe65edf28"
-      },
-      "24": {
-        "source_ref": "Acts 10:24",
-        "source_chapter": 10,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "abf111098f491cd349a604a6dd82ed0e492013e20885a1748620a3550a6bf971"
-      },
-      "25": {
-        "source_ref": "Acts 10:25",
-        "source_chapter": 10,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "264739060287773242c6c951369a843cc399b128d4d03e5fd96e996df08181dd"
-      },
-      "26": {
-        "source_ref": "Acts 10:26",
-        "source_chapter": 10,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "1d092d7d16a739590abff99156d58f97a9436ba1054f36424ac486f8fe62e799"
-      },
-      "27": {
-        "source_ref": "Acts 10:27",
-        "source_chapter": 10,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "128a08cca5128d2c04ef0affc43bc5e21a4b3f7a5b46bb96a7a3b68c3b5d0500"
-      },
-      "28": {
-        "source_ref": "Acts 10:28",
-        "source_chapter": 10,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "252f49e9664aee94d41308b2d4a3b6902c54825baf57e2579be725949682776f"
-      },
-      "29": {
-        "source_ref": "Acts 10:29",
-        "source_chapter": 10,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "64a978f8d350e27584ab3dfb00b2ec19a86d0fc1042827227d5e4ae29ff171f3"
-      },
-      "30": {
-        "source_ref": "Acts 10:30",
-        "source_chapter": 10,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "0e3d35565fb19c0938f904ac4ec5e15cfe2b918e6294ba27f63e73accf79414b"
-      },
-      "31": {
-        "source_ref": "Acts 10:31",
-        "source_chapter": 10,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "db76c316030e0356ee47171e4b270e11056f4bb3e09df95cefe2b7d5f2245522"
-      },
-      "32": {
-        "source_ref": "Acts 10:32",
-        "source_chapter": 10,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "1a431dd921de866391ddfa41529a2fc19c1f59df2a1eb7f4b3bc36e99750a22e"
-      },
-      "33": {
-        "source_ref": "Acts 10:33",
-        "source_chapter": 10,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "4cc84c8bb211f116aead060f8ca3347c9225ecf1d216c2a21794d879a6ebc014"
-      },
-      "34": {
-        "source_ref": "Acts 10:34",
-        "source_chapter": 10,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "f4f5587c65c9f2b205d335a80d809ace34baa2329b7d2ef60e7a7e7961be2c42"
-      },
-      "35": {
-        "source_ref": "Acts 10:35",
-        "source_chapter": 10,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "a7640d52eb3af423c143de339549a6583f05b1038c26d51ea37d4ab5ccc2f8c7"
-      },
-      "36": {
-        "source_ref": "Acts 10:36",
-        "source_chapter": 10,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "97172c4b386d15c714b66d02d6fd4c8371f65506ac35a44bb87cc6eee6b4ebc4"
-      },
-      "37": {
-        "source_ref": "Acts 10:37",
-        "source_chapter": 10,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "e9eb6bfe4080e31448413aeaac61ff765d6ff8cbb6bea63563a2900123ac7d7f"
-      },
-      "38": {
-        "source_ref": "Acts 10:38",
-        "source_chapter": 10,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "c761f188ad1c904b64d015178c156e4586afcf82292a4e1dc032533f414ac506"
-      },
-      "39": {
-        "source_ref": "Acts 10:39",
-        "source_chapter": 10,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "2405879ca3d8b40b7c3f13db09a650694552290e0d68d1d59b0a06bff6ca13c3"
-      },
-      "40": {
-        "source_ref": "Acts 10:40",
-        "source_chapter": 10,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "73129fb49dc935f0ef54dc00c5cfe26d9f4b8ac2554723385ac6e1782867fd12"
-      },
-      "41": {
-        "source_ref": "Acts 10:41",
-        "source_chapter": 10,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "1b1c4862c7cbc680f7f9844e063fe158fd37ca1d1afbffa274a6c57952281b8f"
-      },
-      "42": {
-        "source_ref": "Acts 10:42",
-        "source_chapter": 10,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "810b4fe3bcedef9b76197803babe8a34fdce168f61abc00c8847ffc9e84a81aa"
-      },
-      "43": {
-        "source_ref": "Acts 10:43",
-        "source_chapter": 10,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "5dcf53ed2874d29c9e0f541ef7a872503ccaa1839ce8c9946de843a3ce9929dd"
-      },
-      "44": {
-        "source_ref": "Acts 10:44",
-        "source_chapter": 10,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "36d35e90bcc6dbacc355a67da57c895014a3308ce0d9fc4fa2d9f9336cfdf358"
-      },
-      "45": {
-        "source_ref": "Acts 10:45",
-        "source_chapter": 10,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "1f7c3ad57db3be3ab9f541878db4de303a4ff8399c400d096afb34c96aa4a8e9"
-      },
-      "46": {
-        "source_ref": "Acts 10:46",
-        "source_chapter": 10,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "d670a7b3a7b985df63f5b1e15d82b8cbe4510cfff0357989f87e8e604c81e9f6"
-      },
-      "47": {
-        "source_ref": "Acts 10:47",
-        "source_chapter": 10,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "7623be16880d8803fdb77cb27f613b8986ef04c042c7d86dddd8891e51b96dc0"
-      },
-      "48": {
-        "source_ref": "Acts 10:48",
-        "source_chapter": 10,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "45451d9f4a3b60f20ea1ed77c3ded9284f3a6e0b25ffc0c03c0c69d22e538647"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 10,
+    "verse_count": 48,
+    "path": "translations/fluent/NT/acts/Acts_10.md",
+    "before_sha256": "7aaace5a05e25dfd6909a7b81e727d48a82e70591e6b08cfc25653e0e657e633",
+    "after_sha256": "e3b843ff428cb0f7d23d164ae37b21a0336e8a4ab8983db38a9ae0fe489b0fa0",
+    "tsw_comparator_path": "books/NT/acts/Acts_10.md",
+    "tsw_comparator_sha256": "9ca13672514139d7766f3a61fe99af13738013b23ba4455e040194d697b5f61b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 10:2",
+      "delta": "F3",
+      "rationale": "Keeps household scope, devotion, generosity, beneficiaries, and prayer.",
+      "source_reference": "Acts 10:2",
+      "source_verse_sha256": "67ec1fd92d159af5da6f9605b9bce2475a27d60e102064ce9cb68115caf7401a",
+      "before": "He was devout and feared God along with his whole household. He gave generously to the poor among the people and prayed continually to God.",
+      "after": "He and his whole household were devout and feared God. He gave generously to the people and prayed to God continually.",
+      "tsw_comparator": "He was a devout man who feared God with all his household; he gave alms generously to the people and prayed continually to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:4",
+      "delta": "F3",
+      "rationale": "Names participants for clarity and preserves fear, question, prayer, alms, ascent, and memorial image.",
+      "source_reference": "Acts 10:4",
+      "source_verse_sha256": "826c7cddbe48aab6cd15099601fc6db36a1e96d1a5c8a79e9491483c69103b98",
+      "before": "Cornelius stared at him in fear and asked, “What is it, Lord?” The angel said, “Your prayers and gifts to the poor have gone up as a memorial before God.",
+      "after": "Cornelius stared at him in fear and asked, “What is it, Lord?” The angel replied, “Your prayers and gifts to the poor have risen before God as a memorial.",
+      "tsw_comparator": "Cornelius stared at him in terror and said, “What is it, Lord?” And the angel said to him, “Your prayers and your gifts to the poor have ascended as a memorial before God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.741935,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:11",
+      "delta": "F3",
+      "rationale": "Keeps opened heaven, cautious simile, sheet image, descent, and four corners.",
+      "source_reference": "Acts 10:11",
+      "source_verse_sha256": "c5c5b8cc834b76dca7743198c78a195dfccb107a47695a2239c250a31e92bed4",
+      "before": "He saw heaven opened and something like a large sheet being lowered to the earth by its four corners.",
+      "after": "and saw heaven opened and something like a large sheet being lowered to earth by its four corners.",
+      "tsw_comparator": "He saw heaven opened and something like a great sheet coming down, being let down by its four corners upon the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:12",
+      "delta": "F3",
+      "rationale": "Preserves the three creature groups and inclusive scope.",
+      "source_reference": "Acts 10:12",
+      "source_verse_sha256": "3e46c8427d0982b885ae139bfe336309b6d67606f115d88b3c6e64f8e59e7a70",
+      "before": "In it were all kinds of four-footed animals, reptiles of the earth, and birds of the sky.",
+      "after": "In it were all kinds of four-footed animals, reptiles of the earth, and birds of the sky.",
+      "tsw_comparator": "In it were all kinds of four-footed animals and reptiles and birds of the air.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:14",
+      "delta": "F3",
+      "rationale": "Preserves emphatic refusal and paired purity terms.",
+      "source_reference": "Acts 10:14",
+      "source_verse_sha256": "35b1d40cb7feadca88762cfcc6e306bd5499fad9e00b72ee37f22da834047ec6",
+      "before": "But Peter said, “Certainly not, Lord! I have never eaten anything common or unclean.”",
+      "after": "But Peter replied, “Certainly not, Lord! I have never eaten anything defiled or unclean.”",
+      "tsw_comparator": "But Peter said, “By no means, Lord; for I have never eaten anything common or unclean.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:15",
+      "delta": "F3",
+      "rationale": "Keeps repetition, divine action, and prohibition.",
+      "source_reference": "Acts 10:15",
+      "source_verse_sha256": "70286b3d43a665e4813fc49f8ac63b1ab3c246c0ac4ec70bb6962cfc8c979078",
+      "before": "The voice came to him again a second time: “What God has made clean, you must not call common.”",
+      "after": "The voice spoke to him a second time: “What God has made clean, you must not call defiled.”",
+      "tsw_comparator": "And the voice came to him again a second time, “What God has made clean, you must not call common.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:20",
+      "delta": "F3",
+      "rationale": "Preserves three commands, absence of discrimination, and Spirit agency.",
+      "source_reference": "Acts 10:20",
+      "source_verse_sha256": "6093036084c36990ec9166340d6493cf1f5cc162adfd9a295c83d885545a42c4",
+      "before": "Get up, go downstairs, and go with them without making distinctions, because I have sent them.”",
+      "after": "Get up, go downstairs, and go with them without hesitation, because I have sent them.”",
+      "tsw_comparator": "Rise and go down and go with them without hesitation, for I have sent them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:22",
+      "delta": "F3",
+      "rationale": "Preserves credentials, national testimony, angelic instruction, invitation, and hearing.",
+      "source_reference": "Acts 10:22",
+      "source_verse_sha256": "947b9288f96fdc73d492f0154f443e52eb62f51ff34fcf41cbcc0ee58ab41958",
+      "before": "They said, “Cornelius, a centurion, a righteous and God-fearing man who is well spoken of by the whole Jewish nation, was directed by a holy angel to send for you so that you could come to his house and he could hear what you have to say.”",
+      "after": "They replied, “Cornelius, a centurion who is righteous and fears God and is well spoken of by the whole Jewish nation, was directed by a holy angel to send for you to come to his house and hear what you have to say.”",
+      "tsw_comparator": "And they said, “Cornelius, a centurion, an upright and God-fearing man, well spoken of by the whole Judean nation, was directed by a holy angel to send for you to come to his house and to hear what you have to say.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.813953,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:25",
+      "delta": "F3",
+      "rationale": "Keeps meeting, posture, and reverential act.",
+      "source_reference": "Acts 10:25",
+      "source_verse_sha256": "676fad8493aedd81a19e9a219596d585d988613f4dea40c35adb811d49ab65fa",
+      "before": "When Peter entered, Cornelius met him, fell at his feet, and bowed before him.",
+      "after": "As Peter entered, Cornelius met him, fell at his feet, and bowed down before him.",
+      "tsw_comparator": "When Peter entered, Cornelius met him and fell down at his feet and worshiped him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:28",
+      "delta": "F3",
+      "rationale": "Preserves stated social boundary and God’s human-focused correction.",
+      "source_reference": "Acts 10:28",
+      "source_verse_sha256": "8925a4b339a15ec3c9f17dbdbc7aba3c7f2dc79f01727c108042c9243e0cd62d",
+      "before": "He said to them, “You yourselves know how improper it is for a Jewish man to associate closely with or visit someone from another people. But God has shown me that I should call no human being common or unclean.",
+      "after": "He told them, “You know that it is considered unlawful for a Jewish man to associate with or visit a foreigner. But God has shown me that I must not call any person defiled or unclean.",
+      "tsw_comparator": "And he said to them, “You yourselves know how unlawful it is for a Judean to associate with or to visit someone from another people; but God has shown me that I should not call any human being common or unclean.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.649351,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:30",
+      "delta": "F3",
+      "rationale": "Preserves four-day interval, ninth hour, prayer, appearance, and shining clothes.",
+      "source_reference": "Acts 10:30",
+      "source_verse_sha256": "96616529bd92d6c5661d642e114968c67129c3ff8533b29701bcef8311b4cc86",
+      "before": "Cornelius said, “Four days ago at this hour, at the ninth hour, I was praying in my house. Look—a man in shining clothing stood before me",
+      "after": "Cornelius replied, “Four days ago at this very hour, about three in the afternoon, I was praying in my house. Suddenly a man in shining clothing stood before me",
+      "tsw_comparator": "And Cornelius said, “Four days ago at this hour, I was praying in my house at the ninth hour, and look—a man stood before me in shining clothes",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.62069,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:34",
+      "delta": "F3",
+      "rationale": "Preserves solemn realization and divine impartiality.",
+      "source_reference": "Acts 10:34",
+      "source_verse_sha256": "388be7c0f0edd1e860a5977cf2069a3b8585aedc50233b35583c549c34f91589",
+      "before": "Peter began speaking: “Now I truly understand that God does not show partiality,",
+      "after": "Peter began to speak: “Now I truly understand that God does not show favoritism,",
+      "tsw_comparator": "Then Peter opened his mouth and said: “Truly I understand that God shows no partiality,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.344828,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:35",
+      "delta": "F3",
+      "rationale": "Keeps universal national scope, reverence, right action, and acceptance.",
+      "source_reference": "Acts 10:35",
+      "source_verse_sha256": "0ed4be35a8a68217eb82265edfb056b25882e0b4fec6ea8140b97ed9ba1c1009",
+      "before": "but in every nation the person who fears him and practices righteousness is acceptable to him.",
+      "after": "but in every nation anyone who fears him and does what is right is acceptable to him.",
+      "tsw_comparator": "but in every nation anyone who fears God and does what is right is acceptable to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:36",
+      "delta": "F3",
+      "rationale": "Supplies a natural English frame while preserving Israel, peace, Jesus, and universal lordship.",
+      "source_reference": "Acts 10:36",
+      "source_verse_sha256": "923d2d62e0a0af2ffcdd897fd6f001c050c470794677947fffbae62837b408a8",
+      "before": "You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ—he is Lord of all.",
+      "after": "This is the message God sent to the people of Israel, proclaiming the good news of peace through Jesus Christ—he is Lord of all.",
+      "tsw_comparator": "You know the message God sent to the children of Israel, proclaiming good news of peace through Jesus Christ—he is Lord of all—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:38",
+      "delta": "F3",
+      "rationale": "Preserves anointing, origin, Spirit, power, good works, oppression, healing, and divine presence.",
+      "source_reference": "Acts 10:38",
+      "source_verse_sha256": "e5b4a558fbcf58729fe2c0bcede3ff63127315d497e218e9481ad2481e60042e",
+      "before": "how God anointed Jesus of Nazareth with the Holy Spirit and power. He went around doing good and healing everyone oppressed by the devil, because God was with him.",
+      "after": "how God anointed Jesus of Nazareth with the Holy Spirit and power. He went around doing good and healing all who were oppressed by the devil, because God was with him.",
+      "tsw_comparator": "how God anointed Jesus of Nazareth with the Holy Spirit and with power; how he went about doing good and healing all who were oppressed by the devil, for God was with him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:39",
+      "delta": "F3",
+      "rationale": "Keeps apostolic witness, two locations, killing, and scriptural tree image.",
+      "source_reference": "Acts 10:39",
+      "source_verse_sha256": "6e7116ccf2a2aa87e176df6ff6294aad40a5bdcac23b8cf304f567f29c9703f0",
+      "before": "We are witnesses of everything he did both in the land of the Jewish people and in Jerusalem. They killed him by hanging him on a tree,",
+      "after": "We are witnesses of everything he did in the land of the Jewish people and in Jerusalem. They killed him by hanging him on a tree,",
+      "tsw_comparator": "And we are witnesses to all that he did both in the country of the Judeans and in Jerusalem. They put him to death by hanging him on a tree,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:41",
+      "delta": "F3",
+      "rationale": "Keeps limited manifestation, divine choice, embodied table fellowship, and resurrection.",
+      "source_reference": "Acts 10:41",
+      "source_verse_sha256": "e10e49ce8ea7e353f22166957ae225c61164b8e7d6d2ae1b72abdec0ebddf480",
+      "before": "not to all the people but to witnesses chosen beforehand by God—to us who ate and drank with him after he rose from the dead.",
+      "after": "not by all the people, but by witnesses God had chosen beforehand—by us, who ate and drank with him after he rose from the dead.",
+      "tsw_comparator": "not to all the people but to us who were chosen by God as witnesses, who ate and drank with him after he rose from the dead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.716981,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:43",
+      "delta": "F3",
+      "rationale": "Keeps prophetic consensus, inclusive invitation, faith, forgiveness, and name.",
+      "source_reference": "Acts 10:43",
+      "source_verse_sha256": "9335cde4f9cd7692d1958cbdd802b387e21c48bf853bfe21fbef604fe5d197c5",
+      "before": "All the prophets testify about him that everyone who trusts in him receives forgiveness of sins through his name.”",
+      "after": "All the prophets testify about him that everyone who believes in him receives forgiveness of sins through his name.”",
+      "tsw_comparator": "To him all the prophets bear witness that everyone who trusts in him receives forgiveness of sins through his name.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:45",
+      "delta": "F3",
+      "rationale": "Keeps group identity, companionship, astonishment, gift, poured-out image, and Gentile inclusion.",
+      "source_reference": "Acts 10:45",
+      "source_verse_sha256": "607b32b7fbee336b5b0040772275c8301830af58d18181d96d00ba9e518b2295",
+      "before": "The circumcised believers who had come with Peter were amazed because the gift of the Holy Spirit had been poured out even on the Gentiles.",
+      "after": "The circumcised believers who had come with Peter were astonished because the gift of the Holy Spirit had been poured out even on the Gentiles.",
+      "tsw_comparator": "The circumcised believers who had come with Peter were amazed, because the gift of the Holy Spirit had been poured out even on the Gentiles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 10:47",
+      "delta": "F3",
+      "rationale": "Keeps rhetorical barrier question, baptism, Spirit reception, and equality.",
+      "source_reference": "Acts 10:47",
+      "source_verse_sha256": "c5f0b2d66957ac97de1373c9807f9f253886557e7f9afd65617af0c883b25989",
+      "before": "“Can anyone withhold the water to baptize these people who have received the Holy Spirit just as we have?”",
+      "after": "“Can anyone withhold water and prevent these people from being baptized, since they have received the Holy Spirit just as we have?”",
+      "tsw_comparator": "“Can anyone withhold the water for baptizing these people, who have received the Holy Spirit just as we have?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

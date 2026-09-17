@@ -2,442 +2,363 @@
   "book": "Acts",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 60,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_07.md",
-    "blob_sha": "c32c9314bda9537a2af695fabf365f7969f06342"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_07_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 7:1",
-        "source_chapter": 7,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "d7eedac2a7137178eb238306e2acf74ac01921628ed1165d5e8176e825ddb5dd"
-      },
-      "2": {
-        "source_ref": "Acts 7:2",
-        "source_chapter": 7,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "eca0eaab6211c4f73c577c5cf96479d8dc9df235e26d4b4219fe57a627c99517"
-      },
-      "3": {
-        "source_ref": "Acts 7:3",
-        "source_chapter": 7,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "703e92c88aa7c2bcfba217f32a55ef989f7ec1db6d9849a80aa69143d835279f"
-      },
-      "4": {
-        "source_ref": "Acts 7:4",
-        "source_chapter": 7,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "45e9c8bc83f05cd253f22cec86c4da8e98fdf49a7447cd30d41179bed75e52ce"
-      },
-      "5": {
-        "source_ref": "Acts 7:5",
-        "source_chapter": 7,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "c267970fe3ca82297e2f32e453d325d2eb0f3d9efd6dda50dd71df8240e3c98d"
-      },
-      "6": {
-        "source_ref": "Acts 7:6",
-        "source_chapter": 7,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "19bfc2be093758d33e6ebe1dd9b0ba06b101c27910b7d2a98527a4e1a9fae072"
-      },
-      "7": {
-        "source_ref": "Acts 7:7",
-        "source_chapter": 7,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "8d6827ec136771435138e3a06310a0a3739ee0153b74ed80e7dae32774d3ec7b"
-      },
-      "8": {
-        "source_ref": "Acts 7:8",
-        "source_chapter": 7,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "df11b6f5c3165fbc35e384c0136c99acf8db608aac33a082fe575f12c2ef8c3b"
-      },
-      "9": {
-        "source_ref": "Acts 7:9",
-        "source_chapter": 7,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "3b06668bc1efcc3cb4d51afefc0195c552350162951900f7f93de36dfad24a8d"
-      },
-      "10": {
-        "source_ref": "Acts 7:10",
-        "source_chapter": 7,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "c55d4e3f205d87d9b40d7eb3060760a4c9db07e6fb1599b72d5392bc031adb18"
-      },
-      "11": {
-        "source_ref": "Acts 7:11",
-        "source_chapter": 7,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "1060a59482e0198df26e507a06fe52279082a8da39eff79252b9fb66e6509ffa"
-      },
-      "12": {
-        "source_ref": "Acts 7:12",
-        "source_chapter": 7,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "bfb5973663b2368662cc4527ffbb4575b43e1c7f3c58e151fb867d620f855011"
-      },
-      "13": {
-        "source_ref": "Acts 7:13",
-        "source_chapter": 7,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "650225257233a1189e850c1a314b68903dff831e5ac9429782bb6fa406555bec"
-      },
-      "14": {
-        "source_ref": "Acts 7:14",
-        "source_chapter": 7,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "bb2b1be2f80236408402fddf96e4b7f226a7039473da44c5a50e5105d78031ac"
-      },
-      "15": {
-        "source_ref": "Acts 7:15",
-        "source_chapter": 7,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "84cd9fa07023fb51d430e80742d00835a66f5d27e5078cbed6ee3652d885fc24"
-      },
-      "16": {
-        "source_ref": "Acts 7:16",
-        "source_chapter": 7,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "b0f0e54a419348ca09f9c8685db9f5861121685c68d656c9d3b98ad688f83ee1"
-      },
-      "17": {
-        "source_ref": "Acts 7:17",
-        "source_chapter": 7,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "3be01c63f38bb9b416506081e1f9e8ff13377e5368d9d26e793c7010dfe958f3"
-      },
-      "18": {
-        "source_ref": "Acts 7:18",
-        "source_chapter": 7,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "6586014f668c4cc3e8f1f782dcbbd8387bcaa1ffd4ee12b62b31a31d3bf85c7d"
-      },
-      "19": {
-        "source_ref": "Acts 7:19",
-        "source_chapter": 7,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "e9387ef749bba9b259b1a48ecf6b5d651a3748790d87c4192f3a66ed8f69f8be"
-      },
-      "20": {
-        "source_ref": "Acts 7:20",
-        "source_chapter": 7,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "f9aaf6554c23e22734e45116c36864287e8bfa8393320a2cf59b639562ef06b6"
-      },
-      "21": {
-        "source_ref": "Acts 7:21",
-        "source_chapter": 7,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "96e17f4ca491db48e99858e13bf76c7572b89a62141c40cd9c32da7e45e94427"
-      },
-      "22": {
-        "source_ref": "Acts 7:22",
-        "source_chapter": 7,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "b587c9bf7d15bfde480999ad3ec1abc88c0c2205425711ef4e64ca80d991433e"
-      },
-      "23": {
-        "source_ref": "Acts 7:23",
-        "source_chapter": 7,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "fb554c99dcfd21089c889ab4e34959839d6cf3e1a4888b206a9383bddb549ac3"
-      },
-      "24": {
-        "source_ref": "Acts 7:24",
-        "source_chapter": 7,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "29d1e6603a6db291ac1c2b5df26e6c32dc194b95a59849288d2465512d0a3a77"
-      },
-      "25": {
-        "source_ref": "Acts 7:25",
-        "source_chapter": 7,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "6cc84be9d22fd36c912262dfe9f2cef74d7f97c18f1506b60778bcb8a4f6dd45"
-      },
-      "26": {
-        "source_ref": "Acts 7:26",
-        "source_chapter": 7,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "d1e7d07ebd43d0be98d3579a1cf061865a7469103b14f0b45e6c395899585df9"
-      },
-      "27": {
-        "source_ref": "Acts 7:27",
-        "source_chapter": 7,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "39e6ad611c180da5c8141393d310690a6a2d7c064425d92c966d49af0752c1e6"
-      },
-      "28": {
-        "source_ref": "Acts 7:28",
-        "source_chapter": 7,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "b18976b014749d3cacb7df0223619f8c2c102fc0b886d8a968a622fb7b12165c"
-      },
-      "29": {
-        "source_ref": "Acts 7:29",
-        "source_chapter": 7,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "d2182ff37adad24d8f448681076b68aa7b94d23a2bbb7bde658492d747e29301"
-      },
-      "30": {
-        "source_ref": "Acts 7:30",
-        "source_chapter": 7,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "d5d7d36ae836dba4bddfe703b02e6583205464a2f8166cb7d26ce4edfae98885"
-      },
-      "31": {
-        "source_ref": "Acts 7:31",
-        "source_chapter": 7,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "16fad01dc8f84cc3f7f5d0ec1d4f70eb3dc3c2673e570d340c76ebd24de97235"
-      },
-      "32": {
-        "source_ref": "Acts 7:32",
-        "source_chapter": 7,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "d34702c503f40643ee801c9a59cfed84da91582621284f051058f3d78988cec3"
-      },
-      "33": {
-        "source_ref": "Acts 7:33",
-        "source_chapter": 7,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "59c180254113b814e83723ae9ab7de6d24d78ee28540336d1917818e15099b78"
-      },
-      "34": {
-        "source_ref": "Acts 7:34",
-        "source_chapter": 7,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "cb0360e74ce4b6f811afe1aec30af4e5e36f4985d02ff364c5960c48934aba71"
-      },
-      "35": {
-        "source_ref": "Acts 7:35",
-        "source_chapter": 7,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "0e27d63085de65c1588d051d14f0f82bb00eae03527e44dacf1c914712c394b3"
-      },
-      "36": {
-        "source_ref": "Acts 7:36",
-        "source_chapter": 7,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "6e355b8f3aae88518b14455fd209982147e353fd9538893dc947a7ef9e3216a3"
-      },
-      "37": {
-        "source_ref": "Acts 7:37",
-        "source_chapter": 7,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "c1b4eaac6cefe3b50350382ed394e51bbfb6a4ad1d156e0c01666e152c9e3c58"
-      },
-      "38": {
-        "source_ref": "Acts 7:38",
-        "source_chapter": 7,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "5143924e922c4596d526e8ac172a180ced4394d59fa2fb434ab153d83f85cfbe"
-      },
-      "39": {
-        "source_ref": "Acts 7:39",
-        "source_chapter": 7,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "ea6b1db29b9fd219f8603f95c31db99ff1ff911d904c95d03370652eec7b1878"
-      },
-      "40": {
-        "source_ref": "Acts 7:40",
-        "source_chapter": 7,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "e266f1c86ea50450a1940b99a3b24827895ac141d44cc239a7b7d8119aee8ecd"
-      },
-      "41": {
-        "source_ref": "Acts 7:41",
-        "source_chapter": 7,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "38e827f92bd52b6df2461105b6deb99ff315ea791c4b56380c2a7ade68af26b0"
-      },
-      "42": {
-        "source_ref": "Acts 7:42",
-        "source_chapter": 7,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "11db9bf75e1d75abcd5a66d1eeb242af438fd637d9c18a7063b383479a283cf7"
-      },
-      "43": {
-        "source_ref": "Acts 7:43",
-        "source_chapter": 7,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "7170b83d576c7067f2a6fafd39598fc4e59540b24445d2563585e5b1fbc1a45a"
-      },
-      "44": {
-        "source_ref": "Acts 7:44",
-        "source_chapter": 7,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "ef16f53bdf6c4db4d1aef3b726b7c61ea83eb8dc83b09f40944ccb8d0429d610"
-      },
-      "45": {
-        "source_ref": "Acts 7:45",
-        "source_chapter": 7,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "62f0755d4f3dfbb61f44c24faf676986f6a14de75297cb833ae681ddc273fb06"
-      },
-      "46": {
-        "source_ref": "Acts 7:46",
-        "source_chapter": 7,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "b1e2d8d9c23fb0bdddbf96bec1136d9e784a629509343270ac9cdfd878f25e1b"
-      },
-      "47": {
-        "source_ref": "Acts 7:47",
-        "source_chapter": 7,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "382749b483772c988371d302a98289534765c0e78823a95653ce1cd98bc80828"
-      },
-      "48": {
-        "source_ref": "Acts 7:48",
-        "source_chapter": 7,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "24887b697b1af2e873a82dd4802fe0b826c19e78f7db662b5498f179cd3cb90d"
-      },
-      "49": {
-        "source_ref": "Acts 7:49",
-        "source_chapter": 7,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "9c73446f7c74dabf09c7a34cfe83bc3b50f977444e23ec5d479ed36f01144170"
-      },
-      "50": {
-        "source_ref": "Acts 7:50",
-        "source_chapter": 7,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "219923cebe638ca59b7cef8780313d5e9e4dc2763c48d5722ca72c97868d95b4"
-      },
-      "51": {
-        "source_ref": "Acts 7:51",
-        "source_chapter": 7,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "92e9e4d805a28aafc92fb242ac0266c30a5869809e9bfac13a27ba525056a692"
-      },
-      "52": {
-        "source_ref": "Acts 7:52",
-        "source_chapter": 7,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "f2fdd78e89e80c8ad7d4d2e4217a7327d8c541e986088eabf729a89aa29f50f1"
-      },
-      "53": {
-        "source_ref": "Acts 7:53",
-        "source_chapter": 7,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "252301b748c12a883b543950d4969df0dd951e7c4a28bbffe2b9e14ac665279b"
-      },
-      "54": {
-        "source_ref": "Acts 7:54",
-        "source_chapter": 7,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "3ea63a8707ae7b8e0b2fee3da0600571d6daf2fd94d8c9dc7345b563ff93c968"
-      },
-      "55": {
-        "source_ref": "Acts 7:55",
-        "source_chapter": 7,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "a035e214ac01bc68d5b61d2cde2ed66da747ead23c160f3f8e017db34548b50b"
-      },
-      "56": {
-        "source_ref": "Acts 7:56",
-        "source_chapter": 7,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "43548da328a1b07280e3509ac6b762a6993b48d50229e1341e7ad78e5d50e9b4"
-      },
-      "57": {
-        "source_ref": "Acts 7:57",
-        "source_chapter": 7,
-        "source_verse": 57,
-        "segment_mode": "whole_record",
-        "sha256": "58abcd3f232153c8875f902c9ac66cd620e5e71ddecdf9dd79ac45cb11133480"
-      },
-      "58": {
-        "source_ref": "Acts 7:58",
-        "source_chapter": 7,
-        "source_verse": 58,
-        "segment_mode": "whole_record",
-        "sha256": "9e26108183bc373116e47d5cd132a12246ed38d547c024f45993c1b7ade8155b"
-      },
-      "59": {
-        "source_ref": "Acts 7:59",
-        "source_chapter": 7,
-        "source_verse": 59,
-        "segment_mode": "whole_record",
-        "sha256": "8e7adda1021729597583c6ba1a077d0090ca9fe466cbf1df5ca81129348a2c68"
-      },
-      "60": {
-        "source_ref": "Acts 7:60",
-        "source_chapter": 7,
-        "source_verse": 60,
-        "segment_mode": "whole_record",
-        "sha256": "9958d0732b240a6256bc8e9e8b699c255f697dd45b4df627f3fcb129ac20d31e"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 60,
+    "path": "translations/fluent/NT/acts/Acts_07.md",
+    "before_sha256": "51993e1be2da1d5f19e42e2247de2913f503fbbb1e35ec62b24764e01511e76d",
+    "after_sha256": "0954f45230d44bbd259c0d07a33092f7d398ff84a382db003ada62c381bd5344",
+    "tsw_comparator_path": "books/NT/acts/Acts_07.md",
+    "tsw_comparator_sha256": "3f41433bc5bcef4e96098e8497bdb0665ea8cfea816612aa581577c9acc8898d"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 7:5",
+      "delta": "F3",
+      "rationale": "Keeps the vivid footprint idiom, promise, descendants, and childlessness.",
+      "source_reference": "Acts 7:5",
+      "source_verse_sha256": "769a293b83f749391feaad064dca7ec2798076592955e639d8d1ea9fcd3a1b42",
+      "before": "Yet God gave him no inheritance in it, not even enough to set his foot on, but promised to give it to him as a possession and to his offspring after him, even though Abraham had no child.",
+      "after": "God gave him no inheritance in it—not even enough ground to set his foot on—but promised to give it to him as a possession and to his descendants after him, though Abraham had no child.",
+      "tsw_comparator": "Yet he gave him no inheritance in it, not even a foot’s length, but promised to give it to him as a possession and to his offspring after him, though he had no child.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:6",
+      "delta": "F3",
+      "rationale": "Preserves foreign residence, enslavement, harm, and exact duration.",
+      "source_reference": "Acts 7:6",
+      "source_verse_sha256": "1252986432b2f4ba6cbe7ef0c635893ee9e2aa76f6810267e132d97f220473b6",
+      "before": "God spoke in this way: ‘His offspring will live as foreigners in a land belonging to others. They will enslave and mistreat them for four hundred years.",
+      "after": "God spoke of it this way: ‘His descendants will live as strangers in a foreign land, and its people will enslave and mistreat them for four hundred years.",
+      "tsw_comparator": "And God spoke to this effect—that his offspring would be sojourners in a land belonging to others, who would enslave them and afflict them four hundred years.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.428571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:7",
+      "delta": "F3",
+      "rationale": "Keeps divine judgment, exodus, and worship destination.",
+      "source_reference": "Acts 7:7",
+      "source_verse_sha256": "a17bdf918cc478f61ca30a81cd7b8485ee94d0a35779da1e842df216b88dbf74",
+      "before": "But I will judge the nation they serve,’ God said, ‘and after that they will come out and worship me in this place.’",
+      "after": "But I will judge the nation they serve,’ God said, ‘and afterward they will come out and worship me in this place.’",
+      "tsw_comparator": "‘But I will judge the nation that they serve,’ said God, ‘and after that they shall come out and worship me in this place.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.826087,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:8",
+      "delta": "F3",
+      "rationale": "Preserves covenant, genealogy, and eighth-day timing.",
+      "source_reference": "Acts 7:8",
+      "source_verse_sha256": "37c7368b42ac3eb2bea0ee1af64ab298cb6d3aaec29cad5d071558c50031299f",
+      "before": "Then God gave Abraham the covenant of circumcision. Abraham became the father of Isaac and circumcised him on the eighth day; Isaac became the father of Jacob, and Jacob of the twelve patriarchs.",
+      "after": "Then God gave Abraham the covenant of circumcision. So Abraham fathered Isaac and circumcised him on the eighth day; Isaac fathered Jacob, and Jacob the twelve patriarchs.",
+      "tsw_comparator": "And he gave him the covenant of circumcision. And so Abraham became the father of Isaac and circumcised him on the eighth day, and Isaac became the father of Jacob, and Jacob of the twelve patriarchs.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.698413,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:14",
+      "delta": "F3",
+      "rationale": "Retains the Greek total of seventy-five without harmonizing it.",
+      "source_reference": "Acts 7:14",
+      "source_verse_sha256": "7da16d1f1c724e83d2fa636e76f44210c68a9d786350f3b204b0982d228cfeeb",
+      "before": "Joseph sent for his father Jacob and all his relatives, seventy-five people in all.",
+      "after": "Then Joseph sent for his father Jacob and his whole family, seventy-five people in all.",
+      "tsw_comparator": "And Joseph sent and summoned Jacob his father and all his kindred, seventy-five persons in all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.606061,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:16",
+      "delta": "F3",
+      "rationale": "Preserves Stephen’s own compressed account without harmonizing narrative tensions.",
+      "source_reference": "Acts 7:16",
+      "source_verse_sha256": "dc40d7b13fd18978ebcca77d03ac69155137630fe31c80b18995fe16c2569db2",
+      "before": "They were brought back to Shechem and placed in the tomb Abraham had bought for a sum of silver from the sons of Hamor in Shechem.",
+      "after": "Their bodies were brought back to Shechem and placed in the tomb Abraham had bought for a sum of silver from the sons of Hamor in Shechem.",
+      "tsw_comparator": "and they were carried back to Shechem and laid in the tomb that Abraham had bought for a sum of silver from the sons of Hamor in Shechem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:19",
+      "delta": "F3",
+      "rationale": "Names the coercion and lethal harm without softening it.",
+      "source_reference": "Acts 7:19",
+      "source_verse_sha256": "281379fdbdad5cbcd0b801e6c892f3af01ee272a7854283ba3d6a64990d6e326",
+      "before": "This king dealt treacherously with our people and oppressed our ancestors, forcing them to abandon their infants so they would not survive.",
+      "after": "He dealt treacherously with our people and mistreated our ancestors, forcing them to abandon their infants so they would not survive.",
+      "tsw_comparator": "He dealt shrewdly with our race and forced our fathers to expose their infants, so that they would not be kept alive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.604651,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:20",
+      "delta": "F3",
+      "rationale": "Retains divine evaluation and exact period of family care.",
+      "source_reference": "Acts 7:20",
+      "source_verse_sha256": "73c9ee859507ffc515cac2fc89b71b9618ecdb47b42d020cf4bca27a00301fb5",
+      "before": "At that time Moses was born, and he was beautiful before God. He was cared for three months in his father’s house.",
+      "after": "At that time Moses was born, and he was beautiful in God’s sight. For three months he was cared for in his father’s house.",
+      "tsw_comparator": "At this time Moses was born, and he was beautiful before God. And he was brought up for three months in his father’s house,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:23",
+      "delta": "F3",
+      "rationale": "Preserves exact age, inward resolve, kinship, and identity.",
+      "source_reference": "Acts 7:23",
+      "source_verse_sha256": "f0bb00cd575766cfc3a801c74d393ac8bff5039a1169522f33c930f9facb8069",
+      "before": "When he was forty years old, it came into his heart to visit his brothers and sisters, the people of Israel.",
+      "after": "When he was forty years old, it came into his heart to visit his own people, the Israelites.",
+      "tsw_comparator": "“When he was forty years old, it came into his heart to visit his brothers, the children of Israel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:25",
+      "delta": "F3",
+      "rationale": "Keeps Moses’ expectation, divine agency, and failed recognition.",
+      "source_reference": "Acts 7:25",
+      "source_verse_sha256": "fa76d779b276970c3d5fb38f42466d6bdb749cd3f917b70b85809e7477277142",
+      "before": "He thought his people would understand that God was giving them deliverance through his hand, but they did not understand.",
+      "after": "He thought his own people would understand that God was giving them deliverance through him, but they did not understand.",
+      "tsw_comparator": "He supposed that his brothers would understand that God was giving them salvation by his hand, but they did not understand.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.682927,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:30",
+      "delta": "F3",
+      "rationale": "Preserves exact duration, setting, angel, and fire image.",
+      "source_reference": "Acts 7:30",
+      "source_verse_sha256": "bdb93e64151780536fdce762ab9f1ad7f0a8377b27bdb74f0b888d5c988d0f6f",
+      "before": "“After forty years had passed, an angel appeared to Moses in the wilderness of Mount Sinai, in the flame of a burning bush.",
+      "after": "“After forty years had passed, an angel appeared to him in the wilderness near Mount Sinai, in the flame of a burning bush.",
+      "tsw_comparator": "“Now when forty years had passed, an angel appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.791667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:34",
+      "delta": "F3",
+      "rationale": "Retains divine seeing, hearing, descent, rescue, and commission.",
+      "source_reference": "Acts 7:34",
+      "source_verse_sha256": "eba157eef0f634b3d39c45eda229a52cfa7be0f6b293289b368529c6d6a2d785",
+      "before": "I have certainly seen the oppression of my people in Egypt. I have heard their groaning, and I have come down to rescue them. Now come—I will send you to Egypt.’",
+      "after": "I have surely seen the mistreatment of my people in Egypt. I have heard their groaning, and I have come down to rescue them. Now come—I will send you to Egypt.’",
+      "tsw_comparator": "I have surely seen the affliction of my people who are in Egypt, and have heard their groaning, and I have come down to deliver them. And now come, I will send you to Egypt.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.865672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:35",
+      "delta": "F3",
+      "rationale": "Preserves the rejection-and-commission reversal and the title redeemer.",
+      "source_reference": "Acts 7:35",
+      "source_verse_sha256": "124c7818e997ebe36dc8b1ae0eddd22c6f7975b17c530885534827b50cb6fa1e",
+      "before": "This Moses, whom they rejected when they said, ‘Who made you a ruler and judge?’—this is the one God sent as both ruler and redeemer through the angel who appeared to him in the bush.",
+      "after": "“This Moses, whom they rejected by saying, ‘Who made you a ruler and judge?’ is the very one God sent as both ruler and redeemer through the angel who appeared to him in the bush.",
+      "tsw_comparator": "“This Moses, whom they rejected, saying, ‘Who made you a ruler and a judge?’—this man God sent as both ruler and redeemer by the hand of the angel who appeared to him in the bush.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.816901,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:38",
+      "delta": "F3",
+      "rationale": "Preserves assembly, angel, ancestors, Sinai, and living-oracles image.",
+      "source_reference": "Acts 7:38",
+      "source_verse_sha256": "333c016d775761ea33a2f0cc8a776f31867c88a182e5ca297c83d0bd64b51c6e",
+      "before": "This is the one who was in the assembly in the wilderness with the angel who spoke to him at Mount Sinai and with our ancestors. He received living words to give to us.",
+      "after": "He is the one who was in the assembly in the wilderness with the angel who spoke to him at Mount Sinai and with our ancestors. He received living words to give to us.",
+      "tsw_comparator": "This is the one who was in the congregation in the wilderness with the angel who spoke to him at Mount Sinai, and with our fathers. He received living oracles to give to us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:42",
+      "delta": "F3",
+      "rationale": "Keeps divine response, celestial-army image, citation frame, question, and duration.",
+      "source_reference": "Acts 7:42",
+      "source_verse_sha256": "3300d90482eb76237a61b0a6191d6daa22ce7ac79604870a883e978c452dbdc0",
+      "before": "So God turned away and gave them over to worship the army of heaven, just as it is written in the book of the prophets: ‘House of Israel, did you bring me slaughtered animals and sacrifices during those forty years in the wilderness?",
+      "after": "So God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets: ‘House of Israel, was it to me that you offered slaughtered animals and sacrifices for forty years in the wilderness?",
+      "tsw_comparator": "But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets: ‘Did you bring to me slain beasts and sacrifices during the forty years in the wilderness, O house of Israel?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:43",
+      "delta": "F3",
+      "rationale": "Preserves divine names, manufactured images, worship, and exile.",
+      "source_reference": "Acts 7:43",
+      "source_verse_sha256": "9611221f2179e28b7d373302f41c22ccbffba582ecfdc5a8caafb57692dfb438",
+      "before": "You carried the tent of Moloch and the star of your god Rephan, the images you made to worship. So I will send you into exile beyond Babylon.’",
+      "after": "You carried the tent of Moloch and the star of your god Rephan, the images you made to worship. Therefore I will send you into exile beyond Babylon.’",
+      "tsw_comparator": "You took up the tent of Moloch and the star of your god Rephan, the images that you made to worship; and I will send you into exile beyond Babylon.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:45",
+      "delta": "F3",
+      "rationale": "Preserves succession, conquest agency, Joshua, and duration.",
+      "source_reference": "Acts 7:45",
+      "source_verse_sha256": "24bebcd5f6973e9f059d60f1d9b88d44ba950dbc1ca8ef8ea5d7621296bc49bb",
+      "before": "Our ancestors received it and brought it in with Joshua when they took possession of the land of the nations God drove out before them. It remained until the days of David,",
+      "after": "Our ancestors received it and brought it in with Joshua when they took possession of the nations God drove out before them. It remained there until the days of David.",
+      "tsw_comparator": "Our fathers in turn brought it in with Joshua when they dispossessed the nations that God drove out before our fathers. So it was until the days of David,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.677966,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:46",
+      "delta": "F3",
+      "rationale": "Retains favor, request, and divine title.",
+      "source_reference": "Acts 7:46",
+      "source_verse_sha256": "2ede2af89fc649f531e7d0464809eef8f26c573c19e5e46ad971eb860ad0e9e3",
+      "before": "who found favor before God and asked to find a dwelling place for the God of Jacob.",
+      "after": "David found favor before God and asked to find a dwelling place for the God of Jacob.",
+      "tsw_comparator": "who found favor in the sight of God and asked to find a dwelling place for the God of Jacob.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:48",
+      "delta": "F3",
+      "rationale": "Preserves divine title, negation, handmade motif, and quotation frame.",
+      "source_reference": "Acts 7:48",
+      "source_verse_sha256": "77c18f3a259eab55792f7a945a12269d455bb6e56546f6992de13dcd7806b68d",
+      "before": "Yet the Most High does not live in houses made by human hands, as the prophet says:",
+      "after": "Yet the Most High does not live in houses made by human hands. As the prophet says:",
+      "tsw_comparator": "Yet the Most High does not dwell in houses made by hands, as the prophet says,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:51",
+      "delta": "F3",
+      "rationale": "Retains the harsh embodied images, accusation, Spirit, and continuity.",
+      "source_reference": "Acts 7:51",
+      "source_verse_sha256": "c430277ccff7b57612897d65cf7e76b352ceaf28d6c204ccc65c9f243e586ee4",
+      "before": "“You stiff-necked people, uncircumcised in heart and ears! You always resist the Holy Spirit. You are doing just what your ancestors did.",
+      "after": "“You stiff-necked people, uncircumcised in heart and ears! You always resist the Holy Spirit. You are just like your ancestors.",
+      "tsw_comparator": "“You stiff-necked people, uncircumcised in heart and ears, you always resist the Holy Spirit. As your fathers did, so do you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.744186,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:52",
+      "delta": "F3",
+      "rationale": "Keeps rhetorical question, persecution, title, betrayal, and killing.",
+      "source_reference": "Acts 7:52",
+      "source_verse_sha256": "bbbdb1ad8f89f35dc3df585dda0ea4c8f9ee7a25ef4d9471ccba3671bace114c",
+      "before": "Which of the prophets did your ancestors not persecute? They killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered.",
+      "after": "Which of the prophets did your ancestors not persecute? They even killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered.",
+      "tsw_comparator": "Which of the prophets did your fathers not persecute? And they killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.931034,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:53",
+      "delta": "F3",
+      "rationale": "Preserves angelic mediation and accusation of disobedience.",
+      "source_reference": "Acts 7:53",
+      "source_verse_sha256": "e46485f20dea2a67a382ed8eed08f8a6ab2100e95c078c743777c6c86dfc0732",
+      "before": "You received the Law as delivered by angels but did not keep it.”",
+      "after": "You received the law as ordained through angels, yet you did not keep it.”",
+      "tsw_comparator": "you who received the law as delivered by angels and did not keep it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:58",
+      "delta": "F3",
+      "rationale": "Preserves expulsion, execution violence, legal witnesses, garments, and Saul.",
+      "source_reference": "Acts 7:58",
+      "source_verse_sha256": "72a6b8ccac45e84d9507478a4456b147b5713218a7f96989e9d0986fec60d30f",
+      "before": "They drove him out of the city and began stoning him. The witnesses laid their outer garments at the feet of a young man named Saul.",
+      "after": "They drove him out of the city and began to stone him. The witnesses laid their cloaks at the feet of a young man named Saul.",
+      "tsw_comparator": "Then they cast him out of the city and stoned him. And the witnesses laid down their garments at the feet of a young man named Saul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.792453,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 7:60",
+      "delta": "F3",
+      "rationale": "Keeps posture, loud prayer, forgiveness request, and death metaphor.",
+      "source_reference": "Acts 7:60",
+      "source_verse_sha256": "5b4f77226a19418ba85015929c96215949d780251ce2f37ece91b5be231adb6e",
+      "before": "Then he fell to his knees and cried out loudly, “Lord, do not hold this sin against them.” After saying this, he fell asleep.",
+      "after": "Then he fell to his knees and cried out in a loud voice, “Lord, do not hold this sin against them.” After saying this, he fell asleep.",
+      "tsw_comparator": "And falling to his knees he cried out with a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

@@ -591,12 +591,17 @@
       "scope": "Acts 1–6",
       "verses": 193,
       "ledger": "audit/fluent-revision/2026-09-16-acts-1-6/acts-verse-review.json"
+    },
+    {
+      "scope": "Acts 7–14",
+      "verses": 325,
+      "ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Acts 7–28; Romans 1–6",
-      "action": "Continue the remaining 28 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "Acts 15–28; Romans 1–6",
+      "action": "Continue the remaining 20 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
     },
     {
       "scope": "Whole-book Mark consistency review",
@@ -806,11 +811,11 @@
     "scope": "John 6–21; Acts 1–28; Romans 1–6",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 22,
-    "completed_scope": "John 6–21; Acts 1–6",
-    "completed_verses": 859,
-    "remaining_scope": "Acts 7–28; Romans 1–6",
-    "remaining_chapters": 28,
+    "completed_chapters": 30,
+    "completed_scope": "John 6–21; Acts 1–14",
+    "completed_verses": 1184,
+    "remaining_scope": "Acts 15–28; Romans 1–6",
+    "remaining_chapters": 20,
     "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. The preceding fifty-chapter block is draft-complete; source and structural checks passed for this partial block. Independent editorial review and reader testing remain pending."
   }
 }

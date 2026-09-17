@@ -2,197 +2,207 @@
   "book": "Acts",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 25,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_12.md",
-    "blob_sha": "56a2eb923ef80a6aa4298da7bd7724f3226060f2"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_12_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 12:1",
-        "source_chapter": 12,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "24127c8f4c1f9895df0f4fe08d1e513a06eb3ca8376b6bdf14fd3ee231d5ada1"
-      },
-      "2": {
-        "source_ref": "Acts 12:2",
-        "source_chapter": 12,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "4040c06d0530d2124244b7285a4c5db74ee40a27ef542e55a8398ea962e015d9"
-      },
-      "3": {
-        "source_ref": "Acts 12:3",
-        "source_chapter": 12,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "7dd62758709897c621472a5ba295864d51913987b1bdb6bfc3bceae45f17ce75"
-      },
-      "4": {
-        "source_ref": "Acts 12:4",
-        "source_chapter": 12,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "81a388ee767d512c9f49c399875eaf0aef56412340638607818b1119d46b5470"
-      },
-      "5": {
-        "source_ref": "Acts 12:5",
-        "source_chapter": 12,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "749d9ae3f98505d65ef3e1d84e856b05ae6bc350595a9fdb7ba46b161aa545f2"
-      },
-      "6": {
-        "source_ref": "Acts 12:6",
-        "source_chapter": 12,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "fbce6e580f1e7b662207bcd2daab2208ff802c0d53a976aff41063c9b8a1b1af"
-      },
-      "7": {
-        "source_ref": "Acts 12:7",
-        "source_chapter": 12,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "707f4c632000377e5fa731cd0cb35d1f55c2b68bbcc2bfde8bd11c10dab3ff8a"
-      },
-      "8": {
-        "source_ref": "Acts 12:8",
-        "source_chapter": 12,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "b329a1c691bc29ea4f44271103533b00ac38664dced58ca338ca0507454091d8"
-      },
-      "9": {
-        "source_ref": "Acts 12:9",
-        "source_chapter": 12,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "573316cc710664efa8cc6d72c73a7fea67d1294c837802b542bfc28df96d2ef0"
-      },
-      "10": {
-        "source_ref": "Acts 12:10",
-        "source_chapter": 12,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "306400481249c17e64095094175add130c3feb11744c5f9be4d9c618f454dc8d"
-      },
-      "11": {
-        "source_ref": "Acts 12:11",
-        "source_chapter": 12,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "1a7cd18198cd900ed6e2748877bbb2d3207c87f31fb3a0c09a3b206636eac872"
-      },
-      "12": {
-        "source_ref": "Acts 12:12",
-        "source_chapter": 12,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "8f6d2df7e9b5c424fa6f49d2140c0d609e78c3737caacf3cc29ee27b13dbf05d"
-      },
-      "13": {
-        "source_ref": "Acts 12:13",
-        "source_chapter": 12,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "25d7346628cb956ee6493c902ce830b4f7e07d2d003a3b7dcb73faefd0318db6"
-      },
-      "14": {
-        "source_ref": "Acts 12:14",
-        "source_chapter": 12,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "dd28a8943dda0926279c9dfb1a7ab4a1578cbaa292088fe9e62dedf861668f87"
-      },
-      "15": {
-        "source_ref": "Acts 12:15",
-        "source_chapter": 12,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "963ed383b3cb15734befb7df793d69efa319bc8e31c3cd873c87555c420f71df"
-      },
-      "16": {
-        "source_ref": "Acts 12:16",
-        "source_chapter": 12,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "3480b6d63ad42b34d753c6efa898a263ec1dadb61eb0dac8911ab1ce6ebbf4bc"
-      },
-      "17": {
-        "source_ref": "Acts 12:17",
-        "source_chapter": 12,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "2cbc36850b73e08cef5074864a6d571d797a62ff221a091635badf8a689a09ff"
-      },
-      "18": {
-        "source_ref": "Acts 12:18",
-        "source_chapter": 12,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "fcde35e81b06bd7fc716fa2bd3ff5d01187ae3ba3b33e2036dfaa56a1a1826c3"
-      },
-      "19": {
-        "source_ref": "Acts 12:19",
-        "source_chapter": 12,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f828db72905c62554c0062c3a7c6ffd09afb740aaa669f8e0ede930074d01589"
-      },
-      "20": {
-        "source_ref": "Acts 12:20",
-        "source_chapter": 12,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "55c4adb2e2c97398344923fcb36b78f238afc03e9deadebf604398232a0adfcb"
-      },
-      "21": {
-        "source_ref": "Acts 12:21",
-        "source_chapter": 12,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "1b62bb0c2e99ab09260aeb1488dbf7bc54c3a1cf4fd30b395f2687d0a2d12e90"
-      },
-      "22": {
-        "source_ref": "Acts 12:22",
-        "source_chapter": 12,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "b94deb128a8bda5feda9193cf061f163550ab3325f1921a7e62287b65bc8f4f6"
-      },
-      "23": {
-        "source_ref": "Acts 12:23",
-        "source_chapter": 12,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "de689f1b2b84dd1f714435209a6805a6284231c590588e08f9ec84bdb1848dc3"
-      },
-      "24": {
-        "source_ref": "Acts 12:24",
-        "source_chapter": 12,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "ab91e851d9daf4e5101573bfac3dc327975f5880409167292ec899a6bb8f7126"
-      },
-      "25": {
-        "source_ref": "Acts 12:25",
-        "source_chapter": 12,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "38132d8a31690efd385af13c98d2d5c3d376444ab7a22500dd5b8eb14fc0c1d5"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/acts/Acts_12.md",
+    "before_sha256": "38fadf7e8c95a77be09e33da03c01f37a8627a9179fe9ad986a77b42f79e5f1e",
+    "after_sha256": "f683d0b2d684012d373e37fee4c61c3393d9288cfcdecfc488646ee64fc3ae3d",
+    "tsw_comparator_path": "books/NT/acts/Acts_12.md",
+    "tsw_comparator_sha256": "096f5008a0da7f77c96096ad2f1235ef311c09299a5e91d74e86d6ae12184d3f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 12:2",
+      "delta": "F3",
+      "rationale": "Preserves Herod’s agency, kinship, death, and weapon.",
+      "source_reference": "Acts 12:2",
+      "source_verse_sha256": "1e88bdcab18ee3f1cd0d14888fe37e4f72d80d4e5c81dfee4461e9eedb381563",
+      "before": "He killed James, John’s brother, with the sword.",
+      "after": "He had James, the brother of John, killed with the sword.",
+      "tsw_comparator": "And he killed James the brother of John with the sword.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:4",
+      "delta": "F3",
+      "rationale": "Keeps prisoner, four-by-four guard detail, Herod’s purpose, audience, and timing.",
+      "source_reference": "Acts 12:4",
+      "source_verse_sha256": "cfeba633cffd4b17bec1cf6bc515a314507506738e4a766d89b9bf99e62e6990",
+      "before": "After arresting him, Herod put him in prison and handed him over to four squads of soldiers to guard him. He intended to bring him out to the people after Passover.",
+      "after": "After arresting Peter, he put him in prison and assigned four squads of four soldiers each to guard him. Herod intended to bring him out before the people after Passover.",
+      "tsw_comparator": "And seizing him, he put him in prison, delivering him to four squads of soldiers to guard him, intending after the Passover to bring him out to the people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.610169,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:7",
+      "delta": "F3",
+      "rationale": "Preserves sudden appearance, light, forceful waking, urgent command, and falling chains.",
+      "source_reference": "Acts 12:7",
+      "source_verse_sha256": "676885ed9da531bc2eacc4613a0c4424d34a236b2b2ce9d02f3c2c225bda5860",
+      "before": "Suddenly an angel of the Lord stood there, and a light shone in the cell. The angel struck Peter on the side, woke him, and said, “Get up quickly!” The chains fell from his wrists.",
+      "after": "Suddenly an angel of the Lord appeared, and a light shone in the cell. The angel struck Peter on the side and woke him, saying, “Get up quickly!” The chains fell from his hands.",
+      "tsw_comparator": "And behold, an angel of the Lord stood by, and a light shone in the cell; and striking Peter on the side, he raised him, saying, “Rise quickly.” And his chains fell off from his hands.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:10",
+      "delta": "F3",
+      "rationale": "Keeps guard sequence, iron gate, automatic opening, one street, and departure.",
+      "source_reference": "Acts 12:10",
+      "source_verse_sha256": "cd474bcf371b519dcdf46872ce1def82b1a048c6b36a22e21a1249b56a4294e1",
+      "before": "They passed the first and second guard posts and came to the iron gate leading into the city. It opened for them by itself. They went out and walked along one street, and immediately the angel left him.",
+      "after": "They passed the first and second guard posts and came to the iron gate leading into the city. It opened for them by itself, and they went out and walked the length of one street. Suddenly the angel left him.",
+      "tsw_comparator": "And passing through the first and second guard, they came to the iron gate leading into the city, which opened to them by itself, and going out, they went along one street, and immediately the angel departed from him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.658228,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:11",
+      "delta": "F3",
+      "rationale": "Preserves realization, certainty, divine mission, rescue, Herod, and public expectation.",
+      "source_reference": "Acts 12:11",
+      "source_verse_sha256": "6f0c0982241c4757cafc62a69fed9c4dd707754c399e5e68204aad6e3fcd4403",
+      "before": "Then Peter came to himself and said, “Now I truly know that the Lord sent his angel and rescued me from Herod’s hand and from everything the Jewish people were expecting.”",
+      "after": "Then Peter came to himself and said, “Now I know for certain that the Lord sent his angel and rescued me from Herod’s power and from everything the Jewish people were expecting.”",
+      "tsw_comparator": "And when Peter came to himself, he said, “Now I know truly that the Lord has sent his angel and rescued me from the hand of Herod and from all the expectation of the people of the Jews.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:13",
+      "delta": "F3",
+      "rationale": "Preserves action, gate, social role, name, and purpose.",
+      "source_reference": "Acts 12:13",
+      "source_verse_sha256": "8335865bf15d0c4512b14ae87ae9bd0fb95a8fbc7a2d23720f2dfb025165d729",
+      "before": "When he knocked at the outer gate, a servant girl named Rhoda came to answer.",
+      "after": "When Peter knocked at the outer gate, a servant girl named Rhoda came to answer.",
+      "tsw_comparator": "And when he knocked at the door of the gate, a servant girl named Rhoda came to answer.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:15",
+      "delta": "F3",
+      "rationale": "Preserves disbelief, her persistence, and their alternative explanation.",
+      "source_reference": "Acts 12:15",
+      "source_verse_sha256": "0850db7c5c353717a19e3d31b2de0af6bb794a140b3ada30902a5cf0372db291",
+      "before": "They told her, “You are out of your mind.” But she kept insisting it was true. They said, “It is his angel.”",
+      "after": "They told her, “You are out of your mind!” But she kept insisting it was true. Then they said, “It must be his angel.”",
+      "tsw_comparator": "But they said to her, “You are out of your mind.” But she kept insisting that it was so. And they were saying, “It is his angel.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:17",
+      "delta": "F3",
+      "rationale": "Preserves gesture, divine rescue, named recipient, inclusive community, and discreet departure.",
+      "source_reference": "Acts 12:17",
+      "source_verse_sha256": "6f79f92db27b993485d69cad0f78e0689af07165601d23680b6849b03d72236f",
+      "before": "He motioned with his hand for them to be quiet and described how the Lord had brought him out of the prison. Then he said, “Tell these things to James and the brothers and sisters.” Afterward he left and went to another place.",
+      "after": "He motioned with his hand for them to be quiet and described how the Lord had brought him out of prison. He said, “Tell James and the brothers and sisters about this.” Then he left and went to another place.",
+      "tsw_comparator": "But motioning to them with his hand to be silent, he described to them how the Lord had brought him out of the prison. And he said, “Report these things to James and the brothers.” And going out, he went to another place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.650602,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:19",
+      "delta": "F3",
+      "rationale": "Preserves failed search, interrogation, fatal order, movement, and residence.",
+      "source_reference": "Acts 12:19",
+      "source_verse_sha256": "fdd274d3a0476c36beaa9b7021526a7ce5467e3f9b7621fcce89fe39ff32bfa0",
+      "before": "Herod searched for him but could not find him. After questioning the guards, he ordered them to be led away for execution. Then Herod went down from Judea to Caesarea and stayed there.",
+      "after": "Herod searched for him but did not find him. After questioning the guards, he ordered them to be taken away for execution. Then Herod went down from Judea to Caesarea and stayed there.",
+      "tsw_comparator": "And Herod, having searched for him and not finding him, examined the guards and ordered that they be led away to execution. And he went down from Judea to Caesarea and stayed there.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:20",
+      "delta": "F3",
+      "rationale": "Keeps royal anger, cities, collective approach, official, peace request, and economic dependence.",
+      "source_reference": "Acts 12:20",
+      "source_verse_sha256": "8e6f538c15a39eac4cfa7f570f05e86b66348deac85ab99d14fb0d28fbec19ce",
+      "before": "Herod was furious with the people of Tyre and Sidon. They came to him together, and after winning over Blastus, the king’s chamberlain, they asked for peace because their region depended on the king’s country for food.",
+      "after": "Herod had been furious with the people of Tyre and Sidon. They came to him together, and after winning over Blastus, the king’s chamberlain, they asked for peace because their country depended on the king’s country for food.",
+      "tsw_comparator": "Now he was very angry with the people of Tyre and Sidon, but they came to him with one accord, and persuading Blastus, the one over the king’s bedchamber, they were asking for peace, because their region was fed from the king’s country.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.567901,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:23",
+      "delta": "F3",
+      "rationale": "Retains divine judgment, reason, graphic bodily harm, and death.",
+      "source_reference": "Acts 12:23",
+      "source_verse_sha256": "b8602f1e24d5138fe63bec6648d129cc807797ce04a50edf04bca58b1523a234",
+      "before": "Immediately an angel of the Lord struck him because he did not give glory to God. He was eaten by worms and died.",
+      "after": "Immediately an angel of the Lord struck him because he did not give glory to God. He was eaten by worms and died.",
+      "tsw_comparator": "And immediately an angel of the Lord struck him, because he did not give the glory to God, and being eaten by worms, he breathed his last.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.76,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 12:25",
+      "delta": "F3",
+      "rationale": "Keeps the pinned phrase “in Jerusalem” with the completed mission while avoiding a direction not explicit in the displayed source.",
+      "source_reference": "Acts 12:25",
+      "source_verse_sha256": "da4f2c528a1505dbfb804de80dc869cfe10ed86ca4c26382d65e5ebdad57ad69",
+      "before": "Barnabas and Saul returned from Jerusalem after completing their service, taking with them John who was called Mark.",
+      "after": "Barnabas and Saul returned after completing their relief mission in Jerusalem, taking with them John who was called Mark.",
+      "tsw_comparator": "And Barnabas and Saul returned from Jerusalem when they had completed their service, taking with them John, who is called Mark.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

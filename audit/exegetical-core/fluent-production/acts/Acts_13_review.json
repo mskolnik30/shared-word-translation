@@ -2,386 +2,402 @@
   "book": "Acts",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 52,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_13.md",
-    "blob_sha": "6831ca6ea65b8a78a5aad59b8e56e1a48fc7fb92"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_13_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 13:1",
-        "source_chapter": 13,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "862172761e0b6c23a3e34bfe9250ff6abee1b2c3313a825aa6bbdb7fad928962"
-      },
-      "2": {
-        "source_ref": "Acts 13:2",
-        "source_chapter": 13,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "96033930776365fe70408b8e9f51b171af5fc6c7a98c0f0a1f203078fa287108"
-      },
-      "3": {
-        "source_ref": "Acts 13:3",
-        "source_chapter": 13,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "cf45adbb92d629dc04e27b0eadc65439e11e73e3cd996e57934baad9cd4ddf71"
-      },
-      "4": {
-        "source_ref": "Acts 13:4",
-        "source_chapter": 13,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "54500a8f692e0b6f95b014010547361b30b49309546a4f74e40373866ed8dc32"
-      },
-      "5": {
-        "source_ref": "Acts 13:5",
-        "source_chapter": 13,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "9f7ad3d3cf44a35b9ea1b180c080a78e61e128e0af0d6a8892facbe89f59d410"
-      },
-      "6": {
-        "source_ref": "Acts 13:6",
-        "source_chapter": 13,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "009fd2620359441032f43adcba47bd642b3a09206934fb54f2002cee18476b97"
-      },
-      "7": {
-        "source_ref": "Acts 13:7",
-        "source_chapter": 13,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "269b84300e9418426da7aa49ac7bbdd2a5cf4e255bc1ad0286ed2a6c42c30e35"
-      },
-      "8": {
-        "source_ref": "Acts 13:8",
-        "source_chapter": 13,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "147475bda64a5cac077072b9ce31ba601dd56240d440d95eb0e4139a13877b57"
-      },
-      "9": {
-        "source_ref": "Acts 13:9",
-        "source_chapter": 13,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "87038613b1a3f39744d6e628b4dc0f2098829afa6c3b6dd4607bc783f2e18d31"
-      },
-      "10": {
-        "source_ref": "Acts 13:10",
-        "source_chapter": 13,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "0d625821247c518853c2151b1c7d3b28fa81110297b8d2b919aa268f9dba11ec"
-      },
-      "11": {
-        "source_ref": "Acts 13:11",
-        "source_chapter": 13,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "7794f17a1bf498f88c1a577358ce088b677175e12b34997f21c97a9c28dc7b5e"
-      },
-      "12": {
-        "source_ref": "Acts 13:12",
-        "source_chapter": 13,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "2b053fcd160c15b28f7818cb3a2e9fb4096be2bb751d4d774b0dafa35671edff"
-      },
-      "13": {
-        "source_ref": "Acts 13:13",
-        "source_chapter": 13,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "1afd0d26e22be7a7be7ac699710cab081a9c7fef0e38bfab6855ec66d7bb2df2"
-      },
-      "14": {
-        "source_ref": "Acts 13:14",
-        "source_chapter": 13,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "55fff1a4ea9a5a9660cc4cc682b13f75f36262078fd937ff2e93193949b6da17"
-      },
-      "15": {
-        "source_ref": "Acts 13:15",
-        "source_chapter": 13,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "69573e4cdb0904b8f54b280aa6aec3068096bbbff025162faa2d7298d4765e4d"
-      },
-      "16": {
-        "source_ref": "Acts 13:16",
-        "source_chapter": 13,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "92047d6dc2caa939bcd98714ec02b887ff04b10eaf5165ebaa03595dbc2217c0"
-      },
-      "17": {
-        "source_ref": "Acts 13:17",
-        "source_chapter": 13,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "e85258bbcafb54e0bbd655ea3718e5786f92e39cee156d10c8a7eff22bebd790"
-      },
-      "18": {
-        "source_ref": "Acts 13:18",
-        "source_chapter": 13,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "31c8f66d40746e9e5b890c313fb5e60cde8d763272ae557f5b2f2b3f6b57bb4a"
-      },
-      "19": {
-        "source_ref": "Acts 13:19",
-        "source_chapter": 13,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "84ffa8978b91b30e2e7df431277a5540d5c6d6655c39985999fbd4d1eee67d50"
-      },
-      "20": {
-        "source_ref": "Acts 13:20",
-        "source_chapter": 13,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "f483c3580c8154f45969dff9c01532c3579999cf7744ba2493f1e1d6ee807204"
-      },
-      "21": {
-        "source_ref": "Acts 13:21",
-        "source_chapter": 13,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "ea1190b0bac9c155dd8335b9c6479d2e3ac79963dbb7b1cfeff5d829606f4a8f"
-      },
-      "22": {
-        "source_ref": "Acts 13:22",
-        "source_chapter": 13,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "67977c4889fbf76260f13583fca09a92771a9cb9d073e7f9d2c230c0dd5aeec9"
-      },
-      "23": {
-        "source_ref": "Acts 13:23",
-        "source_chapter": 13,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "9a40e1237d3bbf355b08edf43c0cb96d7c8be0cec565a844e0a7a4187978d606"
-      },
-      "24": {
-        "source_ref": "Acts 13:24",
-        "source_chapter": 13,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "088831e9a82876bb1f18865375a5f6c23269a4a26b729479df755b8e1f7d9444"
-      },
-      "25": {
-        "source_ref": "Acts 13:25",
-        "source_chapter": 13,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e07f50f18a2c0ea72c7b784d11210f8a5d90cbf2ea94a217baea3194ab835839"
-      },
-      "26": {
-        "source_ref": "Acts 13:26",
-        "source_chapter": 13,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "1da6b92fe49380a495605c142bb1ff144a36237e99ad04be0b26400a11b66be3"
-      },
-      "27": {
-        "source_ref": "Acts 13:27",
-        "source_chapter": 13,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "9da1613e317e8dae741f2bc12aaa2fcc335a1132c473bf0a41d1b162033b4707"
-      },
-      "28": {
-        "source_ref": "Acts 13:28",
-        "source_chapter": 13,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "02b6b37f14ec00143e55e2b7d684de9162765fd6c5a414265905afc2e0e41490"
-      },
-      "29": {
-        "source_ref": "Acts 13:29",
-        "source_chapter": 13,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "77558b99fbf6cf6e92f35e9c24a131673b2d48adb4304a73597767e4945633f1"
-      },
-      "30": {
-        "source_ref": "Acts 13:30",
-        "source_chapter": 13,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "ea01abe367fdce73fd90eb0d1023c137f43f2e0a291ea421ad1a7cf8525861c9"
-      },
-      "31": {
-        "source_ref": "Acts 13:31",
-        "source_chapter": 13,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "272f3a6e645d3b0abc1c6569ae7f35cbe0e8a8e3f819c311bf8126dab683361e"
-      },
-      "32": {
-        "source_ref": "Acts 13:32",
-        "source_chapter": 13,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "6b944893835afbda7c9812cb364be1d47de136ea9e9bdd09fe0ce37ed32d08d2"
-      },
-      "33": {
-        "source_ref": "Acts 13:33",
-        "source_chapter": 13,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "336cba4f01f67e0e83c7d16cf1cdf9198fb094b13e85c5591efbddcaa384ef1e"
-      },
-      "34": {
-        "source_ref": "Acts 13:34",
-        "source_chapter": 13,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "784beb92d5eb02bc6233133d74ed14ae98ba69ee023ab29c36ab674e2fefc9a5"
-      },
-      "35": {
-        "source_ref": "Acts 13:35",
-        "source_chapter": 13,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "c8d45492ec83dbe2db0c3f2064a75a05dc03c318fdc63c9521be6e09f1410b4c"
-      },
-      "36": {
-        "source_ref": "Acts 13:36",
-        "source_chapter": 13,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "7aa87e447d67dfc047cc3887db3949eb96d39ca8892e2198d3713128b8ec9276"
-      },
-      "37": {
-        "source_ref": "Acts 13:37",
-        "source_chapter": 13,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "b09afbe2c79bd8ee8b216570aa3c00219a9231e7430ec0cec92fd848a93ea236"
-      },
-      "38": {
-        "source_ref": "Acts 13:38",
-        "source_chapter": 13,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "4a8c72f8a09f48e22e64055cacbde0992e56f5f69bbbd889e5b9dcb1bf21f3d2"
-      },
-      "39": {
-        "source_ref": "Acts 13:39",
-        "source_chapter": 13,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "8789812348ddc27f576ac75cbb419dc12685782554cf403785d869622dfff960"
-      },
-      "40": {
-        "source_ref": "Acts 13:40",
-        "source_chapter": 13,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "851bf241ebb56808420fcf3dc70993a4b33a2bace43d89376094b4ee2faaa224"
-      },
-      "41": {
-        "source_ref": "Acts 13:41",
-        "source_chapter": 13,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "0d9e1cfeba206179e58480f801752abd8593146a3933e596ddedb591b0105eda"
-      },
-      "42": {
-        "source_ref": "Acts 13:42",
-        "source_chapter": 13,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "1276efa6f052a4013d0d0dfab7341ad30c08d38a29c25fb72b994770e9af534d"
-      },
-      "43": {
-        "source_ref": "Acts 13:43",
-        "source_chapter": 13,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "87549ef11f1f907b38f1d63b53ab335d8c827096b9427d04b576f470ce75e28d"
-      },
-      "44": {
-        "source_ref": "Acts 13:44",
-        "source_chapter": 13,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "09e5eba4bad55c3a73ad2d40c44a65ae37be8337fe6650b67ad96296381a0346"
-      },
-      "45": {
-        "source_ref": "Acts 13:45",
-        "source_chapter": 13,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "d3d1829ff06bc02f9f11c5f001a7a1cabb560e3389b708ac11bdcc90470cbe07"
-      },
-      "46": {
-        "source_ref": "Acts 13:46",
-        "source_chapter": 13,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "d018aa953c35ef3becfc5e0c9ee5a5e884625635da4ffb041eab643dc237face"
-      },
-      "47": {
-        "source_ref": "Acts 13:47",
-        "source_chapter": 13,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "7407741f8ca73311a269bf9b4d740d6a590f6ea4b255fe4893674a69850daefc"
-      },
-      "48": {
-        "source_ref": "Acts 13:48",
-        "source_chapter": 13,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "1a647a4957e32ebe62763dfd7872d1522823c3b03d711f50de7c2e68382fb2a1"
-      },
-      "49": {
-        "source_ref": "Acts 13:49",
-        "source_chapter": 13,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "25ef8157e1e9f6132b25e61c9f067997d160d6802df7b9deb995a183d404f061"
-      },
-      "50": {
-        "source_ref": "Acts 13:50",
-        "source_chapter": 13,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "339018018597ff145fbb3d681614e80a7298c41ee6dd6029bb7978a22020978d"
-      },
-      "51": {
-        "source_ref": "Acts 13:51",
-        "source_chapter": 13,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "afbe127dcfe98b00ba905ad00792a388f3a5b6fc1dada5f311b7dd49e932fe21"
-      },
-      "52": {
-        "source_ref": "Acts 13:52",
-        "source_chapter": 13,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "a4e69b12424a4262621dae5bdbd564a92860340ebdcec6f2031b52701d5b642c"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 52,
+    "path": "translations/fluent/NT/acts/Acts_13.md",
+    "before_sha256": "1e5815cc7144a79dd1e891691d8ff8dab993dee88efde1523d740bfac82d0c1f",
+    "after_sha256": "7f89add6fd22739a22c5f68a69382a7a559f34f6f71fc21f92aac8a6dcb4ed3a",
+    "tsw_comparator_path": "books/NT/acts/Acts_13.md",
+    "tsw_comparator_sha256": "e78ac5b660845a1492a5e88ad79b2268a841a1e71cf0449421f8ebc1310c85a9"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 13:1",
+      "delta": "F3",
+      "rationale": "Preserves church, two roles, all five names, origins, nickname, and Herod relationship.",
+      "source_reference": "Acts 13:1",
+      "source_verse_sha256": "ca1e30ccef566c6829c51c92eab6a4e6d80f11eedd3da24bfe2829a1f8e97918",
+      "before": "In the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen, who had been raised with Herod the tetrarch, and Saul.",
+      "after": "In the church at Antioch there were prophets and teachers: Barnabas; Simeon called Niger; Lucius of Cyrene; Manaen, a close companion of Herod the tetrarch; and Saul.",
+      "tsw_comparator": "Now there were in Antioch, in the church that was there, prophets and teachers: Barnabas, and Simeon who was called Niger, and Lucius of Cyrene, and Manaen, who had been brought up with Herod the tetrarch, and Saul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:2",
+      "delta": "F3",
+      "rationale": "Keeps worship, fasting, Spirit speech, two names, separation, work, and prior call.",
+      "source_reference": "Acts 13:2",
+      "source_verse_sha256": "ad75e2193fa3db7710246ae8acb78aaafee7ea22564fda99adf36f1b05a62f37",
+      "before": "While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”",
+      "after": "While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart Barnabas and Saul for me for the work to which I have called them.”",
+      "tsw_comparator": "And while they were ministering to the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862069,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:6",
+      "delta": "F3",
+      "rationale": "Keeps extent, destination, ethnicity, name, and two negative roles.",
+      "source_reference": "Acts 13:6",
+      "source_verse_sha256": "3a4824bfd2f7af6a52da3a0eb6f11c0d36c2f610cd3ced02a7df9aef78ceb075",
+      "before": "After traveling through the whole island as far as Paphos, they found a Jewish man named Bar-Jesus who was a magician and false prophet.",
+      "after": "After traveling across the whole island as far as Paphos, they found a Jewish man named Bar-Jesus who was a magician and false prophet.",
+      "tsw_comparator": "And going through the whole island as far as Paphos, they found a certain man, a magician, a Jewish false prophet, whose name was Bar-Jesus,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.509804,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:8",
+      "delta": "F3",
+      "rationale": "Keeps translated name, opposition, official, and purpose.",
+      "source_reference": "Acts 13:8",
+      "source_verse_sha256": "81741186636b0eabaa9642f4f277a105f555566540a2ac4c932dd16a5d46be49",
+      "before": "But Elymas the magician—that is how his name is translated—opposed them and tried to turn the proconsul away from the faith.",
+      "after": "But Elymas the magician—for that is how his name is translated—opposed them and tried to turn the proconsul away from the faith.",
+      "tsw_comparator": "But Elymas the magician (for so his name is translated) was opposing them, seeking to turn the proconsul away from the faith.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:10",
+      "delta": "F3",
+      "rationale": "Keeps severe address, deceit, familial insult, righteousness contrast, and road image.",
+      "source_reference": "Acts 13:10",
+      "source_verse_sha256": "69c5abd2b1a06d4a9e3b416241d2f8e61b3ab71f76a5b9b34f6204342a4cf06f",
+      "before": "and said, “You are full of every kind of deceit and fraud, son of the devil and enemy of all righteousness! Will you never stop twisting the Lord’s straight ways?",
+      "after": "and said, “You are full of every kind of deceit and fraud, you son of the devil and enemy of everything right! Will you never stop twisting the Lord’s straight ways?",
+      "tsw_comparator": "and said, “O full of all deceit and all fraud, son of the devil, enemy of all righteousness, will you not cease perverting the straight ways of the Lord?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:11",
+      "delta": "F3",
+      "rationale": "Preserves divine-hand image, temporary blindness, sun, immediacy, darkness, and dependence.",
+      "source_reference": "Acts 13:11",
+      "source_verse_sha256": "65ca755b631540adacb948c08bb27fba48f31f10efa9df43e060580d992400ca",
+      "before": "Now look—the Lord’s hand is against you. You will be blind and unable to see the sun for a time.” Immediately mist and darkness fell over him, and he went around looking for people to lead him by the hand.",
+      "after": "Now look—the Lord’s hand is against you. You will be blind and unable to see the sun for a time.” Immediately mist and darkness fell over him, and he went around seeking someone to lead him by the hand.",
+      "tsw_comparator": "And now, behold, the hand of the Lord is upon you, and you will be blind and not seeing the sun for a time.” And immediately mist and darkness fell upon him, and going about he was seeking people to lead him by the hand.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:13",
+      "delta": "F3",
+      "rationale": "Preserves Paul’s emerging leadership, route, John’s departure, and destination.",
+      "source_reference": "Acts 13:13",
+      "source_verse_sha256": "d532795e0f1f7063f3f6912c49e382e32e2e78990ddbb839973dbf1b3b376458",
+      "before": "Paul and his companions sailed from Paphos and came to Perga in Pamphylia. But John left them and returned to Jerusalem.",
+      "after": "Paul and his companions sailed from Paphos and came to Perga in Pamphylia. But John left them and returned to Jerusalem.",
+      "tsw_comparator": "Now Paul and those with him set sail from Paphos and came to Perga in Pamphylia, but John departed from them and returned to Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.73913,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:18",
+      "delta": "F3",
+      "rationale": "Retains approximate duration, difficult divine patience wording, and setting.",
+      "source_reference": "Acts 13:18",
+      "source_verse_sha256": "fca78d283abcab98b40c33e2783095f8de9ec4f594dd2323936756d0c2fb12ac",
+      "before": "For about forty years he put up with them in the wilderness.",
+      "after": "For about forty years he put up with them in the wilderness.",
+      "tsw_comparator": "And for about forty years he put up with them in the wilderness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:20",
+      "delta": "F3",
+      "rationale": "Preserves the pinned punctuation’s duration, sequence, judges, and Samuel’s title.",
+      "source_reference": "Acts 13:20",
+      "source_verse_sha256": "0103cd1a04b3606a25394d76c22375f84d62652c86d213c9d738208eaf75ec5f",
+      "before": "over a period of about four hundred fifty years. After this he gave them judges until Samuel the prophet.",
+      "after": "All this took about 450 years. Afterward God gave them judges until the time of Samuel the prophet.",
+      "tsw_comparator": "for about four hundred fifty years. And after these things he gave judges until Samuel the prophet.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.457143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:22",
+      "delta": "F3",
+      "rationale": "Preserves removal, appointment, testimony, lineage, heart, and comprehensive obedience.",
+      "source_reference": "Acts 13:22",
+      "source_verse_sha256": "b1b420e31c0c1031ed636bf52f1aecc5180634d3e45f158d295c3e2dcf0f4c9e",
+      "before": "After removing him, God raised up David as their king and testified about him: ‘I have found David son of Jesse, a man after my heart, who will do everything I desire.’",
+      "after": "After removing him, God raised up David as their king and testified about him: ‘I have found David son of Jesse, a man after my own heart, who will do everything I want.’",
+      "tsw_comparator": "And having removed him, he raised up David for them as king, to whom also he bore witness and said, ‘I have found David the son of Jesse, a man after my heart, who will do all my will.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.611111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:25",
+      "delta": "F3",
+      "rationale": "Keeps race-course image, identity question, denial, coming one, and sandal humility.",
+      "source_reference": "Acts 13:25",
+      "source_verse_sha256": "0d5227aedb1979d428699362940aa1802a1b178f413ba2e85ce649435738a7ba",
+      "before": "As John was completing his course, he said, ‘Who do you suppose I am? I am not he. But look—one is coming after me whose sandals I am not worthy to untie.’",
+      "after": "As John was completing his course, he said, ‘Who do you suppose I am? I am not the one. But look—one is coming after me whose sandals I am not worthy to untie.’",
+      "tsw_comparator": "And as John was finishing his course, he was saying, ‘What do you suppose that I am? I am not he. But behold, one is coming after me, the sandals of whose feet I am not worthy to untie.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.739726,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:26",
+      "delta": "F3",
+      "rationale": "Uses inclusive address while retaining Abrahamic descent, God-fearers, salvation, and divine sending.",
+      "source_reference": "Acts 13:26",
+      "source_verse_sha256": "64533d0e7f0bbbcb37741bf71ecae5f92dd42b9e9eca5c414f6ab65cd36c43ed",
+      "before": "“Brothers and sisters, children of Abraham’s family, and those among you who fear God: the word of this salvation has been sent to us.",
+      "after": "“Brothers and sisters, children of Abraham’s family, and those among you who fear God, this message of salvation has been sent to us.",
+      "tsw_comparator": "Men, brothers, sons of the family of Abraham, and those among you who fear God, to us the word of this salvation has been sent.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:27",
+      "delta": "F3",
+      "rationale": "Clarifies Jesus as referent and preserves ignorance, weekly reading, judgment, and ironic fulfillment.",
+      "source_reference": "Acts 13:27",
+      "source_verse_sha256": "678c7e8f473436e8c6dc68d890be41cbdfb75527e2e6544423f53906d67a68e3",
+      "before": "The people living in Jerusalem and their rulers did not recognize Jesus or understand the voices of the prophets read every Sabbath, yet by condemning him they fulfilled those words.",
+      "after": "The residents of Jerusalem and their rulers did not recognize Jesus or understand the words of the prophets read every Sabbath. Yet by condemning him, they fulfilled those words.",
+      "tsw_comparator": "For those dwelling in Jerusalem and their rulers, not recognizing him nor the voices of the prophets which are read every Sabbath, fulfilled them by condemning him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.535714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:29",
+      "delta": "F3",
+      "rationale": "Preserves fulfillment, tree image, descent, and burial.",
+      "source_reference": "Acts 13:29",
+      "source_verse_sha256": "5e35aa59f843a5d9da875eb86c92b95830732e8dff858779782df9dc85d7adf6",
+      "before": "When they had completed everything written about him, they took him down from the tree and placed him in a tomb.",
+      "after": "When they had carried out everything written about him, they took him down from the tree and laid him in a tomb.",
+      "tsw_comparator": "And when they had carried out all that had been written about him, taking him down from the tree, they laid him in a tomb.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:33",
+      "delta": "F3",
+      "rationale": "Preserves fulfillment, generational link, raising Jesus, psalm number, sonship, and the source’s birth image.",
+      "source_reference": "Acts 13:33",
+      "source_verse_sha256": "12a9d6170d74ca3f270ce699783ce9e23568af6a365a0fd573186abbf3d3c7ab",
+      "before": "God has fulfilled for us, their children, by raising Jesus, just as it is written in the second Psalm: ‘You are my Son; today I have begotten you.’",
+      "after": "God has fulfilled for us, their children, by raising up Jesus. As it is written in the second psalm: ‘You are my Son; today I have begotten you.’",
+      "tsw_comparator": "God has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, ‘You are my Son; today I have begotten you.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.928571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:34",
+      "delta": "F3",
+      "rationale": "Keeps resurrection, permanence, decay, divine quotation, holiness, certainty, and David.",
+      "source_reference": "Acts 13:34",
+      "source_verse_sha256": "58f0422f8dc76f8d82f1a4d1a1b65270832acdadfa43ef82164a3e3e6d4b3351",
+      "before": "And that God raised him from the dead, never again to return to decay, he expressed this way: ‘I will give you the holy and trustworthy blessings promised to David.’",
+      "after": "God raised him from the dead, never again to return to decay. He expressed it this way: ‘I will give you the holy and sure blessings promised to David.’",
+      "tsw_comparator": "And that he raised him from the dead, no longer to return to corruption, he has spoken thus: ‘I will give you the holy and sure blessings of David.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655172,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:36",
+      "delta": "F3",
+      "rationale": "Keeps service, divine purpose, generation, death metaphor, burial, and decay.",
+      "source_reference": "Acts 13:36",
+      "source_verse_sha256": "0fe3b5eee039a872897775b2d3c218720508b7682d5e3e46f3e5cfd28878fd0b",
+      "before": "David, after serving God’s purpose in his own generation, died, was buried with his ancestors, and saw decay.",
+      "after": "Now David served God’s purpose in his own generation, then fell asleep, was laid with his ancestors, and saw decay.",
+      "tsw_comparator": "For David, having served his own generation by the will of God, fell asleep and was laid with his fathers and saw corruption,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.604651,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:38",
+      "delta": "F3",
+      "rationale": "Uses inclusive address, names Jesus for clarity, and preserves forgiveness and proclamation.",
+      "source_reference": "Acts 13:38",
+      "source_verse_sha256": "1f15ab1303ec50a273ca19ad91684e92d86d620485df5903eef84a3d72f1f65a",
+      "before": "“Therefore let it be known to you, brothers and sisters, that through this man forgiveness of sins is proclaimed to you.",
+      "after": "Therefore, brothers and sisters, understand that through Jesus forgiveness of sins is proclaimed to you.",
+      "tsw_comparator": "Therefore let it be known to you, men, brothers, that through this one forgiveness of sins is proclaimed to you,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:39",
+      "delta": "F3",
+      "rationale": "Keeps universal believer, justification, comprehensive scope, and contrast with Mosaic law.",
+      "source_reference": "Acts 13:39",
+      "source_verse_sha256": "3a6de412c1783db68b68afcf465ccaa78be313db0ba0f61663502fffd408c00b",
+      "before": "Through him everyone who trusts is set right from everything from which you could not be set right by the Law of Moses.",
+      "after": "Through him everyone who believes is justified from everything from which you could not be justified by the law of Moses.",
+      "tsw_comparator": "and from all things from which you were not able to be justified by the law of Moses, by this one everyone who believes is justified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.510638,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:41",
+      "delta": "F3",
+      "rationale": "Keeps severe address, commands, divine work, timing, repetition, and disbelief.",
+      "source_reference": "Acts 13:41",
+      "source_verse_sha256": "5ede0da3196e569b77cc743b6daaf65c9a0383bd7bba79d528e8709f3e6ec908",
+      "before": "‘Look, you scoffers! Be amazed and perish, because I am doing a work in your days, a work you will certainly not trust even if someone tells you about it.’”",
+      "after": "‘Look, you scoffers! Be amazed and perish, because I am doing a work in your days, a work you would never believe even if someone explained it to you.’”",
+      "tsw_comparator": "‘Look, you scoffers, and marvel and perish; for I am doing a work in your days, a work which you will never believe, even if someone tells it to you.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.813559,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:43",
+      "delta": "F3",
+      "rationale": "Keeps two audience groups, named leaders, conversation, exhortation, and grace.",
+      "source_reference": "Acts 13:43",
+      "source_verse_sha256": "ffcbc0b979d16082565512471d2fecc6b89826071fb7ddaf1d468d6218e38426",
+      "before": "When the synagogue gathering ended, many Jewish people and devout converts to Judaism followed Paul and Barnabas. They spoke with them and urged them to continue in God’s grace.",
+      "after": "After the synagogue gathering ended, many Jewish people and devout converts followed Paul and Barnabas. They spoke with them and urged them to continue in God’s grace.",
+      "tsw_comparator": "And when the synagogue gathering was dismissed, many of the Jews and devout proselytes followed Paul and Barnabas, who, speaking to them, were urging them to continue in the grace of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.542373,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:45",
+      "delta": "F3",
+      "rationale": "Avoids treating the whole people as a single actor while retaining seeing, jealousy, contradiction, and abusive speech.",
+      "source_reference": "Acts 13:45",
+      "source_verse_sha256": "7587d64e8fa35bbee3b8ac2ee52b7cd2f65a168b61dbbc37af0ecc6b25036946",
+      "before": "But when some Jewish opponents saw the crowds, they were filled with jealousy and contradicted what Paul was saying, insulting him.",
+      "after": "But when some Jewish people saw the crowds, they were filled with jealousy. They contradicted what Paul was saying and slandered him.",
+      "tsw_comparator": "But the Jews, seeing the crowds, were filled with jealousy and were contradicting what was being spoken by Paul, reviling him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.465116,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:46",
+      "delta": "F3",
+      "rationale": "Keeps boldness, priority, rejection, self-judgment, eternal life, and mission turn.",
+      "source_reference": "Acts 13:46",
+      "source_verse_sha256": "d096def10ef661e6b75ea089612400ccf80e6c7634dcba6602999d3a349ee4f1",
+      "before": "Paul and Barnabas spoke boldly: “It was necessary for God’s word to be spoken to you first. Since you push it away and judge yourselves unworthy of eternal life, look—we are turning to the Gentiles.",
+      "after": "Then Paul and Barnabas spoke boldly: “It was necessary that God’s word be spoken to you first. But since you reject it and judge yourselves unworthy of eternal life, we are now turning to the Gentiles.",
+      "tsw_comparator": "And speaking boldly, Paul and Barnabas said, “It was necessary that the word of God be spoken first to you; since you thrust it away and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:47",
+      "delta": "F3",
+      "rationale": "Preserves divine command, light image, Gentiles, salvation, and global reach.",
+      "source_reference": "Acts 13:47",
+      "source_verse_sha256": "95c435e271169dfb20041928b8c69d0d526e657878446ff9fe1cdd362c33fc2b",
+      "before": "For this is what the Lord has commanded us: ‘I have made you a light for the Gentiles, so that you may bring salvation to the ends of the earth.’”",
+      "after": "For this is what the Lord has commanded us: ‘I have appointed you as a light for the Gentiles, to bring salvation to the ends of the earth.’”",
+      "tsw_comparator": "For thus the Lord has commanded us: ‘I have set you as a light for the Gentiles, so that you may be for salvation to the end of the earth.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.724138,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:48",
+      "delta": "F3",
+      "rationale": "Keeps hearing, joy, honoring, appointment, eternal life, and faith without resolving theological debate.",
+      "source_reference": "Acts 13:48",
+      "source_verse_sha256": "a61939a5d453b4de0e5e4702ba991853309b01e11942ba612e98baad3e227c9f",
+      "before": "When the Gentiles heard this, they rejoiced and honored the Lord’s word, and all who had been appointed to eternal life trusted.",
+      "after": "When the Gentiles heard this, they rejoiced and honored the word of the Lord, and all who had been appointed to eternal life believed.",
+      "tsw_comparator": "And the Gentiles, hearing this, were rejoicing and glorifying the word of the Lord, and as many as had been appointed to eternal life believed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693878,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:50",
+      "delta": "F3",
+      "rationale": "Avoids treating the whole people as a single actor while keeping influential women and men, persecution, named victims, and expulsion.",
+      "source_reference": "Acts 13:50",
+      "source_verse_sha256": "7d0a95a335d76a72ea90c97a60124629679eb8ce499e561adf58ab6c00596137",
+      "before": "But some Jewish opponents stirred up the devout women of high standing and the leading men of the city. They provoked persecution against Paul and Barnabas and drove them out of their region.",
+      "after": "But some Jewish people stirred up the devout women of high standing and the city’s leading men. They incited persecution against Paul and Barnabas and drove them out of their region.",
+      "tsw_comparator": "But the Jews incited the devout women of high standing and the leading men of the city and stirred up persecution against Paul and Barnabas and drove them out of their district.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.698413,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 13:51",
+      "delta": "F3",
+      "rationale": "Names agents and preserves symbolic act, opposition, and destination.",
+      "source_reference": "Acts 13:51",
+      "source_verse_sha256": "656b4073fb09b35dd9b6a6ecd88efc9df0c7600465bb399eefdb189826d0a152",
+      "before": "Paul and Barnabas shook the dust from their feet against them and went to Iconium.",
+      "after": "So Paul and Barnabas shook the dust from their feet against them and went to Iconium.",
+      "tsw_comparator": "But they shook off the dust from their feet against them and went to Iconium.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

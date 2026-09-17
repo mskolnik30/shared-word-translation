@@ -2,218 +2,220 @@
   "book": "Acts",
   "chapter": 14,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 28,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_14.md",
-    "blob_sha": "cf2476b4fb289beee238586883f0812653141ce3"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_14_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 14:1",
-        "source_chapter": 14,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "443d89a5d0c05dd0fcf45a87956741d369abd1b3ae4490b3eae8393e7e065b1f"
-      },
-      "2": {
-        "source_ref": "Acts 14:2",
-        "source_chapter": 14,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "e1bb768d1d7533c737880a43dd3b48d7ea965ccb18047905c03f467a7fcb86e7"
-      },
-      "3": {
-        "source_ref": "Acts 14:3",
-        "source_chapter": 14,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "cc5f9288ed876b14a90bbd17316d1941a04168d8e9d5e2e3218ffb17897b93f1"
-      },
-      "4": {
-        "source_ref": "Acts 14:4",
-        "source_chapter": 14,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "1e54febbd3014516f8289a88dd07d2eeb6ca4e370233c1083c4c2c59030a278a"
-      },
-      "5": {
-        "source_ref": "Acts 14:5",
-        "source_chapter": 14,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "e0a002b7e1dfc926db7181f71c87590dcbac4d5866e1a666176dfaac0049547b"
-      },
-      "6": {
-        "source_ref": "Acts 14:6",
-        "source_chapter": 14,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "7e1e4492305775c11996367c88ae575c61304e74e6352c12c65dcb88b23940f1"
-      },
-      "7": {
-        "source_ref": "Acts 14:7",
-        "source_chapter": 14,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "56f4771a53a82c49db81c998cedbaa1b47b04cbb835890656912ee2578862d36"
-      },
-      "8": {
-        "source_ref": "Acts 14:8",
-        "source_chapter": 14,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "646679a5b5091621b23f98ec700754b8dde3fb95c2df48e88d0fb38090f766cf"
-      },
-      "9": {
-        "source_ref": "Acts 14:9",
-        "source_chapter": 14,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "5eec6aabfb69b07fc74cc7bf19cf0818153d6c805f3c4dbdb2d0673d6fb4eeda"
-      },
-      "10": {
-        "source_ref": "Acts 14:10",
-        "source_chapter": 14,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "af9ffe84d4f81d79643b9e4d0b07646bb1623c42405b95891c4d6cc778fa533e"
-      },
-      "11": {
-        "source_ref": "Acts 14:11",
-        "source_chapter": 14,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "3364e5389507f3d03155ef9dc37fadbefa686b0804dd0ba57b3f002cb5924988"
-      },
-      "12": {
-        "source_ref": "Acts 14:12",
-        "source_chapter": 14,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "9f59b4fe02a8de6a2b1fbeaaa7f4f72ca54e06ec4f5f6ca1a29339aa3503fd42"
-      },
-      "13": {
-        "source_ref": "Acts 14:13",
-        "source_chapter": 14,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "db46af3f264f2b8e1a532c908307a643f72147223dd5b45a136e1cea929ddef8"
-      },
-      "14": {
-        "source_ref": "Acts 14:14",
-        "source_chapter": 14,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "b99c35dfb2418e9ef67e5e4aa47d1bfe886a09dc499714b3edd6440957502b4c"
-      },
-      "15": {
-        "source_ref": "Acts 14:15",
-        "source_chapter": 14,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "455994f8a09016be4e69902e7d3fa2b28ed73b6e8b922c35a93074554ac7820f"
-      },
-      "16": {
-        "source_ref": "Acts 14:16",
-        "source_chapter": 14,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "86ef2e050c87bf7a7cb12bf51b023c98e9f51b27e4d840562df6c5895abc09b2"
-      },
-      "17": {
-        "source_ref": "Acts 14:17",
-        "source_chapter": 14,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "3301c32934d410c243996203a1ddf5d5a210109517831e8cb84b76813fb7881e"
-      },
-      "18": {
-        "source_ref": "Acts 14:18",
-        "source_chapter": 14,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "f1710800e8f228d60ef142782f438587864fb9d2247204d7a824f1553ad2683c"
-      },
-      "19": {
-        "source_ref": "Acts 14:19",
-        "source_chapter": 14,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "aef6c0630c7aee5f2ed1d4043bfd089a40057b6da54f62515f8a824e5b8dac6c"
-      },
-      "20": {
-        "source_ref": "Acts 14:20",
-        "source_chapter": 14,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "7e1cae782b093738e59285b11c7fdfbb9890fd77174f70278384ddb4645d97ee"
-      },
-      "21": {
-        "source_ref": "Acts 14:21",
-        "source_chapter": 14,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "1e25f59e0df14e93d393df4a83a137d111a34fbc97d33ac4125b217195937ca7"
-      },
-      "22": {
-        "source_ref": "Acts 14:22",
-        "source_chapter": 14,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "fd1faaff8f516267d4c24c79857b827432c92c532795aeaaed85ba4ab951877c"
-      },
-      "23": {
-        "source_ref": "Acts 14:23",
-        "source_chapter": 14,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "17ef5c5c2b6f6cb1e9adfe12ab6e36223943aaa33ce5562df5e853f5ad84566c"
-      },
-      "24": {
-        "source_ref": "Acts 14:24",
-        "source_chapter": 14,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "5a964ca5fbf25a81ed2498468fb6cb797455202916113accc10e0fc73ebebd4c"
-      },
-      "25": {
-        "source_ref": "Acts 14:25",
-        "source_chapter": 14,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "07b8cc5bea336e43a6e3ead017795aec52537271a2d200d36769089dbfbddd5f"
-      },
-      "26": {
-        "source_ref": "Acts 14:26",
-        "source_chapter": 14,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "1b8a6a6763ada9dac1b3ae9bce5d30b8f74e90a52f02ee444d791984ea68ce3b"
-      },
-      "27": {
-        "source_ref": "Acts 14:27",
-        "source_chapter": 14,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "b887e4c5aa1dd94934f923204183d58c438fa2f8dc032f653c1d8f5f0ea4d18f"
-      },
-      "28": {
-        "source_ref": "Acts 14:28",
-        "source_chapter": 14,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "6ae39c79da6c1cd61d3f3328460c82d5126f56f0a6783032e2196fade94359af"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 14,
+    "verse_count": 28,
+    "path": "translations/fluent/NT/acts/Acts_14.md",
+    "before_sha256": "371fe6e00bf4df9e8c6371a41c7a79583734c0561a2ca54b09a365223e3b9e17",
+    "after_sha256": "d48d9f18579351c91761fbe7ed5114706bc23ce7d18eff74e90f726ebf816345",
+    "tsw_comparator_path": "books/NT/acts/Acts_14.md",
+    "tsw_comparator_sha256": "b2202efb816cb6553ec7676974e5c1742ca9cc22e47405920711f2b358b11a8a"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 14:2",
+      "delta": "F3",
+      "rationale": "Keeps specific unbelieving group, incitement, vivid harm image, Gentiles, and inclusive community.",
+      "source_reference": "Acts 14:2",
+      "source_verse_sha256": "1d894874fdbed5f2eec15763b75e723ac1d6e809c23eb2e19d18ef70f5dad843",
+      "before": "But the Jewish people who refused to trust stirred up the Gentiles and poisoned their minds against the brothers and sisters.",
+      "after": "But the Jewish people who refused to believe stirred up the Gentiles and poisoned their minds against the brothers and sisters.",
+      "tsw_comparator": "But the Jews who refused to believe stirred up and poisoned the minds of the Gentiles against the brothers.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:3",
+      "delta": "F3",
+      "rationale": "Preserves duration, bold speech, divine confirmation, grace, miracles, and human agency.",
+      "source_reference": "Acts 14:3",
+      "source_verse_sha256": "bba861e019ff2de73c9ea5f48c4b662f249671aecb1640b1980cb057c3b383be",
+      "before": "So Paul and Barnabas stayed there for a long time, speaking boldly for the Lord, who testified to the word of his grace by granting signs and wonders through their hands.",
+      "after": "So Paul and Barnabas stayed there a long time, speaking boldly for the Lord, who confirmed the message of his grace by granting signs and wonders through their hands.",
+      "tsw_comparator": "Therefore they remained for a long time, speaking boldly for the Lord, who was bearing witness to the word of his grace, granting signs and wonders to be done through their hands.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655738,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:5",
+      "delta": "F3",
+      "rationale": "Preserves coalition, official support, abuse, and intended lethal violence.",
+      "source_reference": "Acts 14:5",
+      "source_verse_sha256": "932d511ae78bf8a7e9eb25ed64eb1cf7eb21b74e1e00af97ee96cbef6a9bb3cd",
+      "before": "When both Gentiles and Jewish opponents, together with their rulers, made an attempt to mistreat and stone them,",
+      "after": "Then Gentiles and Jewish leaders, together with their rulers, made an attempt to mistreat and stone them.",
+      "tsw_comparator": "And when an attempt was made by both Gentiles and Jews with their rulers to mistreat and to stone them,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.540541,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:8",
+      "delta": "F3",
+      "rationale": "Keeps location, person, bodily condition, birth onset, and lifelong duration.",
+      "source_reference": "Acts 14:8",
+      "source_verse_sha256": "c48167996156dc7da8270cb32ae4f023597353cd5bbd521723044b3e7ddf2f58",
+      "before": "In Lystra a man was sitting who had no strength in his feet. He had been unable to walk from birth and had never walked.",
+      "after": "In Lystra a man was sitting who had no strength in his feet. He had been unable to walk from birth and had never walked.",
+      "tsw_comparator": "And in Lystra a certain man was sitting, without strength in his feet, lame from his mother’s womb, who had never walked.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.595745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:9",
+      "delta": "F3",
+      "rationale": "Preserves hearing, gaze, discernment, faith, and healing sense of salvation verb.",
+      "source_reference": "Acts 14:9",
+      "source_verse_sha256": "77e3cefc29ca3b4f9ba7017d0b4366ec3fed322a8200ee83ffb43448746c5ba8",
+      "before": "He listened as Paul spoke. Paul looked intently at him, saw that he had faith to be healed,",
+      "after": "He listened as Paul spoke. Paul looked intently at him and saw that he had faith to be healed.",
+      "tsw_comparator": "This man was listening to Paul speaking, who, looking intently at him and seeing that he had faith to be healed,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:10",
+      "delta": "F3",
+      "rationale": "Keeps volume, command, sudden leap, and walking.",
+      "source_reference": "Acts 14:10",
+      "source_verse_sha256": "c2b1540508317ff0b0f63b3201616a53c565e8b2d149f40dce8447a9aaab95cb",
+      "before": "and said loudly, “Stand upright on your feet!” The man jumped up and began walking.",
+      "after": "Paul said in a loud voice, “Stand upright on your feet!” The man leaped up and began to walk.",
+      "tsw_comparator": "said with a loud voice, “Stand upright on your feet.” And he leaped up and began to walk.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:13",
+      "delta": "F3",
+      "rationale": "Preserves priest, deity, temple location, animals, wreaths, gates, crowd, and intended ritual.",
+      "source_reference": "Acts 14:13",
+      "source_verse_sha256": "a94aef2f5fcda0d68c4db94c954aec250100da49b7a3b7d98cfce2d45a8cb22e",
+      "before": "The priest of Zeus, whose temple was just outside the city, brought bulls and garlands to the gates and wanted to offer sacrifice with the crowds.",
+      "after": "The priest of Zeus, whose temple stood just outside the city, brought bulls and wreaths to the gates. He and the crowds wanted to offer sacrifices.",
+      "tsw_comparator": "And the priest of Zeus, whose temple was before the city, brought oxen and garlands to the gates and was wanting to offer sacrifice with the crowds.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.603774,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:15",
+      "delta": "F3",
+      "rationale": "Preserves question, shared humanity, good news, conversion, idol judgment, living God, and creation scope.",
+      "source_reference": "Acts 14:15",
+      "source_verse_sha256": "434ff0adab50571dabf8a2bdf0b9b03cd1493b2c9b8ae1d629cd2ef4c9bdc50c",
+      "before": "“People, why are you doing these things? We are human beings just like you! We are announcing good news to you so that you turn from these worthless things to the living God, who made heaven, earth, sea, and everything in them.",
+      "after": "“Men, why are you doing this? We too are human beings with the same nature as you. We are bringing you good news, telling you to turn from these worthless things to the living God, who made heaven, earth, sea, and everything in them.",
+      "tsw_comparator": "and saying, “Men, why are you doing these things? We also are men of like nature with you, proclaiming good news to you that you should turn from these worthless things to the living God, who made the heaven and the earth and the sea and all that is in them,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.610526,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:17",
+      "delta": "F3",
+      "rationale": "Preserves concession, witness, goodness, rain, seasons, food, and inward joy.",
+      "source_reference": "Acts 14:17",
+      "source_verse_sha256": "8347a8b1239be25599ceb5ac373dcdffe647a3426722db05df78414b31fb42f5",
+      "before": "yet he did not leave himself without witness. He did good by giving you rain from heaven and fruitful seasons, filling you with food and your hearts with gladness.”",
+      "after": "Yet he did not leave himself without witness: he did good by giving you rain from heaven and fruitful seasons, filling your hearts with food and joy.”",
+      "tsw_comparator": "And yet he did not leave himself without witness, doing good, giving you rains from heaven and fruitful seasons, filling your hearts with food and gladness.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830189,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:19",
+      "delta": "F3",
+      "rationale": "Avoids treating the whole people as a single actor while preserving origins, persuasion, stoning, dragging, location, and presumed death.",
+      "source_reference": "Acts 14:19",
+      "source_verse_sha256": "f0ac8dad5d389370e508655a51d90e6459ff4814b03782568424fb3803b010a4",
+      "before": "But Jewish opponents came from Antioch and Iconium and persuaded the crowds. They stoned Paul and dragged him outside the city, thinking he was dead.",
+      "after": "Then some Jewish people came from Antioch and Iconium and won over the crowds. They stoned Paul and dragged him outside the city, thinking he was dead.",
+      "tsw_comparator": "But Jews came from Antioch and Iconium, and persuading the crowds, they stoned Paul and dragged him out of the city, thinking that he was dead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754717,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:22",
+      "delta": "F3",
+      "rationale": "Keeps strengthening, perseverance, shared necessity, kingdom, and suffering.",
+      "source_reference": "Acts 14:22",
+      "source_verse_sha256": "b0597e47beb7dd49c17a243395135e90a4a3cb873c1c77415c79e0b4b2ac4da2",
+      "before": "strengthening the disciples and encouraging them to remain in the faith. They said, “We must enter God’s kingdom through many hardships.”",
+      "after": "They strengthened the disciples and encouraged them to remain in the faith, saying, “We must enter the kingdom of God through many troubles.”",
+      "tsw_comparator": "strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter into the kingdom of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:23",
+      "delta": "F3",
+      "rationale": "Preserves local elders, every church, prayer, fasting, entrusting, Lord, and prior faith.",
+      "source_reference": "Acts 14:23",
+      "source_verse_sha256": "3abdfca154b70c69779a11105bf6ec245f012aa51b7cb3848f208bc851887f85",
+      "before": "They appointed elders for them in every church. With prayer and fasting they entrusted them to the Lord in whom they had trusted.",
+      "after": "They appointed elders for them in every church and, with prayer and fasting, entrusted them to the Lord in whom they had believed.",
+      "tsw_comparator": "And appointing elders for them in every church, having prayed with fasting, they entrusted them to the Lord in whom they had believed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 14:27",
+      "delta": "F3",
+      "rationale": "Preserves gathering, comprehensive report, divine agency, door image, faith, and Gentile inclusion.",
+      "source_reference": "Acts 14:27",
+      "source_verse_sha256": "c8e7f937363896b8ca29248d83806d5a27bb317315162e6d9b14f6cc8cabc80c",
+      "before": "When they arrived, they gathered the church and reported everything God had done with them and how he had opened a door of faith for the Gentiles.",
+      "after": "When they arrived, they gathered the church and reported everything God had done with them and how he had opened a door of faith to the Gentiles.",
+      "tsw_comparator": "And arriving and gathering the church together, they reported all that God had done with them and that he had opened a door of faith to the Gentiles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.690909,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

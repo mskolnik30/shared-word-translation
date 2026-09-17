@@ -2,323 +2,246 @@
   "book": "Acts",
   "chapter": 9,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 43,
-  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-  "tsw_comparator": {
-    "path": "books/NT/acts/Acts_09.md",
-    "blob_sha": "03096dfd702d5e51007a499f2d8d9b951c97ffda"
-  },
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-acts-7-14-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "e05e3debfb3fca3f21f12eb0c3dd797fa2b96d88",
+    "path": "audit/exegetical-core/fluent-production/acts/Acts_09_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Acts.txt",
     "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Acts 9:1",
-        "source_chapter": 9,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "792240b788ac818a74fbb2f56e438078e64bdcb1bdb90c17494fc0bbe612f151"
-      },
-      "2": {
-        "source_ref": "Acts 9:2",
-        "source_chapter": 9,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "53a52b846ed9f7ce6ac672f166713f1ad755274b4b3efcc45595dd96aed4f453"
-      },
-      "3": {
-        "source_ref": "Acts 9:3",
-        "source_chapter": 9,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "912b43ccb962494c508ae9de03360bb7fa81fd8e3af479a65896cd41487a4f16"
-      },
-      "4": {
-        "source_ref": "Acts 9:4",
-        "source_chapter": 9,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "02885cbfbd45bf012f9dd2f57aaaa4f49e92875ce7482f44ca094dcc456e792d"
-      },
-      "5": {
-        "source_ref": "Acts 9:5",
-        "source_chapter": 9,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "e74e48cfd4dab5bba35ca768ddb8bf77e668fb1049c61052459e5e2be4d3a58f"
-      },
-      "6": {
-        "source_ref": "Acts 9:6",
-        "source_chapter": 9,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "80f6e7bc90f984a1abde66de54e98dd373cefbeeced90ee1ed206679479f9ac9"
-      },
-      "7": {
-        "source_ref": "Acts 9:7",
-        "source_chapter": 9,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "e4160e54861cb217bbd9704bb807fde9acfd35ca45666710dbe9fd140b4c128d"
-      },
-      "8": {
-        "source_ref": "Acts 9:8",
-        "source_chapter": 9,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "164b21058b7880852e4cda692fbfd4e7f555a0016f50ba825ea726cf9652e0a9"
-      },
-      "9": {
-        "source_ref": "Acts 9:9",
-        "source_chapter": 9,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "d3bce0503fc065d134d771970b1a2510539220c5001dbf0f34b6127bac0f1e27"
-      },
-      "10": {
-        "source_ref": "Acts 9:10",
-        "source_chapter": 9,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "0cefb2e6415dfaf6f4b810e69d4c253f06540c9975c8429dc4f3b49d15f82c19"
-      },
-      "11": {
-        "source_ref": "Acts 9:11",
-        "source_chapter": 9,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "6d16cdbf2ccdf96e7b17fe37da941bfecdaa08f36892720a46a8f94a9656d44e"
-      },
-      "12": {
-        "source_ref": "Acts 9:12",
-        "source_chapter": 9,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "320d9f8a18e23da26d6ee2fda1fafafcdab950e8dec13e420149e1476ef53735"
-      },
-      "13": {
-        "source_ref": "Acts 9:13",
-        "source_chapter": 9,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "5387d14eced0ee40cd2eb15c1f31f0cfc300f2e1ebee3d3aa7784c2553935ac9"
-      },
-      "14": {
-        "source_ref": "Acts 9:14",
-        "source_chapter": 9,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "d156c0cd58801ae82bbbc723e9e3f770b74bff88790ca0ba31cff4d04f4a13a8"
-      },
-      "15": {
-        "source_ref": "Acts 9:15",
-        "source_chapter": 9,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "72001dae999cb4e1ce7624b5d7627198ca42a5951107f7f17a252da3f0497c62"
-      },
-      "16": {
-        "source_ref": "Acts 9:16",
-        "source_chapter": 9,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "3f33853f0d8e51f893051a8e4569782a456d0b7216d8248dc6bcae2cf4e8d594"
-      },
-      "17": {
-        "source_ref": "Acts 9:17",
-        "source_chapter": 9,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "937fd143d9389d32902eb323906888da6377182b52008c34c28a13fce031f48d"
-      },
-      "18": {
-        "source_ref": "Acts 9:18",
-        "source_chapter": 9,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8e05945353dcd576b297dec8cf8c5fa708befcf309157ba30d7291c4d1d5b236"
-      },
-      "19": {
-        "source_ref": "Acts 9:19",
-        "source_chapter": 9,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "de1cb99123c9e4a7a44a9e2b6c0714a9ad7d8de98c496e4eef62cab90097c416"
-      },
-      "20": {
-        "source_ref": "Acts 9:20",
-        "source_chapter": 9,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "45655665eefb47c588f857cdf8f49c97e3e6bd71155b53f7141c530d0a12893e"
-      },
-      "21": {
-        "source_ref": "Acts 9:21",
-        "source_chapter": 9,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "a27c9f1038ea2915a68581bd3e8aefcc7c5e48a8339036e899938d4c07114245"
-      },
-      "22": {
-        "source_ref": "Acts 9:22",
-        "source_chapter": 9,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "d7bf5c16579d35957a0c389881a9e81bdc46c6b4137b9833bc5a1bb199704c25"
-      },
-      "23": {
-        "source_ref": "Acts 9:23",
-        "source_chapter": 9,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "432eab259db32fabac768878438e88898c0f92b70fee1927db79226c8977d018"
-      },
-      "24": {
-        "source_ref": "Acts 9:24",
-        "source_chapter": 9,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "8ab372a25e35518e8b56dc0df059926b9289a7eb413a8db8fff377b35d1c218a"
-      },
-      "25": {
-        "source_ref": "Acts 9:25",
-        "source_chapter": 9,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "d15d17ef358a169c253039cefd4474422b6199bd9ffa5971c868415c06dccb67"
-      },
-      "26": {
-        "source_ref": "Acts 9:26",
-        "source_chapter": 9,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "36c5f1d8dfa66c7f9ea131cdf8c459dd48c0ea3b239e9fa569f2659e958100bb"
-      },
-      "27": {
-        "source_ref": "Acts 9:27",
-        "source_chapter": 9,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "23a4e2474c531957820073591e1484b64db14e4d4b8f14dd5387e2f7a6a94aaa"
-      },
-      "28": {
-        "source_ref": "Acts 9:28",
-        "source_chapter": 9,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "408a6d7e8aac2e48e3f4ffbfc820ac104dad15a85e550584b7d80060f9abd13c"
-      },
-      "29": {
-        "source_ref": "Acts 9:29",
-        "source_chapter": 9,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "287526ae113791c1eca6579b8df00e546067ec3ec8981519b8f126dff77a2137"
-      },
-      "30": {
-        "source_ref": "Acts 9:30",
-        "source_chapter": 9,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "1026665b4d758b29e411521b3b4952e5d589911fe16b34a23349c2d76b68e69b"
-      },
-      "31": {
-        "source_ref": "Acts 9:31",
-        "source_chapter": 9,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "723c5c8334f095ea5c48daa237894d95c6ce32f22ee65b4546edd3b57e17f177"
-      },
-      "32": {
-        "source_ref": "Acts 9:32",
-        "source_chapter": 9,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "9d5d1b546880b2572781ff1f43cfbf39e9eede53b53a73983d1d23a47981d201"
-      },
-      "33": {
-        "source_ref": "Acts 9:33",
-        "source_chapter": 9,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "a0f1af0f49b03d6ae8f0a988030555c8149e110d0b3b86a92577986bb8b54d22"
-      },
-      "34": {
-        "source_ref": "Acts 9:34",
-        "source_chapter": 9,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "1bdda8b8c786f28e5ba6f42aa6be308415a6fa0aedf447a5daf20a94a6985608"
-      },
-      "35": {
-        "source_ref": "Acts 9:35",
-        "source_chapter": 9,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "3b089ef9b7bb179e231e53c1591c8b3a579ed2e1ae127dc9a7bb1859c8fa4664"
-      },
-      "36": {
-        "source_ref": "Acts 9:36",
-        "source_chapter": 9,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "430610a3354d0d894a65c4cf37bd9d7477dd72de54c9b0e64d077b60a950fa21"
-      },
-      "37": {
-        "source_ref": "Acts 9:37",
-        "source_chapter": 9,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "6c24471925f823d2350bf4b1fa4569a848093a847053edba5e3d96b29b3ff6f7"
-      },
-      "38": {
-        "source_ref": "Acts 9:38",
-        "source_chapter": 9,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "99c75032c2f41d34a3c2f4a56930384046ac12f6a55f8a481fabc72dfba2115b"
-      },
-      "39": {
-        "source_ref": "Acts 9:39",
-        "source_chapter": 9,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "51a32c35aacd117f9c867cc2fac1152fe957a37d8f737e0c053b3f4cef76e737"
-      },
-      "40": {
-        "source_ref": "Acts 9:40",
-        "source_chapter": 9,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "ed5017859fd083b4d9df3c5e0fee42b6bc64879b992714be85f710d552a28db8"
-      },
-      "41": {
-        "source_ref": "Acts 9:41",
-        "source_chapter": 9,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "20d56e6a66ce526e50f19b7361c2fb85e2f9db72b6d6ede02174c613197bf10a"
-      },
-      "42": {
-        "source_ref": "Acts 9:42",
-        "source_chapter": 9,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "913cd624409b4037f839bcd85b6841754f8fe7cc65068337c9ecc29d20ecfb87"
-      },
-      "43": {
-        "source_ref": "Acts 9:43",
-        "source_chapter": 9,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "ab180c29913f76e6085108a060b1e784bd9fca6dd7810a1a46b66baefcebb1ad"
-      }
-    }
+    "sha256": "199867a92d9a1ef73abe85986e4489d4799bb187bdd22845f3c168c93cafa9c8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Acts.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Acts",
+    "book_verse_count": 1002,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 9,
+    "verse_count": 43,
+    "path": "translations/fluent/NT/acts/Acts_09.md",
+    "before_sha256": "7d65e6cb75f34f635c24c750b55f5487ce36194297870c1c3ec2a4b141c90bd2",
+    "after_sha256": "4ac3710c89e40cf0269fe5f197712765d92216c747bb148960658fcd629fa6ca",
+    "tsw_comparator_path": "books/NT/acts/Acts_09.md",
+    "tsw_comparator_sha256": "76ac62fe9165b9d47334af18888ffe31fbbc14495cf9d7114a10b9d17b38ffe7"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-acts-7-14/acts-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Acts 9:1",
+      "delta": "F3",
+      "rationale": "Retains continuing hostility, vivid breathing image, murder, victims, and authority.",
+      "source_reference": "Acts 9:1",
+      "source_verse_sha256": "95f728ed42700c7ad2d3c66950e8e8331c9e14fa28708e01394bf7ec87b5aeb3",
+      "before": "Saul was still breathing threats and murder against the Lord’s disciples. He went to the high priest",
+      "after": "Meanwhile Saul was still breathing threats and murder against the Lord’s disciples. He went to the high priest",
+      "tsw_comparator": "But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:2",
+      "delta": "F3",
+      "rationale": "Keeps letters, synagogues, destination, movement title, both genders, bonds, and purpose.",
+      "source_reference": "Acts 9:2",
+      "source_verse_sha256": "eecb692dcbdff118b89a2126abf5ad4997aa65b1a51a23a33f34c683afb1faaf",
+      "before": "and asked for letters to the synagogues in Damascus so that if he found anyone belonging to the Way, men or women, he could bring them bound to Jerusalem.",
+      "after": "and asked him for letters to the synagogues in Damascus, so that if he found any who belonged to the Way, men or women, he could bring them bound to Jerusalem.",
+      "tsw_comparator": "and asked from him letters to Damascus for the synagogues, so that if he found any belonging to the Way, both men and women, he might bring them bound to Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:7",
+      "delta": "F3",
+      "rationale": "Names Saul for clarity and preserves companions’ hearing, silence, and lack of sight.",
+      "source_reference": "Acts 9:7",
+      "source_verse_sha256": "e419944dd76c118fbc42d4dec2bc95966a4e7d313fd349824287d52b2e8d0a93",
+      "before": "The men traveling with Saul stood speechless. They heard the sound of the voice but saw no one.",
+      "after": "The men traveling with Saul stood speechless. They heard the voice but saw no one.",
+      "tsw_comparator": "And the men traveling with him stood speechless, hearing the voice but seeing no one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:12",
+      "delta": "F3",
+      "rationale": "Keeps nested vision, name, action, and purpose.",
+      "source_reference": "Acts 9:12",
+      "source_verse_sha256": "1dae24b08060d9270797a9a21e5be6f09b2659fe391a54e63ccd3ae5bb6f1a90",
+      "before": "and in a vision he has seen a man named Ananias come in and lay hands on him so he may regain his sight.”",
+      "after": "In a vision he has seen a man named Ananias come in and lay hands on him so that he may see again.”",
+      "tsw_comparator": "and he has seen in a vision a man named Ananias coming in and laying hands on him so that he might regain his sight.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:15",
+      "delta": "F3",
+      "rationale": "Preserves command, instrument image, divine choice, mission, and three audiences.",
+      "source_reference": "Acts 9:15",
+      "source_verse_sha256": "99645b0ed9c696513775e227bdd9ab3dd67c58578f1b063f9bf95d4024f3d8c8",
+      "before": "But the Lord told him, “Go, because this man is my chosen instrument to carry my name before Gentiles, kings, and the people of Israel.",
+      "after": "But the Lord told him, “Go, because this man is my chosen instrument to carry my name before Gentiles, kings, and the people of Israel.",
+      "tsw_comparator": "But the Lord said to him, “Go, for this man is a chosen instrument of mine to carry my name before Gentiles and kings and the sons of Israel;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:16",
+      "delta": "F3",
+      "rationale": "Keeps divine disclosure, necessity, suffering, and name.",
+      "source_reference": "Acts 9:16",
+      "source_verse_sha256": "0121c7360f4563693653a95086096f80036cf5b2920e5c5d84c46dc7168d34a0",
+      "before": "I will show him how much he must suffer for my name.”",
+      "after": "I will show him how much he must suffer for my name.”",
+      "tsw_comparator": "for I will show him how much he must suffer for my name.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:17",
+      "delta": "F3",
+      "rationale": "Retains obedience, touch, kinship, identification of Jesus, appearance, commission, sight, and Spirit.",
+      "source_reference": "Acts 9:17",
+      "source_verse_sha256": "23128e3eea2d897e866c5c17e64aadb99c1e740020d105d905ca8282a8f79290",
+      "before": "Ananias went and entered the house. He laid his hands on Saul and said, “Brother Saul, the Lord Jesus, who appeared to you on the road as you came here, has sent me so that you may regain your sight and be filled with the Holy Spirit.”",
+      "after": "So Ananias went and entered the house. He laid his hands on Saul and said, “Brother Saul, the Lord Jesus, who appeared to you on the road as you came here, has sent me so that you may see again and be filled with the Holy Spirit.”",
+      "tsw_comparator": "And Ananias went and entered into the house, and laying his hands on him, said, “Brother Saul, the Lord Jesus, who appeared to you on the road by which you came, has sent me so that you may regain your sight and be filled with the Holy Spirit.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:18",
+      "delta": "F3",
+      "rationale": "Preserves immediacy, simile, restored sight, movement, and baptism.",
+      "source_reference": "Acts 9:18",
+      "source_verse_sha256": "e5d770249a45b43f7b64ef2c5c41487775369b612da16e92985e0fc734e9dd9a",
+      "before": "Immediately something like scales fell from Saul’s eyes, and he regained his sight. He got up and was baptized,",
+      "after": "Immediately something like scales fell from Saul’s eyes, and he could see again. He got up and was baptized,",
+      "tsw_comparator": "And immediately something like scales fell from his eyes, and he regained his sight, and rising, he was baptized,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:25",
+      "delta": "F3",
+      "rationale": "Keeps disciples, nighttime rescue, wall, and basket.",
+      "source_reference": "Acts 9:25",
+      "source_verse_sha256": "5a9219d2cd9de258b4670f252d6c56510c921ba4f283f1e37a8f56a72a6d8123",
+      "before": "But his disciples took him by night and lowered him through an opening in the wall in a basket.",
+      "after": "But his disciples took him by night and lowered him through an opening in the wall in a basket.",
+      "tsw_comparator": "but his disciples took him by night and let him down through the wall, lowering him in a basket.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:30",
+      "delta": "F3",
+      "rationale": "Uses inclusive community language and preserves route and destination.",
+      "source_reference": "Acts 9:30",
+      "source_verse_sha256": "6d185d2b0d5fd9bcc78679653a50f5edab2f2bffb7c917b32c04aa611cd4c778",
+      "before": "When the brothers and sisters learned about this, they brought him down to Caesarea and sent him away to Tarsus.",
+      "after": "When the brothers and sisters learned of this, they took him down to Caesarea and sent him off to Tarsus.",
+      "tsw_comparator": "And the brothers, learning it, brought him down to Caesarea and sent him off to Tarsus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:31",
+      "delta": "F3",
+      "rationale": "Keeps singular church, three regions, peace, strengthening, fear, Spirit encouragement, and growth.",
+      "source_reference": "Acts 9:31",
+      "source_verse_sha256": "526eff9a498013b3fc77052aad90f5df67615a257718add35c13ec15e9925035",
+      "before": "Then the church throughout Judea, Galilee, and Samaria had peace and was being built up. Walking in the fear of the Lord and in the encouragement of the Holy Spirit, it continued to grow.",
+      "after": "Then the church throughout Judea, Galilee, and Samaria had peace and was strengthened. Living in the fear of the Lord and the encouragement of the Holy Spirit, it continued to grow.",
+      "tsw_comparator": "So the church throughout all Judea and Galilee and Samaria had peace, being built up, and walking in the fear of the Lord and in the encouragement of the Holy Spirit, it was multiplying.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.738462,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:33",
+      "delta": "F3",
+      "rationale": "Keeps name, exact duration, bed, and condition.",
+      "source_reference": "Acts 9:33",
+      "source_verse_sha256": "b525872f3eb368218943601fbf63f2e0d7025afa73b4d98cd68f5d4c387a228e",
+      "before": "There he found a man named Aeneas who had been confined to a mat for eight years because he was paralyzed.",
+      "after": "There he found a man named Aeneas who had been confined to bed for eight years because he was paralyzed.",
+      "tsw_comparator": "And he found there a certain man named Aeneas, who had been lying on a mat for eight years, for he was paralyzed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.697674,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:36",
+      "delta": "F3",
+      "rationale": "Preserves female disciple designation, both names, sustained good works, and almsgiving.",
+      "source_reference": "Acts 9:36",
+      "source_verse_sha256": "0cb0879f975deb980152adf1724cee8aa6415d6509a43ec35dbc0131fb0633a5",
+      "before": "In Joppa there was a disciple named Tabitha, which translated is Dorcas. She was full of good works and acts of mercy for the poor.",
+      "after": "In Joppa there was a disciple named Tabitha, which in Greek is Dorcas. She was always doing good works and helping the poor.",
+      "tsw_comparator": "Now in Joppa there was a certain disciple named Tabitha, which translated means Dorcas; she was full of good works and acts of charity.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638298,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:39",
+      "delta": "F3",
+      "rationale": "Keeps movement, setting, widows’ grief, garments, and Dorcas’s embodied care.",
+      "source_reference": "Acts 9:39",
+      "source_verse_sha256": "561f56ffd20e7e6c8a20256cb9588574f10a81f5be7b039b8f472237109058e4",
+      "before": "Peter got up and went with them. When he arrived, they brought him to the upstairs room. All the widows stood beside him weeping and showing him tunics and other clothing Dorcas had made while she was with them.",
+      "after": "Peter got up and went with them. When he arrived, they took him to the upstairs room. All the widows stood beside him, weeping and showing him the tunics and other clothing Dorcas had made while she was with them.",
+      "tsw_comparator": "And Peter arose and went with them. When he arrived, they brought him to the upper room, and all the widows stood by him weeping and showing tunics and garments that Dorcas made while she was with them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Acts 9:40",
+      "delta": "F3",
+      "rationale": "Preserves privacy, posture, prayer, body, command, and physical sequence.",
+      "source_reference": "Acts 9:40",
+      "source_verse_sha256": "1cf8aa7fc026469a0151be9529b28049a941a3a908f0eae15d4a13bec8c64441",
+      "before": "Peter sent everyone outside, knelt down, and prayed. Turning toward the body, he said, “Tabitha, get up.” She opened her eyes, saw Peter, and sat up.",
+      "after": "Peter sent everyone out, knelt down, and prayed. Turning toward the body, he said, “Tabitha, get up.” She opened her eyes, saw Peter, and sat up.",
+      "tsw_comparator": "But Peter, putting them all outside, knelt down and prayed, and turning to the body, he said, “Tabitha, arise.” And she opened her eyes, and seeing Peter, she sat up.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.642857,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
