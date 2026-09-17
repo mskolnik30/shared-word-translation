@@ -1,0 +1,129 @@
+{
+  "parent_commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+  "parent_library_version": 87,
+  "book": "John",
+  "slug": "john",
+  "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+  "scope": "John 1–17",
+  "expected_verses": 740,
+  "batch_scope": "Luke 12–24; John 1–17",
+  "batch_chapters": 30,
+  "batch_verses": 1323,
+  "batch_reader_filename": "Fluent-Luke-12-John-17.md",
+  "batch_ledgers": [
+    "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+    "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json"
+  ],
+  "active_block_ranges": [{"slug": "john", "start": 6, "end": 17}],
+  "source_filename": "john-pinned-greek.txt",
+  "book_record_files": ["JOHN_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "John 18–21; Acts 1–28; Romans 1–6",
+  "completed_block_scope": "John 6–17",
+  "source_omissions": {"5": [4]},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:1", "1:3", "1:4", "1:5", "1:9", "1:11", "1:12", "1:13", "1:14", "1:15", "1:16", "1:17", "1:18", "1:19", "1:20", "1:21", "1:23", "1:24", "1:25", "1:26", "1:27", "1:28", "1:29", "1:30", "1:31", "1:32", "1:33", "1:34", "1:38", "1:39", "1:41", "1:42", "1:45", "1:47", "1:49", "1:51",
+    "2:1", "2:4", "2:6", "2:9", "2:10", "2:11", "2:13", "2:14", "2:15", "2:16", "2:17", "2:18", "2:19", "2:20", "2:21", "2:22", "2:23", "2:24", "2:25",
+    "3:1", "3:2", "3:3", "3:4", "3:5", "3:6", "3:7", "3:8", "3:10", "3:11", "3:12", "3:13", "3:14", "3:15", "3:16", "3:17", "3:18", "3:19", "3:20", "3:21", "3:23", "3:25", "3:26", "3:27", "3:28", "3:29", "3:30", "3:31", "3:32", "3:33", "3:34", "3:35", "3:36",
+    "4:4", "4:5", "4:6", "4:7", "4:9", "4:10", "4:11", "4:12", "4:14", "4:15", "4:16", "4:17", "4:18", "4:19", "4:20", "4:21", "4:22", "4:23", "4:24", "4:25", "4:26", "4:27", "4:28", "4:29", "4:34", "4:35", "4:36", "4:37", "4:38", "4:39", "4:40", "4:41", "4:42", "4:44", "4:45", "4:46", "4:47", "4:48", "4:49", "4:50", "4:51", "4:52", "4:53", "4:54",
+    "5:1", "5:2", "5:3", "5:5", "5:6", "5:7", "5:8", "5:9", "5:10", "5:11", "5:12", "5:13", "5:14", "5:15", "5:16", "5:17", "5:18", "5:19", "5:20", "5:21", "5:22", "5:23", "5:24", "5:25", "5:26", "5:27", "5:28", "5:29", "5:30", "5:31", "5:32", "5:33", "5:34", "5:35", "5:36", "5:37", "5:38", "5:39", "5:40", "5:42", "5:43", "5:44", "5:45", "5:46", "5:47",
+    "6:15", "6:27", "6:35", "6:44", "6:51", "6:53", "6:63", "6:69",
+    "7:8", "7:17", "7:24", "7:37", "7:38", "7:39", "7:52", "7:53",
+    "8:1", "8:6", "8:7", "8:11", "8:24", "8:28", "8:31", "8:32", "8:44", "8:56", "8:58",
+    "9:3", "9:4", "9:22", "9:24", "9:34", "9:39", "9:41",
+    "10:1", "10:7", "10:11", "10:16", "10:18", "10:30", "10:34", "10:35", "10:36",
+    "11:4", "11:16", "11:25", "11:26", "11:33", "11:35", "11:49", "11:50", "11:51",
+    "12:3", "12:6", "12:24", "12:25", "12:27", "12:31", "12:32", "12:38", "12:40", "12:41",
+    "13:1", "13:8", "13:10", "13:18", "13:23", "13:27", "13:32", "13:34",
+    "14:1", "14:2", "14:6", "14:7", "14:12", "14:14", "14:16", "14:17", "14:23", "14:28", "14:30",
+    "15:2", "15:3", "15:5", "15:6", "15:13", "15:15", "15:20", "15:22", "15:26",
+    "16:2", "16:5", "16:7", "16:8", "16:10", "16:13", "16:21", "16:23", "16:26", "16:32", "16:33",
+    "17:3", "17:5", "17:11", "17:12", "17:15", "17:17", "17:19", "17:21", "17:23", "17:24", "17:26"
+  ],
+  "focused_extra_references": [],
+  "apparatus": {
+    "1": {
+      "notes": [["01", "‘The Word’ translates *logos*, which can mean word, message, reason, or account. John speaks of the Word as personally with God and as God."], ["03–04", "Ancient punctuation is not preserved in the manuscripts. The main text joins ‘what has come into being’ with ‘in him was life’; the phrase can instead close the preceding sentence."], ["05", "The verb can mean overcome, seize, or comprehend. ‘Did not overcome’ suits the conflict of light and darkness while the Gospel also develops the theme of failed recognition."], ["14", "‘Made his dwelling’ is literally ‘pitched his tent’ or ‘tabernacled,’ evoking God’s dwelling among Israel."], ["18", "The pinned text reads ‘the one-of-a-kind God.’ Other ancient witnesses read ‘the one-of-a-kind Son.’"], ["34", "The pinned text reads ‘God’s Chosen One.’ Other ancient witnesses have ‘Son of God.’"]],
+      "vocabulary": [["01", "λόγος (logos)", "Word, message, reason, or account."], ["14", "σάρξ (sarx)", "Flesh, embodied mortal human existence."], ["17", "χάρις (charis)", "Grace, favor, or generous gift."], ["29", "ἀμνὸς τοῦ θεοῦ (amnos tou theou)", "Lamb of God."]]
+    },
+    "2": {
+      "notes": [["04", "‘What does this have to do with you and me?’ is a distancing idiom, not an insult. ‘Woman’ was a respectful form of address in context."], ["06", "Each stone jar held two or three ancient measures, probably a very large quantity. The narrative stresses abundant provision rather than requiring a precise modern conversion."], ["15", "The sentence says Jesus drove everyone out, along with the sheep and cattle; it does not explicitly say the cord whip struck people."], ["19–22", "Jesus’ hearers understand the sanctuary as the Jerusalem structure; the narrator identifies the sanctuary as Jesus’ body and connects the saying with resurrection."]],
+      "vocabulary": [["11", "σημεῖον (sēmeion)", "Sign, an act that reveals Jesus’ identity and glory."], ["13", "πάσχα (pascha)", "Passover."], ["19", "ναός (naos)", "Sanctuary, especially the temple’s sacred inner structure."], ["23", "πιστεύω (pisteuō)", "Believe, trust, or entrust oneself."]]
+    },
+    "3": {
+      "notes": [["03, 07", "The adverb *anōthen* can mean ‘from above’ or ‘again.’ Jesus speaks of birth from above; Nicodemus hears a second physical birth."], ["05", "‘Water and Spirit’ forms one coordinated birth image. The verse does not itself specify one later ritual formula as the only interpretation."], ["08", "The same Greek word can mean wind or spirit. The main text uses ‘wind’ for what blows and ‘Spirit’ for the one who gives birth, allowing the wordplay to remain audible."], ["14", "‘Lifted up’ gathers Jesus’ crucifixion and exaltation into one expression, in comparison with Moses lifting the snake in the wilderness."], ["16", "‘In this way’ describes how God loved the world—by giving the unique Son—rather than only how intensely God loved."], ["36", "The contrast is between trusting the Son and refusing to obey him; the latter verb includes both disbelief and disobedience."]],
+      "vocabulary": [["03", "ἄνωθεν (anōthen)", "From above; also capable of meaning again."], ["08", "πνεῦμα (pneuma)", "Spirit, wind, or breath."], ["16", "μονογενής (monogenēs)", "One of a kind or unique, especially in a filial relationship."], ["29", "νυμφίος (nymphios)", "Bridegroom."]]
+    },
+    "4": {
+      "notes": [["09", "The final verb can mean associate with, use together, or share vessels. The immediate request for a drink makes shared utensils a likely part of the boundary being named."], ["18", "The verse states the woman’s marital history and present relationship but does not state how the relationships ended or assign her blame for them."], ["22", "‘Salvation comes from the Jewish people’ affirms the Jewish origin of the saving story and of Jesus; it must not be detached from the Gospel’s Jewish setting."], ["23–24", "‘Spirit and truth’ identifies the sphere and character of worship centered on God’s Spirit and reality, not merely inward sincerity contrasted with embodied practice."], ["39–42", "The Samaritan woman’s testimony brings her town to Jesus. Their direct hearing expands rather than dismisses the importance of her witness."]],
+      "vocabulary": [["10", "ὕδωρ ζῶν (hydōr zōn)", "Living water; naturally, flowing fresh water, and in the dialogue God-given life."], ["20", "προσκυνέω (proskyneō)", "Bow down, worship, or show reverence."], ["25", "Μεσσίας (Messias)", "Messiah, the anointed one; translated into Greek as Christ."], ["42", "σωτὴρ τοῦ κόσμου (sōtēr tou kosmou)", "Savior of the world."]]
+    },
+    "5": {
+      "notes": [["04", "Public verse 4 is absent from the pinned Greek text. The later explanation about an angel stirring the water is therefore not included."], ["07", "The man reports that he has no one to put him into the pool and that another person always reaches it first. The narrative reports this belief without confirming the pool’s healing mechanism."], ["10–18", "‘The Jewish authorities’ identifies the local leaders enforcing the Sabbath interpretation and persecuting Jesus. It does not refer to Jewish people as a whole; Jesus and the healed man are themselves Jewish."], ["14", "Jesus warns the healed man not to continue sinning so that nothing worse happens. The verse does not say that his thirty-eight-year illness was caused by a particular sin."], ["31", "In the legal argument, self-testimony alone is not treated as sufficient verification. Jesus does not deny that his own words are true."], ["39", "The verb may be read as ‘you search’ or as a command, ‘search.’ The surrounding address most naturally describes the hearers’ practice and exposes its failure to come to Jesus."]],
+      "vocabulary": [["02", "Βηθεσδά (Bēthesda)", "Bethesda, the pinned Greek form of the pool’s name."], ["21", "ζῳοποιέω (zōopoieō)", "Give life or make alive."], ["29", "ἀνάστασις (anastasis)", "Resurrection, rising from the dead."], ["36", "μαρτυρία (martyria)", "Testimony or witness."]]
+    },
+    "6": {
+      "notes": [["15", "The crowd intends to seize Jesus and make him king. His withdrawal refuses their coercive and political framing of his sign."], ["27", "The Father’s seal marks the Son of Man as authorized to give the food that remains into eternal life."], ["51–58", "The discourse deliberately uses concrete eating, flesh, and blood language. The translation retains it without reducing the passage to one later doctrinal explanation."], ["62–63", "Jesus joins the Son of Man’s ascent with the Spirit’s life-giving work; ‘the flesh is no help’ does not erase the importance of his flesh in the preceding verses."], ["69", "The pinned Greek reads ‘the Holy One of God.’ Other ancient witnesses contain expanded titles."]],
+      "vocabulary": [["35", "ἄρτος τῆς ζωῆς (artos tēs zōēs)", "Bread of life."], ["54", "τρώγω (trōgō)", "Eat; a concrete verb also used of chewing or feeding."], ["63", "πνεῦμα (pneuma)", "Spirit, wind, or breath."]]
+    },
+    "7": {
+      "notes": [["08", "The pinned text has a variant-marked ‘not yet’: Jesus is not yet going up to the festival. Some witnesses read simply ‘not.’"], ["37–39", "The punctuation and the Scripture allusion allow more than one connection for ‘from within him.’ The main text links the living-water saying with the believer and the narrator identifies the water with the Spirit."], ["52", "The leaders’ claim that no prophet arises from Galilee is part of their argument, not the narrator’s endorsement."], ["53", "John 7:53–8:11 is enclosed in double brackets in the pinned source because its earliest textual attestation is uncertain. It is translated here as a clearly marked textual tradition, not silently presented as secure main text."]],
+      "vocabulary": [["02", "σκηνοπηγία (skēnopēgia)", "The Festival of Shelters or Booths."], ["37", "διψάω (dipsaō)", "Be thirsty."], ["49", "ὄχλος (ochlos)", "Crowd or multitude."]]
+    },
+    "8": {
+      "notes": [["01–11", "This passage continues the double-bracketed textual tradition begun at 7:53. Its source status is distinct from uncertainty about individual words in the main text."], ["24, 28, 58", "The expression ‘I am’ can function as ordinary self-identification and also echoes divine self-declaration. The translation leaves the absolute wording visible."], ["31–36", "Jesus speaks to people who had believed him and distinguishes initial belief from remaining in his word. Freedom here concerns slavery to sin, not a denial of Israel’s historical subjugation."], ["44", "The verse uses severe family and desire imagery for allegiance to the devil. It must not be generalized into an ethnic claim about Jewish people; Jesus and his first disciples are Jewish."], ["56–58", "Abraham’s rejoicing and Jesus’ ‘I am’ contrast Abraham’s coming into existence with Jesus’ continuing identity."]],
+      "vocabulary": [["32", "ἀλήθεια (alētheia)", "Truth or reality."], ["36", "ἐλεύθερος (eleutheros)", "Free, not enslaved."], ["51", "τηρέω (tēreō)", "Keep, guard, or observe."]]
+    },
+    "9": {
+      "notes": [["03", "Jesus explicitly rejects the proposed explanation that the man’s blindness resulted from either his own sin or his parents’ sin."], ["04", "The pinned text reads ‘we must do the works’ rather than ‘I must do.’"], ["22", "‘Put out of the synagogue’ describes exclusion from the community’s assembly; the precise later institutional procedure should not be read back into the narrative."], ["24", "‘Give glory to God’ is a solemn demand to tell the truth, not a neutral invitation to worship."], ["39–41", "The sight-blindness contrast becomes a judgment on claimed spiritual perception. It does not make physical blindness a moral defect."]],
+      "vocabulary": [["07", "Σιλωάμ (Silōam)", "Siloam; John explains the name as Sent."], ["22", "ἀποσυνάγωγος (aposynagōgos)", "Excluded from the synagogue or assembly."], ["38", "προσκυνέω (proskyneō)", "Bow down, worship, or show reverence."]]
+    },
+    "10": {
+      "notes": [["01–10", "The same speech moves between the images of shepherd, sheepfold, gatekeeper, and gate. The translation does not force every detail into a separate allegorical identity."], ["11–18", "The good shepherd willingly lays down his life for the sheep and has authority both to lay it down and take it up again."], ["16", "The ‘other sheep’ become one flock with one shepherd; the verse does not say they become one physical enclosure."], ["30–36", "Jesus’ statement ‘I and the Father are one’ prompts an accusation of blasphemy. His appeal to Psalm 82 argues from the scriptural use of ‘gods’ without withdrawing his claim to be the consecrated Son sent by the Father."]],
+      "vocabulary": [["01", "αὐλή (aulē)", "Courtyard or sheepfold."], ["10", "περισσός (perissos)", "Abundant, overflowing, or beyond the usual measure."], ["11", "ποιμὴν ὁ καλός (poimēn ho kalos)", "The good or noble shepherd."]]
+    },
+    "11": {
+      "notes": [["04", "The illness is ‘for God’s glory’ in the narrative’s purpose statement. The wording should not be turned into a general claim that sufferers’ illnesses are divinely inflicted for display."], ["16", "Thomas’s courageous or resigned proposal to die with Jesus should be heard before his later doubt is imported into the scene."], ["25–26", "Jesus identifies himself as resurrection and life and then asks Martha for trust, keeping resurrection hope personal and relational."], ["33, 38", "The verbs describe profound agitation as well as emotion. Jesus’ tears do not remove his anger or disturbance at death."], ["49–52", "Caiaphas’s political calculation accepts one man’s death for the people. The narrator gives his words a further prophetic meaning about Jesus gathering God’s scattered children."]],
+      "vocabulary": [["16", "Δίδυμος (Didymos)", "Twin, the Greek explanation of Thomas’s name."], ["25", "ἀνάστασις (anastasis)", "Resurrection, rising from the dead."], ["35", "δακρύω (dakryō)", "Shed tears or weep."]]
+    },
+    "12": {
+      "notes": [["03–6", "Mary’s costly act fills the house with fragrance. Judas’s objection is narrated as theft from the shared money box, not as evidence that concern for poor people is itself suspect."], ["24–25", "The grain’s death and fruit interpret Jesus’ approaching death and shape discipleship. ‘Hates life’ is a sharp comparative allegiance idiom, not permission for self-harm."], ["27", "Jesus’ troubled prayer can be punctuated as a question answered by his commitment to the hour; the translation retains that movement."], ["32–33", "Being lifted up joins crucifixion and exaltation. The narrator explicitly says the phrase indicates the kind of death Jesus would die."], ["38–41", "John quotes Isaiah’s report of unbelief and then says Isaiah saw Jesus’ glory. The difficult hardening language is retained rather than softened into mere lack of information."]],
+      "vocabulary": [["03", "νάρδος (nardos)", "Nard, an aromatic oil used as costly perfume."], ["24", "κόκκος τοῦ σίτου (kokkos tou sitou)", "A grain of wheat."], ["31", "ἄρχων τοῦ κόσμου (archōn tou kosmou)", "Ruler of the world."]]
+    },
+    "13": {
+      "notes": [["01", "‘To the very end’ can refer to love continuing through the end or love shown to the uttermost. The Greek allows both resonances."], ["08", "‘No share with me’ refers to participation or belonging with Jesus, not to a material allotment."], ["10", "A person who has bathed is clean and needs only footwashing. The saying distinguishes the whole bath from the repeated act without explaining a later ritual system."], ["18", "The Scripture’s lifted heel is an image of hostile betrayal by one who shared bread."], ["23", "The beloved disciple is not named in this verse. His reclining position beside Jesus reflects the meal posture."], ["32", "The initial ‘if God has been glorified in him’ is marked as a textual variant in the pinned source but is present in its main text and therefore translated."], ["34", "The command is new in being measured and enacted by Jesus’ own love: ‘just as I have loved you.’"]],
+      "vocabulary": [["16", "ἀπόστολος (apostolos)", "One who is sent, a messenger."], ["23", "ἀγαπάω (agapaō)", "Love, value, or show devoted care."], ["34", "ἐντολή (entolē)", "Command or instruction."]]
+    },
+    "14": {
+      "notes": [["01", "The two forms can be read as commands, ‘Believe,’ or statements, ‘You believe.’ The main text hears them as paired appeals to trust God and Jesus."], ["02", "‘Dwelling places’ describes places to remain in the Father’s house. The Greek does not require the later image of separate luxurious mansions."], ["06", "Jesus names himself as the way, truth, and life, then speaks of access to the Father through him. The wording is retained without expanding it into a statement about people not under discussion."], ["14", "The pinned main text includes ‘me’: ‘If you ask me.’ The word carries textual-variant marks but is not omitted."], ["16, 26", "Paraclete has a range including advocate, helper, counselor, and one called alongside. ‘Advocate’ preserves a personal representative role."], ["17", "The Spirit now remains ‘with’ the disciples and ‘will be in’ them in the pinned wording."], ["28", "Jesus says the Father is greater than he. The translation leaves the relational comparison intact rather than resolving later theological questions inside the verse."], ["30", "‘Has nothing in me’ is an idiom denying the ruler any claim, hold, or rightful ground in Jesus."]],
+      "vocabulary": [["02", "μονή (monē)", "Dwelling place, a place to remain."], ["06", "ὁδός (hodos)", "Way, road, or path."], ["16", "παράκλητος (paraklētos)", "Advocate, helper, or representative called alongside."]]
+    },
+    "15": {
+      "notes": [["02", "The first verb can mean remove or lift up; the parallel with pruning and the later discarded branch favors ‘removes,’ while the alternative remains consequential."], ["03", "‘Clean’ and ‘prunes’ are related Greek words, creating a wordplay that cannot be fully reproduced in English."], ["13", "‘Lay down one’s life’ is a voluntary self-giving expression and anticipates Jesus’ death."], ["15", "‘Slave’ names the household status contrasted with friends who have been told the master’s purposes; it should not be softened into a merely hired servant."], ["20", "The paired conditions preserve both possible responses: persecution of Jesus’ followers and keeping their word."], ["26", "The Advocate is sent by Jesus from the Father and is also described as proceeding from the Father. Both relations are retained."]],
+      "vocabulary": [["01", "ἄμπελος (ampelos)", "Grapevine or vine."], ["02", "καθαίρω (kathairō)", "Prune or cleanse."], ["04", "μένω (menō)", "Remain, stay, or abide."]]
+    },
+    "16": {
+      "notes": [["02", "The persecutors will imagine that killing Jesus’ followers offers worship or service to God. The verse exposes their self-deception; it does not authorize religious violence."], ["05", "Jesus says no one now asks where he is going, although questions were voiced earlier. The statement addresses the disciples’ present absorption in sorrow, not the erasure of the earlier exchange."], ["08–11", "The Spirit will expose or convict the world concerning sin, righteousness, and judgment; the following clauses give the Gospel’s own explanation of each term."], ["13", "‘All the truth’ describes the Spirit’s faithful guidance from what he hears, not independent speech."], ["21", "The labor image retains a woman’s bodily pain and joy and calls the newborn a human being, emphasizing a person’s arrival into the world."], ["23", "Two related verbs can distinguish asking Jesus a question from making a request to the Father. English ‘ask’ covers both, so the context supplies the distinction."], ["32", "The disciples will leave Jesus alone, yet he denies being truly alone because the Father is with him."]],
+      "vocabulary": [["02", "λατρεία (latreia)", "Worship or sacred service."], ["08", "ἐλέγχω (elenchō)", "Expose, convict, reprove, or demonstrate wrong."], ["33", "θλῖψις (thlipsis)", "Affliction, pressure, or distress."]]
+    },
+    "17": {
+      "notes": [["03", "Eternal life is described as knowing the only true God and Jesus the Messiah whom God sent. ‘Know’ is relational and lived, not merely informational."], ["05", "Jesus asks for the glory he had with the Father before the world existed, explicitly locating the relationship before creation."], ["11–12", "Protection ‘in your name’ concerns belonging to and being kept in God’s revealed identity. ‘Son of destruction’ is an idiom for the one characterized by and destined for ruin."], ["15", "The adjective can be understood as evil generally or as ‘the evil one.’ The personal form fits the Gospel’s references to the world’s ruler, while the broader sense remains possible."], ["17–19", "To sanctify is to set apart for God’s purpose. Jesus sets himself apart for his mission so that his people may be set apart in truth."], ["21–23", "The prayed-for unity is patterned on Father-Son indwelling and serves public witness. It is not described as erasing the persons involved."], ["24", "The Father’s love for the Son is placed before the foundation of the world."]],
+      "vocabulary": [["03", "γινώσκω (ginōskō)", "Know, recognize, or come to know."], ["17", "ἁγιάζω (hagiazō)", "Sanctify, consecrate, or set apart as holy."], ["24", "καταβολὴ κόσμου (katabolē kosmou)", "Foundation or creation of the world."]]
+    }
+  }
+}

@@ -2,203 +2,203 @@
   "book": "John",
   "chapter": 17,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 26,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_17_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 17:1",
-        "source_chapter": 17,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "2542f5751ebc96e0041f237454f8ba3d1d2cfdd14046926eae8b3a439b7b7694"
-      },
-      "2": {
-        "source_ref": "John 17:2",
-        "source_chapter": 17,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "2ddc0b5660d0534a5a5dba7121d0803e147f199389fb163bb206c4a070e32ee7"
-      },
-      "3": {
-        "source_ref": "John 17:3",
-        "source_chapter": 17,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "55e8ccf9182353547d08dd3458c2babfe47a0600f6d57c646a6e44fb16150695"
-      },
-      "4": {
-        "source_ref": "John 17:4",
-        "source_chapter": 17,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "fb63070ade9fc73cc7dd56f720a530bc45e01f0bba39979b3cdc90bf873573ed"
-      },
-      "5": {
-        "source_ref": "John 17:5",
-        "source_chapter": 17,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "0377465418a7f556509874a92798619eb8483ac12979b01bfb91f8ad9b688e34"
-      },
-      "6": {
-        "source_ref": "John 17:6",
-        "source_chapter": 17,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5aaa58fddb8159b86724a86f7267499c86d21b9482aa31864e778763b87aefca"
-      },
-      "7": {
-        "source_ref": "John 17:7",
-        "source_chapter": 17,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "85cd2ee4df76a0a354ecdd6422e6d5976dc9ef0eb14e327b64c3457117467758"
-      },
-      "8": {
-        "source_ref": "John 17:8",
-        "source_chapter": 17,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "81b1a0bb9037119ea8783d8e0656dd786d3838c0091764a738d72d3c3714958a"
-      },
-      "9": {
-        "source_ref": "John 17:9",
-        "source_chapter": 17,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "dd788f36a50c3be74d5a43a7de1c9f4e1dc6f01e1b3503e744445b1e10fbeaac"
-      },
-      "10": {
-        "source_ref": "John 17:10",
-        "source_chapter": 17,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "4b2482190b374f5f181df9ebe2b0bf73e0272867ea4c371461d55e9b2f06c70a"
-      },
-      "11": {
-        "source_ref": "John 17:11",
-        "source_chapter": 17,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "b430eb694bd602c0343911297990149418c64d54f4d28ec1c1bc2ce8c5150119"
-      },
-      "12": {
-        "source_ref": "John 17:12",
-        "source_chapter": 17,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "a40db68fb6c679ff7ff7e6badbfc3431df54d91e9c8a4cb023e61e4fda87e9ba"
-      },
-      "13": {
-        "source_ref": "John 17:13",
-        "source_chapter": 17,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "d451923dd360b02b30ae014a7544da3a5b8e1b7eabc133ce7e7df8e68f991323"
-      },
-      "14": {
-        "source_ref": "John 17:14",
-        "source_chapter": 17,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "2ebc4881b9d88106f54d0bcff2edd2c820734e9b5dd4766ad8782f7336c1ec11"
-      },
-      "15": {
-        "source_ref": "John 17:15",
-        "source_chapter": 17,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "7f9a73f40147672d228e05ca00bdd8ef378fd1149d203ac7408c0ce00b0d212b"
-      },
-      "16": {
-        "source_ref": "John 17:16",
-        "source_chapter": 17,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "df0fc5ff993bc23b8aa7b93d1b478f5ef4d0ba4f74e79484529f8d085101d2d8"
-      },
-      "17": {
-        "source_ref": "John 17:17",
-        "source_chapter": 17,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "abbb50170aa03c95770b5235fd81305048e93d00c64bf926efdb4d4fd6e3df1e"
-      },
-      "18": {
-        "source_ref": "John 17:18",
-        "source_chapter": 17,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "0d7932df843532487d381d4cc8bf58c454078e20886ef92014f12b755f641025"
-      },
-      "19": {
-        "source_ref": "John 17:19",
-        "source_chapter": 17,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "3566bd932551aa06770536d299875eb8454440319ec93e89d301666d2fa06b4e"
-      },
-      "20": {
-        "source_ref": "John 17:20",
-        "source_chapter": 17,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "62e2d137d44799ecf0e60575a9444fd8041cb02842bcae5b5f8f3a1be387807d"
-      },
-      "21": {
-        "source_ref": "John 17:21",
-        "source_chapter": 17,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "44fac045aecc395900cf2548de14aeb0ade496abb4c2a556c259a3c2e0322c11"
-      },
-      "22": {
-        "source_ref": "John 17:22",
-        "source_chapter": 17,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "93f3aa2a04461a83be1a9d2865f031e80f79ac2ac2c9bfd788bdbc475e94d66c"
-      },
-      "23": {
-        "source_ref": "John 17:23",
-        "source_chapter": 17,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "52327e7c9f4407b42f15c4b8d1ed0bfb6768f734642111a5310d26492e4d78e8"
-      },
-      "24": {
-        "source_ref": "John 17:24",
-        "source_chapter": 17,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "896b4322f5a1fb620bc44dc7afb309980f36d676947475821d0d80afb97feec8"
-      },
-      "25": {
-        "source_ref": "John 17:25",
-        "source_chapter": 17,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e2a76c4652af809f94c388aedfdb575a85cf2371500812c1b8dfb7f5b09f7008"
-      },
-      "26": {
-        "source_ref": "John 17:26",
-        "source_chapter": 17,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "038e63ba460f10d41ae0d8fc021428ae681cfd5aaa647043cc912618c5c2aa27"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 17,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/john/John_17.md",
+    "before_sha256": "d9d4b9d27f4dbf1fad799108ab258f1bcef865696826f21158cb5821a307ddb3",
+    "after_sha256": "61eace25b45dfce5f0f998555d28b576d4f6ee96ddaa8b91ae8f4904ce1c1b95",
+    "tsw_comparator_path": "books/NT/john/John_17.md",
+    "tsw_comparator_sha256": "0b43d7ca4aa8b9246688ab33000616af474df5fbd455422459252522ca973bbd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 17:3",
+      "delta": "F3",
+      "rationale": "Preserves the definition, relational knowing, exclusivity, truth, Messiah title, and sending.",
+      "source_reference": "John 17:3",
+      "source_verse_sha256": "ab2ce0ed6a7055e44faef3d92e35524faa75774c57537a61f4b54148ef6e490f",
+      "before": "And this is eternal life: that they know you, the only true God, and Jesus Christ, whom you sent.",
+      "after": "And this is eternal life: that they know you, the only true God, and Jesus the Messiah, whom you sent.",
+      "tsw_comparator": "And this is eternal life: that they know you, the only true God, and Jesus Christ whom you have sent.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:5",
+      "delta": "F3",
+      "rationale": "Preserves present request, shared presence, prior glory, and preexistence before the world.",
+      "source_reference": "John 17:5",
+      "source_verse_sha256": "d6f4b5cce4caabe8b4394449cbc94be7027d71fa034b1e99ab77deb047a398fa",
+      "before": "Now, Father, glorify me in your presence with the glory I had with you before the world existed.",
+      "after": "And now, Father, glorify me in your presence with the glory I had with you before the world existed.",
+      "tsw_comparator": "And now, Father, glorify me in your own presence with the glory that I had with you before the world existed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.95,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:11",
+      "delta": "F3",
+      "rationale": "Preserves contrasting locations, movement to the Father, holy address, protection in the given name, and unity’s model.",
+      "source_reference": "John 17:11",
+      "source_verse_sha256": "31f72a28622e930db44a3ad981499c3100f4d720d7350e6edf8810bc91483646",
+      "before": "I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, keep them in your name, which you have given me, so that they may be one just as we are one.",
+      "after": "I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, protect them in your name, which you have given me, so that they may be one just as we are.",
+      "tsw_comparator": "And I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, keep them in your name, which you have given me, so that they may be one, as we are one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.939759,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:12",
+      "delta": "F3",
+      "rationale": "Keeps past protection, guarding, sole exception, destruction idiom, and scriptural fulfillment.",
+      "source_reference": "John 17:12",
+      "source_verse_sha256": "e240371c112d3819eca3afc2be3c30cd43cbdacb6cb47bf2c1e6199e158ac3fa",
+      "before": "While I was with them, I kept them in your name, which you have given me. I guarded them, and none of them was lost except the son of destruction, so that Scripture might be fulfilled.",
+      "after": "While I was with them, I protected them in your name, which you have given me. I guarded them, and not one of them was lost except the son of destruction, so that the Scripture might be fulfilled.",
+      "tsw_comparator": "While I was with them, I kept them in your name, which you have given me. I guarded them, and not one of them was lost except the son of destruction, so that the Scripture might be fulfilled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.973684,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:15",
+      "delta": "F3",
+      "rationale": "Preserves the negative and positive requests; the Greek can refer to evil generally or the evil one.",
+      "source_reference": "John 17:15",
+      "source_verse_sha256": "7a4702c4ec169b3688a409dd20bf77d4563d11e6eb055c8317f2e55c2e73e86f",
+      "before": "I am not asking you to take them out of the world, but to keep them from the evil one.",
+      "after": "I am not asking you to take them out of the world, but to protect them from the evil one.",
+      "tsw_comparator": "I do not ask that you take them out of the world, but that you keep them from the evil one.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:17",
+      "delta": "F3",
+      "rationale": "Preserves consecration, its sphere or means, and the predication about God’s word.",
+      "source_reference": "John 17:17",
+      "source_verse_sha256": "32e774a4d37653a2b3eccd8ccaa7d0bd8368c4a60fd3a12636662cfae88af3f0",
+      "before": "Make them holy in the truth; your word is truth.",
+      "after": "Sanctify them in the truth; your word is truth.",
+      "tsw_comparator": "Sanctify them in the truth; your word is truth.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:19",
+      "delta": "F3",
+      "rationale": "Preserves Jesus’ self-consecration, representative purpose, and the disciples’ consecration.",
+      "source_reference": "John 17:19",
+      "source_verse_sha256": "ac19290bab6fb899d8fbd0a2f7a043d7dc79866f1878233f96220c5a5d38ab5d",
+      "before": "And for their sake I make myself holy, so that they also may be made holy in truth.",
+      "after": "For their sake I sanctify myself, so that they also may be sanctified in truth.",
+      "tsw_comparator": "And for their sake I sanctify myself, so that they also may be sanctified in truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.967742,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:21",
+      "delta": "F3",
+      "rationale": "Preserves universal unity, mutual indwelling as its pattern, participation, and missional purpose.",
+      "source_reference": "John 17:21",
+      "source_verse_sha256": "5556c398c2fe961b6a58ee6d6b8bb4739b7a825ed4baf5571879aa71b3933500",
+      "before": "so that they may all be one, just as you, Father, are in me and I am in you, so that they too may be in us, so that the world may trust that you sent me.",
+      "after": "that they may all be one, just as you, Father, are in me and I am in you; may they also be in us, so that the world may believe that you sent me.",
+      "tsw_comparator": "that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.927536,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:23",
+      "delta": "F3",
+      "rationale": "Preserves indwelling, perfected unity, public knowledge, sending, and the striking comparison of love.",
+      "source_reference": "John 17:23",
+      "source_verse_sha256": "d7de825cfbde4afeae203b69d306ff1d3dce52d38c5fc233ba4ffdf9d6ac62a9",
+      "before": "I in them and you in me, so that they may be brought to complete unity, so that the world may know that you sent me and loved them just as you loved me.",
+      "after": "I in them and you in me—so that they may be brought to complete unity, and so that the world may know that you sent me and loved them just as you loved me.",
+      "tsw_comparator": "I in them and you in me, that they may become perfectly one, so that the world may know that you sent me and loved them even as you loved me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:24",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ desire, shared presence, sight of glory, gift, love, and precreation time.",
+      "source_reference": "John 17:24",
+      "source_verse_sha256": "ad53786d25771410895f522d27e753a4a89e211ff7f706f37ef819e5500f2e4e",
+      "before": "Father, I want those you have given me to be with me where I am, so that they may see my glory, which you have given me because you loved me before the foundation of the world.",
+      "after": "Father, I desire that those you have given me may be with me where I am, so that they may see my glory, which you have given me because you loved me before the foundation of the world.",
+      "tsw_comparator": "Father, I desire that those also whom you have given me may be with me where I am, to see my glory that you have given me because you loved me before the foundation of the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.88,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 17:26",
+      "delta": "F3",
+      "rationale": "Keeps past and future revelation, the Father’s love within the disciples, and Jesus’ indwelling.",
+      "source_reference": "John 17:26",
+      "source_verse_sha256": "7f033e220199eb331ec03933df51d1872cfa1645caec662667a00c3ba21e0d76",
+      "before": "I made your name known to them and will continue to make it known, so that the love with which you loved me may be in them, and I may be in them.”",
+      "after": "I made your name known to them and will continue to make it known, so that the love with which you loved me may be in them, and I may be in them.”",
+      "tsw_comparator": "I made known to them your name, and I will make it known, so that the love with which you have loved me may be in them, and I in them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84375,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_17.md",
-    "blob_sha": "3d95459c3de5157baa133504849b25efda0997ba"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

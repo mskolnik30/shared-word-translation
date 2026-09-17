@@ -2,434 +2,316 @@
   "book": "Luke",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 59,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_12_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 12:1",
-        "source_chapter": 12,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "8776079ef378a6d8c76ca9f5a4bbd21ae117dbfeb9630d1b869aff05e6ac6696"
-      },
-      "2": {
-        "source_ref": "Luke 12:2",
-        "source_chapter": 12,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "676172e2002c84ddc11b65e199038ebae6bcc08cb51cfca7bed1fccbf70ff0e8"
-      },
-      "3": {
-        "source_ref": "Luke 12:3",
-        "source_chapter": 12,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b6ad890468f492d5bcd991d11ebac97d0e8ea198819b788ac4da2d879b866db9"
-      },
-      "4": {
-        "source_ref": "Luke 12:4",
-        "source_chapter": 12,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "a3c3b358165547c636c5dff61ed8f3bc9c6b2364f85c601ebd23839fd83fbaeb"
-      },
-      "5": {
-        "source_ref": "Luke 12:5",
-        "source_chapter": 12,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "6f9f09e39b4a4012807cbd6d4ae4ce6464721070876219bb28ddbd2c6a665d10"
-      },
-      "6": {
-        "source_ref": "Luke 12:6",
-        "source_chapter": 12,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "5cab26d083b8823611967d6a773c26ec4cd3904d31330eb0d7088547bcb5a71e"
-      },
-      "7": {
-        "source_ref": "Luke 12:7",
-        "source_chapter": 12,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "b4a089e90b5958c8c8bf8510ec4b2befcb425c11ae96106fbe41e1538503f07e"
-      },
-      "8": {
-        "source_ref": "Luke 12:8",
-        "source_chapter": 12,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "a9560bc8a2a9d677ed0e2e0adce88d6eb75eaea14e0c0969f45af20e0a1a0697"
-      },
-      "9": {
-        "source_ref": "Luke 12:9",
-        "source_chapter": 12,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "f048a66ef67aa27de54c47d9aeabcbce04ea4d3da2c42a5a58f758bd73fdc279"
-      },
-      "10": {
-        "source_ref": "Luke 12:10",
-        "source_chapter": 12,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "4ce9e292e683c0f0527adebda8861f8688dbb826e306cbd1dd67c2fb939c1f89"
-      },
-      "11": {
-        "source_ref": "Luke 12:11",
-        "source_chapter": 12,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "bdb6be068988618ee926e272cca6a347963ef5c1656725b8ebbd882437b92db3"
-      },
-      "12": {
-        "source_ref": "Luke 12:12",
-        "source_chapter": 12,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "cb5ad9d6d475b685f7d77630942f61208a8dd1e41110f90b9b6dbef0327de074"
-      },
-      "13": {
-        "source_ref": "Luke 12:13",
-        "source_chapter": 12,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "2589357d48841e13163312643dd49287241b1787992778cb62e7f80beac26a52"
-      },
-      "14": {
-        "source_ref": "Luke 12:14",
-        "source_chapter": 12,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "977486918e12b12b9315ef11af1f37cd41dd0b436375cc699b5fcbb9fadb7e73"
-      },
-      "15": {
-        "source_ref": "Luke 12:15",
-        "source_chapter": 12,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "fc652eced3c140d7ac8495eea9758c76647c3f8d18ba840ea5b7b545906d845b"
-      },
-      "16": {
-        "source_ref": "Luke 12:16",
-        "source_chapter": 12,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "f749861a07c1862d76ce0f695cfdd120c7beffa829d76e93d5c76fe05f9b26d5"
-      },
-      "17": {
-        "source_ref": "Luke 12:17",
-        "source_chapter": 12,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "977d848ebee92bc678b00d39c9436068e405d42fce67110e6fd5b64688dbce82"
-      },
-      "18": {
-        "source_ref": "Luke 12:18",
-        "source_chapter": 12,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "dc70aab391430ad6d229cad1ae87aa748fa663bc7a2a7e9735721729931345b7"
-      },
-      "19": {
-        "source_ref": "Luke 12:19",
-        "source_chapter": 12,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f4b577f1d020714cd01ef6ce1bd1717817e58840c9bbc3dcd36d07445ba936b9"
-      },
-      "20": {
-        "source_ref": "Luke 12:20",
-        "source_chapter": 12,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "061ed1d5309e29b3949b235b2887ed889a99a74f309fd4552ecc406502c03977"
-      },
-      "21": {
-        "source_ref": "Luke 12:21",
-        "source_chapter": 12,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "c73fa21039ffc18845ada76f08d4343e6aa39ddc801fb9d73b75fba86c1a137f"
-      },
-      "22": {
-        "source_ref": "Luke 12:22",
-        "source_chapter": 12,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "b90c7b5f61d4e4b2d0705977240f930f78208b8f4ad1e8a61cb1e5807be1dae5"
-      },
-      "23": {
-        "source_ref": "Luke 12:23",
-        "source_chapter": 12,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "0e25b86f68b8bf39d1b3d4743f4e1b6d58b6508fc59fd3726894e70ef927549e"
-      },
-      "24": {
-        "source_ref": "Luke 12:24",
-        "source_chapter": 12,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "4f0bbc57df3de428eecde4fff485d158c740f96e50061b31b14c0fdce8f832a0"
-      },
-      "25": {
-        "source_ref": "Luke 12:25",
-        "source_chapter": 12,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "38fa6bdaa751d4a4ef16f335c68fde993eb1a7081387f629cfb641b02adf58f7"
-      },
-      "26": {
-        "source_ref": "Luke 12:26",
-        "source_chapter": 12,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "69b572c6be26882a8b17c4323944c17c9206831c10721cf2350f1f0ab6cb3d43"
-      },
-      "27": {
-        "source_ref": "Luke 12:27",
-        "source_chapter": 12,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "34d894f043f47508e602e15c2eec4f0a4e456fa583a3c1974032e037b5266336"
-      },
-      "28": {
-        "source_ref": "Luke 12:28",
-        "source_chapter": 12,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "25e671bed40a5cd815b8f2dfa0f816eec00ec05bbfbf216ccbfe6999aad2d1cd"
-      },
-      "29": {
-        "source_ref": "Luke 12:29",
-        "source_chapter": 12,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "0133579d75197e115b4c08c31d8638c84a9af8bd3840351f81300369d9af71ef"
-      },
-      "30": {
-        "source_ref": "Luke 12:30",
-        "source_chapter": 12,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "420fda6a8c6afb0d540c7db16a5cada40c283234acd48aa295d5d4164906f8ac"
-      },
-      "31": {
-        "source_ref": "Luke 12:31",
-        "source_chapter": 12,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "1a51e116fc6a60bc9f6b0972d5509d216242b0856f3cd8b5f817130316f515b3"
-      },
-      "32": {
-        "source_ref": "Luke 12:32",
-        "source_chapter": 12,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "1ff13f5ebca60b730329c586f509fe382ff96704a3c5b1d0d215f0a05ca92a95"
-      },
-      "33": {
-        "source_ref": "Luke 12:33",
-        "source_chapter": 12,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "0c992b06a6dc98d83035a41328fcb9e8eab2265e0faea09ee7394eb6f2366c97"
-      },
-      "34": {
-        "source_ref": "Luke 12:34",
-        "source_chapter": 12,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "5bb7e4a9c032c2f1aef298ac2e88d7862c2cc13d372ab6d86466fadc42f6adfa"
-      },
-      "35": {
-        "source_ref": "Luke 12:35",
-        "source_chapter": 12,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "68b4dd611397d1fc10f456fdfa7a323c60a11c485c80a5980ea8f4f9f05f4416"
-      },
-      "36": {
-        "source_ref": "Luke 12:36",
-        "source_chapter": 12,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "d4acc710f9c298292ecd840af88b476c93cfe1f234f319a46867887b87fafb60"
-      },
-      "37": {
-        "source_ref": "Luke 12:37",
-        "source_chapter": 12,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "d107983be2f54c1df6a7c11f613b0a39020006492852ffa21ab1f05fff85d230"
-      },
-      "38": {
-        "source_ref": "Luke 12:38",
-        "source_chapter": 12,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "2eab014acbe91044d709990783163e7e6fbf2caf46e0197bd1f8e908b32e7632"
-      },
-      "39": {
-        "source_ref": "Luke 12:39",
-        "source_chapter": 12,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "4091c71e096edbec366adf6ea91eb67ee1db5bbaf98d44a32a2ee49dd795622e"
-      },
-      "40": {
-        "source_ref": "Luke 12:40",
-        "source_chapter": 12,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "7b43b4f80940de54bda41da8e34f1c08f1cf9b0a2a04253c2f3914a71ce43fcb"
-      },
-      "41": {
-        "source_ref": "Luke 12:41",
-        "source_chapter": 12,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "a17acd268816ba0718fa0d9025d91d110a3ef539bf64e2c2b2906c07a67b1dc8"
-      },
-      "42": {
-        "source_ref": "Luke 12:42",
-        "source_chapter": 12,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "5ed6ed463276308832bdf0447319296a9458af17261b93c353a6696ecd673de1"
-      },
-      "43": {
-        "source_ref": "Luke 12:43",
-        "source_chapter": 12,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "0efd05a960644798ab108cc53a924a56936200cf73f77a282293524830f4895f"
-      },
-      "44": {
-        "source_ref": "Luke 12:44",
-        "source_chapter": 12,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "eec53f78f3d9294247fa1a93c17b771a8014677b445dd0dcc6fbc5c13e79d7b2"
-      },
-      "45": {
-        "source_ref": "Luke 12:45",
-        "source_chapter": 12,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "0a2b225636e35b02d776216e88d029abdd236d3b76c2f7ff6702da8bf86c87c7"
-      },
-      "46": {
-        "source_ref": "Luke 12:46",
-        "source_chapter": 12,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "7a55be607d277c4e6092408c501f551417c4e63329d53dda5c05c743805d7c6b"
-      },
-      "47": {
-        "source_ref": "Luke 12:47",
-        "source_chapter": 12,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "f1b40a8dfbd3c55bdc817c15a8e88828aa84ebb9e2437dfbe81329032de83591"
-      },
-      "48": {
-        "source_ref": "Luke 12:48",
-        "source_chapter": 12,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "e1a5ca04cd6e1755b1f5b3c4138a0d1c1967370682e122897721a74d482e0bac"
-      },
-      "49": {
-        "source_ref": "Luke 12:49",
-        "source_chapter": 12,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "a8a774fbc1a762c6ca03863963d5982fb15acaa66b0c4e4f3302b99adac917de"
-      },
-      "50": {
-        "source_ref": "Luke 12:50",
-        "source_chapter": 12,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "c1c7c7138cffb51f3de40b575013f77aa009585baafb4b568e1fa11594209568"
-      },
-      "51": {
-        "source_ref": "Luke 12:51",
-        "source_chapter": 12,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "1c19c1e92b1df88203044b3afcf67d7ae8969e476eb58e46db0f046616123767"
-      },
-      "52": {
-        "source_ref": "Luke 12:52",
-        "source_chapter": 12,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "50f56364eb83cdfa24e1d12f8e467b3006144b22a66a4bb28f3f74831f13fe5c"
-      },
-      "53": {
-        "source_ref": "Luke 12:53",
-        "source_chapter": 12,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "9d6e636ad4330750dd72397cec5ca621d39d6fe29a54e81105c00b656928bfec"
-      },
-      "54": {
-        "source_ref": "Luke 12:54",
-        "source_chapter": 12,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "d5e628727fc927b5acbbb00658f8c6f297d233347ab49ea83ba13c76e1346527"
-      },
-      "55": {
-        "source_ref": "Luke 12:55",
-        "source_chapter": 12,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "38dce8d7448eb56138cafe838961af62419f38772bc5757799396fe0e4164bd4"
-      },
-      "56": {
-        "source_ref": "Luke 12:56",
-        "source_chapter": 12,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "86c2c38690e0cfde4f30a272461097b6d636aa62dfc64754c69eb0d09ebbaae9"
-      },
-      "57": {
-        "source_ref": "Luke 12:57",
-        "source_chapter": 12,
-        "source_verse": 57,
-        "segment_mode": "whole_record",
-        "sha256": "4f682bd39bd6cef0e5a01cef38a0027c30d7282bfd7ec0526902dcceac34fa72"
-      },
-      "58": {
-        "source_ref": "Luke 12:58",
-        "source_chapter": 12,
-        "source_verse": 58,
-        "segment_mode": "whole_record",
-        "sha256": "bd7c4d1891da26d1e1a13ed1e9c618b0d7f4d74d7481610d69097fa3fc81a617"
-      },
-      "59": {
-        "source_ref": "Luke 12:59",
-        "source_chapter": 12,
-        "source_verse": 59,
-        "segment_mode": "whole_record",
-        "sha256": "db046268767e9f7c5e26f333b3427303fac6065a884448e39045d9c4d708134e"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 59,
+    "path": "translations/fluent/NT/luke/Luke_12.md",
+    "before_sha256": "3ece7117d8cc83d0c812e70efcad7b87121652b2ac58ea520a32f18bd6473a23",
+    "after_sha256": "90b25fec4ae6f0fe74a46de3a9c2f1a348a72ad980f597adf335d1877ed13b12",
+    "tsw_comparator_path": "books/NT/luke/Luke_12.md",
+    "tsw_comparator_sha256": "745281a9d3e3e70f2f60981000ce22bd0ff0c2b9d3fce871183c18cc1604a9ad"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 12:1",
+      "delta": "F3",
+      "rationale": "Keeps the immense crowd, physical pressure, priority to the disciples, and yeast-hypocrisy identification.",
+      "source_reference": "Luke 12:1",
+      "source_verse_sha256": "73fcbfb0a685bc97b775cdfeec6d8a30de9c43f4235a242e6940ac6cd8952b35",
+      "before": "Meanwhile, a crowd of many thousands had gathered, so many that they were trampling one another. Jesus began speaking first to his disciples: “Beware of the leaven of the Pharisees, which is hypocrisy.",
+      "after": "Meanwhile, a crowd of many thousands gathered, so that they were trampling one another. Jesus began by speaking first to his disciples: “Guard yourselves against the yeast of the Pharisees, which is hypocrisy.",
+      "tsw_comparator": "Meanwhile, when so many thousands of the crowd had gathered that they were trampling one another, he began to say first to his disciples, “Beware of the leaven of the Pharisees, which is hypocrisy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.656716,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:5",
+      "delta": "F3",
+      "rationale": "Preserves death, authority, Gehenna, repetition, and the unresolved identity in the wording.",
+      "source_reference": "Luke 12:5",
+      "source_verse_sha256": "8126e5b6bc5043ef77f9cb398db3d136d0d5397c278529f7fb28e1223aba58f4",
+      "before": "I will show you whom to fear: fear the one who, after killing, has authority to throw into Gehenna. Yes, I tell you, fear him.",
+      "after": "But I will show you whom to fear: fear the one who, after killing, has authority to throw into Gehenna. Yes, I tell you, fear him.",
+      "tsw_comparator": "But I will show you whom you should fear: fear the one who after he has killed has authority to cast into Gehenna; yes, I tell you, fear him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:8",
+      "delta": "F3",
+      "rationale": "Preserves reciprocal public acknowledgment and the heavenly audience.",
+      "source_reference": "Luke 12:8",
+      "source_verse_sha256": "cc107a41016b7f4f3375a107bf2d953c2b0455469fc1ee7dce10b8f9b6d1ecd7",
+      "before": "I tell you, everyone who acknowledges me before people, the Son of Man will also acknowledge before God’s angels.",
+      "after": "I tell you, everyone who acknowledges me before others, the Son of Man will also acknowledge before God’s angels.",
+      "tsw_comparator": "“And I say to you, everyone who acknowledges me before people, the Son of Man will also acknowledge him before the angels of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.744186,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:15",
+      "delta": "F3",
+      "rationale": "Retains double warning, all greed, life, abundance, and possessions.",
+      "source_reference": "Luke 12:15",
+      "source_verse_sha256": "e5da15ef227682dba1a4d590d91ce82de89f181bbcc65644e17d0f68986c249a",
+      "before": "Then he said to them, “Watch out and guard yourselves from every kind of greed, because a person’s life does not consist in the abundance of possessions.”",
+      "after": "Then he said to them, “Watch out and guard yourselves against every kind of greed, because a person’s life does not come from having an abundance of possessions.”",
+      "tsw_comparator": "And he said to them, “Take care and guard yourselves from all covetousness, because one’s life is not in the abundance of his possessions.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:20",
+      "delta": "F3",
+      "rationale": "Preserves the divine address, immediate death, demanding-back image, and ownership question.",
+      "source_reference": "Luke 12:20",
+      "source_verse_sha256": "a56fc443eeb2e249157c33499bdda7c2d7165fb677ac59495c24a341036e7665",
+      "before": "But God said to him, ‘Fool! This very night your life is being demanded back from you. The things you prepared—whose will they be?’",
+      "after": "But God said to him, ‘Fool! This very night your life is being demanded back from you. Then who will have what you prepared?’",
+      "tsw_comparator": "But God said to him, ‘Fool! This night your soul is required of you; and the things you have prepared—whose will they be?’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:25",
+      "delta": "F3",
+      "rationale": "Preserves the source’s measurement image and its possible life-span sense.",
+      "source_reference": "Luke 12:25",
+      "source_verse_sha256": "0322d3b450854988fc96025efc4d856141cf8384b55fccdb7e0fd53397c8700e",
+      "before": "Which of you by being anxious can add a single cubit to your span of life?",
+      "after": "Which of you by worrying can add a cubit to your span of life?",
+      "tsw_comparator": "And which of you by being anxious is able to add a cubit to his span of life?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:32",
+      "delta": "F3",
+      "rationale": "Retains tenderness, flock image, Father’s pleasure, and gift.",
+      "source_reference": "Luke 12:32",
+      "source_verse_sha256": "5777b76835fc270139840be9f7d41439961ff8371d9bef734155061f46c9448a",
+      "before": "Do not be afraid, little flock, because your Father is pleased to give you the kingdom.",
+      "after": "Do not be afraid, little flock, because your Father has been pleased to give you the kingdom.",
+      "tsw_comparator": "“Do not fear, little flock, because your Father has been pleased to give you the kingdom.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:33",
+      "delta": "F3",
+      "rationale": "Keeps the concrete economic commands and thief-moth heavenly contrast.",
+      "source_reference": "Luke 12:33",
+      "source_verse_sha256": "e9e79cd3e00eeeec55f21074aaa1b4ae250247f41de96f0d3d8d352c3428da98",
+      "before": "Sell your possessions and give to the poor. Make yourselves moneybags that do not wear out, an unfailing treasure in heaven, where no thief comes near and no moth destroys.",
+      "after": "Sell your possessions and give to those in need. Make purses for yourselves that do not wear out—an unfailing treasure in heaven, where no thief comes near and no moth destroys.",
+      "tsw_comparator": "Sell your possessions and give alms; make for yourselves purses that do not grow old, an unfailing treasure in the heavens, where no thief approaches nor moth destroys.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:37",
+      "delta": "F3",
+      "rationale": "Preserves reversal in which the master serves the watchful servants.",
+      "source_reference": "Luke 12:37",
+      "source_verse_sha256": "01bbb0c2893edab6902830f26be1c415864f13d9d5ed5be78af0554211f9cd65",
+      "before": "Blessed are those servants whom the master finds watching when he comes. Truly I tell you, he will fasten his own belt, have them recline at the table, and come serve them.",
+      "after": "Blessed are those servants whom the master finds awake when he comes. Truly I tell you, he will dress himself to serve, have them recline at the table, and come serve them.",
+      "tsw_comparator": "Blessed are those slaves whom the master will find watching when he comes; truly I say to you that he will gird himself and have them recline at table and will come and serve them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.716418,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:42",
+      "delta": "F3",
+      "rationale": "Keeps stewardship, household responsibility, and timely food distribution.",
+      "source_reference": "Luke 12:42",
+      "source_verse_sha256": "accbfa1d5647e5e10e7e49397754ce7ec5cc365dad7fb4e9071b13b2f6224e5e",
+      "before": "The Lord said, “Who then is the faithful and wise steward whom the master will put over the household to give them their food allowance at the proper time?",
+      "after": "The Lord replied, “Who then is the faithful and wise manager whom the master will put in charge of his household servants to give them their food allowance at the proper time?",
+      "tsw_comparator": "And the Lord said, “Who then is the faithful and wise steward, whom the master will set over his household to give the portion of food at the proper time?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:45",
+      "delta": "F3",
+      "rationale": "Names abuse of both men and women and the servant’s indulgence without softening harm.",
+      "source_reference": "Luke 12:45",
+      "source_verse_sha256": "85f03f258061b344ba2809ad339968830d08c21bc061e1ab34636d1a07f4c5c1",
+      "before": "But if that servant says in his heart, ‘My master is taking a long time to come,’ and begins beating male and female servants and eating, drinking, and getting drunk,",
+      "after": "But suppose that servant says in his heart, ‘My master is taking a long time to come,’ and begins to beat the male and female servants, and to eat, drink, and get drunk.",
+      "tsw_comparator": "But if that slave says in his heart, ‘My master delays in coming,’ and begins to beat the male and female servants, and to eat and drink and become drunk,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.730159,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:46",
+      "delta": "F3",
+      "rationale": "Retains surprise, violent judgment image, and association with the unfaithful.",
+      "source_reference": "Luke 12:46",
+      "source_verse_sha256": "5866435b769bc02e0967e72b9c57c96bcc99a1bae09d6b57f77688e403fde7e5",
+      "before": "the master of that servant will come on a day when he does not expect him and at an hour he does not know. He will cut him in two and assign him a place with the unfaithful.",
+      "after": "That servant’s master will come on a day he does not expect and at an hour he does not know. He will cut him in two and assign him a place with the unfaithful.",
+      "tsw_comparator": "the master of that slave will come on a day when he does not expect and at an hour he does not know, and will cut him in pieces and appoint his place with the unfaithful.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.771429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:48",
+      "delta": "F3",
+      "rationale": "Preserves degrees of responsibility, corporal image, gift, trust, and demand.",
+      "source_reference": "Luke 12:48",
+      "source_verse_sha256": "7169a7eb14ee11458a788a89084a68416ebb1821b772978b1e8068c0260d3f7f",
+      "before": "But the one who did not know and did things deserving blows will receive few. From everyone who has been given much, much will be required, and from the one entrusted with much, even more will be demanded.",
+      "after": "But the one who did not know and did things deserving blows will receive few. From everyone who has been given much, much will be required; and from the one entrusted with much, even more will be demanded.",
+      "tsw_comparator": "but the one who did not know and did things worthy of blows will receive few. Everyone to whom much has been given, much will be required, and from the one to whom they entrusted much, they will demand more.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.74359,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:49",
+      "delta": "F3",
+      "rationale": "Retains the disruptive fire image and difficult expression of desire.",
+      "source_reference": "Luke 12:49",
+      "source_verse_sha256": "33d37256a587389f13397ca126d2c056911a02eea049fdb8b02aec68d890d7c2",
+      "before": "“I came to cast fire on the earth, and how I wish it were already kindled!",
+      "after": "“I came to cast fire on the earth, and how I wish it were already kindled!",
+      "tsw_comparator": "“I came to cast fire upon the earth, and how I wish it were already kindled!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:50",
+      "delta": "F3",
+      "rationale": "Keeps baptism as impending ordeal, constraint, and completion.",
+      "source_reference": "Luke 12:50",
+      "source_verse_sha256": "896a7e713f1a5c3976537498535b1049e994b6a0e9bd80e3e5f4a0621a6a9641",
+      "before": "But I have a baptism to undergo, and how distressed I am until it is completed!",
+      "after": "But I have a baptism to undergo, and how distressed I am until it is completed!",
+      "tsw_comparator": "But I have a baptism to be baptized with, and how distressed I am until it is accomplished!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:51",
+      "delta": "F3",
+      "rationale": "Preserves the startling denial and division.",
+      "source_reference": "Luke 12:51",
+      "source_verse_sha256": "043bf99b71e27cf1f43e1967b87743b01d08d97e5c4b8cca6080e840cc4457f6",
+      "before": "Do you think I came to give peace on earth? No, I tell you, but rather division.",
+      "after": "Do you think I came to bring peace on the earth? No, I tell you, but division.",
+      "tsw_comparator": "Do you think that I have come to give peace on earth? No, I tell you, but rather division.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:53",
+      "delta": "F3",
+      "rationale": "Retains every reciprocal family division and specific relationships.",
+      "source_reference": "Luke 12:53",
+      "source_verse_sha256": "318d8f7ad4bebe2e1c6172e9e337b09ca26e1f96f2d0bdd3535cda03f4b9b1cb",
+      "before": "They will be divided: father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”",
+      "after": "They will be divided: father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.”",
+      "tsw_comparator": "they will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:56",
+      "delta": "F3",
+      "rationale": "Retains accusation and weather-time contrast.",
+      "source_reference": "Luke 12:56",
+      "source_verse_sha256": "7a2fee5cf4633d6dbc639cbbc35deab30a1c0c3e23a3cac7dda02e9751ee83f2",
+      "before": "Hypocrites! You know how to interpret the appearance of earth and sky. Why do you not know how to interpret this present time?",
+      "after": "Hypocrites! You know how to interpret the appearance of earth and sky, but why do you not know how to interpret this present time?",
+      "tsw_comparator": "Hypocrites! You know how to interpret the appearance of the earth and the sky, but how is it that you do not know how to interpret this time?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:58",
+      "delta": "F3",
+      "rationale": "Preserves legal sequence, urgency, and escalating custody.",
+      "source_reference": "Luke 12:58",
+      "source_verse_sha256": "cf934f9006bbcd1ed0bf92b4f98ad4f6f3e1a5766f0deef3be05884f27643fa5",
+      "before": "As you go with your accuser to a magistrate, make every effort to settle with them along the way, so that they do not drag you to the judge, the judge hand you over to the officer, and the officer throw you into prison.",
+      "after": "As you go with your accuser before a ruler, make every effort along the way to settle with him. Otherwise he may drag you before the judge, the judge hand you over to the officer, and the officer throw you into prison.",
+      "tsw_comparator": "For as you go with your accuser to the magistrate, make an effort to settle with him on the way, lest he drag you to the judge, and the judge hand you over to the officer, and the officer throw you into prison.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.752941,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 12:59",
+      "delta": "F3",
+      "rationale": "Keeps emphatic negation and exacting final payment.",
+      "source_reference": "Luke 12:59",
+      "source_verse_sha256": "46c33ed0f8036c9c77d7fa118eefb68c2f52d59df7c8336b32a708b28aeaa523",
+      "before": "I tell you, you will certainly not get out until you have paid the last small coin.”",
+      "after": "I tell you, you will certainly not get out until you have paid the very last small coin.”",
+      "tsw_comparator": "I tell you, you will certainly not come out from there until you have paid the last coin.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_12.md",
-    "blob_sha": "5882663beaa64fee4d34eee9f33bad86925abf30"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

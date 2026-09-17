@@ -59,20 +59,28 @@ def main():
     counts=dict(chapters=len(chapters),verses=sum(c['verse_count'] for c in chapters))
     verification=json.loads((A/'verification.json').read_text())
     assert verification['status']=='PASSED' and all(verification['cumulative_coverage'][k]==v for k,v in counts.items())
-    block=q['active_fifty_chapter_block']; n=len(cfg['chapters']); nv=cfg['expected_verses']; rel=str(A.relative_to(R))
+    block=q['active_fifty_chapter_block']
+    n=cfg.get('batch_chapters',len(cfg['chapters']))
+    nv=cfg.get('batch_verses',cfg['expected_verses'])
+    batch_scope=cfg.get('batch_scope',cfg['scope'])
+    rel=str(A.relative_to(R))
     state.update(head_commit=head,branch=branch,completed=q['completed_draft_scopes'],counts=counts,
       next_work=q['next_work'],local_checkout=str(R),parent_checkpoint_head=parent,
       parent_checkpoint_library_version=cfg['parent_library_version'],
-      latest_batch=f'Intermediate checkpoint: {cfg["scope"]}, {n} chapters and {nv} verses newly drafted. Active block: {block["completed_chapters"]}/50 chapters, {block["remaining_chapters"]} remaining. Not a completed fifty-chapter block.',
+      latest_batch=f'Verified batch: {batch_scope}, {n} chapters and {nv} verses newly drafted. The preceding fifty-chapter block was completed before the next began. Active new block: {block["completed_chapters"]}/50 chapters, {block["remaining_chapters"]} remaining.',
       latest_verification='repository/'+rel+'/verification.json',batch_preference=q['batch_preference'],
-      sources=[l['source'] for l in ledgers],active_fifty_chapter_block=block)
+      sources=[l['source'] for l in ledgers],active_fifty_chapter_block=block,
+      completed_fifty_chapter_blocks=q.get('completed_fifty_chapter_blocks',[]))
     dump(O/'CONTINUATION.json',state)
     order='genesis exodus leviticus numbers deuteronomy joshua judges ruth 1samuel 2samuel 1kings 2kings 1chronicles 2chronicles ezra nehemiah esther job psalms proverbs ecclesiastes songofsongs isaiah jeremiah lamentations ezekiel daniel hosea joel amos obadiah jonah micah nahum habakkuk zephaniah haggai zechariah malachi matthew mark luke john acts romans 1corinthians 2corinthians galatians ephesians philippians colossians 1thessalonians 2thessalonians 1timothy 2timothy titus philemon hebrews james 1peter 2peter 1john 2john 3john jude revelation'.split()
     chapters.sort(key=lambda c:(order.index(c['path'].split('/')[-2]),c['chapter']))
     reader=[f'# Fluent: cumulative revised reader\n\nEditorial draft · {counts["chapters"]} chapters · {counts["verses"]:,} verses\n\nIndependent editorial review and reader testing pending. Publication not allowed.\n']
-    scope_reader=[f'# Fluent: {cfg["scope"]}\n\nIntermediate editorial draft · {n} chapters · {nv} verses\n\nThe active fifty-chapter block remains incomplete. Publication not allowed.\n']
+    scope_reader=[f'# Fluent: {batch_scope}\n\nEditorial draft · {n} chapters · {nv} verses\n\nThis batch completed one fifty-chapter block before beginning the next. The new active block remains incomplete. Publication not allowed.\n']
     active_reader=[f'# Fluent: active fifty-chapter block\n\nIN_PROGRESS · {block["completed_chapters"]}/50 chapters · {block["completed_verses"]} verses\n\nDraft-covered: {block["completed_scope"]}. Remaining: {block["remaining_scope"]}.\n\nIndependent review pending. Publication not allowed.\n']
-    scope_paths={c['path'] for c in json.loads((A/(cfg['slug']+'-verse-review.json')).read_text())['chapters']};active_count=0
+    batch_ledgers=cfg.get('batch_ledgers',[rel+'/'+cfg['slug']+'-verse-review.json'])
+    scope_paths={c['path'] for ledger_path in batch_ledgers for c in json.loads((R/ledger_path).read_text())['chapters']}
+    active_ranges=cfg.get('active_block_ranges',[])
+    active_count=0
     for ch in chapters:
         t=(R/ch['path']).read_text();name=re.search(r'^book: (.+)$',t,re.M)[1];body=t.split('---',2)[2].strip();lines=[]
         for line in body.splitlines():
@@ -83,11 +91,11 @@ def main():
         reader.append(rendered)
         if ch['path'] in scope_paths:scope_reader.append(rendered)
         slug=ch['path'].split('/')[-2]
-        if (slug=='matthew' and ch['chapter']>=24) or slug in ['mark','luke'] or (slug=='john' and ch['chapter']<=5):
+        if any(slug==item['slug'] and item['start']<=ch['chapter']<=item['end'] for item in active_ranges):
             active_reader.append(rendered);active_count+=1
     assert active_count==block['completed_chapters']
     (O/'Fluent-Reader.md').write_text('\n'.join(reader))
-    (O/('Fluent-'+cfg['slug'].title()+'-'+str(min(cfg['chapters']))+'-'+str(max(cfg['chapters']))+'.md')).write_text('\n'.join(scope_reader))
+    (O/cfg.get('batch_reader_filename', 'Fluent-'+cfg['slug'].title()+'-'+str(min(cfg['chapters']))+'-'+str(max(cfg['chapters']))+'.md')).write_text('\n'.join(scope_reader))
     (O/'Fluent-Active-Block.md').write_text('\n'.join(active_reader))
     shutil.copy2(A/'overlap-before-after.json',O/'Current-scope-overlap-summary.json')
     instructions=f'''Continue Matt Skolnik’s Fluent revision without routine approval pauses.
@@ -109,7 +117,7 @@ Report only verified progress and the saved file link. No routine approval reque
 
 {counts['chapters']} revised chapters; {counts['verses']:,} verses; {len(ledgers)} verse ledgers.
 
-New draft work: {cfg['scope']}, {n} chapters and {nv} verses. The active fifty-chapter block is IN_PROGRESS: {block['completed_chapters']} draft-covered and {block['remaining_chapters']} remaining. Next: {cfg['next_scope']}. This is an intermediate checkpoint, not a completed block.
+New draft work: {batch_scope}, {n} chapters and {nv} verses. The preceding fifty-chapter block is draft-complete and its boundary verification is archived. The new active block is IN_PROGRESS: {block['completed_chapters']} draft-covered and {block['remaining_chapters']} remaining. Next: {cfg['next_scope']}.
 
 All {nv} Greek payloads were read before authoring. Each verse has its own rationale, before/after English, exact source binding, TSW comparator and provisional F0–F3 decision. {verification['focused_authoring_reread_count']} focused bilingual self-rereads are documented. Structural checks passed; no human or independent scholarly review is claimed. Publication is not allowed. Companion quotation/binding reconciliation and all queued whole-book reviews remain pending.
 
@@ -119,7 +127,7 @@ All {verification['prior_preservation']['ledgers_byte_identical']} prior ledgers
 
 Resolve the latest canonical Library file before any write. Reuse a matching checkout or clone a repository containing the required base, then fetch Fluent-Revision.bundle and check out its branch. Verify manifest.json before trusting payloads. The repository directory contains every changed file; the patch is supplementary, not a substitute for Git history.
 
-Run `python3 {rel}/verify_checkpoint.py {rel} --source-directory /path/to/checkpoint/sources` at this head. Historical audit scripts with fixed counts belong to their historical commits. Read CONTINUATION.json and CONTINUATION_TASK.txt for the authoritative partial-block queue and operational constraints. No rejected GitHub write was retried; no public deployment occurred.
+Run `python3 {rel}/verify_checkpoint.py --source-directory /path/to/checkpoint/sources` at this head. Historical audit scripts with fixed counts belong to their historical commits. Read CONTINUATION.json and CONTINUATION_TASK.txt for the authoritative partial-block queue and operational constraints. No rejected GitHub write was retried; no public deployment occurred.
 ''')
     m=dict(base_commit=base,head_commit=head,branch=branch,**counts,repository_file_count=len(files),files={})
     for p in sorted(O.rglob('*')):

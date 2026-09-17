@@ -571,12 +571,22 @@
       "scope": "Luke 9–11",
       "verses": 158,
       "ledger": "audit/fluent-revision/2026-09-16-luke-9-11/luke-verse-review.json"
+    },
+    {
+      "scope": "Luke 12–24",
+      "verses": 583,
+      "ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json"
+    },
+    {
+      "scope": "John 1–17",
+      "verses": 740,
+      "ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json"
     }
   ],
   "next_work": [
     {
-      "scope": "Luke 12–24; John 1–5",
-      "action": "Continue the remaining 18 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
+      "scope": "John 18–21; Acts 1–28; Romans 1–6",
+      "action": "Continue the remaining 38 chapters of the active fifty-chapter block without routine approval. Read verified pinned Greek before authoring."
     },
     {
       "scope": "Whole-book 1 Samuel consistency review",
@@ -760,15 +770,25 @@
       "independent_editorial_status": "REVIEW_PENDING"
     }
   ],
+  "completed_fifty_chapter_blocks": [
+    {
+      "scope": "Matthew 24–28; Mark 1–16; Luke 1–24; John 1–5",
+      "status": "DRAFT_COMPLETED",
+      "chapters": 50,
+      "verses": 2292,
+      "completion_evidence": "audit/fluent-revision/2026-09-16-john-1-17/block-boundary-verification.json",
+      "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
+    }
+  ],
   "active_fifty_chapter_block": {
-    "scope": "Matthew 24–28; Mark 1–16; Luke 1–24; John 1–5",
+    "scope": "John 6–21; Acts 1–28; Romans 1–6",
     "status": "IN_PROGRESS",
     "chapters_target": 50,
-    "completed_chapters": 32,
-    "completed_scope": "Matthew 24–28; Mark 1–16; Luke 1–11",
-    "completed_verses": 1497,
-    "remaining_scope": "Luke 12–24; John 1–5",
-    "remaining_chapters": 18,
-    "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. Source and structural checks passed; independent editorial review and reader testing pending."
+    "completed_chapters": 12,
+    "completed_scope": "John 6–17",
+    "completed_verses": 528,
+    "remaining_scope": "John 18–21; Acts 1–28; Romans 1–6",
+    "remaining_chapters": 38,
+    "qualification": "Intermediate checkpoint, not a completed fifty-chapter block. The preceding fifty-chapter block is draft-complete; source and structural checks passed for this partial block. Independent editorial review and reader testing remain pending."
   }
 }

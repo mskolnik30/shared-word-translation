@@ -2,238 +2,203 @@
   "book": "John",
   "chapter": 14,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 31,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_14_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 14:1",
-        "source_chapter": 14,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "dc088822ee1f72a91c0f39d03db0314b4992599e317a0026e5b29ea624089605"
-      },
-      "2": {
-        "source_ref": "John 14:2",
-        "source_chapter": 14,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "0740a298507370e0958197fc69e681aecac852874c59c41f71d0397492c3b881"
-      },
-      "3": {
-        "source_ref": "John 14:3",
-        "source_chapter": 14,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "a62a430cfa0e73a8c28995e394b966a1a0121a39b4257d90f681a619955a447f"
-      },
-      "4": {
-        "source_ref": "John 14:4",
-        "source_chapter": 14,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "dc7bd65c6ae44d3cccf488b76e6b0cfc7430c4faeeb2ab61c7e90652f543b540"
-      },
-      "5": {
-        "source_ref": "John 14:5",
-        "source_chapter": 14,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "50deddcf1fd2426809dbb3c5a865a02ff0a226e097892ca67b7ae4dfe975f181"
-      },
-      "6": {
-        "source_ref": "John 14:6",
-        "source_chapter": 14,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "144bc587a277ec3ac581619940aa303a173cd4c679ea1e29594032ef76dc9260"
-      },
-      "7": {
-        "source_ref": "John 14:7",
-        "source_chapter": 14,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "f42e9c942103fe52ee40655ccf4be4720535765d7459f796a7ddbf73b1a2096a"
-      },
-      "8": {
-        "source_ref": "John 14:8",
-        "source_chapter": 14,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "93c7b9307d22e489c1e497d71b26bb4a4e320877aebc34ea52288f92d3390ca5"
-      },
-      "9": {
-        "source_ref": "John 14:9",
-        "source_chapter": 14,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "32b4d9ca9ac437cf4073c862be9bf801214b2991389ae539ac907f42e8159006"
-      },
-      "10": {
-        "source_ref": "John 14:10",
-        "source_chapter": 14,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "121d44923185cf8850b1617e73f45ae9b2cb58794192588fa007f83a36a71b69"
-      },
-      "11": {
-        "source_ref": "John 14:11",
-        "source_chapter": 14,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "57b0ed60e6336d51ea276e5651ad079c8a5bbb258c58fcebe7332b6b0c6eef8b"
-      },
-      "12": {
-        "source_ref": "John 14:12",
-        "source_chapter": 14,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "5499b0ed4db33612ddbb6117ad5e874746e4bba4342b11f7a7cdde72ea7ef9b0"
-      },
-      "13": {
-        "source_ref": "John 14:13",
-        "source_chapter": 14,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "e37918f3b78700f4451b6abea71c05e6c01e79a2d2e43cfc64e0c59c4c78caf7"
-      },
-      "14": {
-        "source_ref": "John 14:14",
-        "source_chapter": 14,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "2cd7a72dd5c6cf2d66c459c0babfc56468c4fb83a50754dbf5b66e49d5f78f50"
-      },
-      "15": {
-        "source_ref": "John 14:15",
-        "source_chapter": 14,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "9e5df86abc89edd2e76939890eb765b66d9181eeb233925de2c9eac4d4a5a794"
-      },
-      "16": {
-        "source_ref": "John 14:16",
-        "source_chapter": 14,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "4dc03f7e8a9a0fa0a615a808d79b5ca0f6aa89e0757340b556c58dbbf2123d8d"
-      },
-      "17": {
-        "source_ref": "John 14:17",
-        "source_chapter": 14,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "497fdc8f60732dcd76347ecb4392296e5c6aaacd3659f1787a3c173c96f629d8"
-      },
-      "18": {
-        "source_ref": "John 14:18",
-        "source_chapter": 14,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "1646907353a6edfed60072d97c1333fe5a9a7422888c3f646d8366483ec60bd3"
-      },
-      "19": {
-        "source_ref": "John 14:19",
-        "source_chapter": 14,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "c019a1f143fafc2606841a49ca3382f5637f8095e03661a61692094850355f79"
-      },
-      "20": {
-        "source_ref": "John 14:20",
-        "source_chapter": 14,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "322e3d02e9f430f54b9b26774fa27810a8d7e810cb26bb6ccd3054232c18aead"
-      },
-      "21": {
-        "source_ref": "John 14:21",
-        "source_chapter": 14,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "49f891dbfd0ae877801789a1f0c64e00547fbe6c679b0a1e962ef74310bd4f2f"
-      },
-      "22": {
-        "source_ref": "John 14:22",
-        "source_chapter": 14,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "ae7df6e437b4d9eec09cbf5359c8f86d69c61bcfad002bbd66354ce40f96feba"
-      },
-      "23": {
-        "source_ref": "John 14:23",
-        "source_chapter": 14,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "949ecd2661ccecfb26a76a464df2f3379b3322b57d0b954e2da23816dd180852"
-      },
-      "24": {
-        "source_ref": "John 14:24",
-        "source_chapter": 14,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "17d80838e8651ad96669112fe682e3606202f6b065d1cbc38b1500c7439077a8"
-      },
-      "25": {
-        "source_ref": "John 14:25",
-        "source_chapter": 14,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "3263eed3cf64f158ef502b989cd3966f5a70f392b2384700a34f975b2b9f4ba1"
-      },
-      "26": {
-        "source_ref": "John 14:26",
-        "source_chapter": 14,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "662d7ae496308330df536e5aec64ba78fe8f310c6c897c37b84b48982fa28def"
-      },
-      "27": {
-        "source_ref": "John 14:27",
-        "source_chapter": 14,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "ef2e68e42d0637544ee4c80ad365d68c725d28b26f3508180fdf18e71f43620c"
-      },
-      "28": {
-        "source_ref": "John 14:28",
-        "source_chapter": 14,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "778dfc3ce40649d81c50b78ed062664e2ccb4f05137fc52e33171861c41ac2ac"
-      },
-      "29": {
-        "source_ref": "John 14:29",
-        "source_chapter": 14,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "d71437f2958405bf13fa2c479726a8b8b2d7e79937e3f2e53fdd0be75cec4eaa"
-      },
-      "30": {
-        "source_ref": "John 14:30",
-        "source_chapter": 14,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "8f52cb66a68d360e277b017f9097e7a0c7a41bc1a61013f35ea57c7988e82343"
-      },
-      "31": {
-        "source_ref": "John 14:31",
-        "source_chapter": 14,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "ec2681266b1ef13b75f8bcfa44efcb4e987ea7972ddfe679190e55b5eed97e85"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 14,
+    "verse_count": 31,
+    "path": "translations/fluent/NT/john/John_14.md",
+    "before_sha256": "a921649583455104c172bb4becac82d491aca2605c0a44cb3d8151bcdcb24afa",
+    "after_sha256": "e24b27d072fb81ce4400e5533cefc2cfea8f1c85f5879eba5777121071a260cc",
+    "tsw_comparator_path": "books/NT/john/John_14.md",
+    "tsw_comparator_sha256": "29e601e0c4cd324b67924f8f7bfb55c0620009ba526819f7ea3261b0214b596d"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 14:1",
+      "delta": "F3",
+      "rationale": "Preserves the plural audience, heart language, and the most natural imperative force while recognizing the forms can also be read indicatively.",
+      "source_reference": "John 14:1",
+      "source_verse_sha256": "e45ab70b216097a56a031d5890b4f172ccc7490b0953c83f77827d44af8ac30e",
+      "before": "“Do not let your hearts be troubled. Trust in God; trust also in me.",
+      "after": "“Do not let your hearts be troubled. Believe in God; believe also in me.",
+      "tsw_comparator": "“Do not let your hearts be troubled. Believe in God; believe also in me.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:2",
+      "delta": "F3",
+      "rationale": "Keeps household imagery, numerous places to remain, rhetorical question, and preparation.",
+      "source_reference": "John 14:2",
+      "source_verse_sha256": "3f5e4aa405978f0f70699a63e81c22719201bd43d98495129ddd5ecf9115c630",
+      "before": "In my Father’s house are many dwelling places. If it were not so, would I have told you that I am going to prepare a place for you?",
+      "after": "In my Father’s house are many dwelling places. If it were not so, would I have told you that I am going to prepare a place for you?",
+      "tsw_comparator": "In my Father’s house are many dwelling places. If it were not so, would I have told you that I go to prepare a place for you?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.945455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:6",
+      "delta": "F3",
+      "rationale": "Keeps all three predicates and the exclusive relation to the Father.",
+      "source_reference": "John 14:6",
+      "source_verse_sha256": "44f17ea047dd5014aa5a9d2a1680ac2dcbddbadb8accc283100cc2d999fd8658",
+      "before": "Jesus said, “I am the way, the truth, and the life. No one comes to the Father except through me.",
+      "after": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through me.",
+      "tsw_comparator": "Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.977778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:7",
+      "delta": "F3",
+      "rationale": "Renders the source’s conditional form and preserves the shift to present knowledge and sight.",
+      "source_reference": "John 14:7",
+      "source_verse_sha256": "acc8fa2234793c8f7f2329ce8d77690cb11e36f304b9aceab07b106ed0602059",
+      "before": "If you have known me, you will also know my Father. From now on you know him and have seen him.”",
+      "after": "If you have known me, you will also know my Father. From now on you do know him and have seen him.”",
+      "tsw_comparator": "If you have known me, you will know my Father also. From now on you do know him and have seen him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.954545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:12",
+      "delta": "F3",
+      "rationale": "Keeps the double amen, believer, comparative works, and stated reason.",
+      "source_reference": "John 14:12",
+      "source_verse_sha256": "bfb534e852d2e0dd5ba999c8b8ed89d532783bb11abbbed420694aea6bc8ec48",
+      "before": "Truly, truly, I tell you, whoever trusts in me will also do the works I do, and will do greater works than these because I am going to the Father.",
+      "after": "Truly, truly, I tell you: whoever believes in me will also do the works I do—and will do greater works than these—because I am going to the Father.",
+      "tsw_comparator": "“Truly, truly, I say to you, the one who believes in me will also do the works that I do; and greater works than these will he do, because I am going to the Father.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:14",
+      "delta": "F3",
+      "rationale": "Includes the variant-marked main-text me and preserves the promise tied to Jesus’ name.",
+      "source_reference": "John 14:14",
+      "source_verse_sha256": "d408e4e2cba118d4aca25dbedb16f81af858e631f9796a9a3afc7dc5ee046664",
+      "before": "If you ask me anything in my name, I will do it.",
+      "after": "If you ask me for anything in my name, I will do it.",
+      "tsw_comparator": "If you ask me anything in my name, I will do it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:16",
+      "delta": "F3",
+      "rationale": "Renders Paraclete as Advocate while preserving Jesus’ request, the Father’s gift, another helper, and permanent presence.",
+      "source_reference": "John 14:16",
+      "source_verse_sha256": "a8035b7da2355eca7bc34031381a58e942d8af82ad21033dbfa20ba9017e515e",
+      "before": "And I will ask the Father, and he will give you another Advocate to be with you forever:",
+      "after": "And I will ask the Father, and he will give you another Advocate to be with you forever—",
+      "tsw_comparator": "And I will ask the Father, and he will give you another Advocate, to be with you forever,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:17",
+      "delta": "F3",
+      "rationale": "Keeps the title, world’s inability and reasons, disciples’ knowledge, and the with-in movement.",
+      "source_reference": "John 14:17",
+      "source_verse_sha256": "51fa56192d79a6c10f8000c7b720e184167bd20c8eb9f6996ea9b5b71d6f4581",
+      "before": "the Spirit of truth, whom the world cannot receive because it neither sees nor knows him. You know him because he remains with you and will be in you.",
+      "after": "the Spirit of truth. The world cannot receive him because it neither sees him nor knows him. You know him because he remains with you and will be in you.",
+      "tsw_comparator": "even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him. You know him, for he remains with you and will be in you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.918033,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:23",
+      "delta": "F3",
+      "rationale": "Keeps condition, obedience, Father’s love, plural divine coming, and dwelling imagery.",
+      "source_reference": "John 14:23",
+      "source_verse_sha256": "388411b3b32ba9acc631bd5c82d8ee923b9b01b10e7c8a8f8a546eab8a17ec67",
+      "before": "Jesus answered, “If anyone loves me, they will keep my word. My Father will love them, and we will come to them and make our dwelling with them.",
+      "after": "Jesus answered him, “If anyone loves me, that person will keep my word. My Father will love them, and we will come to them and make our dwelling with them.",
+      "tsw_comparator": "Jesus answered him, “If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our dwelling with him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:28",
+      "delta": "F3",
+      "rationale": "Preserves remembered speech, conditional joy, destination, and comparative statement.",
+      "source_reference": "John 14:28",
+      "source_verse_sha256": "c15e9668f5fff510c46b04a8e1bde8f699e0ee00984e07f0fe3ae26ca2463fe0",
+      "before": "You heard me tell you, ‘I am going away, and I am coming to you.’ If you loved me, you would rejoice that I am going to the Father, because the Father is greater than I.",
+      "after": "You heard me tell you, ‘I am going away, and I am coming to you.’ If you loved me, you would rejoice that I am going to the Father, because the Father is greater than I.",
+      "tsw_comparator": "You heard me say to you, ‘I am going away, and I am coming to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for the Father is greater than I.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 14:30",
+      "delta": "F3",
+      "rationale": "Preserves limited remaining speech, the ruler’s approach, and lack of power or hold over Jesus.",
+      "source_reference": "John 14:30",
+      "source_verse_sha256": "c739599306c88106425d9bdf6e2ae1583ad9bd90835d3d2c537cbc78b3364a1a",
+      "before": "I will not speak with you much longer, because the ruler of the world is coming. He has no claim on me.",
+      "after": "I will not speak with you much longer, for the ruler of the world is coming. He has no claim on me,",
+      "tsw_comparator": "I will no longer speak much with you, for the ruler of the world is coming. He has no claim on me,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_14.md",
-    "blob_sha": "4905ae7b47a5ba4802f1e5becc2898c8b17f00b7"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

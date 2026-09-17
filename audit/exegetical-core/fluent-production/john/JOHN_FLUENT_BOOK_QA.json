@@ -1,8 +1,8 @@
 {
   "book": "John",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "status": "REVIEW_PENDING",
+  "publication_status": "REVIEW_PENDING",
   "chapter_count": 21,
   "public_verse_slots": 879,
   "included_verse_labels": 878,
@@ -288,5 +288,91 @@
         "blob_sha": "cef55322d0353d01220d4cecf6c0b3323bfd11c3"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "current_revision": {
+    "id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "verse_count": 740,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+      "path": "audit/exegetical-core/fluent-production/john/JOHN_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "verse_count": 740,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+        "path": "audit/exegetical-core/fluent-production/john/JOHN_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

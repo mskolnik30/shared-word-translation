@@ -2,406 +2,675 @@
   "book": "Luke",
   "chapter": 23,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 55,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_23_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 23:1",
-        "source_chapter": 23,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "17eb973a4fc6b2667d5bb0dc8b785c0b8d123dc161ed29a95a6a82ca72edf15b"
-      },
-      "2": {
-        "source_ref": "Luke 23:2",
-        "source_chapter": 23,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "43ad3e014fd05fef8837ecbd0b52530142dadb4438f056ef9d409d6021f25d02"
-      },
-      "3": {
-        "source_ref": "Luke 23:3",
-        "source_chapter": 23,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "4fbaf871ccbab3c987fd7c6bee1d66ef675185e371cba9dbccd2f79999521724"
-      },
-      "4": {
-        "source_ref": "Luke 23:4",
-        "source_chapter": 23,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "24d704d7382585c1abd24dbc5dc9fe8870209d349410ccac32e1b57fd975073c"
-      },
-      "5": {
-        "source_ref": "Luke 23:5",
-        "source_chapter": 23,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "a72a85972ce909076f9c54547dbf745c57e76cf9aadb2a07ccfdf3ad4b37e999"
-      },
-      "6": {
-        "source_ref": "Luke 23:6",
-        "source_chapter": 23,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "d34b02fb863cf954560bb890a4f36173e079b129cbb54fe04bf36ca10428493d"
-      },
-      "7": {
-        "source_ref": "Luke 23:7",
-        "source_chapter": 23,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "875bd879265c4e52e8ddac55e12b110215c4dfd7561f66c01d5922df73498a65"
-      },
-      "8": {
-        "source_ref": "Luke 23:8",
-        "source_chapter": 23,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "4129a2fd96fa5347579075497323d6b9160bdfe04bf4700644870a79b86918db"
-      },
-      "9": {
-        "source_ref": "Luke 23:9",
-        "source_chapter": 23,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8f83a7c71fba34d67c69fd2d1b11ab03be9cbec16411df8708d04d80dd621b9a"
-      },
-      "10": {
-        "source_ref": "Luke 23:10",
-        "source_chapter": 23,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "3d0e2879218160c3df8c20a6e01f609d786505c7c1312376d6e956cd8182ff57"
-      },
-      "11": {
-        "source_ref": "Luke 23:11",
-        "source_chapter": 23,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "554ee55e7542a7fda6e4f9967633bbba95284d727e0f97b385701afa3251848d"
-      },
-      "12": {
-        "source_ref": "Luke 23:12",
-        "source_chapter": 23,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "5eb9b2c1703a1ce758f846a8c0c9318eb6b84a5f860003ad16bb16814878352b"
-      },
-      "13": {
-        "source_ref": "Luke 23:13",
-        "source_chapter": 23,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "eaff54d19b9f203d7c3503d605cbde378fc1b05a6dc6529610a42873c793e5af"
-      },
-      "14": {
-        "source_ref": "Luke 23:14",
-        "source_chapter": 23,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "845233349431fb093f2271e4f7bc1416825e8b564632e99033dfaf21e7c809a1"
-      },
-      "15": {
-        "source_ref": "Luke 23:15",
-        "source_chapter": 23,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "afceeaa56dc0ff0aafaddbeec22ed34adcd57a83a93a549afb8b2dc1d28867a6"
-      },
-      "16": {
-        "source_ref": "Luke 23:16",
-        "source_chapter": 23,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "be4a231085c62c3791a1bd27c468dc748a214d3b00a3a10f3d8a820f0ca61e34"
-      },
-      "18": {
-        "source_ref": "Luke 23:18",
-        "source_chapter": 23,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "f84b81f5b7fe317c29b5a38c57d7cd18e1b2c857be718e2d6f9fcd0d0d9c26ef"
-      },
-      "19": {
-        "source_ref": "Luke 23:19",
-        "source_chapter": 23,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "675ccd8a12d65ac9fc0dfb7dc6899c26b4e1a24516c9dc812ec183a0cf35b20b"
-      },
-      "20": {
-        "source_ref": "Luke 23:20",
-        "source_chapter": 23,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "cceef3ecd09ae14a87b23cf0cbf111fd5d59eec7577818950e14df6445035a3e"
-      },
-      "21": {
-        "source_ref": "Luke 23:21",
-        "source_chapter": 23,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "55a91e2c982f33f670e4bc42ee353dd9c76dc40994d5c111e257a5a4c3a7e0d8"
-      },
-      "22": {
-        "source_ref": "Luke 23:22",
-        "source_chapter": 23,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "e49e0711ad61c3e53ebd13bc66a082a300a9178e8c77c0239754ae77e7a965e1"
-      },
-      "23": {
-        "source_ref": "Luke 23:23",
-        "source_chapter": 23,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "470dc26eba8ab16b2b60c9f438a1a1bdd73ac4b252a3b2f3739e6040fbaee8cf"
-      },
-      "24": {
-        "source_ref": "Luke 23:24",
-        "source_chapter": 23,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "e08ee28c31d0481619e4938765538464d75094d49c1e2191af042f6f50171c55"
-      },
-      "25": {
-        "source_ref": "Luke 23:25",
-        "source_chapter": 23,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "a8a0bde25a5ad695ab1f360dd607dc66a21280ef837b59102e97f78ebe0e5f6c"
-      },
-      "26": {
-        "source_ref": "Luke 23:26",
-        "source_chapter": 23,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "2fc7c578cc607fddeaaa30ed3f703f25f90928d124911793eee8e798304298e2"
-      },
-      "27": {
-        "source_ref": "Luke 23:27",
-        "source_chapter": 23,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "4ebe093a000f8d4b4aaed73962d23db49ac88b7444d7026ff34b5cfd337632a3"
-      },
-      "28": {
-        "source_ref": "Luke 23:28",
-        "source_chapter": 23,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "02c42a4c557dea2109514917dce8f157f2b25a65c9f32e674861770f9b264cff"
-      },
-      "29": {
-        "source_ref": "Luke 23:29",
-        "source_chapter": 23,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "ddc135fbc154d0f67527e965e014f46a7aeb6007cb36e3a4ca025ae511fb7ac8"
-      },
-      "30": {
-        "source_ref": "Luke 23:30",
-        "source_chapter": 23,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "cc6faa2f06daad6b7a48c4409b944af93fcb1bf2d208696917fbaa0f393b63f2"
-      },
-      "31": {
-        "source_ref": "Luke 23:31",
-        "source_chapter": 23,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "10abc6ad528ad985410af854a7989db240343f59b60d2372a946c1b3ef972192"
-      },
-      "32": {
-        "source_ref": "Luke 23:32",
-        "source_chapter": 23,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "142f62c3aa853dfaea9afdf981de65b52283b24cbcfac9de0e784b995ed0152c"
-      },
-      "33": {
-        "source_ref": "Luke 23:33",
-        "source_chapter": 23,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "0b8bd198c30b6a31fd93e2112e758ac4617defe5b106869af7a838b25876972d"
-      },
-      "34": {
-        "source_ref": "Luke 23:34",
-        "source_chapter": 23,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "c14ab78dac3630e6fc9ca6489f710b1b1dbabe131c3f9ea1b1df4037ebdb0c9d"
-      },
-      "35": {
-        "source_ref": "Luke 23:35",
-        "source_chapter": 23,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "570cb4e4803abf69f116eb2945d5f49d965fe81dadb88178bd4a3e562ef03a23"
-      },
-      "36": {
-        "source_ref": "Luke 23:36",
-        "source_chapter": 23,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "502463d8abb0364ff63086d80cb435d013ca7fdae715b0c5624be619497cc37e"
-      },
-      "37": {
-        "source_ref": "Luke 23:37",
-        "source_chapter": 23,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "c2d1ac0478eb70312a8333fdc3d0694dd6764d6797dbea176495d7b4e9fe2f12"
-      },
-      "38": {
-        "source_ref": "Luke 23:38",
-        "source_chapter": 23,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "c5c9f13271b24857cf2afbaa48c59e2db84ceae0ea33091861ac0deeaeef5f7f"
-      },
-      "39": {
-        "source_ref": "Luke 23:39",
-        "source_chapter": 23,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "cd0741b8506009bd3b46e0cefe2b6e467b169c68312319869ab6a741a1530f9c"
-      },
-      "40": {
-        "source_ref": "Luke 23:40",
-        "source_chapter": 23,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "3c80d44cfa2d5ae31c3ba9cc5446119d8b1425a8f4867b37fe5083a27238c48c"
-      },
-      "41": {
-        "source_ref": "Luke 23:41",
-        "source_chapter": 23,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "c3eb66cf0e0ec8e05a4a7358b7225ded786c5afbf30243657bf87fa387222432"
-      },
-      "42": {
-        "source_ref": "Luke 23:42",
-        "source_chapter": 23,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "7003af027050141dc6bd0b8f229670124e60165f4016b4110a56689d742cec7a"
-      },
-      "43": {
-        "source_ref": "Luke 23:43",
-        "source_chapter": 23,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "eb78197751d6726d1b5210aa8cb756dd72f6038c6cd4862863ab73e958af9f91"
-      },
-      "44": {
-        "source_ref": "Luke 23:44",
-        "source_chapter": 23,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "ff53a9016e8605913ef52044fb945b9a2099fef462977dbac2c1738fcb6e0227"
-      },
-      "45": {
-        "source_ref": "Luke 23:45",
-        "source_chapter": 23,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "e7366bbe12a59628254a130359a5866bc6e607e7c38f256c0dd40f42bf1f8138"
-      },
-      "46": {
-        "source_ref": "Luke 23:46",
-        "source_chapter": 23,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "69b5662b1317ad1ddecc3c1d48cd5008185b020784669790f3abe6b40c26ec35"
-      },
-      "47": {
-        "source_ref": "Luke 23:47",
-        "source_chapter": 23,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "38ea075f1cbef0591186031887369869773b57eabd4f1314f9afe2e7195b14ef"
-      },
-      "48": {
-        "source_ref": "Luke 23:48",
-        "source_chapter": 23,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "06c4f00a5c25cc734c337cb0240af7b4077f8e9c9405c9f82a0c04013190ec63"
-      },
-      "49": {
-        "source_ref": "Luke 23:49",
-        "source_chapter": 23,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "f536f959185cca3df87f171e982a9f9c2272e20b83b2b49b1003a5453899e8f8"
-      },
-      "50": {
-        "source_ref": "Luke 23:50",
-        "source_chapter": 23,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "23b6ac70f776920896caa1d050874afb289fcee239fe79b6f3706e022d560948"
-      },
-      "51": {
-        "source_ref": "Luke 23:51",
-        "source_chapter": 23,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "3fa36e27e241856f8f44f82d7727860bae759f4074de313b6491718de2eb3ca2"
-      },
-      "52": {
-        "source_ref": "Luke 23:52",
-        "source_chapter": 23,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "b0996952577abcb0ce133f7db509cfac619467bfe2077bc0fd2a225ceaf5616e"
-      },
-      "53": {
-        "source_ref": "Luke 23:53",
-        "source_chapter": 23,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "ad986ab00389fe2330ab05c2a4460b0b0cd315850d1aaee4bb02f5427fcd9ddb"
-      },
-      "54": {
-        "source_ref": "Luke 23:54",
-        "source_chapter": 23,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "70011734a94ada86ac6aad8bc76d07e4d80300757b24192d80c1faa858382f9a"
-      },
-      "55": {
-        "source_ref": "Luke 23:55",
-        "source_chapter": 23,
-        "source_verse": 55,
-        "segment_mode": "whole_record",
-        "sha256": "356250c3133d48b8aa4e0c7dfa3cc7400176f7c91769e6b59235aaea6ffc91e1"
-      },
-      "56": {
-        "source_ref": "Luke 23:56",
-        "source_chapter": 23,
-        "source_verse": 56,
-        "segment_mode": "whole_record",
-        "sha256": "fb0f7db765a71a48b2414655a7c77e52d8aeb0367aab742947a2ea9ebe7bfda8"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 23,
+    "verse_count": 55,
+    "path": "translations/fluent/NT/luke/Luke_23.md",
+    "before_sha256": "c889c93b6170b8c670fc1b30ecb429ced062deb4908c18cd1b33caa0f7c67af5",
+    "after_sha256": "111aa2e9c18f81f37318bda54f1460d21645bf212f2b6ea697a8dd9f8360424f",
+    "tsw_comparator_path": "books/NT/luke/Luke_23.md",
+    "tsw_comparator_sha256": "0cef9c96f19b7cf17dc1db98151e127888e6c5bb276c5d1eb613ad7b0682c00f",
+    "source_omitted_public_labels": [
+      17
+    ],
+    "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+    "tsw_omitted_public_labels": [
+      17
+    ],
+    "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 23:2",
+      "delta": "F3",
+      "rationale": "Keeps all three political charges and their reported nature.",
+      "source_reference": "Luke 23:2",
+      "source_verse_sha256": "e1fd0050a0d079652c226ca4de94c0d414e1bde3f1ddb0c43cc37ad59412b240",
+      "before": "They began accusing him: “We found this man misleading our nation, forbidding payment of tribute to Caesar, and saying that he himself is Christ, a king.”",
+      "after": "They began accusing him: “We found this man misleading our nation, forbidding us to pay taxes to Caesar, and saying that he himself is Messiah, a king.”",
+      "tsw_comparator": "And they began to accuse him, saying, “We found this man misleading our nation and forbidding us to give tribute to Caesar and saying that he himself is Christ, a king.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.793103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:3",
+      "delta": "F3",
+      "rationale": "Preserves title, question, and restrained response.",
+      "source_reference": "Luke 23:3",
+      "source_verse_sha256": "5eac4a269cf3f9ff70fccf4fb6be1aba2472e1f13e8139d2c0e4f4b8d2c06525",
+      "before": "Pilate asked him, “Are you the king of the Jews?” Jesus answered, “You say so.”",
+      "after": "Pilate asked him, “Are you the king of the Jews?” Jesus answered, “You say so.”",
+      "tsw_comparator": "And Pilate asked him, saying, “Are you the king of the Jews?” And answering him, he said, “You say so.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:4",
+      "delta": "F3",
+      "rationale": "Keeps official finding, both audiences, and innocence.",
+      "source_reference": "Luke 23:4",
+      "source_verse_sha256": "0a0edb8203f34b8f46e7c61bdd3dc4dfc2169796b2c3c76e036020b53eb81cc6",
+      "before": "Pilate said to the chief priests and crowds, “I find no guilt in this man.”",
+      "after": "Then Pilate told the chief priests and the crowds, “I find no basis for a charge against this man.”",
+      "tsw_comparator": "And Pilate said to the chief priests and the crowds, “I find no guilt in this man.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:7",
+      "delta": "F3",
+      "rationale": "Preserves authority transfer, both rulers, location, and timing.",
+      "source_reference": "Luke 23:7",
+      "source_verse_sha256": "5841fa99e49dddf6c634b5a62421ce9c782df10986cb518e185a1fd56fd68ded",
+      "before": "Learning that Jesus was under Herod’s jurisdiction, Pilate sent him to Herod, who was also in Jerusalem during those days.",
+      "after": "Learning that Jesus was under Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem during those days.",
+      "tsw_comparator": "And learning that he was under Herod’s jurisdiction, he sent him to Herod, who was himself also in Jerusalem in those days.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:8",
+      "delta": "F3",
+      "rationale": "Keeps Herod’s prolonged curiosity, report, and spectacle motive.",
+      "source_reference": "Luke 23:8",
+      "source_verse_sha256": "8c33866125f4237689ff8322ea9bc6bb28c7a13e2815937b94177d3998549254",
+      "before": "Herod was very glad to see Jesus. For a long time he had wanted to see him because he had heard about him, and he hoped to see Jesus perform some sign.",
+      "after": "Herod was very glad to see Jesus, because for a long time he had wanted to see him after hearing about him. He hoped to see Jesus perform some sign.",
+      "tsw_comparator": "And when Herod saw Jesus, he rejoiced greatly, for he had been wanting to see him for a long time, because he had heard about him and was hoping to see some sign done by him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.393939,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:11",
+      "delta": "F3",
+      "rationale": "Names collaborative abuse, costume, mockery, and return.",
+      "source_reference": "Luke 23:11",
+      "source_verse_sha256": "6b5e730ab07b7b7979510d43954cea79bc6fc74eeec7004ce6a09b1bc4bfbd3f",
+      "before": "Herod and his soldiers treated Jesus with contempt and mocked him. They dressed him in splendid clothing and sent him back to Pilate.",
+      "after": "Then Herod and his soldiers treated Jesus with contempt and mocked him. Dressing him in splendid clothing, Herod sent him back to Pilate.",
+      "tsw_comparator": "And Herod with his soldiers treated him with contempt and mocked him, and dressing him in splendid clothing, he sent him back to Pilate.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:12",
+      "delta": "F3",
+      "rationale": "Keeps exact timing and ironic reconciliation.",
+      "source_reference": "Luke 23:12",
+      "source_verse_sha256": "f3c8cd54c68b2c691116562e9f63fb53ea41c46f5afe5aa7b6359491a9d3c1e6",
+      "before": "Herod and Pilate became friends with each other that very day; before this they had been enemies.",
+      "after": "That very day Herod and Pilate became friends with each other; before this they had been enemies.",
+      "tsw_comparator": "And Herod and Pilate became friends with one another in that very day, for before they had been at enmity with each other.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:14",
+      "delta": "F3",
+      "rationale": "Keeps accusation, public examination, and innocence finding.",
+      "source_reference": "Luke 23:14",
+      "source_verse_sha256": "5d9d10a65e8175922143cb0c5d7ea51e461a15af5c2021692168beceee5154ec",
+      "before": "and said, “You brought me this man as one who misleads the people. Look, I examined him in front of you and found no guilt in him concerning the charges you bring.",
+      "after": "and said to them, “You brought me this man as one who was turning the people away. Look, after examining him in your presence, I found no basis in this man for the charges you bring against him.",
+      "tsw_comparator": "said to them, “You brought me this man as one misleading the people, and behold, I, having examined him before you, found no guilt in this man concerning the charges you bring against him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:15",
+      "delta": "F3",
+      "rationale": "Preserves corroboration, return, and death-penalty judgment.",
+      "source_reference": "Luke 23:15",
+      "source_verse_sha256": "3d50e3c9ae3b523cdd4ff08b9e8644f3125f8e9a9bfd5bc9c22943c5cc0ca366",
+      "before": "Neither did Herod, because he sent him back to us. Look, he has done nothing deserving death.",
+      "after": "Neither did Herod, because he sent him back to us. Clearly, he has done nothing deserving death.",
+      "tsw_comparator": "But neither did Herod, for he sent him back to us; and behold, nothing worthy of death has been done by him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.564103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:16",
+      "delta": "F3",
+      "rationale": "Retains unjust physical punishment despite innocence and intended release.",
+      "source_reference": "Luke 23:16",
+      "source_verse_sha256": "6dd097d1a57325fe15f75494d44c1d6dc1a14fa863086e185565ae5eeb056402",
+      "before": "Therefore I will have him punished and release him.”",
+      "after": "Therefore, I will have him flogged and release him.”",
+      "tsw_comparator": "Therefore, having disciplined him, I will release him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.588235,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:18",
+      "delta": "F3",
+      "rationale": "Preserves source omission of public verse 17, collective cry, and named alternative.",
+      "source_reference": "Luke 23:18",
+      "source_verse_sha256": "c10e3704897e71daf146ac88081ff2d72c0482ed12c3276813d144b78e9ba4ed",
+      "before": "But they all cried out together, “Take this man away! Release Barabbas to us!”",
+      "after": "But they all shouted together, “Away with this man! Release Barabbas to us!”",
+      "tsw_comparator": "But they cried out all together, saying, “Take this man away, and release to us Barabbas”—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.62069,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:19",
+      "delta": "F3",
+      "rationale": "Keeps imprisonment, political violence, city, and murder.",
+      "source_reference": "Luke 23:19",
+      "source_verse_sha256": "c4504fdcc8f643e97fefe225e8cf46fa13900bf2bace5969b9e9b502d961b08c",
+      "before": "Barabbas had been thrown into prison for an insurrection in the city and for murder.",
+      "after": "Barabbas had been thrown into prison for an uprising in the city and for murder.",
+      "tsw_comparator": "who had been thrown into prison for a certain insurrection in the city and for murder.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:21",
+      "delta": "F3",
+      "rationale": "Keeps repeated execution demand.",
+      "source_reference": "Luke 23:21",
+      "source_verse_sha256": "19da101b5c865f69bc378640e621243816f8540d8d653f7ac83df1886f6ea522",
+      "before": "but they kept shouting, “Crucify! Crucify him!”",
+      "after": "But they kept shouting, “Crucify him! Crucify him!”",
+      "tsw_comparator": "but they were shouting, saying, “Crucify, crucify him!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:22",
+      "delta": "F3",
+      "rationale": "Preserves exact iteration, innocence, yet threatened flogging.",
+      "source_reference": "Luke 23:22",
+      "source_verse_sha256": "1fb308b3644d02d1b1d40f4611c5b5e33e513c08fc88cff58b2ce93b8cdee173",
+      "before": "A third time Pilate said to them, “Why? What evil has he done? I have found no reason for a death sentence. Therefore I will have him punished and release him.”",
+      "after": "A third time he said to them, “Why? What evil has this man done? I have found in him nothing deserving death. Therefore, I will have him flogged and release him.”",
+      "tsw_comparator": "And he said to them a third time, “Why, what evil has he done? I have found in him no cause for death; therefore I will punish him and release him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:23",
+      "delta": "F3",
+      "rationale": "Keeps coercive volume, demand, and outcome.",
+      "source_reference": "Luke 23:23",
+      "source_verse_sha256": "4f7e38ccd68c375f3dc576e47ba1908da48b513b13013dfcf82f1e5d975c17bb",
+      "before": "But they pressed him with loud voices, demanding that Jesus be crucified, and their voices prevailed.",
+      "after": "But they pressed him with loud shouts, demanding that Jesus be crucified, and their voices prevailed.",
+      "tsw_comparator": "But they were pressing him with loud voices, demanding that he be crucified, and their voices were prevailing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:24",
+      "delta": "F3",
+      "rationale": "Preserves official capitulation and responsibility.",
+      "source_reference": "Luke 23:24",
+      "source_verse_sha256": "e2e0034754d5e83f604393efbf07d15d6f0f6982ac845ccbe87cafe4ad37c190",
+      "before": "Pilate decided that their demand should be granted.",
+      "after": "So Pilate decided that their demand should be carried out.",
+      "tsw_comparator": "And Pilate decided that their demand should be granted.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:25",
+      "delta": "F3",
+      "rationale": "Keeps moral contrast, named crimes by description, release, and handover.",
+      "source_reference": "Luke 23:25",
+      "source_verse_sha256": "c0156cc379b7291111c14009aa2d5563fd1bea4b5c439ad71fcd5aacf418b66f",
+      "before": "He released the man who had been thrown into prison for insurrection and murder, the one they requested, but he handed Jesus over to their will.",
+      "after": "He released the man they asked for, the one imprisoned for uprising and murder, but handed Jesus over to their will.",
+      "tsw_comparator": "And he released the one who had been thrown into prison for insurrection and murder, whom they were asking for, but he delivered Jesus over to their will.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.489796,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:26",
+      "delta": "F3",
+      "rationale": "Preserves coercion, full identity, origin movement, cross, and following position.",
+      "source_reference": "Luke 23:26",
+      "source_verse_sha256": "ecbc31593e30104e4a0f0343a2740a636f52e6c441a4dcce4c775d074fe64899",
+      "before": "As they led Jesus away, they seized Simon of Cyrene, who was coming in from the countryside, and laid the cross on him to carry behind Jesus.",
+      "after": "As they led Jesus away, they seized Simon of Cyrene, who was coming in from the country, and laid the cross on him to carry behind Jesus.",
+      "tsw_comparator": "And as they were leading him away, they seized a certain Simon of Cyrene, coming from the country, and laid on him the cross to carry behind Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:27",
+      "delta": "F3",
+      "rationale": "Keeps large crowd, women’s presence, bodily mourning, and lament.",
+      "source_reference": "Luke 23:27",
+      "source_verse_sha256": "fe449c59e02adacafb2b278acc97f40600dd47e600d0ed848e6129c4b9a82484",
+      "before": "A large crowd of people followed him, including women who were mourning and lamenting him.",
+      "after": "A great multitude of people followed him, including women who were beating their breasts and lamenting for him.",
+      "tsw_comparator": "And a great multitude of the people were following him, and women who were mourning and lamenting him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:28",
+      "delta": "F3",
+      "rationale": "Preserves direct female address and redirected grief.",
+      "source_reference": "Luke 23:28",
+      "source_verse_sha256": "daa9bda288c3fffbe1edd25eb640486c0395812ea77f8066fe494991bde59074",
+      "before": "Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me. Weep for yourselves and for your children.",
+      "after": "Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me; instead, weep for yourselves and for your children.",
+      "tsw_comparator": "But turning to them, Jesus said, “Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:29",
+      "delta": "F3",
+      "rationale": "Keeps reversal, women, wombs, breasts, birth, and nursing.",
+      "source_reference": "Luke 23:29",
+      "source_verse_sha256": "57f92bb1d1114a2d239d381fdced760730b1d2eb6d0e05e0300f336205556385",
+      "before": "Look, days are coming when people will say, ‘Blessed are the women unable to have children, the wombs that never gave birth, and the breasts that never nursed!’",
+      "after": "For look, days are coming when people will say, ‘Blessed are the women who are barren, the wombs that never gave birth, and the breasts that never nursed!’",
+      "tsw_comparator": "For behold, days are coming in which they will say, ‘Blessed are the barren and the wombs that never bore and the breasts that never nursed!’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.740741,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:30",
+      "delta": "F3",
+      "rationale": "Retains cosmic shelter/death pleas.",
+      "source_reference": "Luke 23:30",
+      "source_verse_sha256": "89712801e163940564ce419ca4f4e9ac30346e3a5b6eb7450d2a3fca297e45e9",
+      "before": "Then they will begin saying to the mountains, ‘Fall on us!’ and to the hills, ‘Cover us!’",
+      "after": "Then they will begin to say to the mountains, ‘Fall on us!’ and to the hills, ‘Cover us!’",
+      "tsw_comparator": "Then they will begin to say to the mountains, ‘Fall on us,’ and to the hills, ‘Cover us.’",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:31",
+      "delta": "F3",
+      "rationale": "Preserves compressed green/dry wood image without explanation.",
+      "source_reference": "Luke 23:31",
+      "source_verse_sha256": "13db18db0bfbd7b8ad8d9fc0e696603db20d10c167045a4b61cf15fb599dc437",
+      "before": "For if they do these things when the tree is green, what will happen when it is dry?”",
+      "after": "For if they do these things when the wood is green, what will happen when it is dry?”",
+      "tsw_comparator": "For if they do these things in the green tree, what will happen in the dry?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:32",
+      "delta": "F3",
+      "rationale": "Keeps exact number, criminal identity, accompaniment, and death.",
+      "source_reference": "Luke 23:32",
+      "source_verse_sha256": "ab770d344711cd753877f551339ae6bc6c1ec24fe146739cf5c7ad87328603fa",
+      "before": "Two others, both criminals, were also led away with him to be executed.",
+      "after": "Two others, both criminals, were also led away with him to be executed.",
+      "tsw_comparator": "And two others, who were criminals, were being led away with him to be put to death.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:33",
+      "delta": "F3",
+      "rationale": "Preserves place name, crucifixion, criminals, and positions.",
+      "source_reference": "Luke 23:33",
+      "source_verse_sha256": "deb2fa88c80219531fba66999a2c5798e62e99ac98e8211fa053162d354b522e",
+      "before": "When they came to the place called the Skull, they crucified Jesus there, along with the criminals, one on his right and one on his left.",
+      "after": "When they came to the place called the Skull, they crucified Jesus there with the criminals, one on his right and one on his left.",
+      "tsw_comparator": "And when they came to the place called “The Skull,” there they crucified him and the criminals, one on the right and one on the left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.784314,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:34",
+      "delta": "F3",
+      "rationale": "Keeps source-bracketed prayer distinct and soldiers’ garment division.",
+      "source_reference": "Luke 23:34",
+      "source_verse_sha256": "777ee721cb8c274c699f3f8fdc64fe2dd8558a9248a1302dc38465ea74ca6a8e",
+      "before": "Jesus said, “Father, forgive them, because they do not know what they are doing.” Then they divided his clothing by casting lots.",
+      "after": "[Jesus said, “Father, forgive them, because they do not know what they are doing.”] Then they cast lots to divide his clothes.",
+      "tsw_comparator": "And Jesus was saying, “Father, forgive them, for they do not know what they are doing.” And dividing his garments, they cast lots.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:35",
+      "delta": "F3",
+      "rationale": "Preserves spectators, rulers, mockery, salvation irony, and pinned title.",
+      "source_reference": "Luke 23:35",
+      "source_verse_sha256": "2439f31f302d46429d5aa740dfbfa237d83b139a98e6b1e03d1d7451fdb57ade",
+      "before": "The people stood watching. The rulers sneered at him: “He saved others; let him save himself if this is God’s Christ, the Chosen One.”",
+      "after": "The people stood watching, and the rulers also ridiculed him, saying, “He saved others; let him save himself if he is God’s Messiah, the Chosen One!”",
+      "tsw_comparator": "And the people stood watching, and the rulers also were sneering at him, saying, “He saved others; let him save himself, if this is the Christ of God, his Chosen One.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77193,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:36",
+      "delta": "F3",
+      "rationale": "Keeps soldiers, active mockery, approach, and drink.",
+      "source_reference": "Luke 23:36",
+      "source_verse_sha256": "c78244ca6c600b0423d5750aa0158e04a79ca7d8556157b1658af01f74e6011b",
+      "before": "The soldiers also mocked him, coming up and offering him sour wine.",
+      "after": "The soldiers also mocked him, coming up and offering him sour wine",
+      "tsw_comparator": "And the soldiers also mocked him, coming up and offering him sour wine,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:38",
+      "delta": "F3",
+      "rationale": "Keeps public written charge and title.",
+      "source_reference": "Luke 23:38",
+      "source_verse_sha256": "ef9d4138810b4bcd843b96b987874d94bcd692e233afb077ce66392c944acf1d",
+      "before": "There was also an inscription over him: “This is the king of the Jews.”",
+      "after": "There was also an inscription above him: “This is the King of the Jews.”",
+      "tsw_comparator": "And there was also an inscription over him: “This is the king of the Jews.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:39",
+      "delta": "F3",
+      "rationale": "Preserves criminal’s abuse, messianic challenge, and self-interest.",
+      "source_reference": "Luke 23:39",
+      "source_verse_sha256": "2bb98c39ed51502ec3d28bd69985e88c110bb96760b84e4f0ef259aa1a65a64d",
+      "before": "One of the criminals hanging there insulted him: “Are you not the Christ? Save yourself and us!”",
+      "after": "One of the criminals hanging there blasphemed him: “Are you not the Messiah? Save yourself and us!”",
+      "tsw_comparator": "And one of the criminals who were hanging was blaspheming him, saying, “Are you not the Christ? Save yourself and us!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:40",
+      "delta": "F3",
+      "rationale": "Keeps rebuke, divine fear, and shared judgment.",
+      "source_reference": "Luke 23:40",
+      "source_verse_sha256": "51bd8a209ac588e5e94d326b8c2ed228f5e524a33c7d25a8c9f470c243df071b",
+      "before": "But the other rebuked him: “Do you not even fear God, since you are under the same sentence?",
+      "after": "But the other rebuked him: “Do you not even fear God, since you are under the same sentence?",
+      "tsw_comparator": "But answering, the other rebuked him, saying, “Do you not even fear God, since you are under the same judgment?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.894737,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:41",
+      "delta": "F3",
+      "rationale": "Retains confession of guilt and Jesus’ innocence.",
+      "source_reference": "Luke 23:41",
+      "source_verse_sha256": "271e71f4e1d8c1122ac7060cf2982ca40bc9dabbca530abd80de3b78025cace0",
+      "before": "We are punished justly, because we are receiving what our actions deserve. But this man has done nothing wrong.”",
+      "after": "We are punished justly, because we are receiving what our deeds deserve. But this man has done nothing wrong.”",
+      "tsw_comparator": "And we indeed justly, for we are receiving what we deserve for what we did; but this man has done nothing improper.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.634146,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:42",
+      "delta": "F3",
+      "rationale": "Keeps direct name, memory request, coming, and kingdom.",
+      "source_reference": "Luke 23:42",
+      "source_verse_sha256": "bad5193fddc35273fcc0bba296f6d663e9f2c73bd93e29d50c6e999fc098d494",
+      "before": "Then he said, “Jesus, remember me when you come into your kingdom.”",
+      "after": "Then he said, “Jesus, remember me when you come into your kingdom.”",
+      "tsw_comparator": "And he was saying, “Jesus, remember me when you come into your kingdom.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:43",
+      "delta": "F3",
+      "rationale": "Preserves solemn assurance, today, companionship, and paradise.",
+      "source_reference": "Luke 23:43",
+      "source_verse_sha256": "de787a074a8890f2bedcaacf4ec30867707906fd2b53f45353efc8442b919a48",
+      "before": "Jesus said to him, “Truly I tell you, today you will be with me in paradise.”",
+      "after": "Jesus told him, “Truly I tell you, today you will be with me in paradise.”",
+      "tsw_comparator": "And he said to him, “Truly I say to you, today you will be with me in paradise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:44",
+      "delta": "F3",
+      "rationale": "Renders ancient hours intelligibly while keeping approximation and duration.",
+      "source_reference": "Luke 23:44",
+      "source_verse_sha256": "a6c871e307591725ca3c52902e66c897d75f41bd1d408234e08e34c94e67e4cc",
+      "before": "It was now about the sixth hour, and darkness came over the whole land until the ninth hour.",
+      "after": "It was now about noon, and darkness came over the whole land until three in the afternoon,",
+      "tsw_comparator": "And it was already about the sixth hour, and darkness came over the whole land until the ninth hour,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:45",
+      "delta": "F3",
+      "rationale": "Keeps solar failure and torn sacred barrier.",
+      "source_reference": "Luke 23:45",
+      "source_verse_sha256": "14b2abdba10b2807b90349d3af3c7b83b9d0100cd56402a6fcb05769527e39a9",
+      "before": "The sun’s light failed, and the curtain of the temple was torn down the middle.",
+      "after": "because the sun’s light failed. The curtain of the sanctuary was torn down the middle.",
+      "tsw_comparator": "while the sun was darkened, and the curtain of the temple was torn in the middle.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.580645,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:46",
+      "delta": "F3",
+      "rationale": "Preserves volume, scriptural prayer, voluntary trust, and death.",
+      "source_reference": "Luke 23:46",
+      "source_verse_sha256": "4ac5ea0a0d9564c576958e78828b20a9dfe33fdfc66b12e5b6a3119497a6849a",
+      "before": "Jesus cried out with a loud voice, “Father, into your hands I entrust my spirit.” After saying this, he breathed his last.",
+      "after": "Then Jesus cried out with a loud voice, “Father, into your hands I entrust my spirit.” After saying this, he breathed his last.",
+      "tsw_comparator": "And crying out with a loud voice, Jesus said, “Father, into your hands I commit my spirit.” And having said this, he breathed his last.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:47",
+      "delta": "F3",
+      "rationale": "Keeps military witness, divine praise, and Luke’s righteous/innocent verdict.",
+      "source_reference": "Luke 23:47",
+      "source_verse_sha256": "aeb36ecdb1951cc89fcb575b13a87798f447a1949c4f1ea2d1785e185b0d3138",
+      "before": "When the centurion saw what happened, he glorified God and said, “Certainly this man was righteous.”",
+      "after": "When the centurion saw what happened, he glorified God and said, “This man truly was righteous.”",
+      "tsw_comparator": "And seeing what had happened, the centurion was glorifying God, saying, “Certainly this man was righteous.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.4375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:48",
+      "delta": "F3",
+      "rationale": "Preserves spectacle, witnessed events, bodily grief, and departure.",
+      "source_reference": "Luke 23:48",
+      "source_verse_sha256": "806d9c522510c985f8c850459335df3d4c3a0539339db17c5b7d1772804dd7d8",
+      "before": "All the crowds who had gathered for this spectacle, when they saw what happened, returned home beating their chests.",
+      "after": "When all the crowds who had gathered for this spectacle saw what happened, they returned home beating their breasts.",
+      "tsw_comparator": "And all the crowds who had come together for this spectacle, seeing what had happened, were returning, beating their chests.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:49",
+      "delta": "F3",
+      "rationale": "Keeps acquaintances, women, prior discipleship, distance, and witness.",
+      "source_reference": "Luke 23:49",
+      "source_verse_sha256": "1eaeb4d71c770ac877af98db7864effe00bee9591c9341acd081c2a00b17ad12",
+      "before": "All Jesus’ acquaintances and the women who had followed him from Galilee stood at a distance watching these things.",
+      "after": "But all who knew Jesus, including the women who had followed him from Galilee, stood at a distance watching these things.",
+      "tsw_comparator": "And all his acquaintances and the women who had followed him from Galilee stood at a distance, seeing these things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:50",
+      "delta": "F3",
+      "rationale": "Preserves name, office, and character.",
+      "source_reference": "Luke 23:50",
+      "source_verse_sha256": "4c43a9f280e5a7276bc2051e4f8c75a9c8cc3243b4f200b120b9de6172bfb001",
+      "before": "Look—there was a man named Joseph, a council member, a good and righteous man.",
+      "after": "Now there was a man named Joseph, a council member who was good and righteous.",
+      "tsw_comparator": "And behold, a man named Joseph, who was a member of the council, a good and righteous man",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:51",
+      "delta": "F3",
+      "rationale": "Keeps dissent, decision and deed, origin, and kingdom hope.",
+      "source_reference": "Luke 23:51",
+      "source_verse_sha256": "dafddb8813a912e5164982193b1d4cf1340c21300cea815935bb5cc3260ee893",
+      "before": "He had not agreed with their plan and action. He was from Arimathea, a Jewish town, and he was waiting for God’s kingdom.",
+      "after": "He had not agreed with the council’s decision and action. He was from the Jewish town of Arimathea and was waiting for the kingdom of God.",
+      "tsw_comparator": "(he had not consented to their plan and action), from Arimathea, a city of the Jews, who was waiting for the kingdom of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.56,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:52",
+      "delta": "F3",
+      "rationale": "Preserves initiative, governor, request, and body.",
+      "source_reference": "Luke 23:52",
+      "source_verse_sha256": "885ea03dc09163ee1cb68f43d5516e86a03e14c0d570152c2e48f3c90f427aec",
+      "before": "This man went to Pilate and asked for Jesus’ body.",
+      "after": "Joseph went to Pilate and asked for Jesus’ body.",
+      "tsw_comparator": "this man went to Pilate and asked for the body of Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:53",
+      "delta": "F3",
+      "rationale": "Keeps removal, cloth, carved tomb, and unused status.",
+      "source_reference": "Luke 23:53",
+      "source_verse_sha256": "32446a59b9ac65ccd4d2f033d64026c9190859c3ef1b6f64abf5585a4fa36eec",
+      "before": "He took it down, wrapped it in linen cloth, and placed him in a tomb cut from rock where no one had yet been laid.",
+      "after": "He took it down, wrapped it in linen, and placed Jesus in a rock-hewn tomb where no one had ever been laid.",
+      "tsw_comparator": "And taking it down, he wrapped it in linen and laid him in a tomb cut in stone, where no one had yet been laid.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:54",
+      "delta": "F3",
+      "rationale": "Preserves Jewish temporal terms and approaching Sabbath.",
+      "source_reference": "Luke 23:54",
+      "source_verse_sha256": "4cda2700f82900a75e97ae6ef7c8ee0a7ba1dedbef99c90305663013e4cc1149",
+      "before": "It was Preparation Day, and the Sabbath was beginning.",
+      "after": "It was the Preparation Day, and the Sabbath was about to begin.",
+      "tsw_comparator": "And it was the day of Preparation, and the Sabbath was beginning.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:55",
+      "delta": "F3",
+      "rationale": "Keeps women’s Galilean continuity, following, and precise eyewitness observation.",
+      "source_reference": "Luke 23:55",
+      "source_verse_sha256": "ed5a8d2526b18fa06bf650e95651b6d12830a505b98985b2bb5f5e2ac29456f4",
+      "before": "The women who had come with Jesus from Galilee followed and saw the tomb and how his body was laid.",
+      "after": "The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid there.",
+      "tsw_comparator": "And the women who had come with him from Galilee followed and saw the tomb and how his body was laid.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 23:56",
+      "delta": "F3",
+      "rationale": "Preserves preparation, both materials, rest, and Torah obedience.",
+      "source_reference": "Luke 23:56",
+      "source_verse_sha256": "f7fdcdc9975f98ec2a466575ba3470b35f84259f351a6d6a4898ede57c007176",
+      "before": "Then they returned and prepared spices and perfumes. On the Sabbath they rested according to the commandment.",
+      "after": "Then they returned and prepared spices and perfumed oils. On the Sabbath they rested according to the commandment.",
+      "tsw_comparator": "And returning, they prepared spices and ointments. And on the Sabbath they rested according to the commandment.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_23.md",
-    "blob_sha": "de466df6f67a3fb4aab737b66de0b8677bf823cc"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,273 +2,376 @@
   "book": "Luke",
   "chapter": 17,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 36,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_17_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 17:1",
-        "source_chapter": 17,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "fbc54a715a67d88372ae10051307d915ec50385fdd72f18daf9a5330e17b5adb"
-      },
-      "2": {
-        "source_ref": "Luke 17:2",
-        "source_chapter": 17,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "fd48a1c71ad30cdb10320d46fd6191b62c33c9c585726628f083bb5fb85cd303"
-      },
-      "3": {
-        "source_ref": "Luke 17:3",
-        "source_chapter": 17,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "d705655869f17391d0a5a7eb63bbc8fb01d5a962e3e57c513b96a6d3445d1305"
-      },
-      "4": {
-        "source_ref": "Luke 17:4",
-        "source_chapter": 17,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "fbe2e896ef0fb3a417b58dec749d89c02745ddea916143764049e5228acd54c6"
-      },
-      "5": {
-        "source_ref": "Luke 17:5",
-        "source_chapter": 17,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "599ca4bb728e85644441880b4589a2ce6b094565ebf456c52b75502d629704f1"
-      },
-      "6": {
-        "source_ref": "Luke 17:6",
-        "source_chapter": 17,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "19e7a05ab2b6644aad20d0bc0c84f3b6b4270df4ed633c2933dd8c9af185639e"
-      },
-      "7": {
-        "source_ref": "Luke 17:7",
-        "source_chapter": 17,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "7dc0678e55dcf5b07c94e875e100d5db07e79456cecbb988ae898ea523d0f188"
-      },
-      "8": {
-        "source_ref": "Luke 17:8",
-        "source_chapter": 17,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "f64a7383c60d708b818d84741e0de5cce961c2503022662f62ed2e0883277fb0"
-      },
-      "9": {
-        "source_ref": "Luke 17:9",
-        "source_chapter": 17,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e78ff9c85e7e3789e2db9adde53371261775c304171baf8b4ac5b17496d333e7"
-      },
-      "10": {
-        "source_ref": "Luke 17:10",
-        "source_chapter": 17,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "6e299942a98fcac04c7f30ed92b49a76e8ccd7618095ba3331dded4e115f46af"
-      },
-      "11": {
-        "source_ref": "Luke 17:11",
-        "source_chapter": 17,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "7f29c72b952e214559eafbc274210692034d24f1529155c0a60e2228b1b0764e"
-      },
-      "12": {
-        "source_ref": "Luke 17:12",
-        "source_chapter": 17,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "0463244fcc4ab66942df566ba37a2fef12feb323c86af8eaf5a3129134755bcb"
-      },
-      "13": {
-        "source_ref": "Luke 17:13",
-        "source_chapter": 17,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "5324e38e05cdfeffa2bd3cc4071094e45b70cd78973e77ea0bb0d5390b1581e8"
-      },
-      "14": {
-        "source_ref": "Luke 17:14",
-        "source_chapter": 17,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "5ffc5c02f9864256658f93d4ea7b2468c56eeb48e194a9ed5e5a74278287c2bf"
-      },
-      "15": {
-        "source_ref": "Luke 17:15",
-        "source_chapter": 17,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "c1bad63d5d4bc3abeca9c0c848838e83521f195f956b2e0fc9327a20c443306c"
-      },
-      "16": {
-        "source_ref": "Luke 17:16",
-        "source_chapter": 17,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "dba033767e9ab194905c822038b86cc5585c406f56e7173ee76e8d3c90aa3934"
-      },
-      "17": {
-        "source_ref": "Luke 17:17",
-        "source_chapter": 17,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "6e69bf0ed825a14a3c240f231546ebb8ef99fdc0f20405f237c51d16cd7c7cac"
-      },
-      "18": {
-        "source_ref": "Luke 17:18",
-        "source_chapter": 17,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8b4f5f7c884afffad4a0668c4bb0c271b35cba64c1963372193533a55b4fa72c"
-      },
-      "19": {
-        "source_ref": "Luke 17:19",
-        "source_chapter": 17,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "dba6bd55f426ae1c0507eab1036f1979367b22c20d0dcd8df7033a18b8b65d27"
-      },
-      "20": {
-        "source_ref": "Luke 17:20",
-        "source_chapter": 17,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "ead14e67625565b61a3c3aee261461925920dabcaef70d6cbb1f8332be47ddcb"
-      },
-      "21": {
-        "source_ref": "Luke 17:21",
-        "source_chapter": 17,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "5d69f0d1610ae6ad52acaad2bdf548722993388155bb4a16401bbc6292f69843"
-      },
-      "22": {
-        "source_ref": "Luke 17:22",
-        "source_chapter": 17,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "63674c26c4cf8a35a78d3bd840783aac1dc11d77007c004449c40ea87d82fd4b"
-      },
-      "23": {
-        "source_ref": "Luke 17:23",
-        "source_chapter": 17,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "9afa8834cda0bb36b9481b216775a506e8761e38235b8eb1907bf0753b1eb180"
-      },
-      "24": {
-        "source_ref": "Luke 17:24",
-        "source_chapter": 17,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "6069522f3aa30219237a894d31eb1f3de07b2181d1c5c06c31a7514e92b732e0"
-      },
-      "25": {
-        "source_ref": "Luke 17:25",
-        "source_chapter": 17,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "647479be2eb53469fcfb052b2b3d326f2d32d7978625051b9568c352f8ec684b"
-      },
-      "26": {
-        "source_ref": "Luke 17:26",
-        "source_chapter": 17,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "e4118d69af2ae06cd44beb6b38134c3e3fe2efc5020c313fe57a4ae4126cb8a5"
-      },
-      "27": {
-        "source_ref": "Luke 17:27",
-        "source_chapter": 17,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "45b697ac87342f8012988ed9f9064310ebb1b67a6a7c16cbeeefdc8eb78ffae2"
-      },
-      "28": {
-        "source_ref": "Luke 17:28",
-        "source_chapter": 17,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "2a191b7b274224f43c4745ff912147f4e3506b6018d28de5a4ed201c1c61daa8"
-      },
-      "29": {
-        "source_ref": "Luke 17:29",
-        "source_chapter": 17,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "c116727392f23c5e222773693ba101737fd1d449b24488638c9ba3959f659b1a"
-      },
-      "30": {
-        "source_ref": "Luke 17:30",
-        "source_chapter": 17,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "b954416a03061b731e247015ac25d6d36ce6453b88f3187054f64b40062d7d0d"
-      },
-      "31": {
-        "source_ref": "Luke 17:31",
-        "source_chapter": 17,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "c24f54396037d66c7e9f24158b46a34dde7566c669a7269e28ecbd5baf8436b2"
-      },
-      "32": {
-        "source_ref": "Luke 17:32",
-        "source_chapter": 17,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "f77acf69dba8e6dfc6d2df70f49530b78e13b52fe0c4fde7dbddfabf6f0bed05"
-      },
-      "33": {
-        "source_ref": "Luke 17:33",
-        "source_chapter": 17,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "123a5f60459b93a279d9ff156690d8ad596bf66a718a26de1e7ec60311bdeb51"
-      },
-      "34": {
-        "source_ref": "Luke 17:34",
-        "source_chapter": 17,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "4477217d344f3da39e621d68f820ecaeb56246be26bbc35b33314d7e1566b38a"
-      },
-      "35": {
-        "source_ref": "Luke 17:35",
-        "source_chapter": 17,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "99aa5b32be7b2894dd7ff1ce921aa8368bee58bc901ad3f93ad2dbb6386ed255"
-      },
-      "37": {
-        "source_ref": "Luke 17:37",
-        "source_chapter": 17,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "c7fb68348117249b171be057bc3817bd9069796ef2fddad058903b8ff1d3281f"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 17,
+    "verse_count": 36,
+    "path": "translations/fluent/NT/luke/Luke_17.md",
+    "before_sha256": "750ebe28251267ebb5d2671d3b91fca9af9eb22c94d6728956d5bcaa62954333",
+    "after_sha256": "c9bac10dfecdb26143e2469ae0914bb299762b8a3018b264e68e838c51e52d51",
+    "tsw_comparator_path": "books/NT/luke/Luke_17.md",
+    "tsw_comparator_sha256": "786f0bf498e252c043e008b2d8d9f6305edad79b3944f1f17ba77665c65d7976",
+    "source_omitted_public_labels": [
+      36
+    ],
+    "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+    "tsw_omitted_public_labels": [
+      36
+    ],
+    "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 17:1",
+      "delta": "F3",
+      "rationale": "Retains inevitability, harm, and personal responsibility.",
+      "source_reference": "Luke 17:1",
+      "source_verse_sha256": "38f8c86d55be0bffc835017a3634bf6478f3b496d87e41a26e358f57bf00c96e",
+      "before": "Jesus said to his disciples, “It is impossible for causes of stumbling not to come, but woe to the person through whom they come!",
+      "after": "Jesus said to his disciples, “Stumbling blocks are certain to come, but woe to the person through whom they come!",
+      "tsw_comparator": "And he said to his disciples, “It is impossible for stumbling blocks not to come, but woe to the one through whom they come!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:2",
+      "delta": "F3",
+      "rationale": "Preserves violent warning, millstone, sea, and protection of one little one.",
+      "source_reference": "Luke 17:2",
+      "source_verse_sha256": "2b6c37c999fb50c95b1c15e03b9296efb6f9e2ab0dc36ccb83dd302a0ee12aa0",
+      "before": "It would be better for that person if a millstone were hung around the neck and they were thrown into the sea than for them to cause one of these little ones to stumble.",
+      "after": "It would be better for him if a millstone were hung around his neck and he were thrown into the sea than for him to cause one of these little ones to stumble.",
+      "tsw_comparator": "It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to stumble.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878788,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:3",
+      "delta": "F3",
+      "rationale": "Keeps self-watch, confrontation, repentance, and forgiveness.",
+      "source_reference": "Luke 17:3",
+      "source_verse_sha256": "6e428e7c3081be8d41dd34d969f89b4cb2cdbf277c78cdefe56d4b3f60507692",
+      "before": "Watch yourselves. If your brother or sister sins, rebuke them; and if they repent, forgive them.",
+      "after": "Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.",
+      "tsw_comparator": "Take heed to yourselves. If your brother sins, rebuke him, and if he repents, forgive him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:4",
+      "delta": "F3",
+      "rationale": "Retains exact repetition, personal offense, return, and command.",
+      "source_reference": "Luke 17:4",
+      "source_verse_sha256": "a2ad7676c27bc4d8d2dad86e10031fb244d086b46d66e6b0c304bfe25ee1b5b3",
+      "before": "Even if they sin against you seven times in a day and seven times return to you saying, ‘I repent,’ you must forgive them.”",
+      "after": "Even if he sins against you seven times in a day and returns to you seven times saying, ‘I repent,’ you must forgive him.”",
+      "tsw_comparator": "And if he sins against you seven times in the day and seven times returns to you, saying, ‘I repent,’ you shall forgive him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.791667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:6",
+      "delta": "F3",
+      "rationale": "Keeps small-seed comparison, mulberry tree, impossible command, and obedience.",
+      "source_reference": "Luke 17:6",
+      "source_verse_sha256": "f930ee9cc475d3112ff4416cdde85f386ec51dc07866b6ea3961df1602def9a7",
+      "before": "The Lord said, “If you had faith like a mustard seed, you would say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it would obey you.",
+      "after": "The Lord replied, “If you had faith like a mustard seed, you could say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it would obey you.",
+      "tsw_comparator": "And the Lord said, “If you had faith like a grain of mustard seed, you would say to this mulberry tree, ‘Be uprooted and be planted in the sea,’ and it would obey you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:10",
+      "delta": "F3",
+      "rationale": "Preserves humble status and duty without implying worthlessness as persons.",
+      "source_reference": "Luke 17:10",
+      "source_verse_sha256": "ab9b23a5449373d9c7fa6da8d6649ae447f0eb3aa091ea6663483a4f9970d0a2",
+      "before": "So you also, when you have done everything commanded of you, say, ‘We are servants without a claim; we have done what we ought to have done.’”",
+      "after": "So you also, when you have done everything you were ordered to do, should say, ‘We are servants who deserve no special credit; we have only done what we were obligated to do.’”",
+      "tsw_comparator": "So you also, when you have done all that was commanded you, say, ‘We are unworthy servants; we have done what we ought to have done.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.610169,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:11",
+      "delta": "F3",
+      "rationale": "Keeps journey destination and difficult between-regions geography.",
+      "source_reference": "Luke 17:11",
+      "source_verse_sha256": "6f38c792f91a291a38561c21f8dcd9ea35372136d6c7728dc7e10377cd5d401f",
+      "before": "As Jesus was going to Jerusalem, he traveled along the border between Samaria and Galilee.",
+      "after": "On the way to Jerusalem, Jesus was passing along the border between Samaria and Galilee.",
+      "tsw_comparator": "And it happened as he was going to Jerusalem that he was passing between Samaria and Galilee.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:12",
+      "delta": "F3",
+      "rationale": "Retains exact number, men, condition, meeting, and distance.",
+      "source_reference": "Luke 17:12",
+      "source_verse_sha256": "719c3915d6a6ea9e7bcf3f49b0fe4e5808bdde75ffccad59672988ab04c274ce",
+      "before": "As he entered a village, ten men with skin diseases met him. They stood at a distance",
+      "after": "As he entered a village, ten men with a skin disease met him. They stood at a distance",
+      "tsw_comparator": "And as he was entering a certain village, ten men who were lepers met him, who stood at a distance,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:14",
+      "delta": "F3",
+      "rationale": "Preserves seeing, priestly inspection, obedient movement, and cleansing en route.",
+      "source_reference": "Luke 17:14",
+      "source_verse_sha256": "38da698b9684f095e8867b55d6729c38cf99275b8c949f9e92a632acc5c4d8f9",
+      "before": "When he saw them, he said, “Go show yourselves to the priests.” As they went, they were cleansed.",
+      "after": "When he saw them, he said, “Go show yourselves to the priests.” As they went, they were cleansed.",
+      "tsw_comparator": "And seeing them, he said to them, “Go and show yourselves to the priests.” And it happened as they were going, they were cleansed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:16",
+      "delta": "F3",
+      "rationale": "Preserves posture, gratitude, and climactic identity.",
+      "source_reference": "Luke 17:16",
+      "source_verse_sha256": "7975ac304c6b873dbe57618eec2bf6923ba9ab0e142fdc4a915b5204db133a94",
+      "before": "He fell facedown at Jesus’ feet and thanked him. And he was a Samaritan.",
+      "after": "He fell facedown at Jesus’ feet and thanked him. He was a Samaritan.",
+      "tsw_comparator": "and fell on his face at his feet, giving thanks to him. And he was a Samaritan.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:18",
+      "delta": "F3",
+      "rationale": "Retains outsider label, return, and divine glory.",
+      "source_reference": "Luke 17:18",
+      "source_verse_sha256": "daafe92a5636a21e5feca410df7e2cdcc75f717c51d8894130f049031f7fb3b7",
+      "before": "Was no one found to return and give glory to God except this foreigner?”",
+      "after": "Was no one found to return and give glory to God except this foreigner?”",
+      "tsw_comparator": "Was no one found returning to give glory to God except this foreigner?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:19",
+      "delta": "F3",
+      "rationale": "Keeps bodily command and broad save/heal language.",
+      "source_reference": "Luke 17:19",
+      "source_verse_sha256": "fa97137baeeefb326fdefd981b71d23d6bb316a377959abfbe687f31cbc0366a",
+      "before": "He said to the man, “Get up and go. Your faith has saved you.”",
+      "after": "Then he said to the man, “Get up and go. Your faith has saved you.”",
+      "tsw_comparator": "And he said to him, “Rise and go; your faith has saved you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:20",
+      "delta": "F3",
+      "rationale": "Preserves question, coming, and non-observable manner.",
+      "source_reference": "Luke 17:20",
+      "source_verse_sha256": "c2d0081bfb02765d677a5b1078bffb78dc7d8dd76fa9bcf5f26c4e17df1e2ca8",
+      "before": "The Pharisees asked Jesus when God’s kingdom was coming. He answered, “God’s kingdom does not come with observable signs,",
+      "after": "When the Pharisees asked when the kingdom of God was coming, Jesus answered, “The kingdom of God does not come in a way that can be closely observed.",
+      "tsw_comparator": "And being asked by the Pharisees when the kingdom of God is coming, he answered them and said, “The kingdom of God is not coming with observable signs,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:21",
+      "delta": "F3",
+      "rationale": "Renders entos as among this hostile plural audience while retaining deictic contrast.",
+      "source_reference": "Luke 17:21",
+      "source_verse_sha256": "37916152fc2e4987679e18ac3349a069cdcda7ff9e06a2879efa7673f76e36c2",
+      "before": "nor will people say, ‘Look, here it is!’ or, ‘There!’ For look—God’s kingdom is in your midst.”",
+      "after": "People will not say, ‘Look, here it is!’ or ‘There it is!’ For look, the kingdom of God is among you.”",
+      "tsw_comparator": "nor will they say, ‘Look, here!’ or ‘There!’ For behold, the kingdom of God is in your midst.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:24",
+      "delta": "F3",
+      "rationale": "Keeps visible lightning analogy and variant-marked “his day.”",
+      "source_reference": "Luke 17:24",
+      "source_verse_sha256": "04d5ed99a959c83383d85cdd4229cb52185344da4f261fc4ae1de3b286178c5d",
+      "before": "Just as lightning flashes and lights the sky from one side to the other, so the Son of Man will be in his day.",
+      "after": "For just as lightning flashes and lights up the sky from one end to the other, so will the Son of Man be in his day.",
+      "tsw_comparator": "For as the lightning flashes and lights up the sky from one side to the other, so will the Son of Man be in his day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:25",
+      "delta": "F3",
+      "rationale": "Retains priority, necessity, suffering, and generational rejection.",
+      "source_reference": "Luke 17:25",
+      "source_verse_sha256": "8ef2e0f8dfda1f8af7b631fc8ef0d4cdb3943351c65fa5ee00dadcd0652eb934",
+      "before": "But first he must suffer many things and be rejected by this generation.",
+      "after": "But first he must suffer many things and be rejected by this generation.",
+      "tsw_comparator": "But first he must suffer many things and be rejected by this generation.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:27",
+      "delta": "F3",
+      "rationale": "Preserves ordinary activities, Noah, ark, sudden flood, and total destruction.",
+      "source_reference": "Luke 17:27",
+      "source_verse_sha256": "11b69e51c1bae44449b2445774d9127824bfc6d2d54faf536c1d5c6f8810b321",
+      "before": "People were eating, drinking, marrying, and being given in marriage until the day Noah entered the ark. Then the flood came and destroyed them all.",
+      "after": "People were eating, drinking, marrying, and being given in marriage until the day Noah entered the ark. Then the flood came and destroyed them all.",
+      "tsw_comparator": "they were eating, drinking, marrying, being given in marriage, until the day Noah entered the ark, and the flood came and destroyed them all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.897959,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:29",
+      "delta": "F3",
+      "rationale": "Retains Sodom, exact timing, fire, sulfur, heaven, and destruction.",
+      "source_reference": "Luke 17:29",
+      "source_verse_sha256": "d6a35ac7f37ddfb8d8784321d1098483cf7b74f13eb51e80a785af816e6ceaa8",
+      "before": "But on the day Lot left Sodom, fire and sulfur rained from heaven and destroyed them all.",
+      "after": "But on the day Lot left Sodom, fire and sulfur rained from heaven and destroyed them all.",
+      "tsw_comparator": "but on the day Lot went out from Sodom, it rained fire and sulfur from heaven and destroyed them all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:31",
+      "delta": "F3",
+      "rationale": "Preserves locations, possessions, urgency, and two prohibitions.",
+      "source_reference": "Luke 17:31",
+      "source_verse_sha256": "1e9267a97d02da28680f174bdd39677c63581ee532b6f258606ad4959fba65fa",
+      "before": "On that day, anyone on the housetop whose possessions are in the house must not go down to get them, and anyone in the field must not turn back.",
+      "after": "On that day, anyone on the housetop whose belongings are inside the house must not go down to get them. Likewise, anyone in the field must not turn back.",
+      "tsw_comparator": "On that day, the one who is on the housetop, and his goods in the house, must not go down to take them away; and likewise the one in the field must not turn back.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:32",
+      "delta": "F3",
+      "rationale": "Keeps stark memorial warning.",
+      "source_reference": "Luke 17:32",
+      "source_verse_sha256": "d8be275bba0d975c2254fca04fd23c42e476795e030f75252fbb30b757960b8f",
+      "before": "Remember Lot’s wife.",
+      "after": "Remember Lot’s wife.",
+      "tsw_comparator": "Remember Lot’s wife.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:33",
+      "delta": "F3",
+      "rationale": "Retains save/lose paradox and singular referent.",
+      "source_reference": "Luke 17:33",
+      "source_verse_sha256": "b23fe7927f75f00d5ac9efdc3860edb07da4ae3e9a230071c6558534f2cf3045",
+      "before": "Whoever seeks to preserve their life will lose it, but whoever loses it will keep it alive.",
+      "after": "Whoever seeks to preserve his life will lose it, but whoever loses his life will keep it alive.",
+      "tsw_comparator": "Whoever seeks to preserve his life will lose it, but whoever loses it will keep it alive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:34",
+      "delta": "F3",
+      "rationale": "Keeps night, one bed, pair, and unresolved taken/left contrast.",
+      "source_reference": "Luke 17:34",
+      "source_verse_sha256": "a5dcac58849a8dd64bd017fca802834354e590f66b1bb723d9fc0973d26f8dd0",
+      "before": "I tell you, that night two will be in one bed; one will be taken and the other left.",
+      "after": "I tell you, on that night two people will be in one bed; one will be taken and the other left.",
+      "tsw_comparator": "I tell you, in that night there will be two in one bed; one will be taken and the other left.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:35",
+      "delta": "F3",
+      "rationale": "Retains female workers and repeated contrast.",
+      "source_reference": "Luke 17:35",
+      "source_verse_sha256": "ac34c1393f551f827149e4af7d0d8ad77a111eb43ab84133ee8403dc5f7df98b",
+      "before": "Two women will be grinding together; one will be taken and the other left.”",
+      "after": "Two women will be grinding grain together; one will be taken and the other left.”",
+      "tsw_comparator": "There will be two grinding together; one will be taken and the other left.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 17:37",
+      "delta": "F3",
+      "rationale": "Preserves absent public verse 36, question, corpse/body, and ominous birds.",
+      "source_reference": "Luke 17:37",
+      "source_verse_sha256": "3b3d3b0a0fe3908c29f95873b823a9046c7c9062cef695441ea60dc83ea57c3a",
+      "before": "They asked him, “Where, Lord?” He said, “Where the body is, there the vultures will gather.”",
+      "after": "The disciples asked him, “Where, Lord?” He replied, “Where the body is, there the vultures will gather.”",
+      "tsw_comparator": "And answering, they say to him, “Where, Lord?” And he said to them, “Where the body is, there also the vultures will be gathered.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.585366,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_17.md",
-    "blob_sha": "dc7dfd3f353b1bb91883fb31da189c688ef35b22"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

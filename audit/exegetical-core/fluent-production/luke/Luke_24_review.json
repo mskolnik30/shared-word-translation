@@ -2,392 +2,628 @@
   "book": "Luke",
   "chapter": 24,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 53,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_24_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 24:1",
-        "source_chapter": 24,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "a9d11c12a3016f6cf02c973b0f9aab2847ce82ed5ef7803c2b88c9fcb4f82c39"
-      },
-      "2": {
-        "source_ref": "Luke 24:2",
-        "source_chapter": 24,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "2d0b4365ba9bdca273e3e18de78e8b5c2d1ab7129df84fa768b4538f1fbda86e"
-      },
-      "3": {
-        "source_ref": "Luke 24:3",
-        "source_chapter": 24,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "deff0d4a31196fac1754c5c93e5dd8a7cd95d65e3a238094c84bd9e74b776048"
-      },
-      "4": {
-        "source_ref": "Luke 24:4",
-        "source_chapter": 24,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "d154560ad314c83a302452a61f4bf413859b0e1037dd18894af9e5d6da04a943"
-      },
-      "5": {
-        "source_ref": "Luke 24:5",
-        "source_chapter": 24,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "9aaa5767cf1ac3cd9b748fe1ce2bcd3ad097e477e10f76214384489fb1264274"
-      },
-      "6": {
-        "source_ref": "Luke 24:6",
-        "source_chapter": 24,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "2a24c7552a54876e16e69da97918bb0c82fc5e15f3ef7ce6b0d75f031eeb556d"
-      },
-      "7": {
-        "source_ref": "Luke 24:7",
-        "source_chapter": 24,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "7d16bcd09bfa6d535c3094b463ba53bd563305cf3d64f7d3e11f4773d6a3d118"
-      },
-      "8": {
-        "source_ref": "Luke 24:8",
-        "source_chapter": 24,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3f3dc9ff3333b90a3021c52e9e55e16d382202caf91881326872e4ff6d5871c7"
-      },
-      "9": {
-        "source_ref": "Luke 24:9",
-        "source_chapter": 24,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "ffab5d74a4acefc5eadad8f2fd22278a39d2e48b7d3e82cf42eeb9a7b3d203ae"
-      },
-      "10": {
-        "source_ref": "Luke 24:10",
-        "source_chapter": 24,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "1061ead4d94fee826e31d89de2d3ec7d5ca430165cea148441b0d611400b1872"
-      },
-      "11": {
-        "source_ref": "Luke 24:11",
-        "source_chapter": 24,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "d06484ed7bc0bcdbac19bad41bd0354efc26cb39eb1eacc3ae5d22bb65b69295"
-      },
-      "12": {
-        "source_ref": "Luke 24:12",
-        "source_chapter": 24,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "a629f27c36016fe13572a3165b653fbf2d322a5dbdf926ec7018ee73e6c9cb5a"
-      },
-      "13": {
-        "source_ref": "Luke 24:13",
-        "source_chapter": 24,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "22e4258aa6d7703a0f7f3c748c96e74fa543906f3bcb20d8edc30e0b0575d2bb"
-      },
-      "14": {
-        "source_ref": "Luke 24:14",
-        "source_chapter": 24,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "18cfbcc16fa4972bbbb3265d9a5247cad4ccf9807c637a9236a57e4f06c5cd8a"
-      },
-      "15": {
-        "source_ref": "Luke 24:15",
-        "source_chapter": 24,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "2b2bc8bc58b50efcbf22b65ca271a6c28aec98367eb805504b811686dadcd05c"
-      },
-      "16": {
-        "source_ref": "Luke 24:16",
-        "source_chapter": 24,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "2084c4a6d88ab4d52bf1fb4f11a679dfe53dee4f0c5c20716007b21357093907"
-      },
-      "17": {
-        "source_ref": "Luke 24:17",
-        "source_chapter": 24,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "d339614bce54b903bf3009babca69be56c8febcb683d25ba735317664f8fd25f"
-      },
-      "18": {
-        "source_ref": "Luke 24:18",
-        "source_chapter": 24,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "d889d530d98d592570f2c69ef9e82de294e20361d47ccb83f310504a3ce3f7cc"
-      },
-      "19": {
-        "source_ref": "Luke 24:19",
-        "source_chapter": 24,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "bc8ca2e6ccf0357a0133035f89de011d605ec0c7bce001f6b8dbf3a8c06c9473"
-      },
-      "20": {
-        "source_ref": "Luke 24:20",
-        "source_chapter": 24,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "cfce0eea7e723f1735b73cc475a92642d30baec9be190371c831add7da354e46"
-      },
-      "21": {
-        "source_ref": "Luke 24:21",
-        "source_chapter": 24,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "3683c7c53c8afc9ff3bcdaa8694d5fda4cb977f5281b6ef07e642cf0e4d7612e"
-      },
-      "22": {
-        "source_ref": "Luke 24:22",
-        "source_chapter": 24,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "f33b7215a50c6d437209833821518ff54a9665ae93e7204afd6e426249f83a6d"
-      },
-      "23": {
-        "source_ref": "Luke 24:23",
-        "source_chapter": 24,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "1e830ae885ac3c3032126a13482647d02600fbf035a77e601fcea9425a4ba589"
-      },
-      "24": {
-        "source_ref": "Luke 24:24",
-        "source_chapter": 24,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "78b4ca77e924c04d483570c5020ad416bc5713e5e57279e4e0b33671ea2d06ff"
-      },
-      "25": {
-        "source_ref": "Luke 24:25",
-        "source_chapter": 24,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "cb1d5263fdd2ff41a53ed0fa8ea06dd332f6efc2ce5b06134666b23165e2d8bd"
-      },
-      "26": {
-        "source_ref": "Luke 24:26",
-        "source_chapter": 24,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "511c4f09f5753a3a63f7ee836345c7a336144d189e58db08d7af49c812184f85"
-      },
-      "27": {
-        "source_ref": "Luke 24:27",
-        "source_chapter": 24,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "21b9fb7d51e903bc21dda05f4aa047e339368dd8c95c9c3e364a6ade0adf9501"
-      },
-      "28": {
-        "source_ref": "Luke 24:28",
-        "source_chapter": 24,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "8fe1538aa7e0686cabb17c6baae5302f738b3e14dfe98287d6067f075a4e210f"
-      },
-      "29": {
-        "source_ref": "Luke 24:29",
-        "source_chapter": 24,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "63c73a47af02a692e3d2cc2981362359f7247de41bbb2a4ec7ecd019738c805d"
-      },
-      "30": {
-        "source_ref": "Luke 24:30",
-        "source_chapter": 24,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "8f681802f8dff2acb817ea2a394222e3269d529bd0f45cd2c6b93f01e1c15676"
-      },
-      "31": {
-        "source_ref": "Luke 24:31",
-        "source_chapter": 24,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "7e54cd30b2ba0cfc57acd90ccb4d35c5fb460a5dbc41458fe5eda69941f06958"
-      },
-      "32": {
-        "source_ref": "Luke 24:32",
-        "source_chapter": 24,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "146e6316e7a886c5e2d2dffedcd04a49d49eeac950ff922c790aa7944ea99543"
-      },
-      "33": {
-        "source_ref": "Luke 24:33",
-        "source_chapter": 24,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "3a0d9905a30b953eb5da1e1a8052a20e77df223a251d59ae9c83c2ab79df1096"
-      },
-      "34": {
-        "source_ref": "Luke 24:34",
-        "source_chapter": 24,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "3ac1d46f9493ddb744b617cf42dfaa88dd7b8f25b487298534cba532638f7434"
-      },
-      "35": {
-        "source_ref": "Luke 24:35",
-        "source_chapter": 24,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "d40190ffd069d0c5a73074593781b3f3726a59796345d36f1b7362ca92f30c1f"
-      },
-      "36": {
-        "source_ref": "Luke 24:36",
-        "source_chapter": 24,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "14a16f29d45cb0e027c801e74b77593f35da4a72c276c5e8a8acdd9721be122c"
-      },
-      "37": {
-        "source_ref": "Luke 24:37",
-        "source_chapter": 24,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "24df81261becad55c8e10a105b47cc984b5c6b5a0c3b799a8d067a68d86bcdba"
-      },
-      "38": {
-        "source_ref": "Luke 24:38",
-        "source_chapter": 24,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "a5c43f922b00fcba35648016a3e1b5a71f18d6ea0eb1fdb9fa240bb5e1059f45"
-      },
-      "39": {
-        "source_ref": "Luke 24:39",
-        "source_chapter": 24,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "565e4adf5f98159a79ec1ef22f68a2fcf72dc8a1254b9f68be8b07ae57b813db"
-      },
-      "40": {
-        "source_ref": "Luke 24:40",
-        "source_chapter": 24,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "6768df8a299cea18b0f8705d51597508c2d9f20676c6d4ca10a2a346ff3e5856"
-      },
-      "41": {
-        "source_ref": "Luke 24:41",
-        "source_chapter": 24,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "5208e6a3094ad6e686444ff785703f96c68a17032492276a4636b379fbd0630e"
-      },
-      "42": {
-        "source_ref": "Luke 24:42",
-        "source_chapter": 24,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "10be953cfce3377a6c26195bc511a7069b2f8483322af6d9f160d7054ab1da3e"
-      },
-      "43": {
-        "source_ref": "Luke 24:43",
-        "source_chapter": 24,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "746800462752df50b88ed99bfd584d1d3607e1ee908b2e9ec19d60c6b859ffd5"
-      },
-      "44": {
-        "source_ref": "Luke 24:44",
-        "source_chapter": 24,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "76fedf35622e187a06dd26d55c3f24ec720c4b36bdc8d83201f6621e52b31aaf"
-      },
-      "45": {
-        "source_ref": "Luke 24:45",
-        "source_chapter": 24,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "b45454b6110a9605c5b610dc1094fe85de884bfcb08e8c3ece0fe2d2aef01db2"
-      },
-      "46": {
-        "source_ref": "Luke 24:46",
-        "source_chapter": 24,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "1fd7e814cf97b27336dbd7a86b0de9bcd8bf68c5bd6d74d0cd9f7de67e5c1830"
-      },
-      "47": {
-        "source_ref": "Luke 24:47",
-        "source_chapter": 24,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "a839c534b4be97c5e9276ac23e4fedf3c0314f854fe6063037aa8013210f905a"
-      },
-      "48": {
-        "source_ref": "Luke 24:48",
-        "source_chapter": 24,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "f6ed3007ff6119ca7755e7ebe42068c6e8db979f452196e13ae07a430b7ef8c5"
-      },
-      "49": {
-        "source_ref": "Luke 24:49",
-        "source_chapter": 24,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "1a6ba0a793138eafbaca6101f2033fdc43d27085fcc6e4a6230dbca4a88528f6"
-      },
-      "50": {
-        "source_ref": "Luke 24:50",
-        "source_chapter": 24,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "baad27b2277fb7832281e87c50ee2f37be09fb352027f29d43a135d04138b2a4"
-      },
-      "51": {
-        "source_ref": "Luke 24:51",
-        "source_chapter": 24,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "ab43796a681f1bd83be2045f87a20850140a33b1ca28ef2ca59cffc68e379446"
-      },
-      "52": {
-        "source_ref": "Luke 24:52",
-        "source_chapter": 24,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "deabb066b40572b4ed61ac2b639a216c91097791b0c73ae8e737ae98b6fc9fbd"
-      },
-      "53": {
-        "source_ref": "Luke 24:53",
-        "source_chapter": 24,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "58b6f8ff1f7f5918ab9bfc42f2f159c0a2f84cf306b051825924abc0e62d7520"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 24,
+    "verse_count": 53,
+    "path": "translations/fluent/NT/luke/Luke_24.md",
+    "before_sha256": "efe0973c6b1767eb8a583fd3f2ffedcf9aa3c97dc5b7b4ca4dad3e4432afee4d",
+    "after_sha256": "2195a53644772aef58585336733d8ef7b9d8271d7fe344f42724724a1cd87b9d",
+    "tsw_comparator_path": "books/NT/luke/Luke_24.md",
+    "tsw_comparator_sha256": "870715e5ab2a44dbc719c70bee703d409a6a6efea4a2969feae2db8099221761"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 24:1",
+      "delta": "F3",
+      "rationale": "Keeps day, early hour, female continuity, tomb, and prepared spices.",
+      "source_reference": "Luke 24:1",
+      "source_verse_sha256": "b5e274baea5e9efe3f300b7cf13cf4d60fce457bd28352954b337e2f07e425e8",
+      "before": "On the first day of the week, at early dawn, the women came to the tomb carrying the spices they had prepared.",
+      "after": "But very early on the first day of the week, the women came to the tomb carrying the spices they had prepared.",
+      "tsw_comparator": "But on the first day of the week, at early dawn, they came to the tomb, bringing the spices they had prepared.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.772727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:3",
+      "delta": "F3",
+      "rationale": "Keeps entry and absent body without adding “of Jesus” absent in pinned payload.",
+      "source_reference": "Luke 24:3",
+      "source_verse_sha256": "122b3011edf36819c1264a2ba0e335bfda9eb7ceb22fab54b7de06697faed770",
+      "before": "When they entered, they did not find the body.",
+      "after": "But when they entered, they did not find the body.",
+      "tsw_comparator": "but when they went in, they did not find the body of the Lord Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:4",
+      "delta": "F3",
+      "rationale": "Preserves confusion, exact number, male description, sudden presence, and radiant clothing.",
+      "source_reference": "Luke 24:4",
+      "source_verse_sha256": "043fedbff6727b2b710196981b30b2cedd3b34b7d70726f23b810258b3706eb3",
+      "before": "While they were perplexed about this, look—two men in dazzling clothing stood beside them.",
+      "after": "While they were perplexed about this, suddenly two men stood beside them in gleaming clothes.",
+      "tsw_comparator": "While they were perplexed about this, suddenly two men stood beside them in dazzling clothing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:5",
+      "delta": "F3",
+      "rationale": "Keeps fear, posture, question, living-dead contrast.",
+      "source_reference": "Luke 24:5",
+      "source_verse_sha256": "6e577f402cfe4ab0ad51628e3198d5aa23821909ec2ca1d363b8eb5a51191076",
+      "before": "The women became terrified and bowed their faces to the ground. The men said, “Why are you looking for the living among the dead?",
+      "after": "Terrified, the women bowed their faces to the ground. The men said to them, “Why are you looking for the living one among the dead?",
+      "tsw_comparator": "And as they were terrified and bowed their faces to the ground, the men said to them, “Why do you seek the living among the dead?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:6",
+      "delta": "F3",
+      "rationale": "Preserves source-bracketed resurrection announcement separately and summons memory.",
+      "source_reference": "Luke 24:6",
+      "source_verse_sha256": "6a2248209c0f983d49736020fd765c82b7f0fe9a006325a2d1415d1fbc79995e",
+      "before": "He is not here but has been raised. Remember how he spoke to you while he was still in Galilee,",
+      "after": "[He is not here; he has risen.] Remember how he spoke to you while he was still in Galilee,",
+      "tsw_comparator": "He is not here, but has been raised. Remember how he spoke to you while he was still in Galilee,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:7",
+      "delta": "F3",
+      "rationale": "Keeps necessity, human agents, crucifixion, exact day, and rising.",
+      "source_reference": "Luke 24:7",
+      "source_verse_sha256": "dff4e326b4d05bf269bdf9cfc0d9ddcaf5b8e7a5d6ffc76b835af6d147511c72",
+      "before": "saying that the Son of Man must be handed over into the hands of sinful people, be crucified, and rise on the third day.”",
+      "after": "saying that the Son of Man must be handed over into the hands of sinful people, be crucified, and rise on the third day.”",
+      "tsw_comparator": "saying that the Son of Man must be handed over into the hands of sinners, and be crucified, and on the third day rise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:9",
+      "delta": "F3",
+      "rationale": "Keeps movement, comprehensive report, Eleven, and wider group.",
+      "source_reference": "Luke 24:9",
+      "source_verse_sha256": "be59d2400f534fc2e87c494e6866cf506840d0d25038f8762ee69717f7e40801",
+      "before": "They returned from the tomb and reported all these things to the eleven and to all the rest.",
+      "after": "Returning from the tomb, they reported all these things to the Eleven and to everyone else.",
+      "tsw_comparator": "and returning from the tomb they told all these things to the eleven and to all the rest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:10",
+      "delta": "F3",
+      "rationale": "Names the women, preserves the ambiguous Mary-of-James relation with conventional clarification, and repeated testimony.",
+      "source_reference": "Luke 24:10",
+      "source_verse_sha256": "0c94b28686cdb9da4d533caf0885bf8eb3aff3e6e0799667d0df2a2aa74d9a69",
+      "before": "It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told these things to the apostles.",
+      "after": "The women were Mary Magdalene, Joanna, Mary the mother of James, and the others with them. They kept telling these things to the apostles,",
+      "tsw_comparator": "Now it was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told these things to the apostles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:11",
+      "delta": "F3",
+      "rationale": "Retains dismissive judgment and gendered disbelief.",
+      "source_reference": "Luke 24:11",
+      "source_verse_sha256": "2dd9e4c5a66e164c2fcb7b16918cc312c81b3e95dbe750d7f3ec652cc366c873",
+      "before": "But these words seemed like nonsense to them, and they did not trust the women.",
+      "after": "but their words seemed like nonsense to the apostles, and they did not believe the women.",
+      "tsw_comparator": "But these words seemed to them like nonsense, and they did not trust them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:12",
+      "delta": "F3",
+      "rationale": "Keeps entire source-bracketed Peter episode visibly distinct and all actions.",
+      "source_reference": "Luke 24:12",
+      "source_verse_sha256": "9f2e61882422709d813298d731acfc45ec64a000fd0b37cea186c27a455d160d",
+      "before": "Peter got up and ran to the tomb. Stooping down, he saw the linen cloths by themselves. Then he went away, amazed at what had happened.",
+      "after": "[But Peter got up and ran to the tomb. Stooping down, he saw only the linen cloths. Then he went away, wondering to himself what had happened.]",
+      "tsw_comparator": "But Peter rose and ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; then he went home, amazed at what had happened.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.690909,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:13",
+      "delta": "F3",
+      "rationale": "Preserves exact number, day, destination, ancient distance, and Jerusalem.",
+      "source_reference": "Luke 24:13",
+      "source_verse_sha256": "7fb3ebde88d225678e92b6a5dc2459d786491a755e57e9468f44253c89601a0f",
+      "before": "That same day, two of them were going to a village named Emmaus, about sixty stadia from Jerusalem.",
+      "after": "Now that same day, two of them were walking to a village named Emmaus, about sixty stadia from Jerusalem.",
+      "tsw_comparator": "Now on that same day two of them were going to a village named Emmaus, about seven miles from Jerusalem,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:16",
+      "delta": "F3",
+      "rationale": "Keeps passive restraint without naming an agent.",
+      "source_reference": "Luke 24:16",
+      "source_verse_sha256": "18a5e84b3968e89648af94068d3100bac46d1481e1f41a226e4be003009bb483",
+      "before": "But their eyes were kept from recognizing him.",
+      "after": "but their eyes were kept from recognizing him.",
+      "tsw_comparator": "but their eyes were kept from recognizing him.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:18",
+      "delta": "F3",
+      "rationale": "Preserves name, outsider assumption, Jerusalem, and recent events.",
+      "source_reference": "Luke 24:18",
+      "source_verse_sha256": "262d70f798c59f49f53e58858e4912245a780142397c0b305b8d1b60e49dc02f",
+      "before": "One of them, named Cleopas, answered, “Are you the only visitor to Jerusalem who does not know the things that have happened there in these days?”",
+      "after": "One of them, named Cleopas, answered, “Are you the only visitor staying in Jerusalem who does not know the things that have happened there in these days?”",
+      "tsw_comparator": "Then one of them, whose name was Cleopas, answered him, “Are you the only stranger in Jerusalem who does not know the things that have happened there in these days?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:19",
+      "delta": "F3",
+      "rationale": "Keeps source-form title, prophetic identity, deed-word power, and witnesses.",
+      "source_reference": "Luke 24:19",
+      "source_verse_sha256": "0cbf7b6aa7a2ac76cd9798d683bc0f3906ac8ba5050e071d419cd7d8ec9026c8",
+      "before": "He asked, “What things?” They said, “The things concerning Jesus of Nazareth. He was a prophet powerful in deed and word before God and all the people.",
+      "after": "He asked them, “What things?” They replied, “The things about Jesus the Nazarene. He was a man who became a prophet, powerful in deed and word before God and all the people,",
+      "tsw_comparator": "He said to them, “What things?” And they said to him, “The things concerning Jesus of Nazareth, who was a prophet mighty in deed and word before God and all the people,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:20",
+      "delta": "F3",
+      "rationale": "Preserves local leadership responsibility, legal sentence, and execution.",
+      "source_reference": "Luke 24:20",
+      "source_verse_sha256": "fada122e8c45cdd8e8d187b8fe0e8310f7576fd740e3e665b9fa50acd1f7d000",
+      "before": "Our chief priests and rulers handed him over to be condemned to death and crucified him.",
+      "after": "and our chief priests and rulers handed him over to be condemned to death and crucified him.",
+      "tsw_comparator": "and how our chief priests and leaders handed him over to be condemned to death and crucified him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:21",
+      "delta": "F3",
+      "rationale": "Keeps disappointed hope, Israel’s redemption, and exact time.",
+      "source_reference": "Luke 24:21",
+      "source_verse_sha256": "d00059c7b21580bf5b6e15592a08bc9b2ef95af8cfc804dd2256c9da1db6e008",
+      "before": "But we had hoped that he was the one who was going to redeem Israel. Besides all this, it is now the third day since these things happened.",
+      "after": "But we had hoped that he was the one about to redeem Israel. Besides all this, today is the third day since these things happened.",
+      "tsw_comparator": "But we had hoped that he was the one to redeem Israel. Yes, and besides all this, it is now the third day since these things took place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830189,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:22",
+      "delta": "F3",
+      "rationale": "Preserves women as insiders, their effect, tomb, and timing.",
+      "source_reference": "Luke 24:22",
+      "source_verse_sha256": "1e4566175f30fa2e40144479467b73d9bdb6467c10f59727b613a5e330abd134",
+      "before": "Also, some women from our group amazed us. They went to the tomb early this morning",
+      "after": "Moreover, some women from our group astonished us. They were at the tomb early this morning,",
+      "tsw_comparator": "Moreover, some women of our group amazed us. They were at the tomb early this morning,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:23",
+      "delta": "F3",
+      "rationale": "Keeps absent body, reported vision, angels, and life claim.",
+      "source_reference": "Luke 24:23",
+      "source_verse_sha256": "90cd6e7d5962698bcfb1667c36c2033c2aeaa8688fe4df3ad118ac2a5cb6b50c",
+      "before": "and did not find his body. They came back saying they had even seen a vision of angels who said that he is alive.",
+      "after": "and when they did not find his body, they came saying they had even seen a vision of angels, who said he was alive.",
+      "tsw_comparator": "and when they did not find his body there, they came back saying that they had even seen a vision of angels who said that he is alive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.884615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:24",
+      "delta": "F3",
+      "rationale": "Preserves confirming visit, women’s reliability, and missing Jesus.",
+      "source_reference": "Luke 24:24",
+      "source_verse_sha256": "8682c33d01cbc3b926690056219791bdacb1e7dfc71312e27a71e1c9e654aaa9",
+      "before": "Some of those with us went to the tomb and found it just as the women had said, but they did not see him.”",
+      "after": "Some of those with us went to the tomb and found it just as the women had said, but they did not see him.”",
+      "tsw_comparator": "Some of those who were with us went to the tomb and found it just as the women had said; but him they did not see.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.92,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:25",
+      "delta": "F3",
+      "rationale": "Keeps rebuke, heart, belief, and all prophetic testimony.",
+      "source_reference": "Luke 24:25",
+      "source_verse_sha256": "5e1ae6458475174fa17a09d2387fa8b60588ab547e0eb5be336e0f7a62e1b08c",
+      "before": "Jesus said to them, “How foolish you are, and how slow in heart to trust everything the prophets spoke!",
+      "after": "Then Jesus said to them, “How foolish you are, and how slow in heart to believe everything the prophets spoke!",
+      "tsw_comparator": "Then he said to them, “O foolish ones, and slow of heart to trust all that the prophets have spoken!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.55,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:26",
+      "delta": "F3",
+      "rationale": "Preserves necessity, suffering, messianic identity, and glory.",
+      "source_reference": "Luke 24:26",
+      "source_verse_sha256": "4c590faf165db46d49947305061cdbdb98a62d471bf1bd19a32208cf014c17a9",
+      "before": "Was it not necessary for the Christ to suffer these things and enter his glory?”",
+      "after": "Was it not necessary for the Messiah to suffer these things and enter his glory?”",
+      "tsw_comparator": "Was it not necessary that the Messiah should suffer these things and then enter into his glory?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:27",
+      "delta": "F3",
+      "rationale": "Keeps canonical sweep and Jesus-centered interpretation.",
+      "source_reference": "Luke 24:27",
+      "source_verse_sha256": "55f52fbb28bf6a53a3d0a8bcaa44f74f665ad21049d1044d52980e9888a9ddff",
+      "before": "Beginning with Moses and all the Prophets, he interpreted to them the things about himself in all the Scriptures.",
+      "after": "Beginning with Moses and all the Prophets, he interpreted for them the things about himself in all the Scriptures.",
+      "tsw_comparator": "And beginning with Moses and all the prophets, he interpreted to them the things about himself in all the scriptures.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:29",
+      "delta": "F3",
+      "rationale": "Keeps insistent hospitality, late hour, and accepted lodging.",
+      "source_reference": "Luke 24:29",
+      "source_verse_sha256": "ca553f0f7a54a43e55216c2f679b3d7a1aa6c4a7aa353a208f419cf5c5132fac",
+      "before": "But they urged him strongly, “Stay with us, because it is almost evening and the day is nearly over.” So he went in to stay with them.",
+      "after": "But they strongly urged him, “Stay with us, because it is nearly evening and the day is almost over.” So he went in to stay with them.",
+      "tsw_comparator": "But they urged him strongly, saying, “Stay with us, because it is toward evening and the day is now nearly over.” So he went in to stay with them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:30",
+      "delta": "F3",
+      "rationale": "Preserves dining posture and fourfold bread action.",
+      "source_reference": "Luke 24:30",
+      "source_verse_sha256": "f5aebada08f27250129f3033584323e5d28e5e6ddaacde6240aab752d05e9183",
+      "before": "When he reclined at the table with them, he took the bread, blessed it, broke it, and gave it to them.",
+      "after": "When he reclined at the table with them, he took the bread, blessed it, broke it, and began giving it to them.",
+      "tsw_comparator": "When he was at the table with them, he took bread, blessed it, broke it, and gave it to them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:31",
+      "delta": "F3",
+      "rationale": "Keeps passive opening, recognition, and disappearance.",
+      "source_reference": "Luke 24:31",
+      "source_verse_sha256": "734da96fed9a5175d6bc8fea813550e0cd960ef5158e8592e9641a881dcbaf66",
+      "before": "Their eyes were opened, and they recognized him; then he vanished from their sight.",
+      "after": "Then their eyes were opened and they recognized him, but he vanished from their sight.",
+      "tsw_comparator": "Then their eyes were opened, and they recognized him; and he vanished from their sight.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:32",
+      "delta": "F3",
+      "rationale": "Preserves shared heart image, journey, speech, and scriptural opening.",
+      "source_reference": "Luke 24:32",
+      "source_verse_sha256": "8423e083b4af7373223560f5a1e571a6157d2b01d07e1b8ed823afb44e63016b",
+      "before": "They said to each other, “Were not our hearts burning within us while he was speaking to us on the road, while he was opening the Scriptures to us?”",
+      "after": "They said to each other, “Were not our hearts burning within us while he spoke to us on the road and opened the Scriptures to us?”",
+      "tsw_comparator": "They said to one another, “Were not our hearts burning within us while he was talking to us on the road, while he was opening the scriptures to us?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.763636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:34",
+      "delta": "F3",
+      "rationale": "Preserves communal confession, resurrection, and named appearance.",
+      "source_reference": "Luke 24:34",
+      "source_verse_sha256": "06b59dd8f220e52e75d975a28a5b2cc28e7e0982d1f1ab9cc37d52ac9b001dec",
+      "before": "saying, “The Lord really has been raised and has appeared to Simon!”",
+      "after": "who were saying, “The Lord really has risen and has appeared to Simon!”",
+      "tsw_comparator": "saying, “The Lord has been raised indeed, and has appeared to Simon!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:35",
+      "delta": "F3",
+      "rationale": "Keeps their testimony, road, recognition, and bread-breaking.",
+      "source_reference": "Luke 24:35",
+      "source_verse_sha256": "4e74fc7d877947d21041ecd8745897186ef7a3cd0e4c9e77237bbac19f60a64c",
+      "before": "Then the two described what had happened on the road and how Jesus had been made known to them in the breaking of the bread.",
+      "after": "Then the two told what had happened on the road and how Jesus became known to them in the breaking of the bread.",
+      "tsw_comparator": "Then they told what had happened on the road, and how he had been made known to them in the breaking of the bread.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:37",
+      "delta": "F3",
+      "rationale": "Keeps both fear terms and mistaken perception.",
+      "source_reference": "Luke 24:37",
+      "source_verse_sha256": "3f4c1055f343d7fd9567c1a3123f978c5111e0e36b1d0b9a78cf22f085762028",
+      "before": "Startled and terrified, they thought they were seeing a spirit.",
+      "after": "Startled and terrified, they thought they were seeing a spirit.",
+      "tsw_comparator": "But they were startled and terrified, and thought that they were seeing a spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:39",
+      "delta": "F3",
+      "rationale": "Keeps bodily evidence, invitation to touch, flesh, and bones.",
+      "source_reference": "Luke 24:39",
+      "source_verse_sha256": "44c93e1bb9ea1890272f472dfd291d1edbd055c65ab37c048d13a6798083ca07",
+      "before": "Look at my hands and my feet. It is I myself. Touch me and see, because a spirit does not have flesh and bones as you see that I have.”",
+      "after": "Look at my hands and my feet—it is I myself. Touch me and see, because a spirit does not have flesh and bones as you see that I have.”",
+      "tsw_comparator": "Look at my hands and my feet; see that it is I myself. Touch me and see; for a spirit does not have flesh and bones as you see that I have.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.935484,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:40",
+      "delta": "F3",
+      "rationale": "Preserves source-bracketed demonstrative action distinctly.",
+      "source_reference": "Luke 24:40",
+      "source_verse_sha256": "3f0c7df1ae14e3d3a923f0afc716ffbfbd9a762c947740b534688e88fd78b044",
+      "before": "After saying this, he showed them his hands and feet.",
+      "after": "[After saying this, he showed them his hands and feet.]",
+      "tsw_comparator": "And when he had said this, he showed them his hands and his feet.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:41",
+      "delta": "F3",
+      "rationale": "Keeps paradoxical joyful disbelief and food request.",
+      "source_reference": "Luke 24:41",
+      "source_verse_sha256": "9433fc7c2b160cc2bb11f0ddcfac9b054b3a62924bc0aaaefbe6826c1c91f214",
+      "before": "While they still did not trust because of joy and were amazed, he asked them, “Do you have anything here to eat?”",
+      "after": "While they still could not believe because of joy and amazement, he asked them, “Do you have anything here to eat?”",
+      "tsw_comparator": "Yet for all their joy they still did not trust, and they were wondering; so he said to them, “Have you anything here to eat?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.478261,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:42",
+      "delta": "F3",
+      "rationale": "Preserves exact food and portion.",
+      "source_reference": "Luke 24:42",
+      "source_verse_sha256": "333fcb4b8584c7d9e471670f15d28a4229ceb41cd4cedfa3c1b8dbe9c9f78a0b",
+      "before": "They gave him a piece of broiled fish.",
+      "after": "They gave him a piece of broiled fish,",
+      "tsw_comparator": "They gave him a piece of broiled fish,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:43",
+      "delta": "F3",
+      "rationale": "Keeps public embodied eating.",
+      "source_reference": "Luke 24:43",
+      "source_verse_sha256": "c17bd1ee62372ad87242d1d6696d3b17bff72fd2ef23c0b92afc0b699d0553e7",
+      "before": "He took it and ate it in front of them.",
+      "after": "and he took it and ate it in front of them.",
+      "tsw_comparator": "and he took it and ate in their presence.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:44",
+      "delta": "F3",
+      "rationale": "Preserves remembered speech, threefold Scriptures, necessity, and fulfillment.",
+      "source_reference": "Luke 24:44",
+      "source_verse_sha256": "1d0a600122af0397a96888002fe64a2803c226441469be96b0eab82fbbab9921",
+      "before": "Jesus said to them, “These are my words that I spoke to you while I was still with you: everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”",
+      "after": "Then he told them, “These are the words I spoke to you while I was still with you: everything written about me in the Law of Moses, the Prophets, and the Psalms must be fulfilled.”",
+      "tsw_comparator": "Then he said to them, “These are my words that I spoke to you while I was still with you—that everything written about me in the law of Moses, the prophets, and the psalms must be fulfilled.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90411,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:45",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ action, minds, understanding, and Scriptures.",
+      "source_reference": "Luke 24:45",
+      "source_verse_sha256": "15b6b17239e3e0bfb186584b6123e0e6da55497de6bdbf8ad134babfe6e8e513",
+      "before": "Then he opened their minds to understand the Scriptures.",
+      "after": "Then he opened their minds to understand the Scriptures.",
+      "tsw_comparator": "Then he opened their minds to understand the scriptures,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:46",
+      "delta": "F3",
+      "rationale": "Preserves scriptural claim, suffering, resurrection, and exact day.",
+      "source_reference": "Luke 24:46",
+      "source_verse_sha256": "22c170fa4e50c6af5f21d452576683cb8ff2ada46bdb79c6972530526875245d",
+      "before": "He said to them, “Thus it is written: the Christ must suffer and rise from the dead on the third day,",
+      "after": "He told them, “This is what is written: the Messiah must suffer and rise from the dead on the third day,",
+      "tsw_comparator": "and he said to them, “Thus it is written, that the Messiah is to suffer and to rise from the dead on the third day,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:47",
+      "delta": "F3",
+      "rationale": "Keeps repentance, forgiveness, proclamation, name, universal scope, and starting city.",
+      "source_reference": "Luke 24:47",
+      "source_verse_sha256": "f1aecb356b5fae3158e428dcfd93c7357b61ae84e765c93b32e7fbc4852b5a43",
+      "before": "and repentance and forgiveness of sins must be proclaimed in his name to all nations, beginning from Jerusalem.",
+      "after": "and repentance for the forgiveness of sins must be proclaimed in his name to all nations, beginning from Jerusalem.",
+      "tsw_comparator": "and that repentance and forgiveness of sins is to be proclaimed in his name to all nations, beginning from Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:48",
+      "delta": "F3",
+      "rationale": "Preserves direct commissioning identity.",
+      "source_reference": "Luke 24:48",
+      "source_verse_sha256": "3db4e89f6e8df6ce5f7fab048ab4e93e6f7777fb36b3c8d7883c4a3e060ca04d",
+      "before": "You are witnesses of these things.",
+      "after": "You are witnesses of these things.",
+      "tsw_comparator": "You are witnesses of these things.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:49",
+      "delta": "F3",
+      "rationale": "Keeps promise, Father, city waiting, clothing image, power, and source.",
+      "source_reference": "Luke 24:49",
+      "source_verse_sha256": "137ecc7a10861cda68fb643f78de318ee0d5ddf33ebce5dfbc9a9debc72d17a1",
+      "before": "And look—I am sending my Father’s promise upon you. But stay in the city until you are clothed with power from on high.”",
+      "after": "And look, I am sending my Father’s promise upon you. But stay in the city until you are clothed with power from on high.”",
+      "tsw_comparator": "And look—I am sending upon you what my Father promised; so stay here in the city until you have been clothed with power from on high.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:50",
+      "delta": "F3",
+      "rationale": "Preserves movement, place, gesture, and blessing.",
+      "source_reference": "Luke 24:50",
+      "source_verse_sha256": "2c65f74b4df4134b706e1ac35ee68f426514ca0cd87f5d6ee8f00b70dfe715fd",
+      "before": "Jesus led them out as far as Bethany. He lifted up his hands and blessed them.",
+      "after": "Then Jesus led them out as far as Bethany, lifted up his hands, and blessed them.",
+      "tsw_comparator": "Then he led them out as far as Bethany, and lifting up his hands, he blessed them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:51",
+      "delta": "F3",
+      "rationale": "Keeps departure and source-bracketed ascension wording distinct.",
+      "source_reference": "Luke 24:51",
+      "source_verse_sha256": "d1457f3ce2ecff941259c13ae3f06b06a5e2cd98a2ec51c11a111b2c459e9e7f",
+      "before": "While he was blessing them, he withdrew from them and was carried up into heaven.",
+      "after": "While he was blessing them, he left them [and was carried up into heaven].",
+      "tsw_comparator": "While he was blessing them, he withdrew from them and was carried up into heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:52",
+      "delta": "F3",
+      "rationale": "Preserves source-bracketed worship and unbracketed joyful return.",
+      "source_reference": "Luke 24:52",
+      "source_verse_sha256": "16ca2d43f352d2d3202ca6949417f31b0d668947df91ab335c3365dac6e7d66c",
+      "before": "They bowed before him and returned to Jerusalem with great joy.",
+      "after": "[After worshiping him,] they returned to Jerusalem with great joy",
+      "tsw_comparator": "And they worshiped him, and returned to Jerusalem with great joy,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 24:53",
+      "delta": "F3",
+      "rationale": "Keeps sustained temple presence and praise.",
+      "source_reference": "Luke 24:53",
+      "source_verse_sha256": "c1168563f33641773b2cab5348f74d660330e57617dbb277e04a527b002ad482",
+      "before": "They were continually in the temple blessing God.",
+      "after": "and were continually in the temple courts blessing God.",
+      "tsw_comparator": "and they were continually in the temple blessing God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_24.md",
-    "blob_sha": "5f6f2bb6b70bd6ba77baca82c1951fae9cc16ea1"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

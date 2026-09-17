@@ -2,287 +2,394 @@
   "book": "Luke",
   "chapter": 21,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 38,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_21_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 21:1",
-        "source_chapter": 21,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "4ca5d9f8da8207dfea8dde93587141585fd7e419d4ae98b92843754aaec96b4c"
-      },
-      "2": {
-        "source_ref": "Luke 21:2",
-        "source_chapter": 21,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "fdc5a06975ff06dd003ed948dd2e92e709268a19427d36fb84c3e2c073bd2bff"
-      },
-      "3": {
-        "source_ref": "Luke 21:3",
-        "source_chapter": 21,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "a2a09a28c7f8bad7e9e72ad3b3f280fd00d6a2d9ab18c70275676244dd27e1ba"
-      },
-      "4": {
-        "source_ref": "Luke 21:4",
-        "source_chapter": 21,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "c2b8e7f3af8a373d19f2a9785172abc12ae2ba7287caa035120bd0c44f82af74"
-      },
-      "5": {
-        "source_ref": "Luke 21:5",
-        "source_chapter": 21,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "4dcd2c57a9e22912c479bc0edf9d944999f9fb9180a816fe1ccdcd6b01fde099"
-      },
-      "6": {
-        "source_ref": "Luke 21:6",
-        "source_chapter": 21,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "89d2ca7d987d1396dbc4cf9ce1a3d025f34cc4fc6a927d28c7a84e4352655447"
-      },
-      "7": {
-        "source_ref": "Luke 21:7",
-        "source_chapter": 21,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "06ec72581eee84cac4b375297ab200c7966d352996ae5bcf0e24d847ca538597"
-      },
-      "8": {
-        "source_ref": "Luke 21:8",
-        "source_chapter": 21,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "1d85499f88f285698a8cb6b9f1b7af206f857c8e974ac4838804b53f1bf43fa0"
-      },
-      "9": {
-        "source_ref": "Luke 21:9",
-        "source_chapter": 21,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "01ab0f973915c065be6483273768d53500a4d0e6bce43755226e5193ca1bbfe6"
-      },
-      "10": {
-        "source_ref": "Luke 21:10",
-        "source_chapter": 21,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "cab22542dbb2f52e9b20309f8e0c219592765faa9c4189d66f1f418b80857c1a"
-      },
-      "11": {
-        "source_ref": "Luke 21:11",
-        "source_chapter": 21,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "56c1ab0a74fb7a9cc968b32a67adacbe7562aeded6d35016fa552dd0c5b14d4f"
-      },
-      "12": {
-        "source_ref": "Luke 21:12",
-        "source_chapter": 21,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "1d6ca1eab13b9933b4274a7170ec57064abe8c1680fd20970673390ddf0b83ee"
-      },
-      "13": {
-        "source_ref": "Luke 21:13",
-        "source_chapter": 21,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "4efda953a2ca88aa9f4c55ce5d7d8a9aca0528e350eefa818ca4105bd362219d"
-      },
-      "14": {
-        "source_ref": "Luke 21:14",
-        "source_chapter": 21,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "150b1fb41d415d3fa37a68c704cae886fd8c44094c6e6e4121cca32ea6b65e3e"
-      },
-      "15": {
-        "source_ref": "Luke 21:15",
-        "source_chapter": 21,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "e3bfcbbaa10be17fc12228a43acf01727b8ae1503ce9ceae7c6e9e70831008ce"
-      },
-      "16": {
-        "source_ref": "Luke 21:16",
-        "source_chapter": 21,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "16b9b90b36cedaa838fea80e001f94dcd166f2a96cfeb49d9f39250ee6c94924"
-      },
-      "17": {
-        "source_ref": "Luke 21:17",
-        "source_chapter": 21,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "034dd750bc6effc4a4b45b363d81bc4906ec58feb64d536f1ac8eedb14fbc8c9"
-      },
-      "18": {
-        "source_ref": "Luke 21:18",
-        "source_chapter": 21,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "ba47a1a1330fc254dcd98d9b4382644c68732f7be69cc2eef797a7be28c4ff40"
-      },
-      "19": {
-        "source_ref": "Luke 21:19",
-        "source_chapter": 21,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "4a54425b743e73e72baae6e022e5a0070c03b491c131118df0ee87e9f9c9ac47"
-      },
-      "20": {
-        "source_ref": "Luke 21:20",
-        "source_chapter": 21,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "db54f91b763a92c76861dada06d35f77ab7d292edf2a5fcd55d9b7717bee8887"
-      },
-      "21": {
-        "source_ref": "Luke 21:21",
-        "source_chapter": 21,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "538579ed670e7d132040007f562e8dd8ef593411b046b5b26d6621f6199dd249"
-      },
-      "22": {
-        "source_ref": "Luke 21:22",
-        "source_chapter": 21,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "3a0a1eb7d0db02e12d2bff14b753d1e5c68ff9ec3ad4b1470e97ae077de3cfd1"
-      },
-      "23": {
-        "source_ref": "Luke 21:23",
-        "source_chapter": 21,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "3ab794ed58051075be38da474a0db2d49812490bfe68000bcfd0748c16356619"
-      },
-      "24": {
-        "source_ref": "Luke 21:24",
-        "source_chapter": 21,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "e16ecc3b9c703fa1889bc64144f26c2eb08822c5edaad70968d77283a37124ae"
-      },
-      "25": {
-        "source_ref": "Luke 21:25",
-        "source_chapter": 21,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "092040e79f8e778e4ba50ab2db993c03ef10e1b86984cb2f97a80370aefaa990"
-      },
-      "26": {
-        "source_ref": "Luke 21:26",
-        "source_chapter": 21,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "2b8395bc45128ff7bffbacdd6c9116b59eaa42ea355278330a22bac024b67d49"
-      },
-      "27": {
-        "source_ref": "Luke 21:27",
-        "source_chapter": 21,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "e456b4de38b0c31fb739fc47b5d363c5f294299b626663f1a00e573abf98d901"
-      },
-      "28": {
-        "source_ref": "Luke 21:28",
-        "source_chapter": 21,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "8cc5153f5d824491bda93755a58fb6c011025b4f548e5b4f5807a6b8c683467d"
-      },
-      "29": {
-        "source_ref": "Luke 21:29",
-        "source_chapter": 21,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "f653b40f1a774924fc347ce19a1104c624975a69265f06cd0257fa590f8d91e7"
-      },
-      "30": {
-        "source_ref": "Luke 21:30",
-        "source_chapter": 21,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "aecb3a640e14911ad1e8dfb73f5f923ece7bcc4faec98a02047d76f2f71318c0"
-      },
-      "31": {
-        "source_ref": "Luke 21:31",
-        "source_chapter": 21,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "33f046e684bcd059e4f2eedff9099000ee9ba6bd677978b5f2a7cd9251e35284"
-      },
-      "32": {
-        "source_ref": "Luke 21:32",
-        "source_chapter": 21,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "6209ec63a51e9adf0002c8ffec1df9d5f048810a2df866ab05edc54de1b19596"
-      },
-      "33": {
-        "source_ref": "Luke 21:33",
-        "source_chapter": 21,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "f8b24523d3255f447dcc9c88fabc579f89a0675672b488e65be2462ece34d2d4"
-      },
-      "34": {
-        "source_ref": "Luke 21:34",
-        "source_chapter": 21,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "e3afc491866764e65573c76d1a556377f8bca47e84eee33b59a96b4bfaf2091f"
-      },
-      "35": {
-        "source_ref": "Luke 21:35",
-        "source_chapter": 21,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "2bfcc575e3c0e052d95b9bd1664975cb264d29f4ab61692afbad9f9d9fea55a4"
-      },
-      "36": {
-        "source_ref": "Luke 21:36",
-        "source_chapter": 21,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "c21063131411256a4438976cfe330502636edce004a31f18a1713a76c0f99d3f"
-      },
-      "37": {
-        "source_ref": "Luke 21:37",
-        "source_chapter": 21,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "407e98756a1456fd721606d545a6f59e213de6f54a89febf584d2d5f67c15b8e"
-      },
-      "38": {
-        "source_ref": "Luke 21:38",
-        "source_chapter": 21,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "41ed693dba86b121ba5e9d24f66ae8b139abf7fd1a4008f94496ac29cec374e7"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 21,
+    "verse_count": 38,
+    "path": "translations/fluent/NT/luke/Luke_21.md",
+    "before_sha256": "6ad3a2cf8c4d52bbb488c2cae44d585b2d01af8dacc582d9f71abb51ec129604",
+    "after_sha256": "8fc164a58dddb3d333bbb3db53b1578c8d8ad9a9b91beb1cf4657d7638994ffc",
+    "tsw_comparator_path": "books/NT/luke/Luke_21.md",
+    "tsw_comparator_sha256": "9ef5b44cd097ce0c1c87d3f64cc5dba3598980416557ed5ce62222bfc7bf8d2e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 21:2",
+      "delta": "F3",
+      "rationale": "Keeps widow, poverty, and exact amount.",
+      "source_reference": "Luke 21:2",
+      "source_verse_sha256": "c5b246051513ffc64a7882aa1ee47024b1c8831f91be29ecbd3c201d47fa709d",
+      "before": "He also saw a poor widow put in two small coins.",
+      "after": "He also saw a poor widow put in two small coins.",
+      "tsw_comparator": "and he saw also a certain poor widow putting in two small coins.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:4",
+      "delta": "F3",
+      "rationale": "Preserves abundance-poverty contrast and total livelihood, without praising exploitation beyond the text.",
+      "source_reference": "Luke 21:4",
+      "source_verse_sha256": "6b30e3914a997306c3755d22705931f1fd6891162ab50a576475dc5dfc489c03",
+      "before": "For all of them gave offerings from their abundance, but she, from her poverty, put in all the livelihood she had.”",
+      "after": "For all of them gave gifts from their abundance, but she, out of her poverty, put in all she had to live on.”",
+      "tsw_comparator": "for all these out of their abundance have put in offerings, but she out of her poverty put in all the life she had.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.680851,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:6",
+      "delta": "F3",
+      "rationale": "Retains visual referent, future days, and total dismantling.",
+      "source_reference": "Luke 21:6",
+      "source_verse_sha256": "b483d576b86d91ea8e9b7819d3056f79fca7ed904ae51b61053a16b8d35cce6f",
+      "before": "“As for these things you see, days will come when not one stone will be left on another; every one will be thrown down.”",
+      "after": "“As for these things you see, days are coming when not one stone will be left on another; every one will be torn down.”",
+      "tsw_comparator": "“These things that you see—days will come in which not one stone will be left upon another that will not be thrown down.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:8",
+      "delta": "F3",
+      "rationale": "Preserves warning, false identity and timing claims, and command.",
+      "source_reference": "Luke 21:8",
+      "source_verse_sha256": "0a678c554f4d06db29a018a048d0e72efdaee6c89da54fd8e26a1d03ed4c9a8d",
+      "before": "He said, “See that you are not led astray. Many will come in my name saying, ‘I am he,’ and, ‘The time has drawn near.’ Do not go after them.",
+      "after": "He replied, “Watch out that you are not led astray. Many will come in my name, saying, ‘I am he,’ and ‘The time has come near.’ Do not follow them.",
+      "tsw_comparator": "And he said, “See that you are not led astray; for many will come in my name, saying, ‘I am he,’ and, ‘The time has drawn near.’ Do not go after them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.806452,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:9",
+      "delta": "F3",
+      "rationale": "Keeps wars, upheavals, divine necessity, and delayed end.",
+      "source_reference": "Luke 21:9",
+      "source_verse_sha256": "db072368a5694f30ddded56a0e3abc9c6fd7c3aa21188bb3d5526df418bf547f",
+      "before": "When you hear of wars and uprisings, do not be terrified. These things must happen first, but the end will not come immediately.”",
+      "after": "When you hear of wars and rebellions, do not be terrified. These things must happen first, but the end will not come immediately.”",
+      "tsw_comparator": "And when you hear of wars and disturbances, do not be terrified; for these things must happen first, but the end is not immediately.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851064,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:11",
+      "delta": "F3",
+      "rationale": "Keeps disasters, distributed locations, terror, and heavenly signs.",
+      "source_reference": "Luke 21:11",
+      "source_verse_sha256": "30ef95541bf419a47f17d91c9bc378cc5eb35892c49b145454049152497db3b0",
+      "before": "There will be great earthquakes and, in various places, famines and plagues. There will be terrifying events and great signs from heaven.",
+      "after": "There will be great earthquakes and, in various places, famines and plagues. There will also be terrifying events and great signs from heaven.",
+      "tsw_comparator": "there will be great earthquakes, and in various places famines and pestilences; and there will be terrors and great signs from heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:12",
+      "delta": "F3",
+      "rationale": "Preserves priority, bodily seizure, religious and state custody, and cause.",
+      "source_reference": "Luke 21:12",
+      "source_verse_sha256": "07a023d27d0ca75d1c5695d03443669038a1e7df65c573943372a19a421e3550",
+      "before": "“But before all these things, they will lay hands on you and persecute you, handing you over to synagogues and prisons and bringing you before kings and governors because of my name.",
+      "after": "But before all these things, they will seize and persecute you, handing you over to synagogues and prisons and bringing you before kings and governors because of my name.",
+      "tsw_comparator": "But before all these things they will lay their hands on you and persecute you, delivering you up to synagogues and prisons, being brought before kings and governors for my name’s sake.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655738,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:13",
+      "delta": "F3",
+      "rationale": "Keeps persecution’s witness function.",
+      "source_reference": "Luke 21:13",
+      "source_verse_sha256": "8b2e379bdadd9ba24b11f9319083a47365a21c9cbd8aa424945dc828084644a4",
+      "before": "This will become an opportunity for your testimony.",
+      "after": "This will result in an opportunity for you to testify.",
+      "tsw_comparator": "It will turn out for you as a testimony.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.315789,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:15",
+      "delta": "F3",
+      "rationale": "Keeps Jesus as giver, speech, wisdom, and opponents’ double inability.",
+      "source_reference": "Luke 21:15",
+      "source_verse_sha256": "daa65e0a31d5d5a86f36417d29b1ef4436751a88d9fc43853ea2ddeabcf827f3",
+      "before": "because I will give you words and wisdom that none of your opponents will be able to resist or contradict.",
+      "after": "because I will give you words and wisdom that none of your opponents will be able to resist or contradict.",
+      "tsw_comparator": "for I will give you a mouth and wisdom which none of your adversaries will be able to resist or contradict.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:16",
+      "delta": "F3",
+      "rationale": "Names all relationships and real lethal harm.",
+      "source_reference": "Luke 21:16",
+      "source_verse_sha256": "0a12b4ce45ea3ec4515aab3ee8f1f0c833f920f94366211bf778eb07d5be4c8e",
+      "before": "You will be handed over even by parents, brothers, relatives, and friends, and they will put some of you to death.",
+      "after": "You will be betrayed even by parents, brothers, relatives, and friends, and they will put some of you to death.",
+      "tsw_comparator": "But you will be delivered up even by parents and brothers and relatives and friends, and they will put some of you to death.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:18",
+      "delta": "F3",
+      "rationale": "Retains apparent tension with death rather than resolving it.",
+      "source_reference": "Luke 21:18",
+      "source_verse_sha256": "722546c98b53e4c9616de7b8c4919bedbd906e4262983d01a7a7935260a90711",
+      "before": "Yet not a hair of your head will perish.",
+      "after": "Yet not a hair of your head will perish.",
+      "tsw_comparator": "But not a hair of your head will perish.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:19",
+      "delta": "F3",
+      "rationale": "Keeps endurance and difficult acquisition-of-life wording.",
+      "source_reference": "Luke 21:19",
+      "source_verse_sha256": "ce0ad318f6931c46dd5261b3020b5092ad27ab678cfc8539786b329a1daa8ed8",
+      "before": "By your endurance you will gain your lives.",
+      "after": "By your endurance you will gain your lives.",
+      "tsw_comparator": "By your endurance you will gain your lives.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:20",
+      "delta": "F3",
+      "rationale": "Preserves visible military encirclement, city, and nearness.",
+      "source_reference": "Luke 21:20",
+      "source_verse_sha256": "472380e8d712c81afaf48e6d5a0423f0dd922c8b5413ce67c32210d59ba8da19",
+      "before": "“When you see Jerusalem surrounded by armies, then know that its desolation has drawn near.",
+      "after": "“When you see Jerusalem surrounded by armies, then know that its desolation has come near.",
+      "tsw_comparator": "“But when you see Jerusalem surrounded by armies, then know that its desolation has come near.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.967742,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:21",
+      "delta": "F3",
+      "rationale": "Keeps three groups and urgent movements.",
+      "source_reference": "Luke 21:21",
+      "source_verse_sha256": "56ac1964d5c0549918e3b78b3d4c8e6784e451a7c7b1d7ac9c17e51b525e4745",
+      "before": "Then those in Judea must flee to the mountains, those inside the city must leave, and those in the countryside must not enter it,",
+      "after": "Then those in Judea must flee to the mountains, those inside Jerusalem must leave, and those in the countryside must not enter it.",
+      "tsw_comparator": "Then those in Judea must flee to the mountains, and those in the midst of her must depart, and those in the countryside must not enter her,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.76,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:22",
+      "delta": "F3",
+      "rationale": "Retains vengeance, written testimony, and fulfillment.",
+      "source_reference": "Luke 21:22",
+      "source_verse_sha256": "bda5725844ffb85aa62537bda918209c5c946d8cf08aab095c4212e061496adb",
+      "before": "because these are days of vengeance, to fulfill everything that has been written.",
+      "after": "For these are days of vengeance, when everything written will be fulfilled.",
+      "tsw_comparator": "because these are days of vengeance, to fulfill all that has been written.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.48,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:23",
+      "delta": "F3",
+      "rationale": "Names gendered bodily vulnerability, infants, distress, land, and wrath.",
+      "source_reference": "Luke 21:23",
+      "source_verse_sha256": "a240ccef1ba3f0550e530163393e46887da20c233572ecd2b32cff276452549b",
+      "before": "Woe to those who are pregnant and nursing infants in those days! There will be great distress on the land and wrath against this people.",
+      "after": "How terrible it will be in those days for pregnant women and those nursing infants! For there will be great distress on the land and wrath against this people.",
+      "tsw_comparator": "Woe to those who are pregnant and to those nursing infants in those days! For there will be great distress upon the land and wrath against this people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.561404,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:24",
+      "delta": "F3",
+      "rationale": "Preserves killing, captivity, dispersion, trampling, and bounded Gentile times.",
+      "source_reference": "Luke 21:24",
+      "source_verse_sha256": "c7352e81105afa4b0ffa5a4f03ba36c27a7d28bdafa3ce880602c3a66a714179",
+      "before": "They will fall by the edge of the sword and be taken captive among all nations. Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.",
+      "after": "They will fall by the edge of the sword and be taken captive into all the nations. Jerusalem will be trampled by the nations until the times of the nations are fulfilled.",
+      "tsw_comparator": "And they will fall by the edge of the sword and be led captive among all nations, and Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.830769,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:25",
+      "delta": "F3",
+      "rationale": "Keeps cosmic bodies, national distress, and chaotic sea sounds.",
+      "source_reference": "Luke 21:25",
+      "source_verse_sha256": "c761a27e4105db651289cb445c559737c19b4a554399ed6348848c50473cda89",
+      "before": "“There will be signs in sun, moon, and stars, and on earth distress among nations, confused by the roaring of the sea and waves.",
+      "after": "“There will be signs in the sun, moon, and stars, and on earth the nations will be in anguish, bewildered by the roaring and surging sea.",
+      "tsw_comparator": "“And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity at the roaring of the sea and the waves,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.618182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:26",
+      "delta": "F3",
+      "rationale": "Preserves bodily collapse, worldwide dread, and cosmic shaking.",
+      "source_reference": "Luke 21:26",
+      "source_verse_sha256": "e0b1eba06b02e08a494a5136f0d4b34c2c3f41140aa291fac8374a728443f124",
+      "before": "People will faint from fear and expectation of what is coming on the inhabited world, because the powers of the heavens will be shaken.",
+      "after": "People will faint from fear and expectation of what is coming on the inhabited world, because the powers of the heavens will be shaken.",
+      "tsw_comparator": "people fainting from fear and expectation of the things coming upon the inhabited world, for the powers of the heavens will be shaken.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:27",
+      "delta": "F3",
+      "rationale": "Keeps visible coming, cloud, power, and glory.",
+      "source_reference": "Luke 21:27",
+      "source_verse_sha256": "bbd76e59bc756c1512e1547f88760f1105862fc29c538c7d30204285880043a7",
+      "before": "Then they will see the Son of Man coming in a cloud with power and great glory.",
+      "after": "Then they will see the Son of Man coming in a cloud with power and great glory.",
+      "tsw_comparator": "And then they will see the Son of Man coming in a cloud with power and great glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.971429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:28",
+      "delta": "F3",
+      "rationale": "Retains bodily courage and nearing release.",
+      "source_reference": "Luke 21:28",
+      "source_verse_sha256": "ef3fbfc5f37796c20ec9d5e47aee6be8306c5d10990970d4a1d79a08b2ae724a",
+      "before": "When these things begin to happen, stand up and lift your heads, because your redemption is drawing near.”",
+      "after": "When these things begin to happen, stand up and lift your heads, because your redemption is drawing near.”",
+      "tsw_comparator": "But when these things begin to happen, stand up and lift up your heads, because your redemption is drawing near.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:32",
+      "delta": "F3",
+      "rationale": "Retains solemn assurance, generation, emphatic negation, and comprehensive events.",
+      "source_reference": "Luke 21:32",
+      "source_verse_sha256": "6834961ab097d2af631ce0cbc36e2c225ec276ce5b51cba6b9e6e09eeeda3ece",
+      "before": "Truly I tell you, this generation will certainly not pass away until all these things happen.",
+      "after": "Truly I tell you, this generation will certainly not pass away until all these things happen.",
+      "tsw_comparator": "Truly I say to you that this generation will certainly not pass away until all things have happened.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:33",
+      "delta": "F3",
+      "rationale": "Preserves cosmic contrast and emphatic durability.",
+      "source_reference": "Luke 21:33",
+      "source_verse_sha256": "5d0e0e591bb0d341a06aec0b65e0e30e6dd6355f09b7e8a655ed7ae2ca522a14",
+      "before": "Heaven and earth will pass away, but my words will certainly not pass away.",
+      "after": "Heaven and earth will pass away, but my words will certainly not pass away.",
+      "tsw_comparator": "Heaven and earth will pass away, but my words will certainly not pass away.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:34",
+      "delta": "F3",
+      "rationale": "Keeps self-watch, three burdens, heart image, and sudden day.",
+      "source_reference": "Luke 21:34",
+      "source_verse_sha256": "072243abb84daf36bd10a33d7bc40a78f60b738321dd2974e91aa6e159aaa286",
+      "before": "Watch yourselves so that your hearts are not weighed down with dissipation, drunkenness, and the cares of life, and that day does not come on you suddenly",
+      "after": "“Watch yourselves, or your hearts may be weighed down with dissipation, drunkenness, and the worries of daily life, and that day may come on you suddenly",
+      "tsw_comparator": "“But take heed to yourselves lest your hearts be weighed down with dissipation and drunkenness and cares of life, and that day come upon you suddenly like a trap;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.654545,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:35",
+      "delta": "F3",
+      "rationale": "Retains trap image and global scope.",
+      "source_reference": "Luke 21:35",
+      "source_verse_sha256": "722f7ca4158a408eaba98ddd3bc64e22b2041e12a4e5353712ab54f35741f9f5",
+      "before": "like a trap. For it will come on everyone living on the face of the whole earth.",
+      "after": "like a trap. For it will come upon everyone who lives on the face of the whole earth.",
+      "tsw_comparator": "for it will come upon all those dwelling on the face of all the earth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 21:36",
+      "delta": "F3",
+      "rationale": "Keeps continual vigilance, prayer, escape, and final standing.",
+      "source_reference": "Luke 21:36",
+      "source_verse_sha256": "dc6c099f26cab8e303c2a6e5e18fdb2291f37923b03f12a2f4782ec4505e33c8",
+      "before": "Stay alert at all times, praying that you may have strength to escape all these things that are about to happen and to stand before the Son of Man.”",
+      "after": "Stay alert at all times, praying that you may have strength to escape all these things that are about to happen and to stand before the Son of Man.”",
+      "tsw_comparator": "But be alert at all times, praying that you may have strength to escape all these things that are about to happen and to stand before the Son of Man.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.949153,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_21.md",
-    "blob_sha": "abae95129a798262a3dd3ea2f4125c37417075ec"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,350 +2,446 @@
   "book": "Luke",
   "chapter": 20,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 47,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_20_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 20:1",
-        "source_chapter": 20,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "61a12b90bf5d3fb3c5177aec8d6795e7bc7f746f5477535fcd02042c33f5328f"
-      },
-      "2": {
-        "source_ref": "Luke 20:2",
-        "source_chapter": 20,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "3da3755c288f76bbe389249ddc2cb81994828096224841bb7aa67ae692c09471"
-      },
-      "3": {
-        "source_ref": "Luke 20:3",
-        "source_chapter": 20,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "d2f3763a4f99c1cddf1643d0db6f7f5b78706d7e0b1ecc4ab2f0c321a7bb53bc"
-      },
-      "4": {
-        "source_ref": "Luke 20:4",
-        "source_chapter": 20,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "d6ac9fc7f89b5f94b47a72016f68a2681a3cb3e679dd4542b789938e7f2589a5"
-      },
-      "5": {
-        "source_ref": "Luke 20:5",
-        "source_chapter": 20,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "3edf2a72a40ede3137292d59f39042f044f1040d509fa9b216641c0a1c8b9426"
-      },
-      "6": {
-        "source_ref": "Luke 20:6",
-        "source_chapter": 20,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "d16cac3e6b4c4a7ebc94b2ab4c340643f248c3fed2ee3b5e963881b2e376bad6"
-      },
-      "7": {
-        "source_ref": "Luke 20:7",
-        "source_chapter": 20,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "33537b56b90c66c6aca3ffca4ed184d9e2bbb0af40651213d70598b3347e94f1"
-      },
-      "8": {
-        "source_ref": "Luke 20:8",
-        "source_chapter": 20,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "025643085204499169e4d21937bbcbcf42c4306c36875cce76111a6be05c2e94"
-      },
-      "9": {
-        "source_ref": "Luke 20:9",
-        "source_chapter": 20,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e4b24ebd6d9f4306deb8b443558a3060010ceb04e85fc9035601a08c6eb706cf"
-      },
-      "10": {
-        "source_ref": "Luke 20:10",
-        "source_chapter": 20,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "b8b8ae4fff335fdafa34cf141ddeb7bc825ee342fe8a634ddd9f0dc4ffecee3a"
-      },
-      "11": {
-        "source_ref": "Luke 20:11",
-        "source_chapter": 20,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "eab87c9c64ce7eb5f76567845546b7db5a9c73ca892aa1a94a9719dfd6f46e9f"
-      },
-      "12": {
-        "source_ref": "Luke 20:12",
-        "source_chapter": 20,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "1f71e97df3643885bee86cfed91b5d9ffe58af0fafc5e7a9b9e854a1f8918f67"
-      },
-      "13": {
-        "source_ref": "Luke 20:13",
-        "source_chapter": 20,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "c89382f479c52155e6e168cec040fa6910a25cc6c423a6938c28ce0ec699f645"
-      },
-      "14": {
-        "source_ref": "Luke 20:14",
-        "source_chapter": 20,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "8577ce45e147584c3ae3a99270fea5f2ba3a1f9c59409ffcb25f5b67b7e054f6"
-      },
-      "15": {
-        "source_ref": "Luke 20:15",
-        "source_chapter": 20,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "622219c7f1676a203f8c3750bae21f8fcfa0bd278f3446e39d54d76c023e2613"
-      },
-      "16": {
-        "source_ref": "Luke 20:16",
-        "source_chapter": 20,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "511d8e58cf7f96d9b066c424e904f9c757a8560600fec5c3484abf80dc4467f1"
-      },
-      "17": {
-        "source_ref": "Luke 20:17",
-        "source_chapter": 20,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "3266d0a899d8b89b86ae5e990be51620f4c10ab1c540bf56baa6e13cda1f235f"
-      },
-      "18": {
-        "source_ref": "Luke 20:18",
-        "source_chapter": 20,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "472da6218ffc05ac2be8fc9beecd30d20e20741d10a604eeef8d3a95440f27fa"
-      },
-      "19": {
-        "source_ref": "Luke 20:19",
-        "source_chapter": 20,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "264f4e50eff6ca03163b7bdebb29fa95d985d357787f2f475f1917ce6f7b5080"
-      },
-      "20": {
-        "source_ref": "Luke 20:20",
-        "source_chapter": 20,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "723c4b4385cbbf8e583befac2662153c6629666c8160b395fd14308f224dd4ff"
-      },
-      "21": {
-        "source_ref": "Luke 20:21",
-        "source_chapter": 20,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "05f1fb92d3c3e44ea16469c2d922651a35484ec042b2f39f05492685014e08b7"
-      },
-      "22": {
-        "source_ref": "Luke 20:22",
-        "source_chapter": 20,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "6f090a7dd953a20cb3b74641c3172aa3eca573c6224263f73c16f751bdfca07c"
-      },
-      "23": {
-        "source_ref": "Luke 20:23",
-        "source_chapter": 20,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "1798a16a07f3b3fcc5be748ec87c742e15cd91968716c7e8ae612208ed9829ed"
-      },
-      "24": {
-        "source_ref": "Luke 20:24",
-        "source_chapter": 20,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "17e1e4ed51a26d9e0a799500f6769af8b8fcb208dc183efd021aa425f1735d6b"
-      },
-      "25": {
-        "source_ref": "Luke 20:25",
-        "source_chapter": 20,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "0bb609e6c1e5c6252650ff4257939458597f54222a798120dabd2a31a6a9bf5f"
-      },
-      "26": {
-        "source_ref": "Luke 20:26",
-        "source_chapter": 20,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "5d1a7175d47ae30eb7a8aa2b59c8eac76737d2d716e1b110c3ed2546b99b697c"
-      },
-      "27": {
-        "source_ref": "Luke 20:27",
-        "source_chapter": 20,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "3af1b6010c643deae2ef5d5031414243473be132d33be52b071b69da9b3fef53"
-      },
-      "28": {
-        "source_ref": "Luke 20:28",
-        "source_chapter": 20,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "1821051f8913d44d981029299867e0dc0ffa052b2e57068f301574ba982101b1"
-      },
-      "29": {
-        "source_ref": "Luke 20:29",
-        "source_chapter": 20,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "71b5e1b96223ec14949550cae5b00e54cb6b358b3b14e13b7364f806a912be09"
-      },
-      "30": {
-        "source_ref": "Luke 20:30",
-        "source_chapter": 20,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "cf40b206f8a7a8169720061765c3ba4651ccb62fc83195e20510a76c5769995d"
-      },
-      "31": {
-        "source_ref": "Luke 20:31",
-        "source_chapter": 20,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "639e82b1e12acf930b8070b92a0aee9fff15b969b4020a10f6afe0f682b6f401"
-      },
-      "32": {
-        "source_ref": "Luke 20:32",
-        "source_chapter": 20,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "cf8b8e3f082df583b59624ab8948d2afe747404368ce0dbbe30eff3d5c5f051b"
-      },
-      "33": {
-        "source_ref": "Luke 20:33",
-        "source_chapter": 20,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "1cbaceca6381e8685e3a4b856fb0d0b4ef106dbee68c32d4e406d4bb2c839fba"
-      },
-      "34": {
-        "source_ref": "Luke 20:34",
-        "source_chapter": 20,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "e912717c7abec524704bad225ef4bdb7b12dfe6227b5901f3f41095489dcf987"
-      },
-      "35": {
-        "source_ref": "Luke 20:35",
-        "source_chapter": 20,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "33a32224748bede6fa5d4af39177972bf9773eafeba778e7022bbe05f4ff7c8e"
-      },
-      "36": {
-        "source_ref": "Luke 20:36",
-        "source_chapter": 20,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "6b7c79350023f9c6acf7a3b49d62b159c61ca94264d41e72e69d43a1b071b0d6"
-      },
-      "37": {
-        "source_ref": "Luke 20:37",
-        "source_chapter": 20,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "11b03a8986e1b1c7bf7cf16b8208a0b11e398e2e133fe9b2f6c1e3ee67a42d73"
-      },
-      "38": {
-        "source_ref": "Luke 20:38",
-        "source_chapter": 20,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "e079e12c918d6cd791695f0577cf3632eceabfb2ea3733a4ffa3dae54f143312"
-      },
-      "39": {
-        "source_ref": "Luke 20:39",
-        "source_chapter": 20,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "f54ce76f78a2bcaac5c4b99b1c726ebd98f6cb9c1ff7069798fbfec454d14d89"
-      },
-      "40": {
-        "source_ref": "Luke 20:40",
-        "source_chapter": 20,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "4d03013275eb21595f87db4de4fdd3aeb7971ea1aa31444803932445abf352cd"
-      },
-      "41": {
-        "source_ref": "Luke 20:41",
-        "source_chapter": 20,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "1a76668a32cc39b1ec5ab322fbbf68284ba25c038142b524c0995b6d8e86394d"
-      },
-      "42": {
-        "source_ref": "Luke 20:42",
-        "source_chapter": 20,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "d1aa037c90131532adec4351500da8dc92c919cc289e989fbf5cda91ed5a4b13"
-      },
-      "43": {
-        "source_ref": "Luke 20:43",
-        "source_chapter": 20,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "8f03d0dbba1e441061757c0907ec3ad79a899d8aa6b13998fef2efb0417b8f73"
-      },
-      "44": {
-        "source_ref": "Luke 20:44",
-        "source_chapter": 20,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "4e04bce5d7274883246ecfac9041f728136046094c90371cce11f2aab8fe5dfa"
-      },
-      "45": {
-        "source_ref": "Luke 20:45",
-        "source_chapter": 20,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "4f6c1f3be5b89855fb52d349ed30bd180a938281ff893bbbee93a390b68ea593"
-      },
-      "46": {
-        "source_ref": "Luke 20:46",
-        "source_chapter": 20,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "45a5c4246c24364a90dac33e167e628f2bc79743cdd88a1d900d42d324123a4c"
-      },
-      "47": {
-        "source_ref": "Luke 20:47",
-        "source_chapter": 20,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "3e4a4e2d9e2c6edfe1d194215189f2bdc5b7882931c6695e5764d8b9bce3c4da"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 20,
+    "verse_count": 47,
+    "path": "translations/fluent/NT/luke/Luke_20.md",
+    "before_sha256": "dea50d9a07c82133ce77bd69b85933bb0730555e4c70f83f0448ac37ce097664",
+    "after_sha256": "1bc15b47cd73062f562927a645b7914e76363f5de548c4f7f33e4b3ee8cafe0d",
+    "tsw_comparator_path": "books/NT/luke/Luke_20.md",
+    "tsw_comparator_sha256": "cb56ca3ede4427842e323316a0c444e0bb05c41f5db8db662f9ad1b23474dcf9"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 20:4",
+      "delta": "F3",
+      "rationale": "Preserves baptism, source alternatives, and concise dilemma.",
+      "source_reference": "Luke 20:4",
+      "source_verse_sha256": "f5b3391e21353b7f5f8f5d523d5b30b32b3ab7dc56688b5d15d88bcbaed30606",
+      "before": "John’s baptism—was it from heaven or from people?”",
+      "after": "Was John’s baptism from heaven or from people?”",
+      "tsw_comparator": "The baptism of John—was it from heaven or from people?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:6",
+      "delta": "F3",
+      "rationale": "Retains crowd’s lethal threat and conviction about John.",
+      "source_reference": "Luke 20:6",
+      "source_verse_sha256": "c78c102d81f26e4c5b9bec879b203a644043c02c0d104d2503cbab2c08777d1e",
+      "before": "But if we say, ‘From people,’ all the people will stone us, because they are convinced John was a prophet.”",
+      "after": "But if we say, ‘From people,’ all the people will stone us, because they are convinced that John was a prophet.”",
+      "tsw_comparator": "But if we say, ‘From people,’ all the people will stone us, for they are convinced that John is a prophet.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.904762,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:9",
+      "delta": "F3",
+      "rationale": "Keeps audience, owner, vineyard, lease, and prolonged absence.",
+      "source_reference": "Luke 20:9",
+      "source_verse_sha256": "638b2260a0f9ed92f38c985d098a4439cd4a55c401327f249d25b16b3dc6652a",
+      "before": "He began telling the people this parable: “A man planted a vineyard, leased it to tenants, and went away for a long time.",
+      "after": "Then he began telling the people this parable: “A man planted a vineyard, leased it to tenant farmers, and went away for a long time.",
+      "tsw_comparator": "And he began to tell the people this parable: “A man planted a vineyard and leased it to tenants and went away for a long time.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:10",
+      "delta": "F3",
+      "rationale": "Preserves rightful fruit, violence, and empty return.",
+      "source_reference": "Luke 20:10",
+      "source_verse_sha256": "fd1bab78bc4e4d95c9c1ed4733beb028bde34c20dcf8d6697a8bc53df1da6ff9",
+      "before": "At harvest time he sent a servant to the tenants so they would give him some of the vineyard’s fruit. But the tenants beat him and sent him away empty-handed.",
+      "after": "At harvest time he sent a servant to the tenants so they would give him some of the vineyard’s fruit. But the tenants beat the servant and sent him away empty-handed.",
+      "tsw_comparator": "And at the season he sent a servant to the tenants so that they would give him some of the fruit of the vineyard; but the tenants beat him and sent him away empty-handed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.80597,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:11",
+      "delta": "F3",
+      "rationale": "Keeps escalation through beating and dishonor.",
+      "source_reference": "Luke 20:11",
+      "source_verse_sha256": "fc057e9b22cf42a1deda350ebc2e3a9635b22fb051e341a7bf0f4c2a1d5652a1",
+      "before": "He sent another servant, but they beat and dishonored that one too and sent him away empty-handed.",
+      "after": "He sent another servant, but they beat and humiliated him too and sent him away empty-handed.",
+      "tsw_comparator": "And again he sent another servant, but they also beat and dishonored him and sent him away empty-handed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:12",
+      "delta": "F3",
+      "rationale": "Retains exact sequence, injury, and expulsion.",
+      "source_reference": "Luke 20:12",
+      "source_verse_sha256": "393eb31573ef5f09474fd25d32cbd2cf6a46d7ab8fbc1309b60ea7210f8bf550",
+      "before": "He sent a third, and they wounded him and threw him out.",
+      "after": "Then he sent a third, but they wounded this one and threw him out.",
+      "tsw_comparator": "And he sent yet a third, and this one also they wounded and cast out.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.551724,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:13",
+      "delta": "F3",
+      "rationale": "Keeps deliberation, beloved son, and hopeful respect.",
+      "source_reference": "Luke 20:13",
+      "source_verse_sha256": "d63efe0ec676cb8344f40b814df9d55b61135298bd39d6e59310155e55869ea0",
+      "before": "The owner of the vineyard said, ‘What should I do? I will send my beloved son. Perhaps they will respect him.’",
+      "after": "The vineyard owner said, ‘What should I do? I will send my beloved son. Perhaps they will respect him.’",
+      "tsw_comparator": "And the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:14",
+      "delta": "F3",
+      "rationale": "Preserves recognition, conspiracy, murder, and seizure motive.",
+      "source_reference": "Luke 20:14",
+      "source_verse_sha256": "e0e7b611a1a054c44c22c9f282497f6e92c891ba3e0554d0d46cc55337b54e1c",
+      "before": "But when the tenants saw him, they reasoned together, ‘This is the heir. Let us kill him so the inheritance will become ours.’",
+      "after": "But when the tenants saw him, they discussed it together and said, ‘This is the heir. Let us kill him so that the inheritance will become ours.’",
+      "tsw_comparator": "But when the tenants saw him, they reasoned with one another, saying, ‘This is the heir; let us kill him so that the inheritance may become ours.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:15",
+      "delta": "F3",
+      "rationale": "Keeps expulsion before killing and rhetorical judgment question.",
+      "source_reference": "Luke 20:15",
+      "source_verse_sha256": "3611663dc109507014dac963eabcaa356eeb324146f8872b6bcb2a4ff17ae3fc",
+      "before": "They threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?",
+      "after": "So they threw him out of the vineyard and killed him. What, then, will the vineyard owner do to them?",
+      "tsw_comparator": "And casting him out of the vineyard, they killed him. What then will the owner of the vineyard do to them?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:16",
+      "delta": "F3",
+      "rationale": "Retains owner’s three actions and audience’s horrified response.",
+      "source_reference": "Luke 20:16",
+      "source_verse_sha256": "374eab9976382cd2522ad9f2b9a3e6225a330eb6077588bdbd2be63bbac433f1",
+      "before": "He will come, destroy those tenants, and give the vineyard to others.” When the people heard this, they said, “May it never happen!”",
+      "after": "He will come, destroy those tenants, and give the vineyard to others.” When the people heard this, they said, “May it never happen!”",
+      "tsw_comparator": "He will come and destroy those tenants and give the vineyard to others.” And hearing it, they said, “May it never be!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:17",
+      "delta": "F3",
+      "rationale": "Keeps gaze, interpretive question, rejection, and cornerstone image.",
+      "source_reference": "Luke 20:17",
+      "source_verse_sha256": "bae2e7cb2ebafff033ffc4c4fea504043507159f6b9754bf2c93c913dfc8d45b",
+      "before": "But Jesus looked at them and said, “Then what does this Scripture mean: ‘The stone the builders rejected has become the cornerstone’?",
+      "after": "But Jesus looked directly at them and said, “Then what does this Scripture mean: ‘The stone the builders rejected has become the cornerstone’?",
+      "tsw_comparator": "But looking at them, he said, “What then is this that is written: ‘The stone which the builders rejected, this has become the cornerstone’?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638298,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:18",
+      "delta": "F3",
+      "rationale": "Preserves both violent stone outcomes.",
+      "source_reference": "Luke 20:18",
+      "source_verse_sha256": "c87e9be4bfe8f7d19811f9b264d6f2259446b86fcce8a900b30102c9a0cd0b6e",
+      "before": "Everyone who falls on that stone will be broken to pieces, and anyone on whom it falls will be crushed.”",
+      "after": "Everyone who falls on that stone will be broken to pieces, and anyone on whom it falls will be crushed.”",
+      "tsw_comparator": "Everyone who falls on that stone will be broken to pieces, but on whomever it falls, it will crush him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:19",
+      "delta": "F3",
+      "rationale": "Keeps two leadership groups, immediate intent, recognition, and fear.",
+      "source_reference": "Luke 20:19",
+      "source_verse_sha256": "d8255aec4d07f4bbfc3d85fbb94f372927ff95b461e02d3a903c2f72261b02bc",
+      "before": "The scribes and chief priests wanted to lay hands on him that very hour, but they were afraid of the people, because they knew he had spoken this parable against them.",
+      "after": "The scribes and chief priests wanted to lay hands on him that very hour, because they knew he had told this parable against them—but they were afraid of the people.",
+      "tsw_comparator": "And the scribes and the chief priests sought to lay hands on him in that hour, and they feared the people, for they knew that he had spoken this parable against them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.634921,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:20",
+      "delta": "F3",
+      "rationale": "Preserves surveillance, hypocrisy, verbal trap, and political handover.",
+      "source_reference": "Luke 20:20",
+      "source_verse_sha256": "e3733e3b613192a1a9ef139e002da55a142f5739e4aaab61b8b894bdabab9542",
+      "before": "They watched Jesus closely and sent spies who pretended to be righteous so they could catch him in something he said and hand him over to the authority and jurisdiction of the governor.",
+      "after": "So they watched him closely and sent spies pretending to be righteous, hoping to catch him in something he said and hand him over to the governor’s rule and authority.",
+      "tsw_comparator": "And watching him closely, they sent spies, who pretended to be righteous, so that they might catch him in a word, in order to hand him over to the authority and jurisdiction of the governor.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.492308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:22",
+      "delta": "F3",
+      "rationale": "Preserves legal question, communal “us,” tax, and Caesar.",
+      "source_reference": "Luke 20:22",
+      "source_verse_sha256": "2e900d5b119faa1f276f010a7ad74b0730f2250e5efbe3c1934789ca5e7cc9a8",
+      "before": "Is it lawful for us to pay tribute to Caesar or not?”",
+      "after": "Is it lawful for us to pay tribute to Caesar or not?”",
+      "tsw_comparator": "Is it lawful for us to give tribute to Caesar, or not?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:24",
+      "delta": "F3",
+      "rationale": "Retains coin, image, inscription, and answer.",
+      "source_reference": "Luke 20:24",
+      "source_verse_sha256": "bea7fee889e2ae076929553d006f77387bbd7b684a43b72455f298b22d69a188",
+      "before": "“Show me a denarius. Whose image and inscription does it have?” They answered, “Caesar’s.”",
+      "after": "“Show me a denarius. Whose image and inscription does it have?” They answered, “Caesar’s.”",
+      "tsw_comparator": "“Show me a denarius. Whose image and inscription does it have?” And they said, “Caesar’s.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:25",
+      "delta": "F3",
+      "rationale": "Renders apodidōmi as give back and preserves parallel obligations.",
+      "source_reference": "Luke 20:25",
+      "source_verse_sha256": "b227603dceaccf7b4595c0d5efc7f3e242517d387dce7a94c9a009dde7eb6c9c",
+      "before": "He said to them, “Then give back to Caesar the things that are Caesar’s, and to God the things that are God’s.”",
+      "after": "He told them, “Then give back to Caesar what belongs to Caesar, and to God what belongs to God.”",
+      "tsw_comparator": "And he said to them, “Then render the things of Caesar to Caesar, and the things of God to God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:27",
+      "delta": "F3",
+      "rationale": "Preserves group and narrator’s theological identification.",
+      "source_reference": "Luke 20:27",
+      "source_verse_sha256": "73c151785c935fc8d6824f4102eabb0b595ed2a46bfcaededd0e90a1616d43ec",
+      "before": "Some Sadducees, who say there is no resurrection, came and questioned him:",
+      "after": "Some Sadducees, who deny that there is a resurrection, came to him and asked,",
+      "tsw_comparator": "And some of the Sadducees, who say there is no resurrection, came up and questioned him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:28",
+      "delta": "F3",
+      "rationale": "Keeps Mosaic basis, levirate relation, childlessness, and offspring purpose.",
+      "source_reference": "Luke 20:28",
+      "source_verse_sha256": "309826a239edcac77ce5d7294bcc0d358e1d8f9219b0db518760ef7d25df877a",
+      "before": "“Teacher, Moses wrote for us that if a man’s brother dies leaving a wife but no child, his brother should take the wife and raise up offspring for his brother.",
+      "after": "“Teacher, Moses wrote for us that if a man’s married brother dies childless, the man should take the widow and raise up offspring for his brother.",
+      "tsw_comparator": "saying, “Teacher, Moses wrote for us that if a man’s brother dies having a wife and he is childless, his brother should take the wife and raise up offspring for his brother.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:30",
+      "delta": "F3",
+      "rationale": "Preserves terse continuation in the pinned source.",
+      "source_reference": "Luke 20:30",
+      "source_verse_sha256": "5a2febdbe6e75ed807ea53a79795305ea007b98d0233524267601db959392062",
+      "before": "The second",
+      "after": "Then the second married her,",
+      "tsw_comparator": "and the second,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:31",
+      "delta": "F3",
+      "rationale": "Keeps all seven, childlessness, and deaths.",
+      "source_reference": "Luke 20:31",
+      "source_verse_sha256": "f7dc62244e64435c727c9d8aa1769023954a271760922825c920a36f65d7231b",
+      "before": "and then the third took her, and in the same way all seven died without leaving children.",
+      "after": "and then the third. In the same way, all seven married her, left no children, and died.",
+      "tsw_comparator": "and the third took her, and likewise also the seven left no children and died.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:35",
+      "delta": "F3",
+      "rationale": "Keeps worthiness, future age, resurrection, and marriage contrast.",
+      "source_reference": "Luke 20:35",
+      "source_verse_sha256": "f8dc826bbb04aaf0d292ac3e1371a1f756183763c00c037702201b29fd421182",
+      "before": "but those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage.",
+      "after": "But those considered worthy to take part in that age and in the resurrection from the dead neither marry nor are given in marriage.",
+      "tsw_comparator": "but those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:36",
+      "delta": "F3",
+      "rationale": "Preserves immortality, angel likeness, and two sonship relations.",
+      "source_reference": "Luke 20:36",
+      "source_verse_sha256": "184e8a558d22ad526ab8ccf394b8739ff37bfccf9c66b3480bfdbb7b85dcf042",
+      "before": "They cannot die anymore, because they are like angels and are children of God, being children of the resurrection.",
+      "after": "Indeed, they can no longer die, because they are like angels and are children of God, being children of the resurrection.",
+      "tsw_comparator": "for neither are they able to die anymore, because they are equal to angels and are sons of God, being sons of the resurrection.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:37",
+      "delta": "F3",
+      "rationale": "Keeps Moses, bush setting, resurrection inference, and three names.",
+      "source_reference": "Luke 20:37",
+      "source_verse_sha256": "3d501b0859529cb32fa04f0c8a28f486c812075832762003a477fd6c13c3f7af",
+      "before": "But that the dead are raised, even Moses showed in the passage about the bush, where he calls the Lord ‘the God of Abraham, the God of Isaac, and the God of Jacob.’",
+      "after": "But even Moses showed that the dead are raised, in the passage about the bush, where he calls the Lord ‘the God of Abraham, the God of Isaac, and the God of Jacob.’",
+      "tsw_comparator": "But that the dead are raised—even Moses showed at the bush, where he calls the Lord ‘the God of Abraham and God of Isaac and God of Jacob.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:38",
+      "delta": "F3",
+      "rationale": "Preserves contrast and Godward life.",
+      "source_reference": "Luke 20:38",
+      "source_verse_sha256": "5cc1e9baea5b1de96cd9b92f082d4eb4ade345e8e90d877e0c90f13c19a3c6ae",
+      "before": "He is not God of the dead but of the living, because to him all are alive.”",
+      "after": "He is not God of the dead but of the living, for to him all are alive.”",
+      "tsw_comparator": "Now he is not God of the dead but of the living, for all live to him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:41",
+      "delta": "F3",
+      "rationale": "Keeps interpretive question and messianic-Davidic relation.",
+      "source_reference": "Luke 20:41",
+      "source_verse_sha256": "2767d25cd1be0a808c6fe0fc33a24dcf05e476d58e6a6dfc3e4cd8d062467167",
+      "before": "Then Jesus said to them, “How can people say that the Christ is David’s son?",
+      "after": "Then Jesus said to them, “How can people say that the Messiah is David’s son?",
+      "tsw_comparator": "But he said to them, “How do they say that the Christ is David’s son?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:42",
+      "delta": "F3",
+      "rationale": "Preserves Davidic attribution, Psalms, two Lord references, and right hand.",
+      "source_reference": "Luke 20:42",
+      "source_verse_sha256": "9d2ccd2bead842c631729a31ae5eaa95052f5631fb9c6e6fc63cd9920904c708",
+      "before": "David himself says in the book of Psalms: ‘The Lord said to my Lord, Sit at my right hand",
+      "after": "For David himself says in the book of Psalms, ‘The Lord said to my Lord, “Sit at my right hand",
+      "tsw_comparator": "For David himself says in the book of Psalms: ‘The Lord said to my Lord, Sit at my right hand,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:44",
+      "delta": "F3",
+      "rationale": "Retains unresolved lord-son question.",
+      "source_reference": "Luke 20:44",
+      "source_verse_sha256": "27c1246e062f70f8419b9850d03886708349cdf5c8473f842aa5022aa2c9cf55",
+      "before": "David calls him Lord, so how is he his son?”",
+      "after": "David therefore calls him ‘Lord.’ So how is he David’s son?”",
+      "tsw_comparator": "Therefore David calls him Lord, and how is he his son?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:46",
+      "delta": "F3",
+      "rationale": "Preserves clothing and all three forms of public status.",
+      "source_reference": "Luke 20:46",
+      "source_verse_sha256": "695ab63dd268a36d5ecf5d5c3250b7e9b587556a26cf38c1470affe775cdd26b",
+      "before": "“Beware of the scribes who like to walk around in long robes, love greetings in the marketplaces, the best seats in synagogues, and places of honor at banquets.",
+      "after": "“Beware of the scribes, who like to walk around in long robes, love greetings in the marketplaces, the best seats in the synagogues, and places of honor at banquets.",
+      "tsw_comparator": "“Beware of the scribes, who desire to walk around in long robes and love greetings in the marketplaces and the first seats in the synagogues and the places of honor at feasts,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.852459,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 20:47",
+      "delta": "F3",
+      "rationale": "Keeps economic exploitation, religious cover, and intensified judgment.",
+      "source_reference": "Luke 20:47",
+      "source_verse_sha256": "6ebde6f3a73346c028cc7ea3a154c4e8f28bae415a0782ae2390de104d52eefe",
+      "before": "They devour widows’ houses and, for appearance, make long prayers. They will receive greater condemnation.”",
+      "after": "They devour widows’ houses and, as a pretense, make long prayers. They will receive a more severe judgment.”",
+      "tsw_comparator": "who devour the houses of widows and for appearance make long prayers; these will receive greater condemnation.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.457143,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_20.md",
-    "blob_sha": "19ccb63493c4622e51b107be2e784e2c53575a0e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

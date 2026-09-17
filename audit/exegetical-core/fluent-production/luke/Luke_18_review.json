@@ -2,322 +2,407 @@
   "book": "Luke",
   "chapter": 18,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 43,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_18_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 18:1",
-        "source_chapter": 18,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "640e56a8a73e3dd53eec7f093814b700d9824e95c69bdaeb95c1d67524356198"
-      },
-      "2": {
-        "source_ref": "Luke 18:2",
-        "source_chapter": 18,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "815bda52e4a5832a9260a74fc8f551d177151a05890447c08c12edbfde037df3"
-      },
-      "3": {
-        "source_ref": "Luke 18:3",
-        "source_chapter": 18,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "a27c0a6884c61bcc23155504a8b56dbf0926b3977ed4ff15772f77a87b004b03"
-      },
-      "4": {
-        "source_ref": "Luke 18:4",
-        "source_chapter": 18,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "9755d91652c2cf656997505cc900ef6483071637f3b2765b03cafa08bc3622d3"
-      },
-      "5": {
-        "source_ref": "Luke 18:5",
-        "source_chapter": 18,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "1611507e2fa2c56dfd734a4dcef0f25c14badbfa8ee63ef822e7c5b3e529b6b0"
-      },
-      "6": {
-        "source_ref": "Luke 18:6",
-        "source_chapter": 18,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "0efb1009a1dc3b6e554b2454f6308a96963b1d7f59d8ba3ac9cb474db2d779a4"
-      },
-      "7": {
-        "source_ref": "Luke 18:7",
-        "source_chapter": 18,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "22979a73119b33a3168f9be8e7b4e16a96fa9dc06e36408fed378b64cc718415"
-      },
-      "8": {
-        "source_ref": "Luke 18:8",
-        "source_chapter": 18,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "ce74975ec1d6d67cf486dba063c623e35c8734b06bcb99f993220bd99aafc1ca"
-      },
-      "9": {
-        "source_ref": "Luke 18:9",
-        "source_chapter": 18,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "4c05e19f5bbc430c68fb2aa2e0e93988330136c5fa04ab18e31e06ee55dcbd2f"
-      },
-      "10": {
-        "source_ref": "Luke 18:10",
-        "source_chapter": 18,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "9c419f3d1dfa78a475bc07f3803ec32efdfa2fa73964d04c1fcb250db68b6b64"
-      },
-      "11": {
-        "source_ref": "Luke 18:11",
-        "source_chapter": 18,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "7860b0a5d5971b7321e218a023b74f6ac2a0a6b9703d70dd1918113bca747bcd"
-      },
-      "12": {
-        "source_ref": "Luke 18:12",
-        "source_chapter": 18,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "bef4ab56e12d9e4e0535b444b55fa1b8b73b15dbcb736c587c1f3ecb8a46e14b"
-      },
-      "13": {
-        "source_ref": "Luke 18:13",
-        "source_chapter": 18,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "56977e2e7f092df2485881d1c495c4412a23969f4a6177fb6bfd3fae5d0e897b"
-      },
-      "14": {
-        "source_ref": "Luke 18:14",
-        "source_chapter": 18,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "08625337a1875adadcf5da1e07738fb5e7fe9e7ef8aa6b18344aedabae91f209"
-      },
-      "15": {
-        "source_ref": "Luke 18:15",
-        "source_chapter": 18,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "49cd2a6f04d6caa0c447e57727be24106b033ca41cc1c84fafbf3c7462e5848e"
-      },
-      "16": {
-        "source_ref": "Luke 18:16",
-        "source_chapter": 18,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "cee045973eeb56158a3bf2ced43ae923fa626c83d315d766a67fecc7877b2c31"
-      },
-      "17": {
-        "source_ref": "Luke 18:17",
-        "source_chapter": 18,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "23bb49a7c26274ea666ec36aa1c9ee45dc04a42a6721f1f8089c6f594a042f58"
-      },
-      "18": {
-        "source_ref": "Luke 18:18",
-        "source_chapter": 18,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "9fb8f797b463fed70a84ddab5296840bae1a8c6e2684f1bb98d0106b06dd5f89"
-      },
-      "19": {
-        "source_ref": "Luke 18:19",
-        "source_chapter": 18,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f6052e15874e6bbce172541158da90f932f188d5e1bf4de1047345b087075b36"
-      },
-      "20": {
-        "source_ref": "Luke 18:20",
-        "source_chapter": 18,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "c2e859e376a6911dc8d04149d87284b2e6af5653c34d41b7479eb48a1b5a2f2b"
-      },
-      "21": {
-        "source_ref": "Luke 18:21",
-        "source_chapter": 18,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "e69c4aabc7eca3d161f0057dab00115f0ba5304ed08414abb49c071739b4022c"
-      },
-      "22": {
-        "source_ref": "Luke 18:22",
-        "source_chapter": 18,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "34cd4a8e26b847b5480eec89d3158f467ce9724820bd0fcd89422b58e5a89552"
-      },
-      "23": {
-        "source_ref": "Luke 18:23",
-        "source_chapter": 18,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "5c2ebe3be53e2ac7a879a03d42a4ed7e9aef25ffe01c579ab1d94ee577820e33"
-      },
-      "24": {
-        "source_ref": "Luke 18:24",
-        "source_chapter": 18,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "2caa31cd65041b41ecc1dc5ec5ef74b98585cb2b4f161ed73b7880ec3296f61c"
-      },
-      "25": {
-        "source_ref": "Luke 18:25",
-        "source_chapter": 18,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "657030c05fd3b103965082e200782d3a861510f588a4670a4a0c36f62474d988"
-      },
-      "26": {
-        "source_ref": "Luke 18:26",
-        "source_chapter": 18,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "a7d07313342571a815154596e4eeac5c581dd9e3d808309815aeccc03df68fd4"
-      },
-      "27": {
-        "source_ref": "Luke 18:27",
-        "source_chapter": 18,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "6eeaf19e8d97538379e087823f4e63f22f06cb9ba5ae29c08446e3b14d5bad52"
-      },
-      "28": {
-        "source_ref": "Luke 18:28",
-        "source_chapter": 18,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "4fd3019c71d293eef0af91f3be0d75b1bef11060e2204e925c0d74f30a2b47b1"
-      },
-      "29": {
-        "source_ref": "Luke 18:29",
-        "source_chapter": 18,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "90fd18a820e6b8c364f24c6702acf9801f0703603cbdc68224c997b0b507219d"
-      },
-      "30": {
-        "source_ref": "Luke 18:30",
-        "source_chapter": 18,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "8f475304fdc762b1ba883b1ba313cdbb070d937b8d1ced4b47197ad853be5013"
-      },
-      "31": {
-        "source_ref": "Luke 18:31",
-        "source_chapter": 18,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "d94a17571a3c80920d5068cc66ffe9afe7171b0b9adf7c7092a237ea0ba45afb"
-      },
-      "32": {
-        "source_ref": "Luke 18:32",
-        "source_chapter": 18,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "5deac9d1fdfc93bd9cc2b1f9a8baf666b62e3f99f0e2fc85c4be5f5d56bcadfd"
-      },
-      "33": {
-        "source_ref": "Luke 18:33",
-        "source_chapter": 18,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "d731dfcc1e0ca5bf0b300d0e5d1b9e8a50922a0aaba5c635bd1dae8b80119f54"
-      },
-      "34": {
-        "source_ref": "Luke 18:34",
-        "source_chapter": 18,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "4b27286be66d4613d05a026cfc46baaffa7bc7f73bd9014d3b35d436522fca44"
-      },
-      "35": {
-        "source_ref": "Luke 18:35",
-        "source_chapter": 18,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "7b161a4b6a345e6863e36b1339ae15c35c8e3f079fe906e233b9f4458185a73c"
-      },
-      "36": {
-        "source_ref": "Luke 18:36",
-        "source_chapter": 18,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "7c407d09e10ac6a2cad499af7716cc2bbff9826b3ce3af64554cd285299a3927"
-      },
-      "37": {
-        "source_ref": "Luke 18:37",
-        "source_chapter": 18,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "743b592dfa1df9396a1b2615ca95ffbf7f8ecff6219a37f95fdb48a47e653142"
-      },
-      "38": {
-        "source_ref": "Luke 18:38",
-        "source_chapter": 18,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "df8bf399ab656dcbad4be66a49878c35bd8b22d8bec4dd0dad4ab56fd30da240"
-      },
-      "39": {
-        "source_ref": "Luke 18:39",
-        "source_chapter": 18,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "98b99a43636784d73a3955c2b2ad353bd1d40847bc8c20c5451255fa0136539c"
-      },
-      "40": {
-        "source_ref": "Luke 18:40",
-        "source_chapter": 18,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "f8beac6449fec6ab141889f6f22e72171abbd3e4342c7343477fdf520bbab94b"
-      },
-      "41": {
-        "source_ref": "Luke 18:41",
-        "source_chapter": 18,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "a338ec992e8dd03498379cd34d85b11ec76a719d035b4c3524daf523fb3cbcf6"
-      },
-      "42": {
-        "source_ref": "Luke 18:42",
-        "source_chapter": 18,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "a4ec86316032a6a438d65b4b6270885553de415700a9295db02164204e2a6bb7"
-      },
-      "43": {
-        "source_ref": "Luke 18:43",
-        "source_chapter": 18,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "a0f58edee3f204a8e6cf3adde7363a8d84f4dabd457eb2166cf360d47c762b36"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 18,
+    "verse_count": 43,
+    "path": "translations/fluent/NT/luke/Luke_18.md",
+    "before_sha256": "0b2047f3afb64059d7215d225c45b27274748ee16daf5d43283f3b4aafbe0850",
+    "after_sha256": "4a056b6fe20638bf1bb7a5a47212e08a072edab45e9703717a5fde2f01d6d905",
+    "tsw_comparator_path": "books/NT/luke/Luke_18.md",
+    "tsw_comparator_sha256": "a8ccd50162cd2a3decad981ef14f595f214e28256e4b34a0ad362e7b1ca99535"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 18:3",
+      "delta": "F3",
+      "rationale": "Keeps widow’s vulnerability, persistence, and legal demand.",
+      "source_reference": "Luke 18:3",
+      "source_verse_sha256": "daad47dd36879228cbd6cfc3713b8dd1a2a634a44428c0e2f9003ca7db21c65f",
+      "before": "A widow in that town kept coming to him and saying, ‘Give me justice against my opponent.’",
+      "after": "There was also a widow in that city who kept coming to him, saying, ‘Give me justice against my opponent.’",
+      "tsw_comparator": "And there was a widow in that city, and she was coming to him, saying, ‘Give me justice against my adversary.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:5",
+      "delta": "F3",
+      "rationale": "Preserves self-interested motive and difficult striking/wearing-out idiom.",
+      "source_reference": "Luke 18:5",
+      "source_verse_sha256": "454992bacf409603928eb549f6ad678f7b7e52b3f8a7fec5b639776090678eb8",
+      "before": "because this widow keeps causing me trouble, I will give her justice so she does not wear me out by continually coming.’”",
+      "after": "because this widow keeps bothering me, I will give her justice, so that she will not wear me out by continually coming.’”",
+      "tsw_comparator": "yet because this widow is causing me trouble, I will give her justice, lest by continually coming she wear me out.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.604651,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:7",
+      "delta": "F3",
+      "rationale": "Preserves divine contrast, chosen ones, continual cry, justice, and patience question.",
+      "source_reference": "Luke 18:7",
+      "source_verse_sha256": "5490083a7de1572d8b675e7d9ffda947f5270ed0a99ca2612e859462ef86ecd4",
+      "before": "Will God not certainly bring justice for his chosen ones who cry out to him day and night? Will he keep delaying over them?",
+      "after": "Will God not certainly give justice to his chosen people who cry out to him day and night? Will he delay long over them?",
+      "tsw_comparator": "And will not God certainly bring about justice for his chosen ones who cry to him day and night? Will he delay long over them?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77551,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:8",
+      "delta": "F3",
+      "rationale": "Keeps assurance, speed, contrasting question, coming, and faith.",
+      "source_reference": "Luke 18:8",
+      "source_verse_sha256": "d1dd1bcf4b8fc575bed7fb706b2bdb3280d4d19a9c994cbf73d0356e191462f8",
+      "before": "I tell you, he will bring them justice quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”",
+      "after": "I tell you, he will give them justice quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”",
+      "tsw_comparator": "I say to you that he will bring about justice for them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:9",
+      "delta": "F3",
+      "rationale": "Preserves targeted self-trust, righteousness claim, and contempt.",
+      "source_reference": "Luke 18:9",
+      "source_verse_sha256": "f7e8cb63cdfe9f97c4e364c6f802eb3b70a227914c8e1823ed800ed8b7b8fe1e",
+      "before": "Jesus also told this parable to some who trusted in themselves that they were righteous and looked down on everyone else:",
+      "after": "He also told this parable to some who trusted in themselves that they were righteous and treated everyone else with contempt:",
+      "tsw_comparator": "And he also told this parable to some who trusted in themselves that they were righteous and despised others:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:11",
+      "delta": "F3",
+      "rationale": "Preserves ambiguous self-directed prayer, list, and contemptuous comparison.",
+      "source_reference": "Luke 18:11",
+      "source_verse_sha256": "484b5d9ec92b75562315ef260411eba8322b6c2a95f2651fb02c225ce0933788",
+      "before": "The Pharisee stood apart and prayed these things about himself: ‘God, I thank you that I am not like everyone else—extortioners, unrighteous people, adulterers—or even like this tax collector.",
+      "after": "The Pharisee stood by himself and prayed these things: ‘God, I thank you that I am not like other people—swindlers, unjust, adulterers—or even like this tax collector.",
+      "tsw_comparator": "The Pharisee, standing by himself, was praying these things: ‘God, I thank you that I am not like the rest of people—extortioners, unjust, adulterers, or even like this tax collector.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:13",
+      "delta": "F3",
+      "rationale": "Preserves distance, lowered eyes, repeated bodily grief, and definite self-accusation.",
+      "source_reference": "Luke 18:13",
+      "source_verse_sha256": "26963395352eb3a3ed94c0ac3d480dc38afeb15620071e2dd530686cd7cad9b3",
+      "before": "But the tax collector stood far away and would not even lift his eyes toward heaven. He beat his chest and said, ‘God, be merciful to me, the sinner!’",
+      "after": "But the tax collector stood far off and would not even lift his eyes to heaven. Instead, he kept beating his chest and saying, ‘God, be merciful to me, the sinner.’",
+      "tsw_comparator": "But the tax collector, standing far off, was not even willing to lift his eyes to heaven, but was beating his chest, saying, ‘God, be merciful to me, the sinner!’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.786885,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:14",
+      "delta": "F3",
+      "rationale": "Keeps comparative justification, temple descent, and reversal.",
+      "source_reference": "Luke 18:14",
+      "source_verse_sha256": "8936986f9a7ac61a18e2d0fb6887818317c4b305cb676eadcbe29ff2264a04bd",
+      "before": "I tell you, this man went down to his house set right rather than the other. For everyone who exalts themselves will be humbled, and the one who humbles themselves will be exalted.”",
+      "after": "I tell you, this man went down to his home justified rather than the other. For everyone who exalts himself will be humbled, but whoever humbles himself will be exalted.”",
+      "tsw_comparator": "I tell you, this one went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.870968,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:15",
+      "delta": "F3",
+      "rationale": "Retains infants, touch, disciples’ observation, and rebuke.",
+      "source_reference": "Luke 18:15",
+      "source_verse_sha256": "4cb7a783a5d913cc9e9542899eb825cf2cf00b36bf2903e0ea3dea6d005c3310",
+      "before": "People were bringing even infants to Jesus so that he might touch them. When the disciples saw this, they rebuked them.",
+      "after": "People were bringing even infants to Jesus for him to touch them. When the disciples saw this, they rebuked them.",
+      "tsw_comparator": "And they were bringing even infants to him so that he might touch them, but the disciples, seeing it, were rebuking them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.52381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:17",
+      "delta": "F3",
+      "rationale": "Preserves solemn saying, receiving, comparison, and emphatic exclusion.",
+      "source_reference": "Luke 18:17",
+      "source_verse_sha256": "6820c28ef5790c3dbe13795561a8349c841ca15fab40774095258aaa0e2dd68b",
+      "before": "Truly I tell you, whoever does not receive God’s kingdom like a child will certainly not enter it.”",
+      "after": "Truly I tell you, whoever does not receive the kingdom of God like a child will certainly not enter it.”",
+      "tsw_comparator": "Truly I say to you, whoever does not receive the kingdom of God like a child will certainly not enter it.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:18",
+      "delta": "F3",
+      "rationale": "Keeps ruler, address, action, inheritance, and eternal life.",
+      "source_reference": "Luke 18:18",
+      "source_verse_sha256": "ed33596f5a6c2852a57be07025dff8290cfeafe2025e771e2a4666078b90da4b",
+      "before": "A ruler asked Jesus, “Good Teacher, what must I do to inherit eternal life?”",
+      "after": "A ruler asked him, “Good Teacher, what must I do to inherit eternal life?”",
+      "tsw_comparator": "And a certain ruler asked him, saying, “Good teacher, what must I do to inherit eternal life?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:19",
+      "delta": "F3",
+      "rationale": "Preserves question and exclusive claim without explaining it away.",
+      "source_reference": "Luke 18:19",
+      "source_verse_sha256": "d18445ee872a74f0237ae0612728331a023e1878c69431c8d7b74ba83da865b8",
+      "before": "Jesus said to him, “Why do you call me good? No one is good except God alone.",
+      "after": "Jesus said to him, “Why do you call me good? No one is good except God alone.",
+      "tsw_comparator": "And Jesus said to him, “Why do you call me good? No one is good except one—God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.914286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:20",
+      "delta": "F3",
+      "rationale": "Retains all five commands and their order.",
+      "source_reference": "Luke 18:20",
+      "source_verse_sha256": "f3a7521c62c56a0c36c40e5d205d731c3f9258e12cffcfaead2b10340eaba5df",
+      "before": "You know the commandments: ‘Do not commit adultery. Do not murder. Do not steal. Do not bear false witness. Honor your father and mother.’”",
+      "after": "You know the commandments: Do not commit adultery; do not murder; do not steal; do not give false testimony; honor your father and mother.”",
+      "tsw_comparator": "You know the commandments: ‘Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:22",
+      "delta": "F3",
+      "rationale": "Preserves single lack, total sale, distribution, heavenly treasure, and following.",
+      "source_reference": "Luke 18:22",
+      "source_verse_sha256": "2ff8c9ea64c91b951a397b93e7cdd09b2cdd540d57da6261765ac3cbfdbf6e98",
+      "before": "When Jesus heard this, he said to him, “You still lack one thing: sell everything you have and distribute it to the poor, and you will have treasure in heaven. Then come, follow me.”",
+      "after": "When Jesus heard this, he told him, “You still lack one thing: sell everything you have and distribute the proceeds to the poor, and you will have treasure in heaven. Then come, follow me.”",
+      "tsw_comparator": "And hearing these things, Jesus said to him, “One thing you still lack: sell all that you have and distribute to the poor, and you will have treasure in heaven; and come, follow me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.676471,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:25",
+      "delta": "F3",
+      "rationale": "Keeps deliberately impossible camel-needle image.",
+      "source_reference": "Luke 18:25",
+      "source_verse_sha256": "10fe97efc9d7eb7acc7176e440c10762f007161326689c247f8d3a1ab8aee08d",
+      "before": "It is easier for a camel to go through the eye of a needle than for a rich person to enter God’s kingdom.”",
+      "after": "Indeed, it is easier for a camel to enter through the eye of a needle than for a rich person to enter the kingdom of God.”",
+      "tsw_comparator": "For it is easier for a camel to go through the eye of a needle than for a rich person to enter into the kingdom of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.90566,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:27",
+      "delta": "F3",
+      "rationale": "Keeps human-divine ability contrast.",
+      "source_reference": "Luke 18:27",
+      "source_verse_sha256": "032daf77b392dc53b8a144c522b961062a459b94a765fca9ea4da03d972599f5",
+      "before": "Jesus said, “What is impossible with people is possible with God.”",
+      "after": "Jesus replied, “What is impossible for people is possible with God.”",
+      "tsw_comparator": "But he said, “The things that are impossible with people are possible with God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.4,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:29",
+      "delta": "F3",
+      "rationale": "Keeps solemn assurance and every specifically named relationship.",
+      "source_reference": "Luke 18:29",
+      "source_verse_sha256": "6f04218fcdbb9aa218a3bff7d8747ff8d11dfa42015dfd657712cd72a909a99a",
+      "before": "Jesus said to them, “Truly I tell you, no one who has left house, wife, brothers, parents, or children because of God’s kingdom",
+      "after": "Jesus told them, “Truly I tell you, no one who has left house, wife, brothers, parents, or children for the sake of God’s kingdom",
+      "tsw_comparator": "And he said to them, “Truly I say to you, there is no one who has left house or wife or brothers or parents or children for the sake of the kingdom of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.689655,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:30",
+      "delta": "F3",
+      "rationale": "Preserves present multiplied return and future-age life without specifying form.",
+      "source_reference": "Luke 18:30",
+      "source_verse_sha256": "253601e1650df8c67a906a2c4708eb5237530069b039e2e302ed59a824a021ae",
+      "before": "will fail to receive many times more in this time, and in the age to come eternal life.”",
+      "after": "will fail to receive many times more in this present time, and in the coming age eternal life.”",
+      "tsw_comparator": "who will not receive many times more in this time, and in the coming age eternal life.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:31",
+      "delta": "F3",
+      "rationale": "Keeps private audience, ascent, Jerusalem, prophets, and comprehensive fulfillment.",
+      "source_reference": "Luke 18:31",
+      "source_verse_sha256": "2d555c8e63f109859aa595860f2851032edb84b22e42a086dc7a63323d363977",
+      "before": "Jesus took the twelve aside and said, “Look, we are going up to Jerusalem, and everything written through the prophets about the Son of Man will be fulfilled.",
+      "after": "Taking the Twelve aside, Jesus told them, “Look, we are going up to Jerusalem, and everything written by the prophets about the Son of Man will be fulfilled.",
+      "tsw_comparator": "And taking the twelve, he said to them, “Behold, we are going up to Jerusalem, and everything written through the prophets about the Son of Man will be fulfilled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807018,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:32",
+      "delta": "F3",
+      "rationale": "Retains passive handing over and three forms of humiliation.",
+      "source_reference": "Luke 18:32",
+      "source_verse_sha256": "feac04e9c758a3280ad5ade7be932310653f1198fd5eeb613a13c0dddd946993",
+      "before": "He will be handed over to the Gentiles and mocked, mistreated, and spit on.",
+      "after": "He will be handed over to the Gentiles, mocked, abused, and spat on.",
+      "tsw_comparator": "For he will be handed over to the Gentiles and will be mocked and mistreated and spit upon,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.645161,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:33",
+      "delta": "F3",
+      "rationale": "Keeps violence, death, exact day, and resurrection.",
+      "source_reference": "Luke 18:33",
+      "source_verse_sha256": "8d49e7c37686f5eb920f35a0c52e60809bdf20091a8b57bddd152db6be489420",
+      "before": "After flogging him, they will kill him, and on the third day he will rise.”",
+      "after": "After flogging him, they will kill him, and on the third day he will rise.”",
+      "tsw_comparator": "and after flogging him, they will kill him, and on the third day he will rise.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.967742,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:34",
+      "delta": "F3",
+      "rationale": "Preserves threefold lack of understanding without blaming a stated agent.",
+      "source_reference": "Luke 18:34",
+      "source_verse_sha256": "37aa5abb01dee4d062f993ce7353f7bf5afecacf20415120cdb8f5103a874101",
+      "before": "They understood none of these things. The saying was hidden from them, and they did not know what he was talking about.",
+      "after": "But they understood none of these things. This saying was hidden from them, and they did not grasp what was said.",
+      "tsw_comparator": "And they understood none of these things, and this saying was hidden from them, and they did not know what was being said.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:35",
+      "delta": "F3",
+      "rationale": "Keeps location, blindness, posture, and livelihood.",
+      "source_reference": "Luke 18:35",
+      "source_verse_sha256": "773e2901283fcf9f913b4a9d703d45f50752b695caf4b9140c99580d3a8bd7d9",
+      "before": "As Jesus approached Jericho, a blind man was sitting beside the road begging.",
+      "after": "As Jesus approached Jericho, a blind man was sitting beside the road begging.",
+      "tsw_comparator": "And it happened as he was drawing near to Jericho, a certain blind man was sitting by the road begging.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.606061,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:38",
+      "delta": "F3",
+      "rationale": "Retains messianic title and plea.",
+      "source_reference": "Luke 18:38",
+      "source_verse_sha256": "b77d61c3bb2ee2528bec05b4648c31b265fce03b535cf39ef321d494a138822c",
+      "before": "He cried out, “Jesus, Son of David, have mercy on me!”",
+      "after": "He cried out, “Jesus, Son of David, have mercy on me!”",
+      "tsw_comparator": "And he cried out, saying, “Jesus, Son of David, have mercy on me!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:41",
+      "delta": "F3",
+      "rationale": "Preserves agency-giving question and request for restored sight.",
+      "source_reference": "Luke 18:41",
+      "source_verse_sha256": "802dda56e2de41f535c5555291d327604bd2711fef4d4ae8f5dd7b368d4d3ffa",
+      "before": "“What do you want me to do for you?” He said, “Lord, I want to see again.”",
+      "after": "“What do you want me to do for you?” He replied, “Lord, let me see again.”",
+      "tsw_comparator": "“What do you want me to do for you?” And he said, “Lord, that I may see again.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:42",
+      "delta": "F3",
+      "rationale": "Keeps restoration command and broad salvation language.",
+      "source_reference": "Luke 18:42",
+      "source_verse_sha256": "6fbb1790a0ceab8517e5dcf2cf0713e34c43cf73f219a44857433c7abe3b7f8d",
+      "before": "Jesus said, “See again. Your faith has saved you.”",
+      "after": "Jesus told him, “See again. Your faith has saved you.”",
+      "tsw_comparator": "And Jesus said to him, “See again; your faith has saved you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 18:43",
+      "delta": "F3",
+      "rationale": "Retains immediacy, discipleship, individual praise, public sight, and communal praise.",
+      "source_reference": "Luke 18:43",
+      "source_verse_sha256": "614fdbafef8204e2b8fd8c35c802f75869249a746a147a44ecd3a3b0bccf9a05",
+      "before": "Immediately he received his sight and followed Jesus, glorifying God. When all the people saw it, they gave praise to God.",
+      "after": "Immediately he regained his sight and followed Jesus, glorifying God. When all the people saw it, they gave praise to God.",
+      "tsw_comparator": "And immediately he saw again and was following him, glorifying God. And all the people, seeing it, gave praise to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.619048,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_18.md",
-    "blob_sha": "66c40f43338a8b173cde0a215ed495a3f89ba78a"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

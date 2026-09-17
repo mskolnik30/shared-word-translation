@@ -2,343 +2,653 @@
   "book": "John",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 46,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "457db006c1965c66365bae6b70cc18aa636f7d4ac5b00e04aaf5ce4ce5d04357"
-      },
-      "2": {
-        "source_ref": "John 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "428e46cb951e5a8077ccd960f1634fed0d192466b3620dc820d3f0a1a0eaf062"
-      },
-      "3": {
-        "source_ref": "John 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "69db5c159a7d2d234a240df8895a823e5b8f4e94c377698c0caedb1a84417400"
-      },
-      "5": {
-        "source_ref": "John 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "f538462fa51e9302f037f298b6a32c42556ee28e2cc54ba14669c80755d16c77"
-      },
-      "6": {
-        "source_ref": "John 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "56618415b7395a8f78662415056607637bc2c37bbe92899ae07f5e378e682c0a"
-      },
-      "7": {
-        "source_ref": "John 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "c9f0a4019810b01e1605abda1637696a024ec21c192ab35b5feb7a5a15b3b387"
-      },
-      "8": {
-        "source_ref": "John 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "23b76fea9db201c92428114fdd95af3a00c698fcd8014e4076086b556c772723"
-      },
-      "9": {
-        "source_ref": "John 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e5acd02f73e0614e6f947a3977f17b11abce2b3ee9611624dbf1a06fec41d654"
-      },
-      "10": {
-        "source_ref": "John 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "9af301e4c30dca57be3ddcdf329b7eea833a58d769ce1b5fe2cc073d48328038"
-      },
-      "11": {
-        "source_ref": "John 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "4b3015a75621679ffa1894f783f119fb6e07951ce74b85dc9a264fa8c9b1c63a"
-      },
-      "12": {
-        "source_ref": "John 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b3601ae7e1ea72cbde98cdc9d8dd8728f53659572c1b742761053100cf7adedb"
-      },
-      "13": {
-        "source_ref": "John 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "b4148d0525c15bff8509f45ff81a00edf36bfd56076d70fdbd2e3697bcc51f16"
-      },
-      "14": {
-        "source_ref": "John 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "d70567cb2e2e68c4bffc02e90767d4c8bc6bb93ec9b6479b9688adcdb502d853"
-      },
-      "15": {
-        "source_ref": "John 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "b8967dcb5b8cf4682a4fc231d8eee067e471c88ea411cb345884e0ca585bac77"
-      },
-      "16": {
-        "source_ref": "John 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "071b2bfb6fed309b22a93007f2c2db8393f1c181f5421f14e62c69af63ec9ebd"
-      },
-      "17": {
-        "source_ref": "John 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "64c6533992c3388fe2382a744768b9278ffad4fc6c320bb2e1ab2b42cdb76b06"
-      },
-      "18": {
-        "source_ref": "John 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "dac1b1391fdb6a9bdc410becc46eb7d5f94c2390db08489c8885dd455e899151"
-      },
-      "19": {
-        "source_ref": "John 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "35631f63c4653066f92d915013dcc5b8cf6e8f274222b95ff2238b8dfd23bd8a"
-      },
-      "20": {
-        "source_ref": "John 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "36b0384266a0e7cf5f5704990f7652d7856893280ad3d3527366573fed30ac18"
-      },
-      "21": {
-        "source_ref": "John 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "4eb0ffa828f7137817e8ec6947763f99f5d99cdedad1e49ecc68413eb4d44ab6"
-      },
-      "22": {
-        "source_ref": "John 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "7c2ba3cbc34d93b977d9659f45724cb4b239dab9794e8838b0dc6d31159a0e74"
-      },
-      "23": {
-        "source_ref": "John 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "20d5981a0aa46e4c9019aeeecf81b390d856c182391334ef9504d389eb9b8006"
-      },
-      "24": {
-        "source_ref": "John 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "afd06124526a309838672f66f4b2d3f4c632441212ef67ec4e78c99d5fe00ac0"
-      },
-      "25": {
-        "source_ref": "John 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "e4147f384cd86fa2fae199c0527de6c236ac7cde7d8d096e6e76a475ccfe4f01"
-      },
-      "26": {
-        "source_ref": "John 5:26",
-        "source_chapter": 5,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "0b6a253cbdf9ff9aecf696763d1b9f3582e6382f3d371a4a293323a560309689"
-      },
-      "27": {
-        "source_ref": "John 5:27",
-        "source_chapter": 5,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "aa06f508e2908ddc6daa078b40458d9a2e114ca5b3afd2932c2a2239171caf5e"
-      },
-      "28": {
-        "source_ref": "John 5:28",
-        "source_chapter": 5,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "46019bcce8eca0d2a8126105e3365f2493f3dacab618ed193a8366b58efb747e"
-      },
-      "29": {
-        "source_ref": "John 5:29",
-        "source_chapter": 5,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "7a5ee0e9bae9538e983e2b7327d45c59f8b0b6e5e3734339d5df8942babc5205"
-      },
-      "30": {
-        "source_ref": "John 5:30",
-        "source_chapter": 5,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "d2cc8e301a213d0ae729eb969434535a88965525a3c2aa694c55380afe3e46a4"
-      },
-      "31": {
-        "source_ref": "John 5:31",
-        "source_chapter": 5,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "e7782cd79d0b8fa16ed535ed2826604a2d172694cea23b606f6d438554fe174c"
-      },
-      "32": {
-        "source_ref": "John 5:32",
-        "source_chapter": 5,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "e91033b071beb000b61e3c6dd5a03e092094838b32086e9409726e380d04df5f"
-      },
-      "33": {
-        "source_ref": "John 5:33",
-        "source_chapter": 5,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "4341d5f7e0dd845a76926bafbb202394294df2880b9c8e6233d844fa3081e17e"
-      },
-      "34": {
-        "source_ref": "John 5:34",
-        "source_chapter": 5,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "c99e6d34b072c88fb8268bea29f1edd57f340aea82791424ce341a6f3d667602"
-      },
-      "35": {
-        "source_ref": "John 5:35",
-        "source_chapter": 5,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "e413194f1529eade873f3fb62c013a222819ab3b947c42c81ec267056ae83319"
-      },
-      "36": {
-        "source_ref": "John 5:36",
-        "source_chapter": 5,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "f73eb7951a3657bea2afd2c89be38352090e640474de460cc0de79ce1d7a46ca"
-      },
-      "37": {
-        "source_ref": "John 5:37",
-        "source_chapter": 5,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "912f97f5152c2d9f251c3ffe04dde324ef96ea8265043e22925bb961b5b2b6b8"
-      },
-      "38": {
-        "source_ref": "John 5:38",
-        "source_chapter": 5,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "b7d6d9c474298683e5866e0f494a99e8c733e59ea46f124ff762eba719a0efb0"
-      },
-      "39": {
-        "source_ref": "John 5:39",
-        "source_chapter": 5,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "36e3d80ee614c476ca5bf942b93f79718d6cb1ddaa00424d0990f90a3ee31699"
-      },
-      "40": {
-        "source_ref": "John 5:40",
-        "source_chapter": 5,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "634851b6f7268c197af944b2f01a952e2afbfc06125f670c81fbc1575bcad59a"
-      },
-      "41": {
-        "source_ref": "John 5:41",
-        "source_chapter": 5,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "98f57379b3ae0effd7b5802794935f939ff378bfe3085422e95f1fce8f787505"
-      },
-      "42": {
-        "source_ref": "John 5:42",
-        "source_chapter": 5,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "4da72927c7dfda8adf5a259e55e6b6b5ea96429a81ce7879adf49353e1d18c80"
-      },
-      "43": {
-        "source_ref": "John 5:43",
-        "source_chapter": 5,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "a3817cc857c395c3d493d3d1cc834db1b3431373252d649aec0f269f542fe8f5"
-      },
-      "44": {
-        "source_ref": "John 5:44",
-        "source_chapter": 5,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "5d16987e0660241cdeffa227d8166f33065d92bb0192937517709e0cc1c5dd9b"
-      },
-      "45": {
-        "source_ref": "John 5:45",
-        "source_chapter": 5,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "c5a6f61d712853947e85aa5d8830e49d00f9e2ccb649d51cd975df1bb23a27cd"
-      },
-      "46": {
-        "source_ref": "John 5:46",
-        "source_chapter": 5,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "f86c7f5d592bf40b1e37f36c41fd4eed5da719cd8b136007ec8522ddd85a4508"
-      },
-      "47": {
-        "source_ref": "John 5:47",
-        "source_chapter": 5,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "4f1a973627ea583454844956687cd1ea5a1b938494f47a30cf65e8d0c12a8515"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 46,
+    "path": "translations/fluent/NT/john/John_05.md",
+    "before_sha256": "e24133ae13bab775338d143cfe63f7944fbd59017b75cfdf555070f81c687032",
+    "after_sha256": "d9c086e93a389ddc215f2adf67e9dbcbca97a9c478b6e82be25c7405ce69c4e9",
+    "tsw_comparator_path": "books/NT/john/John_05.md",
+    "tsw_comparator_sha256": "b3e3d5a0e4351cb8c536247f0f52a59836083dfb44ddfb285cc0a979af75ab38",
+    "source_omitted_public_labels": [
+      4
+    ],
+    "source_omission_reason": "Absent from pinned SBLGNT; the parent Fluent already preserves this numbering gap.",
+    "tsw_omitted_public_labels": [
+      4
+    ],
+    "tsw_omission_reason": "TSW also lacks these public labels; comparator bytes unchanged."
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 5:1",
+      "delta": "F3",
+      "rationale": "Keeps unspecified festival, cultural identity, and ascent.",
+      "source_reference": "John 5:1",
+      "source_verse_sha256": "6535bd2c5f0e35c2fd906a21168ed5b1db7a42587ef54ae06a8596d981a32dc2",
+      "before": "After this there was a Jewish festival, and Jesus went up to Jerusalem.",
+      "after": "After this there was a Jewish festival, and Jesus went up to Jerusalem.",
+      "tsw_comparator": "After these things there was a feast of the Jews, and Jesus went up to Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.689655,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:2",
+      "delta": "F3",
+      "rationale": "Preserves present-tense description, location, pinned place name, language, and exact structures.",
+      "source_reference": "John 5:2",
+      "source_verse_sha256": "48759ca2540c1aef3bb7720b16b2121db88f2ea09ac4f0c962fe1f3ab76394e3",
+      "before": "In Jerusalem near the Sheep Gate there is a pool called in Hebrew Bethesda, with five covered walkways.",
+      "after": "Now in Jerusalem by the Sheep Gate there is a pool called Bethesda in Hebrew, with five covered walkways.",
+      "tsw_comparator": "Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew Bethesda, having five porticoes.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:3",
+      "delta": "F3",
+      "rationale": "Keeps large group and three conditions without importing later water explanation.",
+      "source_reference": "John 5:3",
+      "source_verse_sha256": "ed5daaaec8e06fcdd72395f06690084d1bde52044747b08be0d478c9bc733c14",
+      "before": "In these lay a large number of sick, blind, lame, and paralyzed people.",
+      "after": "A multitude of sick people lay in them—people who were blind, lame, or paralyzed.",
+      "tsw_comparator": "In these lay a multitude of those who were sick, blind, lame, paralyzed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:5",
+      "delta": "F3",
+      "rationale": "Preserves absent public verse 4, gender, condition, and exact duration.",
+      "source_reference": "John 5:5",
+      "source_verse_sha256": "96b88c99660f1ed1a4c81e5f3bae7cd937434b0a49e5f3ab766f9fc876ef318e",
+      "before": "A man was there who had been ill for thirty-eight years.",
+      "after": "One man there had lived with his illness for thirty-eight years.",
+      "tsw_comparator": "And a certain man was there who had been in his sickness for thirty-eight years.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:6",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ initiative, knowledge, duration, and agency-respecting question.",
+      "source_reference": "John 5:6",
+      "source_verse_sha256": "2ffe0ea20797ded968513664613703f3ae5a4480e8ceedafe81c7cfa9938301a",
+      "before": "When Jesus saw him lying there and knew he had already been there a long time, he asked, “Do you want to become well?”",
+      "after": "When Jesus saw him lying there and knew he had already been in that condition a long time, he asked, “Do you want to become well?”",
+      "tsw_comparator": "Jesus, seeing him lying there and knowing that he had already been there a long time, says to him, “Do you want to become well?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:7",
+      "delta": "F3",
+      "rationale": "Preserves his isolation, water belief, limited movement, and repeated displacement.",
+      "source_reference": "John 5:7",
+      "source_verse_sha256": "e74dc9438dbd7b23591577667ba4198cb0c75b4b773e39a22e49058dcd032602",
+      "before": "The sick man answered, “Sir, I have no one to put me into the pool when the water is stirred. While I am going, someone else gets there before me.”",
+      "after": "The sick man answered, “Sir, I have no one to put me into the pool when the water is stirred. While I am going, someone else goes down ahead of me.”",
+      "tsw_comparator": "The sick man answered him, “Sir, I have no one that when the water is stirred I might be put into the pool; but while I am coming, another goes down before me.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:8",
+      "delta": "F3",
+      "rationale": "Keeps three direct bodily commands.",
+      "source_reference": "John 5:8",
+      "source_verse_sha256": "a968c75933fc32e1958250f2c56b386492f972fecd3808bebe6ae838487df586",
+      "before": "Jesus told him, “Get up, pick up your mat, and walk.”",
+      "after": "Jesus told him, “Get up, pick up your mat, and walk.”",
+      "tsw_comparator": "Jesus says to him, “Rise, take up your mat and walk.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:9",
+      "delta": "F3",
+      "rationale": "Preserves immediacy, restored action, and Sabbath turn.",
+      "source_reference": "John 5:9",
+      "source_verse_sha256": "96fdb46eb458c8fe8ede8e5bbae144fd5ec87e6f46389052f34007ebd53ab1fc",
+      "before": "Immediately the man became well, picked up his mat, and began walking. Now that day was a Sabbath.",
+      "after": "Immediately the man became well, picked up his mat, and began walking. That day was a Sabbath.",
+      "tsw_comparator": "And immediately the man became well, and he took up his mat and began to walk. Now it was the Sabbath on that day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.585366,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:10",
+      "delta": "F3",
+      "rationale": "Clarifies enforcement role while keeping healing, law claim, and mat.",
+      "source_reference": "John 5:10",
+      "source_verse_sha256": "a67a227b9fc982950e919f9783822b1c02b874a3bab7417547ceb6d875ac3053",
+      "before": "So the Jewish leaders told the man who had been healed, “It is the Sabbath. It is not lawful for you to carry your mat.”",
+      "after": "So the Jewish authorities told the man who had been healed, “It is the Sabbath, and you are not permitted to carry your mat.”",
+      "tsw_comparator": "Therefore the Jews were saying to the one who had been healed, “It is the Sabbath, and it is not lawful for you to carry your mat.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627451,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:11",
+      "delta": "F3",
+      "rationale": "Keeps healer’s authority and repeated commands.",
+      "source_reference": "John 5:11",
+      "source_verse_sha256": "ea35df9e7e8da2d94b9701dfa2ba74b724362d115a8456d9c98981983a822403",
+      "before": "He answered, “The man who made me well told me, ‘Pick up your mat and walk.’”",
+      "after": "He answered them, “The one who made me well told me, ‘Pick up your mat and walk.’”",
+      "tsw_comparator": "But he answered them, “The one who made me well, that one said to me, ‘Take up your mat and walk.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:12",
+      "delta": "F3",
+      "rationale": "Preserves focus on command rather than healing.",
+      "source_reference": "John 5:12",
+      "source_verse_sha256": "d249ef421a908cb59fe9dc3d587e6ffdfc251a66b7a557d06ec97abc146f298c",
+      "before": "They asked, “Who is the man who told you, ‘Pick it up and walk’?”",
+      "after": "They asked him, “Who is the man who told you, ‘Pick it up and walk’?”",
+      "tsw_comparator": "They asked him, “Who is the man who said to you, ‘Take up and walk’?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:13",
+      "delta": "F3",
+      "rationale": "Keeps healed identity, ignorance, Jesus’ withdrawal, and crowd.",
+      "source_reference": "John 5:13",
+      "source_verse_sha256": "c8ae2720cc600c4a3c97632cf49789824eb7dbe1c5ed62e8cd6373f6a2d78b80",
+      "before": "But the man who had been healed did not know who it was, because Jesus had slipped away into the crowd there.",
+      "after": "But the man who had been healed did not know who it was, because Jesus had slipped away into the crowd that was there.",
+      "tsw_comparator": "But the one who had been healed did not know who it was, for Jesus had withdrawn, a crowd being in the place.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638298,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:14",
+      "delta": "F3",
+      "rationale": "Preserves later encounter, healing, continued-sin warning, and unspecified worse outcome without claiming the illness was caused by sin.",
+      "source_reference": "John 5:14",
+      "source_verse_sha256": "f3005286b7e1035ab4f2f068bb9c8ace9aad045c3392fa97ef53ecf1bf9fda13",
+      "before": "Afterward Jesus found him in the temple and said, “Look, you have become well. Do not sin anymore, so that something worse does not happen to you.”",
+      "after": "Afterward, Jesus found him in the temple courts and said, “Look, you have become well. Do not keep sinning, so that nothing worse happens to you.”",
+      "tsw_comparator": "Afterward Jesus finds him in the temple and said to him, “Behold, you have become well; sin no more, so that nothing worse may happen to you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.679245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:15",
+      "delta": "F3",
+      "rationale": "Keeps report, leadership recipients, Jesus’ identity, and healing.",
+      "source_reference": "John 5:15",
+      "source_verse_sha256": "5a111bff1b30efe5f2cc3b9763eb155ba058da91cff5840b0d0183a7df40be41",
+      "before": "The man went away and told the Jewish leaders that Jesus was the one who had made him well.",
+      "after": "The man went away and told the Jewish authorities that Jesus was the one who had made him well.",
+      "tsw_comparator": "The man went away and reported to the Jews that it was Jesus who had made him well.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.702703,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:16",
+      "delta": "F3",
+      "rationale": "Clarifies continuing leadership opponents and preserves Sabbath cause.",
+      "source_reference": "John 5:16",
+      "source_verse_sha256": "f21b43291521d908a6dc7f6c1fc58707a2df03a247f05f6389d0f58184bdcaf5",
+      "before": "Because of this, the Jewish leaders began persecuting Jesus, because he was doing these things on the Sabbath.",
+      "after": "Because Jesus was doing these things on the Sabbath, the authorities began persecuting him.",
+      "tsw_comparator": "And for this reason the Jews were persecuting Jesus, because he was doing these things on the Sabbath.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:17",
+      "delta": "F3",
+      "rationale": "Keeps continuing divine and filial work.",
+      "source_reference": "John 5:17",
+      "source_verse_sha256": "deab3d95bf2b2d2a3e08d8f3e8cc6fac410ab3066e33290cce41df6c7192c006",
+      "before": "But Jesus answered them, “My Father is working until now, and I am working too.”",
+      "after": "But Jesus answered them, “My Father is still working, and I too am working.”",
+      "tsw_comparator": "But he answered them, “My Father is working until now, and I also am working.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:18",
+      "delta": "F3",
+      "rationale": "Preserves escalated lethal intent, both reasons, and narrator’s equality explanation.",
+      "source_reference": "John 5:18",
+      "source_verse_sha256": "512a7adf82d323f8d1de676bf310b718da164790502f82a6a20c6a94f13318e4",
+      "before": "Because of this, the leaders sought all the more to kill him, because he was not only breaking the Sabbath but was also calling God his own Father, making himself equal with God.",
+      "after": "For this reason the authorities sought all the more to kill him, because he was not only loosening the Sabbath but also calling God his own Father, making himself equal with God.",
+      "tsw_comparator": "For this reason therefore the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but also calling God his own Father, making himself equal with God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:19",
+      "delta": "F3",
+      "rationale": "Keeps inability of independent action, seeing, imitation, and shared works.",
+      "source_reference": "John 5:19",
+      "source_verse_sha256": "2a9feb9e7afbb721271f30e2a1731686743de5a4ecc30d23acd66d49bd7bd8a6",
+      "before": "Jesus answered them, “Truly, truly, I tell you, the Son can do nothing from himself unless he sees the Father doing it. Whatever the Father does, the Son does in the same way.",
+      "after": "So Jesus answered them, “Truly, truly, I tell you, the Son can do nothing on his own, but only what he sees the Father doing. Whatever the Father does, the Son does likewise.",
+      "tsw_comparator": "Therefore Jesus answered and was saying to them, “Truly, truly, I say to you, the Son is not able to do anything from himself, unless he sees the Father doing it; for whatever that one does, these things also the Son likewise does.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.526316,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:20",
+      "delta": "F3",
+      "rationale": "Preserves love, revelation, greater works, and audience response.",
+      "source_reference": "John 5:20",
+      "source_verse_sha256": "9aacb31e52fc65b76bdc3431cc85ec838e2c23d856534026022c2d4ff2bad6ca",
+      "before": "For the Father loves the Son and shows him everything he is doing, and he will show him greater works than these so that you may be amazed.",
+      "after": "For the Father loves the Son and shows him everything he is doing. He will show him greater works than these, so that you will be amazed.",
+      "tsw_comparator": "For the Father loves the Son and shows him all that he himself is doing, and greater works than these he will show him, so that you may marvel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:21",
+      "delta": "F3",
+      "rationale": "Keeps resurrection-life work and the Son’s will.",
+      "source_reference": "John 5:21",
+      "source_verse_sha256": "d000c7c8b7d4662017a85c38e3172363f16a2d848e3a6381fe5d26c290ec1a44",
+      "before": "Just as the Father raises the dead and gives them life, so also the Son gives life to whomever he wants.",
+      "after": "Just as the Father raises the dead and gives them life, so the Son gives life to whomever he wishes.",
+      "tsw_comparator": "For just as the Father raises the dead and gives life, so also the Son gives life to whom he wills.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:22",
+      "delta": "F3",
+      "rationale": "Preserves comprehensive transfer of judgment.",
+      "source_reference": "John 5:22",
+      "source_verse_sha256": "6eebdc9e228aa89b0a85c085a1c58ed876859ce9ef095aad85dd82412a1c1174",
+      "before": "The Father judges no one but has given all judgment to the Son,",
+      "after": "The Father does not judge anyone but has entrusted all judgment to the Son,",
+      "tsw_comparator": "For neither does the Father judge anyone, but he has given all judgment to the Son,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:23",
+      "delta": "F3",
+      "rationale": "Keeps equal honor, negative corollary, and sending.",
+      "source_reference": "John 5:23",
+      "source_verse_sha256": "87afa5e6aeced1d9ef4a6d844c76c64afb89f21daacd3eb42357867e4c3caba4",
+      "before": "so that everyone may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.",
+      "after": "so that everyone may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.",
+      "tsw_comparator": "so that all may honor the Son just as they honor the Father. The one not honoring the Son does not honor the Father who sent him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:24",
+      "delta": "F3",
+      "rationale": "Preserves hearing, belief, present possession, no judgment, and completed passage.",
+      "source_reference": "John 5:24",
+      "source_verse_sha256": "fe7ffad7c61357c4207cd1aeae6bcd2149d4db8e51a0334aecaed37fe3ab0428",
+      "before": "Truly, truly, I tell you, whoever hears my word and trusts the one who sent me has eternal life and does not come into judgment but has passed from death into life.",
+      "after": "Truly, truly, I tell you, whoever hears my word and believes the one who sent me has eternal life and does not come into judgment, but has crossed over from death into life.",
+      "tsw_comparator": "Truly, truly, I say to you, the one who hears my word and believes the one who sent me has eternal life and does not come into judgment, but has passed from death into life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.852941,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:25",
+      "delta": "F3",
+      "rationale": "Keeps present-future hour, dead, voice, hearing, and life.",
+      "source_reference": "John 5:25",
+      "source_verse_sha256": "1acd35c1127d8b7161de1fbfb5c0a5a3591a4aa4ed255cb82fb18edf67b185f7",
+      "before": "Truly, truly, I tell you, an hour is coming—and is now here—when the dead will hear the voice of God’s Son, and those who hear will live.",
+      "after": "Truly, truly, I tell you, an hour is coming—and is now here—when the dead will hear the voice of the Son of God, and those who hear will live.",
+      "tsw_comparator": "Truly, truly, I say to you, an hour is coming and now is, when the dead will hear the voice of the Son of God, and those who hear will live.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:26",
+      "delta": "F3",
+      "rationale": "Preserves self-existent life and Father’s grant.",
+      "source_reference": "John 5:26",
+      "source_verse_sha256": "eb526e82820279664569895d2c855865f4882927073f85e8d0b275c8ed8a89b7",
+      "before": "Just as the Father has life in himself, so he has granted the Son also to have life in himself.",
+      "after": "For just as the Father has life in himself, so he has granted the Son also to have life in himself.",
+      "tsw_comparator": "For just as the Father has life in himself, so he has granted also to the Son to have life in himself,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.930233,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:27",
+      "delta": "F3",
+      "rationale": "Keeps authority, judgment, and human/messianic title without an article in Greek.",
+      "source_reference": "John 5:27",
+      "source_verse_sha256": "9358e6c00b47d0f6aa36ecca3f88b74dce7911edf0c1332ccf1b55ab58f91140",
+      "before": "He gave him authority to execute judgment because he is the Son of Man.",
+      "after": "And he has given the Son authority to execute judgment because he is the Son of Man.",
+      "tsw_comparator": "and he gave him authority to execute judgment, because he is the Son of Man.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:28",
+      "delta": "F3",
+      "rationale": "Preserves future hour, universal tombs, and voice.",
+      "source_reference": "John 5:28",
+      "source_verse_sha256": "3d748679a7d560c6c5800f61fac1f1d32d177749824733add09c3e4b6fe2f026",
+      "before": "Do not be amazed at this, because an hour is coming when everyone in the tombs will hear his voice",
+      "after": "Do not be amazed at this, because an hour is coming when everyone in the tombs will hear his voice",
+      "tsw_comparator": "Do not marvel at this, because an hour is coming in which all those in the tombs will hear his voice",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:29",
+      "delta": "F3",
+      "rationale": "Keeps moral actions and two resurrection outcomes.",
+      "source_reference": "John 5:29",
+      "source_verse_sha256": "5f085653126880221301f9591dea26160afbc0dec255415478d0a4efc99da2e1",
+      "before": "and come out: those who have done good to a resurrection of life, and those who have practiced evil to a resurrection of judgment.",
+      "after": "and come out: those who have done good to a resurrection of life, and those who have practiced evil to a resurrection of judgment.",
+      "tsw_comparator": "and will come out—those who have done good to a resurrection of life, but those who have practiced evil to a resurrection of judgment.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.938776,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:30",
+      "delta": "F3",
+      "rationale": "Retains dependence, hearing, just judgment, contrasting wills, and sending within Jesus’ continuing speech.",
+      "source_reference": "John 5:30",
+      "source_verse_sha256": "8e9f0d1c514dbb44bcb5e5f89336f73543f9e060f6bb85fd3e64a9709919548a",
+      "before": "I can do nothing from myself. I judge just as I hear, and my judgment is righteous, because I do not seek my own will but the will of the one who sent me.",
+      "after": "I can do nothing on my own. I judge according to what I hear, and my judgment is just, because I do not seek my own will but the will of the one who sent me.",
+      "tsw_comparator": "I am not able to do anything from myself; just as I hear, I judge, and my judgment is righteous, because I do not seek my own will but the will of the one who sent me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684932,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:31",
+      "delta": "F3",
+      "rationale": "Clarifies forensic insufficiency without calling Jesus’ words false.",
+      "source_reference": "John 5:31",
+      "source_verse_sha256": "ac20104c4dfb5675ed7b385fda401cc1b419d2b9b8dbfa192970d52defa35348",
+      "before": "“If I testify about myself, my testimony is not valid on its own.",
+      "after": "If I testify about myself, my testimony is not valid by itself.",
+      "tsw_comparator": "If I bear witness about myself, my witness is not true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.608696,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:32",
+      "delta": "F3",
+      "rationale": "Keeps other witness and repeated testimony.",
+      "source_reference": "John 5:32",
+      "source_verse_sha256": "98cc36f8fb772e87c40475890b36bc26745c72fb4ce0d50592b916747d100ea5",
+      "before": "There is another who testifies about me, and I know the testimony he gives about me is true.",
+      "after": "There is another who testifies about me, and I know that the testimony he gives about me is true.",
+      "tsw_comparator": "There is another who bears witness about me, and I know that the witness which he bears about me is true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:33",
+      "delta": "F3",
+      "rationale": "Preserves audience action, John, and truth.",
+      "source_reference": "John 5:33",
+      "source_verse_sha256": "529a1917c67366ee255f3eff60dad0418212bd7afa406aa815c616875704d04d",
+      "before": "You sent people to John, and he testified to the truth.",
+      "after": "You sent messengers to John, and he testified to the truth.",
+      "tsw_comparator": "You have sent to John, and he has borne witness to the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:34",
+      "delta": "F3",
+      "rationale": "Keeps independence from human witness and saving purpose.",
+      "source_reference": "John 5:34",
+      "source_verse_sha256": "da9ed805286eec558a696ac7fecdeffda227d56267c75b46c5e027448a259f63",
+      "before": "I do not depend on human testimony, but I say these things so that you may be saved.",
+      "after": "I do not depend on testimony from a human being, but I say these things so that you may be saved.",
+      "tsw_comparator": "But I do not receive testimony from man, but I say these things so that you may be saved.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:35",
+      "delta": "F3",
+      "rationale": "Preserves lamp-light distinction, temporary joy, and past response.",
+      "source_reference": "John 5:35",
+      "source_verse_sha256": "bd4897d444458a9c0f31183a32902bafefc35fd5cf3654bffb33b7816d761fbc",
+      "before": "John was the lamp that burned and shone, and you were willing for a time to rejoice in his light.",
+      "after": "John was the lamp that burned and shone, and for a time you were willing to rejoice in his light.",
+      "tsw_comparator": "That one was the burning and shining lamp, and you were willing to rejoice for a time in his light.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:36",
+      "delta": "F3",
+      "rationale": "Keeps greater witness, gifted mission, completion, present works, and sending.",
+      "source_reference": "John 5:36",
+      "source_verse_sha256": "7c1c3da903712c61aab90312355e59e61affdeb560cb63dd3888dafd932740f9",
+      "before": "But I have testimony greater than John’s: the works the Father has given me to complete. The very works I am doing testify about me that the Father has sent me.",
+      "after": "But I have testimony greater than John’s: the works the Father has given me to complete—the very works I am doing—testify about me that the Father has sent me.",
+      "tsw_comparator": "But I have the testimony greater than John’s; for the works that the Father has given me to complete, these very works that I am doing testify about me that the Father has sent me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:37",
+      "delta": "F3",
+      "rationale": "Preserves divine witness and denied hearing and sight.",
+      "source_reference": "John 5:37",
+      "source_verse_sha256": "efb3a6e1681faa69626ffa024b42d2b523723b8ecedc2d5afc8a0d13a877f8f3",
+      "before": "And the Father who sent me has himself testified about me. You have never heard his voice or seen his form,",
+      "after": "And the Father who sent me has himself testified about me. You have never heard his voice or seen his form,",
+      "tsw_comparator": "And the Father who sent me has himself borne witness about me. You have neither heard his voice at any time nor seen his form,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:38",
+      "delta": "F3",
+      "rationale": "Keeps abiding-word theme and reason.",
+      "source_reference": "John 5:38",
+      "source_verse_sha256": "41b1878db1e1f9e3d02b7f00828303a88faba2c5c0e28416524aeb626a4a5f83",
+      "before": "and you do not have his word remaining in you, because you do not trust the one he sent.",
+      "after": "and you do not have his word remaining in you, because you do not believe the one he sent.",
+      "tsw_comparator": "and you do not have his word abiding in you, because whom that one sent, this one you do not believe.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:39",
+      "delta": "F3",
+      "rationale": "Preserves ambiguous indicative/imperative as an observed practice, life, and scriptural witness.",
+      "source_reference": "John 5:39",
+      "source_verse_sha256": "7a01c3b6151345d54e6a2da34a4c60ad5409d51dc0d211650c011a4057108081",
+      "before": "You search the Scriptures because you think you have eternal life in them, and these are the very Scriptures that testify about me.",
+      "after": "You search the Scriptures because you think that in them you have eternal life; yet they are the very writings that testify about me,",
+      "tsw_comparator": "You search the Scriptures because you think that in them you have eternal life, and these are the ones bearing witness about me,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:40",
+      "delta": "F3",
+      "rationale": "Keeps volitional refusal, movement, and life.",
+      "source_reference": "John 5:40",
+      "source_verse_sha256": "bd7c147830e569cb57f831f5aad181c5dc1eb0225b109e7c2f6d379cb901382c",
+      "before": "Yet you are unwilling to come to me so that you may have life.",
+      "after": "but you are unwilling to come to me so that you may have life.",
+      "tsw_comparator": "and you are not willing to come to me so that you may have life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:42",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ knowledge and ambiguous love from/for God.",
+      "source_reference": "John 5:42",
+      "source_verse_sha256": "42992e2091b1d40a1bc97b4cd455de9da80a389179c204f592ef4d2f0b568dd7",
+      "before": "but I know you: you do not have the love of God in yourselves.",
+      "after": "But I know you: you do not have the love of God in yourselves.",
+      "tsw_comparator": "but I know you, that you do not have the love of God in yourselves.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.965517,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:43",
+      "delta": "F3",
+      "rationale": "Preserves contrasting names and receptions.",
+      "source_reference": "John 5:43",
+      "source_verse_sha256": "a13fdb62434735c95460aa64d1f854b9d1ccdcf7193879a1166c91c9d6c93da2",
+      "before": "I have come in my Father’s name, and you do not receive me. If someone else comes in their own name, you will receive that person.",
+      "after": "I have come in my Father’s name, and you do not receive me. If someone else comes in his own name, you will receive him.",
+      "tsw_comparator": "I have come in the name of my Father, and you do not receive me; if another comes in his own name, that one you will receive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:44",
+      "delta": "F3",
+      "rationale": "Keeps rhetorical inability, reciprocal honor, and sole divine honor.",
+      "source_reference": "John 5:44",
+      "source_verse_sha256": "988fac596d3bd8e956dde6dfdd6b8d44adee10db0294ce60226d7e5b84c8aa4b",
+      "before": "How can you trust when you receive glory from one another and do not seek the glory that comes from the only God?",
+      "after": "How can you believe when you accept glory from one another but do not seek the glory that comes from the only God?",
+      "tsw_comparator": "How are you able to believe, receiving glory from one another and not seeking the glory that is from the only God?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:45",
+      "delta": "F3",
+      "rationale": "Preserves courtroom setting, Moses, and misplaced hope.",
+      "source_reference": "John 5:45",
+      "source_verse_sha256": "c77e644e10d205abaa30efa0a5475eef0700d48e3661ea7dc9c2f19bbd559e6a",
+      "before": "Do not think I will accuse you before the Father. The one accusing you is Moses, in whom you have placed your hope.",
+      "after": "Do not think that I will accuse you before the Father. Your accuser is Moses, in whom you have placed your hope.",
+      "tsw_comparator": "Do not think that I will accuse you to the Father; there is one who accuses you—Moses, in whom you have hoped.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:46",
+      "delta": "F3",
+      "rationale": "Keeps conditional relation and Mosaic witness.",
+      "source_reference": "John 5:46",
+      "source_verse_sha256": "a1b304398a4c22e0aedf45056032a195eb6104b175a47b240f6bbfb233245624",
+      "before": "If you trusted Moses, you would trust me, because he wrote about me.",
+      "after": "For if you believed Moses, you would believe me, because he wrote about me.",
+      "tsw_comparator": "For if you believed Moses, you would believe me, for he wrote about me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.928571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 5:47",
+      "delta": "F3",
+      "rationale": "Preserves writings-words contrast and closing question.",
+      "source_reference": "John 5:47",
+      "source_verse_sha256": "c70d2eea8202f39c88cb5bcae4ad5c12bd5f8864a15004130be4fe5ad4331f9a",
+      "before": "But if you do not trust his writings, how will you trust my words?”",
+      "after": "But if you do not believe his writings, how will you believe my words?”",
+      "tsw_comparator": "But if you do not believe his writings, how will you believe my words?”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_05.md",
-    "blob_sha": "88f19ceb2732e0608b312aaa68083570b0aa9c45"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

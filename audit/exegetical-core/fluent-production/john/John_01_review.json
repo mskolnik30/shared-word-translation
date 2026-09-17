@@ -2,378 +2,528 @@
   "book": "John",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 51,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "f42e63fa66f17d29d79bce669214735f419c3e259f7eeeffb3d0158aceaed177"
-      },
-      "2": {
-        "source_ref": "John 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "b86fb3d2cd8118b010c263800e8e4474a71d42bef3397d9abe4cfdeb330aee52"
-      },
-      "3": {
-        "source_ref": "John 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "561d247430a0692c341ddb359974a6394a1dd43eceaaf695d8cd3ab9610a5afc"
-      },
-      "4": {
-        "source_ref": "John 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "5d14ef49c9e275125e90451aea6b0178cd3f4d157fd3b8c21e05ac9c62576298"
-      },
-      "5": {
-        "source_ref": "John 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "4258d700cad40d513f531de5f053baf156aaf2750d17162ae999b40f4e1ed672"
-      },
-      "6": {
-        "source_ref": "John 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "338a988bef85fe0e1c159e4eaf46902fa43ded45a6bf97ebedb86f7d9e29abc1"
-      },
-      "7": {
-        "source_ref": "John 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "a4dc8d3039c6e64cb1fd58adb33795b4ad111a0f089234c5a9d0eec4c08e5e0a"
-      },
-      "8": {
-        "source_ref": "John 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "36b80d1e6b50cd28b56b974abc07b534fb580b17b4a3dbf81d2ed885a9eb6e7c"
-      },
-      "9": {
-        "source_ref": "John 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "59aca70fb5bb1bfebb811c9ae9d0af5d351437dee22d0f39ec5225f48b77b1a0"
-      },
-      "10": {
-        "source_ref": "John 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "397a18bed5c92391ee4c8c8c516ce6826e844e26a8133072f0f43f6445129755"
-      },
-      "11": {
-        "source_ref": "John 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "343a0670e39d3ab01862e793a0fd50ee76d3db9644b63779d15ebe322c004e99"
-      },
-      "12": {
-        "source_ref": "John 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "aca4ce0e2c84b19232f8aac8c367c33240f4f4f097ac85a0f390433835ff30b8"
-      },
-      "13": {
-        "source_ref": "John 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "55966f84c0d083495dbbf74a64365bad2225d4be1bca110cc71faad919c152e3"
-      },
-      "14": {
-        "source_ref": "John 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "fff57dd6381a4ef64c9a525d1678fa9666ace1d978530674e8da5d91f08e0145"
-      },
-      "15": {
-        "source_ref": "John 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "059b83e892d6f37256c80043a0f1c4e41af9343d7ec43a53ed7429ba3704bee7"
-      },
-      "16": {
-        "source_ref": "John 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "93f589cd9f2fb05e35d913fa14e4c8956ed342784ca062e555884b5047527968"
-      },
-      "17": {
-        "source_ref": "John 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "8fa4775e0fa136b1c02ea3dcffe1b0f08ac02cd6093324fa911c38b21b6c6579"
-      },
-      "18": {
-        "source_ref": "John 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "a252c06fbbeda08b070f142c5affa460cf27c4f377c6a8097c314623a850f2ed"
-      },
-      "19": {
-        "source_ref": "John 1:19",
-        "source_chapter": 1,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "06fec367ef8e39511614bdef2c69af5974c1a75806adceade40e1139c723fa2d"
-      },
-      "20": {
-        "source_ref": "John 1:20",
-        "source_chapter": 1,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "d3efd5b404d4214c4d2dd1b882f20bb84affd7741b936bdd48fe1a3476ddb116"
-      },
-      "21": {
-        "source_ref": "John 1:21",
-        "source_chapter": 1,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "855e9a29da123b5b36e035590fc83acd9793fce7cbde5c89353a3c0a3ba972e2"
-      },
-      "22": {
-        "source_ref": "John 1:22",
-        "source_chapter": 1,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "2ae2c60bd4fc2ddff996ac2669c7d5747cf1ec4a9bc3aa668118f0504c07a7f0"
-      },
-      "23": {
-        "source_ref": "John 1:23",
-        "source_chapter": 1,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "6f29b54423fe611602095dfe67928016a5df1fa58f35b081ea17c18ac0d82d50"
-      },
-      "24": {
-        "source_ref": "John 1:24",
-        "source_chapter": 1,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "c545a1f230a1f83070240858e98913d70d736405ba858331b6e1aab67651439b"
-      },
-      "25": {
-        "source_ref": "John 1:25",
-        "source_chapter": 1,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "f389a57d7348fd17504386b19a083be5d919ecdc149e59994e3887c7de41ca9d"
-      },
-      "26": {
-        "source_ref": "John 1:26",
-        "source_chapter": 1,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "17e0761aaff08e7cf1dcdccd6bffe664995c900a7d319d34f9fb440dfb12015c"
-      },
-      "27": {
-        "source_ref": "John 1:27",
-        "source_chapter": 1,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "e7df0ff95f9d830d846677ba91cfe0b5786f41e3f38d2b23e55daeaf477cd195"
-      },
-      "28": {
-        "source_ref": "John 1:28",
-        "source_chapter": 1,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "63daf5b95bee18a7cb11ed87944c644dc403713d512f5baac1475f9b1267f779"
-      },
-      "29": {
-        "source_ref": "John 1:29",
-        "source_chapter": 1,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "6fae2441f58b1a43a5a79b86f075529c2df1c7670ba46074eb7a7044b59d9126"
-      },
-      "30": {
-        "source_ref": "John 1:30",
-        "source_chapter": 1,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "e64c6006381d743b90dc7104de7a46486c40a3b86ddc617aff71f36f4bd7e702"
-      },
-      "31": {
-        "source_ref": "John 1:31",
-        "source_chapter": 1,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "a18f2324fcf89b8e87927237caee192417b3845af1dac63482a4520fd6c896f7"
-      },
-      "32": {
-        "source_ref": "John 1:32",
-        "source_chapter": 1,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "bce1be8c33ee660c58f9dd7b04d476435fc8589d797dc3f4aa3caf536795a3e0"
-      },
-      "33": {
-        "source_ref": "John 1:33",
-        "source_chapter": 1,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "e310a207e077b53e8c04a39fe06d9e2de1dafffb52f95808bde6bc28f6ba0b4f"
-      },
-      "34": {
-        "source_ref": "John 1:34",
-        "source_chapter": 1,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "04bb3e4d460056b2055720141268560c130d2e203f906fe643957dfb3bdae058"
-      },
-      "35": {
-        "source_ref": "John 1:35",
-        "source_chapter": 1,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "e1782e081b99d61dc271ff157aa431e957a7f9283605abf46448e6f000f453dc"
-      },
-      "36": {
-        "source_ref": "John 1:36",
-        "source_chapter": 1,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "075e46db13da04f3a76829068f9b397e2d4edc9cf3701f5a2d1bb82da1f2a79e"
-      },
-      "37": {
-        "source_ref": "John 1:37",
-        "source_chapter": 1,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "5dde563b1797298f37cfbcddaebcf7c8c87c7f8fda83f8b7166817ccf52a4c8d"
-      },
-      "38": {
-        "source_ref": "John 1:38",
-        "source_chapter": 1,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "fe1a09f2a46e08c60cd384a952beaedcafbf423b8813857244d2cb2a04541706"
-      },
-      "39": {
-        "source_ref": "John 1:39",
-        "source_chapter": 1,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "048992a5db38981779980486265f1c58521f560554ca8b1165506213b1562c4f"
-      },
-      "40": {
-        "source_ref": "John 1:40",
-        "source_chapter": 1,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "668b138967998e304d5b8d89021708ba075d46278eda192c24bfb2ca3f28d4da"
-      },
-      "41": {
-        "source_ref": "John 1:41",
-        "source_chapter": 1,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "57dd40bc44c49028fd454cec309c0ab0930fc219f51370228bba71b0e4ee07c4"
-      },
-      "42": {
-        "source_ref": "John 1:42",
-        "source_chapter": 1,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "a41f490ee8e72c84faaa64dd8cbd6bc8fa087f9c8c5a396a9bc084fe5e0b13c2"
-      },
-      "43": {
-        "source_ref": "John 1:43",
-        "source_chapter": 1,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "fce5b65bac639ae804c5d4673d5682e1a5bf464f81f454a4b8a5d2e75360a7b1"
-      },
-      "44": {
-        "source_ref": "John 1:44",
-        "source_chapter": 1,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "a634f8a0c7574372f60d1f52172afe7631d7754d45d6a778f7a769d3b52e3965"
-      },
-      "45": {
-        "source_ref": "John 1:45",
-        "source_chapter": 1,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "b08dd3e40a5bb81856bf497181a2c06bc6caed6ac471793ab1d2ae96af3fe2aa"
-      },
-      "46": {
-        "source_ref": "John 1:46",
-        "source_chapter": 1,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "94299aa9830010b8f84a0a535c4c5fab69f291948d8a3c998d5e7699acf04948"
-      },
-      "47": {
-        "source_ref": "John 1:47",
-        "source_chapter": 1,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "9c81ac0a7bbdddb97dd1f548f90ffe471f0a62359d0ef7dff8d692a98e58194d"
-      },
-      "48": {
-        "source_ref": "John 1:48",
-        "source_chapter": 1,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "3efc6c284e950f359ebdcf5264babde2a7eeca27775755b70c2a623c775f518c"
-      },
-      "49": {
-        "source_ref": "John 1:49",
-        "source_chapter": 1,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "b611ad047fa28b2efed186af867daf7a2c1284714223b735da05000a62c6f196"
-      },
-      "50": {
-        "source_ref": "John 1:50",
-        "source_chapter": 1,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "3c75f838fc330b97dc1419f2b87bc170bd8f48bd89f6c6930e9d04ded41cf96a"
-      },
-      "51": {
-        "source_ref": "John 1:51",
-        "source_chapter": 1,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "9264b95ca4a083b8224218a03e9c8cdd9a3646114e34fd162dad988b9d16a4f8"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 51,
+    "path": "translations/fluent/NT/john/John_01.md",
+    "before_sha256": "00c76f57e8c8194efb5d7adb655841b352c4e0de13e90afd8cf6d2b44ee8b40f",
+    "after_sha256": "19a4459718e35dbf23d5e45647fd7bc63c0c784baaabfefe8c3b3e11da5f7cc8",
+    "tsw_comparator_path": "books/NT/john/John_01.md",
+    "tsw_comparator_sha256": "90b82bcd3a0765a20012ee02c95874ffc1f83ac50337f5f170fd20252af5fe5f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 1:1",
+      "delta": "F3",
+      "rationale": "Preserves beginning, personal relation toward God, and full predication of deity.",
+      "source_reference": "John 1:1",
+      "source_verse_sha256": "c973a08fb977b6fd536a057a037a9d57d535c77621b49b6c4776683e6f615e50",
+      "before": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "after": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "tsw_comparator": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:3",
+      "delta": "F3",
+      "rationale": "Preserves universal agency and places the punctuation with the following life clause.",
+      "source_reference": "John 1:3",
+      "source_verse_sha256": "ccad5bc3958060eaeabbd7acf30688c1462c88e73e70b16e7288ba3e61aa511e",
+      "before": "All things came into being through him, and apart from him not one thing came into being.",
+      "after": "Everything came into being through him, and apart from him not one thing came into being. What has come into being",
+      "tsw_comparator": "All things came into being through him, and apart from him not one thing came into being.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:4",
+      "delta": "F3",
+      "rationale": "Keeps life in the Word and light for human beings.",
+      "source_reference": "John 1:4",
+      "source_verse_sha256": "810b91969a131ed1fb298afd32585438ebc8d4194e4071984625e400e3a99a1b",
+      "before": "In him was life, and the life was the light of humanity.",
+      "after": "in him was life, and that life was the light of humanity.",
+      "tsw_comparator": "What has come into being in him was life, and the life was the light of all people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:5",
+      "delta": "F3",
+      "rationale": "Retains present shining and katelaben’s conflict sense while leaving room for failed comprehension in the wider theme.",
+      "source_reference": "John 1:5",
+      "source_verse_sha256": "64ecfb3dad55dadaa93173bde354eaa9f195fb592d1e9dcdfda856b6d0496ace",
+      "before": "The light shines in the darkness, and the darkness has not overcome it.",
+      "after": "The light shines in the darkness, and the darkness did not overcome it.",
+      "tsw_comparator": "The light shines in the darkness, and the darkness has not overcome it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:9",
+      "delta": "F3",
+      "rationale": "Preserves true light, universal illumination, and coming into the world.",
+      "source_reference": "John 1:9",
+      "source_verse_sha256": "bb213655be00128c381b440bced2f7670f63b59b6fffe47552444878ce7b0ce6",
+      "before": "The true light, which gives light to everyone, was coming into the world.",
+      "after": "The true light, which gives light to every person, was coming into the world.",
+      "tsw_comparator": "The true light, which enlightens everyone, was coming into the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:11",
+      "delta": "F3",
+      "rationale": "Distinguishes his domain and people while retaining rejection.",
+      "source_reference": "John 1:11",
+      "source_verse_sha256": "72b93ea7be36f35f79358eb1ac62dcf2ab43870fae2b11c2ed25dcc61b934ab5",
+      "before": "He came to his own, and his own did not receive him.",
+      "after": "He came to what was his own, but his own people did not receive him.",
+      "tsw_comparator": "He came to his own, and his own people did not receive him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:12",
+      "delta": "F3",
+      "rationale": "Keeps reception, believing in the name, granted authority, and child status.",
+      "source_reference": "John 1:12",
+      "source_verse_sha256": "83c5a73d36238edb0939a7d8afae0bb9594c681f5347bd8743715dc0b0323316",
+      "before": "But to all who received him, who trusted in his name, he gave authority to become children of God—",
+      "after": "But to all who did receive him—those who believe in his name—he gave the right to become children of God,",
+      "tsw_comparator": "But to all who received him, who believed in his name, he gave power to become children of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:13",
+      "delta": "F3",
+      "rationale": "Preserves three denied human origins and divine birth.",
+      "source_reference": "John 1:13",
+      "source_verse_sha256": "b40e64b9b1f4e362e07f6d68b396e704a07da95e7f79625ab8964d51c7b71e04",
+      "before": "those who were born, not from blood, nor from the will of flesh, nor from the will of a man, but from God.",
+      "after": "who were born not from bloodlines, nor from the desire of the flesh, nor from a man’s desire, but from God.",
+      "tsw_comparator": "who were born, not of blood or of the will of the flesh or of the will of man, but of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.465116,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:14",
+      "delta": "F3",
+      "rationale": "Retains incarnation, tabernacle image, witnessed glory, unique filial relation, grace, and truth.",
+      "source_reference": "John 1:14",
+      "source_verse_sha256": "df4d76abf002b819d68275c97d7daa2fdedd9518aca70560699c89b964bb8684",
+      "before": "The Word became flesh and made his dwelling among us. We saw his glory, glory as of the Father’s one and only Son, full of grace and truth.",
+      "after": "The Word became flesh and made his dwelling among us. We saw his glory, glory as of the Father’s one-of-a-kind Son, full of grace and truth.",
+      "tsw_comparator": "And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.701754,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:15",
+      "delta": "F3",
+      "rationale": "Keeps present witness, loud proclamation, temporal paradox, and preexistence.",
+      "source_reference": "John 1:15",
+      "source_verse_sha256": "a3300d61b432a4275fbda43e73070b3ef4132010584328cd96f1a56b253b6d2a",
+      "before": "John testified about him and cried out, “This is the one I spoke about: ‘The one coming after me has come before me, because he existed before me.’”",
+      "after": "(John testifies about him and cries out, “This is the one of whom I said, ‘The one coming after me ranks ahead of me, because he existed before me.’”)",
+      "tsw_comparator": "John testified about him and cried out, “This was he of whom I said, ‘The one who comes after me is before me, because he was before me.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:16",
+      "delta": "F3",
+      "rationale": "Preserves fullness, shared reception, and the difficult grace-for-grace expression.",
+      "source_reference": "John 1:16",
+      "source_verse_sha256": "6b319dd8c1409190da9ff64ea0efcef800580c45ba92d131c1cadb536bc9793a",
+      "before": "From his fullness we have all received, grace upon grace.",
+      "after": "For from his fullness we have all received, grace in place of grace.",
+      "tsw_comparator": "From his fullness we have all received, grace upon grace.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:17",
+      "delta": "F3",
+      "rationale": "Keeps distinct verbs, Moses, and full name-title.",
+      "source_reference": "John 1:17",
+      "source_verse_sha256": "901962a65a575e41146e7b8b52947dc7cd4d82299281b18f395dfab3dc65cd3c",
+      "before": "For the Law was given through Moses; grace and truth came through Jesus Christ.",
+      "after": "The Law was given through Moses; grace and truth came through Jesus Christ.",
+      "tsw_comparator": "For the law was given through Moses; grace and truth came through Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:18",
+      "delta": "F3",
+      "rationale": "Preserves pinned “unique God” reading, intimacy, and revelatory explanation.",
+      "source_reference": "John 1:18",
+      "source_verse_sha256": "b8ab047e8c3ad7454be4d4708c68a1cbc86db92994be9bf9ec7c41506ff61601",
+      "before": "No one has ever seen God. The one and only God, who is close to the Father’s heart, has made him known.",
+      "after": "No one has ever seen God. The one-of-a-kind God, who is at the Father’s side, has made him known.",
+      "tsw_comparator": "No one has ever seen God; the only Son, who is close to the Father’s heart, has made him known.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:19",
+      "delta": "F3",
+      "rationale": "Clarifies the representative leadership context while retaining the emissaries and question.",
+      "source_reference": "John 1:19",
+      "source_verse_sha256": "bb1000fa07b07c38cd8af639134d1594030deb22efe36307de63c80c6e30f133",
+      "before": "This is John’s testimony when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+      "after": "This is John’s testimony when the Jewish authorities sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+      "tsw_comparator": "This is the testimony of John, when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:20",
+      "delta": "F3",
+      "rationale": "Keeps emphatic confession-denial contrast and messianic disclaimer.",
+      "source_reference": "John 1:20",
+      "source_verse_sha256": "1fca51f2f8ccf511853c099043b8706bb1d3d90ff1e2123a069e22263ebd6641",
+      "before": "He confessed and did not deny it. He confessed, “I am not the Christ.”",
+      "after": "He confessed openly and did not deny it. He confessed, “I am not the Messiah.”",
+      "tsw_comparator": "He confessed and did not deny, but confessed, “I am not the Messiah.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:21",
+      "delta": "F3",
+      "rationale": "Preserves three short identity exchanges and titles.",
+      "source_reference": "John 1:21",
+      "source_verse_sha256": "a7c9bf2703bc34b2599c13a3987f64641a5bfc855a463b8eaeea2a4e1befe9c3",
+      "before": "They asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”",
+      "after": "They asked him, “Then what? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”",
+      "tsw_comparator": "And they asked him, “What then? Are you Elijah?” He said, “I am not.” “Are you the prophet?” He answered, “No.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.926829,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:23",
+      "delta": "F3",
+      "rationale": "Preserves voice, wilderness, straight way, Lord, and Isaiah.",
+      "source_reference": "John 1:23",
+      "source_verse_sha256": "3eb20eca119c832974cbbdffd62513d1f1ed16759b4da85a040e3bdb081e9be4",
+      "before": "He said, “I am ‘a voice crying in the wilderness: Make straight the way of the Lord,’ as Isaiah the prophet said.”",
+      "after": "He said, “I am a voice crying out in the wilderness, ‘Make the Lord’s way straight,’ as the prophet Isaiah said.”",
+      "tsw_comparator": "He said, “I am the voice of one crying in the wilderness, ‘Make straight the way of the Lord,’ as the prophet Isaiah said.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:24",
+      "delta": "F3",
+      "rationale": "Keeps emissaries’ group affiliation without importing it earlier.",
+      "source_reference": "John 1:24",
+      "source_verse_sha256": "7cecf0255df492a937f235cfcd8de898ebcce3f8b08e849022548ab27b0d81aa",
+      "before": "Those who had been sent were from the Pharisees.",
+      "after": "Those who had been sent were from the Pharisees.",
+      "tsw_comparator": "Now they had been sent from the Pharisees.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:25",
+      "delta": "F3",
+      "rationale": "Retains all three denied identities and authority challenge.",
+      "source_reference": "John 1:25",
+      "source_verse_sha256": "12996f005aaa149d3f0323f16cefae18803eb32a19fe14004ff20722b438bf4d",
+      "before": "They asked him, “Why then are you baptizing if you are not the Christ, Elijah, or the Prophet?”",
+      "after": "They asked him, “Why, then, are you baptizing if you are not the Messiah, Elijah, or the Prophet?”",
+      "tsw_comparator": "They asked him, “Why then are you baptizing if you are neither the Messiah, nor Elijah, nor the prophet?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:26",
+      "delta": "F3",
+      "rationale": "Keeps John’s water baptism and the unknown present figure.",
+      "source_reference": "John 1:26",
+      "source_verse_sha256": "715920ace8fd7f56ebcd54c4a86c9f43b19a4d80255b622696c0c346ecfaea79",
+      "before": "John answered, “I baptize with water. Among you stands one you do not know,",
+      "after": "John answered them, “I baptize in water, but among you stands one you do not know.",
+      "tsw_comparator": "John answered them, “I baptize with water. Among you stands one whom you do not know,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:27",
+      "delta": "F3",
+      "rationale": "Preserves temporal relation and servant-like unworthiness.",
+      "source_reference": "John 1:27",
+      "source_verse_sha256": "50a72e7fe3a8a6e2a378c654b93d829382de45104b05e91cfaa22ad284bc6157",
+      "before": "the one coming after me. I am not worthy to untie the strap of his sandal.”",
+      "after": "He is the one coming after me. I am not worthy to untie the strap of his sandal.”",
+      "tsw_comparator": "the one who comes after me; I am not worthy to untie the strap of his sandal.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:28",
+      "delta": "F3",
+      "rationale": "Keeps specific Bethany, river relation, and activity.",
+      "source_reference": "John 1:28",
+      "source_verse_sha256": "51e0821172183675f1a62071d01e6494291260d8857c2e1c20b2cf226aea19ec",
+      "before": "These things happened in Bethany across the Jordan, where John was baptizing.",
+      "after": "These things happened in Bethany across the Jordan, where John was baptizing.",
+      "tsw_comparator": "This took place in Bethany across the Jordan, where John was baptizing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:29",
+      "delta": "F3",
+      "rationale": "Preserves visual summons, sacrificial-pastoral title, singular sin, and world scope.",
+      "source_reference": "John 1:29",
+      "source_verse_sha256": "4f559bcb43de80025e0d68d4b88279572ed750bab64bdab442efd64dbd664874",
+      "before": "The next day John saw Jesus coming toward him and said, “Look—the Lamb of God who takes away the sin of the world!",
+      "after": "The next day John saw Jesus coming toward him and said, “Look, the Lamb of God who takes away the sin of the world!",
+      "tsw_comparator": "The next day he saw Jesus coming toward him and said, “Look—the Lamb of God who takes away the sin of the world!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.958333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:30",
+      "delta": "F3",
+      "rationale": "Keeps identification and temporal-status paradox.",
+      "source_reference": "John 1:30",
+      "source_verse_sha256": "19a538f574c2848028197881ce59373b2d61063574f78af94d19e9a056ac794f",
+      "before": "This is the one I spoke about: ‘After me comes a man who has come before me, because he existed before me.’",
+      "after": "This is the one about whom I said, ‘After me comes a man who ranks ahead of me, because he existed before me.’",
+      "tsw_comparator": "This is he of whom I said, ‘After me comes a man who is before me, because he was before me.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:31",
+      "delta": "F3",
+      "rationale": "Preserves prior nonrecognition, baptism, revelation, and Israel.",
+      "source_reference": "John 1:31",
+      "source_verse_sha256": "6d01e5c74c6a8aff6a86ffb64b73eccee3c38e55be766abda2e8149b3af28459",
+      "before": "I myself did not know him, but I came baptizing with water so that he might be revealed to Israel.”",
+      "after": "I did not know him, but I came baptizing in water so that he might be revealed to Israel.”",
+      "tsw_comparator": "I myself did not know him; but I came baptizing with water for this reason: that he might be revealed to Israel.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:32",
+      "delta": "F3",
+      "rationale": "Keeps eyewitness testimony, dove simile, heavenly descent, and abiding.",
+      "source_reference": "John 1:32",
+      "source_verse_sha256": "a63f5b41ffd95206d8b24abba6908217f1053d4215a46d22f3925cc502c510e9",
+      "before": "John testified, “I saw the Spirit descending from heaven like a dove, and it remained on him.",
+      "after": "John testified, “I saw the Spirit come down from heaven like a dove and remain on him.",
+      "tsw_comparator": "And John testified, “I saw the Spirit descending from heaven like a dove, and it remained on him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:33",
+      "delta": "F3",
+      "rationale": "Retains sender, sign, repeated remaining, and Holy Spirit baptism.",
+      "source_reference": "John 1:33",
+      "source_verse_sha256": "9b61f2fb6abc283cc4be4b140168933f726b11e3c2fbc88c05e81eabbf3a386e",
+      "before": "I myself did not know him, but the one who sent me to baptize with water told me, ‘The one on whom you see the Spirit descend and remain is the one who baptizes with the Holy Spirit.’",
+      "after": "I did not know him, but the one who sent me to baptize in water told me, ‘The one on whom you see the Spirit come down and remain is the one who baptizes in the Holy Spirit.’",
+      "tsw_comparator": "I myself did not know him, but the one who sent me to baptize with water said to me, ‘The one on whom you see the Spirit descend and remain is the one who baptizes with the Holy Spirit.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:34",
+      "delta": "F3",
+      "rationale": "Preserves pinned variant “Chosen One,” sight, and sustained testimony.",
+      "source_reference": "John 1:34",
+      "source_verse_sha256": "8e0cccfb96e6ae8396ebceb39f610fec08b8a3bdf3829754b7137b2423d6625e",
+      "before": "I have seen and testified that this is God’s Chosen One.”",
+      "after": "I myself have seen and have testified that this is God’s Chosen One.”",
+      "tsw_comparator": "And I have seen and have testified that this is the Son of God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:38",
+      "delta": "F3",
+      "rationale": "Preserves Jesus’ initiative, desire question, translated title, and abode.",
+      "source_reference": "John 1:38",
+      "source_verse_sha256": "77df3fae98062158272b6dbdf18644da711970af6438d7dd1549eb025df1ac2a",
+      "before": "Jesus turned, saw them following, and asked, “What are you looking for?” They said, “Rabbi”—which means Teacher—“where are you staying?”",
+      "after": "Jesus turned, saw them following, and asked, “What are you looking for?” They said, “Rabbi” (which means Teacher), “where are you staying?”",
+      "tsw_comparator": "When Jesus turned and saw them following, he said to them, “What are you seeking?” They said to him, “Rabbi” (which translated means Teacher), “where are you staying?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:39",
+      "delta": "F3",
+      "rationale": "Keeps invitation, repeated seeing/staying, day, and approximate ancient tenth hour.",
+      "source_reference": "John 1:39",
+      "source_verse_sha256": "596de18bbdcaa1f81901f472eb0c551351fb3b2bdb834124505f03358a6c0c29",
+      "before": "He said, “Come and see.” So they went and saw where he was staying, and they remained with him that day. It was about the tenth hour.",
+      "after": "He told them, “Come, and you will see.” So they went and saw where he was staying, and they stayed with him that day. It was about four in the afternoon.",
+      "tsw_comparator": "He said to them, “Come and see.” So they came and saw where he was staying, and they remained with him that day. It was about the tenth hour.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.766667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:41",
+      "delta": "F3",
+      "rationale": "Keeps priority, brother, discovery, Hebrew title, and Greek explanation.",
+      "source_reference": "John 1:41",
+      "source_verse_sha256": "4ed6e9b7773c04d50225b43aec7f2c90b310e74653ab1caee07515aa846a32f9",
+      "before": "He first found his own brother Simon and told him, “We have found the Messiah”—which means Christ.",
+      "after": "He first found his own brother Simon and told him, “We have found the Messiah” (which is translated Christ).",
+      "tsw_comparator": "He first found his brother Simon and said to him, “We have found the Messiah” (which translated is Christ).",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:42",
+      "delta": "F3",
+      "rationale": "Preserves mediation, gaze, paternal name, Aramaic name, and translation.",
+      "source_reference": "John 1:42",
+      "source_verse_sha256": "14039c50eb48271106d0460e631ee9d75cd65b94b64472d2386735185d97d457",
+      "before": "He brought Simon to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas”—which is translated Peter.",
+      "after": "Andrew brought Simon to Jesus. Jesus looked intently at him and said, “You are Simon son of John. You will be called Cephas” (which is translated Peter).",
+      "tsw_comparator": "He brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You shall be called Cephas” (which is translated Peter).",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:45",
+      "delta": "F3",
+      "rationale": "Keeps discovery, Scripture’s two parts, name, perceived parentage, and origin.",
+      "source_reference": "John 1:45",
+      "source_verse_sha256": "9f2c727cf09f98af70bec971feab7d75c07e94a4be0323eb8e1d945813a95cc6",
+      "before": "Philip found Nathanael and told him, “We have found the one Moses wrote about in the Law, and the Prophets too: Jesus son of Joseph, from Nazareth.”",
+      "after": "Philip found Nathanael and told him, “We have found the one Moses wrote about in the Law, and the Prophets too: Jesus son of Joseph, from Nazareth.”",
+      "tsw_comparator": "Philip found Nathanael and said to him, “We have found him about whom Moses in the law and the prophets wrote: Jesus son of Joseph from Nazareth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:47",
+      "delta": "F3",
+      "rationale": "Keeps identity, public appraisal, and absence of guile.",
+      "source_reference": "John 1:47",
+      "source_verse_sha256": "217f8a4d613f222cc730a074a3a5b1d8ab9bb343b47cea607deb080006a90ed2",
+      "before": "Jesus saw Nathanael coming toward him and said, “Look—truly an Israelite in whom there is no deceit.”",
+      "after": "Jesus saw Nathanael coming toward him and said about him, “Look, truly an Israelite in whom there is no deceit.”",
+      "tsw_comparator": "Jesus saw Nathanael coming toward him and said about him, “Look—truly an Israelite, in whom there is no deceit.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:49",
+      "delta": "F3",
+      "rationale": "Keeps two titles and Israel specificity.",
+      "source_reference": "John 1:49",
+      "source_verse_sha256": "2cc10ef397c1e73cf157001fe035d393393d521c4a505b456be9bee6650943dd",
+      "before": "Nathanael answered, “Rabbi, you are God’s Son! You are the King of Israel!”",
+      "after": "Nathanael answered him, “Rabbi, you are the Son of God! You are the King of Israel!”",
+      "tsw_comparator": "Nathanael answered him, “Rabbi, you are the Son of God; you are the King of Israel.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 1:51",
+      "delta": "F3",
+      "rationale": "Makes plural audience audible and preserves Jacob-like angel movement centered on the Son of Man.",
+      "source_reference": "John 1:51",
+      "source_verse_sha256": "fbb20f2fa629b16534afe3d2e77d575c96340b0d410bb7cb5338ec6102ce258a",
+      "before": "Then he said, “Truly, truly, I tell you: you will see heaven opened and God’s angels ascending and descending on the Son of Man.”",
+      "after": "Then he said, “Truly, truly, I tell all of you: you will see heaven opened and God’s angels ascending and descending on the Son of Man.”",
+      "tsw_comparator": "And he said to him, “Truly, truly, I say to you, you will see heaven opened and the angels of God ascending and descending upon the Son of Man.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_01.md",
-    "blob_sha": "c65432967cdec1c0951f02948fc872a89dc447f2"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

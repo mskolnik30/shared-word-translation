@@ -2,399 +2,632 @@
   "book": "John",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 54,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "7b5ba90ca43465c3e11751a2ccc4d9d2bc2b0fc719db87ec472639e9be1bbd45"
-      },
-      "2": {
-        "source_ref": "John 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "2857ecec43af08a1e39ec144aee2485e76826c765abcbc3263efc0aa7e901e8f"
-      },
-      "3": {
-        "source_ref": "John 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "56e496effbc1013556f952ea8fbb8dd9ed3e400da8918e3c46a519fa12449dfc"
-      },
-      "4": {
-        "source_ref": "John 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "27f231bebc83d3a22b03bdd4b5917b32d1db45d48bc94344ac3ecbcdb97c59a1"
-      },
-      "5": {
-        "source_ref": "John 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "d0ae2396ef55b52980ae01e2461673edae9c71d024a4e5fe743ec2168c3d5f3f"
-      },
-      "6": {
-        "source_ref": "John 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "d6440221d7f23d5ec0845b70d215b94978934b794d30190904e7f0be4ed7a81a"
-      },
-      "7": {
-        "source_ref": "John 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "2910a6f1e65ca762bb0585f3d122cbfcbdaa13c2f3890fbfe86e0c329b595160"
-      },
-      "8": {
-        "source_ref": "John 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "5e405a4647cdcd66d004ae4d32897741a4625ebcfdb67e0ed8baaad2c0eb89cf"
-      },
-      "9": {
-        "source_ref": "John 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e27f4b882e0d18032abe7ab2f7c5f48591ed5793c19dd4fb1a0cf37565cfddea"
-      },
-      "10": {
-        "source_ref": "John 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "1fbd18f97a7ded1ef019dbaedc77dcec49786bacd313bb18c0d20dfa873462a2"
-      },
-      "11": {
-        "source_ref": "John 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "b827abb44bdefd3a243c303b06de5087850d973135965295f32499b207ed979a"
-      },
-      "12": {
-        "source_ref": "John 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b6e362bb2646289b13642b9e0607ce0b8dd85f39d429d78079ab163b4231a8c9"
-      },
-      "13": {
-        "source_ref": "John 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "da770659bf788eaa03e2f4f74f179adbbc91334e11e0abdaa91db4fc684e14fb"
-      },
-      "14": {
-        "source_ref": "John 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "4b36747aa5e4861876d6e23d00ea28430fc30d1b47d6944b2761142003bccc68"
-      },
-      "15": {
-        "source_ref": "John 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "e6e3d64e9649d4bc493e3f85e6cffa1a1e398519532a4adbda50f985df723a69"
-      },
-      "16": {
-        "source_ref": "John 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "8897c86cb0d16f8588c9feca0bd3027eaaaf568097736f55e8b4d0fb32faad5f"
-      },
-      "17": {
-        "source_ref": "John 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "f090c19390cd1fb87a160857dcc438f7579746bbaa0f6a1e5d06ce2b1ca3d4f1"
-      },
-      "18": {
-        "source_ref": "John 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "4c80668b3962a782853004389f1e0f427ef1502b57efc1da3becf3a50ba34620"
-      },
-      "19": {
-        "source_ref": "John 4:19",
-        "source_chapter": 4,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "57ff5306649637ef07ca778565df6d78209317326fe02d30af142be38946340c"
-      },
-      "20": {
-        "source_ref": "John 4:20",
-        "source_chapter": 4,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "d91e30ca5927dfcf32531d6fbf3d9986882f494d6fc259c047b2c50dff3e1f9b"
-      },
-      "21": {
-        "source_ref": "John 4:21",
-        "source_chapter": 4,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "f53cdd3bc333c482343ed5e23009358dacc80883fa9efa14a53d3035ddf4d99d"
-      },
-      "22": {
-        "source_ref": "John 4:22",
-        "source_chapter": 4,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "6c4fca7217d4d260d1c605c3157a5c811d851c2c2cd7773bc07e92d70be3fb52"
-      },
-      "23": {
-        "source_ref": "John 4:23",
-        "source_chapter": 4,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "ff93d5229aa7b4bb56c39f58c0218754b12c78b909d329f7da18c28acba54068"
-      },
-      "24": {
-        "source_ref": "John 4:24",
-        "source_chapter": 4,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "84f1f4d9aa6b74651139a3636bc2c8b9ddc0662308a0f7e74f86d1e12c4f3929"
-      },
-      "25": {
-        "source_ref": "John 4:25",
-        "source_chapter": 4,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "6ac90ba4d458305d92fc971051fba2cf377a21091e0078ed1aaf95557c1c9d7c"
-      },
-      "26": {
-        "source_ref": "John 4:26",
-        "source_chapter": 4,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "d17554f5eb5177bb6d555fdcf9222fcf7c29ce85c6ba1b105dcc8b2b33a6c63d"
-      },
-      "27": {
-        "source_ref": "John 4:27",
-        "source_chapter": 4,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "42f5c64f3b86f69cd0c4c1f1395ded2fb8624ac5259186f277042997c9d8418d"
-      },
-      "28": {
-        "source_ref": "John 4:28",
-        "source_chapter": 4,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "3268c0ea72e9fad3cdb6934f4a944bf7aaab14212f4abdd8ca7386c87b4bfa1a"
-      },
-      "29": {
-        "source_ref": "John 4:29",
-        "source_chapter": 4,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "468c6b9e7683da106624d39b723e573a102c0141ebd5afab8ce3f36e896fcea7"
-      },
-      "30": {
-        "source_ref": "John 4:30",
-        "source_chapter": 4,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "de1db608e53e00a67381e1010534e8d0db40bf52d59e81bc4f354682f39c9e33"
-      },
-      "31": {
-        "source_ref": "John 4:31",
-        "source_chapter": 4,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "2e9060a83b3afceb68625e4049022c950c6a5a98a6e72b380626837fb9bc3fd1"
-      },
-      "32": {
-        "source_ref": "John 4:32",
-        "source_chapter": 4,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "1c3d425c08f392856eba309448d203178b21f4cb2cb79c5b3dbe06a58c718424"
-      },
-      "33": {
-        "source_ref": "John 4:33",
-        "source_chapter": 4,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "9dbcb320926025e0fc8c4d5de8027f442cb54f677f6ff392c8ef0aaf84c9b292"
-      },
-      "34": {
-        "source_ref": "John 4:34",
-        "source_chapter": 4,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "44dac9e2d658aefdc4165d4275391f1b86decefe3d5ffe6a2232b7324117da4f"
-      },
-      "35": {
-        "source_ref": "John 4:35",
-        "source_chapter": 4,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "436c08e99b3b951f6d5a403873f5f5baed81bfe7fa1ceb85418d3797c0cdeb0d"
-      },
-      "36": {
-        "source_ref": "John 4:36",
-        "source_chapter": 4,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "1f8035df8d346c1f990c0c5b14637c0b5c74e2b7fb876d730547ed8f8e4921e4"
-      },
-      "37": {
-        "source_ref": "John 4:37",
-        "source_chapter": 4,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "84f38ffa4a9ee7ab83dab2f628f7784aa3962a0555a64c847de26a67796f231a"
-      },
-      "38": {
-        "source_ref": "John 4:38",
-        "source_chapter": 4,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "b6d5c6289376ba36136f056ee897a33cc6e4a6cc54cb2a38944c662d89f5b389"
-      },
-      "39": {
-        "source_ref": "John 4:39",
-        "source_chapter": 4,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "964759eeb1bf0d83b9c79fd34acbb2963c1e3a7dcde92a5c219d22596ebff483"
-      },
-      "40": {
-        "source_ref": "John 4:40",
-        "source_chapter": 4,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "4f088e95cf73d4a354b5921f10ab5e2928cf449e0c0d0595669ae5050ec38a0d"
-      },
-      "41": {
-        "source_ref": "John 4:41",
-        "source_chapter": 4,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "97666143020cc3846555c07fcc3635ebeaf8ef48b4c604bf48afe80a75136489"
-      },
-      "42": {
-        "source_ref": "John 4:42",
-        "source_chapter": 4,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "900ddbd961920a3eea2301cfeff877077f4b93c0f98f796ac654b2eed3740214"
-      },
-      "43": {
-        "source_ref": "John 4:43",
-        "source_chapter": 4,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "719e822813f01c7ec8df266b3ddac3e1508e5c5cba03f5f1147c48c8c8d585f2"
-      },
-      "44": {
-        "source_ref": "John 4:44",
-        "source_chapter": 4,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "2fc4cf9cc67ed26f28978d5ca17d5aabe6b6065ced98103f4448958593c6cbf3"
-      },
-      "45": {
-        "source_ref": "John 4:45",
-        "source_chapter": 4,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "ba5a0c1de80181e6f17c36941f8b5e03749631bd53834b6a9bef665688742a1d"
-      },
-      "46": {
-        "source_ref": "John 4:46",
-        "source_chapter": 4,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "ba030e72e28a7883120e6ce0e277074e15186b3a593cbf74bd9ad54307202c21"
-      },
-      "47": {
-        "source_ref": "John 4:47",
-        "source_chapter": 4,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "a045bb38953200d8ceb68831809f4a1898dfd4151c3e7488c8175d8ea6989a32"
-      },
-      "48": {
-        "source_ref": "John 4:48",
-        "source_chapter": 4,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "dd2f2f91296d32c42acb9fb25fa0a2541c757f098f9d03f8869090b3c7cb92f9"
-      },
-      "49": {
-        "source_ref": "John 4:49",
-        "source_chapter": 4,
-        "source_verse": 49,
-        "segment_mode": "whole_record",
-        "sha256": "3f3c281eca0fe4923392aa68b93980ee7d4707e1952cc9cc1f385282a3a7b117"
-      },
-      "50": {
-        "source_ref": "John 4:50",
-        "source_chapter": 4,
-        "source_verse": 50,
-        "segment_mode": "whole_record",
-        "sha256": "2cb55830e230dce29b29e17d431694b0471e96793fea0468ff86213a788c0b64"
-      },
-      "51": {
-        "source_ref": "John 4:51",
-        "source_chapter": 4,
-        "source_verse": 51,
-        "segment_mode": "whole_record",
-        "sha256": "8e558732052047c0a5a20bc1ee2e458c7775ecc799d03bcd734f5849c4c0f1db"
-      },
-      "52": {
-        "source_ref": "John 4:52",
-        "source_chapter": 4,
-        "source_verse": 52,
-        "segment_mode": "whole_record",
-        "sha256": "2b078dae34141405bac0027f2943b4b9fbfaaa607b32de135b23638122409e02"
-      },
-      "53": {
-        "source_ref": "John 4:53",
-        "source_chapter": 4,
-        "source_verse": 53,
-        "segment_mode": "whole_record",
-        "sha256": "63cbaf932aba95e73bc72516094c6097a1fa99eed9e2f46120d6ca7ef76ef688"
-      },
-      "54": {
-        "source_ref": "John 4:54",
-        "source_chapter": 4,
-        "source_verse": 54,
-        "segment_mode": "whole_record",
-        "sha256": "03c4c2d205a7bafb419a58c5c6bafafd7967f1ad4c3c8727ac1936f1e081ecd9"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 54,
+    "path": "translations/fluent/NT/john/John_04.md",
+    "before_sha256": "91a6ebcee58de76de2b7e273dc646b34d9bbc4f6f6aa6e884eb714144cf6a848",
+    "after_sha256": "c383095d052b7151162a368dfb04e1f7d7662da2e2cbd44a553a867e0e2ec1a7",
+    "tsw_comparator_path": "books/NT/john/John_04.md",
+    "tsw_comparator_sha256": "8d17a4286d9c065a9235da897227dd4fad03732ffdc7c75599b13a998d51e90e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 4:4",
+      "delta": "F3",
+      "rationale": "Retains necessity and named region without explaining its source.",
+      "source_reference": "John 4:4",
+      "source_verse_sha256": "e052ed48afe9c8ff233ce6c223b622ca157c1525bab80ab77ed1be7eda825fd5",
+      "before": "He had to pass through Samaria.",
+      "after": "But he had to pass through Samaria.",
+      "tsw_comparator": "But he had to pass through Samaria.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:5",
+      "delta": "F3",
+      "rationale": "Keeps town, region, patriarchal land, and family relation.",
+      "source_reference": "John 4:5",
+      "source_verse_sha256": "6cb52dfd196465bf67251720536fa02e9d3cede8cba21b33713df8faa027f210",
+      "before": "So he came to a Samaritan town called Sychar, near the field Jacob had given to his son Joseph.",
+      "after": "So he came to a Samaritan town called Sychar, near the plot of land Jacob had given to his son Joseph.",
+      "tsw_comparator": "So he came to a city of Samaria called Sychar, near the field that Jacob had given to his son Joseph.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:6",
+      "delta": "F3",
+      "rationale": "Preserves named water source, Jesus’ fatigue, posture, and approximate sixth hour.",
+      "source_reference": "John 4:6",
+      "source_verse_sha256": "5bad15640701b0373d3ae12a3450f2072c7c8fa1d852772dc6a8927327d4e860",
+      "before": "Jacob’s well was there. Jesus, tired from the journey, sat down by the well. It was about the sixth hour.",
+      "after": "Jacob’s spring was there. Jesus, tired from the journey, sat down beside the spring. It was about noon.",
+      "tsw_comparator": "Jacob’s well was there, and Jesus, worn out from the journey, was sitting beside the well. It was about noon.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684211,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:7",
+      "delta": "F3",
+      "rationale": "Keeps her identity, ordinary labor, and direct request.",
+      "source_reference": "John 4:7",
+      "source_verse_sha256": "c2e865f57c9797ddba4b56448c1eff8b0b384f1107391140a2a9fced05880495",
+      "before": "A Samaritan woman came to draw water. Jesus said to her, “Give me a drink.”",
+      "after": "A Samaritan woman came to draw water. Jesus said to her, “Give me a drink.”",
+      "tsw_comparator": "A Samaritan woman came to draw water. Jesus said to her, “Give me a drink.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:9",
+      "delta": "F3",
+      "rationale": "Makes gendered and ethnic boundary explicit and renders the difficult verb in its table-sharing sense.",
+      "source_reference": "John 4:9",
+      "source_verse_sha256": "6f25a8b420aa62992ce27f2aec891eef875f4f6bd11195b05676857842edf1a1",
+      "before": "The Samaritan woman said, “How can you, a Jewish man, ask me, a Samaritan woman, for a drink?” For Jewish people do not share such things with Samaritans.",
+      "after": "The Samaritan woman asked him, “How can you, a Jewish man, ask me, a Samaritan woman, for a drink?” For Jewish people do not share utensils with Samaritans.",
+      "tsw_comparator": "The Samaritan woman said to him, “How is it that you, a Jew, ask a drink of me, a Samaritan woman?” (Jews do not share things in common with Samaritans.)",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.586207,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:10",
+      "delta": "F3",
+      "rationale": "Preserves gift, identity, role reversal, and living-water ambiguity.",
+      "source_reference": "John 4:10",
+      "source_verse_sha256": "7196c7f460845e64e4d4c1af160f88e06231511b936a489d0dacb124e90a7ae7",
+      "before": "Jesus answered, “If you knew God’s gift and who it is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”",
+      "after": "Jesus answered her, “If you knew God’s gift and who it is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”",
+      "tsw_comparator": "Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.911765,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:11",
+      "delta": "F3",
+      "rationale": "Keeps practical objection, depth, and repeated phrase.",
+      "source_reference": "John 4:11",
+      "source_verse_sha256": "f76d80bfa475ce4663e4b362c67752e8ed49fbb8ff1fe337999d168d1f2641c3",
+      "before": "She said, “Sir, you have no bucket, and the well is deep. Where then do you get this living water?",
+      "after": "The woman said, “Sir, you do not even have a bucket, and the well is deep. Where, then, do you get this living water?",
+      "tsw_comparator": "The woman said to him, “Sir, you have no bucket, and the well is deep. Where do you get that living water?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:12",
+      "delta": "F3",
+      "rationale": "Preserves Samaritan claim to Jacob, gift, household, and animals.",
+      "source_reference": "John 4:12",
+      "source_verse_sha256": "085f05a8d52f8aabb5fd1a58fc155e27ae1703189d3c5767ff92b765e5a8698d",
+      "before": "Are you greater than our ancestor Jacob, who gave us the well and drank from it himself, along with his sons and livestock?”",
+      "after": "Are you greater than our father Jacob, who gave us the well and drank from it himself, along with his sons and livestock?”",
+      "tsw_comparator": "Are you greater than our ancestor Jacob, who gave us the well, and drank from it himself, along with his sons and his livestock?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.93617,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:14",
+      "delta": "F3",
+      "rationale": "Preserves emphatic lasting satisfaction, inward spring, movement, and eternal life.",
+      "source_reference": "John 4:14",
+      "source_verse_sha256": "41d2a234e1163cafb4fd1ad0eff186e67dfb8a1662cfb920f34f6aef16a0cccd",
+      "before": "But whoever drinks the water I will give will never be thirsty. The water I will give will become in that person a spring of water welling up to eternal life.”",
+      "after": "but whoever drinks the water I will give will certainly never be thirsty. The water I give will become in that person a spring of water welling up to eternal life.”",
+      "tsw_comparator": "but whoever drinks of the water that I will give will never be thirsty. The water that I will give will become in them a spring of water gushing up to eternal life.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:15",
+      "delta": "F3",
+      "rationale": "Keeps request, practical understanding, and repeated labor.",
+      "source_reference": "John 4:15",
+      "source_verse_sha256": "e6f6fe4bf23726cc08e5d87afc8417cbb296d3129b8ed2e988636a5b682f142a",
+      "before": "The woman said, “Sir, give me this water so that I will not be thirsty or have to keep coming here to draw water.”",
+      "after": "The woman said, “Sir, give me this water so I will not be thirsty or have to keep coming here to draw water.”",
+      "tsw_comparator": "The woman said to him, “Sir, give me this water, so that I may never be thirsty or have to keep coming here to draw water.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:16",
+      "delta": "F3",
+      "rationale": "Preserves commands and named relationship.",
+      "source_reference": "John 4:16",
+      "source_verse_sha256": "59991cc38416a9fc773bfd4a23b87a69cd77d655a8d5d27e1d1e772c0c1a1f7c",
+      "before": "Jesus said to her, “Go, call your husband, and come back.”",
+      "after": "Jesus told her, “Go call your husband and come back here.”",
+      "tsw_comparator": "Jesus said to her, “Go, call your husband, and come back.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:17",
+      "delta": "F3",
+      "rationale": "Keeps her truthful statement and Jesus’ affirmation.",
+      "source_reference": "John 4:17",
+      "source_verse_sha256": "5aae458d0a2b37fd94e3fe74e2e8f7118d2415fed587804dd137abe3c21a08c5",
+      "before": "The woman answered, “I have no husband.” Jesus said, “You are right to say, ‘I have no husband,’",
+      "after": "The woman answered, “I do not have a husband.” Jesus said, “You are right to say, ‘I do not have a husband,’",
+      "tsw_comparator": "The woman answered him, “I have no husband.” Jesus said to her, “You are right in saying, ‘I have no husband’;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.651163,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:18",
+      "delta": "F3",
+      "rationale": "Retains exact number, current relationship’s ambiguity, and truth without assigning blame or cause.",
+      "source_reference": "John 4:18",
+      "source_verse_sha256": "2139a80e199f44b64ecc734bb6cfd471e0ea38af03b2ccbd43568c6ef936b297",
+      "before": "because you have had five husbands, and the man you now have is not your husband. What you said is true.”",
+      "after": "because you have had five husbands, and the man you now have is not your husband. What you have said is true.”",
+      "tsw_comparator": "for you have had five husbands, and the one you have now is not your husband. What you have said is true.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:19",
+      "delta": "F3",
+      "rationale": "Preserves growing recognition and title.",
+      "source_reference": "John 4:19",
+      "source_verse_sha256": "4b0afa2e7802896df6371155ccffe089f54d171764ba31f213b1b41e0f92d9c7",
+      "before": "The woman said, “Sir, I see that you are a prophet.",
+      "after": "The woman said, “Sir, I see that you are a prophet.",
+      "tsw_comparator": "The woman said to him, “Sir, I see that you are a prophet.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:20",
+      "delta": "F3",
+      "rationale": "Keeps both communal claims, mountain, Jerusalem, and worship necessity.",
+      "source_reference": "John 4:20",
+      "source_verse_sha256": "ed6def82195326cb99ea22741d319b8f791a9845fd493cecd46812153d52e090",
+      "before": "Our ancestors worshiped on this mountain, but you Jewish people say the place where people must worship is in Jerusalem.”",
+      "after": "Our ancestors worshiped on this mountain, but you Jewish people say that Jerusalem is the place where people must worship.”",
+      "tsw_comparator": "Our ancestors worshiped on this mountain, but you say that the place where people must worship is in Jerusalem.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:21",
+      "delta": "F3",
+      "rationale": "Preserves respectful address, coming hour, plural audience, Father, and displaced locations.",
+      "source_reference": "John 4:21",
+      "source_verse_sha256": "0d5737db65b5451ffbd48544cf94b859c9a0576940fabd21796e2c778418189a",
+      "before": "Jesus said, “Woman, trust me, an hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+      "after": "Jesus told her, “Believe me, woman, an hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+      "tsw_comparator": "Jesus said to her, “Woman, trust me, the hour is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:22",
+      "delta": "F3",
+      "rationale": "Keeps sharp knowledge contrast and affirms salvation’s Jewish origin without broad contempt.",
+      "source_reference": "John 4:22",
+      "source_verse_sha256": "5a8b3c74e100127031b07874c906c71a04e13ebc91c53625e18c3098fa9c3f9e",
+      "before": "You worship what you do not know; we worship what we know, because salvation is from the Jews.",
+      "after": "You Samaritans worship what you do not know; we worship what we know, because salvation comes from the Jewish people.",
+      "tsw_comparator": "You worship what you do not know; we worship what we know, for salvation is from the Jews.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:23",
+      "delta": "F3",
+      "rationale": "Preserves present-future hour, Father, spirit, truth, and divine seeking.",
+      "source_reference": "John 4:23",
+      "source_verse_sha256": "42eee757409976abdfb60067e3a1db09461a46fdbcf2afdaffac0745ebde5d72",
+      "before": "But an hour is coming—and is now here—when true worshipers will worship the Father in Spirit and truth. Indeed, the Father is seeking such people to worship him.",
+      "after": "But an hour is coming—and is now here—when true worshipers will worship the Father in spirit and truth, for the Father seeks people like these to worship him.",
+      "tsw_comparator": "But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such as these to worship him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.885246,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:24",
+      "delta": "F3",
+      "rationale": "Keeps divine nature, necessity, and repeated pair.",
+      "source_reference": "John 4:24",
+      "source_verse_sha256": "c71efbc4b1fae4c168c5cc3648d49dd65afbfb39b8ab08ea892cd8a0ee844479",
+      "before": "God is Spirit, and those who worship him must worship in Spirit and truth.”",
+      "after": "God is spirit, and those who worship him must worship in spirit and truth.”",
+      "tsw_comparator": "God is spirit, and those who worship must worship in spirit and truth.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.962963,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:25",
+      "delta": "F3",
+      "rationale": "Preserves her knowledge, Semitic and Greek titles, coming, and promised disclosure.",
+      "source_reference": "John 4:25",
+      "source_verse_sha256": "cce28b095b657bf9a94baa954ecd1d105f975be2cf20e67569cc7a0a1376c4b0",
+      "before": "The woman said, “I know that Messiah is coming”—the one called Christ. “When he comes, he will tell us everything.”",
+      "after": "The woman said, “I know that Messiah is coming” (the one called Christ). “When he comes, he will explain everything to us.”",
+      "tsw_comparator": "The woman said to him, “I know that Messiah is coming” (who is called Christ). “When he comes, he will proclaim all things to us.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:26",
+      "delta": "F3",
+      "rationale": "Keeps egō eimi self-identification and immediate conversation.",
+      "source_reference": "John 4:26",
+      "source_verse_sha256": "51b9426ad9597ea3399e970ad594e5c32887448c14796382d5721073a91e04ae",
+      "before": "Jesus said to her, “I am—he is the one speaking to you.”",
+      "after": "Jesus told her, “I am he—the one speaking with you.”",
+      "tsw_comparator": "Jesus said to her, “I am—the one speaking to you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:27",
+      "delta": "F3",
+      "rationale": "Preserves timing, gender surprise, and both unspoken questions.",
+      "source_reference": "John 4:27",
+      "source_verse_sha256": "69f3b3dda1e7dc43b34a2a91ecee9304763675ec5964f1cf716d42d6410e67e1",
+      "before": "Just then his disciples returned. They were amazed that he was speaking with a woman, yet no one asked, “What do you want?” or, “Why are you talking with her?”",
+      "after": "Just then his disciples returned. They were astonished that he was speaking with a woman, yet no one asked, “What do you want?” or “Why are you speaking with her?”",
+      "tsw_comparator": "Just then his disciples came. They were astonished that he was speaking with a woman, but no one said, “What do you want?” or, “Why are you speaking with her?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:28",
+      "delta": "F3",
+      "rationale": "Keeps abandoned task, movement, and public speech.",
+      "source_reference": "John 4:28",
+      "source_verse_sha256": "434812ed02d8e10cf08fcc8ec537c1fe2ca8613aa470e47d9955d5f35d4cb6c8",
+      "before": "The woman left her water jar, went into the town, and told the people,",
+      "after": "Then the woman left her water jar, went into the town, and said to the people,",
+      "tsw_comparator": "Then the woman left her water jar and went back to the city. She said to the people,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:29",
+      "delta": "F3",
+      "rationale": "Preserves invitation, heightened testimony, and open question.",
+      "source_reference": "John 4:29",
+      "source_verse_sha256": "4e9dd9a77baf37afcbcb41963dbfb7710f0d9fcf8faa852dcb2887707e079d5f",
+      "before": "“Come and see a man who told me everything I ever did! Could this be the Christ?”",
+      "after": "“Come see a man who told me everything I have done. Could this be the Messiah?”",
+      "tsw_comparator": "“Come and see a man who told me everything I have ever done! He cannot be the Messiah, can he?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:34",
+      "delta": "F3",
+      "rationale": "Keeps nourishment metaphor, sender, will, and completed mission.",
+      "source_reference": "John 4:34",
+      "source_verse_sha256": "a17f9bc064129e0776ebfee05f5f2ad106cafd43361359ca8e0e2a22a4d682eb",
+      "before": "Jesus said, “My food is to do the will of the one who sent me and complete his work.",
+      "after": "Jesus told them, “My food is to do the will of the one who sent me and to complete his work.",
+      "tsw_comparator": "Jesus said to them, “My food is to do the will of the one who sent me and to complete that work.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:35",
+      "delta": "F3",
+      "rationale": "Retains proverb-like interval, visual commands, ripeness, and urgency.",
+      "source_reference": "John 4:35",
+      "source_verse_sha256": "edc33b1b33379c6d2bedfac6d9a70c61e28f398f03c67f340e000b5c0249a8eb",
+      "before": "Do you not say, ‘Four months more, and then comes the harvest’? Look, I tell you, lift up your eyes and see that the fields are already white for harvest.",
+      "after": "Do you not say, ‘Four months remain, and then comes the harvest’? Look, I tell you: lift up your eyes and see that the fields are already white for harvest.",
+      "tsw_comparator": "Do you not say, ‘Four months more, then comes the harvest’? But I tell you, look around you, and see how the fields are ripe for harvesting.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:36",
+      "delta": "F3",
+      "rationale": "Keeps present reward, fruit, eternal life, and shared joy.",
+      "source_reference": "John 4:36",
+      "source_verse_sha256": "985951e86b5906ec21202ad7de0cc1a1157b047607bf967d867c316b9eb89867",
+      "before": "The one who reaps is receiving wages and gathering fruit for eternal life, so that the sower and reaper may rejoice together.",
+      "after": "The reaper is already receiving wages and gathering fruit for eternal life, so that sower and reaper may rejoice together.",
+      "tsw_comparator": "The reaper is already receiving wages and is gathering fruit for eternal life, so that sower and reaper may rejoice together.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.97561,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:37",
+      "delta": "F3",
+      "rationale": "Preserves distinct labor roles and maxim.",
+      "source_reference": "John 4:37",
+      "source_verse_sha256": "a33d1225b833df6e807afe93fff3ddf57ad65e4e94ee2cbf83935e690f724c96",
+      "before": "In this the saying is true: ‘One sows and another reaps.’",
+      "after": "For in this case the saying is true: ‘One sows and another reaps.’",
+      "tsw_comparator": "For here the saying holds true, ‘One sows and another reaps.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:38",
+      "delta": "F3",
+      "rationale": "Keeps sending, unearned harvest, others’ work, and participation.",
+      "source_reference": "John 4:38",
+      "source_verse_sha256": "abd6f94bf313405167b5fdc8e68d3d578706df41af0b456bc9e706fb86504dd1",
+      "before": "I sent you to reap what you did not labor for. Others have labored, and you have entered into their labor.”",
+      "after": "I sent you to reap what you did not labor for. Others have labored, and you have entered into their labor.”",
+      "tsw_comparator": "I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:39",
+      "delta": "F3",
+      "rationale": "Preserves her effective witness, people, town, belief, and quoted basis.",
+      "source_reference": "John 4:39",
+      "source_verse_sha256": "c6a47743903bc65fc7faa5bb53ba245dac68370c8ae9c6ca7d3cb41311b3bfc7",
+      "before": "Many Samaritans from that town trusted in Jesus because of the woman’s testimony: “He told me everything I ever did.”",
+      "after": "Many Samaritans from that town believed in Jesus because of the woman’s testimony: “He told me everything I have done.”",
+      "tsw_comparator": "Many Samaritans from that city trusted in him because of the woman’s testimony, “He told me everything I have ever done.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:40",
+      "delta": "F3",
+      "rationale": "Keeps their initiative, hospitality, abiding, and exact duration.",
+      "source_reference": "John 4:40",
+      "source_verse_sha256": "f86c3c86e682aa0948422c806041549e89d51a99f4520098cbe822dbeefc9762",
+      "before": "So when the Samaritans came to him, they asked him to remain with them, and he remained there two days.",
+      "after": "So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days.",
+      "tsw_comparator": "So when the Samaritans came to him, they asked him to stay with them; and he stayed there two days.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:41",
+      "delta": "F3",
+      "rationale": "Preserves increased belief and direct hearing.",
+      "source_reference": "John 4:41",
+      "source_verse_sha256": "56b009e9591099169f2762e049d0c8a569cbc42daba4a11a6dcf3be54b211a53",
+      "before": "Many more trusted because of his word.",
+      "after": "Many more believed because of his own word.",
+      "tsw_comparator": "And many more trusted because of his word.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:42",
+      "delta": "F3",
+      "rationale": "Keeps her indispensable initial witness, direct hearing, knowledge, and world-wide title.",
+      "source_reference": "John 4:42",
+      "source_verse_sha256": "dda8b917990e819f214c4b354b1c1f51906a549315de93ddc8f71233d288ad55",
+      "before": "They told the woman, “We no longer trust only because of what you said. We have heard for ourselves, and we know that this man truly is the Savior of the world.”",
+      "after": "They told the woman, “We no longer believe only because of what you said; we have heard for ourselves, and we know that this man truly is the Savior of the world.”",
+      "tsw_comparator": "They said to the woman, “It is no longer because of what you said that we trust, for we have heard for ourselves, and we know that this is truly the Savior of the world.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.776119,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:44",
+      "delta": "F3",
+      "rationale": "Keeps narrator’s explanation and proverbial claim.",
+      "source_reference": "John 4:44",
+      "source_verse_sha256": "b07166b9cb83b18dd85bc97ecec16ce306d64eccd363d478a4faec91b1853e80",
+      "before": "For Jesus himself had testified that a prophet has no honor in his own country.",
+      "after": "For Jesus himself had testified that a prophet has no honor in his own homeland.",
+      "tsw_comparator": "(for Jesus himself had testified that a prophet has no honor in the prophet’s own country).",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:45",
+      "delta": "F3",
+      "rationale": "Preserves welcome’s sign-based reason and shared pilgrimage.",
+      "source_reference": "John 4:45",
+      "source_verse_sha256": "6bcba6733b149a2ab790a03084b70f4968b047c1c4fa7d65f4c09b15d81b383f",
+      "before": "When he came to Galilee, the Galileans welcomed him because they had seen everything he did in Jerusalem during the festival, since they too had gone to the festival.",
+      "after": "When he arrived in Galilee, the Galileans welcomed him because they had seen everything he did in Jerusalem during the festival; they too had gone to the festival.",
+      "tsw_comparator": "When he came to Galilee, the Galileans welcomed him, since they had seen all that he had done in Jerusalem at the festival; for they too had gone to the festival.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745763,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:46",
+      "delta": "F3",
+      "rationale": "Keeps return, first sign reminder, official, place, and son.",
+      "source_reference": "John 4:46",
+      "source_verse_sha256": "3b9d23d3bb6e8684e522453721f2a33e3a691440e02e3785483e5bceff34cc33",
+      "before": "Jesus came again to Cana in Galilee, where he had made the water wine. A royal official was there whose son was sick in Capernaum.",
+      "after": "So Jesus came again to Cana of Galilee, where he had made the water wine. There was a royal official in Capernaum whose son was sick.",
+      "tsw_comparator": "Then he came again to Cana in Galilee where he had changed the water into wine. Now there was a royal official whose son lay ill in Capernaum.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:47",
+      "delta": "F3",
+      "rationale": "Preserves hearing, journey, repeated plea, geography, and mortal danger.",
+      "source_reference": "John 4:47",
+      "source_verse_sha256": "1f6af031960a516dc99ef1c7c489674004a0c8bb3f004d063b47ec7f52cf5c8d",
+      "before": "When he heard Jesus had come from Judea into Galilee, he went to him and begged him to come down and heal his son, who was about to die.",
+      "after": "When he heard that Jesus had come from Judea to Galilee, he went to him and begged him to come down and heal his son, who was about to die.",
+      "tsw_comparator": "When he heard that Jesus had come from Judea to Galilee, he went and begged him to come down and heal his son, for he was at the point of death.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.786885,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:48",
+      "delta": "F3",
+      "rationale": "Makes plural audience audible and keeps emphatic sign-dependent belief warning.",
+      "source_reference": "John 4:48",
+      "source_verse_sha256": "7b388278d2e01206c809a312762f029d3ad8aba4ff0f96ff1547802227e04a2e",
+      "before": "Jesus said to him, “Unless you people see signs and wonders, you will certainly not trust.”",
+      "after": "Jesus said to him, “Unless all of you see signs and wonders, you will certainly not believe.”",
+      "tsw_comparator": "Then Jesus said to him, “Unless you see signs and wonders you will not trust.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8125,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:49",
+      "delta": "F3",
+      "rationale": "Keeps title, geographical plea, child language, and urgency.",
+      "source_reference": "John 4:49",
+      "source_verse_sha256": "4e8da570b88130feee9978254e9b11ec2f694886d7136ac6395b165c8cb8413e",
+      "before": "The official said, “Sir, come down before my child dies.”",
+      "after": "The royal official said, “Lord, come down before my child dies.”",
+      "tsw_comparator": "The official said to him, “Sir, come down before my child dies.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:50",
+      "delta": "F3",
+      "rationale": "Preserves life declaration, trust before sight, and obedient departure.",
+      "source_reference": "John 4:50",
+      "source_verse_sha256": "5ba90cf469fd8ce2f7f157bb9f1965aeb1fbafe4f32082c8ee4ab76669f5f764",
+      "before": "Jesus told him, “Go. Your son lives.” The man trusted the word Jesus spoke and went on his way.",
+      "after": "Jesus told him, “Go; your son lives.” The man believed the word Jesus spoke to him and went on his way.",
+      "tsw_comparator": "Jesus said to him, “Go; your son lives.” The man trusted the word that Jesus spoke to him and started on his way.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:51",
+      "delta": "F3",
+      "rationale": "Keeps descent, servants, encounter, and repeated life.",
+      "source_reference": "John 4:51",
+      "source_verse_sha256": "4c46ddf2efc654c0f2fe82a011852bd015556ae24f4ff118d221aa6d5e907f43",
+      "before": "While he was going down, his servants met him and said his child was alive.",
+      "after": "While he was still going down, his servants met him and said that his child was alive.",
+      "tsw_comparator": "As he was going down, his servants met him and told him that his child was alive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.823529,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:52",
+      "delta": "F3",
+      "rationale": "Preserves inquiry, improvement, fever, yesterday, and seventh hour.",
+      "source_reference": "John 4:52",
+      "source_verse_sha256": "ba2e03e960ac0aea2a8703b4c5a472aed3cf45c2926a7ba5ad3a9eccc4da7008",
+      "before": "He asked them when the boy began to get better. They told him, “Yesterday at the seventh hour the fever left him.”",
+      "after": "He asked them at what hour his son began to get better. They told him, “The fever left him yesterday at one in the afternoon.”",
+      "tsw_comparator": "So he asked them the hour when he began to recover, and they said to him, “Yesterday at one in the afternoon the fever left him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.54902,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:53",
+      "delta": "F3",
+      "rationale": "Keeps paternal recognition, exact correspondence, repeated word, and household belief.",
+      "source_reference": "John 4:53",
+      "source_verse_sha256": "8cff3a0e4ea36a93e04dc406ef1b9010a495ccf50fa77351158685ab14ec3437",
+      "before": "The father knew this was the hour when Jesus told him, “Your son lives.” He and his whole household trusted.",
+      "after": "Then the father realized that this was the very hour when Jesus had told him, “Your son lives.” So he believed, along with his entire household.",
+      "tsw_comparator": "The father realized that this was the hour when Jesus had said to him, “Your son lives.” So he himself trusted, along with his whole household.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 4:54",
+      "delta": "F3",
+      "rationale": "Preserves Johannine sign count and route.",
+      "source_reference": "John 4:54",
+      "source_verse_sha256": "e44a3c7c3aacd849af3c161e5e39eeafd6e87859eb2b3a446ab27bb67122676b",
+      "before": "This was the second sign Jesus did after coming from Judea to Galilee.",
+      "after": "This was the second sign Jesus performed after coming from Judea to Galilee.",
+      "tsw_comparator": "Now this was the second sign that Jesus did after coming from Judea to Galilee.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_04.md",
-    "blob_sha": "d83be611f456ca56c5b74fc90120750711eed66b"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,273 +2,489 @@
   "book": "John",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 36,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-john-1-17-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/john/John_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/John.txt",
     "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "John 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "09a5cf860b20e1cbb476fe2b8e439ee5c4545133efa4df26e17af0f8ab16f5d5"
-      },
-      "2": {
-        "source_ref": "John 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "b9d36e823eeedafa266a136ace14faba6440ca7e70e25105978cde7260a5ef0f"
-      },
-      "3": {
-        "source_ref": "John 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "5e1282212f25efb20b9ed5d38397dc1f973e42ec6ef9120b46c884f9b9488394"
-      },
-      "4": {
-        "source_ref": "John 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "52acaf04878e6825d0ab47290bf6ed665abb492c4669f7dfab17993bddd488fe"
-      },
-      "5": {
-        "source_ref": "John 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "f508973b6555632276fe7ee55555f7ae0bbfe05bcbdd85fd0eb9ba87747dee61"
-      },
-      "6": {
-        "source_ref": "John 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "957b5e7e293b8c0c809d26f67ca342855e70ff111328ba43304731446be94123"
-      },
-      "7": {
-        "source_ref": "John 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "86057620db80cf1391a674142ec70883703478b1220bb2afbbc40b1244605a18"
-      },
-      "8": {
-        "source_ref": "John 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "4b5b95dbb754646eaa7d7cff4cd04d2dc4390b7cc3c46c3d57ee43e5267e7b40"
-      },
-      "9": {
-        "source_ref": "John 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "396e04ea42ef6188c7b24e5370711962e3b062b8cfafe02d8452b46839fb37d6"
-      },
-      "10": {
-        "source_ref": "John 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "7804cbb01ab55b4c850a40698edf17a9a3db5f8425db3dc5475575e9849c464a"
-      },
-      "11": {
-        "source_ref": "John 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "d236f1d43198a457193b6ce45ccbf3c28913752311c44388a2a18ef35ba1e7ff"
-      },
-      "12": {
-        "source_ref": "John 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "7cf58ee49892a50d857ad2ecc783bf2bb257b1725f708dff82e9ed18aa6bf2ff"
-      },
-      "13": {
-        "source_ref": "John 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "7f3e077c4f59e8b9d61c56e80818d2e7e3c4e8326507d2ea624bde9fd4bde324"
-      },
-      "14": {
-        "source_ref": "John 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "4cc8d251d4298d31de5211ae35ef3a1ad2e715bb698814f68b95cccfd3cfe626"
-      },
-      "15": {
-        "source_ref": "John 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "423237083eecb109caf15cd9fb9b5a3e7677d58d0b76176b168ecb23cb3bef65"
-      },
-      "16": {
-        "source_ref": "John 3:16",
-        "source_chapter": 3,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "c33b0c90386497ef943ea75bd1f1d679cd19aa98a2365f174717a99389d7735e"
-      },
-      "17": {
-        "source_ref": "John 3:17",
-        "source_chapter": 3,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "b19b53348f133c6ffaf10b54c5886c7f8972225bfeb1cd3ce811ab6eb2c2bf81"
-      },
-      "18": {
-        "source_ref": "John 3:18",
-        "source_chapter": 3,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "a25f5255e3a7c0541b8eec47eeb1598c2b3f6874e4680970a1b0603c3dd9712c"
-      },
-      "19": {
-        "source_ref": "John 3:19",
-        "source_chapter": 3,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "4d740587b3c5dc986377ea282d2ce0fe71b605e43678f7a706b2a9d22bf693a3"
-      },
-      "20": {
-        "source_ref": "John 3:20",
-        "source_chapter": 3,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "7704c50c7c55394b5a67adec8676a30193e237726972b907fe8e7a3666353773"
-      },
-      "21": {
-        "source_ref": "John 3:21",
-        "source_chapter": 3,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "1c22604bb26cb1a0691905a4be92ee8127ef898c9465bc758ba137799f734a84"
-      },
-      "22": {
-        "source_ref": "John 3:22",
-        "source_chapter": 3,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "9d6dbc62a037874c417b9aa46bade8d34c82b09d75ac4adb36512e9edf1aa32b"
-      },
-      "23": {
-        "source_ref": "John 3:23",
-        "source_chapter": 3,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "4484c858c1a8453d07fe370ad121949954a84fd17323cd6a69533f0145797051"
-      },
-      "24": {
-        "source_ref": "John 3:24",
-        "source_chapter": 3,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "b2a69cbf6e938f6fcb57181c5e4a348ccbd67d4d5161fa90c270ddc64e4d460e"
-      },
-      "25": {
-        "source_ref": "John 3:25",
-        "source_chapter": 3,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "88ad51a18ff75ce9a896c41fb5a7bee86dd9251fdb1e655cdc67a9c8a69468e4"
-      },
-      "26": {
-        "source_ref": "John 3:26",
-        "source_chapter": 3,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "2af005bef08f7b36891bc3b07127af2412af2002061a4a4a18c517975558d4c7"
-      },
-      "27": {
-        "source_ref": "John 3:27",
-        "source_chapter": 3,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "40f0c5f886dde7c9a408fc5de704216c8045750ce405cda56103a9b55b0d8636"
-      },
-      "28": {
-        "source_ref": "John 3:28",
-        "source_chapter": 3,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "467c56b57bb409847b81fd2f411586f7051cd124e9b71e85c12e07c6a456964f"
-      },
-      "29": {
-        "source_ref": "John 3:29",
-        "source_chapter": 3,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "f98f1e6b8d4119a303331f79c9b3193d546152426e4149bdf8208535942d503f"
-      },
-      "30": {
-        "source_ref": "John 3:30",
-        "source_chapter": 3,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "ee55d270d4d8e0795e86e6f7197e6a6689b2902915d38d00a26725b631af6b96"
-      },
-      "31": {
-        "source_ref": "John 3:31",
-        "source_chapter": 3,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "ef71d95f647f04679e20b9609f4fa88c086f8b44674c9e79000358e1838e0ea5"
-      },
-      "32": {
-        "source_ref": "John 3:32",
-        "source_chapter": 3,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "e955d407666285a0e2ba0ece601639d80ef1555a985bbda3d86e1084aa7b08f0"
-      },
-      "33": {
-        "source_ref": "John 3:33",
-        "source_chapter": 3,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "ee4ebbed22de8c3d943160163d37f81a23bfa7452b8cc99e013c85e0a0555909"
-      },
-      "34": {
-        "source_ref": "John 3:34",
-        "source_chapter": 3,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "a0e1bf8bddf1aed8fc853927f5c4888aa3b5addf35579463f60064f4ccee189a"
-      },
-      "35": {
-        "source_ref": "John 3:35",
-        "source_chapter": 3,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "f5528c485e30a43b7e5b6353b516428f215d06880191457ebd83b025886b2361"
-      },
-      "36": {
-        "source_ref": "John 3:36",
-        "source_chapter": 3,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "7bf888539af04aa3fdfdc13916d9251699d014631939341c6f2b7fc541c34d45"
-      }
+    "sha256": "ada9643154a990ae2725ab847c6cfb576ce2c3bcd4945d47606e8a90c8d065f5",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/John.txt",
+    "format": "tab_separated",
+    "osis_book_id": "John",
+    "book_verse_count": 878,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 36,
+    "path": "translations/fluent/NT/john/John_03.md",
+    "before_sha256": "d5f254161845156f1c4c87ab75ac0f0a5bb4a204871630550e6d027b9a7ee5f2",
+    "after_sha256": "829749967fb1ef8517171d9cab1439bbdb8a980f6b9d32b78648ea148edfa33b",
+    "tsw_comparator_path": "books/NT/john/John_03.md",
+    "tsw_comparator_sha256": "c8a68e5cddd3d2226908bf26d8300fcd4e6059e3192ff609f659aa44961629a6"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-john-1-17/john-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "John 3:1",
+      "delta": "F3",
+      "rationale": "Preserves name, group, and leadership role.",
+      "source_reference": "John 3:1",
+      "source_verse_sha256": "5d997385cf49d83ea63ca18db4d06004c4780d03c87d9b72da0e3e357c979a9c",
+      "before": "There was a Pharisee named Nicodemus, a Jewish leader.",
+      "after": "There was a Pharisee named Nicodemus, a leader of the Jewish people.",
+      "tsw_comparator": "Now there was a Pharisee named Nicodemus, a leader of the Judeans.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:2",
+      "delta": "F3",
+      "rationale": "Keeps night, respectful title, plural knowledge claim, signs, and divine presence.",
+      "source_reference": "John 3:2",
+      "source_verse_sha256": "26587d2328b680009ea35c3860ddf56d1b2256da7372f45048f5722fd6519b89",
+      "before": "He came to Jesus at night and said, “Rabbi, we know you are a teacher who has come from God, because no one can do these signs you do unless God is with him.”",
+      "after": "He came to Jesus at night and said, “Rabbi, we know that you have come from God as a teacher, because no one can perform these signs you are doing unless God is with him.”",
+      "tsw_comparator": "He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher who has come from God; for no one can do these signs that you do apart from God being with him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:3",
+      "delta": "F3",
+      "rationale": "Renders anōthen as from above while retaining birth metaphor and kingdom sight.",
+      "source_reference": "John 3:3",
+      "source_verse_sha256": "10070642c5b16d546d31afe5e98ddc2f4e5f6337b04037260ba6600ddb617ba4",
+      "before": "Jesus answered him, “Truly, truly, I tell you, unless someone is born from above, they cannot see God’s kingdom.”",
+      "after": "Jesus answered him, “Truly, truly, I tell you, unless someone is born from above, they cannot see the kingdom of God.”",
+      "tsw_comparator": "Jesus answered him, “Truly, truly, I tell you, no one can see the kingdom of God without being born from above.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.619048,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:4",
+      "delta": "F3",
+      "rationale": "Preserves literal misunderstanding, age, maternal body, and second birth.",
+      "source_reference": "John 3:4",
+      "source_verse_sha256": "f112cf7184d69567093f408d9d1ea433c35751713d1b740d658f12683a452456",
+      "before": "Nicodemus said, “How can someone be born when they are old? Can they enter their mother’s womb a second time and be born?”",
+      "after": "Nicodemus asked, “How can a person be born when old? Surely he cannot enter his mother’s womb a second time and be born!”",
+      "tsw_comparator": "Nicodemus said to him, “How can anyone be born after having grown old? Can one enter a second time into the mother’s womb and be born?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.530612,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:5",
+      "delta": "F3",
+      "rationale": "Keeps water-Spirit unity, birth, and kingdom entry.",
+      "source_reference": "John 3:5",
+      "source_verse_sha256": "6d469b39132275813d6dade5d8431a5b895f205f52b37c48a84a8a058af348a7",
+      "before": "Jesus answered, “Truly, truly, I tell you, unless someone is born of water and Spirit, they cannot enter God’s kingdom.",
+      "after": "Jesus answered, “Truly, truly, I tell you, unless someone is born of water and Spirit, they cannot enter the kingdom of God.",
+      "tsw_comparator": "Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God without being born of water and Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:6",
+      "delta": "F3",
+      "rationale": "Preserves paired origins and outcomes.",
+      "source_reference": "John 3:6",
+      "source_verse_sha256": "13df69f5aa485d7e70fbd10d5d18e92787d4824311c199bec88107562d29f35a",
+      "before": "What is born of flesh is flesh, and what is born of the Spirit is spirit.",
+      "after": "What is born of the flesh is flesh, and what is born of the Spirit is spirit.",
+      "tsw_comparator": "What is born of the flesh is flesh, and what is born of the Spirit is spirit.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:7",
+      "delta": "F3",
+      "rationale": "Makes the shift to plural “you” audible and repeats anōthen.",
+      "source_reference": "John 3:7",
+      "source_verse_sha256": "04051e9a871e220e1326ddcbbfd2b84caabc750c7ec6bc3d7a80d4ac3031ce20",
+      "before": "Do not be amazed that I told you, ‘You must be born from above.’",
+      "after": "Do not be amazed that I told you, ‘All of you must be born from above.’",
+      "tsw_comparator": "Do not be astonished that I said to you, ‘You must be born from above.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:8",
+      "delta": "F3",
+      "rationale": "Preserves pneuma’s wind-Spirit wordplay through adjacent terms, freedom, sound, and mystery.",
+      "source_reference": "John 3:8",
+      "source_verse_sha256": "d225865c4c0609f8745501adf37143195001144455570f855c27fceec198bc0c",
+      "before": "The wind blows where it wants. You hear its sound, but you do not know where it comes from or where it goes. So it is with everyone born of the Spirit.”",
+      "after": "The wind blows where it wants. You hear its sound but do not know where it comes from or where it is going. So it is with everyone born of the Spirit.”",
+      "tsw_comparator": "The wind blows where it chooses, and you hear the sound of it, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.811594,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:10",
+      "delta": "F3",
+      "rationale": "Preserves emphatic title and rebuke.",
+      "source_reference": "John 3:10",
+      "source_verse_sha256": "43bc97a107ce23bfe765088dd60083783a2ed9d681fd0c7142aa752f6c7312b8",
+      "before": "Jesus answered, “You are Israel’s teacher, and you do not understand these things?",
+      "after": "Jesus replied, “You are the teacher of Israel, and you do not understand these things?",
+      "tsw_comparator": "Jesus answered him, “Are you a teacher of Israel, and yet you do not understand these things?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:11",
+      "delta": "F3",
+      "rationale": "Keeps singular address with plural rejection, knowing, seeing, and witness.",
+      "source_reference": "John 3:11",
+      "source_verse_sha256": "d92db91b4d8e573073fa3741561a3544d83453c615ef3c66fc7943fd50073053",
+      "before": "Truly, truly, I tell you, we speak about what we know and testify to what we have seen, yet you do not receive our testimony.",
+      "after": "Truly, truly, I tell you, we speak what we know and testify to what we have seen, yet all of you do not receive our testimony.",
+      "tsw_comparator": "Truly, truly, I tell you, we speak of what we know and testify to what we have seen; yet you do not receive our testimony.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:12",
+      "delta": "F3",
+      "rationale": "Preserves conditional contrast and repeated belief.",
+      "source_reference": "John 3:12",
+      "source_verse_sha256": "5747b6d7fdfe5401f48f17b7fe0b57fc29bee7c542d87afdf1a86fc5a71fda61",
+      "before": "If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things?",
+      "after": "If I told you about earthly things and you do not believe, how will you believe if I tell you about heavenly things?",
+      "tsw_comparator": "If I have told you about earthly things and you do not believe, how will you believe if I tell you about heavenly things?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.978723,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:13",
+      "delta": "F3",
+      "rationale": "Keeps ascent-descent and exclusive heavenly origin without later added clause.",
+      "source_reference": "John 3:13",
+      "source_verse_sha256": "8f726eda5aac188cfd32b2f9f9f37ab68e8434c12ba9573ef57548a66383bb79",
+      "before": "No one has ascended into heaven except the one who descended from heaven—the Son of Man.",
+      "after": "No one has ascended into heaven except the one who descended from heaven—the Son of Man.",
+      "tsw_comparator": "No one has ascended into heaven except the one who descended from heaven, the Son of Man.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:14",
+      "delta": "F3",
+      "rationale": "Preserves scriptural snake, wilderness, comparison, necessity, and exaltation/crucifixion ambiguity.",
+      "source_reference": "John 3:14",
+      "source_verse_sha256": "6e818dbf810aa5b98df478d9428d669009cc864d292be88cd211ead0210df2ef",
+      "before": "Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up,",
+      "after": "Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up,",
+      "tsw_comparator": "And just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:15",
+      "delta": "F3",
+      "rationale": "Keeps universal believer, personal object, and eternal life.",
+      "source_reference": "John 3:15",
+      "source_verse_sha256": "515f6eb72acfc13bbcb52f463ad39366e3cf0b230cf514de756063c44b8209dc",
+      "before": "so that everyone who trusts in him may have eternal life.",
+      "after": "so that everyone who believes in him may have eternal life.",
+      "tsw_comparator": "so that everyone who trusts in him may have eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:16",
+      "delta": "F3",
+      "rationale": "Renders houtōs as manner, preserves world, gift, unique Son, faith, perishing, and life.",
+      "source_reference": "John 3:16",
+      "source_verse_sha256": "e70f0efe5e48bff91030a442552463a20590c5fd82a20599169897f1a0e31d09",
+      "before": "For God loved the world in this way: he gave his one and only Son, so that everyone who trusts in him will not perish but have eternal life.",
+      "after": "For God loved the world in this way: he gave his one-of-a-kind Son, so that everyone who believes in him will not perish but have eternal life.",
+      "tsw_comparator": "For God so loved the world that God gave the only Son, so that everyone who trusts in him may not perish but may have eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:17",
+      "delta": "F3",
+      "rationale": "Keeps sending, world repetition, judgment-salvation contrast, and agency.",
+      "source_reference": "John 3:17",
+      "source_verse_sha256": "f2af0a00ee63f3818ea083151ef2aa22f54720a4ab68a775756af2b01383290c",
+      "before": "God did not send the Son into the world to condemn the world, but so that the world might be saved through him.",
+      "after": "For God did not send the Son into the world to condemn the world, but so that the world might be saved through him.",
+      "tsw_comparator": "Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.897959,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:18",
+      "delta": "F3",
+      "rationale": "Preserves present verdict, reason, name, and unique filial relation.",
+      "source_reference": "John 3:18",
+      "source_verse_sha256": "c98d0fd0a68b9bd3a19c969b3273b3fc98b508fd7afbf3af766308ea9e5ffdb6",
+      "before": "The one who trusts in him is not condemned, but the one who does not trust has already been condemned because they have not trusted in the name of God’s one and only Son.",
+      "after": "Whoever believes in him is not condemned, but whoever does not believe has already been condemned because they have not believed in the name of God’s one-of-a-kind Son.",
+      "tsw_comparator": "Those who trust in him are not condemned; but those who do not trust are condemned already, because they have not trusted in the name of the only Son of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.516129,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:19",
+      "delta": "F3",
+      "rationale": "Keeps judgment’s explanation, light-darkness love, and deeds.",
+      "source_reference": "John 3:19",
+      "source_verse_sha256": "38f2355c1936207c215d3e9169e20a1bd42ebffd3d5eb9d43b0de76cf6a7d285",
+      "before": "This is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.",
+      "after": "This is the judgment: the light has come into the world, but people loved darkness rather than the light because their deeds were evil.",
+      "tsw_comparator": "And this is the judgment: the light has come into the world, and people loved darkness rather than light because their deeds were evil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:20",
+      "delta": "F3",
+      "rationale": "Preserves habitual wrongdoing, hatred, avoidance, and exposure.",
+      "source_reference": "John 3:20",
+      "source_verse_sha256": "577082f90941a9bf505b18d30c383afb0431a4f3150c0bb4214f134fc065c719",
+      "before": "Everyone who practices evil hates the light and does not come to the light, so that their works will not be exposed.",
+      "after": "For everyone who practices evil hates the light and does not come to the light, so that their deeds will not be exposed.",
+      "tsw_comparator": "For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:21",
+      "delta": "F3",
+      "rationale": "Retains unusual “do the truth,” movement, manifestation, and divine sphere.",
+      "source_reference": "John 3:21",
+      "source_verse_sha256": "2a6ea990891e54c3c6948a474a3e1b2504cec02fa79c7354a5c976c634801b59",
+      "before": "But the one who does what is true comes to the light, so that it may become clear that their works have been done in God.",
+      "after": "But whoever does what is true comes to the light, so that it may be clearly seen that their deeds have been done in God.",
+      "tsw_comparator": "But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862745,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:23",
+      "delta": "F3",
+      "rationale": "Preserves place names, abundant water, ongoing approach, and baptism.",
+      "source_reference": "John 3:23",
+      "source_verse_sha256": "8360896c711c31c9b2391e6c672fe6a5735e332ac7b964d1bb2d47c98be31c43",
+      "before": "John was also baptizing at Aenon near Salim because there was plenty of water there. People kept coming and being baptized.",
+      "after": "John was also baptizing at Aenon near Salim because there was plenty of water there. People kept coming and being baptized,",
+      "tsw_comparator": "John also was baptizing at Aenon near Salim, because water was abundant there; and people kept coming and were being baptized.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:25",
+      "delta": "F3",
+      "rationale": "Preserves participants, singular man, and ritual topic.",
+      "source_reference": "John 3:25",
+      "source_verse_sha256": "b07a7808727ddd32b230cf91705e5a6ea42be516cda92fc77ebf12cd8c5acad3",
+      "before": "A discussion about purification arose between John’s disciples and a Judean.",
+      "after": "Then a dispute about purification arose between some of John’s disciples and a Jewish man.",
+      "tsw_comparator": "Now a discussion about purification arose between John’s disciples and a Judean.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:26",
+      "delta": "F3",
+      "rationale": "Keeps address, location, prior testimony, rival activity, and exaggeration.",
+      "source_reference": "John 3:26",
+      "source_verse_sha256": "0b6f0b1fceedb1f880ec76a316d52854cf6ec5ef1c04a5268e0c040af82d22e1",
+      "before": "They came to John and said, “Rabbi, the one who was with you across the Jordan, the one you testified about—look, he is baptizing, and everyone is going to him.”",
+      "after": "They came to John and said, “Rabbi, the man who was with you across the Jordan—the one you testified about—look, he is baptizing, and everyone is going to him!”",
+      "tsw_comparator": "They came to John and said to him, “Rabbi, the one who was with you across the Jordan, to whom you testified—here he is baptizing, and all are going to him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:27",
+      "delta": "F3",
+      "rationale": "Preserves comprehensive dependence on heavenly gift.",
+      "source_reference": "John 3:27",
+      "source_verse_sha256": "4cee68b53e18a6e0b24b4d6ac83c9533971161543556951cb50f94f83f5d44a6",
+      "before": "John answered, “A person cannot receive anything unless it has been given from heaven.",
+      "after": "John answered, “A person cannot receive even one thing unless it has been given from heaven.",
+      "tsw_comparator": "John answered, “No one can receive anything except what has been given from heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:28",
+      "delta": "F3",
+      "rationale": "Keeps witnesses, denial, and forerunner mission.",
+      "source_reference": "John 3:28",
+      "source_verse_sha256": "8d3900421a35dbeeb535b2fa326e54ba54d15d7bc0381fbb8fa308fce24207d1",
+      "before": "You yourselves are my witnesses that I said, ‘I am not the Christ, but I have been sent ahead of him.’",
+      "after": "You yourselves can testify that I said, ‘I am not the Messiah, but I have been sent ahead of him.’",
+      "tsw_comparator": "You yourselves are my witnesses that I said, ‘I am not the Messiah, but I have been sent ahead of him.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878049,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:29",
+      "delta": "F3",
+      "rationale": "Preserves bridegroom relation, friend’s attentive role, voice, and fulfilled joy.",
+      "source_reference": "John 3:29",
+      "source_verse_sha256": "1367c4640a159c4cfa84df82ea7dca7eb920c1433b0d1a7ed35b9c55571221f2",
+      "before": "The one who has the bride is the bridegroom. The bridegroom’s friend, who stands and listens for him, rejoices greatly at the bridegroom’s voice. So this joy of mine has been made complete.",
+      "after": "The one who has the bride is the bridegroom. The bridegroom’s friend, who stands and listens for him, rejoices greatly when he hears the bridegroom’s voice. So this joy of mine is now complete.",
+      "tsw_comparator": "The one who has the bride is the bridegroom. The friend of the bridegroom, who stands and listens for him, rejoices greatly at the bridegroom’s voice. For this reason my joy has been fulfilled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:30",
+      "delta": "F3",
+      "rationale": "Keeps parallel divine necessity and reversal.",
+      "source_reference": "John 3:30",
+      "source_verse_sha256": "c1cd9980163f2da46de078e14f70a5f0e1f7806cf308130be0b0c1d52f40c437",
+      "before": "He must increase, but I must decrease.",
+      "after": "He must increase, but I must decrease.”",
+      "tsw_comparator": "He must increase, but I must decrease.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:31",
+      "delta": "F3",
+      "rationale": "Preserves repeated above/earth/heaven contrasts.",
+      "source_reference": "John 3:31",
+      "source_verse_sha256": "498112bc9757bf27f2d6b5398dc288383f4543ef8e6d2676c15e96d3df08fbfa",
+      "before": "The one who comes from above is above all. The one who is from the earth belongs to the earth and speaks from the earth. The one who comes from heaven is above all.",
+      "after": "The one who comes from above is above all. The one who is from the earth belongs to the earth and speaks from the earth. The one who comes from heaven is above all.",
+      "tsw_comparator": "The one who comes from above is above all; the one who is from the earth belongs to the earth and speaks from the earth. The one who comes from heaven is above all.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:32",
+      "delta": "F3",
+      "rationale": "Keeps eyewitness-hearing witness and rhetorical universal rejection.",
+      "source_reference": "John 3:32",
+      "source_verse_sha256": "d5d17942ea4784f05f3eea8207ac43310562b34ba0c6ba95303d3c1707046066",
+      "before": "He testifies to what he has seen and heard, yet no one receives his testimony.",
+      "after": "He testifies to what he has seen and heard, yet no one receives his testimony.",
+      "tsw_comparator": "He testifies to what he has seen and heard, yet no one accepts his testimony.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:33",
+      "delta": "F3",
+      "rationale": "Preserves sealing/certifying image and divine truth.",
+      "source_reference": "John 3:33",
+      "source_verse_sha256": "54428d8240571269e03ff721719e0042852e58e1146af53169f112be79069f72",
+      "before": "Whoever receives his testimony confirms that God is true.",
+      "after": "Whoever receives his testimony has certified that God is true.",
+      "tsw_comparator": "Whoever has accepted his testimony has certified that God is true.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:34",
+      "delta": "F3",
+      "rationale": "Keeps sender, divine speech, and limitless Spirit.",
+      "source_reference": "John 3:34",
+      "source_verse_sha256": "c5c225eaeee937bbae5a0f43cfa9a692211e611a83f0031acf2c4b914f8d6901",
+      "before": "For the one God sent speaks God’s words, because God gives the Spirit without measure.",
+      "after": "For the one God sent speaks God’s words, because God gives the Spirit without measure.",
+      "tsw_comparator": "For the one whom God has sent speaks the words of God, for God gives the Spirit without measure.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:35",
+      "delta": "F3",
+      "rationale": "Preserves love, filial relation, comprehensive gift, and hand image.",
+      "source_reference": "John 3:35",
+      "source_verse_sha256": "6347efa5fe3b7303ab46b863c740972cf59f76c245afe7bb5e718a04eb3a80bf",
+      "before": "The Father loves the Son and has given everything into his hand.",
+      "after": "The Father loves the Son and has given everything into his hand.",
+      "tsw_comparator": "The Father loves the Son and has placed all things in his hand.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "John 3:36",
+      "delta": "F3",
+      "rationale": "Distinguishes believing from disobedient refusal and keeps present life, excluded sight, and abiding wrath.",
+      "source_reference": "John 3:36",
+      "source_verse_sha256": "0fc94a93955cc5ca9b88daf89c08dde671208c644f813c919560ddbb033530ea",
+      "before": "The one who trusts in the Son has eternal life. The one who refuses the Son will not see life; instead, God’s wrath remains on that person.”",
+      "after": "Whoever believes in the Son has eternal life, but whoever refuses to obey the Son will not see life; instead, God’s wrath remains on that person.",
+      "tsw_comparator": "Whoever trusts in the Son has eternal life; whoever refuses the Son will not see life, but the wrath of God remains upon him.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.68,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/john/John_03.md",
-    "blob_sha": "b317e0b7ea46bcbf45eb48317af737a49f582336"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

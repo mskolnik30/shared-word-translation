@@ -1,0 +1,100 @@
+{
+  "parent_commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+  "parent_library_version": 87,
+  "book": "Luke",
+  "slug": "luke",
+  "chapters": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
+  "scope": "Luke 12–24",
+  "expected_verses": 583,
+  "source_filename": "luke-pinned-greek.txt",
+  "book_record_files": ["LUKE_FLUENT_BOOK_QA.json", "BOOK_VERSE_REVIEW_LEDGER.json"],
+  "supersede_entry_records": ["BOOK_VERSE_REVIEW_LEDGER.json"],
+  "next_scope": "John 1–5",
+  "completed_block_scope": "Matthew 24–28; Mark 1–16; Luke 1–24",
+  "source_omissions": {"17": [36], "23": [17]},
+  "heading_overrides": {},
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": ["Greek"],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "12:1", "12:5", "12:8", "12:15", "12:20", "12:25", "12:32", "12:33", "12:37", "12:42", "12:45", "12:46", "12:48", "12:49", "12:50", "12:51", "12:53", "12:56", "12:58", "12:59",
+    "13:1", "13:4", "13:7", "13:9", "13:11", "13:12", "13:15", "13:16", "13:19", "13:21", "13:24", "13:27", "13:28", "13:29", "13:30", "13:32", "13:33", "13:34", "13:35",
+    "14:2", "14:5", "14:8", "14:11", "14:12", "14:13", "14:14", "14:21", "14:23", "14:24", "14:26", "14:27", "14:31", "14:33", "14:35",
+    "15:1", "15:4", "15:7", "15:8", "15:10", "15:12", "15:13", "15:15", "15:16", "15:17", "15:20", "15:21", "15:22", "15:24", "15:27", "15:28", "15:29", "15:30", "15:31", "15:32",
+    "16:6", "16:7", "16:8", "16:9", "16:13", "16:15", "16:16", "16:17", "16:18", "16:20", "16:21", "16:22", "16:23", "16:24", "16:25", "16:26", "16:29", "16:31",
+    "17:1", "17:2", "17:3", "17:4", "17:6", "17:10", "17:11", "17:12", "17:14", "17:16", "17:18", "17:19", "17:20", "17:21", "17:24", "17:25", "17:27", "17:29", "17:31", "17:32", "17:33", "17:34", "17:35", "17:37",
+    "18:3", "18:5", "18:7", "18:8", "18:9", "18:11", "18:13", "18:14", "18:15", "18:17", "18:18", "18:19", "18:20", "18:22", "18:25", "18:27", "18:29", "18:30", "18:31", "18:32", "18:33", "18:34", "18:35", "18:38", "18:41", "18:42", "18:43",
+    "19:2", "19:4", "19:5", "19:7", "19:8", "19:9", "19:10", "19:11", "19:12", "19:13", "19:14", "19:17", "19:20", "19:21", "19:22", "19:23", "19:26", "19:27", "19:29", "19:30", "19:31", "19:35", "19:38", "19:40", "19:41", "19:42", "19:43", "19:44", "19:45", "19:46", "19:47",
+    "20:4", "20:6", "20:9", "20:10", "20:11", "20:12", "20:13", "20:14", "20:15", "20:16", "20:17", "20:18", "20:19", "20:20", "20:22", "20:24", "20:25", "20:27", "20:28", "20:30", "20:31", "20:35", "20:36", "20:37", "20:38", "20:41", "20:42", "20:44", "20:46", "20:47",
+    "21:2", "21:4", "21:6", "21:8", "21:9", "21:11", "21:12", "21:13", "21:15", "21:16", "21:18", "21:19", "21:20", "21:21", "21:22", "21:23", "21:24", "21:25", "21:26", "21:27", "21:28", "21:32", "21:33", "21:34", "21:35", "21:36",
+    "22:3", "22:4", "22:6", "22:7", "22:10", "22:11", "22:12", "22:15", "22:16", "22:17", "22:18", "22:19", "22:20", "22:21", "22:22", "22:25", "22:26", "22:27", "22:29", "22:30", "22:31", "22:32", "22:34", "22:35", "22:36", "22:37", "22:38", "22:40", "22:42", "22:43", "22:44", "22:45", "22:47", "22:48", "22:49", "22:50", "22:51", "22:52", "22:53", "22:56", "22:57", "22:58", "22:59", "22:60", "22:61", "22:63", "22:64", "22:65", "22:66", "22:67", "22:69", "22:70", "22:71",
+    "23:2", "23:3", "23:4", "23:7", "23:8", "23:11", "23:12", "23:14", "23:15", "23:16", "23:18", "23:19", "23:21", "23:22", "23:23", "23:24", "23:25", "23:26", "23:27", "23:28", "23:29", "23:30", "23:31", "23:32", "23:33", "23:34", "23:35", "23:36", "23:38", "23:39", "23:40", "23:41", "23:42", "23:43", "23:44", "23:45", "23:46", "23:47", "23:48", "23:49", "23:50", "23:51", "23:52", "23:53", "23:54", "23:55", "23:56",
+    "24:1", "24:3", "24:4", "24:5", "24:6", "24:7", "24:9", "24:10", "24:11", "24:12", "24:13", "24:16", "24:18", "24:19", "24:20", "24:21", "24:22", "24:23", "24:24", "24:25", "24:26", "24:27", "24:29", "24:30", "24:31", "24:32", "24:34", "24:35", "24:37", "24:39", "24:40", "24:41", "24:42", "24:43", "24:44", "24:45", "24:46", "24:47", "24:48", "24:49", "24:50", "24:51", "24:52", "24:53"
+  ],
+  "focused_extra_references": [],
+  "apparatus": {
+    "12": {
+      "notes": [["05", "Gehenna is the Greek form of the Valley of Hinnom, used here as an image of final judgment."], ["25", "The Greek can refer to adding a cubit to one’s height or to one’s span of life. The context of anxious provision favors the life-span sense while the ancient measurement remains visible."], ["46–48", "The household warning retains its severe violence and differing degrees of accountability. The imagery is not transferred into an instruction for human punishment."], ["49–50", "Fire and baptism are difficult images for Jesus’ disruptive mission and approaching suffering; the main text does not reduce them to one explanation."]],
+      "vocabulary": [["01", "ὑπόκρισις (hypokrisis)", "Hypocrisy, play-acting, or presenting a false appearance."], ["15", "πλεονεξία (pleonexia)", "Greed or the grasping desire to have more."], ["32", "ποίμνιον (poimnion)", "A small flock."], ["50", "βάπτισμα (baptisma)", "Baptism or immersion; here an ordeal Jesus must undergo."]]
+    },
+    "13": {
+      "notes": [["01–05", "Jesus rejects the inference that violent or accidental deaths prove that the victims were greater sinners. He turns both reports into a warning addressed to everyone."], ["11–16", "The woman is described as having a spirit of weakness, as a daughter of Abraham, and as bound by Satan. The translation preserves Luke’s account without imposing a modern diagnosis."], ["32", "‘Reach my goal’ can also be rendered ‘be completed’ or ‘be perfected’; it gathers Jesus’ works and approaching death into the three-day saying."], ["34", "The hen gathering her brood is a maternal image for Jesus’ desired protection of Jerusalem’s children."]],
+      "vocabulary": [["03", "μετανοέω (metanoeō)", "Repent; turn in mind, allegiance, and life."], ["12", "ἀπολύω (apolyō)", "Release, set free, or dismiss."], ["19", "σινάπεως (sinapeōs)", "Mustard, known for a very small seed and vigorous growth."], ["29", "ἀνακλίνω (anaklinō)", "Recline at a meal, here the kingdom banquet."]]
+    },
+    "14": {
+      "notes": [["02", "The ancient term describes swelling caused by retained fluid. The main text describes the body without assigning a modern diagnosis."], ["13", "The Greek names people who are poor, disabled, lame, and blind. These are invited guests, not illustrations detached from real people."], ["23", "The verb can mean urge strongly or compel. In this banquet setting it expresses the host’s determination to welcome people from beyond the expected circles; it does not authorize coercion."], ["26", "‘Hate’ retains the saying’s deliberately severe language of comparative allegiance. It should not be weakened into a claim that family ties are insignificant."]],
+      "vocabulary": [["11", "ταπεινόω (tapeinoō)", "Humble or bring low."], ["14", "ἀνάστασις (anastasis)", "Resurrection, rising from the dead."], ["26", "μαθητής (mathētēs)", "Disciple or learner who follows a teacher."], ["33", "ἀποτάσσομαι (apotassomai)", "Take leave of, renounce, or give up claim to."]]
+    },
+    "15": {
+      "notes": [["01–02", "The three stories answer the complaint that Jesus welcomes sinners and eats with them."], ["12", "The father divides his livelihood between both sons, not only the share requested by the younger."], ["20", "The father sees the son at a distance, runs, embraces him, and kisses him repeatedly or tenderly before hearing the completed confession."], ["21–24", "The son does not complete his rehearsed request to become a hired worker. The father instead restores him publicly with robe, ring, sandals, and a feast."], ["32", "The story ends with the father’s appeal and does not report the older brother’s response."]],
+      "vocabulary": [["07", "μετάνοια (metanoia)", "Repentance, a turning of mind and life."], ["13", "ἀσώτως (asōtōs)", "Recklessly, wastefully, or without restraint."], ["20", "σπλαγχνίζομαι (splagchnizomai)", "Be moved with deep compassion."], ["24", "ἀπόλλυμι (apollymi)", "Lose, destroy, or perish; repeated throughout the chapter."]]
+    },
+    "16": {
+      "notes": [["08", "The master praises the manager’s shrewdness, not his dishonesty. The story’s difficult moral force is developed in the sayings that follow."], ["09", "‘Dishonest wealth’ is literally ‘the mammon of injustice.’ The saying recognizes wealth’s compromised setting while directing it toward relationships that outlast it."], ["16", "The final verb can suggest forceful entry, urgent pressing, or violence. The main text preserves the force without making the kingdom something seized by merit."], ["19–31", "The story names the poor man Lazarus but leaves the rich man unnamed. Their reversal exposes the rich man’s failure to see the suffering at his gate; the imagery should not be made into a detailed map of the afterlife."]],
+      "vocabulary": [["01", "οἰκονόμος (oikonomos)", "Manager or steward entrusted with a household’s affairs."], ["09", "μαμωνᾶς (mamōnas)", "Mammon, wealth treated as a power or master."], ["23", "ᾅδης (hadēs)", "Hades, the realm of the dead."], ["25", "παρακαλέω (parakaleō)", "Comfort, encourage, appeal, or call alongside."]]
+    },
+    "17": {
+      "notes": [["10", "‘Servants who deserve no special credit’ renders a term that can mean unworthy, unprofitable, or without claim to reward. The saying concerns obligation, not the servants’ lack of human worth."], ["11", "The Greek places Jesus ‘through the middle of’ or ‘between’ Samaria and Galilee; the exact route is not specified."], ["12", "The traditional word ‘leprosy’ covers several ancient skin conditions and is not limited to the modern disease called Hansen’s disease."], ["21", "The phrase can mean ‘within you’ or ‘among you.’ Addressed to Pharisees as a group, ‘among you’ preserves the kingdom’s presence without locating it in their private interior life."], ["36", "Public verse 36 is absent from the pinned Greek text, so the numbering moves from 35 to 37."], ["37", "The bird term can mean eagles or vultures. Around a corpse, vultures makes the ominous image most immediate."]],
+      "vocabulary": [["01", "σκάνδαλον (skandalon)", "A trap, stumbling block, or cause of ruin."], ["04", "ἀφίημι (aphiēmi)", "Release, forgive, or leave."], ["19", "σῴζω (sōzō)", "Save, heal, rescue, or make whole."], ["21", "ἐντός (entos)", "Within or among."]]
+    },
+    "18": {
+      "notes": [["03–08", "The widow asks for justice against an opponent. The judge acts from self-interest, while Jesus argues from the unjust judge to God rather than comparing God’s character to his."], ["05", "The final idiom may mean wear me out, give me a black eye, or damage my reputation. The main text keeps the judge’s fear of her relentless return."], ["13", "The tax collector calls himself ‘the sinner,’ concentrating his confession on his own need rather than comparing himself with others."], ["22", "Jesus’ command joins total divestment, distribution to the poor, heavenly treasure, and personal following; none of these movements is omitted."], ["35–43", "The man is blind and begs beside the road. The translation keeps his agency, persistent voice, request, restored sight, and decision to follow Jesus."]],
+      "vocabulary": [["03", "ἐκδικέω (ekdikeō)", "Give justice, vindicate, or avenge."], ["13", "ἱλάσκομαι (hilaskomai)", "Show mercy or make atonement."], ["18", "ζωὴ αἰώνιος (zōē aiōnios)", "Eternal life or the life of the age to come."], ["42", "πίστις (pistis)", "Faith, trust, or faithfulness."]]
+    },
+    "19": {
+      "notes": [["08", "Zacchaeus speaks in the present tense: ‘I give’ and ‘I repay.’ This can describe a new commitment or declare a practice; the text does not explicitly settle the timing."], ["11–27", "The nobleman’s political setting and final slaughter command remain part of the character’s story. The translation does not soften the violence or silently turn every action of the ruler into a direct command from God."], ["42", "‘What makes for peace’ is literally ‘the things toward peace,’ gathering the path or conditions of peace without reducing them to a slogan."], ["44", "The word rendered ‘visited’ can describe God’s gracious inspection or visitation. Jerusalem fails to recognize the decisive time."], ["45", "The pinned text names those selling in the temple courts; it does not add buyers or money changers in this verse."]],
+      "vocabulary": [["02", "ἀρχιτελώνης (architelōnēs)", "Chief tax collector."], ["08", "συκοφαντέω (sykophanteō)", "Defraud, extort, or accuse falsely for gain."], ["13", "μνᾶ (mna)", "Mina, a substantial unit of money."], ["44", "ἐπισκοπή (episkopē)", "Visitation, oversight, or inspection."]]
+    },
+    "20": {
+      "notes": [["09–16", "The tenant story reports escalating assaults and murder. Its critique is directed within the narrated leadership conflict and must not be generalized into hostility toward Jewish people."], ["25", "The verb means give back or render what is due. The saying leaves hearers to discern the claims represented by Caesar’s image and by God."], ["30", "The pinned source gives only the terse phrase ‘and the second’; the English supplies ‘married her’ from the continuing sentence without importing additional events."], ["34–38", "Jesus answers the Sadducees’ test by distinguishing this age from the resurrection age and grounding the living God’s relation to Abraham, Isaac, and Jacob."], ["46–47", "The warning joins conspicuous religious status with the economic devouring of widows’ households; long prayer functions as a pretense."]],
+      "vocabulary": [["02", "ἐξουσία (exousia)", "Authority, right, or delegated power."], ["25", "ἀποδίδωμι (apodidōmi)", "Give back, repay, or render what is due."], ["27", "ἀνάστασις (anastasis)", "Resurrection, rising from the dead."], ["47", "κρίμα (krima)", "Judgment or a judicial verdict."]]
+    },
+    "21": {
+      "notes": [["01–04", "Jesus observes that the widow gives her entire livelihood. In the immediate context of leaders who devour widows’ houses, the scene should not be used to pressure poor people into destitution."], ["16–19", "The passage holds together real betrayal and death with the promise that not a hair will perish and that endurance gains life. The translation preserves the tension rather than explaining it away."], ["20–24", "The warning names Jerusalem, armies, flight, killing, captivity, and trampling. Pregnant women and nursing mothers are singled out because siege and displacement intensify their vulnerability."], ["32", "‘This generation’ is retained rather than replaced with an interpretation of which generation is meant."], ["36", "The verb can mean have strength or prevail; the prayer concerns enduring or escaping what is coming and standing before the Son of Man."]],
+      "vocabulary": [["13", "μαρτύριον (martyrion)", "Testimony or witness."], ["19", "ὑπομονή (hypomonē)", "Endurance, steadfastness, or patient persistence."], ["24", "καιροὶ ἐθνῶν (kairoi ethnōn)", "Times or appointed seasons of the nations."], ["28", "ἀπολύτρωσις (apolytrōsis)", "Redemption, release, or liberation."]]
+    },
+    "22": {
+      "notes": [["19–20", "The words from ‘which is given for you’ through the cup saying are bracketed in the pinned source because of significant textual variation. They remain readable but visibly distinct from the surrounding main text."], ["31–32", "Satan’s demand is addressed to the disciples in the plural, while Jesus’ prayer and commission are addressed specifically to Simon. The English names Simon in verse 32 to make the shift audible."], ["36–38", "Jesus speaks of buying a sword in connection with being counted among the lawless. The disciples produce two swords and Jesus ends the exchange with the ambiguous ‘That is enough.’ The passage does not narrate a program of armed defense."], ["43–44", "The angel and sweat-like-blood verses are bracketed in the pinned source because of significant textual variation. The wording is a simile and does not require a medical diagnosis."], ["50–51", "A disciple cuts off the right ear of the high priest’s servant. Jesus stops the violence, touches the injured man, and heals him."]],
+      "vocabulary": [["15", "ἐπιθυμία (epithymia)", "Strong desire or longing."], ["20", "διαθήκη (diathēkē)", "Covenant, a binding relationship or disposition."], ["31", "σινιάζω (siniazō)", "Sift, as grain is shaken to separate it."], ["40", "πειρασμός (peirasmos)", "Testing, trial, or temptation."]]
+    },
+    "23": {
+      "notes": [["17", "Public verse 17 is absent from the pinned Greek text, so the numbering moves from 16 to 18."], ["28–31", "Jesus addresses women who are already mourning him and names the future vulnerability of them and their children. Wombs, breasts, mountains, hills, and green and dry wood remain concrete."], ["34", "Jesus’ prayer for forgiveness is bracketed in the pinned source because of significant textual variation."], ["43", "Ancient manuscripts had no comma after ‘today.’ The natural Greek construction supports the main-text punctuation, ‘Today you will be with me in paradise,’ while the wording itself remains the evidence."], ["47", "The centurion calls Jesus ‘righteous’ or ‘innocent.’ ‘Righteous’ preserves the term’s wider moral and theological range while fitting Pilate’s repeated innocence declarations."]],
+      "vocabulary": [["26", "σταυρός (stauros)", "Cross, a Roman instrument of execution and public shame."], ["35", "ἐκλεκτός (eklektos)", "Chosen or selected one."], ["43", "παράδεισος (paradeisos)", "Paradise, a garden-like place of blessed life with God."], ["51", "βασιλεία τοῦ θεοῦ (basileia tou theou)", "The kingdom or reign of God."]]
+    },
+    "24": {
+      "notes": [["06", "‘He is not here; he has risen’ is bracketed in the pinned source because of textual variation."], ["10–11", "Luke names Mary Magdalene, Joanna, Mary associated with James, and other women as the first witnesses to the empty tomb report. The apostles initially dismiss their testimony."], ["12", "Peter’s run to the tomb is bracketed in the pinned source because of textual variation."], ["40", "Jesus’ act of showing his hands and feet is bracketed in the pinned source because of textual variation."], ["51–52", "The clauses ‘and was carried up into heaven’ and ‘after worshiping him’ are bracketed in the pinned source. The departure, return to Jerusalem, great joy, and continual temple praise remain in the surrounding text."]],
+      "vocabulary": [["21", "λυτρόω (lytroō)", "Redeem or set free by release."], ["26", "χριστός (christos)", "Messiah or Christ, the anointed one."], ["32", "γραφή (graphē)", "Scripture or sacred writing."], ["47", "ἄφεσις (aphesis)", "Forgiveness, release, or liberation from sins."]]
+    }
+  }
+}

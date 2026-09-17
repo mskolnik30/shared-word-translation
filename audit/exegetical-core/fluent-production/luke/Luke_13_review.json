@@ -2,266 +2,303 @@
   "book": "Luke",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 35,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_13_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 13:1",
-        "source_chapter": 13,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "7cd1d7e635f33944d5fa4b774fb9ea3a4ca16e87ae3efd497584a957d601e4c7"
-      },
-      "2": {
-        "source_ref": "Luke 13:2",
-        "source_chapter": 13,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "8b0b469861c37fdef03c7db50b4bc1c0ab0d8e297761398968acd515158b4a2d"
-      },
-      "3": {
-        "source_ref": "Luke 13:3",
-        "source_chapter": 13,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "5846c8681101346da0785ac176df17434eaaa5a247ad95cf65ffa1f2495baa21"
-      },
-      "4": {
-        "source_ref": "Luke 13:4",
-        "source_chapter": 13,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "b3987f82b0c0d2b83b4e62d1ff9da4f566aa0d19707ee4b884c7165093559558"
-      },
-      "5": {
-        "source_ref": "Luke 13:5",
-        "source_chapter": 13,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "274211ac26b8cbc78edb907bf6cb444637760eb30acd29dc445a3c1789ab50a0"
-      },
-      "6": {
-        "source_ref": "Luke 13:6",
-        "source_chapter": 13,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "42e096da337e92d6468db1459fd065dbf966312672650f8dab2d2265752db927"
-      },
-      "7": {
-        "source_ref": "Luke 13:7",
-        "source_chapter": 13,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d64a54286bd29c0f102e02d7a101b63cf60641713c893a9f69be3d908fbaf10a"
-      },
-      "8": {
-        "source_ref": "Luke 13:8",
-        "source_chapter": 13,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "24c2934e2734ce85112fedf10a4426ae32f9056ce6c5d0d38236e3b8f1316a71"
-      },
-      "9": {
-        "source_ref": "Luke 13:9",
-        "source_chapter": 13,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "3b7360b258621f5db1e1fd85f45ecb55e4a89e2a80d85ca6e2950dc7be5c4df4"
-      },
-      "10": {
-        "source_ref": "Luke 13:10",
-        "source_chapter": 13,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "bd9dc07e26ca29e2a2e5c5971c6fd42e208f0af942ad0eebddcff26031c5a463"
-      },
-      "11": {
-        "source_ref": "Luke 13:11",
-        "source_chapter": 13,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "53b5a688dd1cd352fd81c47d5ded312a2acb701ce7c7a0f6d9c6c5e475402c1d"
-      },
-      "12": {
-        "source_ref": "Luke 13:12",
-        "source_chapter": 13,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "7cd811b76dc3377790acfd9680179d45c1d649adf2066922af3633da89bbc0af"
-      },
-      "13": {
-        "source_ref": "Luke 13:13",
-        "source_chapter": 13,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "1e01b64a9b9aea673b8818c8c0e9fd6289273ea2d3f2b48f4d7f85eaf34ff317"
-      },
-      "14": {
-        "source_ref": "Luke 13:14",
-        "source_chapter": 13,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "21f721d2eb6534a6a9f0ab670e68fbc0fac77270f8b0050386cf6df082cc76f1"
-      },
-      "15": {
-        "source_ref": "Luke 13:15",
-        "source_chapter": 13,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "b26396a5a3736b2297225044db5aa0d42a32e2263c844aed9381d4e939d91c2f"
-      },
-      "16": {
-        "source_ref": "Luke 13:16",
-        "source_chapter": 13,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "eea31aae0b706a1365d49e36b15962308b1d738722afd7638ab0eb3039ce7cf6"
-      },
-      "17": {
-        "source_ref": "Luke 13:17",
-        "source_chapter": 13,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "6b805445a9efc205f546459d400c21e3f50da47fc49aaf0a440203046059bc11"
-      },
-      "18": {
-        "source_ref": "Luke 13:18",
-        "source_chapter": 13,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "4f2931f21e11213fb86db1179544d69d3b9b526a817940bd1ac5942958e125e9"
-      },
-      "19": {
-        "source_ref": "Luke 13:19",
-        "source_chapter": 13,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "223b9d748f3d44899e7d06ba6cef33db94860fcd14ccc178daf34747313bb7e5"
-      },
-      "20": {
-        "source_ref": "Luke 13:20",
-        "source_chapter": 13,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "a33f93eb1d32667d383063fcd59b84509c7969d11117ad3195fb7b542ba9c71f"
-      },
-      "21": {
-        "source_ref": "Luke 13:21",
-        "source_chapter": 13,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "a828986c698defe56fc19dd84aa4738c7345f19e7300bbbe97b7a77035d2d189"
-      },
-      "22": {
-        "source_ref": "Luke 13:22",
-        "source_chapter": 13,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "f582056726926c98dac883906a1b8950d9dddeb60642830e262a09134ccc9f7c"
-      },
-      "23": {
-        "source_ref": "Luke 13:23",
-        "source_chapter": 13,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "6eecc477aedbec5f162fe3b945e16f4956438ef74d9c85660bc6e89ca01c70bb"
-      },
-      "24": {
-        "source_ref": "Luke 13:24",
-        "source_chapter": 13,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "d1b1986a566db82e953fa85e82b63993c7645ef3220e9953632c860ce98122e6"
-      },
-      "25": {
-        "source_ref": "Luke 13:25",
-        "source_chapter": 13,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "3a4cac0e35efd55d78ee37ee4788150fe487ce7bbdb8c266ebb33d5b6a5f4088"
-      },
-      "26": {
-        "source_ref": "Luke 13:26",
-        "source_chapter": 13,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "cbc3b3596a4b032678e99455e38a7892d485370e4b9bee967d4cc2b2c736d008"
-      },
-      "27": {
-        "source_ref": "Luke 13:27",
-        "source_chapter": 13,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "6c97daf1e411ea40830734bd6c1d4c362aaf3e82b3fd2129f2e067c93d83cf69"
-      },
-      "28": {
-        "source_ref": "Luke 13:28",
-        "source_chapter": 13,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "a6544ca9e0d34c094e391741fd2c7ef8a0f5ce25ea4d82f1f9775a5b38459d9d"
-      },
-      "29": {
-        "source_ref": "Luke 13:29",
-        "source_chapter": 13,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "a93cf569d12e838b9117820f7239dc84361d4e837efbe54bf46330581be14485"
-      },
-      "30": {
-        "source_ref": "Luke 13:30",
-        "source_chapter": 13,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "612d0af158c985ad8668e7484bb30557f42a0cb039f037cf154613fad05f8f54"
-      },
-      "31": {
-        "source_ref": "Luke 13:31",
-        "source_chapter": 13,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "71293bdfde955407804ca70bb8db39259c188fb72394816d6b94de19f0f6923d"
-      },
-      "32": {
-        "source_ref": "Luke 13:32",
-        "source_chapter": 13,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "018d1e5f3d7ce5ba54fe0999a9eb1b75406c0409ca1f875120a737bd1a8a6346"
-      },
-      "33": {
-        "source_ref": "Luke 13:33",
-        "source_chapter": 13,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "b8e2cc23870960b3238d78e3f8529a8b072528a5a81fec29b45fb6dfd377ed8e"
-      },
-      "34": {
-        "source_ref": "Luke 13:34",
-        "source_chapter": 13,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "25096c551c70a5e17a2ac8668cc075014a66b21d2fb47ba3a75bc56edacb14a7"
-      },
-      "35": {
-        "source_ref": "Luke 13:35",
-        "source_chapter": 13,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "8a0e08865924c74bc23bbfb3fcacd35e460701052692201c87f44f7c1cb67111"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 35,
+    "path": "translations/fluent/NT/luke/Luke_13.md",
+    "before_sha256": "8c1c948421650671a4e5cdf143c5cfdad26ff8c9d61045b199f35b252f379182",
+    "after_sha256": "d9549f9a83a8ac44cd9df614c09d56b0a9a31f2eb298342b0e7fa6edaab2854b",
+    "tsw_comparator_path": "books/NT/luke/Luke_13.md",
+    "tsw_comparator_sha256": "fcdda7c84b2a9946c451d72a1703f6fe618ddc8ba87d8ab28242a2ab96eb2432"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 13:1",
+      "delta": "F3",
+      "rationale": "Preserves timing, Pilate’s violence, blood, and sacrificial setting.",
+      "source_reference": "Luke 13:1",
+      "source_verse_sha256": "4d7e9f098d81d322e59ccef20f981df9d2e838f8b63e7cb47ff4d5d3b9a3a5d1",
+      "before": "At that time some people were present who told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.",
+      "after": "At that very time, some people arrived and told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.",
+      "tsw_comparator": "Now there were some present at that time who were telling him about the Galileans whose blood Pilate had mixed with their sacrifices.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:4",
+      "delta": "F3",
+      "rationale": "Keeps exact number, location, accidental death, and guilt comparison.",
+      "source_reference": "Luke 13:4",
+      "source_verse_sha256": "69990253ea9312c8cc575cece6a88e8440bea736ad944a16e9a2d3d7d7098b95",
+      "before": "Or those eighteen people on whom the tower in Siloam fell and killed them—do you think they were worse offenders than everyone else living in Jerusalem?",
+      "after": "Or those eighteen people on whom the tower in Siloam fell and killed them—do you think they were more guilty than everyone else living in Jerusalem?",
+      "tsw_comparator": "Or those eighteen on whom the tower in Siloam fell and killed them—do you think that they were worse offenders than all the people living in Jerusalem?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:7",
+      "delta": "F3",
+      "rationale": "Keeps exact time, repeated search, command, and land-use complaint.",
+      "source_reference": "Luke 13:7",
+      "source_verse_sha256": "e71a834b91f43c2bcb10400ebbd565a0508fdb4b9b357cdc5856439723911ad6",
+      "before": "He said to the gardener, ‘Look, for three years I have come looking for fruit on this fig tree and found none. Cut it down. Why should it keep using up the soil?’",
+      "after": "He said to the vineyard worker, ‘Look, for three years I have come looking for fruit on this fig tree and found none. Cut it down! Why should it keep wasting the soil?’",
+      "tsw_comparator": "And he said to the vinedresser, ‘Behold, for three years I have come seeking fruit on this fig tree and find none. Cut it down. Why should it also use up the soil?’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.757576,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:9",
+      "delta": "F3",
+      "rationale": "Preserves conditional reprieve and unresolved ending.",
+      "source_reference": "Luke 13:9",
+      "source_verse_sha256": "87167208cea503f70863fab95c74d9264003f5ef4ecefe9dbc5d0d9910a1c8ff",
+      "before": "If it bears fruit in the future, good. If not, you can cut it down.’”",
+      "after": "If it bears fruit next year, well and good. If not, you can cut it down.’”",
+      "tsw_comparator": "and if indeed it bears fruit in the future—good; but if not, you will cut it down.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647059,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:11",
+      "delta": "F3",
+      "rationale": "Retains her gender, exact duration, spirit, bodily condition, and inability.",
+      "source_reference": "Luke 13:11",
+      "source_verse_sha256": "500215b8c6c03c8f1bddd0678d8267dbf07f807d96af95d4a08715aec8e1c53d",
+      "before": "Look—a woman there had a spirit of infirmity for eighteen years. She was bent over and completely unable to straighten herself.",
+      "after": "There was a woman who for eighteen years had a spirit that caused weakness. She was bent over and could not straighten up at all.",
+      "tsw_comparator": "And behold, a woman having a spirit of infirmity for eighteen years, and she was bent over and not able to straighten up at all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:12",
+      "delta": "F3",
+      "rationale": "Keeps Jesus’ initiative, respectful address, and release language.",
+      "source_reference": "Luke 13:12",
+      "source_verse_sha256": "a182cd86579f0e6e6ae2fc931d661054f3350addbcaec0ea362e54c28f8cdd2e",
+      "before": "When Jesus saw her, he called her forward and said, “Woman, you are released from your infirmity.”",
+      "after": "When Jesus saw her, he called her over and said, “Woman, you are released from your weakness.”",
+      "tsw_comparator": "And seeing her, Jesus called her forward and said to her, “Woman, you are released from your infirmity.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:15",
+      "delta": "F3",
+      "rationale": "Keeps plural accusation, both animals, untying, trough, and water.",
+      "source_reference": "Luke 13:15",
+      "source_verse_sha256": "fe8d141162454353408cab23a6154063637e5e179bffce79ec441ed3749695fc",
+      "before": "The Lord answered him, “Hypocrites! Does not each of you untie an ox or donkey from the stall on the Sabbath and lead it away to drink?",
+      "after": "The Lord answered him, “Hypocrites! Does not each of you untie his ox or donkey from the feeding trough on the Sabbath and lead it out to give it water?",
+      "tsw_comparator": "But the Lord answered him and said, “Hypocrites! Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it away to give it drink?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.741935,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:16",
+      "delta": "F3",
+      "rationale": "Retains her covenant identity, Satan’s binding, duration, and release argument.",
+      "source_reference": "Luke 13:16",
+      "source_verse_sha256": "4fc44c29bc65f43400b92b9e67174f25fa1307cb22550fea04a5d8216460881a",
+      "before": "And this woman, a daughter of Abraham whom Satan bound for eighteen years—should she not be released from this bond on the Sabbath?”",
+      "after": "Then should not this woman—a daughter of Abraham whom Satan bound for eighteen years—be released from this bondage on the Sabbath day?”",
+      "tsw_comparator": "And this one, being a daughter of Abraham whom Satan bound, behold, for eighteen years, ought she not to have been released from this bond on the Sabbath day?”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.679245,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:19",
+      "delta": "F3",
+      "rationale": "Retains tiny seed, garden, surprising tree, and nesting birds.",
+      "source_reference": "Luke 13:19",
+      "source_verse_sha256": "6176c710b6285c244121781ef75d4788752402614b625baaaaecb80977100b56",
+      "before": "It is like a mustard seed that a man took and threw into his garden. It grew and became a tree, and the birds of the sky nested in its branches.”",
+      "after": "It is like a mustard seed that a man took and planted in his garden. It grew and became a tree, and the birds of the sky nested in its branches.”",
+      "tsw_comparator": "It is like a mustard seed, which a man took and threw into his garden, and it grew and became a tree, and the birds of the sky nested in its branches.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:21",
+      "delta": "F3",
+      "rationale": "Preserves woman’s action, hidden yeast, exact amount, and total effect.",
+      "source_reference": "Luke 13:21",
+      "source_verse_sha256": "c560e34cbdd40805cf9961ca94a5d5ffc852179935744590faa9d5102e9bfdb0",
+      "before": "It is like yeast that a woman took and hid in three measures of flour until all of it was leavened.”",
+      "after": "It is like yeast that a woman took and hid in three measures of flour until all of it was leavened.”",
+      "tsw_comparator": "It is like leaven, which a woman took and hid in three measures of flour until it was all leavened.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.829268,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:24",
+      "delta": "F3",
+      "rationale": "Retains strenuous effort, narrow door, many, and inability.",
+      "source_reference": "Luke 13:24",
+      "source_verse_sha256": "2eee00aecebd70e4a64447782b4a7c7b2b160943f1a26cccfa74b208dee6585a",
+      "before": "“Strive to enter through the narrow door, because many, I tell you, will seek to enter and will not be able.",
+      "after": "“Strive to enter through the narrow door, because many, I tell you, will try to enter and will not be able.",
+      "tsw_comparator": "“Strive to enter through the narrow door, because many, I say to you, will seek to enter and will not be able.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:27",
+      "delta": "F3",
+      "rationale": "Keeps repeated refusal and injustice rather than vague evil.",
+      "source_reference": "Luke 13:27",
+      "source_verse_sha256": "8394233d1a1a35cd6e1ed0d842bc10cd69b7ec47752895524ad6d08a2db635d6",
+      "before": "He will say, ‘I tell you, I do not know where you are from. Go away from me, all you workers of unrighteousness.’",
+      "after": "But he will tell you, ‘I do not know where you come from. Get away from me, all you workers of injustice!’",
+      "tsw_comparator": "And he will say, ‘I tell you, I do not know where you are from; depart from me, all workers of unrighteousness.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:28",
+      "delta": "F3",
+      "rationale": "Retains grief image, named ancestors, prophets, kingdom, and exclusion.",
+      "source_reference": "Luke 13:28",
+      "source_verse_sha256": "73d8a9127b33809e0edc62e237d8c3fa4cf8eb5a6c7c4ffe9637029d29f24ea9",
+      "before": "There will be weeping and grinding of teeth when you see Abraham, Isaac, Jacob, and all the prophets in God’s kingdom, but you yourselves thrown outside.",
+      "after": "There will be weeping and grinding of teeth when you see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, but yourselves thrown outside.",
+      "tsw_comparator": "There will be weeping and gnashing of teeth when you see Abraham and Isaac and Jacob and all the prophets in the kingdom of God, but you yourselves being cast out.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:29",
+      "delta": "F3",
+      "rationale": "Keeps four directions and banquet posture.",
+      "source_reference": "Luke 13:29",
+      "source_verse_sha256": "e36e584a9ceab4b43ab4c0a4b5f58476bf62f64c38e8475e77af65ca7a078938",
+      "before": "People will come from east and west, north and south, and recline at the table in God’s kingdom.",
+      "after": "People will come from east and west, from north and south, and recline at the table in the kingdom of God.",
+      "tsw_comparator": "And they will come from east and west and north and south, and will recline at table in the kingdom of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:30",
+      "delta": "F3",
+      "rationale": "Preserves reversal with qualified “some.”",
+      "source_reference": "Luke 13:30",
+      "source_verse_sha256": "301374a177b922c44f4586ee14634506214284c722dac185bc09971630511dd0",
+      "before": "Look—there are last who will be first, and there are first who will be last.”",
+      "after": "And look: some who are last will be first, and some who are first will be last.”",
+      "tsw_comparator": "And behold, there are last who will be first, and there are first who will be last.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:32",
+      "delta": "F3",
+      "rationale": "Retains fox insult, ministries, three-day sequence, and completion ambiguity.",
+      "source_reference": "Luke 13:32",
+      "source_verse_sha256": "6c88ff30a4f078622e4e1433654d33d239ecd289c2b6a690bf0f909d5560626f",
+      "before": "He said to them, “Go tell that fox, ‘Look, I cast out demons and complete healings today and tomorrow, and on the third day I reach completion.",
+      "after": "He replied, “Go tell that fox, ‘Look, I am driving out demons and completing healings today and tomorrow, and on the third day I reach my goal.’",
+      "tsw_comparator": "And he said to them, “Go and tell that fox, ‘Behold, I cast out demons and accomplish healings today and tomorrow, and on the third day I am completed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:33",
+      "delta": "F3",
+      "rationale": "Keeps divine necessity, repeated days, journey, prophet, and Jerusalem irony.",
+      "source_reference": "Luke 13:33",
+      "source_verse_sha256": "246f0fc9a8015a2b11d12fe342d9b2467fef226ca6d04edbab4cdc89c61d33ab",
+      "before": "Nevertheless, I must continue on today, tomorrow, and the following day, because it is not possible for a prophet to perish outside Jerusalem.’",
+      "after": "Nevertheless, I must continue on my way today, tomorrow, and the following day, because it is not possible for a prophet to perish outside Jerusalem.",
+      "tsw_comparator": "Nevertheless it is necessary for me to go on today and tomorrow and the following day, because it is not possible for a prophet to perish outside Jerusalem.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.754717,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:34",
+      "delta": "F3",
+      "rationale": "Preserves lament, violence, maternal bird image, desire, and refusal.",
+      "source_reference": "Luke 13:34",
+      "source_verse_sha256": "acc3de8a8df6d4c673aeaeb3eb6af3e95915e48a43e52556fb10b751453ef9f9",
+      "before": "Jerusalem, Jerusalem, who kills the prophets and stones those sent to her! How often I wanted to gather your children the way a hen gathers her brood under her wings, but you were unwilling!",
+      "after": "Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you! How often I wanted to gather your children as a hen gathers her brood under her wings, but you were unwilling.",
+      "tsw_comparator": "Jerusalem, Jerusalem, the one who kills the prophets and stones those sent to her! How often I wanted to gather your children just as a hen gathers her brood under her wings, and you were not willing!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.788732,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 13:35",
+      "delta": "F3",
+      "rationale": "Keeps abandoned house, emphatic interval, and scriptural acclamation.",
+      "source_reference": "Luke 13:35",
+      "source_verse_sha256": "dfc911ede1ed69a0d3256361069422b71a18a6b481ad432a95cae9195f86525f",
+      "before": "Look, your house is left to you. I tell you, you will certainly not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”",
+      "after": "Look, your house is left to you. I tell you, you will certainly not see me until the time comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”",
+      "tsw_comparator": "Behold, your house is left to you. And I say to you, you will certainly not see me until it comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.873239,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_13.md",
-    "blob_sha": "977f909e39459586d499fb1c4d8cb1b98f8cd797"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

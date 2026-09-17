@@ -2,357 +2,459 @@
   "book": "Luke",
   "chapter": 19,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 48,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "deployment_batch": "NT_BATCH_01",
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-luke-12-24-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "13e792cbd5e6d5ef1035d34f7bd0b08a62da172b",
+    "path": "audit/exegetical-core/fluent-production/luke/Luke_19_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Luke.txt",
     "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Luke 19:1",
-        "source_chapter": 19,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "c45525a78aa414da11cd2089c08c413facad31fd31932196138bcf7392ffda5d"
-      },
-      "2": {
-        "source_ref": "Luke 19:2",
-        "source_chapter": 19,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "0481e192db92d099fb6b829b252762fb49a619f95531ef1a77696afff346fe61"
-      },
-      "3": {
-        "source_ref": "Luke 19:3",
-        "source_chapter": 19,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "f0fe454559dede036748c1e8031c63a85456185705620367352c224cca3fa153"
-      },
-      "4": {
-        "source_ref": "Luke 19:4",
-        "source_chapter": 19,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "b2fed60423feb0739097875fd3e5314f4aef9d6398b41883ddd0821d918c4523"
-      },
-      "5": {
-        "source_ref": "Luke 19:5",
-        "source_chapter": 19,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "e0cb5414ec37cdac3559d73a61d8850a97665595ea700141d2e9faea74c0eb3b"
-      },
-      "6": {
-        "source_ref": "Luke 19:6",
-        "source_chapter": 19,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "16ad631730c144ae3dea9b92080256158a028d47e6b346406402fdcf8f04013c"
-      },
-      "7": {
-        "source_ref": "Luke 19:7",
-        "source_chapter": 19,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "83c7e22cd8345e6d78cbcaa6b93c22111f17e5985edd0f5803d46a5153e3375d"
-      },
-      "8": {
-        "source_ref": "Luke 19:8",
-        "source_chapter": 19,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "7f8b4cf22b5f2cae3f65180b21e08d0bd946e284de2df58c6d7f6b92115a1961"
-      },
-      "9": {
-        "source_ref": "Luke 19:9",
-        "source_chapter": 19,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "99e58f4ec84f499e87eb81372bfded1c2b37b71dcbf85b48fca4666b7352b2f5"
-      },
-      "10": {
-        "source_ref": "Luke 19:10",
-        "source_chapter": 19,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "aa1867cfb71cfc472378d4434b82ae2386b0ab3afadd7779a12840ee54b104af"
-      },
-      "11": {
-        "source_ref": "Luke 19:11",
-        "source_chapter": 19,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "726fa1e059ac9f2c51ec4624d70a70de568f55964a8cdb39226578ee3608a6c8"
-      },
-      "12": {
-        "source_ref": "Luke 19:12",
-        "source_chapter": 19,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "b4fba8d60f024a54c612e75fc24a7142e80ad23f1e2ab51eb8a14b9e510f9ae4"
-      },
-      "13": {
-        "source_ref": "Luke 19:13",
-        "source_chapter": 19,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "3850fef1bebbc5eb4497e8d64b29c58a2a64f7b302d8ec4c99918c04210eeb68"
-      },
-      "14": {
-        "source_ref": "Luke 19:14",
-        "source_chapter": 19,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "6a7502f8fe2ee8f9b23318292292d49fb656c32197b5d71fac34e77e1726da9b"
-      },
-      "15": {
-        "source_ref": "Luke 19:15",
-        "source_chapter": 19,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "6806ee7478b42dd5a549657352f7a3d6d48d722275110fbe4aac6f2aed664d28"
-      },
-      "16": {
-        "source_ref": "Luke 19:16",
-        "source_chapter": 19,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "dcbcb344454e43257ea4ee1ad600cbe90b53b7f8d22f908fc3a58c11ee7ec6c3"
-      },
-      "17": {
-        "source_ref": "Luke 19:17",
-        "source_chapter": 19,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "bd861b34c5843b08a0a0243e3356b3d286b090e29213ab1941255dad2ae5a51c"
-      },
-      "18": {
-        "source_ref": "Luke 19:18",
-        "source_chapter": 19,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "b9095c0bf125ed440851c4ac8fb292f1f0f684eb10db3d484ba816c5cd02afe1"
-      },
-      "19": {
-        "source_ref": "Luke 19:19",
-        "source_chapter": 19,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "55c9d52597f0c35eedf85e3b3ce2e9159f8c5cba4fbd4ee90a74a58a84762f54"
-      },
-      "20": {
-        "source_ref": "Luke 19:20",
-        "source_chapter": 19,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "ae692b1b2a7ae7b7196c958488aa33016a09486815be95695ed8cc6d3947a81e"
-      },
-      "21": {
-        "source_ref": "Luke 19:21",
-        "source_chapter": 19,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "fe35371b352586247474650e64c25e9b99060168daaefadbc557bcf925b2df4a"
-      },
-      "22": {
-        "source_ref": "Luke 19:22",
-        "source_chapter": 19,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "7ba947842b6bef578fb2feb4c97098b5159b78620eddcaa020d74cd65faf0f4a"
-      },
-      "23": {
-        "source_ref": "Luke 19:23",
-        "source_chapter": 19,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "4de988752137ce3c27f7b5818e1443d47bf7511f4c4526966f83bb2bd567690a"
-      },
-      "24": {
-        "source_ref": "Luke 19:24",
-        "source_chapter": 19,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "0fde6a69f657dde49a2b68713b9cd0e1920796412406e62fc192cc2ad581b0a4"
-      },
-      "25": {
-        "source_ref": "Luke 19:25",
-        "source_chapter": 19,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "785029d8982f0d6062fc2b6ac47ad90e99658283fce324e706f2267387ed9999"
-      },
-      "26": {
-        "source_ref": "Luke 19:26",
-        "source_chapter": 19,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "e473ded8aefb65040b741e622ce5aabf6b2763204b0f7b5176597af3d523bddd"
-      },
-      "27": {
-        "source_ref": "Luke 19:27",
-        "source_chapter": 19,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "6218b8e6e8a6efbc8072043175daf2c3afa019e69afb1eb6c3cff7550ce134ef"
-      },
-      "28": {
-        "source_ref": "Luke 19:28",
-        "source_chapter": 19,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "5dc525c7f67afb78814c7123ade83965e0c918f2d2ce2c2cf7001a4ba32720f4"
-      },
-      "29": {
-        "source_ref": "Luke 19:29",
-        "source_chapter": 19,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "34395fa85a091db3dda0192ce7f09d379e4d2858a07b8098704de02c62487fad"
-      },
-      "30": {
-        "source_ref": "Luke 19:30",
-        "source_chapter": 19,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "0d2a99a0035b1114c5a8b915bf4e22625615d57b84b700d4b79bf8acdc73d84b"
-      },
-      "31": {
-        "source_ref": "Luke 19:31",
-        "source_chapter": 19,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "6f6c69bca66c829a2608e789a9747e1ba1e46bcc7d46d127525994e9a105cc84"
-      },
-      "32": {
-        "source_ref": "Luke 19:32",
-        "source_chapter": 19,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "f1a78273b2812681d5256b8af405e1c9ffa6a0e7f68c29d3bf662e92cdb91a3d"
-      },
-      "33": {
-        "source_ref": "Luke 19:33",
-        "source_chapter": 19,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "3b0f7e1dc7e480f7e329276081b31ff4c1e69be50309129bfee5c8deefe1be88"
-      },
-      "34": {
-        "source_ref": "Luke 19:34",
-        "source_chapter": 19,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "7bf610dc7402c260a57b555d3f4887fa7719cba65e9ef3ee83d8f7d5a0b2ea92"
-      },
-      "35": {
-        "source_ref": "Luke 19:35",
-        "source_chapter": 19,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "8410ee5df33021623c51a246affced15fb6e8cee18b667045f8b3167723d989d"
-      },
-      "36": {
-        "source_ref": "Luke 19:36",
-        "source_chapter": 19,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "07d27bf24ab5c50e9581bbfc428410f2ec2440cb7d0fcd157fbc5c3fd5bc1cd2"
-      },
-      "37": {
-        "source_ref": "Luke 19:37",
-        "source_chapter": 19,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "7e688beb2f8c45f02df3ad17bf8581152c9480cc258462fe411917b2e00d9dfa"
-      },
-      "38": {
-        "source_ref": "Luke 19:38",
-        "source_chapter": 19,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "d91bfa587cab996fa258ccf8952617b97071885eb3d425313a22fe837d0a9a49"
-      },
-      "39": {
-        "source_ref": "Luke 19:39",
-        "source_chapter": 19,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "4193f3408664953d30455a5e2a9f1082ebb89ba1e9b9bfe2cac1e570c268bf81"
-      },
-      "40": {
-        "source_ref": "Luke 19:40",
-        "source_chapter": 19,
-        "source_verse": 40,
-        "segment_mode": "whole_record",
-        "sha256": "08f6cbc3380280105af23e926b604a1698d1fbaf6274dcc5c37df4d4d9a1e3fb"
-      },
-      "41": {
-        "source_ref": "Luke 19:41",
-        "source_chapter": 19,
-        "source_verse": 41,
-        "segment_mode": "whole_record",
-        "sha256": "d54b164a39d57cb58a1147fe2c6a4721209717bd9e581d395d6cd1d19683ebf0"
-      },
-      "42": {
-        "source_ref": "Luke 19:42",
-        "source_chapter": 19,
-        "source_verse": 42,
-        "segment_mode": "whole_record",
-        "sha256": "4eb3cad7ffc06b2d2c111a7d47d78f2c1d3d82d7e8e7e9b62bcf88e17fd3f54d"
-      },
-      "43": {
-        "source_ref": "Luke 19:43",
-        "source_chapter": 19,
-        "source_verse": 43,
-        "segment_mode": "whole_record",
-        "sha256": "66091103387fc450e6713683bc2004d574ac0aafbd52a87b892fe9bf46d0f6fc"
-      },
-      "44": {
-        "source_ref": "Luke 19:44",
-        "source_chapter": 19,
-        "source_verse": 44,
-        "segment_mode": "whole_record",
-        "sha256": "ec7081c00d63951a9bc5c937dff0a553717b067093439c5319fa8c25653f4ec4"
-      },
-      "45": {
-        "source_ref": "Luke 19:45",
-        "source_chapter": 19,
-        "source_verse": 45,
-        "segment_mode": "whole_record",
-        "sha256": "42ccd3b4fff0520fdc1f72bd40dd2611657f978bd9cc4800da6f343fe1174c75"
-      },
-      "46": {
-        "source_ref": "Luke 19:46",
-        "source_chapter": 19,
-        "source_verse": 46,
-        "segment_mode": "whole_record",
-        "sha256": "d9896ce878be4156e081c162131ded5d60eb20e310e41bea85585711aebcc7bc"
-      },
-      "47": {
-        "source_ref": "Luke 19:47",
-        "source_chapter": 19,
-        "source_verse": 47,
-        "segment_mode": "whole_record",
-        "sha256": "8e6f9b5d4b9137323e8803d2daf35620143d58749791a9800943c73915332058"
-      },
-      "48": {
-        "source_ref": "Luke 19:48",
-        "source_chapter": 19,
-        "source_verse": 48,
-        "segment_mode": "whole_record",
-        "sha256": "a9128e953886adf62a83a908d162aaec5b1f741f5027f16264884f9d9e1e0b94"
-      }
+    "sha256": "102d65ec7a91271777115d1a605688776adfda6a1188680ccf593e27e3e876d6",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Luke.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Luke",
+    "book_verse_count": 1149,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 19,
+    "verse_count": 48,
+    "path": "translations/fluent/NT/luke/Luke_19.md",
+    "before_sha256": "39bc67b1f4c156bac884606117a8a26884345951fd9c83f4731976cd0fd923a7",
+    "after_sha256": "563af335d2b1760d54801d8271f3bdfebc305e6c007e9c834c25604eb2b9bf8e",
+    "tsw_comparator_path": "books/NT/luke/Luke_19.md",
+    "tsw_comparator_sha256": "bb99fb27a402286beef7517f0fd98b435262b660120d18d3cf926db0113428b9"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-luke-12-24/luke-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Luke 19:2",
+      "delta": "F3",
+      "rationale": "Preserves name, gender, office, and wealth.",
+      "source_reference": "Luke 19:2",
+      "source_verse_sha256": "13887d73d7179b7403bfd012349ff3c2d5e8b9a5cbf726a0799e07f1bd188f7c",
+      "before": "Look—a man named Zacchaeus was there. He was a chief tax collector, and he was rich.",
+      "after": "There was a man named Zacchaeus. He was a chief tax collector and was wealthy.",
+      "tsw_comparator": "And behold, a man named Zacchaeus, and he was a chief tax collector, and he was rich.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:4",
+      "delta": "F3",
+      "rationale": "Retains undignified actions, specific tree, purpose, and route.",
+      "source_reference": "Luke 19:4",
+      "source_verse_sha256": "5600925015d2f4dcc3494badc2ff2c9577e13a117dfa3b1dc82043047ebf2203",
+      "before": "So he ran ahead and climbed a sycamore tree to see Jesus, because he was about to pass that way.",
+      "after": "So he ran ahead and climbed a sycamore-fig tree to see Jesus, who was about to pass that way.",
+      "tsw_comparator": "And running ahead, he climbed up into a sycamore tree to see him, because he was about to pass that way.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.634146,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:5",
+      "delta": "F3",
+      "rationale": "Keeps named initiative, urgency, today, divine necessity, and lodging.",
+      "source_reference": "Luke 19:5",
+      "source_verse_sha256": "e30e27dbb147edf2084f96006b4b10f687c013075aaef119aad04c0c23f07b01",
+      "before": "When Jesus came to the place, he looked up and said, “Zacchaeus, hurry and come down, because today I must stay at your house.”",
+      "after": "When Jesus reached the place, he looked up and said to him, “Zacchaeus, hurry and come down, because today I must stay at your house.”",
+      "tsw_comparator": "And when he came to the place, looking up, Jesus said to him, “Zacchaeus, hurry and come down, for today it is necessary for me to stay at your house.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.618182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:7",
+      "delta": "F3",
+      "rationale": "Keeps universal observation, complaint, lodging, and social label.",
+      "source_reference": "Luke 19:7",
+      "source_verse_sha256": "5ddbaa4a4324ff4732af9388e004b594d15bff655ef12d99900557dee9d2e667",
+      "before": "When everyone saw this, they began grumbling, “He has gone in to stay with a sinful man.”",
+      "after": "When everyone saw this, they began to grumble, “He has gone in to lodge with a sinful man.”",
+      "tsw_comparator": "And seeing it, they were all grumbling, saying, “He has gone in to lodge with a man who is a sinner.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.512821,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:8",
+      "delta": "F3",
+      "rationale": "Preserves present-tense pledge/practice, exact proportions, fraud, and restitution.",
+      "source_reference": "Luke 19:8",
+      "source_verse_sha256": "6fc4de180572308763be6594aa6327e7971260ed4be2d839fdf139a0e8a56ddd",
+      "before": "But Zacchaeus stood and said to the Lord, “Look, Lord, I give half of my possessions to the poor, and if I have defrauded anyone of anything, I repay four times as much.”",
+      "after": "But Zacchaeus stood and said to the Lord, “Look, Lord, I give half of my possessions to the poor, and if I have defrauded anyone of anything, I repay four times as much.”",
+      "tsw_comparator": "But Zacchaeus stood and said to the Lord, “Behold, Lord, half of my possessions I give to the poor, and if I have defrauded anyone of anything, I restore fourfold.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.793651,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:9",
+      "delta": "F3",
+      "rationale": "Keeps today, household salvation, inclusion, and Abrahamic identity.",
+      "source_reference": "Luke 19:9",
+      "source_verse_sha256": "25edad35a54c4dc4b5eef0c29f669106fe4d7551423aeb29abe79940035cab9a",
+      "before": "Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.",
+      "after": "Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.",
+      "tsw_comparator": "And Jesus said to him, “Today salvation has come to this house, because he also is a son of Abraham.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:10",
+      "delta": "F3",
+      "rationale": "Retains mission, seeking, saving, and lost.",
+      "source_reference": "Luke 19:10",
+      "source_verse_sha256": "77664e133dc94942e4cd8ca9e556c70303043c8c8b4fbd8006afed669dfc9304",
+      "before": "For the Son of Man came to seek and to save the lost.”",
+      "after": "For the Son of Man came to seek and to save the lost.”",
+      "tsw_comparator": "For the Son of Man came to seek and to save the lost.”",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:11",
+      "delta": "F3",
+      "rationale": "Preserves audience, location, mistaken timing, and explanatory purpose.",
+      "source_reference": "Luke 19:11",
+      "source_verse_sha256": "efac52c1bcb3043947722c72517c9e7c3527399bef62f5c047254164569de46d",
+      "before": "As they were listening to these things, Jesus went on to tell a parable because he was near Jerusalem and they thought God’s kingdom was about to appear immediately.",
+      "after": "As they were listening to these things, Jesus went on to tell a parable because he was near Jerusalem and they thought God’s kingdom was about to appear immediately.",
+      "tsw_comparator": "And while they were hearing these things, he proceeded to tell a parable, because he was near Jerusalem and they were thinking that the kingdom of God was about to appear immediately.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.688525,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:12",
+      "delta": "F3",
+      "rationale": "Keeps status, distance, kingship, and planned return.",
+      "source_reference": "Luke 19:12",
+      "source_verse_sha256": "e4a3c330537ace69ef66cd390cd527c0f70f664d813c9b3a36986b02bbe1e5fd",
+      "before": "He said, “A nobleman went to a distant country to receive a kingdom for himself and then return.",
+      "after": "He said, “A nobleman went to a distant country to receive royal authority for himself and then return.",
+      "tsw_comparator": "Therefore he said, “A certain nobleman went to a distant country to receive for himself a kingdom and to return.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:13",
+      "delta": "F3",
+      "rationale": "Preserves exact servants and money, commerce, and interval.",
+      "source_reference": "Luke 19:13",
+      "source_verse_sha256": "c4f87546a4954696c719e983844b025daea07e689828d90a9a3ae0bbe0ce58ad",
+      "before": "He called ten of his servants, gave them ten minas, and said, ‘Do business with these until I return.’",
+      "after": "He called ten of his servants, gave them ten minas, and said, ‘Conduct business with these until I return.’",
+      "tsw_comparator": "And calling ten of his servants, he gave them ten minas and said to them, ‘Engage in business until I come.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.65,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:14",
+      "delta": "F3",
+      "rationale": "Keeps political hatred, embassy, and refusal of kingship.",
+      "source_reference": "Luke 19:14",
+      "source_verse_sha256": "bd6e1ebe3be69ea471cd9c860e43778b6b0968b43fb40cb57bbb865c21418e32",
+      "before": "But his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’",
+      "after": "But his citizens hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’",
+      "tsw_comparator": "But his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:17",
+      "delta": "F3",
+      "rationale": "Retains praise, small trust, authority, and exact cities.",
+      "source_reference": "Luke 19:17",
+      "source_verse_sha256": "c45a2a0ca560c25fdd3b5ed630a911b657492df25d843bca0c80e9d1e560349a",
+      "before": "He said, ‘Well done, good servant! Because you were faithful in very little, have authority over ten cities.’",
+      "after": "The nobleman told him, ‘Well done, good servant! Because you have been faithful in a very small matter, take authority over ten cities.’",
+      "tsw_comparator": "And he said to him, ‘Well done, good servant; because you were faithful in very little, have authority over ten cities.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:20",
+      "delta": "F3",
+      "rationale": "Keeps another servant, retained money, and cloth.",
+      "source_reference": "Luke 19:20",
+      "source_verse_sha256": "e4a6f00c3ec14b4426069cf2a52ee620f5c1a7f882549f9a04b86c262de6f6d3",
+      "before": "Another came and said, ‘Lord, look—here is your mina, which I kept laid away in a cloth.",
+      "after": "Then another servant came and said, ‘Lord, here is your mina, which I kept put away in a cloth.",
+      "tsw_comparator": "And another came, saying, ‘Lord, behold your mina, which I kept laid away in a cloth;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:21",
+      "delta": "F3",
+      "rationale": "Preserves fear, accusation of harshness, taking, and reaping.",
+      "source_reference": "Luke 19:21",
+      "source_verse_sha256": "b479de0ffafe74d398042990bac9fcd6ae8010840624ba03f63f63f226581811",
+      "before": "I was afraid of you because you are a severe man. You take what you did not deposit and reap what you did not sow.’",
+      "after": "I was afraid of you because you are a harsh man: you take what you did not deposit and reap what you did not sow.’",
+      "tsw_comparator": "for I was afraid of you, because you are a severe man: you take what you did not deposit and reap what you did not sow.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:22",
+      "delta": "F3",
+      "rationale": "Keeps judgment from his claim and repeats it as a challenging question rather than narrator endorsement.",
+      "source_reference": "Luke 19:22",
+      "source_verse_sha256": "9fc458dc6bdded33ff13057f7eed43effc57252ff12d5126e9672b30ff023ad0",
+      "before": "He said to him, ‘I will judge you by your own words, evil servant. You knew that I am a severe man, taking what I did not deposit and reaping what I did not sow?",
+      "after": "The nobleman replied, ‘I will judge you by your own words, wicked servant. You knew, did you, that I am a harsh man, taking what I did not deposit and reaping what I did not sow?",
+      "tsw_comparator": "He says to him, ‘From your own mouth I judge you, wicked servant. You knew that I am a severe man, taking what I did not deposit and reaping what I did not sow?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:23",
+      "delta": "F3",
+      "rationale": "Retains bank, return, collection, and interest.",
+      "source_reference": "Luke 19:23",
+      "source_verse_sha256": "7d59922083d3b7aea6c3a0d3033facb8ae3869ffcbde730d84fd89b6b7b8c948",
+      "before": "Why then did you not put my money in a bank so that when I returned I could collect it with interest?’",
+      "after": "Then why did you not put my money in a bank, so that when I returned I could have collected it with interest?’",
+      "tsw_comparator": "And why did you not put my money in the bank, and I, when I came, would have collected it with interest?’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:26",
+      "delta": "F3",
+      "rationale": "Keeps paradoxical distribution and repeated having.",
+      "source_reference": "Luke 19:26",
+      "source_verse_sha256": "965f42ba5af6767aa1e5d673ed123c420839e2787442f5864160d0f398dd4543",
+      "before": "‘I tell you, to everyone who has, more will be given; but from the one who does not have, even what they have will be taken away.",
+      "after": "‘I tell you, to everyone who has, more will be given; but from the one who does not have, even what he has will be taken away.",
+      "tsw_comparator": "‘I say to you that to everyone who has will be given, but from the one who does not have, even what he has will be taken away.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:27",
+      "delta": "F3",
+      "rationale": "Retains the ruler-character’s brutal command without turning it into commentary or softening violence.",
+      "source_reference": "Luke 19:27",
+      "source_verse_sha256": "32533e264d4cf183a1bc261a9f8ee23d44dae656394e1c31ccc246fd7e0015c3",
+      "before": "But these enemies of mine who did not want me to reign over them—bring them here and slaughter them in front of me.’”",
+      "after": "But as for these enemies of mine who did not want me to rule over them, bring them here and slaughter them in front of me.’”",
+      "tsw_comparator": "But these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:29",
+      "delta": "F3",
+      "rationale": "Preserves both villages, named mount, and exact number.",
+      "source_reference": "Luke 19:29",
+      "source_verse_sha256": "a9d57f2e6020d18eb5231ad8d83c12c17c2c4650c6c40143a238254a21bab1e1",
+      "before": "When he approached Bethphage and Bethany near the mountain called Olivet, he sent two disciples,",
+      "after": "As he approached Bethphage and Bethany near the hill called the Mount of Olives, he sent two of his disciples,",
+      "tsw_comparator": "And it happened when he drew near to Bethphage and Bethany, toward the mount called Olivet, he sent two of the disciples,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.52381,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:30",
+      "delta": "F3",
+      "rationale": "Keeps route, tied colt, unused status, and commands.",
+      "source_reference": "Luke 19:30",
+      "source_verse_sha256": "beeb1cdf8dfd084c3fb78125c913c9dad9c84e33de23b40e0808a5833a8ab1c6",
+      "before": "saying, “Go into the village ahead of you. As you enter, you will find a colt tied there that no one has ever ridden. Untie it and bring it.",
+      "after": "saying, “Go into the village opposite you. As you enter it, you will find a colt tied there that no one has ever sat on. Untie it and bring it here.",
+      "tsw_comparator": "saying, “Go into the village opposite, in which, entering, you will find a colt tied, on which no one of people has ever sat. Untie it and bring it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:31",
+      "delta": "F3",
+      "rationale": "Preserves anticipated question and exact answer.",
+      "source_reference": "Luke 19:31",
+      "source_verse_sha256": "59131facd89d5e89dfdb92585029c176c8aa5bcfad1f4f2b1efc4f368ee5c7f4",
+      "before": "If anyone asks, ‘Why are you untying it?’ say, ‘The Lord needs it.’”",
+      "after": "If anyone asks you, ‘Why are you untying it?’ say this: ‘The Lord needs it.’”",
+      "tsw_comparator": "And if anyone asks you, ‘Why are you untying it?’ you shall say this: ‘The Lord has need of it.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:35",
+      "delta": "F3",
+      "rationale": "Preserves colt, garments, and enthroning-like action.",
+      "source_reference": "Luke 19:35",
+      "source_verse_sha256": "3cb34aa9730483bb9c5b457db56229132f521014f315c6a365a575b6170a75c6",
+      "before": "They brought it to Jesus, threw their cloaks on the colt, and put Jesus on it.",
+      "after": "They brought it to Jesus, threw their cloaks on the colt, and helped Jesus mount it.",
+      "tsw_comparator": "And they brought it to Jesus, and throwing their cloaks on the colt, they set Jesus on it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:38",
+      "delta": "F3",
+      "rationale": "Keeps king, scriptural blessing, heavenly peace, and highest glory.",
+      "source_reference": "Luke 19:38",
+      "source_verse_sha256": "24ede7949eb928509c10ce295fd02522a5434ba8212b9aacb3d8dca40ee52d04",
+      "before": "“Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!”",
+      "after": "They said, “Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!”",
+      "tsw_comparator": "saying, “Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.930233,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:40",
+      "delta": "F3",
+      "rationale": "Keeps conditional silence and personified stones.",
+      "source_reference": "Luke 19:40",
+      "source_verse_sha256": "a8b873fe6f3be3563bdbf51809fc1ade80623af9a73d8941f437e7852250e663",
+      "before": "He answered, “I tell you, if they become silent, the stones will cry out.”",
+      "after": "He replied, “I tell you, if these people become silent, the stones will cry out.”",
+      "tsw_comparator": "And answering, he said, “I tell you, if these become silent, the stones will cry out.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.83871,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:41",
+      "delta": "F3",
+      "rationale": "Preserves sight, approach, and grief.",
+      "source_reference": "Luke 19:41",
+      "source_verse_sha256": "46a4a9efe1a3d9ad7fb0d848fc7e7f868f246d1a7623ec99e99979cb7433b13b",
+      "before": "As Jesus drew near and saw the city, he wept over it,",
+      "after": "As Jesus came near and saw the city, he wept over it",
+      "tsw_comparator": "And when he drew near, seeing the city, he wept over it,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.583333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:42",
+      "delta": "F3",
+      "rationale": "Keeps unfinished lament, shared possibility, peace, and hidden sight.",
+      "source_reference": "Luke 19:42",
+      "source_verse_sha256": "dd2b2b92f6b4969d86c4c362f16203e13da7430f7e9a210e4f44a8657a04a58e",
+      "before": "saying, “If only you had known on this day the things that make for peace! But now they are hidden from your eyes.",
+      "after": "and said, “If only you too had recognized on this day what makes for peace! But now it has been hidden from your eyes.",
+      "tsw_comparator": "saying, “If you had known in this day, even you, the things that make for peace! But now they are hidden from your eyes.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.541667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:43",
+      "delta": "F3",
+      "rationale": "Preserves future siege, ramp, enclosure, and pressure.",
+      "source_reference": "Luke 19:43",
+      "source_verse_sha256": "71b2e611ecf923ce595af92d33bfa0ee9240a799bd015aa6ea1867e007adcca0",
+      "before": "Days will come upon you when your enemies will build a barricade around you, surround you, and press you in from every side.",
+      "after": "For days will come upon you when your enemies will build a siege ramp around you, encircle you, and press in on you from every side.",
+      "tsw_comparator": "For days will come upon you when your enemies will set up a barricade around you and surround you and press you from every side,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.784314,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:44",
+      "delta": "F3",
+      "rationale": "Names violence against inhabitants and children, total destruction, and missed visitation.",
+      "source_reference": "Luke 19:44",
+      "source_verse_sha256": "4fda534777a120697331bfe344699f1193c01f65012d3d702b451483b38d1e40",
+      "before": "They will crush you to the ground, you and your children within you, and they will not leave one stone on another, because you did not recognize the time of your visitation.”",
+      "after": "They will crush you to the ground, you and the children within you. They will not leave one stone on another within you, because you did not recognize the time when God visited you.”",
+      "tsw_comparator": "and will dash you to the ground, and your children within you, and they will not leave in you one stone upon another, because you did not know the time of your visitation.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.656716,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:45",
+      "delta": "F3",
+      "rationale": "Keeps entry, sacred precinct, expulsion, and pinned source’s sellers only.",
+      "source_reference": "Luke 19:45",
+      "source_verse_sha256": "28306ab6049a53810648b84740ef41caadeb55acfe106c4d3e9f36017dbfc390",
+      "before": "Jesus entered the temple and began driving out those who were selling.",
+      "after": "Then Jesus entered the temple courts and began driving out those who were selling.",
+      "tsw_comparator": "And entering into the temple, he began to drive out those selling,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:46",
+      "delta": "F3",
+      "rationale": "Preserves both scriptural phrases and contrast.",
+      "source_reference": "Luke 19:46",
+      "source_verse_sha256": "94036c11b9ecaeded30c8c3070ab79ec4f2c06a87ca49f05efaafece3844a783",
+      "before": "He said to them, “It is written, ‘My house will be a house of prayer,’ but you have made it a den of robbers.”",
+      "after": "He told them, “It is written, ‘My house will be a house of prayer,’ but you have made it ‘a den of robbers.’”",
+      "tsw_comparator": "saying to them, “It is written, ‘My house will be a house of prayer,’ but you have made it a den of robbers.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.913043,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Luke 19:47",
+      "delta": "F3",
+      "rationale": "Keeps daily teaching and all three hostile groups with lethal intent.",
+      "source_reference": "Luke 19:47",
+      "source_verse_sha256": "30521cc3435c37c82f4ea071dedc5ddfde98a84b1a8a11deb8a6801a29d163e9",
+      "before": "He was teaching daily in the temple. The chief priests, scribes, and leaders of the people were looking for a way to destroy him,",
+      "after": "Every day Jesus was teaching in the temple courts. But the chief priests, scribes, and leaders of the people were seeking to destroy him.",
+      "tsw_comparator": "And he was teaching daily in the temple. But the chief priests and the scribes and the leaders of the people were seeking to destroy him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/luke/Luke_19.md",
-    "blob_sha": "8c48856591bd1944e7f7c018e1ec9f2c45e6fdf3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }
