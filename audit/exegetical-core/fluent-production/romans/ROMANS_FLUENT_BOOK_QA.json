@@ -307,25 +307,37 @@
     3,
     4,
     5,
-    6
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
   ],
   "current_revision": {
-    "id": "fluent-romans-1-6-biblical-fluency-2026-09-16",
+    "id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
     "chapters": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
     ],
-    "verse_count": 161,
-    "verse_ledger": "audit/fluent-revision/2026-09-16-romans-1-6/romans-verse-review.json",
+    "verse_count": 245,
+    "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
     "automated_qa": "PASSED",
     "editorial_status": "REVIEW_PENDING",
     "qa_scope": "structural",
     "prior_record": {
-      "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+      "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
       "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
     },
     "note": "Previous wording approvals and Companion bindings do not transfer."
@@ -348,6 +360,30 @@
       "qa_scope": "structural",
       "prior_record": {
         "commit": "378de0f20726b72ab3ba8ff7240e833f640337bd",
+        "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    },
+    {
+      "id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+      "chapters": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "verse_count": 245,
+      "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
         "path": "audit/exegetical-core/fluent-production/romans/ROMANS_FLUENT_BOOK_QA.json"
       },
       "note": "Previous wording approvals and Companion bindings do not transfer."

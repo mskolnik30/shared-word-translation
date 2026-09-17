@@ -2,204 +2,156 @@
   "book": "Romans",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 25,
-  "included_verse_labels": 25,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_07_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_07.md",
-    "blob_sha": "a75c3455bc4a5dc2630d5487540546ea1a5ab62a"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 7:1",
-        "source_chapter": 7,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "c6664ad49f38d59cedb15ca2994fc6e86391ee3440aba0066915e903c714278d"
-      },
-      "2": {
-        "source_ref": "Romans 7:2",
-        "source_chapter": 7,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "17d68bac33a90cadf8cc2b8f0ddc1def31ba0db9f8bd720f148a7233dfe2419e"
-      },
-      "3": {
-        "source_ref": "Romans 7:3",
-        "source_chapter": 7,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "20e1a83232c1f3aa405b8e3cdce377cf64c7f2bda3917f2d0f6f66faa3e63a8c"
-      },
-      "4": {
-        "source_ref": "Romans 7:4",
-        "source_chapter": 7,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "e99baa393cdd7e1d517a1dfcdff32daaedf3e180b783ec9057355e9068f1f87a"
-      },
-      "5": {
-        "source_ref": "Romans 7:5",
-        "source_chapter": 7,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "ea6d6ddfa0dce7feda07785b4d7d382d5ef04d16cbe6fd6fb735a59f3985881a"
-      },
-      "6": {
-        "source_ref": "Romans 7:6",
-        "source_chapter": 7,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "9db1a4518fe522e0ffbe7b91e26643778734c6bd976644a0407dd27c1e1dca5b"
-      },
-      "7": {
-        "source_ref": "Romans 7:7",
-        "source_chapter": 7,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "b5b4285766eea8795c51fb85d3ad164cbecdbd5c489ea1347df1e52e8e947f71"
-      },
-      "8": {
-        "source_ref": "Romans 7:8",
-        "source_chapter": 7,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "440592bdc4ed51d0b1926ce7a601ca9a49f8381368355acba87a865dcc4129c8"
-      },
-      "9": {
-        "source_ref": "Romans 7:9",
-        "source_chapter": 7,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "846e674c6a2fe5014204057cdd6284f0072040b01fa2ab7583851f9f40fef0e8"
-      },
-      "10": {
-        "source_ref": "Romans 7:10",
-        "source_chapter": 7,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "954d39f45044ae94d361d1eb305148b5f1fbdef70529b54be9b0dba982eda4a9"
-      },
-      "11": {
-        "source_ref": "Romans 7:11",
-        "source_chapter": 7,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "064842918f96bb22e843a05f9edfa50ad8f30c4aa3f1afdeada76fb806932e67"
-      },
-      "12": {
-        "source_ref": "Romans 7:12",
-        "source_chapter": 7,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "bc18b2371cf7b55493f1171f68851c28def2413aa0ca123a8a7f24c448b77dc7"
-      },
-      "13": {
-        "source_ref": "Romans 7:13",
-        "source_chapter": 7,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "87c37b1c5a652e06041127ec43cd32bdeb8a87c8a59e910a542b89aef05f0f68"
-      },
-      "14": {
-        "source_ref": "Romans 7:14",
-        "source_chapter": 7,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "4549c1d7308157d210183916ebc3fb2ce6b4aa8d282cb54ee849026956412f87"
-      },
-      "15": {
-        "source_ref": "Romans 7:15",
-        "source_chapter": 7,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "7f8bfa333c93b85100cc3afc71916d54901aef83d1de7c01fcbc779103ee0368"
-      },
-      "16": {
-        "source_ref": "Romans 7:16",
-        "source_chapter": 7,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "056a0c232cdec26f1a523397c4b70301a483ee33b2dede635f619582962256de"
-      },
-      "17": {
-        "source_ref": "Romans 7:17",
-        "source_chapter": 7,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "692cfd7ac7c111a32c59f480d3dada55ab3f1e4842276737d38825baf1239e4a"
-      },
-      "18": {
-        "source_ref": "Romans 7:18",
-        "source_chapter": 7,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "75c8b5e3f6ac7f19c1f1d4160e80e06c724854fd4eebca5800cfee521e24c240"
-      },
-      "19": {
-        "source_ref": "Romans 7:19",
-        "source_chapter": 7,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "da0d37f8a603ee02acd1ca749742c610d5cba4abc68a8eb489011299bed8adb6"
-      },
-      "20": {
-        "source_ref": "Romans 7:20",
-        "source_chapter": 7,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "c0687405b3125cc91815681c067d899bbfc648bf9c4c7bfa342bdf5473e79144"
-      },
-      "21": {
-        "source_ref": "Romans 7:21",
-        "source_chapter": 7,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "96f3222d7a9313351fdcb0dfaf93f811e0e972f662b72bee4c4bd805e66b2e94"
-      },
-      "22": {
-        "source_ref": "Romans 7:22",
-        "source_chapter": 7,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "8966ef625a40dc58670fdc8817651e06db9ef7c7fe60c7accaccb4b8d3b5e34b"
-      },
-      "23": {
-        "source_ref": "Romans 7:23",
-        "source_chapter": 7,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "db18f98524ed7075b9f2d4bea12aec8b00f923a5b00f29fc2ffcf24aea5e84c1"
-      },
-      "24": {
-        "source_ref": "Romans 7:24",
-        "source_chapter": 7,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "7274bf3487c53aaeec239269419a30ceeb59e378f649753647dc279e04c1bc0a"
-      },
-      "25": {
-        "source_ref": "Romans 7:25",
-        "source_chapter": 7,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "5a4afea3106e0027b51a9166a0ed75ef885317bdc9d14442f42e4e27048d4985"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/romans/Romans_07.md",
+    "before_sha256": "efc1653d1d3a73110fb59d4d03b545b024a46c30fbff9214887f717bb1d92fec",
+    "after_sha256": "d57233f80705b8352577932f1bd4606e23406b64dd68d7ad4cae5113033699b8",
+    "tsw_comparator_path": "books/NT/romans/Romans_07.md",
+    "tsw_comparator_sha256": "4e25fb91e9676d2b742155390ad92d7429351d813ebd28bafdbb9f502e4b882e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 7:4",
+      "delta": "F3",
+      "rationale": "Retains the death, belonging, resurrection, and fruit metaphors in their sequence.",
+      "source_reference": "Rom 7:4",
+      "source_verse_sha256": "4bad19addc34f2508c57b29d6b74520fc56c6848b77e365b58685a49bbe3d4cc",
+      "before": "In the same way, my brothers and sisters, you also were put to death to the Law through Christ’s body so that you might belong to another—to the one raised from the dead—in order that we might bear fruit for God.",
+      "after": "In the same way, my brothers and sisters, you also were put to death with respect to the law through the body of Christ, so that you might belong to another—to the one raised from the dead—in order that we might bear fruit for God.",
+      "tsw_comparator": "Therefore, my brothers, you also were put to death to the law through the body of Christ, so that you might belong to another—to him who was raised from the dead—in order that we might bear fruit to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:6",
+      "delta": "F3",
+      "rationale": "Distinguishes newness of Spirit from oldness of letter without erasing service language.",
+      "source_reference": "Rom 7:6",
+      "source_verse_sha256": "a1e861c3b712f224d10da17143ecbe85f7c789660379aa0210d7502c81165da7",
+      "before": "But now we have been released from the Law, having died to what held us, so that we serve in the newness of the Spirit and not in the oldness of the written code.",
+      "after": "But now we have been released from the law, having died to what held us, so that we serve in the newness of the Spirit and not in the oldness of the written code.",
+      "tsw_comparator": "But now we have been released from the law, having died to that in which we were held, so that we serve in newness of Spirit and not in oldness of letter.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:13",
+      "delta": "F3",
+      "rationale": "Keeps the dense purpose clauses and the escalation exposing sin's character.",
+      "source_reference": "Rom 7:13",
+      "source_verse_sha256": "291b1a0874e9e624929a6eacf58433fdf0a64f2d51834f9ac33d7b8864da8e54",
+      "before": "Did something good, then, become death to me? Absolutely not! Rather, sin, so that it might be shown as sin, produced death in me through what is good, so that through the commandment sin might become sinful beyond measure.",
+      "after": "Did what is good, then, become death to me? Absolutely not! Rather, sin did, so that it might be shown to be sin by producing death in me through what is good, and through the commandment sin might become sinful beyond measure.",
+      "tsw_comparator": "Therefore did that which is good become death to me? May it never be! But sin, in order that it might be shown to be sin, was producing death in me through that which is good, so that through the commandment sin might become exceedingly sinful.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.681818,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:14",
+      "delta": "F3",
+      "rationale": "Preserves the contrast and the slavery-market metaphor of being sold.",
+      "source_reference": "Rom 7:14",
+      "source_verse_sha256": "53e34fb09f949ebf08aa856cb991aad3e0e2e6027a8efcbac3da739e09d1ccbc",
+      "before": "We know that the Law is spiritual, but I am fleshly, sold under sin.",
+      "after": "For we know that the law is spiritual, but I am made of flesh, sold under sin.",
+      "tsw_comparator": "For we know that the law is spiritual, but I am fleshly, sold under sin.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:18",
+      "delta": "F3",
+      "rationale": "Clarifies the parenthetical qualification and the contrast between willing and doing.",
+      "source_reference": "Rom 7:18",
+      "source_verse_sha256": "9ec387896a508c38eef6a47b8b7b59d4334df7fb1cd4b5d71a8dd006e92724e6",
+      "before": "For I know that nothing good dwells in me—that is, in my flesh. The desire to do good is present with me, but the doing of it is not.",
+      "after": "For I know that nothing good dwells in me—that is, in my flesh. The desire to do what is good is present with me, but the ability to carry it out is not.",
+      "tsw_comparator": "For I know that nothing good dwells in me, that is, in my flesh; for the desire is present with me, but the doing of the good is not.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:21",
+      "delta": "F3",
+      "rationale": "Renders the difficult law formulation as an observed operating principle while retaining evil's nearness.",
+      "source_reference": "Rom 7:21",
+      "source_verse_sha256": "967ef86fe8264f99c1284871ff93d8b4e8c2d7ae7301ec0d974685e86c0aa28b",
+      "before": "So I find this principle: when I want to do good, evil is right there with me.",
+      "after": "So I find this law at work: when I want to do good, evil is present with me.",
+      "tsw_comparator": "So I find this law: when I want to do good, evil is present with me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:23",
+      "delta": "F3",
+      "rationale": "Keeps the military conflict, captivity, mind, and bodily-member language.",
+      "source_reference": "Rom 7:23",
+      "source_verse_sha256": "ad723fdae3b56cf9cf2ca55ac14ef30f00da028ebd55b598214bdf50ade1eef3",
+      "before": "but I see another law at work in the parts of my body, waging war against the law of my mind and taking me captive to the law of sin that is in my members.",
+      "after": "but I see another law at work in my members, waging war against the law of my mind and taking me captive under the law of sin that is in my members.",
+      "tsw_comparator": "but I see another law in my members waging war against the law of my mind and making me captive to the law of sin which is in my members.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.870968,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 7:25",
+      "delta": "F3",
+      "rationale": "Preserves the thanksgiving and the unresolved concluding contrast.",
+      "source_reference": "Rom 7:25",
+      "source_verse_sha256": "9c0c1e0850353ca77fa2f97fecb8c101ab82804831753f12e99d37f9f8ada6b9",
+      "before": "Thanks be to God through Jesus Christ our Lord! So then, I myself serve God’s Law with my mind, but sin’s law with my flesh.",
+      "after": "Thanks be to God through Jesus Christ our Lord! So then, I myself serve God's law with my mind, but with my flesh I serve sin's law.",
+      "tsw_comparator": "Thanks be to God through Jesus Christ our Lord! So then, I myself with the mind serve the law of God, but with the flesh the law of sin.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

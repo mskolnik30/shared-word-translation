@@ -1,0 +1,1734 @@
+{
+  "scope": "Romans 7–15",
+  "verses": 245,
+  "summary": {
+    "before": {
+      "identical": 19,
+      "near_identical_nonidentical": 31,
+      "mean_word_similarity": 0.800944
+    },
+    "after": {
+      "identical": 20,
+      "near_identical_nonidentical": 40,
+      "mean_word_similarity": 0.804
+    }
+  },
+  "rows": [
+    {
+      "reference": "Romans 7:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.83871
+    },
+    {
+      "reference": "Romans 7:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Romans 7:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.690476,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 7:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Romans 7:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Romans 7:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Romans 7:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.886076,
+      "after_similarity": 0.860759
+    },
+    {
+      "reference": "Romans 7:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Romans 7:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.941176,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 7:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.705882
+    },
+    {
+      "reference": "Romans 7:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Romans 7:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.928571,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Romans 7:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.658824,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Romans 7:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Romans 7:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.622222,
+      "after_similarity": 0.608696
+    },
+    {
+      "reference": "Romans 7:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Romans 7:17",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.896552,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 7:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.881356,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Romans 7:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Romans 7:20",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.930233,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 7:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Romans 7:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.454545,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "Romans 7:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830769,
+      "after_similarity": 0.870968
+    },
+    {
+      "reference": "Romans 7:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.827586,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Romans 7:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.62963,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Romans 8:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Romans 8:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.977778,
+      "after_similarity": 0.977778
+    },
+    {
+      "reference": "Romans 8:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.647059,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 8:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Romans 8:5",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.9375,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 8:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Romans 8:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.829268,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Romans 8:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Romans 8:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878788,
+      "after_similarity": 0.895522
+    },
+    {
+      "reference": "Romans 8:10",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.952381,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 8:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897436,
+      "after_similarity": 0.897436
+    },
+    {
+      "reference": "Romans 8:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.972973,
+      "after_similarity": 0.972973
+    },
+    {
+      "reference": "Romans 8:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.931034
+    },
+    {
+      "reference": "Romans 8:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.64
+    },
+    {
+      "reference": "Romans 8:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 8:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Romans 8:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.881356
+    },
+    {
+      "reference": "Romans 8:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.913043,
+      "after_similarity": 0.938776
+    },
+    {
+      "reference": "Romans 8:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.592593,
+      "after_similarity": 0.518519
+    },
+    {
+      "reference": "Romans 8:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.780488
+    },
+    {
+      "reference": "Romans 8:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.755556,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Romans 8:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 8:23",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Romans 8:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.731707,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Romans 8:25",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 8:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.757576
+    },
+    {
+      "reference": "Romans 8:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.958333
+    },
+    {
+      "reference": "Romans 8:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.844444
+    },
+    {
+      "reference": "Romans 8:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 8:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.638298,
+      "after_similarity": 0.375
+    },
+    {
+      "reference": "Romans 8:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "Romans 8:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Romans 8:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Romans 8:34",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.721311
+    },
+    {
+      "reference": "Romans 8:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "Romans 8:36",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Romans 8:37",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.733333,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 8:38",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Romans 8:39",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Romans 9:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.952381,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Romans 9:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 9:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.925926
+    },
+    {
+      "reference": "Romans 9:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 9:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 9:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 9:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.486486,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Romans 9:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 9:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "Romans 9:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Romans 9:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.509091
+    },
+    {
+      "reference": "Romans 9:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.451613
+    },
+    {
+      "reference": "Romans 9:13",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.956522
+    },
+    {
+      "reference": "Romans 9:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Romans 9:15",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.916667,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 9:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.954545,
+      "after_similarity": 0.717949
+    },
+    {
+      "reference": "Romans 9:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.78125
+    },
+    {
+      "reference": "Romans 9:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.733333
+    },
+    {
+      "reference": "Romans 9:19",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 9:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.931034,
+      "after_similarity": 0.915254
+    },
+    {
+      "reference": "Romans 9:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Romans 9:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Romans 9:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Romans 9:24",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.967742
+    },
+    {
+      "reference": "Romans 9:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 9:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.872727,
+      "after_similarity": 0.754717
+    },
+    {
+      "reference": "Romans 9:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.925926
+    },
+    {
+      "reference": "Romans 9:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.6
+    },
+    {
+      "reference": "Romans 9:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.792453,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "Romans 9:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.65
+    },
+    {
+      "reference": "Romans 9:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Romans 9:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.756757,
+      "after_similarity": 0.578947
+    },
+    {
+      "reference": "Romans 9:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.80597,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Romans 10:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "Romans 10:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Romans 10:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Romans 10:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.928571
+    },
+    {
+      "reference": "Romans 10:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.904762,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "Romans 10:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.901961
+    },
+    {
+      "reference": "Romans 10:7",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 10:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.961538
+    },
+    {
+      "reference": "Romans 10:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.941176
+    },
+    {
+      "reference": "Romans 10:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.628571,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Romans 10:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.965517
+    },
+    {
+      "reference": "Romans 10:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 10:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Romans 10:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.776119
+    },
+    {
+      "reference": "Romans 10:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Romans 10:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.733333,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Romans 10:17",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.727273,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 10:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.896552,
+      "after_similarity": 0.931034
+    },
+    {
+      "reference": "Romans 10:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.83871,
+      "after_similarity": 0.741935
+    },
+    {
+      "reference": "Romans 10:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.830189,
+      "after_similarity": 0.807018
+    },
+    {
+      "reference": "Romans 10:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "Romans 11:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.653846,
+      "after_similarity": 0.641509
+    },
+    {
+      "reference": "Romans 11:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 11:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Romans 11:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Romans 11:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.615385,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Romans 11:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 11:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.820513
+    },
+    {
+      "reference": "Romans 11:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Romans 11:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.878049,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "Romans 11:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.866667
+    },
+    {
+      "reference": "Romans 11:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.576271,
+      "after_similarity": 0.448276
+    },
+    {
+      "reference": "Romans 11:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 11:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Romans 11:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.529412,
+      "after_similarity": 0.470588
+    },
+    {
+      "reference": "Romans 11:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.9
+    },
+    {
+      "reference": "Romans 11:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.744186,
+      "after_similarity": 0.744186
+    },
+    {
+      "reference": "Romans 11:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.865672,
+      "after_similarity": 0.865672
+    },
+    {
+      "reference": "Romans 11:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.863636
+    },
+    {
+      "reference": "Romans 11:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.965517,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Romans 11:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 11:21",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 11:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.7,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 11:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.913043
+    },
+    {
+      "reference": "Romans 11:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.925
+    },
+    {
+      "reference": "Romans 11:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.763158,
+      "after_similarity": 0.805195
+    },
+    {
+      "reference": "Romans 11:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862745,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 11:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "Romans 11:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.680851,
+      "after_similarity": 0.680851
+    },
+    {
+      "reference": "Romans 11:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 11:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Romans 11:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "Romans 11:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.580645
+    },
+    {
+      "reference": "Romans 11:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.97561
+    },
+    {
+      "reference": "Romans 11:34",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.785714,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 11:35",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "Romans 11:36",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 12:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.793103,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "Romans 12:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.757576,
+      "after_similarity": 0.787879
+    },
+    {
+      "reference": "Romans 12:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.860759,
+      "after_similarity": 0.829268
+    },
+    {
+      "reference": "Romans 12:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.769231
+    },
+    {
+      "reference": "Romans 12:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.774194,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Romans 12:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.681818,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Romans 12:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Romans 12:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.833333,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 12:9",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.814815,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 12:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.56,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Romans 12:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Romans 12:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.7
+    },
+    {
+      "reference": "Romans 12:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "Romans 12:14",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 12:15",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 12:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.678571
+    },
+    {
+      "reference": "Romans 12:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Romans 12:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 12:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Romans 12:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.724138,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "Romans 12:21",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Romans 13:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Romans 13:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.651163
+    },
+    {
+      "reference": "Romans 13:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.969697,
+      "after_similarity": 0.80597
+    },
+    {
+      "reference": "Romans 13:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.735632
+    },
+    {
+      "reference": "Romans 13:5",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Romans 13:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.410256,
+      "after_similarity": 0.461538
+    },
+    {
+      "reference": "Romans 13:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Romans 13:8",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.789474,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 13:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.685714,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Romans 13:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "Romans 13:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.678571,
+      "after_similarity": 0.689655
+    },
+    {
+      "reference": "Romans 13:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.777778,
+      "after_similarity": 0.851852
+    },
+    {
+      "reference": "Romans 13:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "Romans 13:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 14:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.6875
+    },
+    {
+      "reference": "Romans 14:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.482759,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Romans 14:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.71875,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 14:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.533333,
+      "after_similarity": 0.852459
+    },
+    {
+      "reference": "Romans 14:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Romans 14:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Romans 14:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.56,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Romans 14:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.821429
+    },
+    {
+      "reference": "Romans 14:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Romans 14:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 14:11",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.978723
+    },
+    {
+      "reference": "Romans 14:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.923077
+    },
+    {
+      "reference": "Romans 14:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.625,
+      "after_similarity": 0.553191
+    },
+    {
+      "reference": "Romans 14:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.745763,
+      "after_similarity": 0.745763
+    },
+    {
+      "reference": "Romans 14:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.786885,
+      "after_similarity": 0.724138
+    },
+    {
+      "reference": "Romans 14:16",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "Romans 14:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.864865
+    },
+    {
+      "reference": "Romans 14:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.882353
+    },
+    {
+      "reference": "Romans 14:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.5625,
+      "after_similarity": 0.625
+    },
+    {
+      "reference": "Romans 14:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.557377,
+      "after_similarity": 0.576271
+    },
+    {
+      "reference": "Romans 14:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Romans 14:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.595745,
+      "after_similarity": 0.652174
+    },
+    {
+      "reference": "Romans 14:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.862745
+    },
+    {
+      "reference": "Romans 15:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.894737,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "Romans 15:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.592593,
+      "after_similarity": 0.533333
+    },
+    {
+      "reference": "Romans 15:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.863636,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Romans 15:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.897959,
+      "after_similarity": 0.96
+    },
+    {
+      "reference": "Romans 15:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "Romans 15:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Romans 15:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.642857
+    },
+    {
+      "reference": "Romans 15:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.705882,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Romans 15:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.943396,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Romans 15:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Romans 15:11",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.965517,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 15:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.88,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "Romans 15:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.714286,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Romans 15:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.867925,
+      "after_similarity": 0.867925
+    },
+    {
+      "reference": "Romans 15:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.565217,
+      "after_similarity": 0.612245
+    },
+    {
+      "reference": "Romans 15:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.811594,
+      "after_similarity": 0.656716
+    },
+    {
+      "reference": "Romans 15:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.444444
+    },
+    {
+      "reference": "Romans 15:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.77551,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Romans 15:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.793651
+    },
+    {
+      "reference": "Romans 15:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Romans 15:21",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Romans 15:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.636364,
+      "after_similarity": 0.636364
+    },
+    {
+      "reference": "Romans 15:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.681818
+    },
+    {
+      "reference": "Romans 15:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.646154
+    },
+    {
+      "reference": "Romans 15:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.869565,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Romans 15:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.842105
+    },
+    {
+      "reference": "Romans 15:27",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.724638
+    },
+    {
+      "reference": "Romans 15:28",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.681818,
+      "after_similarity": 0.622222
+    },
+    {
+      "reference": "Romans 15:29",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.894737
+    },
+    {
+      "reference": "Romans 15:30",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.836364,
+      "after_similarity": 0.847458
+    },
+    {
+      "reference": "Romans 15:31",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.816327
+    },
+    {
+      "reference": "Romans 15:32",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.736842
+    },
+    {
+      "reference": "Romans 15:33",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.761905
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

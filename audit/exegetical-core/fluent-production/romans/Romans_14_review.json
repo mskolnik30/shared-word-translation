@@ -2,190 +2,156 @@
   "book": "Romans",
   "chapter": 14,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 23,
-  "included_verse_labels": 23,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_14_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_14.md",
-    "blob_sha": "6d55fd77722d24374c2165041bf95774f742c4dd"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 14:1",
-        "source_chapter": 14,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "7e48ad2d582c2e7637804c34305db36f9947191b7e3838eef9e2c65ca2927f2c"
-      },
-      "2": {
-        "source_ref": "Romans 14:2",
-        "source_chapter": 14,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "caea64ed7e8ca06bdb2ff8af23d74ca191fce8691113da930d3c4a870f1a2f79"
-      },
-      "3": {
-        "source_ref": "Romans 14:3",
-        "source_chapter": 14,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "2a2ed70ad4faf092b107181b7f805fd31d03b1d3bea968bdc4b87f16f354dfb9"
-      },
-      "4": {
-        "source_ref": "Romans 14:4",
-        "source_chapter": 14,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "5a40623aeecd096b7a0281b30f75fa3d9d0ea9413bb6ede10ddab74b069be5b0"
-      },
-      "5": {
-        "source_ref": "Romans 14:5",
-        "source_chapter": 14,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "df4bac669c6df6b392ac30b56b349faa0bc49cfbdb2bd35fbff13393790f6316"
-      },
-      "6": {
-        "source_ref": "Romans 14:6",
-        "source_chapter": 14,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "d26d1dd4a9deec001eaec93670b10085ac8ea3f621e994309b6886e911e8aaa3"
-      },
-      "7": {
-        "source_ref": "Romans 14:7",
-        "source_chapter": 14,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "034ae4094f3eddcfa96af1d5337b89cd892404c4dc5c0a6065dd329a9689d868"
-      },
-      "8": {
-        "source_ref": "Romans 14:8",
-        "source_chapter": 14,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "2a8c13bc7910a131ccc1dea2fa65f3aea7add14a1d9883d0357ec034d3a18d89"
-      },
-      "9": {
-        "source_ref": "Romans 14:9",
-        "source_chapter": 14,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "2410e2b146b22f4503dce294b82040c0cda586a2f787950be136ef32dc211420"
-      },
-      "10": {
-        "source_ref": "Romans 14:10",
-        "source_chapter": 14,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "fd6d5cead8e57d112e326a91c3c6fd1561657aebb2bbee173b8f238e813b82db"
-      },
-      "11": {
-        "source_ref": "Romans 14:11",
-        "source_chapter": 14,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "9e646e6d0b92639135051e240853080d9d5a025a306dfc8c7765b3d44fa21488"
-      },
-      "12": {
-        "source_ref": "Romans 14:12",
-        "source_chapter": 14,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "9f190fd1a4c9ac576003e973d38869bfdb67b6c05d18b39f6a39e22edce7804c"
-      },
-      "13": {
-        "source_ref": "Romans 14:13",
-        "source_chapter": 14,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "ac924da6281045edc006faf8843493d1d7f5c68dce6e2ad1063423a1a908b614"
-      },
-      "14": {
-        "source_ref": "Romans 14:14",
-        "source_chapter": 14,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "41878e8521c796b6720a36d8340b4f93abfbec99aff9f88af87c354c923e5881"
-      },
-      "15": {
-        "source_ref": "Romans 14:15",
-        "source_chapter": 14,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "ef8275ad03a281f9fb47eaaf623ee9c9e8bf5afa46d75047a7cc707a5602b441"
-      },
-      "16": {
-        "source_ref": "Romans 14:16",
-        "source_chapter": 14,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "0bd8ae6afe0e810b22e802cf55ca466e8c5ffb3964a1f1e4ce0373fc5221b25b"
-      },
-      "17": {
-        "source_ref": "Romans 14:17",
-        "source_chapter": 14,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "261ae9569da3a4bd244505110d7469fd6f8889196daaefe480d7458fbf6e32f2"
-      },
-      "18": {
-        "source_ref": "Romans 14:18",
-        "source_chapter": 14,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8f8066a0dea43e6498373f9fa657c1fbf343644a7c0d1bbdf26c3b1f48c4ee6c"
-      },
-      "19": {
-        "source_ref": "Romans 14:19",
-        "source_chapter": 14,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "1872c17a4e3d8085260645ca0e1f6c8ce7c4f77eee6e60bfd533494605520cce"
-      },
-      "20": {
-        "source_ref": "Romans 14:20",
-        "source_chapter": 14,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "37bad7e839acb4409340efc108cbf9769b55e696c79fd9af4670a0787eebef35"
-      },
-      "21": {
-        "source_ref": "Romans 14:21",
-        "source_chapter": 14,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "0f1aa5907cc98e8279578212cf47c7a439f7e6389abd0f67721436b4d4327aaf"
-      },
-      "22": {
-        "source_ref": "Romans 14:22",
-        "source_chapter": 14,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "13b65cd720d91923f91ab63106d2a6c550c38ead3bfe2386beffa401c9195ab5"
-      },
-      "23": {
-        "source_ref": "Romans 14:23",
-        "source_chapter": 14,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "61cbf649f118e96d33de7bb2361118b66765bebb199788249a999db02e7e44d3"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 14,
+    "verse_count": 23,
+    "path": "translations/fluent/NT/romans/Romans_14.md",
+    "before_sha256": "eebf689ee825376a124647e938b305aa7d9d817fc3ef42d32d0a69f506f07e6f",
+    "after_sha256": "105e463fe45ec5720abd6934c50c76300e2c255a1a19fd6b2903ea1ab59db216",
+    "tsw_comparator_path": "books/NT/romans/Romans_14.md",
+    "tsw_comparator_sha256": "133bcd1a72f25e25562c6ad76caeadcf6a0da5610b351a3604e327f8d80cb030"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 14:1",
+      "delta": "F3",
+      "rationale": "Preserves welcome and prohibits adjudicating disputed thoughts.",
+      "source_reference": "Rom 14:1",
+      "source_verse_sha256": "c2ca754a9ac87eb51d085f60b127a1558c333061505515ebf411151378d31465",
+      "before": "Welcome the one who is weak in trust, but not for quarrels over opinions.",
+      "after": "Welcome the one who is weak in faith, but not for the purpose of quarreling over opinions.",
+      "tsw_comparator": "Now receive the one who is weak in faith, but not for disputes about opinions.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:5",
+      "delta": "F3",
+      "rationale": "Keeps the differing day judgments and individual conviction.",
+      "source_reference": "Rom 14:5",
+      "source_verse_sha256": "9095b72dc8f3b0cb816e7aad61cff17504d1d1c5a3d781feaa5e74449356d9cd",
+      "before": "One person judges one day to be above another; another judges every day alike. Let each person be fully convinced in their own mind.",
+      "after": "One person judges one day to be more important than another, while another judges every day alike. Each person should be fully convinced in his own mind.",
+      "tsw_comparator": "One judges one day above another, another judges every day alike. Let each one be fully convinced in his own mind.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:9",
+      "delta": "F3",
+      "rationale": "Follows the pinned verbs died and lived and preserves lordship over both groups.",
+      "source_reference": "Rom 14:9",
+      "source_verse_sha256": "2ee7b55bfc3ce61c3770534f6e228d2e27a8417cbe3881613c805bf0783ff597",
+      "before": "For this is why Christ died and lived again: so that he might be Lord of both the dead and the living.",
+      "after": "For this reason Christ died and lived again, so that he might be Lord of both the dead and the living.",
+      "tsw_comparator": "For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:10",
+      "delta": "F3",
+      "rationale": "Keeps both reciprocal questions and the pinned reading God's tribunal.",
+      "source_reference": "Rom 14:10",
+      "source_verse_sha256": "ef095c70fbd75455d56786edca6d4a5a252133a0e42c6456d4ab5450c120f443",
+      "before": "But you—why do you judge your brother or sister? And you—why do you despise your brother or sister? For we will all stand before God’s judgment seat.",
+      "after": "But why do you judge your brother or sister? Or why do you despise your brother or sister? For we will all stand before God's judgment seat.",
+      "tsw_comparator": "But you, why do you judge your brother? Or you again, why do you despise your brother? For we will all stand before the judgment seat of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:14",
+      "delta": "F3",
+      "rationale": "Keeps Paul's conviction and conscience-relative consequence.",
+      "source_reference": "Rom 14:14",
+      "source_verse_sha256": "954109f03c15c530df1ba11176197a3936180b77891f917d40754f8e16b8d239",
+      "before": "I know and am convinced in the Lord Jesus that nothing is unclean in itself. But if someone considers something unclean, then for that person it is unclean.",
+      "after": "I know and am convinced in the Lord Jesus that nothing is unclean in itself. But if someone considers something unclean, then for that person it is unclean.",
+      "tsw_comparator": "I know and am persuaded in the Lord Jesus that nothing is unclean in itself; but to the one who considers something to be unclean, to that one it is unclean.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745763,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:18",
+      "delta": "F3",
+      "rationale": "Preserves service to Christ and the two audiences' approval.",
+      "source_reference": "Rom 14:18",
+      "source_verse_sha256": "e1befe76a3fe5d719964ccc96f328902c329b1574c24bb39529b4b6bd7242ad2",
+      "before": "Whoever serves Christ in this way is pleasing to God and approved by people.",
+      "after": "For the one who serves Christ in this way is pleasing to God and approved by people.",
+      "tsw_comparator": "For the one who serves Christ in this way is acceptable to God and approved by men.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:21",
+      "delta": "F3",
+      "rationale": "Retains meat, wine, and all three variant-marked harms in the pinned source.",
+      "source_reference": "Rom 14:21",
+      "source_verse_sha256": "059bb5464c25ab7ac1684cdb8778ef34e9b3d6952e21c0473928347b04d48d63",
+      "before": "It is good not to eat meat or drink wine or do anything by which your brother or sister stumbles.",
+      "after": "It is good not to eat meat or drink wine or do anything that causes your brother or sister to stumble, be ensnared, or become weak.",
+      "tsw_comparator": "It is good not to eat meat or drink wine or do anything by which your brother stumbles.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.681818,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 14:22",
+      "delta": "F3",
+      "rationale": "Keeps private conviction before God and self-judgment warning.",
+      "source_reference": "Rom 14:22",
+      "source_verse_sha256": "57a5cb999c75633c885b13b23fb475081a2d374bdf5b871dee1f24e0a714e4b3",
+      "before": "The trust you have, keep it between yourself and God. Blessed is the one who does not condemn themselves by what they approve.",
+      "after": "The faith you have, keep between yourself and God. Blessed is the one who does not condemn oneself by what one approves.",
+      "tsw_comparator": "The faith that you have, have it to yourself before God. Blessed is the one who does not judge himself in what he approves.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.652174,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

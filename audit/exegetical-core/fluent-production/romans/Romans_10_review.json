@@ -2,176 +2,130 @@
   "book": "Romans",
   "chapter": 10,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 21,
-  "included_verse_labels": 21,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_10_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_10.md",
-    "blob_sha": "9985881da9cfb3a01b0b53c42bca1f3f370d84fe"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 10:1",
-        "source_chapter": 10,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "731a78178a06d3f4244a97329c5244965c26c8f3477ad3964b16e3f838b64d93"
-      },
-      "2": {
-        "source_ref": "Romans 10:2",
-        "source_chapter": 10,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "709c56f7bb2ed7560e382b84065f00b8dbb548234004bf8286cb0f21b8e35e9b"
-      },
-      "3": {
-        "source_ref": "Romans 10:3",
-        "source_chapter": 10,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "cd112d076a7b83419d953dcf29fa71858f93de0affaec3b798cd00a1f9f96b43"
-      },
-      "4": {
-        "source_ref": "Romans 10:4",
-        "source_chapter": 10,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "202b49da45c026738a76a79acf47acf0b031ecb87e505c0be7ee39e063c58c6c"
-      },
-      "5": {
-        "source_ref": "Romans 10:5",
-        "source_chapter": 10,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "b8e597c61aaa02c2ffa38e88c36d381a09c907a3b7f366936a7fe8a4e55a08ff"
-      },
-      "6": {
-        "source_ref": "Romans 10:6",
-        "source_chapter": 10,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "8f583625382153be4fa908c5149cdb20580491ecdc13dd0948be2bf16ba5bc8d"
-      },
-      "7": {
-        "source_ref": "Romans 10:7",
-        "source_chapter": 10,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "56c245ed3c1ccef3fd6018987a0f24e288872bd31bf5f226a5e51d299b50fa44"
-      },
-      "8": {
-        "source_ref": "Romans 10:8",
-        "source_chapter": 10,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "f33155d6bfb09f4b190a343829f242cf81131cdbbcf929be741cfd7b801e7c93"
-      },
-      "9": {
-        "source_ref": "Romans 10:9",
-        "source_chapter": 10,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "e697c53f7e7a6ee94b252bb7d4b5f727da314ec9794af2f135b89bb9fce18fd0"
-      },
-      "10": {
-        "source_ref": "Romans 10:10",
-        "source_chapter": 10,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "1021018d6343f481d1409c5a1511f1e8fd647cae6767322c2ea3c3a49a4db6a5"
-      },
-      "11": {
-        "source_ref": "Romans 10:11",
-        "source_chapter": 10,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "e2dc68219b2fb0e0aea68cbc5b9312dfb739a9dda6d89a950c03761162904167"
-      },
-      "12": {
-        "source_ref": "Romans 10:12",
-        "source_chapter": 10,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "0b90cf5dc766531b0ebfe205819241137305477980eb2f0a8bdd33e7c13d2b02"
-      },
-      "13": {
-        "source_ref": "Romans 10:13",
-        "source_chapter": 10,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "35b7e6627706ec9f9cfd3078ab05a8a7f8704268f01523dfa6eaafb27bfc5474"
-      },
-      "14": {
-        "source_ref": "Romans 10:14",
-        "source_chapter": 10,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "86c683442992a4ee675dda988944eab2af4ee6114ea4f5790ddaae5d8c93bd3f"
-      },
-      "15": {
-        "source_ref": "Romans 10:15",
-        "source_chapter": 10,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "bea27a7c1961f002d05174d6a5fb26dc728aaab94783ce1b6d16f28e939bc85c"
-      },
-      "16": {
-        "source_ref": "Romans 10:16",
-        "source_chapter": 10,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "3e2c33f61bac479996cd3bb18db77efa7033a3583aa90e17a6d6707123c65584"
-      },
-      "17": {
-        "source_ref": "Romans 10:17",
-        "source_chapter": 10,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "6288d93d65e28e9e096fb681c9ae86fa2f4ab31a8a33a794508aac9b98ce7b5f"
-      },
-      "18": {
-        "source_ref": "Romans 10:18",
-        "source_chapter": 10,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "1b3db0bc9556cbf931a32844f420f8f476f5c3e1bcf54c86bdddbcf0b67a6701"
-      },
-      "19": {
-        "source_ref": "Romans 10:19",
-        "source_chapter": 10,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "dc0832d200a30e69e569b275746f30121c40df308455d791e47c23bdb1b86b4a"
-      },
-      "20": {
-        "source_ref": "Romans 10:20",
-        "source_chapter": 10,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "53605982345926ab7dc00c99972fc5bb8f15fa9d5a3caf2444f1dca46d848c03"
-      },
-      "21": {
-        "source_ref": "Romans 10:21",
-        "source_chapter": 10,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "6d82f49b8061aa73a296a45b6e56ab74201cbfbbeee0b92af92d15bbfe4f2d5d"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 10,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/romans/Romans_10.md",
+    "before_sha256": "8ceef7c0f6a3df0efae27af18c8d2b70b4014b8c495cd150608d15743d764818",
+    "after_sha256": "7f5aa29bae9c78808f1c87f84ebdfd647df62ff0bac128f0bd73661f87385e94",
+    "tsw_comparator_path": "books/NT/romans/Romans_10.md",
+    "tsw_comparator_sha256": "3bca8e500f9547a8389db09c0626e714709a05c3406926ee9247c67b147cbd29"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 10:4",
+      "delta": "F3",
+      "rationale": "Uses culmination to preserve both goal and endpoint senses of telos.",
+      "source_reference": "Rom 10:4",
+      "source_verse_sha256": "640f58096010e683c6fb495465f9e48e40fff7c5ca6fb1a2c122d520010d9df1",
+      "before": "For Christ is the goal of the Law for righteousness to everyone who trusts.",
+      "after": "For Christ is the culmination of the law for righteousness to everyone who believes.",
+      "tsw_comparator": "For Christ is the end of the law for righteousness to everyone who believes.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.928571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 10:9",
+      "delta": "F3",
+      "rationale": "Keeps mouth, heart, lordship confession, resurrection, and promised outcome.",
+      "source_reference": "Rom 10:9",
+      "source_verse_sha256": "7ec29873189a1aa45a4bef1556d418a291eafc5edf96a903a2cd5c8ff2a5de56",
+      "before": "if you confess with your mouth that Jesus is Lord and trust in your heart that God raised him from the dead, you will be saved.",
+      "after": "If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.",
+      "tsw_comparator": "that if you confess with your mouth Jesus as Lord and believe in your heart that God raised him from the dead, you will be saved;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 10:12",
+      "delta": "F3",
+      "rationale": "Keeps the named groups, one Lord, and repeated all.",
+      "source_reference": "Rom 10:12",
+      "source_verse_sha256": "c1ca9cce8c07f21eca4d6a01fde98e6c859d03e0c81605dc81e8c28d5922f2fb",
+      "before": "There is no distinction between Jew and Greek, because the same Lord is Lord of all and is rich toward all who call on him.",
+      "after": "For there is no distinction between Jew and Greek, because the same Lord is Lord of all and richly blesses all who call on him.",
+      "tsw_comparator": "For there is no distinction between Jew and Greek, for the same Lord is Lord of all, being rich toward all who call upon him;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 10:14",
+      "delta": "F3",
+      "rationale": "Maintains the reverse chain and allows the Greek personal object of hearing.",
+      "source_reference": "Rom 10:14",
+      "source_verse_sha256": "195be30bfb7687b74577b829087a96c9153d8c2336738bd55774934b2a80caa0",
+      "before": "How then will they call on the one in whom they have not trusted? And how will they trust in the one they have not heard? And how will they hear without someone proclaiming?",
+      "after": "How then can they call on one in whom they have not believed? And how can they believe in one whom they have not heard? And how can they hear without someone proclaiming?",
+      "tsw_comparator": "How then will they call upon him in whom they have not believed? And how will they believe in him of whom they have not heard? And how will they hear without one proclaiming?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.776119,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 10:17",
+      "delta": "F3",
+      "rationale": "Follows the pinned variant Christ rather than the more familiar God.",
+      "source_reference": "Rom 10:17",
+      "source_verse_sha256": "6f42251918069b37335068ffae036b354106548a87154ac4e55cd232b890f8e2",
+      "before": "So trust comes from hearing, and hearing through Christ’s word.",
+      "after": "So faith comes from hearing, and hearing through the word of Christ.",
+      "tsw_comparator": "So faith comes from hearing, and hearing through the word of Christ.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 10:19",
+      "delta": "F3",
+      "rationale": "Preserves Israel, Moses, and the provocative non-nation contrast.",
+      "source_reference": "Rom 10:19",
+      "source_verse_sha256": "7b87db354bd18dd630ce7df4e179e7e5ea75a68e9e77ce7ac0d112988559f9a7",
+      "before": "But I ask: Did Israel not understand? First Moses says, “I will make you jealous by those who are not a nation; by a foolish nation I will make you angry.”",
+      "after": "But I ask: Did Israel not understand? First Moses says, “I will make you jealous by those who are not a nation; I will make you angry by a foolish nation.”",
+      "tsw_comparator": "But I say, did Israel not understand? First Moses says, “I will provoke you to jealousy by those who are not a nation; by a foolish nation I will anger you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.741935,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

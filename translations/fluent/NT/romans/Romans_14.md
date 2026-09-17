@@ -4,104 +4,68 @@ testament: NT
 chapter: 14
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-romans-7-15-biblical-fluency-2026-09-16
 ---
+
 
 ## Welcome One Another Without Quarreling
 
 <p>
-v01: Welcome the one who is weak in trust, but not for quarrels over opinions.
-v02: One person trusts that they may eat anything, while the one who is weak eats only vegetables.
-v03: The one who eats must not despise the one who does not, and the one who does not eat must not judge the one who does, because God has welcomed that person.
-v04: Who are you to judge someone else’s servant? Before their own master they stand or fall—and they will stand, because the Lord is able to make them stand.
+v01: Welcome the one who is weak in faith, but not for the purpose of quarreling over opinions.
+v02: One person believes he may eat anything, but the one who is weak eats only vegetables.
+v03: The one who eats must not despise the one who does not eat, and the one who does not eat must not judge the one who eats, for God has welcomed that person.
+v04: Who are you to judge someone else's household servant? Before his own master he stands or falls. And he will stand, for the Lord is able to make him stand.
 </p>
 
 <p>
-v05: One person judges one day to be above another; another judges every day alike. Let each person be fully convinced in their own mind.
-v06: The one who observes a day observes it to the Lord. The one who eats eats to the Lord, because they give thanks to God; and the one who does not eat abstains to the Lord and gives thanks to God.
-v07: None of us lives for ourselves, and none of us dies for ourselves.
-v08: If we live, we live for the Lord; and if we die, we die for the Lord. So whether we live or die, we belong to the Lord.
-v09: For this is why Christ died and lived again: so that he might be Lord of both the dead and the living.
+v05: One person judges one day to be more important than another, while another judges every day alike. Each person should be fully convinced in his own mind.
+v06: The one who observes the day observes it for the Lord. The one who eats eats for the Lord, since he gives thanks to God; and the one who does not eat refrains for the Lord and gives thanks to God.
+v07: For none of us lives for oneself, and none dies for oneself.
+v08: If we live, we live for the Lord; and if we die, we die for the Lord. Therefore, whether we live or die, we belong to the Lord.
+v09: For this reason Christ died and lived again, so that he might be Lord of both the dead and the living.
 </p>
 
 ## We Will All Give Account to God
 
 <p>
-v10: But you—why do you judge your brother or sister? And you—why do you despise your brother or sister? For we will all stand before God’s judgment seat.
-v11: For it is written,
-“As I live, says the Lord,
-every knee will bow to me,
-and every tongue will confess to God.”
-v12: So then each of us will give an account of ourselves to God.
+v10: But why do you judge your brother or sister? Or why do you despise your brother or sister? For we will all stand before God's judgment seat.
+v11: For it is written: “As I live, says the Lord, every knee will bow to me, and every tongue will confess praise to God.”
+v12: So then, each of us will give an account of oneself to God.
 </p>
 
 ## Do Not Put a Stumbling Block in Another’s Way
 
 <p>
-v13: Therefore let us stop judging one another. Instead, decide never to put a stumbling block or obstacle in the way of a brother or sister.
+v13: Therefore, let us stop judging one another. Instead, make this judgment: never put a stumbling block or obstacle in a brother's or sister's way.
 v14: I know and am convinced in the Lord Jesus that nothing is unclean in itself. But if someone considers something unclean, then for that person it is unclean.
-v15: If your brother or sister is grieved because of what you eat, you are no longer walking according to love. Do not destroy with your food the person for whom Christ died.
-v16: Therefore do not let what is good for you be spoken of as evil.
-v17: For God’s kingdom is not eating and drinking but righteousness, peace, and joy in the Holy Spirit.
-v18: Whoever serves Christ in this way is pleasing to God and approved by people.
-v19: So then let us pursue what makes for peace and for building one another up.
-v20: Do not tear down God’s work for the sake of food. Everything is indeed clean, but it is wrong for someone to eat in a way that causes another to stumble.
-v21: It is good not to eat meat or drink wine or do anything by which your brother or sister stumbles.
-v22: The trust you have, keep it between yourself and God. Blessed is the one who does not condemn themselves by what they approve.
-v23: But the one who doubts is condemned if they eat, because their eating is not from trust. Whatever is not from trust is sin.
+v15: For if your brother or sister is distressed because of food, you are no longer walking in love. Do not destroy with your food someone for whom Christ died.
+v16: Therefore, do not let what you regard as good be spoken of as evil.
+v17: For God's kingdom is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.
+v18: For the one who serves Christ in this way is pleasing to God and approved by people.
+v19: So then, let us pursue what makes for peace and for building up one another.
+v20: Do not tear down God's work for the sake of food. Everything is clean, but it is wrong for a person to eat in a way that causes stumbling.
+v21: It is good not to eat meat or drink wine or do anything that causes your brother or sister to stumble, be ensnared, or become weak.
+v22: The faith you have, keep between yourself and God. Blessed is the one who does not condemn oneself by what one approves.
+v23: But the one who has doubts is condemned if he eats, because the eating is not from faith; and everything that is not from faith is sin.
 </p>
 
 ## Notes
 
-v01: The “weak” are not mocked or treated as inferior Christians; the command to the community is to welcome them without turning convictions into quarrels.
+v01–6: The ‘weak’ and ‘strong’ language belongs to Paul's argument about food and days. Both groups are commanded to stop despising or judging those God has welcomed.
 
-v02–06: Food and days likely involve Jewish/Gentile practices and conscience within Rome’s mixed congregations. Fluent does not reduce the issue to generic personality differences.
+v10: The pinned Greek reads ‘God's judgment seat’; some witnesses read ‘Christ's judgment seat.’
 
-v03: The decisive reason not to despise or judge is that God has already welcomed the other person.
+v14–23: Paul calls food clean while treating injury to another person's conscience as serious. Personal liberty does not cancel responsibility for another.
 
-v05: Full conviction is required, but Paul still places convictions under the larger obligations of belonging and love.
-
-v07–09: The center of communal ethics is ownership by the Lord in both life and death.
-
-v10: SBLGNT reads “God’s judgment seat.” Some manuscripts have “Christ’s judgment seat.” Fluent follows the pinned critical text.
-
-v14: `koinos` here means ritually/common-unclean in the dispute. Paul states his conviction while still treating another believer’s conscience as morally consequential.
-
-v15: Christian freedom becomes destructive when its exercise wounds the person for whom Christ died.
-
-v17: Paul relocates the center of kingdom life from contested consumption practices to righteousness, peace, and joy in the Holy Spirit.
-
-v20: “Everything is clean” does not mean every conceivable action is morally neutral; it addresses the food dispute in context.
-
-v23: `pistis` here includes trust/conviction before God. Acting against conscience is condemned because the action does not arise from trust.
+v21: The bracketed words ‘be ensnared or become weak’ are present in the pinned main text and are retained.
 
 ## Vocabulary
 
-v01: ἀσθενής (asthenēs)
-“Weak.”
+v01: **διαλογισμός (dialogismos)**: Reasoning, opinion, or disputed thought.
 
-v01: διαλογισμός (dialogismos)
-“Opinion, dispute, reasoning.”
+v13: **πρόσκομμα (proskomma)**: A stumbling block or cause of falling.
 
-v03: ἐξουθενέω (exoutheneō)
-“To despise.”
-
-v05: πληροφορέω (plērophoreō)
-“To be fully convinced.”
-
-v10: βῆμα (bēma)
-“Judgment seat.”
-
-v13: πρόσκομμα (proskomma)
-“Stumbling block.”
-
-v14: κοινός (koinos)
-“Common, unclean.”
-
-v17: βασιλεία (basileia)
-“Kingdom, reign.”
-
-v19: οἰκοδομή (oikodomē)
-“Building up.”
-
-v23: διακρίνω (diakrinō)
-“To doubt, waver.”
+v17: **βασιλεία (basileia)**: Kingdom, reign, or royal rule.

@@ -2,281 +2,221 @@
   "book": "Romans",
   "chapter": 11,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 36,
-  "included_verse_labels": 36,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_11_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_11.md",
-    "blob_sha": "b8b0ff5f492cf43df7b9cbbe7eb7c9c46ef5f023"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 11:1",
-        "source_chapter": 11,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "a0d07b3ca3d9e7945bff78d7e11a87b9e003d1ab2b1bc770462d1a7576d6b6df"
-      },
-      "2": {
-        "source_ref": "Romans 11:2",
-        "source_chapter": 11,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "a8c9d721364fc67d16d71764235a765e2ccc4717fa59ee70e5005b7e017fac0b"
-      },
-      "3": {
-        "source_ref": "Romans 11:3",
-        "source_chapter": 11,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "aa190f7459ee0797ac9900cfa1acf24e28b6ad9dbc8d52958bb84abb863c65a8"
-      },
-      "4": {
-        "source_ref": "Romans 11:4",
-        "source_chapter": 11,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "be85509c0ca947ff7c5b7cc3647cb58f4ab19a1e507f17d2f69d0c8de5efd4e1"
-      },
-      "5": {
-        "source_ref": "Romans 11:5",
-        "source_chapter": 11,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "ae2017b32914bbeba7d7ad7dd24810bc0f15bc553128bfdade4927542711d49e"
-      },
-      "6": {
-        "source_ref": "Romans 11:6",
-        "source_chapter": 11,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f8e9e9542e39fd3a4d844e4add96617af45765d0e1d346f7c195ffdada1c9523"
-      },
-      "7": {
-        "source_ref": "Romans 11:7",
-        "source_chapter": 11,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "e819d8615240f25b06d851796187c456ddcd25da9982b6cfbe842e42a2f52a92"
-      },
-      "8": {
-        "source_ref": "Romans 11:8",
-        "source_chapter": 11,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "69b5a3d65e0b2d132d3d8766b04036498d0c3014081d90067de7d6b27ba6708f"
-      },
-      "9": {
-        "source_ref": "Romans 11:9",
-        "source_chapter": 11,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "1a5e96eadad989c14a702ce997aac2cb5c3494e016c5617719968bfc19de464e"
-      },
-      "10": {
-        "source_ref": "Romans 11:10",
-        "source_chapter": 11,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "b7c016cf21197701b2493b4a433c53016ef922a1f47e4ac53979ad8e655434f8"
-      },
-      "11": {
-        "source_ref": "Romans 11:11",
-        "source_chapter": 11,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "801f68104bdbcaf5284dfbc60b6e92ba553cb08c9504a9fc4f4dd1ee35fe83e7"
-      },
-      "12": {
-        "source_ref": "Romans 11:12",
-        "source_chapter": 11,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ed22fea91af6db3ef9efaaa64d4b2d91e759751d63b7ac2bfa86f97a96a13722"
-      },
-      "13": {
-        "source_ref": "Romans 11:13",
-        "source_chapter": 11,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "864e34165b567898dbcfa4be48ce9749deefeb52eed21a7a12b71022cfa75e31"
-      },
-      "14": {
-        "source_ref": "Romans 11:14",
-        "source_chapter": 11,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "4ab9d344f85a7a0e94087efd65dbcd12d8593433f8c8a4b9d178b2a084a3d76b"
-      },
-      "15": {
-        "source_ref": "Romans 11:15",
-        "source_chapter": 11,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "849d981450f448015cf1ee1253ba8208596f5b04d970ae656f26054206e79aa0"
-      },
-      "16": {
-        "source_ref": "Romans 11:16",
-        "source_chapter": 11,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "87408aeeefa21f86e613282407fdc14bafb21fcc3c6c7d73230320efa326cf4c"
-      },
-      "17": {
-        "source_ref": "Romans 11:17",
-        "source_chapter": 11,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "62ab43fd6e4b0a30f5ce397fd0bb3ffca476c614766ec1895a80c43c2f50d0ea"
-      },
-      "18": {
-        "source_ref": "Romans 11:18",
-        "source_chapter": 11,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "94ca79b64d9b1e2e7822a8fe81da4c39b45e821524ab9178bf49aa314f07cf5b"
-      },
-      "19": {
-        "source_ref": "Romans 11:19",
-        "source_chapter": 11,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "09089ceed2ab6d7cb479f4c50ee92cc6046f4efcd0c5bbb79827c2a3edb9dd54"
-      },
-      "20": {
-        "source_ref": "Romans 11:20",
-        "source_chapter": 11,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "c50818d19c2dd6124856251ab58312bd4ea021dadfb41652e5a4d8dd045d115d"
-      },
-      "21": {
-        "source_ref": "Romans 11:21",
-        "source_chapter": 11,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "312a425ec7fc1127fb7540f9b38be251527919c7578efc3a4cec5b54142c1e34"
-      },
-      "22": {
-        "source_ref": "Romans 11:22",
-        "source_chapter": 11,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "1d123a920e853f204ef813f89e7b8382c48b6e558df3ba73e41dff7a3ebfa6b3"
-      },
-      "23": {
-        "source_ref": "Romans 11:23",
-        "source_chapter": 11,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "f471b6a87713af6fdcdb950b318b0dd7e1bab52a5457b526841e2593c5c2e357"
-      },
-      "24": {
-        "source_ref": "Romans 11:24",
-        "source_chapter": 11,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "538ef3856e2a02ac2495c6630f73d852db3b1f621b458984c8782b8d7602cb30"
-      },
-      "25": {
-        "source_ref": "Romans 11:25",
-        "source_chapter": 11,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "7ad7184115538e122dfcef26b32baaa7a829ccb7e6546f2e97f599a10dfcee72"
-      },
-      "26": {
-        "source_ref": "Romans 11:26",
-        "source_chapter": 11,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "69c66a13e8ab12ed90ac5a08b6167babf3eb54b54c4079aa3fec8ff90c50f718"
-      },
-      "27": {
-        "source_ref": "Romans 11:27",
-        "source_chapter": 11,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "b6c1344cb53f4b4a2219092963d1429f02c0a8bfd361b694211c0bc4329c57e2"
-      },
-      "28": {
-        "source_ref": "Romans 11:28",
-        "source_chapter": 11,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "b2cd7f77edd8b6e950304f82206d21d3fad3e507ccdaa760641223a090d6617c"
-      },
-      "29": {
-        "source_ref": "Romans 11:29",
-        "source_chapter": 11,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "16f5199d34c31fcde3313936a106f548c5d47ae1d82babbf3888acc189faa471"
-      },
-      "30": {
-        "source_ref": "Romans 11:30",
-        "source_chapter": 11,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "9605b927ebfb94a701b256b70c984670309b1620e7cbb580993d959285d45e66"
-      },
-      "31": {
-        "source_ref": "Romans 11:31",
-        "source_chapter": 11,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "595fe915247649489a115b619a21580ad61bc9f4f9e77eeeb2c9be984b85b586"
-      },
-      "32": {
-        "source_ref": "Romans 11:32",
-        "source_chapter": 11,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "6fba58a119795b1fe006052a5735c9dcf7a36d395f1eeb54fe4f7627ee2c0ee2"
-      },
-      "33": {
-        "source_ref": "Romans 11:33",
-        "source_chapter": 11,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "e8697a5a63e1c4cc015749a78dcde3c10b46e09f0da2460f88af6f1888a98381"
-      },
-      "34": {
-        "source_ref": "Romans 11:34",
-        "source_chapter": 11,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "97b37fd1fd4b36d7216d90aa73b4e9b3fe93301864a46d4461af0fb43491d679"
-      },
-      "35": {
-        "source_ref": "Romans 11:35",
-        "source_chapter": 11,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "86dbb9bcb3aa819a797ec2ff90b514e46ee4ea2a95723975c5dfd5f5cdd19e8d"
-      },
-      "36": {
-        "source_ref": "Romans 11:36",
-        "source_chapter": 11,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "1fc9ecc85c5b52d1600899736a695c99b652d296bb5cf9e5c2157c8931158182"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 11,
+    "verse_count": 36,
+    "path": "translations/fluent/NT/romans/Romans_11.md",
+    "before_sha256": "d07431788b4ba9daddaafa3c08c31e538f510254010e30a0a22bb031a80a4f7b",
+    "after_sha256": "9f74a5ce25bfbef989d6ab3cb9150346aa546f10ca8f8f8662984f4d1d0ef26f",
+    "tsw_comparator_path": "books/NT/romans/Romans_11.md",
+    "tsw_comparator_sha256": "546dc87c748d2b64cc498b199739afe49305b567fa6dcf12739f997703efe783"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 11:2",
+      "delta": "F3",
+      "rationale": "Preserves foreknowledge, the Elijah setting, and his appeal against Israel.",
+      "source_reference": "Rom 11:2",
+      "source_verse_sha256": "9284c57a7919bd1aeb8a5f49bce2f6506073e920407f4cc5aeb1b8afe02beec0",
+      "before": "God has not rejected his people whom he foreknew. Or do you not know what Scripture says in the story of Elijah, how he appeals to God against Israel?",
+      "after": "God has not rejected his people whom he foreknew. Or do you not know what Scripture says in the passage about Elijah, how he appeals to God against Israel?",
+      "tsw_comparator": "God has not rejected his people whom he foreknew. Or do you not know what the Scripture says in Elijah, how he pleads with God against Israel?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:4",
+      "delta": "F3",
+      "rationale": "Keeps God's self-reservation, the exact number, specific men, and Baal's name.",
+      "source_reference": "Rom 11:4",
+      "source_verse_sha256": "9347726c80c0b2fd9bd0d63b7b930f119fb6364efdf63d2c7f2d7e09f57b1c2e",
+      "before": "But what does the divine answer say to him? “I have kept for myself seven thousand who have not bowed the knee to Baal.”",
+      "after": "But what does the divine response say to him? “I have kept for myself seven thousand men who have not bowed the knee to Baal.”",
+      "tsw_comparator": "But what does the divine response say to him? “I have left for myself seven thousand men who have not bowed the knee to Baal.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.96,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:7",
+      "delta": "F3",
+      "rationale": "Maintains corporate Israel, the chosen group, and hardening without hiding the passive.",
+      "source_reference": "Rom 11:7",
+      "source_verse_sha256": "7797b4a0b846d79751a01464abe6b4167ebe23eb08e1e43a4ab0cdeff6a49dd1",
+      "before": "What then? Israel did not obtain what it was seeking, but the chosen obtained it. The rest were hardened,",
+      "after": "What then? Israel did not obtain what it was seeking, but the chosen remnant obtained it. The rest were hardened,",
+      "tsw_comparator": "What then? Israel did not obtain what it seeks, but the elect obtained it, and the rest were hardened,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:11",
+      "delta": "F3",
+      "rationale": "Keeps the denial, trespass, Gentile salvation, and stated provocative purpose.",
+      "source_reference": "Rom 11:11",
+      "source_verse_sha256": "c12bb1cc0ea04fc58a05d65ab5cbd15fd3db4fe08f07b3c98b4c7b3c6c1c8006",
+      "before": "I ask, then: Did they stumble so that they would fall beyond recovery? Absolutely not! Rather, through their trespass salvation has come to the Gentiles, to make Israel jealous.",
+      "after": "So I ask: Did they stumble in order to fall beyond recovery? Absolutely not! Rather, through their trespass salvation has come to the Gentiles, to make Israel jealous.",
+      "tsw_comparator": "I say then, did they stumble so that they might fall? May it never be! But by their transgression salvation has come to the Gentiles, to provoke them to jealousy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.448276,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:12",
+      "delta": "F3",
+      "rationale": "Preserves the lesser-to-greater argument and the unresolved fullness term.",
+      "source_reference": "Rom 11:12",
+      "source_verse_sha256": "84708de758a57bdf6fb729571ec46dfa46e24fa0707e124b317998de4f459f05",
+      "before": "Now if their trespass means riches for the world, and their loss means riches for the Gentiles, how much more will their fullness mean!",
+      "after": "Now if their trespass means riches for the world, and their loss means riches for the Gentiles, how much more will their fullness mean?",
+      "tsw_comparator": "Now if their transgression is riches for the world and their failure riches for the Gentiles, how much more their fullness!",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:17",
+      "delta": "F3",
+      "rationale": "Preserves horticultural detail and Gentile participation without replacement language.",
+      "source_reference": "Rom 11:17",
+      "source_verse_sha256": "6321b502b3c1626fbab7f766fda30d461fa49f6e74ccad901107be3980080524",
+      "before": "But if some of the branches were broken off, and you, though a wild olive shoot, were grafted in among them and became a sharer in the rich root of the olive tree,",
+      "after": "But if some of the branches were broken off, and you, though a wild olive shoot, were grafted in among them and became a sharer in the rich root of the olive tree,",
+      "tsw_comparator": "But if some of the branches were broken off, and you, being a wild olive shoot, were grafted in among them and became a fellow-partaker of the root of the rich olive tree,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.865672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:20",
+      "delta": "F3",
+      "rationale": "Keeps both causes and the command to fear rather than boast.",
+      "source_reference": "Rom 11:20",
+      "source_verse_sha256": "8d2ed1ddd11ac82960c1f0546e0d7a6017746b360f9efa27ec21fbaa8a05af34",
+      "before": "True. They were broken off because of lack of trust, and you stand through trust. Do not become arrogant, but fear.",
+      "after": "True enough. They were broken off because of unbelief, but you stand by faith. Do not become arrogant; instead, be afraid.",
+      "tsw_comparator": "True; they were broken off because of unbelief, but you stand by faith. Do not be arrogant, but fear;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:22",
+      "delta": "F3",
+      "rationale": "Preserves kindness, severity, condition, and threat of being cut off.",
+      "source_reference": "Rom 11:22",
+      "source_verse_sha256": "d0662ef22801206dff5602ed821ddb78fe7164b3a990b3d11154d866ab7bb2c4",
+      "before": "Consider, then, God’s kindness and severity: severity toward those who fell, but God’s kindness toward you, if you continue in his kindness. Otherwise you too will be cut off.",
+      "after": "Consider, then, God's kindness and severity: severity toward those who fell, but God's kindness toward you, if you remain in his kindness. Otherwise, you too will be cut off.",
+      "tsw_comparator": "Behold then the kindness and severity of God: toward those who have fallen, severity; but toward you, kindness, if you continue in that kindness; otherwise you also will be cut off.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:25",
+      "delta": "F3",
+      "rationale": "Preserves mystery, partial hardening, Israel, temporal limit, and Gentile fullness.",
+      "source_reference": "Rom 11:25",
+      "source_verse_sha256": "1d6221a49fc3084bc72b574afca53ca2713833edc07958f4871caca8022030a2",
+      "before": "I do not want you to be unaware of this mystery, brothers and sisters, so that you do not become wise in your own eyes: a partial hardening has come upon Israel until the fullness of the Gentiles comes in,",
+      "after": "For I do not want you to be unaware of this mystery, brothers and sisters, so that you will not be wise in your own estimation: a partial hardening has come upon Israel until the fullness of the Gentiles comes in,",
+      "tsw_comparator": "For I do not want you to be unaware of this mystery, brothers, lest you be wise in yourselves: that a partial hardening has come upon Israel until the fullness of the Gentiles has come in,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.805195,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:26",
+      "delta": "F3",
+      "rationale": "Uses in this way for houtōs and preserves all Israel without defining it in the main text.",
+      "source_reference": "Rom 11:26",
+      "source_verse_sha256": "b47929047b20ae8a598637d179d6a507baa889e5b6c1992e6b74f6e5ea1bc6e4",
+      "before": "and in this way all Israel will be saved, just as it is written, “The Deliverer will come from Zion; he will turn ungodliness away from Jacob.",
+      "after": "and in this way all Israel will be saved, as it is written: “The Deliverer will come from Zion; he will turn godlessness away from Jacob.",
+      "tsw_comparator": "and so all Israel will be saved, just as it is written, “The Deliverer will come from Zion, he will remove ungodliness from Jacob;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:28",
+      "delta": "F3",
+      "rationale": "Preserves the paired perspectives without turning enemies into a timeless ethnic label.",
+      "source_reference": "Rom 11:28",
+      "source_verse_sha256": "3a3af36bbf66838592dd1e612349c7b340dbb602be88ebb65b93e1e928e1af52",
+      "before": "With respect to the good news, they are enemies for your sake; but with respect to election, they are beloved because of the ancestors.",
+      "after": "With respect to the good news, they are enemies for your sake; but with respect to election, they are beloved because of the patriarchs.",
+      "tsw_comparator": "According to the gospel they are enemies for your sake, but according to election they are beloved for the sake of the fathers;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.680851,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:31",
+      "delta": "F3",
+      "rationale": "Keeps the parallel, repeated now, and mercy as the intended outcome.",
+      "source_reference": "Rom 11:31",
+      "source_verse_sha256": "a6286ec7c60402fb2501bbb2393c3181a4a1ffe7e810df48e24658b3589bde70",
+      "before": "so they too have now disobeyed so that, through the mercy shown to you, they too may now receive mercy.",
+      "after": "so they too have now disobeyed because of the mercy shown to you, so that they too may now receive mercy.",
+      "tsw_comparator": "so also these now have been disobedient, so that by the mercy shown to you they also may now receive mercy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 11:32",
+      "delta": "F3",
+      "rationale": "Retains universal confinement and universal mercy within Paul's sentence.",
+      "source_reference": "Rom 11:32",
+      "source_verse_sha256": "4fc3880d0a9b96f41f14d7504767d1d93fe6513a7d51f80e3dab3cbeca547c56",
+      "before": "For God has enclosed everyone in disobedience so that he may show mercy to everyone.",
+      "after": "For God has confined everyone under disobedience so that he may have mercy on everyone.",
+      "tsw_comparator": "For God has shut up all into disobedience so that he may show mercy to all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.580645,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }

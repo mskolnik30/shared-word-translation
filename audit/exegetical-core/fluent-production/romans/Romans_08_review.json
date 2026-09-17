@@ -2,302 +2,234 @@
   "book": "Romans",
   "chapter": 8,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "public_verse_slots": 39,
-  "included_verse_labels": 39,
-  "critical_text_gap": [],
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-romans-7-15-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "cfbf791e640c869b958d5456051b6febbc208b02",
+    "path": "audit/exegetical-core/fluent-production/romans/Romans_08_review.json"
+  },
   "source": {
     "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Rom.txt"
-  },
-  "tsw_comparator": {
-    "path": "books/NT/romans/Romans_08.md",
-    "blob_sha": "5bfb16149b0a9805dec58e520c3b5d7c3ad03ed0"
-  },
-  "publication_allowed": false,
-  "deployment": "NT_BATCH_01",
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Rom.txt",
     "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Romans 8:1",
-        "source_chapter": 8,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "490c0a6b54fa10b949947590338ad47d0f8c01c175cf8a730c5ede71fd469945"
-      },
-      "2": {
-        "source_ref": "Romans 8:2",
-        "source_chapter": 8,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "2464897c642366af8632026ec5cefb1d0682d5509e098394b5d073d37f9f4e01"
-      },
-      "3": {
-        "source_ref": "Romans 8:3",
-        "source_chapter": 8,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b7eb3c53e9b0337aba46f6f1e5854e1aaeff7994fc7a449ebe010fe01586acdb"
-      },
-      "4": {
-        "source_ref": "Romans 8:4",
-        "source_chapter": 8,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "3a23f3766b1b5c7b5bd5c2a2a11cdf58985d9681f789c1253eecd9b19097749b"
-      },
-      "5": {
-        "source_ref": "Romans 8:5",
-        "source_chapter": 8,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "723046c955beb1336930d5ac70c164a79cda1c3f2c140fe035d9113fa3cf7a81"
-      },
-      "6": {
-        "source_ref": "Romans 8:6",
-        "source_chapter": 8,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b32a49b8a479811ec71ee1d5f4dd4ac200beb01935dae3ca52830f2f54454354"
-      },
-      "7": {
-        "source_ref": "Romans 8:7",
-        "source_chapter": 8,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "215eb0298c6ebe8c5202a6ddf1add92a305f94e6ea1aa360328da036cfe52438"
-      },
-      "8": {
-        "source_ref": "Romans 8:8",
-        "source_chapter": 8,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3df9cbdd8af671797d69a107e19cdf9fddc92e7bf2926303c86b109659cce148"
-      },
-      "9": {
-        "source_ref": "Romans 8:9",
-        "source_chapter": 8,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "bbd93a45e4961149cfebe5ab060c6de7210f25392a702b11e238ece40f70dd70"
-      },
-      "10": {
-        "source_ref": "Romans 8:10",
-        "source_chapter": 8,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "3b48cd0228f2b3d45c7963f3c4fb1e4b61ba97e34f01593bf51827511a615cb0"
-      },
-      "11": {
-        "source_ref": "Romans 8:11",
-        "source_chapter": 8,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "8e3967d67c4458d0fcaff5316a9e8b50bcda8f80df85a920a6481729600fd900"
-      },
-      "12": {
-        "source_ref": "Romans 8:12",
-        "source_chapter": 8,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "4b039ee5abbc8915db2f70d194ef0c69fbfbc82e3d29f091abb527fe82a3117c"
-      },
-      "13": {
-        "source_ref": "Romans 8:13",
-        "source_chapter": 8,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "7b17f896aa5d2ed5b136ebf2a6407e461420c5b5c99ced03be54c7c09398f7f0"
-      },
-      "14": {
-        "source_ref": "Romans 8:14",
-        "source_chapter": 8,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "b7a9ad8f97d179357751cd05d835a8c90685133c777f44b77ea73d60aa9b6c08"
-      },
-      "15": {
-        "source_ref": "Romans 8:15",
-        "source_chapter": 8,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "9b50cd41bb34fc291dc73d4389bd880e4d7abfe9d2b8a4ff8e618d6fcd8b568e"
-      },
-      "16": {
-        "source_ref": "Romans 8:16",
-        "source_chapter": 8,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "7829527e9925b67d779c0db5ce56c871639e0df3584b6c4170d3a121ad1da8ca"
-      },
-      "17": {
-        "source_ref": "Romans 8:17",
-        "source_chapter": 8,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "0b7dd03ec47abbc80e667df4dd8fa5b75b9845e2ce1190d8eb5af0df8aa4d6fe"
-      },
-      "18": {
-        "source_ref": "Romans 8:18",
-        "source_chapter": 8,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "f4e6a0884deacd90c5ce9e3a07a5f42bc7af5215105abf2e6ca0511d4943f949"
-      },
-      "19": {
-        "source_ref": "Romans 8:19",
-        "source_chapter": 8,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "3bb732335bacecc8fe90bad9e549f43b1500f7feab97247414181b09d6d46728"
-      },
-      "20": {
-        "source_ref": "Romans 8:20",
-        "source_chapter": 8,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "a0f139428c01f4e599daf4169dd424d593dacbeb68b33866cf0f15ed53693a7a"
-      },
-      "21": {
-        "source_ref": "Romans 8:21",
-        "source_chapter": 8,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "5c7200994ac2e0ec0386e03b8fb9f30dfb3413dd7b41d0afac286cff92941449"
-      },
-      "22": {
-        "source_ref": "Romans 8:22",
-        "source_chapter": 8,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "80f13c93d4c6493fecf70fbc7dc64ebefe2c61764c0f0164bc7793a3a3107b27"
-      },
-      "23": {
-        "source_ref": "Romans 8:23",
-        "source_chapter": 8,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "ec31fb25e942d14177123552ea6c7c7df2139a6637bd8b98e2f819c84b12d716"
-      },
-      "24": {
-        "source_ref": "Romans 8:24",
-        "source_chapter": 8,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "002f77062f3acd62109c6b33fc0c0334b919587621da71326ced1059a4efe7a9"
-      },
-      "25": {
-        "source_ref": "Romans 8:25",
-        "source_chapter": 8,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "ad8f3c73cb2acc1ea19e7c7bb8f710b749098510d2d8b794a34dde725402784c"
-      },
-      "26": {
-        "source_ref": "Romans 8:26",
-        "source_chapter": 8,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "f337a993cce0bef0b234557a30b3eddfb725b7e37925cafdef57d7c620c4c1a8"
-      },
-      "27": {
-        "source_ref": "Romans 8:27",
-        "source_chapter": 8,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "9c2bd3fa71786f2a4131ec3f946e03fe33c602c2de3277aa6b054a4076769f48"
-      },
-      "28": {
-        "source_ref": "Romans 8:28",
-        "source_chapter": 8,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "86f388816238c528fa38689016041c9efb712c6f54beb94f31d1e6e29dd7afc1"
-      },
-      "29": {
-        "source_ref": "Romans 8:29",
-        "source_chapter": 8,
-        "source_verse": 29,
-        "segment_mode": "whole_record",
-        "sha256": "7e2c34d7a2cf375b8e2bbecc1083ea0cec14de42244555a4396f1cfbbdff8d44"
-      },
-      "30": {
-        "source_ref": "Romans 8:30",
-        "source_chapter": 8,
-        "source_verse": 30,
-        "segment_mode": "whole_record",
-        "sha256": "8d565f3974dcea2ec038971fabea3c5ebf174de7942cdb2348717838a8c5e153"
-      },
-      "31": {
-        "source_ref": "Romans 8:31",
-        "source_chapter": 8,
-        "source_verse": 31,
-        "segment_mode": "whole_record",
-        "sha256": "3eb50b023434a60f7799b51fc39ff94d0ecfffa161bd841e1a67ac613b3b5caf"
-      },
-      "32": {
-        "source_ref": "Romans 8:32",
-        "source_chapter": 8,
-        "source_verse": 32,
-        "segment_mode": "whole_record",
-        "sha256": "0fcc73ca379fe29c9427c58277921a51e2bb37453621102c3b1753994ea345c0"
-      },
-      "33": {
-        "source_ref": "Romans 8:33",
-        "source_chapter": 8,
-        "source_verse": 33,
-        "segment_mode": "whole_record",
-        "sha256": "39706d54c1191334d982c3a74130ebebcdae6f1ba5a8f364420e1b3f8c7dd184"
-      },
-      "34": {
-        "source_ref": "Romans 8:34",
-        "source_chapter": 8,
-        "source_verse": 34,
-        "segment_mode": "whole_record",
-        "sha256": "602f78befb9626425b1fa982a8c89d6c343c58804acc9008e74571b773de9d36"
-      },
-      "35": {
-        "source_ref": "Romans 8:35",
-        "source_chapter": 8,
-        "source_verse": 35,
-        "segment_mode": "whole_record",
-        "sha256": "d9d09779d9648d9348adc60266c075cab3caaccc4025113fb600f672b8a1199d"
-      },
-      "36": {
-        "source_ref": "Romans 8:36",
-        "source_chapter": 8,
-        "source_verse": 36,
-        "segment_mode": "whole_record",
-        "sha256": "70c2c47deb19aa33704f49e2cbe139da85af41c2bb21c490914efc9a71772a00"
-      },
-      "37": {
-        "source_ref": "Romans 8:37",
-        "source_chapter": 8,
-        "source_verse": 37,
-        "segment_mode": "whole_record",
-        "sha256": "ff227a8f46cef362ea6a89958b1eb72ae5db7bff080d2a97fcb47d4efc6b6a9b"
-      },
-      "38": {
-        "source_ref": "Romans 8:38",
-        "source_chapter": 8,
-        "source_verse": 38,
-        "segment_mode": "whole_record",
-        "sha256": "0e4b979f26d2faada7445e7aca7dca16000a306ccaf1d7bf20bdbf90f1215243"
-      },
-      "39": {
-        "source_ref": "Romans 8:39",
-        "source_chapter": 8,
-        "source_verse": 39,
-        "segment_mode": "whole_record",
-        "sha256": "29d16eee3b242572b0ac9d81e1d8d8586c75b906dc4e4080d9bd472e01de1374"
-      }
-    }
+    "sha256": "a919e44983ec633d541ec1084da79cfba1c1aa7f0eac6470c1ac7ec66cf774e8",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Rom.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Rom",
+    "book_verse_count": 430,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
   },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  "chapter_binding": {
+    "chapter": 8,
+    "verse_count": 39,
+    "path": "translations/fluent/NT/romans/Romans_08.md",
+    "before_sha256": "ea4df3099f0b301f1b6ef8eb6afcd512c724348cc81759f37872e71f31214613",
+    "after_sha256": "9f705330a6ce778d6fa1ea7f131afe284d1a3ce5c5a45301adea0732b3bfa7c3",
+    "tsw_comparator_path": "books/NT/romans/Romans_08.md",
+    "tsw_comparator_sha256": "02a2c90121d94853ebfea1be2f5c364eb4810ada8b4e0889eef866703bae314b"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-16-romans-7-15/romans-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Romans 8:2",
+      "delta": "F3",
+      "rationale": "Preserves the singular second-person address in the pinned Greek and the two competing laws.",
+      "source_reference": "Rom 8:2",
+      "source_verse_sha256": "ef45647e01bc289fde57606098526433710368a531dcb0b91ce3e0b6f9a50bd1",
+      "before": "For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.",
+      "after": "For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.",
+      "tsw_comparator": "For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.977778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:3",
+      "delta": "F3",
+      "rationale": "Clarifies God's action while retaining likeness, flesh, and the sacrificial sense of concerning sin.",
+      "source_reference": "Rom 8:3",
+      "source_verse_sha256": "4bbe3085a3b7f22462d21d44187bd68617e30f3ab21ea0c79a12936490ee29bf",
+      "before": "What the Law could not do, weakened as it was through the flesh, God did: he sent his own Son in the likeness of sinful flesh and concerning sin, and condemned sin in the flesh,",
+      "after": "For what the law could not do because it was weakened by the flesh, God did: by sending his own Son in the likeness of sinful flesh and as an offering for sin, he condemned sin in the flesh.",
+      "tsw_comparator": "For God has done what the law, weakened by the flesh, could not do: by sending the Son in the likeness of sinful flesh and concerning sin, God condemned sin in the flesh,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:10",
+      "delta": "F3",
+      "rationale": "Keeps the body/Spirit and sin/righteousness parallel without resolving whether spirit is human or divine.",
+      "source_reference": "Rom 8:10",
+      "source_verse_sha256": "7fe7019faa15146af78d76d9a3fd69e4cfdb00d763e8e32ceca22e59d0c1f741",
+      "before": "But if Christ is in you, the body is dead because of sin, yet the Spirit is life because of righteousness.",
+      "after": "But if Christ is in you, though the body is dead because of sin, the Spirit is life because of righteousness.",
+      "tsw_comparator": "But if Christ is in you, though the body is dead because of sin, the Spirit is life because of righteousness.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:14",
+      "delta": "F3",
+      "rationale": "Retains the source's specifically gendered adoption status rather than generalizing it.",
+      "source_reference": "Rom 8:14",
+      "source_verse_sha256": "7227c339d8f1f2ce78cc57431d1c522079ebb7416c104011dcb3bd1616f19624",
+      "before": "For all who are led by God’s Spirit are God’s children.",
+      "after": "For all who are led by God's Spirit are God's sons.",
+      "tsw_comparator": "For all who are led by the Spirit of God are children of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:15",
+      "delta": "F3",
+      "rationale": "Keeps slavery, adoption, the gendered legal status, and the Aramaic address.",
+      "source_reference": "Rom 8:15",
+      "source_verse_sha256": "3a2d3b9abba0974253dffd3cacd781fb5b98db4bf68485057354f6d5ec07e01a",
+      "before": "You did not receive a spirit of slavery leading back into fear. Instead, you received the Spirit of adoption, by whom we cry, “Abba! Father!”",
+      "after": "For you did not receive a spirit of slavery that leads back into fear, but you received the Spirit of adoption as sons, by whom we cry, “Abba! Father!”",
+      "tsw_comparator": "For you did not receive a spirit of slavery to fall back into fear, but you received a Spirit of adoption, by whom we cry, “Abba! Father!”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:18",
+      "delta": "F3",
+      "rationale": "Preserves present suffering and future glory without minimizing the suffering.",
+      "source_reference": "Rom 8:18",
+      "source_verse_sha256": "5fa7afe1a4a6b38db99dc1b45f6f988a8fe3fd798edfe7bcb0b5a4087ec4412a",
+      "before": "I consider that the sufferings of this present time are not worth comparing with the glory about to be revealed to us.",
+      "after": "For I consider that the sufferings of this present time are not worth comparing with the glory that is about to be revealed in us.",
+      "tsw_comparator": "For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.938776,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:20",
+      "delta": "F3",
+      "rationale": "Preserves the unidentified subjecting agent and lets the sentence continue into hope.",
+      "source_reference": "Rom 8:20",
+      "source_verse_sha256": "b74b9ed08e2d992002e2e075cfe6923a753db769db2ddd07480a395217ab5bf5",
+      "before": "Creation was subjected to futility, not willingly but because of the one who subjected it, in hope",
+      "after": "For creation was subjected to futility, not willingly, but because of the one who subjected it, in hope",
+      "tsw_comparator": "For creation was subjected to futility, not of its own will but by the will of the one who subjected it, in hope",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:23",
+      "delta": "F3",
+      "rationale": "Keeps firstfruits, inward groaning, adoption, and bodily redemption together.",
+      "source_reference": "Rom 8:23",
+      "source_verse_sha256": "e482cb177c6e37807359797d2940add41fbb357bcb878352de59b83ce1fa900c",
+      "before": "And not only creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly while we wait for adoption, the redemption of our bodies.",
+      "after": "And not only creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we eagerly await adoption as sons—the redemption of our bodies.",
+      "tsw_comparator": "and not only creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly while we wait for adoption, the redemption of our bodies.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.851852,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:26",
+      "delta": "F3",
+      "rationale": "Retains human ignorance, the Spirit's help, and unspoken groaning.",
+      "source_reference": "Rom 8:26",
+      "source_verse_sha256": "442aaa3214a3c10b7b13d0559a5ca1a2264cba8e878ffbabf0287588bbe47197",
+      "before": "In the same way, the Spirit helps us in our weakness. We do not know what we should pray for as we ought, but the Spirit himself intercedes with groanings too deep for words.",
+      "after": "In the same way, the Spirit also helps us in our weakness, for we do not know what we ought to pray for. But the Spirit himself intercedes with groanings too deep for words.",
+      "tsw_comparator": "Likewise the Spirit helps us in our weakness; for we do not know how to pray as we ought, but the Spirit himself intercedes for us with groanings too deep for words.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.757576,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:28",
+      "delta": "F3",
+      "rationale": "Keeps all things as the pinned text's grammatical subject and limits the promise to the described people.",
+      "source_reference": "Rom 8:28",
+      "source_verse_sha256": "448c6bc6f82599af7b4a11ee18cd2688451976c8493326d9c8b8f9500a001ae2",
+      "before": "We know that God works all things together for good for those who love God, who are called according to his purpose.",
+      "after": "And we know that all things work together for good for those who love God, who are called according to his purpose.",
+      "tsw_comparator": "We know that in all things God works together for good for those who love God, who are called according to God’s purpose.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:29",
+      "delta": "F3",
+      "rationale": "Retains the linked verbs and firstborn family image.",
+      "source_reference": "Rom 8:29",
+      "source_verse_sha256": "fec8c6eeecad8f9f1e9361c79c6050c01687cd2128c503a6eaa28c5dfe36a527",
+      "before": "For those God foreknew, he also predestined to be conformed to the image of his Son, so that the Son might be firstborn among many brothers and sisters.",
+      "after": "For those he foreknew, he also predestined to be conformed to the image of his Son, so that the Son would be the firstborn among many brothers and sisters.",
+      "tsw_comparator": "For those whom God foreknew, God also predestined to be conformed to the image of the Son, in order that he might be the firstborn among many siblings.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:30",
+      "delta": "F3",
+      "rationale": "Preserves the unbroken chain and the forensic force of justified.",
+      "source_reference": "Rom 8:30",
+      "source_verse_sha256": "614a7a266d27de5b6cca08cef5ff5ea8b0c8aa643fafce4b9bd7052f1e72254a",
+      "before": "Those he predestined, he also called; those he called, he also set right; and those he set right, he also glorified.",
+      "after": "And those he predestined, he also called; those he called, he also declared righteous; and those he declared righteous, he also glorified.",
+      "tsw_comparator": "And those whom God predestined, God also called; and those whom God called, God also set right; and those whom God set right, God also glorified.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:32",
+      "delta": "F3",
+      "rationale": "Retains handing over, universal-for-us language, and the grace verb.",
+      "source_reference": "Rom 8:32",
+      "source_verse_sha256": "a9a00ec61419b9bf3473635b77f2c9ae1fcd08ad448e836592d61b6eb3a31ce7",
+      "before": "He did not spare his own Son but handed him over for us all. How will he not also, with him, freely give us all things?",
+      "after": "He did not spare his own Son but handed him over for us all. How will he not also, along with him, graciously give us all things?",
+      "tsw_comparator": "The one who did not withhold the Son but gave him up for us all—will not also, with him, graciously give us all things?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Romans 8:34",
+      "delta": "F3",
+      "rationale": "Preserves each escalating clause and the repeated also.",
+      "source_reference": "Rom 8:34",
+      "source_verse_sha256": "64d86da9a5cf9bf4ad08b790bbf77086832f5694466b4b458645acf1ae8bb5d9",
+      "before": "Who is the one who condemns? Christ Jesus is the one who died—more than that, who was raised—who is at God’s right hand and who also intercedes for us.",
+      "after": "Who is the one who condemns? Christ is the one who died—and more than that, was raised—who is also at God's right hand and who also intercedes for us.",
+      "tsw_comparator": "Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed intercedes for us.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.721311,
+      "editorial_status": "REVIEW_PENDING"
+    }
+  ]
 }
