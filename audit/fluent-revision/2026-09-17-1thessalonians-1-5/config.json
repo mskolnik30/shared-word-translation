@@ -1,0 +1,142 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "1Thessalonians",
+  "slug": "1thessalonians",
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "scope": "1 Thessalonians 1–5",
+  "expected_verses": 89,
+  "source_filename": "1thessalonians-pinned-greek.txt",
+  "book_record_files": [
+    "1_THESSALONIANS_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Thess.txt",
+    "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+    "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Thess.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Thess",
+    "book_verse_count": 89,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:3",
+    "1:9",
+    "2:7",
+    "2:8",
+    "2:14",
+    "2:15",
+    "2:16",
+    "2:17",
+    "3:3",
+    "3:11",
+    "4:4",
+    "4:6",
+    "4:13",
+    "4:14",
+    "4:15",
+    "4:16",
+    "4:17",
+    "5:2",
+    "5:3",
+    "5:5",
+    "5:10",
+    "5:14",
+    "5:18",
+    "5:19",
+    "5:20",
+    "5:21",
+    "5:22",
+    "5:23"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [],
+      "vocabulary": [
+        [
+          "03",
+          "ὑπομονή (hypomonē)",
+          "Endurance or steadfastness under pressure."
+        ]
+      ]
+    },
+    "2": {
+      "notes": [
+        [
+          "07",
+          "The pinned reading is ‘gentle’ and the following comparison is explicitly to a nursing mother."
+        ],
+        [
+          "14–16",
+          "This severe first-century polemic is tied to named actions and Judean opponents; it must not be generalized to Jewish people."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "3": {
+      "notes": [],
+      "vocabulary": [
+        [
+          "02",
+          "στηρίζω (stērizō)",
+          "Strengthen or establish; a recurring concern in this chapter."
+        ]
+      ]
+    },
+    "4": {
+      "notes": [
+        [
+          "04",
+          "The word rendered ‘body’ literally means ‘vessel’ and may instead refer to acquiring or living with a wife."
+        ],
+        [
+          "15–17",
+          "The sequence places the dead in Christ rising before the living are caught up together with them to meet the Lord."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "17",
+          "ἀπάντησις (apantēsis)",
+          "A meeting or reception of an arriving person."
+        ]
+      ]
+    },
+    "5": {
+      "notes": [
+        [
+          "22",
+          "‘Every kind of evil’ can also be rendered ‘every form of evil’; it does not merely mean looking evil."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "02",
+          "ἡμέρα κυρίου (hēmera kyriou)",
+          "Day of the Lord, pictured here as arriving like a thief at night."
+        ]
+      ]
+    }
+  }
+}

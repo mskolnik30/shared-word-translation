@@ -2,125 +2,150 @@
   "book": "Titus",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 15,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-titus-1-3-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/titus/Titus_02_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Titus.txt",
     "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Titus 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "6de9d3d4d10b9b92d9a992c208cdab48037b04abdfb24b42dbe85ba2e3195de9"
-      },
-      "2": {
-        "source_ref": "Titus 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "097bd15627f531246457144780a301349ce3ede4339be4629279f144d775ac27"
-      },
-      "3": {
-        "source_ref": "Titus 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "ef2c576685096dc7894bc19eb7f3a85cd693a2f7ee262504a7bf5a5ee20cc904"
-      },
-      "4": {
-        "source_ref": "Titus 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "6f8657d53b061e93991c59850bd4b2a829f085d1a696ba998e50c21f2477a794"
-      },
-      "5": {
-        "source_ref": "Titus 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "c6b217619a916278f6cbf6fe9eacd801b77f708be20d93ba68e74dabf39e3f74"
-      },
-      "6": {
-        "source_ref": "Titus 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "66fc986f9b45321a3b0d1b8a25e995fde6b92b89ca2187441249a0d56e00da08"
-      },
-      "7": {
-        "source_ref": "Titus 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "670dc387686a7baa3123269fb6c5db07ae86f36478d37c90d4e8135f3d3c862a"
-      },
-      "8": {
-        "source_ref": "Titus 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "967af0b7b4c5831c791a8a34a8f7e36944e49c6ca069956dd775cc18a7c14638"
-      },
-      "9": {
-        "source_ref": "Titus 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "c4c791ca5cdc6063096d505c010fa5f6c11c280ced0f41b94aaab1023aba6259"
-      },
-      "10": {
-        "source_ref": "Titus 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "c1eea65f296857dcefdefc4b4d3a255b05716bc7768bf1fc6e28157b20509880"
-      },
-      "11": {
-        "source_ref": "Titus 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "985908b40f27b12937fd4fda98b24cc324c6e1c25b78356c17854f3de2280d71"
-      },
-      "12": {
-        "source_ref": "Titus 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "5d246fff14620284a50bcbf66416e776cd2bf2703de6d4399e5330b33a7c2ee5"
-      },
-      "13": {
-        "source_ref": "Titus 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "6d28383cd1b25d8b43c3f0abe24e47589f02f735d55af74b206bb0669f683312"
-      },
-      "14": {
-        "source_ref": "Titus 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "c7ac656d4d5c62bc46290f575bca5f942ffd6a0edbe1871c16060835f3efdfc9"
-      },
-      "15": {
-        "source_ref": "Titus 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "36ce0bd5972d919c5dd5330cf2e6f089df0040b8370165c3f3a12a90fa208863"
-      }
+    "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Titus.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Titus",
+    "book_verse_count": 46,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 15,
+    "path": "translations/fluent/NT/titus/Titus_02.md",
+    "before_sha256": "d9b9dace57cac1ad5eec8bfd8a7e99d985355ad3b5c627e22022fae5ca7138f8",
+    "after_sha256": "2f400290fe21d75c4b06f1da5132d4601f1c20b6a132dc257b8dbeead4ebeef1",
+    "tsw_comparator_path": "books/NT/titus/Titus_02.md",
+    "tsw_comparator_sha256": "d71d8730d9b6720aee4ae4da943beb1775dab92b077cf19a4b42f1733657c84e"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Titus 2:3",
+      "delta": "F3",
+      "rationale": "Retains female group, slavery metaphor and teaching role.",
+      "source_reference": "Titus 2:3",
+      "source_verse_sha256": "b0d736d470ca20a0a6994aa9ce6a26beccd5d2a5336462e45d1744b39c3c1942",
+      "before": "Older women likewise are to be reverent in behavior, not slanderers or enslaved to much wine, but teachers of what is good,",
+      "after": "Older women likewise are to be reverent in conduct, not slanderers or enslaved to much wine, but teachers of what is good,",
+      "tsw_comparator": "Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine. They are to teach what is good,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.755556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:4",
+      "delta": "F3",
+      "rationale": "Keeps intergenerational instruction and both family loves.",
+      "source_reference": "Titus 2:4",
+      "source_verse_sha256": "4cb84ee1724b02f19dc60a7d71fa73aee25c73e2b4c21906a9ee63d02935accc",
+      "before": "so that they may train the younger women to love their husbands and children,",
+      "after": "so that they may train the young women to love their husbands and children,",
+      "tsw_comparator": "and so train the young women to love their husbands and children,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:5",
+      "delta": "F3",
+      "rationale": "Preserves gendered household expectations and reputational rationale.",
+      "source_reference": "Titus 2:5",
+      "source_verse_sha256": "984038c6947f85bea80e3017f2fcb4e1107c83fe8bfb19e31840be36dd37e95b",
+      "before": "to be self-controlled, pure, workers at home, kind, and responsive to their own husbands, so that God’s word is not slandered.",
+      "after": "to be self-controlled, pure, workers at home, good and submissive to their own husbands, so that God's word may not be slandered.",
+      "tsw_comparator": "to be self-controlled, pure, working at home, kind, and subject to their own husbands, so that the word of God may not be reviled.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:9",
+      "delta": "F3",
+      "rationale": "Names enslaved people and masters and preserves the coercive submission command.",
+      "source_reference": "Titus 2:9",
+      "source_verse_sha256": "c402cb2e4db43435babcaada04fa9d97b6f657daa3fb0359c05d0085cc65f94c",
+      "before": "Slaves are to be responsive to their own masters in everything, seeking to please them, not talking back,",
+      "after": "Slaves are to submit to their own masters in everything, to be pleasing and not talk back,",
+      "tsw_comparator": "Slaves are to be subject to their own masters in everything; they are to be well-pleasing, not argumentative,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:10",
+      "delta": "F3",
+      "rationale": "Keeps prohibited appropriation, trustworthiness and adornment metaphor.",
+      "source_reference": "Titus 2:10",
+      "source_verse_sha256": "a6b7258a74fb784768ce430c04a29088d331b9f0d9b330b3637eb8dc6fce6575",
+      "before": "not stealing, but showing complete good faith, so that in everything they may adorn the teaching of God our Savior.",
+      "after": "not stealing, but demonstrating complete good faith, so that in everything they may adorn the teaching about God our Savior.",
+      "tsw_comparator": "not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:11",
+      "delta": "F3",
+      "rationale": "Preserves grace's epiphany and universal reach.",
+      "source_reference": "Titus 2:11",
+      "source_verse_sha256": "2c2c7c90fe527c7b88d0a046bf0491e7146a717617249b96cec17b25a1ff2b01",
+      "before": "For God’s grace has appeared, bringing salvation for all people,",
+      "after": "For God's grace has appeared, bringing salvation to all people.",
+      "tsw_comparator": "For the grace of God has appeared, bringing salvation for all people,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:13",
+      "delta": "F3",
+      "rationale": "Retains hope/appearing and the dense divine title.",
+      "source_reference": "Titus 2:13",
+      "source_verse_sha256": "b3410364d629eb26504c683bfc378ba97a4b972f3c93dd13055a9addf20e3f46",
+      "before": "while we wait for the blessed hope and the appearing of the glory of our great God and Savior, Jesus Christ,",
+      "after": "while we wait for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ.",
+      "tsw_comparator": "waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.789474,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 2:14",
+      "delta": "F3",
+      "rationale": "Keeps self-gift, redemption, purification and eager action.",
+      "source_reference": "Titus 2:14",
+      "source_verse_sha256": "53f4f7bd5693061fa45c2e70cdfcc6f2f689b2b3d40eaeb1c8c557600c2be52a",
+      "before": "who gave himself for us to redeem us from all lawlessness and cleanse for himself a people as his own possession, zealous for good works.",
+      "after": "He gave himself for us to redeem us from all lawlessness and cleanse for himself a people of his own, zealous for good works.",
+      "tsw_comparator": "who gave himself for us that he might redeem us from all iniquity and purify for himself a people of his own who are zealous for good deeds.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.730769,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/titus/Titus_02.md",
-    "blob_sha": "33a1fb937459b5d6e6633cd1eca14809e73c9324"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

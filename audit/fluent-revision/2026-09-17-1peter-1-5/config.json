@@ -1,0 +1,184 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "1Peter",
+  "slug": "1peter",
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "scope": "1 Peter 1–5",
+  "expected_verses": 105,
+  "source_filename": "1peter-pinned-greek.txt",
+  "book_record_files": [
+    "1_PETER_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Pet.txt",
+    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
+    "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Pet",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:1",
+    "1:2",
+    "1:3",
+    "1:6",
+    "1:7",
+    "1:9",
+    "1:11",
+    "1:12",
+    "1:13",
+    "1:17",
+    "1:18",
+    "1:19",
+    "1:22",
+    "1:23",
+    "2:4",
+    "2:5",
+    "2:6",
+    "2:7",
+    "2:8",
+    "2:9",
+    "2:10",
+    "2:11",
+    "2:12",
+    "2:13",
+    "2:14",
+    "2:15",
+    "2:16",
+    "2:17",
+    "2:18",
+    "2:19",
+    "2:20",
+    "2:21",
+    "2:23",
+    "2:24",
+    "2:25",
+    "3:1",
+    "3:2",
+    "3:3",
+    "3:4",
+    "3:5",
+    "3:6",
+    "3:7",
+    "3:9",
+    "3:12",
+    "3:14",
+    "3:15",
+    "3:16",
+    "3:17",
+    "3:18",
+    "3:19",
+    "3:20",
+    "3:21",
+    "3:22",
+    "4:1",
+    "4:3",
+    "4:4",
+    "4:5",
+    "4:6",
+    "4:12",
+    "4:13",
+    "4:14",
+    "4:15",
+    "4:16",
+    "4:17",
+    "4:18",
+    "4:19",
+    "5:1",
+    "5:2",
+    "5:3",
+    "5:4",
+    "5:5",
+    "5:8",
+    "5:9",
+    "5:10",
+    "5:12",
+    "5:13",
+    "5:14"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "13",
+          "The command’s literal clothing image is ‘gird up the loins of your mind.’"
+        ]
+      ],
+      "vocabulary": []
+    },
+    "2": {
+      "notes": [
+        [
+          "18–25",
+          "The address is to household slaves and includes suffering under unjust masters. The harm and coercive hierarchy are retained rather than moralized as harmless."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "18",
+          "οἰκέτης (oiketēs)",
+          "A household servant or slave."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "01–07",
+          "The household instructions are gender-specific and arise in an unequal ancient setting; verse 7 warns husbands that abuse of honor disrupts prayer."
+        ],
+        [
+          "19",
+          "The identity of the spirits in prison and the time and manner of Christ’s proclamation remain disputed."
+        ],
+        [
+          "21",
+          "The text relates baptism to salvation while denying that mere removal of bodily dirt is the point."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "4": {
+      "notes": [
+        [
+          "06",
+          "The ‘dead’ may be people who heard while alive and have since died, or the proclamation may be portrayed as reaching the dead; the verse is compressed."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "5": {
+      "notes": [],
+      "vocabulary": [
+        [
+          "01",
+          "πρεσβύτερος (presbyteros)",
+          "Elder; here used for community leaders and also by the writer of himself."
+        ]
+      ]
+    }
+  }
+}

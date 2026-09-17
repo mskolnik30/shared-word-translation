@@ -1,0 +1,140 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "Colossians",
+  "slug": "colossians",
+  "chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "scope": "Colossians 1–4",
+  "expected_verses": 95,
+  "source_filename": "colossians-pinned-greek.txt",
+  "book_record_files": [
+    "COLOSSIANS_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Col.txt",
+    "git_blob_sha": "06f9ee0bc5f86cd1f28f1e54867224f49e446380",
+    "sha256": "665ef40dbc19bacf2b2642aa0bfc265e3cfab3f37b5757ea1ff69bdaf968bd08",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Col.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Col",
+    "book_verse_count": 95,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:14",
+    "1:15",
+    "1:19",
+    "1:20",
+    "1:24",
+    "1:27",
+    "2:2",
+    "2:8",
+    "2:9",
+    "2:11",
+    "2:14",
+    "2:15",
+    "2:18",
+    "2:23",
+    "3:5",
+    "3:6",
+    "3:11",
+    "3:18",
+    "3:22",
+    "3:24",
+    "4:1",
+    "4:15"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "14",
+          "The pinned Greek reads ‘redemption, the forgiveness of sins’ without ‘through his blood.’"
+        ],
+        [
+          "24",
+          "The difficult phrase about what is lacking in Christ’s afflictions is retained without implying a defect in Christ’s death."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "15",
+          "πρωτότοκος (prōtotokos)",
+          "Firstborn; a title of rank and relation, used again of resurrection in verse 18."
+        ]
+      ]
+    },
+    "2": {
+      "notes": [
+        [
+          "18",
+          "The pinned text reads ‘what he has seen’; the verb and the worship-of-angels construction remain difficult."
+        ],
+        [
+          "23",
+          "The closing phrase can describe practices that fail to restrain bodily indulgence."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "08",
+          "στοιχεῖα (stoicheia)",
+          "Elements, basic principles or elemental powers; the same term returns in verse 20."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "18–22",
+          "The household instructions address wives, husbands, children, fathers and enslaved people specifically; the social hierarchy and potential harm are not erased."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "11",
+          "Σκύθης (Skythēs)",
+          "Scythian, an ancient ethnic designation used in this social list."
+        ]
+      ]
+    },
+    "4": {
+      "notes": [
+        [
+          "01",
+          "The command to masters does not dissolve slavery; it places them under a heavenly Master and requires justice and fairness."
+        ],
+        [
+          "15",
+          "The pinned reading names Nympha and uses a feminine possessive for the church in her house."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "06",
+          "ἅλας (halas)",
+          "Salt; here a metaphor for speech that is fittingly seasoned."
+        ]
+      ]
+    }
+  }
+}

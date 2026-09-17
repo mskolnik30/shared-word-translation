@@ -102,6 +102,7 @@ def main():
         app = cfg['apparatus'][str(c)]
         out += '## Notes\n\n'+'\n\n'.join('v'+v+': '+t for v,t in app['notes'])+'\n\n'
         out += '## Vocabulary\n\n'+'\n\n'.join('v'+v+': **'+term+'**: '+t for v,term,t in app['vocabulary'])+'\n'
+        out = out.rstrip() + '\n'
         (R/path).write_text(out)
         cp = f'books/NT/{slug}/{book}_{c:02}.md'
         cb = (R/cp).read_bytes()

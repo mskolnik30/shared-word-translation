@@ -1,196 +1,206 @@
 {
-  "book": "1 Timothy",
+  "book": "1Timothy",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 25,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1timothy-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1timothy/1Timothy_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Tim.txt",
     "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Timothy 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "d271ae2de52f4823e82325b18e0e246d36b8df6c06bcae2f80fe9b1bab966bef"
-      },
-      "2": {
-        "source_ref": "1 Timothy 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "766825a586c67694da6c2b9deccd69635a338a28ac9b5d43a0b2f248ba807412"
-      },
-      "3": {
-        "source_ref": "1 Timothy 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "18a6743b063548fcee3720e8c4ecd4b2d905b88a01e0982a85c614ff163de860"
-      },
-      "4": {
-        "source_ref": "1 Timothy 5:4",
-        "source_chapter": 5,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "759f0e5a966d98998437fd92dd3ea8e0335e144a829ee451f6dfc550a3334e16"
-      },
-      "5": {
-        "source_ref": "1 Timothy 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "4bd93655865cd8070943d8ad6b5228755282ece89166636736c58211189bda59"
-      },
-      "6": {
-        "source_ref": "1 Timothy 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "b1d57e8f39fa8787ea56159c29c8dc3b4aa2e8dffad7298e119002716fdfc9c1"
-      },
-      "7": {
-        "source_ref": "1 Timothy 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "5898253ae37896f7548cc519497654aaed914eb72ea4ceebaf75a9c118a3d29e"
-      },
-      "8": {
-        "source_ref": "1 Timothy 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "3c095f4f32f028da95f59dcdd789efef7c7fb2b0885e3ccf03da131c88f90158"
-      },
-      "9": {
-        "source_ref": "1 Timothy 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "6d22d28045cba975c6c6bf51ddc22c0d42c558c34f02a34bae67ffc6bfaabdf1"
-      },
-      "10": {
-        "source_ref": "1 Timothy 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "dda229ecf7a120679a67771014152fe4284a647e15eafd08662f855abd8250d2"
-      },
-      "11": {
-        "source_ref": "1 Timothy 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "d9e3b0915b979193e88b18257ebd52bd715d5dfc19f7c972106fb29c5ca41462"
-      },
-      "12": {
-        "source_ref": "1 Timothy 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "9d4b81566c403f4fac893ae34b20324acb5bbceba92725212f623bea15256e2b"
-      },
-      "13": {
-        "source_ref": "1 Timothy 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "45ca5b8307672138793fef1056b01315c7b48c9c56508db8f18b10ba2c495288"
-      },
-      "14": {
-        "source_ref": "1 Timothy 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "04e66ae731f7f507b4310a6dfb7a48b412796ee0cd0f950fb349af813418524f"
-      },
-      "15": {
-        "source_ref": "1 Timothy 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "f1411ba33eff3a716f7983f94c16417fac584a68a795b1999039022dbb89e632"
-      },
-      "16": {
-        "source_ref": "1 Timothy 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "22acc75a53a77d05e3ba3f17fd62a5b927360dd580ed29a2cec73be9df8a4817"
-      },
-      "17": {
-        "source_ref": "1 Timothy 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "5869c99a8deace2965d6fb20fd2a9ce22a68ac9844b352e38ddd0fc090a7ab4e"
-      },
-      "18": {
-        "source_ref": "1 Timothy 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "c68030f693656423082d8535ecef27b3bf7fc55ac1ec3758b6695e4c5d7df285"
-      },
-      "19": {
-        "source_ref": "1 Timothy 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "70106a139643436cce010c696f8cd5870fe7c0e3fb9ecc8cc09a8e7e33dd3f9c"
-      },
-      "20": {
-        "source_ref": "1 Timothy 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "e8758df3cd345de9e3595c4dc4af1d5dc3ca4e8fd2aab8f2cdd5d0bc1ccc68dc"
-      },
-      "21": {
-        "source_ref": "1 Timothy 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "015e16c4352d9111de15917d5ba74f83bbbf5074c495fad2d4a706b5f9564b47"
-      },
-      "22": {
-        "source_ref": "1 Timothy 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "0707acd0fe5d2fc559c31c6f0be23b08a0717208f50788ef6947451572738b9d"
-      },
-      "23": {
-        "source_ref": "1 Timothy 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "7fda348d68289da8d741f66ebbb0dc9638ce0fbd4c9ae5d15ad0f8819ef79623"
-      },
-      "24": {
-        "source_ref": "1 Timothy 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "be356fd828dd9bc4e86148c03c82777ea046a015b0da9a28e3d77039e5bbdf89"
-      },
-      "25": {
-        "source_ref": "1 Timothy 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "2627ca1a503c57166b82ca1fbf29ca7f80cdcc218080c32008ef905741562bbc"
-      }
+    "sha256": "e4813e23b26b8b4763771b252cb41982d3af66abeead62f014e5f5f0a5323dcb",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Tim",
+    "book_verse_count": 113,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/1timothy/1Timothy_05.md",
+    "before_sha256": "13756c24aa6a1392c1e33dc99dbf8ce9a23e0ca72aceb76c5c5e9f7d53ad384c",
+    "after_sha256": "697284eb7b449c19499b8e3b30fa62b5fc37ff18019d6703aad619e5186113ac",
+    "tsw_comparator_path": "books/NT/1timothy/1Timothy_05.md",
+    "tsw_comparator_sha256": "ebebb3d1ad6b966a1bfd634fd2abd0095d7f353062dbf9c1282d1a2208ded8b8"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1timothy-1-6/1timothy-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Timothy 5:3",
+      "delta": "F3",
+      "rationale": "Keeps the repeated widow term and the text's category distinction.",
+      "source_reference": "1Tim 5:3",
+      "source_verse_sha256": "5ad19211c869b70cb09b76c1578f813b741489d38049b80294aba2e17738eb0d",
+      "before": "Honor widows who are truly widows.",
+      "after": "Honor widows who are truly widows.",
+      "tsw_comparator": "Honor widows who are truly widows.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:6",
+      "delta": "F3",
+      "rationale": "Preserves the severe living-death contrast.",
+      "source_reference": "1Tim 5:6",
+      "source_verse_sha256": "8fb859c8653e198e91c385d7d0b3fc913fa5b3e0276b6fd3a551629fb3c99a93",
+      "before": "But the one who lives for pleasure is dead even while she lives.",
+      "after": "But the widow who lives for self-indulgence is dead even while alive.",
+      "tsw_comparator": "but she who lives for pleasure is dead even while she lives.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:8",
+      "delta": "F3",
+      "rationale": "Retains widening family duty and the strong comparison.",
+      "source_reference": "1Tim 5:8",
+      "source_verse_sha256": "a554480383da60febec42d7489f965caf5a46d5699eb3ff74655131948f63103",
+      "before": "But if anyone does not provide for their own, especially members of their household, they have denied the faith and are worse than an unbeliever.",
+      "after": "But if anyone does not provide for their own, and especially for members of the household, that person has denied the faith and is worse than an unbeliever.",
+      "tsw_comparator": "But if anyone does not provide for his own, and especially for members of his household, he has denied the faith and is worse than an unbeliever.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.872727,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:9",
+      "delta": "F3",
+      "rationale": "Keeps exact age and female marital idiom.",
+      "source_reference": "1Tim 5:9",
+      "source_verse_sha256": "0af31d7dc227195e0819fce32fbe51d1c8f17eaedac051b8985c91956b58219d",
+      "before": "Let a widow be enrolled only if she is at least sixty years old, faithful to one husband,",
+      "after": "A widow is to be enrolled only if she is at least sixty years old and has been a one-man woman,",
+      "tsw_comparator": "Let a widow be enrolled if she is not less than sixty years of age, having been the wife of one husband,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.5,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:11",
+      "delta": "F3",
+      "rationale": "Keeps administrative refusal and the text's characterization of desire.",
+      "source_reference": "1Tim 5:11",
+      "source_verse_sha256": "b5241999c529f3e852309638497a9899c0768c1919677d054884ce075a0e08f5",
+      "before": "But refuse to enroll younger widows, because when their desires draw them away from Christ, they want to marry,",
+      "after": "But refuse to enroll younger widows, for when their desires draw them away from Christ, they want to marry",
+      "tsw_comparator": "But refuse younger widows, for when their desires draw them away from Christ, they want to marry,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.944444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:12",
+      "delta": "F3",
+      "rationale": "Renders faith as pledged commitment in this enrollment context.",
+      "source_reference": "1Tim 5:12",
+      "source_verse_sha256": "88b88810d9e44f5208c93a657bb716663dd071318455bb3b306920d006aaf4b6",
+      "before": "and so incur judgment because they have abandoned their earlier commitment.",
+      "after": "and incur judgment because they have set aside their first commitment.",
+      "tsw_comparator": "thus incurring judgment because they have set aside their former pledge.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:13",
+      "delta": "F3",
+      "rationale": "Retains the escalating gendered critique and house-to-house movement.",
+      "source_reference": "1Tim 5:13",
+      "source_verse_sha256": "ed38e4ccf5739be6e9ba0bb9522e2db03388f40b4bbab7231117ab60d0397881",
+      "before": "At the same time they learn to be idle, going from house to house—and not only idle but gossips and busybodies, saying things they should not.",
+      "after": "At the same time, they learn to be idle, going from house to house; and not merely idle, but also gossips and busybodies, saying things they should not.",
+      "tsw_comparator": "At the same time they learn to be idle, going about from house to house, and not only idle but also gossips and busybodies, saying what they should not.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.912281,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:14",
+      "delta": "F3",
+      "rationale": "Keeps the speaker's specific desire, three household roles and public rationale.",
+      "source_reference": "1Tim 5:14",
+      "source_verse_sha256": "4e13a002a10800f6d70dc0e573284a002bfcdba2b14ef09803c0c93a88c2ef09",
+      "before": "Therefore I want younger widows to marry, have children, manage a household, and give the opponent no opportunity for slander.",
+      "after": "So I want younger women to marry, bear children, manage their households and give the opponent no opportunity for slander.",
+      "tsw_comparator": "So I desire that younger widows marry, bear children, manage their households, and give the adversary no opportunity for slander.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:16",
+      "delta": "F3",
+      "rationale": "Keeps the feminine subject of the pinned reading and allocation of support.",
+      "source_reference": "1Tim 5:16",
+      "source_verse_sha256": "a7edcc68557b97f77b07d337bc5b350ba9299353ebc199a3d2b1aac908c1e285",
+      "before": "If any believing woman has widows in her family, let her help them so the church is not burdened and can help those who are truly widows.",
+      "after": "If any believing woman has widows in her family, let her help them, so that the church is not burdened and can help those who are truly widows.",
+      "tsw_comparator": "If any believing woman has widows, let her care for them; let the church not be burdened, so that it may care for those who are truly widows.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:17",
+      "delta": "F3",
+      "rationale": "Preserves leadership, doubled honor and teaching labor.",
+      "source_reference": "1Tim 5:17",
+      "source_verse_sha256": "b64c759ac240163b7a61520f5e3b91191dfe381d949de8340a1485cf4580819a",
+      "before": "Let elders who lead well be considered worthy of double honor, especially those who labor in word and teaching.",
+      "after": "Let elders who lead well be considered worthy of double honor, especially those who labor in speaking and teaching.",
+      "tsw_comparator": "Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:20",
+      "delta": "F3",
+      "rationale": "Keeps public correction and its deterrent purpose.",
+      "source_reference": "1Tim 5:20",
+      "source_verse_sha256": "88ec4eefb470cc4cb4dc1be5d2f8cb62b876f9851ef691ee06c7eb73acf868ab",
+      "before": "Those who persist in sin, rebuke in front of everyone so that the rest may have fear.",
+      "after": "Rebuke those who persist in sin before everyone, so that the rest may also have fear.",
+      "tsw_comparator": "Those who persist in sin, rebuke in the presence of all, so that the rest may stand in fear.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 5:22",
+      "delta": "F3",
+      "rationale": "Keeps caution in appointment, complicity and personal integrity.",
+      "source_reference": "1Tim 5:22",
+      "source_verse_sha256": "a82a37849d0ce55072cdbfe6c02d03b31373b1ae7540ec6d881d7c19f5caf2a2",
+      "before": "Do not lay hands on anyone hastily or share in the sins of others. Keep yourself pure.",
+      "after": "Do not lay hands on anyone hastily or share in the sins of others. Keep yourself pure.",
+      "tsw_comparator": "Do not be hasty in the laying on of hands, nor share in the sins of others; keep yourself pure.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1timothy/1Timothy_05.md",
-    "blob_sha": "e768c0e9cc6ecb34fc75209a8d28ccd55093d32b"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

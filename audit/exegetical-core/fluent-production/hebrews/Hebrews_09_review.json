@@ -2,461 +2,277 @@
   "book": "Hebrews",
   "chapter": 9,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_09_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "9:1-10:25",
-      "decision": "Translate cultic imagery carefully and avoid anti-Jewish caricature.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 9:1",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 1,
-            "source_ref": "Hebrews 9:1",
-            "segment_mode": "whole",
-            "sha256": "42f269379e9b7a5924ec9d725bcbe06faa05b172f1087e220c4857e61198286e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "42f269379e9b7a5924ec9d725bcbe06faa05b172f1087e220c4857e61198286e"
-      },
-      "2": {
-        "source_ref": "Hebrews 9:2",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 2,
-            "source_ref": "Hebrews 9:2",
-            "segment_mode": "whole",
-            "sha256": "6f26922ca1af5978b0035f60b05e94cf94807bd363fd9137ee1b0df28ddfc05b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6f26922ca1af5978b0035f60b05e94cf94807bd363fd9137ee1b0df28ddfc05b"
-      },
-      "3": {
-        "source_ref": "Hebrews 9:3",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 3,
-            "source_ref": "Hebrews 9:3",
-            "segment_mode": "whole",
-            "sha256": "27740a1c565649037a9fe22c40abc0b87b48417262bbedc66877bb3933c2c45b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "27740a1c565649037a9fe22c40abc0b87b48417262bbedc66877bb3933c2c45b"
-      },
-      "4": {
-        "source_ref": "Hebrews 9:4",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 4,
-            "source_ref": "Hebrews 9:4",
-            "segment_mode": "whole",
-            "sha256": "96384ad3d5f055ad8751d30933e2544f14c4f9f56db15c3c4403785626f0088e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "96384ad3d5f055ad8751d30933e2544f14c4f9f56db15c3c4403785626f0088e"
-      },
-      "5": {
-        "source_ref": "Hebrews 9:5",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 5,
-            "source_ref": "Hebrews 9:5",
-            "segment_mode": "whole",
-            "sha256": "3b4dbff05e1b8af50195277953ca926317a05c9d23cfd14196ec927f6387970a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3b4dbff05e1b8af50195277953ca926317a05c9d23cfd14196ec927f6387970a"
-      },
-      "6": {
-        "source_ref": "Hebrews 9:6",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 6,
-            "source_ref": "Hebrews 9:6",
-            "segment_mode": "whole",
-            "sha256": "700e30e11475c2402c79c15f82968bb3cf6f16b9eff872b6f8252b5b8f4034cd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "700e30e11475c2402c79c15f82968bb3cf6f16b9eff872b6f8252b5b8f4034cd"
-      },
-      "7": {
-        "source_ref": "Hebrews 9:7",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 7,
-            "source_ref": "Hebrews 9:7",
-            "segment_mode": "whole",
-            "sha256": "4a2c33744987b0712767961726d127a1af910e14655aa55465ee9af926cdf0f5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4a2c33744987b0712767961726d127a1af910e14655aa55465ee9af926cdf0f5"
-      },
-      "8": {
-        "source_ref": "Hebrews 9:8",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 8,
-            "source_ref": "Hebrews 9:8",
-            "segment_mode": "whole",
-            "sha256": "cfc5e33adef1272dbf3edf248b0cb42616a3a65393724d6e7b17d8c3b16129ff"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cfc5e33adef1272dbf3edf248b0cb42616a3a65393724d6e7b17d8c3b16129ff"
-      },
-      "9": {
-        "source_ref": "Hebrews 9:9",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 9,
-            "source_ref": "Hebrews 9:9",
-            "segment_mode": "whole",
-            "sha256": "69998c98753d70fccc9b06a66648e95b51be7c66248f67bdcfbd2c93fb186465"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "69998c98753d70fccc9b06a66648e95b51be7c66248f67bdcfbd2c93fb186465"
-      },
-      "10": {
-        "source_ref": "Hebrews 9:10",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 10,
-            "source_ref": "Hebrews 9:10",
-            "segment_mode": "whole",
-            "sha256": "2fc05474c8864c3f87c599c909bfd0976b93eff0bde2f4dad887817b1c5fad13"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2fc05474c8864c3f87c599c909bfd0976b93eff0bde2f4dad887817b1c5fad13"
-      },
-      "11": {
-        "source_ref": "Hebrews 9:11",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 11,
-            "source_ref": "Hebrews 9:11",
-            "segment_mode": "whole",
-            "sha256": "cd80cbac184e327381e53a8150ac96c7b33a8727f6bc427f40b42cdd9e5d5af9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cd80cbac184e327381e53a8150ac96c7b33a8727f6bc427f40b42cdd9e5d5af9"
-      },
-      "12": {
-        "source_ref": "Hebrews 9:12",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 12,
-            "source_ref": "Hebrews 9:12",
-            "segment_mode": "whole",
-            "sha256": "d15e8767e3c754748748dffeb1ef31760bc3928cb9ad60cbb4bf3277ba9c46ab"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d15e8767e3c754748748dffeb1ef31760bc3928cb9ad60cbb4bf3277ba9c46ab"
-      },
-      "13": {
-        "source_ref": "Hebrews 9:13",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 13,
-            "source_ref": "Hebrews 9:13",
-            "segment_mode": "whole",
-            "sha256": "3d6d13be9ed272f0cb72cb835b662829c36bff207914412336ac2cefcbce2292"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3d6d13be9ed272f0cb72cb835b662829c36bff207914412336ac2cefcbce2292"
-      },
-      "14": {
-        "source_ref": "Hebrews 9:14",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 14,
-            "source_ref": "Hebrews 9:14",
-            "segment_mode": "whole",
-            "sha256": "f1cc36e94409230a222194fe96e54a612ac4851a60b2cfa87935d191cc6ed79e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f1cc36e94409230a222194fe96e54a612ac4851a60b2cfa87935d191cc6ed79e"
-      },
-      "15": {
-        "source_ref": "Hebrews 9:15",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 15,
-            "source_ref": "Hebrews 9:15",
-            "segment_mode": "whole",
-            "sha256": "b8977ae6ea0551a81d649bf569a5485a6f54854056a606ce10b9de52a36fd6b0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8977ae6ea0551a81d649bf569a5485a6f54854056a606ce10b9de52a36fd6b0"
-      },
-      "16": {
-        "source_ref": "Hebrews 9:16",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 16,
-            "source_ref": "Hebrews 9:16",
-            "segment_mode": "whole",
-            "sha256": "db82d5c08b137bd4505ece84f9781aa7543f75e5b9b47e97c538386f8480c1c0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db82d5c08b137bd4505ece84f9781aa7543f75e5b9b47e97c538386f8480c1c0"
-      },
-      "17": {
-        "source_ref": "Hebrews 9:17",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 17,
-            "source_ref": "Hebrews 9:17",
-            "segment_mode": "whole",
-            "sha256": "86faf992039ec2a8ad3a21aca1d68682fd99e799fd6c855871a8e7e4df37ffae"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "86faf992039ec2a8ad3a21aca1d68682fd99e799fd6c855871a8e7e4df37ffae"
-      },
-      "18": {
-        "source_ref": "Hebrews 9:18",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 18,
-            "source_ref": "Hebrews 9:18",
-            "segment_mode": "whole",
-            "sha256": "149f6feb6cc3cf5b3675a3123471cd51064c74d9f063127fdfe3670bb753e787"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "149f6feb6cc3cf5b3675a3123471cd51064c74d9f063127fdfe3670bb753e787"
-      },
-      "19": {
-        "source_ref": "Hebrews 9:19",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 19,
-            "source_ref": "Hebrews 9:19",
-            "segment_mode": "whole",
-            "sha256": "b296525b72cf9c21192d17710389e4ce0bbcf566665e131dfa7d6015fe4b5d59"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b296525b72cf9c21192d17710389e4ce0bbcf566665e131dfa7d6015fe4b5d59"
-      },
-      "20": {
-        "source_ref": "Hebrews 9:20",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 20,
-            "source_ref": "Hebrews 9:20",
-            "segment_mode": "whole",
-            "sha256": "94893963f63d0955ea0ce0713704962e03d709f19c364367d2f0c94fb0356a94"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "94893963f63d0955ea0ce0713704962e03d709f19c364367d2f0c94fb0356a94"
-      },
-      "21": {
-        "source_ref": "Hebrews 9:21",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 21,
-            "source_ref": "Hebrews 9:21",
-            "segment_mode": "whole",
-            "sha256": "f7da754f086f07718499c5788e214c879d7a903b1cf028cfad741fe3ea5f1da3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f7da754f086f07718499c5788e214c879d7a903b1cf028cfad741fe3ea5f1da3"
-      },
-      "22": {
-        "source_ref": "Hebrews 9:22",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 22,
-            "source_ref": "Hebrews 9:22",
-            "segment_mode": "whole",
-            "sha256": "09f43f94aa9372df11bc797a78fae3c510dc6f9bedb263296be0a1c9ccb555c5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "09f43f94aa9372df11bc797a78fae3c510dc6f9bedb263296be0a1c9ccb555c5"
-      },
-      "23": {
-        "source_ref": "Hebrews 9:23",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 23,
-            "source_ref": "Hebrews 9:23",
-            "segment_mode": "whole",
-            "sha256": "bfad023ec80db9f7c70bc5ed763a15b7af06aca255094745195225c58a256026"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bfad023ec80db9f7c70bc5ed763a15b7af06aca255094745195225c58a256026"
-      },
-      "24": {
-        "source_ref": "Hebrews 9:24",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 24,
-            "source_ref": "Hebrews 9:24",
-            "segment_mode": "whole",
-            "sha256": "f9d6f903086aa6e5fbc65d1e59526544788c8b58c3e7c75b94c6e3a4611a13e3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f9d6f903086aa6e5fbc65d1e59526544788c8b58c3e7c75b94c6e3a4611a13e3"
-      },
-      "25": {
-        "source_ref": "Hebrews 9:25",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 25,
-            "source_ref": "Hebrews 9:25",
-            "segment_mode": "whole",
-            "sha256": "8cb0a4f0c2a0f9152d57cf8e2d65d415348c277ffc7a0515e009ed4b26838e25"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8cb0a4f0c2a0f9152d57cf8e2d65d415348c277ffc7a0515e009ed4b26838e25"
-      },
-      "26": {
-        "source_ref": "Hebrews 9:26",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 26,
-            "source_ref": "Hebrews 9:26",
-            "segment_mode": "whole",
-            "sha256": "8fbc73f3d4a812c44de96f90b9eff32f7007f73a8a7bd924ec201b301c482d4e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8fbc73f3d4a812c44de96f90b9eff32f7007f73a8a7bd924ec201b301c482d4e"
-      },
-      "27": {
-        "source_ref": "Hebrews 9:27",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 27,
-            "source_ref": "Hebrews 9:27",
-            "segment_mode": "whole",
-            "sha256": "d6ff6b9f5e4970f3e36a7c9ebc891ef37808db86da852b84c2fc7d943e046895"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d6ff6b9f5e4970f3e36a7c9ebc891ef37808db86da852b84c2fc7d943e046895"
-      },
-      "28": {
-        "source_ref": "Hebrews 9:28",
-        "source_records": [
-          {
-            "chapter": 9,
-            "verse": 28,
-            "source_ref": "Hebrews 9:28",
-            "segment_mode": "whole",
-            "sha256": "95bbb8d1c2c215be97397162eeb66958293a2fd171eff23ac787210f1d7af166"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "95bbb8d1c2c215be97397162eeb66958293a2fd171eff23ac787210f1d7af166"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 9,
+    "verse_count": 28,
+    "path": "translations/fluent/NT/hebrews/Hebrews_09.md",
+    "before_sha256": "c4ce5da4cc7e9bc377a1f7c96d254a7d1c9fb97a3c69a75ec50781d9ce88212c",
+    "after_sha256": "64b9a4bcdfec2e8b744996d0acf662efda56631937db29318a5296216e2a70c2",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_09.md",
+    "tsw_comparator_sha256": "741ac0492daf442e3d676ed4d25fab44edbf7d4f533d557ca2974474042fde82"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 9:4",
+      "delta": "F3",
+      "rationale": "Keeps every object, material and named Aaron.",
+      "source_reference": "Heb 9:4",
+      "source_verse_sha256": "6a6a67ef2833b40be54671c67acf6139c641a9eb0d1b85010ba07b2b67129779",
+      "before": "having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden jar holding the manna, and Aaron’s staff that budded, and the tablets of the covenant.",
+      "after": "It had the golden incense altar and the ark of the covenant covered completely with gold. In the ark were a gold jar holding the manna, Aaron's staff that had budded and the tablets of the covenant.",
+      "tsw_comparator": "having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden jar holding the manna, and Aaron’s staff that budded, and the tablets of the covenant.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:7",
+      "delta": "F3",
+      "rationale": "Preserves exclusivity, exact frequency, blood and unintended sins.",
+      "source_reference": "Heb 9:7",
+      "source_verse_sha256": "e217f1c2ca9b226c75fe2c49fc2ebd37beaf1a0bad72eb84a131ddafc8225d5f",
+      "before": "but into the second only the high priest goes, and he but once a year, and not without blood, which he offers for himself and for the unintentional sins of the people.",
+      "after": "But only the high priest enters the second section, and only once a year, never without blood, which he offers for himself and for the people's sins committed in ignorance.",
+      "tsw_comparator": "but into the second only the high priest goes, and he but once a year, and not without blood, which he offers for himself and for the unintentional sins of the people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.645161,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:8",
+      "delta": "F3",
+      "rationale": "Keeps Spirit's interpretive agency and blocked access.",
+      "source_reference": "Heb 9:8",
+      "source_verse_sha256": "9589d571766542a6651f874ff136dce88d4edcf3a3b9bd0bcc579ebdcba3269b",
+      "before": "By this the Holy Spirit indicates that the way into the holy places is not yet opened as long as the first section is still standing",
+      "after": "By this the Holy Spirit indicates that the way into the holy place has not yet been disclosed while the first tent is still standing.",
+      "tsw_comparator": "By this the Holy Spirit indicates that the way into the holy places is not yet opened as long as the first section is still standing",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:9",
+      "delta": "F3",
+      "rationale": "Retains parable/illustration and conscience limitation.",
+      "source_reference": "Heb 9:9",
+      "source_verse_sha256": "91d2f1065483b1251b3c16fe2d169066218565ee244f1777b15ff9ac14ce8d04",
+      "before": "(which is symbolic for the present age). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper,",
+      "after": "This is an illustration for the present time, in which gifts and sacrifices are offered that cannot perfect the worshiper's conscience.",
+      "tsw_comparator": "(which is symbolic for the present age). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:11",
+      "delta": "F3",
+      "rationale": "Follows the pinned ‘have come’ reading and keeps uncreated tent.",
+      "source_reference": "Heb 9:11",
+      "source_verse_sha256": "2adfa87b2a1c7d33d373c58b08eb82af85af9fd65e311a51bfc736f78b3f7d5f",
+      "before": "But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation)",
+      "after": "But when Christ came as high priest of the good things that have come, he passed through the greater and more perfect tent not made by hands, that is, not of this creation.",
+      "tsw_comparator": "But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation)",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878788,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:12",
+      "delta": "F3",
+      "rationale": "Preserves animal/his-own contrast, blood and finality.",
+      "source_reference": "Heb 9:12",
+      "source_verse_sha256": "4296ce603baf04f96304f0af28ea60a5db96db1774b795386a07da52dbde9091",
+      "before": "he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.",
+      "after": "He entered the holy place once for all, not by the blood of goats and calves but by his own blood, obtaining eternal redemption.",
+      "tsw_comparator": "he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:13",
+      "delta": "F3",
+      "rationale": "Keeps all ritual substances and conditional claim.",
+      "source_reference": "Heb 9:13",
+      "source_verse_sha256": "c04ad5ca482b38a9220478e8445d42bcf7d65b4792a4206d08f00b457577f975",
+      "before": "For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh,",
+      "after": "For if the blood of goats and bulls and the ashes of a heifer sprinkled on those who are defiled make them holy for outward cleansing,",
+      "tsw_comparator": "For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.566038,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:14",
+      "delta": "F3",
+      "rationale": "Retains comparison, Spirit, self-offering and conscience purpose.",
+      "source_reference": "Heb 9:14",
+      "source_verse_sha256": "c9ee3ec6dc8fd0ee5ef0a2ff9087a5d48a2a9b3d0a73b4367883f9835b2685d2",
+      "before": "how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.",
+      "after": "how much more will Christ's blood, who through the eternal Spirit offered himself without blemish to God, cleanse our conscience from dead works so that we may serve the living God?",
+      "tsw_comparator": "how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.819672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:15",
+      "delta": "F3",
+      "rationale": "Keeps covenant mediation, death, redemption and inheritance.",
+      "source_reference": "Heb 9:15",
+      "source_verse_sha256": "317a68d83cb2e8bc6dd9151f69a1df87e64f8fbc5e659a168be96dd4b009554e",
+      "before": "So he is the mediator of a new covenant, so that people who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant.",
+      "after": "For this reason Christ is mediator of a new covenant, so that, since a death has occurred to redeem transgressions under the first covenant, those who are called may receive the promised eternal inheritance.",
+      "tsw_comparator": "Therefore he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, since a death has occurred that redeems them from the transgressions committed under the first covenant.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.507042,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:16",
+      "delta": "F3",
+      "rationale": "Carries the covenant/will wordplay into testamentary logic.",
+      "source_reference": "Heb 9:16",
+      "source_verse_sha256": "ce67d8a81da7ad6c9d81e02ff8a094bc3092cabaea3e29d5bbdb040964ab2f62",
+      "before": "For where a covenant is, there must of necessity be the death of the one who made it.",
+      "after": "For where there is a will, the death of the one who made it must be established.",
+      "tsw_comparator": "For where a covenant is, there must of necessity be the death of the one who made it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.628571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:17",
+      "delta": "F3",
+      "rationale": "Preserves legal explanation.",
+      "source_reference": "Heb 9:17",
+      "source_verse_sha256": "9d0c63e7529d61483f3079389bd568fe8d62e2a5ad36bf4c6b35f622fe0159a7",
+      "before": "For a covenant is established only at death, since it is not in force as long as the one who made it is alive.",
+      "after": "A will is valid only after death; it never takes effect while the one who made it is living.",
+      "tsw_comparator": "For a covenant is established only at death, since it is not in force as long as the one who made it is alive.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.511628,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:19",
+      "delta": "F3",
+      "rationale": "Retains Moses, every ritual material and both objects sprinkled.",
+      "source_reference": "Heb 9:19",
+      "source_verse_sha256": "bf8a908328e6b0cab588f04cb3687d7fd6363ab3f629d504b709aa005419e23f",
+      "before": "For when every commandment of the law had been declared by Moses to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,",
+      "after": "After Moses had spoken every command of the law to all the people, he took the blood of calves with water, scarlet wool and hyssop and sprinkled the scroll itself and all the people,",
+      "tsw_comparator": "For when every commandment of the law had been declared by Moses to all the people, he took the blood of calves and goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.746667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:22",
+      "delta": "F3",
+      "rationale": "Keeps qualifying almost and the violent condition.",
+      "source_reference": "Heb 9:22",
+      "source_verse_sha256": "7342229bc1b6a603bb95cb363df5041b171d9b1891e9d5dba252c57ba1d5f3f5",
+      "before": "Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins.",
+      "after": "Indeed, under the law almost everything is cleansed with blood, and without blood being poured out there is no forgiveness.",
+      "tsw_comparator": "Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:23",
+      "delta": "F3",
+      "rationale": "Retains startling heavenly cleansing and comparative offerings.",
+      "source_reference": "Heb 9:23",
+      "source_verse_sha256": "4df42c4c74b49c474fe971f9857d8ec86a6bbfc0b153aa11f50d7798729cc037",
+      "before": "Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these.",
+      "after": "Therefore, it was necessary for the copies of heavenly things to be cleansed with these sacrifices, but the heavenly things themselves with better sacrifices than these.",
+      "tsw_comparator": "Thus it was necessary for the copies of the heavenly things to be purified with these rites, but the heavenly things themselves with better sacrifices than these.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:26",
+      "delta": "F3",
+      "rationale": "Keeps counterfactual repeated suffering, final era and single self-sacrifice.",
+      "source_reference": "Heb 9:26",
+      "source_verse_sha256": "fa071ae87c8d9f7bcfefea24e3c3326e248568c11a4271acb9ce1bf2eb6b9995",
+      "before": "for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself.",
+      "after": "Otherwise, he would have had to suffer repeatedly since the world's foundation. But now he has appeared once at the culmination of the ages to abolish sin through his sacrifice.",
+      "tsw_comparator": "for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.657143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:27",
+      "delta": "F3",
+      "rationale": "Retains universal appointment and sequence.",
+      "source_reference": "Heb 9:27",
+      "source_verse_sha256": "ebfbec920926ab93091313e0b25dfd2853798f691cd47d6a2dcd5ac181a4a6aa",
+      "before": "And just as it is appointed for man to die once, and after that comes judgment,",
+      "after": "And just as human beings are appointed to die once, and after that comes judgment,",
+      "tsw_comparator": "And just as it is appointed for man to die once, and after that comes judgment,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 9:28",
+      "delta": "F3",
+      "rationale": "Keeps once/second contrast, sin-bearing and waiting community.",
+      "source_reference": "Heb 9:28",
+      "source_verse_sha256": "f1fad68f725bb9c7c565125e30168a0be356098b2b62d22d5e8f3dd8724bbfc3",
+      "before": "so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save people who are eagerly waiting for him.",
+      "after": "so Christ too, having been offered once to bear the sins of many, will appear a second time—not to deal with sin, but to bring salvation to those eagerly waiting for him.",
+      "tsw_comparator": "so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.892308,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_09.md",
-    "blob_sha": "6863a6359dd1dc67ac8e661c35fc4d320d1bfc50"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

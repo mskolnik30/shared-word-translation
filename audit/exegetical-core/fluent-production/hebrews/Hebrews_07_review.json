@@ -2,461 +2,251 @@
   "book": "Hebrews",
   "chapter": 7,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_07_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "7:1-28",
-      "decision": "Keep Melchizedek typology and priestly comparison distinct from historical speculation.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 7:1",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 1,
-            "source_ref": "Hebrews 7:1",
-            "segment_mode": "whole",
-            "sha256": "4d903fb9700ea727a1758e9f983b903f6aad4360cf75990a5d0a906f6be6e702"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4d903fb9700ea727a1758e9f983b903f6aad4360cf75990a5d0a906f6be6e702"
-      },
-      "2": {
-        "source_ref": "Hebrews 7:2",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 2,
-            "source_ref": "Hebrews 7:2",
-            "segment_mode": "whole",
-            "sha256": "2e889567cd4694273126a567a43ef13e7f2f2a512255a2e49fd01df1d111c22b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2e889567cd4694273126a567a43ef13e7f2f2a512255a2e49fd01df1d111c22b"
-      },
-      "3": {
-        "source_ref": "Hebrews 7:3",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 3,
-            "source_ref": "Hebrews 7:3",
-            "segment_mode": "whole",
-            "sha256": "19553e0022a8d29fd5fbc18a769a3178fd4bf76560d8a19f1f4bb42adc9618a5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "19553e0022a8d29fd5fbc18a769a3178fd4bf76560d8a19f1f4bb42adc9618a5"
-      },
-      "4": {
-        "source_ref": "Hebrews 7:4",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 4,
-            "source_ref": "Hebrews 7:4",
-            "segment_mode": "whole",
-            "sha256": "ee7a63e018a91d7b48dad68b9048f38f9b3318b81cb3347eb16f0b98e1d0792d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ee7a63e018a91d7b48dad68b9048f38f9b3318b81cb3347eb16f0b98e1d0792d"
-      },
-      "5": {
-        "source_ref": "Hebrews 7:5",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 5,
-            "source_ref": "Hebrews 7:5",
-            "segment_mode": "whole",
-            "sha256": "d54cb7e974c75a0804c4d5590e9487d69606f6bbd94c73826932bcfec536a1e6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d54cb7e974c75a0804c4d5590e9487d69606f6bbd94c73826932bcfec536a1e6"
-      },
-      "6": {
-        "source_ref": "Hebrews 7:6",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 6,
-            "source_ref": "Hebrews 7:6",
-            "segment_mode": "whole",
-            "sha256": "fd3922e4711b3856799682c332f2a07d1eca5556d955b14bbb1155a8032051fb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fd3922e4711b3856799682c332f2a07d1eca5556d955b14bbb1155a8032051fb"
-      },
-      "7": {
-        "source_ref": "Hebrews 7:7",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 7,
-            "source_ref": "Hebrews 7:7",
-            "segment_mode": "whole",
-            "sha256": "abcfd9acd0ebaa51688c8e5fdb49993e508b55075764051f327b3fbab84f53b2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "abcfd9acd0ebaa51688c8e5fdb49993e508b55075764051f327b3fbab84f53b2"
-      },
-      "8": {
-        "source_ref": "Hebrews 7:8",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 8,
-            "source_ref": "Hebrews 7:8",
-            "segment_mode": "whole",
-            "sha256": "4e165fd6c29e29b4016851ed87439d2436a33b718312dba4e054163db7dc3d2f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4e165fd6c29e29b4016851ed87439d2436a33b718312dba4e054163db7dc3d2f"
-      },
-      "9": {
-        "source_ref": "Hebrews 7:9",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 9,
-            "source_ref": "Hebrews 7:9",
-            "segment_mode": "whole",
-            "sha256": "18e4788b174b5d9ab811cbb2bee2ff5b15053058d06c450738fcfe87634c13d9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "18e4788b174b5d9ab811cbb2bee2ff5b15053058d06c450738fcfe87634c13d9"
-      },
-      "10": {
-        "source_ref": "Hebrews 7:10",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 10,
-            "source_ref": "Hebrews 7:10",
-            "segment_mode": "whole",
-            "sha256": "c9dd00cc165f51266647ed136ef760aa0a9d9c896f4bbd161013b923ee5dd3ba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c9dd00cc165f51266647ed136ef760aa0a9d9c896f4bbd161013b923ee5dd3ba"
-      },
-      "11": {
-        "source_ref": "Hebrews 7:11",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 11,
-            "source_ref": "Hebrews 7:11",
-            "segment_mode": "whole",
-            "sha256": "f23bb18a8cfe33efcce46a110eb8dd93bf48b790f433f0857974db099b70ddc4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f23bb18a8cfe33efcce46a110eb8dd93bf48b790f433f0857974db099b70ddc4"
-      },
-      "12": {
-        "source_ref": "Hebrews 7:12",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 12,
-            "source_ref": "Hebrews 7:12",
-            "segment_mode": "whole",
-            "sha256": "5b7fb7b214d64d8919e87d68c2d3b1121cb5e11e7de7491630b4778f279b6c8f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5b7fb7b214d64d8919e87d68c2d3b1121cb5e11e7de7491630b4778f279b6c8f"
-      },
-      "13": {
-        "source_ref": "Hebrews 7:13",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 13,
-            "source_ref": "Hebrews 7:13",
-            "segment_mode": "whole",
-            "sha256": "09afa32435660209805d54dc2b7afc44190f18cec04405d7269f0eaacd84d6a7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "09afa32435660209805d54dc2b7afc44190f18cec04405d7269f0eaacd84d6a7"
-      },
-      "14": {
-        "source_ref": "Hebrews 7:14",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 14,
-            "source_ref": "Hebrews 7:14",
-            "segment_mode": "whole",
-            "sha256": "d2f734a32fe701bc5651654ce6dcf37dad146660d3302057ae71746adbec8c26"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d2f734a32fe701bc5651654ce6dcf37dad146660d3302057ae71746adbec8c26"
-      },
-      "15": {
-        "source_ref": "Hebrews 7:15",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 15,
-            "source_ref": "Hebrews 7:15",
-            "segment_mode": "whole",
-            "sha256": "937e51109fe270ea7efa19e894dc5d2f789fb44de4564818fbc41d3dc7185e9f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "937e51109fe270ea7efa19e894dc5d2f789fb44de4564818fbc41d3dc7185e9f"
-      },
-      "16": {
-        "source_ref": "Hebrews 7:16",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 16,
-            "source_ref": "Hebrews 7:16",
-            "segment_mode": "whole",
-            "sha256": "083ac2848262b07e368c44b5e6af83e4074d25a0efec453cc41c177f4d704f8e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "083ac2848262b07e368c44b5e6af83e4074d25a0efec453cc41c177f4d704f8e"
-      },
-      "17": {
-        "source_ref": "Hebrews 7:17",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 17,
-            "source_ref": "Hebrews 7:17",
-            "segment_mode": "whole",
-            "sha256": "98c274ac817a9cb98f9894fdfa9a80608f8ea5ce1c7a87433d750fd348f0b158"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "98c274ac817a9cb98f9894fdfa9a80608f8ea5ce1c7a87433d750fd348f0b158"
-      },
-      "18": {
-        "source_ref": "Hebrews 7:18",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 18,
-            "source_ref": "Hebrews 7:18",
-            "segment_mode": "whole",
-            "sha256": "d1e6592f540c95b2577e9a4a961723e83076bc3e063cd33f8ffb0434ac0d78d0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d1e6592f540c95b2577e9a4a961723e83076bc3e063cd33f8ffb0434ac0d78d0"
-      },
-      "19": {
-        "source_ref": "Hebrews 7:19",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 19,
-            "source_ref": "Hebrews 7:19",
-            "segment_mode": "whole",
-            "sha256": "1cffca9a64067a928357906ae3f83fb174252637d49325b4a69a32d5a3e322e8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1cffca9a64067a928357906ae3f83fb174252637d49325b4a69a32d5a3e322e8"
-      },
-      "20": {
-        "source_ref": "Hebrews 7:20",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 20,
-            "source_ref": "Hebrews 7:20",
-            "segment_mode": "whole",
-            "sha256": "b6db8f00ff32aa1660e1b63d02e0cbd539c6f6ad1404d9fec143649c59a3a9a4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b6db8f00ff32aa1660e1b63d02e0cbd539c6f6ad1404d9fec143649c59a3a9a4"
-      },
-      "21": {
-        "source_ref": "Hebrews 7:21",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 21,
-            "source_ref": "Hebrews 7:21",
-            "segment_mode": "whole",
-            "sha256": "21df8cdf5fd7be787bbb136097e6bcd69b26ce30c246dc4986ffdef26b1ebc3c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "21df8cdf5fd7be787bbb136097e6bcd69b26ce30c246dc4986ffdef26b1ebc3c"
-      },
-      "22": {
-        "source_ref": "Hebrews 7:22",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 22,
-            "source_ref": "Hebrews 7:22",
-            "segment_mode": "whole",
-            "sha256": "06c640c6e871a93047ca92f24ab7850bb2edec7c99b4761dfd2eb0973e589cd2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06c640c6e871a93047ca92f24ab7850bb2edec7c99b4761dfd2eb0973e589cd2"
-      },
-      "23": {
-        "source_ref": "Hebrews 7:23",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 23,
-            "source_ref": "Hebrews 7:23",
-            "segment_mode": "whole",
-            "sha256": "12e9765bd510b0f96766e0268f4cc8f2e56125657c182a214fb06d1720f2b6c2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "12e9765bd510b0f96766e0268f4cc8f2e56125657c182a214fb06d1720f2b6c2"
-      },
-      "24": {
-        "source_ref": "Hebrews 7:24",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 24,
-            "source_ref": "Hebrews 7:24",
-            "segment_mode": "whole",
-            "sha256": "2494b11cff5669e8e5af5c15946e56915bc7a90e718d3ab9199920dfe9ac9d0f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2494b11cff5669e8e5af5c15946e56915bc7a90e718d3ab9199920dfe9ac9d0f"
-      },
-      "25": {
-        "source_ref": "Hebrews 7:25",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 25,
-            "source_ref": "Hebrews 7:25",
-            "segment_mode": "whole",
-            "sha256": "d22a928a7759c5ff85e6ee9bf3647f1b6aa228270d0922a4ca6a9d6635177989"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d22a928a7759c5ff85e6ee9bf3647f1b6aa228270d0922a4ca6a9d6635177989"
-      },
-      "26": {
-        "source_ref": "Hebrews 7:26",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 26,
-            "source_ref": "Hebrews 7:26",
-            "segment_mode": "whole",
-            "sha256": "b8fb370eceb7d6f5ad395d247f6a7cb48b95c8761b223029bfc194642919490e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8fb370eceb7d6f5ad395d247f6a7cb48b95c8761b223029bfc194642919490e"
-      },
-      "27": {
-        "source_ref": "Hebrews 7:27",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 27,
-            "source_ref": "Hebrews 7:27",
-            "segment_mode": "whole",
-            "sha256": "02113b02183fb95ff6794e97168d505d05863907b9b27f3c30b51bb78bca8fda"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "02113b02183fb95ff6794e97168d505d05863907b9b27f3c30b51bb78bca8fda"
-      },
-      "28": {
-        "source_ref": "Hebrews 7:28",
-        "source_records": [
-          {
-            "chapter": 7,
-            "verse": 28,
-            "source_ref": "Hebrews 7:28",
-            "segment_mode": "whole",
-            "sha256": "d9c79dad0c07c3a0826069eb1029f823a2254826770332ccb71aaa593af31ff0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d9c79dad0c07c3a0826069eb1029f823a2254826770332ccb71aaa593af31ff0"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 7,
+    "verse_count": 28,
+    "path": "translations/fluent/NT/hebrews/Hebrews_07.md",
+    "before_sha256": "a1a1e8ced364502184454d182716ee9b150fb481efaccb99a7f7dfeb615530e9",
+    "after_sha256": "0c4b600a5857d65f971b2d37650906d4c3b4e6859326cfc52a2bf80f8e293b72",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_07.md",
+    "tsw_comparator_sha256": "8e702ab20d3f8b72b67aaf836b9bb3a6d3bb16af86dcc60fc3a5243e131a023d"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 7:1",
+      "delta": "F3",
+      "rationale": "Preserves all titles, names and military setting.",
+      "source_reference": "Heb 7:1",
+      "source_verse_sha256": "07fea15a02136c4dac7ef0fe5ae5d8e6d35ce20b5c9ef815761c5c0d02b116d1",
+      "before": "For this Melchizedek, king of Salem, priest of God Most High, met Abraham returning from the slaughter of the kings and blessed him,",
+      "after": "This Melchizedek, king of Salem and priest of God Most High, met Abraham as he returned from defeating the kings and blessed him.",
+      "tsw_comparator": "For this Melchizedek, king of Salem, priest of God Most High, met Abraham returning from the slaughter of the kings and blessed him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:2",
+      "delta": "F3",
+      "rationale": "Keeps tithe and both etymological interpretations.",
+      "source_reference": "Heb 7:2",
+      "source_verse_sha256": "91e2d2461425971bf45f53e0e8c22430a5187201e57d2a0dba9ef7eb205a7fb7",
+      "before": "and to him Abraham apportioned a tenth of everything. He is first, by translation of his name, king of righteousness, and then also king of Salem, that is, king of peace.",
+      "after": "Abraham gave him a tenth of everything. His name first means “king of righteousness,” and then “king of Salem,” that is, “king of peace.”",
+      "tsw_comparator": "and to him Abraham apportioned a tenth of everything. He is first, by translation of his name, king of righteousness, and then also king of Salem, that is, king of peace.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:3",
+      "delta": "F3",
+      "rationale": "Retains the narrative's genealogical silence as stated and the Son resemblance.",
+      "source_reference": "Heb 7:3",
+      "source_verse_sha256": "64f95c275aa91fc62c5a5ebc4e511310ed12496366b808720705b975681ae375",
+      "before": "He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever.",
+      "after": "Without father, mother or genealogy, with neither beginning of days nor end of life, resembling God's Son, he remains a priest continually.",
+      "tsw_comparator": "He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.72,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:5",
+      "delta": "F3",
+      "rationale": "Preserves legal tithe, kinship and bodily descent.",
+      "source_reference": "Heb 7:5",
+      "source_verse_sha256": "1321cfea3c87d6ce65c0abf22ed97e020aa58a4743c308f69b961293cd0fc1e5",
+      "before": "And those descendants of Levi who receive the priestly office have a commandment in the law to take tithes from the people, that is, from their brothers and sisters, though these also are descended from Abraham.",
+      "after": "Now those descendants of Levi who receive the priesthood have a command in the law to collect a tenth from the people—that is, from their own brothers and sisters—even though they too come from Abraham's body.",
+      "tsw_comparator": "And those descendants of Levi who receive the priestly office have a commandment in the law to take tithes from the people, that is, from their brothers, though these also are descended from Abraham.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.638889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:9",
+      "delta": "F3",
+      "rationale": "Preserves the author's qualifying phrase and corporate ancestry.",
+      "source_reference": "Heb 7:9",
+      "source_verse_sha256": "62ae3917953324f3b784c9c2a5e2ca4accdf88a4a3e5f4ab2746c97a8f013fe9",
+      "before": "One might even say that Levi himself, who receives tithes, paid tithes through Abraham,",
+      "after": "One might even say that Levi, who receives tithes, paid a tithe through Abraham,",
+      "tsw_comparator": "One might even say that Levi himself, who receives tithes, paid tithes through Abraham,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:10",
+      "delta": "F3",
+      "rationale": "Keeps bodily descent logic and meeting.",
+      "source_reference": "Heb 7:10",
+      "source_verse_sha256": "0732efceac721b2394e223b59b4b7b95880a3635ce131d73e045e679a6a32686",
+      "before": "for he was still in the loins of his ancestor when Melchizedek met him.",
+      "after": "for he was still in his ancestor's body when Melchizedek met Abraham.",
+      "tsw_comparator": "for he was still in the loins of his ancestor when Melchizedek met him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:11",
+      "delta": "F3",
+      "rationale": "Preserves counterfactual, legal relation and both named orders.",
+      "source_reference": "Heb 7:11",
+      "source_verse_sha256": "be497944a7ff7e4accd04dedf57d8da62314ac0760b64b8fd2c9b47af93de60c",
+      "before": "Now if perfection had been attainable through the Levitical priesthood (for under it the people received the law), what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron?",
+      "after": "Now if perfection had come through the Levitical priesthood—for on its basis the people received the law—what further need was there for another priest to arise according to Melchizedek's order rather than Aaron's?",
+      "tsw_comparator": "Now if perfection had been attainable through the Levitical priesthood (for under it the people received the law), what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.658228,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:12",
+      "delta": "F3",
+      "rationale": "Keeps stated necessary legal consequence.",
+      "source_reference": "Heb 7:12",
+      "source_verse_sha256": "39ad19ab7aecddb3f420e3bf0a86f116acd18eb4dab2cf9351cc9b004aa3e862",
+      "before": "For when there is a change in the priesthood, there is necessarily a change in the law as well.",
+      "after": "For when the priesthood is changed, a change of law necessarily follows.",
+      "tsw_comparator": "For when there is a change in the priesthood, there is necessarily a change in the law as well.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.516129,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:14",
+      "delta": "F3",
+      "rationale": "Keeps Judah, Moses and scriptural silence.",
+      "source_reference": "Heb 7:14",
+      "source_verse_sha256": "9c0f556f8eebd777ecbceb510a01992be8362f4db8a0c35411f256e1f167ce07",
+      "before": "For it is evident that our Lord was descended from Judah, and in connection with that tribe Moses said nothing about priests.",
+      "after": "For it is evident that our Lord arose from Judah, a tribe about which Moses said nothing concerning priests.",
+      "tsw_comparator": "For it is evident that our Lord was descended from Judah, and in connection with that tribe Moses said nothing about priests.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.682927,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:16",
+      "delta": "F3",
+      "rationale": "Keeps fleshly-command contrast and indestructible life.",
+      "source_reference": "Heb 7:16",
+      "source_verse_sha256": "3e4f3b710d18c1ac3b279ed35b0558c0a333fa4b71763ce835e02fef099bce7d",
+      "before": "who has become a priest, not on the basis of a legal requirement concerning bodily descent, but by the power of an indestructible life.",
+      "after": "one who became priest not according to a law based on physical descent but according to the power of an indestructible life.",
+      "tsw_comparator": "who has become a priest, not on the basis of a legal requirement concerning bodily descent, but by the power of an indestructible life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.521739,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:18",
+      "delta": "F3",
+      "rationale": "Keeps explicit annulment and negative evaluation.",
+      "source_reference": "Heb 7:18",
+      "source_verse_sha256": "a0230f9a1a64e9b3f5110a0d52fa7db76596f9e043195666c92c9200be2531be",
+      "before": "For on the one hand, a former commandment is set aside because of its weakness and uselessness",
+      "after": "On the one hand, a former command is set aside because it was weak and ineffective,",
+      "tsw_comparator": "For on the one hand, a former commandment is set aside because of its weakness and uselessness",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:19",
+      "delta": "F3",
+      "rationale": "Preserves contrast, better hope and access.",
+      "source_reference": "Heb 7:19",
+      "source_verse_sha256": "82586ed2b0d530a8516bc659c216ef5d8062d4c2e068efa79e3e308faf5d6527",
+      "before": "(for the law made nothing perfect), but on the other hand a better hope is introduced, through which we approach to God.",
+      "after": "for the law perfected nothing. On the other hand, a better hope is introduced, through which we draw near to God.",
+      "tsw_comparator": "(for the law made nothing perfect), but on the other hand a better hope is introduced, through which we draw near to God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:22",
+      "delta": "F3",
+      "rationale": "Keeps personal name, legal guarantee and comparison.",
+      "source_reference": "Heb 7:22",
+      "source_verse_sha256": "313795e04a618db3fd9fe0a190ddc52a5c8b624a5efd147695b45e459763755b",
+      "before": "This makes Jesus the guarantor of a better covenant.",
+      "after": "Accordingly, Jesus has become the guarantor of a better covenant.",
+      "tsw_comparator": "This makes Jesus the guarantor of a better covenant.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:25",
+      "delta": "F3",
+      "rationale": "Preserves comprehensive salvation, access and continuing intercession.",
+      "source_reference": "Heb 7:25",
+      "source_verse_sha256": "6fdebabd83366ad996a40206abebe1a5546933a1974942ed92dcfdd4d570379c",
+      "before": "Consequently, he can save completely people who approach to God through him, since he always lives to intercede for them.",
+      "after": "Therefore, he is able to save completely those who approach God through him, since he always lives to intercede for them.",
+      "tsw_comparator": "Consequently, he is able to save completely those who draw near to God through him, since he always lives to intercede for them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.863636,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 7:27",
+      "delta": "F3",
+      "rationale": "Preserves comparison, self-offering and once-for-all claim.",
+      "source_reference": "Heb 7:27",
+      "source_verse_sha256": "ebbd4379b0b6be7c4f4fd9c01661b4d3e095139b291e45262d1adb150809b228",
+      "before": "He has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself.",
+      "after": "He does not need to offer sacrifices every day, like the high priests—first for his own sins and then for the people's—because he did this once for all when he offered himself.",
+      "tsw_comparator": "He has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_07.md",
-    "blob_sha": "dbb2af43b6a546b3e1572d9aa160017da1159782"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

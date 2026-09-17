@@ -1,217 +1,192 @@
 {
-  "book": "1 Thessalonians",
+  "book": "1Thessalonians",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 28,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1thessalonians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1thessalonians/1Thessalonians_05_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Thess.txt",
     "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Thessalonians 5:1",
-        "source_chapter": 5,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "2fc942e0f5c5f08de0d1c6e5deb80737daba73a552ae4cc3ae9ccfad60144a92"
-      },
-      "2": {
-        "source_ref": "1 Thessalonians 5:2",
-        "source_chapter": 5,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "10c49dac9739d37a889fda826610150dd1e750e7c4b36c883bb66534c6ae7719"
-      },
-      "3": {
-        "source_ref": "1 Thessalonians 5:3",
-        "source_chapter": 5,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "cfff35f06f9d9bed9ad42b16682cd5cf24324015283f80c1753fba0324c1f240"
-      },
-      "4": {
-        "source_ref": "1 Thessalonians 5:4",
-        "source_chapter": 5,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "ff7938325620bc12325f8a4453528461bdc76b340bbf8af5aebc4e4b8fe97475"
-      },
-      "5": {
-        "source_ref": "1 Thessalonians 5:5",
-        "source_chapter": 5,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "5824e0518b5a7ed754e0957df9874504e03e63dcafe81b3d3745d668b7b3f7fd"
-      },
-      "6": {
-        "source_ref": "1 Thessalonians 5:6",
-        "source_chapter": 5,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "6dfe15d4d3032430337fd1a9eac9e940490f56526b456f0157ffd6479a1739b3"
-      },
-      "7": {
-        "source_ref": "1 Thessalonians 5:7",
-        "source_chapter": 5,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "727ae817d4da0e0431f93d41fc07ae8fb2b3f921a93e6f6fa43677519e7102ba"
-      },
-      "8": {
-        "source_ref": "1 Thessalonians 5:8",
-        "source_chapter": 5,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "a54780233020f61ad68c5acd8b355323e4058784bdff7a33e79a89a280362673"
-      },
-      "9": {
-        "source_ref": "1 Thessalonians 5:9",
-        "source_chapter": 5,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "7d8cd47f4c0965a53b556f7e023c9eabfe7a10cbf58dfc281c87d123e82708d6"
-      },
-      "10": {
-        "source_ref": "1 Thessalonians 5:10",
-        "source_chapter": 5,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "ed1844ef12f1193c441238e94c4858cea75a701cf9c2e41badbb5b14fd0915be"
-      },
-      "11": {
-        "source_ref": "1 Thessalonians 5:11",
-        "source_chapter": 5,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "a995791e4fb366d3b6746611741d4aa4adb5e0154d47a1a61834c4528bcb58b7"
-      },
-      "12": {
-        "source_ref": "1 Thessalonians 5:12",
-        "source_chapter": 5,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "1e80af0c6b29e85951babaadf2f5d34cfd3b7eb4054ae836b00415e10637893d"
-      },
-      "13": {
-        "source_ref": "1 Thessalonians 5:13",
-        "source_chapter": 5,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "034c9ec3d71c285f8ce6610a7543aedbd1338f846652b129883bfb13709c7683"
-      },
-      "14": {
-        "source_ref": "1 Thessalonians 5:14",
-        "source_chapter": 5,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "f40ad06ff53aac144ad063d0e406a8085c86ef233ec02ce3a05c20b1a3db600a"
-      },
-      "15": {
-        "source_ref": "1 Thessalonians 5:15",
-        "source_chapter": 5,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "2588647b9d56586f1c2613d2f61923432d8436b2ec4ded6d59f960360deb143a"
-      },
-      "16": {
-        "source_ref": "1 Thessalonians 5:16",
-        "source_chapter": 5,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "6c56126a6e1c3bf2abf9b2975ea6a5f32719a260c4bae6fa97a0b4e4ffb1e77a"
-      },
-      "17": {
-        "source_ref": "1 Thessalonians 5:17",
-        "source_chapter": 5,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "ce2d020d450d4258476da1748ca786bb4d6d65116baaab068eccd16543f603a0"
-      },
-      "18": {
-        "source_ref": "1 Thessalonians 5:18",
-        "source_chapter": 5,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "b4014a4148c836a52fb88d8026ef3a0e36be6afdd2f43c4db6072ec79755c01b"
-      },
-      "19": {
-        "source_ref": "1 Thessalonians 5:19",
-        "source_chapter": 5,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "f321b30cf5c5127fc4d2857d59a48024cef2e22e8932b33f248ef5d8e05f7c24"
-      },
-      "20": {
-        "source_ref": "1 Thessalonians 5:20",
-        "source_chapter": 5,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "d4e35b199db65aebc026afcc18d5a4ed51cda776f9d6753a84c931b2fbcf0ead"
-      },
-      "21": {
-        "source_ref": "1 Thessalonians 5:21",
-        "source_chapter": 5,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "e5de90de40b514b3914f7d7f7a137cbf3b0dc37dc9426089e5e68f249a269133"
-      },
-      "22": {
-        "source_ref": "1 Thessalonians 5:22",
-        "source_chapter": 5,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "ae7d720ccd781fc615230c7bcd54d42b89b6041325b820961e58251eba78b40a"
-      },
-      "23": {
-        "source_ref": "1 Thessalonians 5:23",
-        "source_chapter": 5,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "b08d7d9303418f762ac6550ae38e683f5d34144a0cb30bf16e551db29c2c2195"
-      },
-      "24": {
-        "source_ref": "1 Thessalonians 5:24",
-        "source_chapter": 5,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "e5194ea888d7809842e815e45bd46316e0dcf2343cecd960a2ba594aba1ac659"
-      },
-      "25": {
-        "source_ref": "1 Thessalonians 5:25",
-        "source_chapter": 5,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "11c285fc607d7f9e6e2ad2c0ccdbea8f2cff9449ba31f62be9d98961e7b5ee7f"
-      },
-      "26": {
-        "source_ref": "1 Thessalonians 5:26",
-        "source_chapter": 5,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "af61ae2a70fd9fe92e66d8a79acdddb2fe7d97a2244ddeb2183940e0ce6c6c81"
-      },
-      "27": {
-        "source_ref": "1 Thessalonians 5:27",
-        "source_chapter": 5,
-        "source_verse": 27,
-        "segment_mode": "whole_record",
-        "sha256": "93ddf91fa3c40ef5b3f3ecd59e13b8db8ef24de1b565f14606a8617f5e7a7832"
-      },
-      "28": {
-        "source_ref": "1 Thessalonians 5:28",
-        "source_chapter": 5,
-        "source_verse": 28,
-        "segment_mode": "whole_record",
-        "sha256": "3f03126f0afd7a16685068e3903866c478bbd9235c8d7a0fbe0277a68324e985"
-      }
+    "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Thess.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Thess",
+    "book_verse_count": 89,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 28,
+    "path": "translations/fluent/NT/1thessalonians/1Thessalonians_05.md",
+    "before_sha256": "effca0fcd71853e7cfcd463bd1857b4849855291d4eb8337dd64fc60cbab6583",
+    "after_sha256": "3dd7b41f406f77140fa6e0c7cf5c16bb1a5d04d4b89c8ff36d199f46bfd7e7e5",
+    "tsw_comparator_path": "books/NT/1thessalonians/1Thessalonians_05.md",
+    "tsw_comparator_sha256": "4e6260fcf75af59ec9e629c790cfca7808e317b48db9fe3d56dfa6a087c43b74"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Thessalonians 5:2",
+      "delta": "F3",
+      "rationale": "Preserves day title and thief simile.",
+      "source_reference": "1Thess 5:2",
+      "source_verse_sha256": "8f852bec4f57e67a3d62f4c37004ba6d7339e41a938852572adf584611899d4b",
+      "before": "For you yourselves know very well that the Lord’s day comes like a thief in the night.",
+      "after": "For you yourselves know very well that the day of the Lord comes like a thief in the night.",
+      "tsw_comparator": "For you yourselves know very well that the day of the Lord comes like a thief in the night.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:3",
+      "delta": "F3",
+      "rationale": "Keeps quoted confidence, birth-pain image and inescapability.",
+      "source_reference": "1Thess 5:3",
+      "source_verse_sha256": "71e014ad98e8390c7b7a127bc8d0688d53bcf73909a25d3c5d05fbac01ca0f5c",
+      "before": "When people are saying, “Peace and security,” then sudden destruction comes upon them like labor pains on a pregnant woman, and they will certainly not escape.",
+      "after": "When people say, “Peace and security,” sudden destruction will come on them like labor pains on a pregnant woman, and they will certainly not escape.",
+      "tsw_comparator": "When they are saying, “Peace and security,” then sudden destruction comes upon them, as labor pains upon a pregnant woman, and they will certainly not escape.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:5",
+      "delta": "F3",
+      "rationale": "Preserves both kinship expressions and communal contrast.",
+      "source_reference": "1Thess 5:5",
+      "source_verse_sha256": "fa90b6b628662769dd9babe38d0033aa139ffa98445639b71b0f5b664e0403f3",
+      "before": "For you are all children of light and children of day. We do not belong to night or darkness.",
+      "after": "For you are all children of light and children of day. We do not belong to night or darkness.",
+      "tsw_comparator": "for you are all children of light and children of the day. We are not of the night or of darkness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:10",
+      "delta": "F3",
+      "rationale": "Keeps death's purpose and the deliberately flexible awake/sleep pair.",
+      "source_reference": "1Thess 5:10",
+      "source_verse_sha256": "0feeb6dc61a2bc3c215f6951ae810654324116d510d6f8e43ab5efa1dfb23f07",
+      "before": "who died for us so that whether we are awake or asleep, we may live together with him.",
+      "after": "who died for us so that, whether we are awake or asleep, we may live together with him.",
+      "tsw_comparator": "who died for us, so that whether we are awake or asleep we may live together with him.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:14",
+      "delta": "F3",
+      "rationale": "Retains four distinct responses to distinct conditions.",
+      "source_reference": "1Thess 5:14",
+      "source_verse_sha256": "d6542e31d3d323e65ea271bae8dc63efb6ce8d874247011a81e884ef4c939ec2",
+      "before": "We urge you, brothers and sisters: warn the disorderly, encourage the discouraged, support the weak, and be patient with everyone.",
+      "after": "We urge you, brothers and sisters: warn the disorderly, encourage the fainthearted, support the weak and be patient with everyone.",
+      "tsw_comparator": "And we urge you, brothers and sisters, admonish the idle, encourage the fainthearted, help the weak, be patient with all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:18",
+      "delta": "F3",
+      "rationale": "Distinguishes thanksgiving in circumstances from calling every circumstance good.",
+      "source_reference": "1Thess 5:18",
+      "source_verse_sha256": "3f6f9fb29beafb3cf8e54daa44c6a163bd396becea5f1674a499827fab765a3f",
+      "before": "Give thanks in everything, because this is God’s will for you in Christ Jesus.",
+      "after": "Give thanks in every circumstance, for this is God's will for you in Christ Jesus.",
+      "tsw_comparator": "give thanks in all circumstances; for this is the will of God in Christ Jesus for you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:19",
+      "delta": "F3",
+      "rationale": "Keeps the fire metaphor and terse prohibition.",
+      "source_reference": "1Thess 5:19",
+      "source_verse_sha256": "24c70d1b15e35fa29994e833ef050eb0963f5eefb597666e78d4e3348eacc4f7",
+      "before": "Do not extinguish the Spirit.",
+      "after": "Do not extinguish the Spirit.",
+      "tsw_comparator": "Do not quench the Spirit,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:20",
+      "delta": "F3",
+      "rationale": "Preserves the plural utterances and prohibition.",
+      "source_reference": "1Thess 5:20",
+      "source_verse_sha256": "262d833f3503578811818883e0b3a26bfba86f36c5abff289ade61cfd10f1f33",
+      "before": "Do not despise prophecies,",
+      "after": "Do not despise prophecies,",
+      "tsw_comparator": "do not despise prophecies,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:21",
+      "delta": "F3",
+      "rationale": "Keeps discernment and retention as paired actions.",
+      "source_reference": "1Thess 5:21",
+      "source_verse_sha256": "1493768fcddf4b664fc917ee31986f6864e74b9fd0849a271b73d5d67fd2527f",
+      "before": "but test everything; hold fast to what is good.",
+      "after": "but test everything; hold fast to what is good.",
+      "tsw_comparator": "but test everything; hold fast to what is good,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:22",
+      "delta": "F3",
+      "rationale": "Renders form/kind without reducing the command to mere appearances.",
+      "source_reference": "1Thess 5:22",
+      "source_verse_sha256": "60108240c8919241bde21b401d45bd4b40151914b4de13bfb787affb2d424be8",
+      "before": "Stay away from every form of evil.",
+      "after": "Keep away from every kind of evil.",
+      "tsw_comparator": "abstain from every form of evil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 5:23",
+      "delta": "F3",
+      "rationale": "Preserves all three human terms, wholeness and future horizon.",
+      "source_reference": "1Thess 5:23",
+      "source_verse_sha256": "911403f18a9d7a0f36183bb1ef20cbc1d16c51b45e6263c297c117f3fc315d0f",
+      "before": "May the God of peace himself make you holy completely, and may your whole spirit, life, and body be kept blameless at the coming of our Lord Jesus Christ.",
+      "after": "Now may the God of peace himself make you holy through and through, and may your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ.",
+      "tsw_comparator": "Now may the God of peace himself sanctify you entirely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.870968,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1thessalonians/1Thessalonians_05.md",
-    "blob_sha": "76d08b204c96b2ae7d33665599b55bae5adb99d4"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

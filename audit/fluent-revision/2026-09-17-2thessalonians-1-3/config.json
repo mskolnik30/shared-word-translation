@@ -1,0 +1,118 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "2Thessalonians",
+  "slug": "2thessalonians",
+  "chapters": [
+    1,
+    2,
+    3
+  ],
+  "scope": "2 Thessalonians 1–3",
+  "expected_verses": 47,
+  "source_filename": "2thessalonians-pinned-greek.txt",
+  "book_record_files": [
+    "2_THESSALONIANS_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Thess.txt",
+    "git_blob_sha": "d73ba27f24a7d4a953242bc81d230833152c87ed",
+    "sha256": "c2a6922591a0282f5c07fe9fa47b8f38cd1aaf15b56eb9364aac91f5546f5822",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Thess.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Thess",
+    "book_verse_count": 47,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:5",
+    "1:6",
+    "1:7",
+    "1:8",
+    "1:9",
+    "1:10",
+    "2:2",
+    "2:3",
+    "2:4",
+    "2:6",
+    "2:7",
+    "2:8",
+    "2:9",
+    "2:11",
+    "2:12",
+    "2:13",
+    "2:15",
+    "2:16",
+    "3:3",
+    "3:5",
+    "3:6",
+    "3:10",
+    "3:14",
+    "3:15"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "06–10",
+          "The letter voices retributive judgment in images of affliction, fire and lasting destruction; the violence is retained as the author’s claim."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "2": {
+      "notes": [
+        [
+          "02",
+          "The pinned text says ‘day of the Lord.’"
+        ],
+        [
+          "03",
+          "The pinned text reads ‘man of lawlessness’; manuscripts also preserve a ‘sin’ reading."
+        ],
+        [
+          "06–07",
+          "The text does not identify either the restraining power or the one who restrains."
+        ],
+        [
+          "13",
+          "The pinned reading is ‘firstfruits’; another early reading can mean ‘from the beginning.’"
+        ]
+      ],
+      "vocabulary": [
+        [
+          "02",
+          "ἐνίστημι (enistēmi)",
+          "Be present or have arrived; the claim denied here is that the day is already present."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "10",
+          "The condition concerns someone unwilling to work, not a person unable to work."
+        ],
+        [
+          "14–15",
+          "The social boundary is expressly limited: the person is to be warned as family, not treated as an enemy."
+        ]
+      ],
+      "vocabulary": []
+    }
+  }
+}

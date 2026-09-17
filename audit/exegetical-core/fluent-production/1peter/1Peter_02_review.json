@@ -1,422 +1,322 @@
 {
-  "book": "1 Peter",
+  "book": "1Peter",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1peter-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1peter/1Peter_02_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Pet.txt",
-    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d"
+    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
+    "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Pet",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
   },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25
-  ],
-  "curated_f3_decisions": [
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/1peter/1Peter_02.md",
+    "before_sha256": "087bea5d8cf8100e8ffe87bb991744a62c2c10bbf7e78ae7112f7c86d06664b2",
+    "after_sha256": "ed15c19b1e842327e1cb9da639f3f8ecd1ec717222572d283d2bb4c71e97eef2",
+    "tsw_comparator_path": "books/NT/1peter/1Peter_02.md",
+    "tsw_comparator_sha256": "730eb3170f279bf20e44eead164c5ecec10c92c64a02aa36035d0ab8d178d4f2"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+  "key_decisions": [
     {
-      "location": "2:4-10",
-      "decision": "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel.",
-      "disposition": "APPROVE_QA"
+      "reference": "1Peter 2:4",
+      "delta": "F3",
+      "rationale": "Preserves paradoxical living stone and human/divine evaluations.",
+      "source_reference": "1Pet 2:4",
+      "source_verse_sha256": "276fdfce217b1d64d3dd7800a6ac862fc30e08c3b7600cd7482a9aa4f8fc421f",
+      "before": "As you come to him, a living stone rejected by men but chosen and precious in the sight of God,",
+      "after": "As you come to him, a living stone rejected by people but chosen and honored by God,",
+      "tsw_comparator": "As you come to him, a living stone rejected by men but chosen and precious in the sight of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING"
     },
     {
-      "location": "2:11-3:7",
-      "decision": "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse.",
-      "disposition": "APPROVE_QA"
+      "reference": "1Peter 2:5",
+      "delta": "F3",
+      "rationale": "Keeps building, priestly and sacrificial images.",
+      "source_reference": "1Pet 2:5",
+      "source_verse_sha256": "8c21ec2cf7217f801b1705a19b6aabf11f3c6b0da121252a04f33d728170ded0",
+      "before": "you yourselves, like living stones, are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.",
+      "after": "you yourselves, like living stones, are being built into a spiritual house, to be a holy priesthood offering spiritual sacrifices acceptable to God through Jesus Christ.",
+      "tsw_comparator": "you yourselves, like living stones, are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:6",
+      "delta": "F3",
+      "rationale": "Retains Zion, cornerstone and emphatic promise.",
+      "source_reference": "1Pet 2:6",
+      "source_verse_sha256": "06b09b129b07154e8f92da74f843c0c0fc6834c9a2646937c00a6be799d0d245",
+      "before": "For it stands in Scripture: “Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.”",
+      "after": "For Scripture contains this: “Look, I lay in Zion a chosen and honored cornerstone, and the one who believes in him will never be put to shame.”",
+      "tsw_comparator": "For it stands in Scripture: “Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.607143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:7",
+      "delta": "F3",
+      "rationale": "Keeps honor and rejection reversal.",
+      "source_reference": "1Pet 2:7",
+      "source_verse_sha256": "78d92caa9c7ba4289197b4c9302d644bb3333da04c9889033730ed1745ab5ee5",
+      "before": "So the honor is for you who believe, but for people who do not believe, “The stone that the builders rejected has become the cornerstone,”",
+      "after": "So honor belongs to you who believe. But for those who do not believe, “The stone the builders rejected has become the cornerstone,”",
+      "tsw_comparator": "So the honor is for you who believe, but for those who do not believe, “The stone that the builders rejected has become the cornerstone,”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:8",
+      "delta": "F3",
+      "rationale": "Preserves both stone images, disobedience and difficult appointment claim.",
+      "source_reference": "1Pet 2:8",
+      "source_verse_sha256": "6ce57b8a3ff5c15a9a4e053ffde72bc1b92535d17b224493e1061a12c4aef84f",
+      "before": "and “A stone of stumbling, and a rock of offense.” They stumble because they disobey the word, as they were destined to do.",
+      "after": "and, “a stone that makes people stumble and a rock that makes them fall.” They stumble because they disobey the word, to which they were also appointed.",
+      "tsw_comparator": "and “A stone of stumbling, and a rock of offense.” They stumble because they disobey the word, as they were destined to do.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:9",
+      "delta": "F3",
+      "rationale": "Keeps four corporate titles and darkness/light movement.",
+      "source_reference": "1Pet 2:9",
+      "source_verse_sha256": "3cf96ffc59c4044a1eee4af5674efdc75b670df152754bcdfca292bfd5342861",
+      "before": "But you are a chosen people, a royal priesthood, a holy nation, a people for his possession, so that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.",
+      "after": "But you are a chosen people, a royal priesthood, a holy nation, a people for God's possession, so that you may proclaim the excellencies of the one who called you out of darkness into his marvelous light.",
+      "tsw_comparator": "But you are a chosen people, a royal priesthood, a holy nation, a people for his possession, so that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.931507,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:10",
+      "delta": "F3",
+      "rationale": "Preserves paired past/present reversals.",
+      "source_reference": "1Pet 2:10",
+      "source_verse_sha256": "3ec61e3e7df3101aff19fa5a167ff98443f19239479caacf6d7eb9535f88eafb",
+      "before": "Once you were not a people, but now you are God’s people; once you had not received mercy, but now you have received mercy.",
+      "after": "Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.",
+      "tsw_comparator": "Once you were not a people, but now you are God’s people; once you had not received mercy, but now you have received mercy.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:11",
+      "delta": "F3",
+      "rationale": "Keeps alien status and military image.",
+      "source_reference": "1Pet 2:11",
+      "source_verse_sha256": "737c4f72d208329affb7f29ca287ed997600696863102c0aabbef8c43464aa90",
+      "before": "Beloved, I urge you as sojourners and exiles to abstain from the desires of the flesh, which wage war against the soul.",
+      "after": "Beloved, I urge you as foreigners and temporary residents to abstain from fleshly desires that wage war against your life.",
+      "tsw_comparator": "Beloved, I urge you as sojourners and exiles to abstain from the desires of the flesh, which wage war against the soul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.619048,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:12",
+      "delta": "F3",
+      "rationale": "Retains accusation, visible acts and visitation.",
+      "source_reference": "1Pet 2:12",
+      "source_verse_sha256": "686f8c64ebd84bb622f9d698541bac7b5f2d736c6ec5931a87c3a26764cd76d3",
+      "before": "Keep your conduct among the nations honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.",
+      "after": "Maintain honorable conduct among the nations so that, where they accuse you as evildoers, they may observe your good works and glorify God on the day he visits.",
+      "tsw_comparator": "Keep your conduct among the nations honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.689655,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:13",
+      "delta": "F3",
+      "rationale": "Keeps political submission and highest ruler.",
+      "source_reference": "1Pet 2:13",
+      "source_verse_sha256": "bc9e71b3c3fe6d324f4b6d4cd1539fdf490e4e99d73386f205b4ef775abb8cc6",
+      "before": "Be subject for the Lord’s sake to every human institution, whether to the emperor as supreme,",
+      "after": "For the Lord's sake, submit to every human institution, whether to the emperor as supreme",
+      "tsw_comparator": "Be subject for the Lord’s sake to every human institution, whether to the emperor as supreme,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:14",
+      "delta": "F3",
+      "rationale": "Preserves delegated punitive and commendatory roles.",
+      "source_reference": "1Pet 2:14",
+      "source_verse_sha256": "2577480e4f2fcfa93243a7e4cd5ef551fc76a60f6770a24a75e2b57d546f900d",
+      "before": "or to governors as sent by him to punish people who do wrong and to praise people who do right.",
+      "after": "or to governors sent by him to punish evildoers and praise those who do good.",
+      "tsw_comparator": "or to governors as sent by him to punish those who do wrong and to praise those who do right.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:15",
+      "delta": "F3",
+      "rationale": "Keeps moral action as answer to accusation.",
+      "source_reference": "1Pet 2:15",
+      "source_verse_sha256": "ce9e2f3bc6a11580031fc7b3a6cbf39293ef29d9e72c917ee1e51858a2f6f31d",
+      "before": "For this is the will of God, that by doing good you should silence the ignorance of foolish people.",
+      "after": "For this is God's will: by doing good, silence the ignorance of foolish people.",
+      "tsw_comparator": "For this is the will of God, that by doing good you should silence the ignorance of foolish people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:16",
+      "delta": "F3",
+      "rationale": "Preserves freedom/slavery paradox and concealment warning.",
+      "source_reference": "1Pet 2:16",
+      "source_verse_sha256": "983569a77c7fa251e688955723915aacc116fbca738d6f9185256dc4b2809668",
+      "before": "Live as people who are free, not using your freedom as a cover for evil, but living as servants of God.",
+      "after": "Live as free people, but do not use freedom as a cover for evil; live as God's slaves.",
+      "tsw_comparator": "Live as people who are free, not using your freedom as a cover for evil, but living as servants of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.564103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:17",
+      "delta": "F3",
+      "rationale": "Keeps four concise commands and distinguishes fear from honor.",
+      "source_reference": "1Pet 2:17",
+      "source_verse_sha256": "c3c95594ad87d8b0ea72692e38a8be5fa481200998052a91081bf9a704e3abf9",
+      "before": "Honor everyone. Love the brotherhood. Fear God. Honor the emperor.",
+      "after": "Honor everyone, love the family of believers, fear God and honor the emperor.",
+      "tsw_comparator": "Honor everyone. Love the brotherhood. Fear God. Honor the emperor.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:18",
+      "delta": "F3",
+      "rationale": "Names slavery, masters and unjust treatment directly.",
+      "source_reference": "1Pet 2:18",
+      "source_verse_sha256": "6fa097a1251df5d30ea4b60f6db7f41b804a4d12252cac660e4f5ab14f9cc763",
+      "before": "Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust.",
+      "after": "Household slaves, submit with full fear to your masters—not only to the good and gentle but also to the cruel.",
+      "tsw_comparator": "Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:19",
+      "delta": "F3",
+      "rationale": "Retains suffering's injustice and Godward conscience.",
+      "source_reference": "1Pet 2:19",
+      "source_verse_sha256": "3063d1011cfaa03a02a0d0e33cd6532ece03d59ab2e65d49278633a6433c71ba",
+      "before": "For this is a gracious thing, when mindful of God, one endures sorrows while suffering unjustly.",
+      "after": "For it is commendable if someone endures painful suffering unjustly because of consciousness of God.",
+      "tsw_comparator": "For this is a gracious thing, when mindful of God, one endures sorrows while suffering unjustly.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.322581,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:20",
+      "delta": "F3",
+      "rationale": "Keeps physical abuse, ethical contrast and divine evaluation.",
+      "source_reference": "1Pet 2:20",
+      "source_verse_sha256": "2f3455b8fad6c862ec10bae28eb1936c807354d9434522b9944cb58101344a49",
+      "before": "For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God.",
+      "after": "What credit is there if you endure beatings for sinning? But if you endure suffering for doing good, this is commendable before God.",
+      "tsw_comparator": "For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.42623,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:21",
+      "delta": "F3",
+      "rationale": "Preserves call, representative suffering and footsteps.",
+      "source_reference": "1Pet 2:21",
+      "source_verse_sha256": "026ddd99fcd843bab1819ce025940295b10ce1400edbfee4eb28e4cdfc4bfcdc",
+      "before": "For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps.",
+      "after": "For you were called to this, because Christ also suffered for you, leaving you an example so that you might follow in his steps.",
+      "tsw_comparator": "For to this you have been called, because Christ also suffered for you, leaving you an example, so that you might follow in his steps.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:23",
+      "delta": "F3",
+      "rationale": "Retains nonretaliation and divine judgment.",
+      "source_reference": "1Pet 2:23",
+      "source_verse_sha256": "2225fc3098eb4b1c71f59732ed47c27e81b204e1e1928a17b2f114172e4e5e2c",
+      "before": "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but entrusted himself to the one who judges justly.",
+      "after": "When insulted, he did not insult in return; when suffering, he made no threats, but entrusted himself to the one who judges justly.",
+      "tsw_comparator": "When he was reviled, he did not revile in return; when he suffered, he did not threaten, but entrusted himself to the one who judges justly.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693878,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:24",
+      "delta": "F3",
+      "rationale": "Keeps body, execution tree, death/life and singular wound.",
+      "source_reference": "1Pet 2:24",
+      "source_verse_sha256": "874d6db5d95188e3e2c8f1f96d34f1d590778e2c8b93cba74f521d953ef9f987",
+      "before": "He himself bore our sins in his body on the tree, so that we might die to sin and live to righteousness. By his wounds you have been healed.",
+      "after": "He himself bore our sins in his body on the tree, so that, having died to sins, we might live for righteousness. By his wound you were healed.",
+      "tsw_comparator": "He himself bore our sins in his body on the tree, so that we might die to sin and live to righteousness. By his wounds you have been healed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.736842,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 2:25",
+      "delta": "F3",
+      "rationale": "Retains animal image and both care titles.",
+      "source_reference": "1Pet 2:25",
+      "source_verse_sha256": "5b497e5b7aecc2e9989407876617765ae9a435d616f7085dc41b2e72ef302e0d",
+      "before": "For you were straying like sheep, but have now returned to the shepherd and overseer of your souls.",
+      "after": "For you were straying like sheep, but now you have returned to the shepherd and overseer of your lives.",
+      "tsw_comparator": "For you were straying like sheep, but have now returned to the shepherd and overseer of your souls.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
     }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Pet.txt",
-    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Peter 2:1",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 1,
-            "source_ref": "1 Peter 2:1",
-            "segment_mode": "whole",
-            "sha256": "be31e894644c0ab0b399896fd0a492d2d0996a0192738e3b62a498f585b5a9a2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "be31e894644c0ab0b399896fd0a492d2d0996a0192738e3b62a498f585b5a9a2"
-      },
-      "2": {
-        "source_ref": "1 Peter 2:2",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 2,
-            "source_ref": "1 Peter 2:2",
-            "segment_mode": "whole",
-            "sha256": "d14ec270b3175ece096caed20b1647d9c1a5a1967d79017a0086c49e8a9562d1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d14ec270b3175ece096caed20b1647d9c1a5a1967d79017a0086c49e8a9562d1"
-      },
-      "3": {
-        "source_ref": "1 Peter 2:3",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 3,
-            "source_ref": "1 Peter 2:3",
-            "segment_mode": "whole",
-            "sha256": "662f99296a705a49871876dfadebb21598aa6e307b16540a6e3699467e1357c9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "662f99296a705a49871876dfadebb21598aa6e307b16540a6e3699467e1357c9"
-      },
-      "4": {
-        "source_ref": "1 Peter 2:4",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 4,
-            "source_ref": "1 Peter 2:4",
-            "segment_mode": "whole",
-            "sha256": "734591d8a800870a7b8aca30dfe59945a7ec53a17e304e4f8696bebb66a12149"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "734591d8a800870a7b8aca30dfe59945a7ec53a17e304e4f8696bebb66a12149"
-      },
-      "5": {
-        "source_ref": "1 Peter 2:5",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 5,
-            "source_ref": "1 Peter 2:5",
-            "segment_mode": "whole",
-            "sha256": "49df15fd0271a690cbbe3553ef6ca291f0ce7da8e531aebd34215c19dbd036e3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "49df15fd0271a690cbbe3553ef6ca291f0ce7da8e531aebd34215c19dbd036e3"
-      },
-      "6": {
-        "source_ref": "1 Peter 2:6",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 6,
-            "source_ref": "1 Peter 2:6",
-            "segment_mode": "whole",
-            "sha256": "0af3292838edfbc5a03a33349f9fdae8d5afd6b127bfafca18613721f6f73c39"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0af3292838edfbc5a03a33349f9fdae8d5afd6b127bfafca18613721f6f73c39"
-      },
-      "7": {
-        "source_ref": "1 Peter 2:7",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 7,
-            "source_ref": "1 Peter 2:7",
-            "segment_mode": "whole",
-            "sha256": "f041ab8b85aff5410ba0ab289639f13b9efb27dccc73b7fa1f5ba3ac940a3d0f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f041ab8b85aff5410ba0ab289639f13b9efb27dccc73b7fa1f5ba3ac940a3d0f"
-      },
-      "8": {
-        "source_ref": "1 Peter 2:8",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 8,
-            "source_ref": "1 Peter 2:8",
-            "segment_mode": "whole",
-            "sha256": "15502c33cfb7a7609748b2ec9d24f8c55ba06c095c98b68bba8ae515524d77f6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "15502c33cfb7a7609748b2ec9d24f8c55ba06c095c98b68bba8ae515524d77f6"
-      },
-      "9": {
-        "source_ref": "1 Peter 2:9",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 9,
-            "source_ref": "1 Peter 2:9",
-            "segment_mode": "whole",
-            "sha256": "9bcebfcf692c4deafac84a2a6986ec6aee652e2dd5488ddfce15d809478b0ca8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9bcebfcf692c4deafac84a2a6986ec6aee652e2dd5488ddfce15d809478b0ca8"
-      },
-      "10": {
-        "source_ref": "1 Peter 2:10",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 10,
-            "source_ref": "1 Peter 2:10",
-            "segment_mode": "whole",
-            "sha256": "b8a6f3f2d65d0efb9387e328dabb36a1581e80492cc28531d506b80fd00139f3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b8a6f3f2d65d0efb9387e328dabb36a1581e80492cc28531d506b80fd00139f3"
-      },
-      "11": {
-        "source_ref": "1 Peter 2:11",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 11,
-            "source_ref": "1 Peter 2:11",
-            "segment_mode": "whole",
-            "sha256": "ced5b6b4df6b5336d30400a7b4c7ad80b1d771972330aaaf91f55f93adfa5d01"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ced5b6b4df6b5336d30400a7b4c7ad80b1d771972330aaaf91f55f93adfa5d01"
-      },
-      "12": {
-        "source_ref": "1 Peter 2:12",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 12,
-            "source_ref": "1 Peter 2:12",
-            "segment_mode": "whole",
-            "sha256": "327e81b139069475b370e20526f71b96fb0ca9febade71e553fddb90d228b56c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "327e81b139069475b370e20526f71b96fb0ca9febade71e553fddb90d228b56c"
-      },
-      "13": {
-        "source_ref": "1 Peter 2:13",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 13,
-            "source_ref": "1 Peter 2:13",
-            "segment_mode": "whole",
-            "sha256": "c8eb880bfec2c24085b2a4cbcc3046630e4e72437b88470c17897b1917dff1c6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c8eb880bfec2c24085b2a4cbcc3046630e4e72437b88470c17897b1917dff1c6"
-      },
-      "14": {
-        "source_ref": "1 Peter 2:14",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 14,
-            "source_ref": "1 Peter 2:14",
-            "segment_mode": "whole",
-            "sha256": "c5acc4837552b416568747423b452524655f1b26cccf5d535b4cb9e23faf7ee9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c5acc4837552b416568747423b452524655f1b26cccf5d535b4cb9e23faf7ee9"
-      },
-      "15": {
-        "source_ref": "1 Peter 2:15",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 15,
-            "source_ref": "1 Peter 2:15",
-            "segment_mode": "whole",
-            "sha256": "23700d9add93559cc3f58ce555ae358e871ef6af2be9590c39f691ecc0bd600d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "23700d9add93559cc3f58ce555ae358e871ef6af2be9590c39f691ecc0bd600d"
-      },
-      "16": {
-        "source_ref": "1 Peter 2:16",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 16,
-            "source_ref": "1 Peter 2:16",
-            "segment_mode": "whole",
-            "sha256": "33864d78b5e0a10c8801a9ca2cda2e1bc3ffe6d09f27e0f88dc622895b815859"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "33864d78b5e0a10c8801a9ca2cda2e1bc3ffe6d09f27e0f88dc622895b815859"
-      },
-      "17": {
-        "source_ref": "1 Peter 2:17",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 17,
-            "source_ref": "1 Peter 2:17",
-            "segment_mode": "whole",
-            "sha256": "18636d67990acea09e0ea4657e601db5cf640c5867a110dac975b0b08fe20132"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "18636d67990acea09e0ea4657e601db5cf640c5867a110dac975b0b08fe20132"
-      },
-      "18": {
-        "source_ref": "1 Peter 2:18",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 18,
-            "source_ref": "1 Peter 2:18",
-            "segment_mode": "whole",
-            "sha256": "0a358dc1816c41bbfc86a4050303de15d04d84ec6ca5e523757d94c93a9a8df6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0a358dc1816c41bbfc86a4050303de15d04d84ec6ca5e523757d94c93a9a8df6"
-      },
-      "19": {
-        "source_ref": "1 Peter 2:19",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 19,
-            "source_ref": "1 Peter 2:19",
-            "segment_mode": "whole",
-            "sha256": "f55335e12b327158dd6cd195c4bf8bb6795d66591f331fb07452294a47435d18"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f55335e12b327158dd6cd195c4bf8bb6795d66591f331fb07452294a47435d18"
-      },
-      "20": {
-        "source_ref": "1 Peter 2:20",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 20,
-            "source_ref": "1 Peter 2:20",
-            "segment_mode": "whole",
-            "sha256": "ed6c9053f558f72a2986bbfc55322895c0b491c2e8b1f116392214ad8a424e8e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ed6c9053f558f72a2986bbfc55322895c0b491c2e8b1f116392214ad8a424e8e"
-      },
-      "21": {
-        "source_ref": "1 Peter 2:21",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 21,
-            "source_ref": "1 Peter 2:21",
-            "segment_mode": "whole",
-            "sha256": "977087aca92c5126574fe9810b23b9514970f2c365cb15506ce48e4e6e1f45af"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "977087aca92c5126574fe9810b23b9514970f2c365cb15506ce48e4e6e1f45af"
-      },
-      "22": {
-        "source_ref": "1 Peter 2:22",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 22,
-            "source_ref": "1 Peter 2:22",
-            "segment_mode": "whole",
-            "sha256": "16c405a68e42faa94cb571da8c129937b25b8bb8a07a3deb8df29e8becd00460"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "16c405a68e42faa94cb571da8c129937b25b8bb8a07a3deb8df29e8becd00460"
-      },
-      "23": {
-        "source_ref": "1 Peter 2:23",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 23,
-            "source_ref": "1 Peter 2:23",
-            "segment_mode": "whole",
-            "sha256": "3d8971b9d5ce128ac7af1001200870c32889cf222270a072deef242cd78ce6aa"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3d8971b9d5ce128ac7af1001200870c32889cf222270a072deef242cd78ce6aa"
-      },
-      "24": {
-        "source_ref": "1 Peter 2:24",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 24,
-            "source_ref": "1 Peter 2:24",
-            "segment_mode": "whole",
-            "sha256": "af66ce1da2ebfee7b0bb4373322b84d3f9f3f88cf1a285a44259dc5da2895129"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af66ce1da2ebfee7b0bb4373322b84d3f9f3f88cf1a285a44259dc5da2895129"
-      },
-      "25": {
-        "source_ref": "1 Peter 2:25",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 25,
-            "source_ref": "1 Peter 2:25",
-            "segment_mode": "whole",
-            "sha256": "74fff692cf67ab5c9cd7ea93fd3777548d6cb7c798a8b0d23e30238b1906d0e4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "74fff692cf67ab5c9cd7ea93fd3777548d6cb7c798a8b0d23e30238b1906d0e4"
-      }
-    }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1peter/1Peter_02.md",
-    "blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

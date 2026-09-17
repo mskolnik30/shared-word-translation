@@ -2,230 +2,160 @@
   "book": "Hebrews",
   "chapter": 8,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_08_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 8:1",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 1,
-            "source_ref": "Hebrews 8:1",
-            "segment_mode": "whole",
-            "sha256": "490cdc615c1269c23d62d5b116a1093be71d40342b0bfebce6587773af8cc450"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "490cdc615c1269c23d62d5b116a1093be71d40342b0bfebce6587773af8cc450"
-      },
-      "2": {
-        "source_ref": "Hebrews 8:2",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 2,
-            "source_ref": "Hebrews 8:2",
-            "segment_mode": "whole",
-            "sha256": "3f1cb2912bb8e02b2c71140e66ad490c2e5f678cfca900e78f42aeb861c54114"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3f1cb2912bb8e02b2c71140e66ad490c2e5f678cfca900e78f42aeb861c54114"
-      },
-      "3": {
-        "source_ref": "Hebrews 8:3",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 3,
-            "source_ref": "Hebrews 8:3",
-            "segment_mode": "whole",
-            "sha256": "30e6b7232db7f3ac466973afbb710a2e3dd9e9c0f076823c3db132b6047d17f8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "30e6b7232db7f3ac466973afbb710a2e3dd9e9c0f076823c3db132b6047d17f8"
-      },
-      "4": {
-        "source_ref": "Hebrews 8:4",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 4,
-            "source_ref": "Hebrews 8:4",
-            "segment_mode": "whole",
-            "sha256": "b9fd31c8a7a3160ec8b4048e3a95206bd2ccde9b42b6c1c4183873402cf3aca7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b9fd31c8a7a3160ec8b4048e3a95206bd2ccde9b42b6c1c4183873402cf3aca7"
-      },
-      "5": {
-        "source_ref": "Hebrews 8:5",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 5,
-            "source_ref": "Hebrews 8:5",
-            "segment_mode": "whole",
-            "sha256": "8873ce57435c026e29e3e79b6d0429cea4cb337829496a18690877ac59e5cee2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8873ce57435c026e29e3e79b6d0429cea4cb337829496a18690877ac59e5cee2"
-      },
-      "6": {
-        "source_ref": "Hebrews 8:6",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 6,
-            "source_ref": "Hebrews 8:6",
-            "segment_mode": "whole",
-            "sha256": "0196e2d9fdf4b5f92e5576b995271f0c4d35f4a661beef137402e386920d621e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0196e2d9fdf4b5f92e5576b995271f0c4d35f4a661beef137402e386920d621e"
-      },
-      "7": {
-        "source_ref": "Hebrews 8:7",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 7,
-            "source_ref": "Hebrews 8:7",
-            "segment_mode": "whole",
-            "sha256": "e7461dae02942786773b61e83408eadb53e4b9ea959827c9390f5b9a802f5a8c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e7461dae02942786773b61e83408eadb53e4b9ea959827c9390f5b9a802f5a8c"
-      },
-      "8": {
-        "source_ref": "Hebrews 8:8",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 8,
-            "source_ref": "Hebrews 8:8",
-            "segment_mode": "whole",
-            "sha256": "597e78b207e1759f90955a4953ee7c6281cd436c118e7f7f231969535fd42221"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "597e78b207e1759f90955a4953ee7c6281cd436c118e7f7f231969535fd42221"
-      },
-      "9": {
-        "source_ref": "Hebrews 8:9",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 9,
-            "source_ref": "Hebrews 8:9",
-            "segment_mode": "whole",
-            "sha256": "3d114cef140ceb297e5c5db985a7ffbaf670d0d08ac03c1c6618149202759527"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3d114cef140ceb297e5c5db985a7ffbaf670d0d08ac03c1c6618149202759527"
-      },
-      "10": {
-        "source_ref": "Hebrews 8:10",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 10,
-            "source_ref": "Hebrews 8:10",
-            "segment_mode": "whole",
-            "sha256": "fe1d61c27e2c4fa87838e8e4208c2049aa038f6a40042ac75cee1fc6ff568554"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fe1d61c27e2c4fa87838e8e4208c2049aa038f6a40042ac75cee1fc6ff568554"
-      },
-      "11": {
-        "source_ref": "Hebrews 8:11",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 11,
-            "source_ref": "Hebrews 8:11",
-            "segment_mode": "whole",
-            "sha256": "43f66569f12a0ab571a94b87b5c6da50046881d2233358606916096fb7546e9d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "43f66569f12a0ab571a94b87b5c6da50046881d2233358606916096fb7546e9d"
-      },
-      "12": {
-        "source_ref": "Hebrews 8:12",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 12,
-            "source_ref": "Hebrews 8:12",
-            "segment_mode": "whole",
-            "sha256": "269a96d730b3c8af962b7e7500c145a1c51fe6b7442953a641368a9d90b985c1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "269a96d730b3c8af962b7e7500c145a1c51fe6b7442953a641368a9d90b985c1"
-      },
-      "13": {
-        "source_ref": "Hebrews 8:13",
-        "source_records": [
-          {
-            "chapter": 8,
-            "verse": 13,
-            "source_ref": "Hebrews 8:13",
-            "segment_mode": "whole",
-            "sha256": "7afe592bd9b65683d8739ead42abba19777abc8b6402c1a0045df7f4969be868"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7afe592bd9b65683d8739ead42abba19777abc8b6402c1a0045df7f4969be868"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 8,
+    "verse_count": 13,
+    "path": "translations/fluent/NT/hebrews/Hebrews_08.md",
+    "before_sha256": "330dea4a01e3c3ed436607a539cf533edbd2f947458a5dd99be5bf055f7f6779",
+    "after_sha256": "ebaa26fc6a72017eba644bb8b352b294db86151d055436d705a940e6e97b8edf",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_08.md",
+    "tsw_comparator_sha256": "c695060572c173fad94c415ecaecf79df56d81dde724c2f07ebf892a1ea2b446"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 8:5",
+      "delta": "F3",
+      "rationale": "Retains copy/shadow, Moses, mountain and pattern.",
+      "source_reference": "Heb 8:5",
+      "source_verse_sha256": "e82a5709f4a63668c1ad51f62f918a0182e70f88ad7373374878b746ed46ef89",
+      "before": "They serve a copy and shadow of the heavenly things. For when Moses was about to erect the tent, he was instructed by God, saying, “See that you make everything according to the pattern that was shown you on the mountain.”",
+      "after": "They serve a copy and shadow of the heavenly things, just as Moses was warned when he was about to complete the tent: “See that you make everything according to the pattern shown to you on the mountain.”",
+      "tsw_comparator": "They serve a copy and shadow of the heavenly things. For when Moses was about to erect the tent, he was instructed by God, saying, “See that you make everything according to the pattern that was shown you on the mountain.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.759494,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:7",
+      "delta": "F3",
+      "rationale": "Preserves conditional comparative logic.",
+      "source_reference": "Heb 8:7",
+      "source_verse_sha256": "15f8ba88dc1820d460698b88efd87b82c64a581eb8c39edec18acd847cabb34f",
+      "before": "For if that first covenant had been faultless, there would have been no occasion to look for a second.",
+      "after": "For if that first covenant had been faultless, no place would have been sought for a second.",
+      "tsw_comparator": "For if that first covenant had been faultless, there would have been no occasion to look for a second.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:8",
+      "delta": "F3",
+      "rationale": "Follows the pinned ‘them’ reading and retains both named houses.",
+      "source_reference": "Heb 8:8",
+      "source_verse_sha256": "06d4088a1c13b60706c1d857be58e3ae873e44f4a30ebf8f04f7a0085ca19694",
+      "before": "For he finds fault with them when he says: “Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,",
+      "after": "But finding fault with them, God says, “Look, days are coming, says the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah.",
+      "tsw_comparator": "For he finds fault with them when he says: “Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.80597,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:9",
+      "delta": "F3",
+      "rationale": "Keeps handholding exodus image, failure and divine response.",
+      "source_reference": "Heb 8:9",
+      "source_verse_sha256": "929fed28fd5fa46e8faaee7661e9ca2240935f0848f6993ceaba41d23347ec4f",
+      "before": "not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, for they did not continue in my covenant, and so I showed no concern for them, declares the Lord.",
+      "after": "It will not be like the covenant I made with their ancestors on the day I took them by the hand to lead them out of Egypt, because they did not remain in my covenant, and I disregarded them, says the Lord.",
+      "tsw_comparator": "not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt, for they did not continue in my covenant, and so I showed no concern for them, declares the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.733333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:10",
+      "delta": "F3",
+      "rationale": "Preserves inward writing and reciprocal covenant relation.",
+      "source_reference": "Heb 8:10",
+      "source_verse_sha256": "10b853be87327020739fc21bf0f59a9fe5152acf5f3e1206385aca151d8f019d",
+      "before": "For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people.",
+      "after": "For this is the covenant I will make with the house of Israel after those days, says the Lord: I will put my laws into their minds and write them on their hearts. I will be their God, and they will be my people.",
+      "tsw_comparator": "For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:11",
+      "delta": "F3",
+      "rationale": "Keeps universal knowledge and social range.",
+      "source_reference": "Heb 8:11",
+      "source_verse_sha256": "13f3720430722ab3af7249b4a5eaea297653270d46c02b64ac8fd6d2989bc828",
+      "before": "And they will not teach, each person his neighbor and each one his brother, saying, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest.",
+      "after": "No one will teach a fellow citizen or a brother or sister, saying, ‘Know the Lord,’ because they will all know me, from the least to the greatest.",
+      "tsw_comparator": "And they shall not teach, each one his neighbor and each one his brother, saying, ‘Know the Lord,’ for they shall all know me, from the least of them to the greatest.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.533333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:12",
+      "delta": "F3",
+      "rationale": "Retains mercy and deliberate nonremembrance.",
+      "source_reference": "Heb 8:12",
+      "source_verse_sha256": "c33c8169f95459412d799fbb1c357c03b535c9e7d29c7166342e5f8d91b1e7a8",
+      "before": "For I will be merciful toward their iniquities, and I will remember their sins no more.”",
+      "after": "For I will be merciful toward their wrongdoings and will remember their sins no more.”",
+      "tsw_comparator": "For I will be merciful toward their iniquities, and I will remember their sins no more.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.903226,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 8:13",
+      "delta": "F3",
+      "rationale": "Keeps aging/disappearance imagery and temporal process.",
+      "source_reference": "Heb 8:13",
+      "source_verse_sha256": "cb2ad01d1ce5e6a1eccf31b68bc0ff1c53572a9d1609f3cb8ee0ee9b602e85f6",
+      "before": "In speaking of a new covenant, he makes the first obsolete. And what is becoming obsolete and growing old is ready to vanish away.",
+      "after": "By speaking of a “new” covenant, he has made the first obsolete; and what is becoming obsolete and growing old is near disappearance.",
+      "tsw_comparator": "In speaking of a new covenant, he makes the first obsolete. And what is becoming obsolete and growing old is ready to vanish away.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_08.md",
-    "blob_sha": "099c912d99dbaa3f31ab658ab65ac7eaa5248ded"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

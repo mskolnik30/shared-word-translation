@@ -1,0 +1,341 @@
+{
+  "scope": "Titus 1–3",
+  "verses": 46,
+  "summary": {
+    "before": {
+      "identical": 1,
+      "near_identical_nonidentical": 3,
+      "mean_word_similarity": 0.737893
+    },
+    "after": {
+      "identical": 1,
+      "near_identical_nonidentical": 5,
+      "mean_word_similarity": 0.725915
+    }
+  },
+  "rows": [
+    {
+      "reference": "Titus 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.736842,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "Titus 1:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.645161
+    },
+    {
+      "reference": "Titus 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.808511,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "Titus 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.952381
+    },
+    {
+      "reference": "Titus 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.814815,
+      "after_similarity": 0.68
+    },
+    {
+      "reference": "Titus 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.170213,
+      "after_similarity": 0.222222
+    },
+    {
+      "reference": "Titus 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.627451
+    },
+    {
+      "reference": "Titus 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.608696,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Titus 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.633333
+    },
+    {
+      "reference": "Titus 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Titus 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.65,
+      "after_similarity": 0.615385
+    },
+    {
+      "reference": "Titus 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8125,
+      "after_similarity": 0.685714
+    },
+    {
+      "reference": "Titus 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "Titus 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.848485,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "Titus 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.730769,
+      "after_similarity": 0.693878
+    },
+    {
+      "reference": "Titus 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.837209,
+      "after_similarity": 0.904762
+    },
+    {
+      "reference": "Titus 2:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.470588,
+      "after_similarity": 0.5
+    },
+    {
+      "reference": "Titus 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.787879,
+      "after_similarity": 0.823529
+    },
+    {
+      "reference": "Titus 2:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.755556
+    },
+    {
+      "reference": "Titus 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.769231,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Titus 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.723404,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Titus 2:6",
+      "before_identical": false,
+      "after_identical": true,
+      "before_similarity": 0.941176,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "Titus 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.444444,
+      "after_similarity": 0.555556
+    },
+    {
+      "reference": "Titus 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.956522,
+      "after_similarity": 0.818182
+    },
+    {
+      "reference": "Titus 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.648649,
+      "after_similarity": 0.722222
+    },
+    {
+      "reference": "Titus 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "Titus 2:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Titus 2:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.837209
+    },
+    {
+      "reference": "Titus 2:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.820513,
+      "after_similarity": 0.789474
+    },
+    {
+      "reference": "Titus 2:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.716981,
+      "after_similarity": 0.730769
+    },
+    {
+      "reference": "Titus 2:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.714286
+    },
+    {
+      "reference": "Titus 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.918919,
+      "after_similarity": 0.810811
+    },
+    {
+      "reference": "Titus 3:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.411765
+    },
+    {
+      "reference": "Titus 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "Titus 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "Titus 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.847458,
+      "after_similarity": 0.862069
+    },
+    {
+      "reference": "Titus 3:6",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "Titus 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.842105,
+      "after_similarity": 0.971429
+    },
+    {
+      "reference": "Titus 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.710526,
+      "after_similarity": 0.710526
+    },
+    {
+      "reference": "Titus 3:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "Titus 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.432432,
+      "after_similarity": 0.125
+    },
+    {
+      "reference": "Titus 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "Titus 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "Titus 3:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "Titus 3:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.590909,
+      "after_similarity": 0.590909
+    },
+    {
+      "reference": "Titus 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.682927,
+      "after_similarity": 0.7
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}

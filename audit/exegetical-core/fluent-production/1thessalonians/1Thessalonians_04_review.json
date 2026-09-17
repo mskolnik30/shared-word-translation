@@ -1,147 +1,140 @@
 {
-  "book": "1 Thessalonians",
+  "book": "1Thessalonians",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 18,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1thessalonians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1thessalonians/1Thessalonians_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Thess.txt",
     "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Thessalonians 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "35514573f6198cb8d0dfcee22b3742c28025f09e77729ce2e0b9b3a4828562e6"
-      },
-      "2": {
-        "source_ref": "1 Thessalonians 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "e5b5f31353023227cca534a37bd585d1b934cd15966a98a1144735879092577d"
-      },
-      "3": {
-        "source_ref": "1 Thessalonians 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "9ecbe1a26f02eea8e43906e65d701c8b5bcc9e9872cc2c8498aaf873c02ef458"
-      },
-      "4": {
-        "source_ref": "1 Thessalonians 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "cb7ff03eeaffdbcc5e4d1035a8713f7ceb4fa3303fc17159847e2103438ec771"
-      },
-      "5": {
-        "source_ref": "1 Thessalonians 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "618d3ffefe463c4012b86c8d96bf5a7c693e3ec4ca197144e91ce6c95317e55e"
-      },
-      "6": {
-        "source_ref": "1 Thessalonians 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "8637da24ad869064aef17fc239e34306e94ac51ec89713a2d959d77592398da7"
-      },
-      "7": {
-        "source_ref": "1 Thessalonians 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "409fcaec0f3919be72076b8ee4c9db3a449c4ab20b790f1c9a35c01b9bcc71a0"
-      },
-      "8": {
-        "source_ref": "1 Thessalonians 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "06e0e364f59ab22e464a52f1d2c3a40da8d8137ab07b66033313140fa38338e5"
-      },
-      "9": {
-        "source_ref": "1 Thessalonians 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "5df1987800f57fe309d7a46828b9da268d061659571b8cb5ea6317cc4d440a1d"
-      },
-      "10": {
-        "source_ref": "1 Thessalonians 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "dc3f6a4492a9d364bed76e34fc502f19be8485ec56156acd6438f15ddc69856a"
-      },
-      "11": {
-        "source_ref": "1 Thessalonians 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "6a384365ce7f7912273dc64885d24e3ca04264d47df8b3885a031692c1241ef5"
-      },
-      "12": {
-        "source_ref": "1 Thessalonians 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "6637b68c40017503dc1eec6e28eed87264b01c2a16e0f9123c448389f1baae45"
-      },
-      "13": {
-        "source_ref": "1 Thessalonians 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "a1683b08b848e4ad1a3e92a64740ebb5a82bb35a13aac01042924c182c0bef5f"
-      },
-      "14": {
-        "source_ref": "1 Thessalonians 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "9109b9c1cd607921687909e5cd1194c46cd126d878e57b3a1269202192387250"
-      },
-      "15": {
-        "source_ref": "1 Thessalonians 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "8c0427dd8cc4e572b9918a9e6302d0b923dda7d33236275d353ef9441ec18e15"
-      },
-      "16": {
-        "source_ref": "1 Thessalonians 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "0fe0efa80bf89861a6bb3076cbd411e23e3a2fcdaf90dcf58d30d52e59740821"
-      },
-      "17": {
-        "source_ref": "1 Thessalonians 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "f16fb99bfb20fc376f137346970210b95ed19dbf3e07f2129802ea641a1b4397"
-      },
-      "18": {
-        "source_ref": "1 Thessalonians 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "52ea18fa8db63ea8a2a83ccb65012724d0598a61e9fb7c7a618ced60c3c46f83"
-      }
+    "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Thess.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Thess",
+    "book_verse_count": 89,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/1thessalonians/1Thessalonians_04.md",
+    "before_sha256": "bcb382148038eec05a2f5fcd2cfbeeaa49abbb487460c31f12a25c855cfa47d1",
+    "after_sha256": "61e18f2c5de1b328777ad6338724210bf59074c8c7f4c716600c640cbc61c04a",
+    "tsw_comparator_path": "books/NT/1thessalonians/1Thessalonians_04.md",
+    "tsw_comparator_sha256": "2870d9189fea00298684ad2eb902fc1de48512fe92e3e3fe4aa2913d9e15c739"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Thessalonians 4:4",
+      "delta": "F3",
+      "rationale": "Renders the ambiguous vessel as body while preserving personal mastery; the wife alternative belongs in a note.",
+      "source_reference": "1Thess 4:4",
+      "source_verse_sha256": "3ee2cb932a3d956b2c41ab51ad158b797c82eb8e14f77245341081f24553b16d",
+      "before": "that each of you know how to control your own body in holiness and honor,",
+      "after": "that each of you know how to control your own body in holiness and honor,",
+      "tsw_comparator": "that each one of you know how to possess his own vessel in holiness and honor,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.774194,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:6",
+      "delta": "F3",
+      "rationale": "Keeps sexual/economic wrongdoing language open and warns of divine redress.",
+      "source_reference": "1Thess 4:6",
+      "source_verse_sha256": "eb83018577ca53d0604122c171c4b6836822d6bb8ba0805c34c7c10a99d150e1",
+      "before": "and that no one cross a boundary and exploit a brother or sister in this matter, because the Lord is an avenger in all these things, just as we told you before and solemnly warned you.",
+      "after": "that no one transgress and exploit a brother or sister in this matter, because the Lord is an avenger in all these things, as we told you before and solemnly warned you.",
+      "tsw_comparator": "that no one transgress and exploit his brother or sister in this matter, because the Lord is an avenger in all these things, just as we told you beforehand and solemnly warned you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:13",
+      "delta": "F3",
+      "rationale": "Retains sleep metaphor, grief and the comparison without forbidding grief itself.",
+      "source_reference": "1Thess 4:13",
+      "source_verse_sha256": "763e7766112125861c3c753b8f6c428dce5b738d66d8d6d8b78bcb2abecba0c8",
+      "before": "We do not want you to be uninformed, brothers and sisters, about those who have fallen asleep, so that you do not grieve like the rest who have no hope.",
+      "after": "We do not want you to be uninformed, brothers and sisters, about those who are sleeping, so that you do not grieve like the rest, who have no hope.",
+      "tsw_comparator": "But we do not want you to be uninformed, brothers and sisters, about those who have fallen asleep, so that you may not grieve as others do who have no hope.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.766667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:14",
+      "delta": "F3",
+      "rationale": "Keeps death explicit for Jesus and sleep for the deceased.",
+      "source_reference": "1Thess 4:14",
+      "source_verse_sha256": "76994234b8e0d2f9e8a78c403222ba07850e343bfd9399ab6568b1a982b8b364",
+      "before": "For if we trust that Jesus died and rose, in the same way God will bring with Jesus those who have fallen asleep through him.",
+      "after": "For if we believe that Jesus died and rose, in the same way God will bring with Jesus those who have fallen asleep through him.",
+      "tsw_comparator": "For if we believe that Jesus died and rose again, so also God will bring with him those who have fallen asleep through Jesus.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.77551,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:15",
+      "delta": "F3",
+      "rationale": "Preserves first-person future perspective and the sequence.",
+      "source_reference": "1Thess 4:15",
+      "source_verse_sha256": "880482e1796b10a5ae272ea116dd2c35b7211bde8d83dd36f8bd02581bcd8488",
+      "before": "For this we tell you by the Lord’s word: we who are alive and remain until the Lord’s coming will certainly not precede those who have fallen asleep.",
+      "after": "For this we tell you by a word of the Lord: we who are alive and remain until the Lord's coming will certainly not precede those who have fallen asleep.",
+      "tsw_comparator": "For this we say to you by a word of the Lord, that we who are alive, who remain until the coming of the Lord, will certainly not precede those who have fallen asleep.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:16",
+      "delta": "F3",
+      "rationale": "Keeps all three sounds, descent and first resurrection.",
+      "source_reference": "1Thess 4:16",
+      "source_verse_sha256": "1138eca1d6c67e3441275b3721f4cab5a9abd305387c24378903782be462dbb6",
+      "before": "Because the Lord himself will descend from heaven with a commanding shout, with an archangel’s voice, and with God’s trumpet, and the dead in Christ will rise first.",
+      "after": "For the Lord himself will descend from heaven with a commanding shout, with an archangel's voice and with God's trumpet, and the dead in Christ will rise first.",
+      "tsw_comparator": "For the Lord himself will descend from heaven with a command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will rise first.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.779661,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 4:17",
+      "delta": "F3",
+      "rationale": "Preserves sequence, communal catching up and meeting imagery.",
+      "source_reference": "1Thess 4:17",
+      "source_verse_sha256": "9bedbfca20d123b42e7b92d6d93aec3b65533bd4891e646212e0840782ef78bd",
+      "before": "Then we who are alive and remain will be caught up together with them in clouds to meet the Lord in the air, and so we will always be with the Lord.",
+      "after": "Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.",
+      "tsw_comparator": "Then we who are alive, who remain, will be caught up together with them in the clouds to meet the Lord in the air, and so we will always be with the Lord.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.969697,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1thessalonians/1Thessalonians_04.md",
-    "blob_sha": "4ad621ab10e2fad174d451007ba682f9f51bf63c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

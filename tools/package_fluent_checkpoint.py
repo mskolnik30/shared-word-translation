@@ -82,6 +82,7 @@ def main():
     verification=json.loads((A/'verification.json').read_text())
     assert verification['status']=='PASSED' and all(verification['cumulative_coverage'][k]==v for k,v in counts.items())
     block=q['active_fifty_chapter_block']
+    target=block['chapters_target']
     n=cfg.get('batch_chapters',len(cfg['chapters']))
     nv=cfg.get('batch_verses',cfg['expected_verses'])
     ns=cfg.get('batch_source_records',nv)
@@ -90,7 +91,7 @@ def main():
     state.update(head_commit=head,branch=branch,completed=q['completed_draft_scopes'],counts=counts,
       next_work=q['next_work'],local_checkout=str(R),parent_checkpoint_head=parent,
       parent_checkpoint_library_version=cfg['parent_library_version'],
-      latest_batch=f'Verified batch: {batch_scope}, {n} chapters and {nv} verses newly drafted. The preceding fifty-chapter block was completed before the next began. Active new block: {block["completed_chapters"]}/50 chapters, {block["remaining_chapters"]} remaining.',
+      latest_batch=f'Verified batch: {batch_scope}, {n} chapters and {nv} verses newly drafted. The preceding fifty-chapter block was completed before the next began. Active new block: {block["completed_chapters"]}/{target} chapters, {block["remaining_chapters"]} remaining.',
       latest_verification='repository/'+rel+'/verification.json',batch_preference=q['batch_preference'],
       sources=[l['source'] for l in ledgers],active_fifty_chapter_block=block,
       completed_fifty_chapter_blocks=q.get('completed_fifty_chapter_blocks',[]))
@@ -99,7 +100,7 @@ def main():
     chapters.sort(key=lambda c:(order.index(c['path'].split('/')[-2]),c['chapter']))
     reader=[f'# Fluent: cumulative revised reader\n\nEditorial draft · {counts["chapters"]} chapters · {counts["verses"]:,} verses\n\nIndependent editorial review and reader testing pending. Publication not allowed.\n']
     scope_reader=[f'# Fluent: {batch_scope}\n\nEditorial draft · {n} chapters · {nv} verses\n\nThe preceding fifty-chapter block was already complete before this active block began. The active block remains incomplete. Publication not allowed.\n']
-    active_reader=[f'# Fluent: active fifty-chapter block\n\nIN_PROGRESS · {block["completed_chapters"]}/50 chapters · {block["completed_verses"]} verses\n\nDraft-covered: {block["completed_scope"]}. Remaining: {block["remaining_scope"]}.\n\nIndependent review pending. Publication not allowed.\n']
+    active_reader=[f'# Fluent: active continuation block\n\nIN_PROGRESS · {block["completed_chapters"]}/{target} chapters · {block["completed_verses"]} verses\n\nDraft-covered: {block["completed_scope"]}. Remaining: {block["remaining_scope"]}.\n\nIndependent review pending. Publication not allowed.\n']
     batch_ledgers=cfg.get('batch_ledgers',[rel+'/'+cfg['slug']+'-verse-review.json'])
     scope_paths={c['path'] for ledger_path in batch_ledgers for c in json.loads((R/ledger_path).read_text())['chapters']}
     active_ranges=cfg.get('active_block_ranges',[])

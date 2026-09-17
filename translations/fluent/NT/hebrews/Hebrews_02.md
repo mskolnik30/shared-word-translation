@@ -4,142 +4,43 @@ testament: NT
 chapter: 2
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16
 ---
+
 
 ## Warning to Pay Attention
 
 <p>
-v01: So we must pay much closer attention to what we have heard, lest we drift away from it.
-
-v02: For since the message declared through angels proved reliable, and every transgression and disobedience received a just recompense,
-
-v03: how will we escape if we neglect so great a salvation? It was declared at first by the Lord, and it was attested to us by people who heard,
-
-v04: while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will.
+v01: Therefore, we must pay much closer attention to what we have heard, so that we do not drift away.
+v02: For if the message spoken through angels proved reliable, and every transgression and disobedience received just repayment,
+v03: how will we escape if we neglect so great a salvation? It was first spoken through the Lord and confirmed to us by those who heard him,
+v04: while God also testified with signs, wonders, various miracles and distributions of the Holy Spirit according to his will.
 </p>
 
 ## The Founder of Salvation
 
 <p>
-v05: For it was not to angels that God subjected the world to come, of which we are speaking.
-
-v06: It has been testified somewhere,
-
-“What is man, that you are mindful of him,
-
-or the son of man, that you care for him?
-
-v07: You made him for a little while lower than the angels;
-
-you have crowned him with glory and honor,
-
-v08: putting everything in subjection under his feet.”
-
-Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him.
-
-v09: But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.
-
-v10: For it was fitting that he, for whom and by whom everything exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering.
-
-v11: For he who sanctifies and people who are sanctified all have one source. That is why he is not ashamed to call them brothers and sisters,
-
-v12: saying,
-
-“I will tell of your name to my brothers;
-
-in the midst of the congregation I will sing your praise.”
-
-v13: And again,
-
-“I will put my trust in him.”
-
-And again,
-
-“Behold, I and the children God has given me.”
-
-v14: Since therefore the children share in flesh and blood, he himself likewise shared in the same things, that through death he might destroy the one who has the power of death, that is, the devil,
-
-v15: and deliver all people who through fear of death were subject to lifelong slavery.
-
-v16: For surely it is not angels that he helps, but he helps the offspring of Abraham.
-
-v17: So he had to be made like his brothers and sisters in every respect, so that he might become a merciful and faithful high priest in the service of God, to make atonement for the sins of the people.
-
-v18: For because he himself has suffered when tempted, he can help people who are being tempted.
+v05: For it was not to angels that he subjected the coming inhabited world, about which we are speaking.
+v06: But someone has testified somewhere: “What is a human being that you remember him, or a son of man that you care for him?
+v07: You made him lower than the angels for a little while; you crowned him with glory and honor
+v08: and subjected everything beneath his feet.” By subjecting everything to him, God left nothing outside his control. Yet at present we do not see everything subjected to him.
+v09: But we see Jesus, made lower than the angels for a little while, crowned with glory and honor because he suffered death, so that apart from God he might taste death for everyone.
+v10: For it was fitting that God, for whom and through whom all things exist, in bringing many sons and daughters to glory, should perfect the pioneer of their salvation through sufferings.
+v11: For the one who makes holy and those being made holy all come from one. That is why he is not ashamed to call them brothers and sisters,
+v12: saying, “I will proclaim your name to my brothers and sisters; in the midst of the assembly I will sing your praise.”
+v13: And again, “I will put my trust in him.” And again, “Here I am, with the children God gave me.”
+v14: Since the children share in blood and flesh, he too shared in the same things, so that through death he might render powerless the one who holds the power of death—that is, the devil—
+v15: and free those who were held in slavery all their lives by fear of death.
+v16: For clearly he does not take hold of angels, but he takes hold of Abraham's offspring.
+v17: Therefore, he had to become like his brothers and sisters in every way, so that he might become a merciful and faithful high priest in matters relating to God, to make atonement for the people's sins.
+v18: Because he himself suffered when tested, he is able to help those being tested.
 </p>
 
 ## Notes
 
-v01: Attention is framed as preventative; drifting is gradual.
 
-v02: Past reliability establishes present accountability.
-
-v03: Neglect, not rejection, is the concern.
-
-v04: Witness is multi-layered: human and divine.
-
-v05: The world to come is distinguished from the present.
-
-v06–08: Citation is introduced without precise source.
-
-v08: Fulfillment is partial; tension remains.
-
-v09: Identification with humanity is temporary but purposeful.
-
-v10: Suffering is presented as fitting, not accidental.
-
-v11: Unity is asserted without explanation of mechanism.
-
-v12–13: Relationship is expressed through shared identity.
-
-v14–15: Death is both means and target.
-
-v16: Scope is specified; assistance is selective.
-
-v17: Likeness enables role; role defines function.
-
-v18: Experience grounds capacity to help.
 
 ## Vocabulary
-
-v01: προσέχω (prosechō)
-“To pay attention.” To hold toward.
-
-v01: παραρρέω (pararreō)
-“To drift away.” To slip past.
-
-v02: παράβασις (parabasis)
-“Transgression.” Crossing a boundary.
-
-v03: ἀμελέω (ameleō)
-“To neglect.” To disregard.
-
-v04: σημεῖον (sēmeion)
-“Sign.” Indicator of meaning.
-
-v05: οἰκουμένη (oikoumenē)
-“World.” Inhabited order.
-
-v09: γεύομαι (geuomai)
-“To taste.” To experience.
-
-v10: ἀρχηγός (archēgos)
-“Founder.” Leader or originator.
-
-v11: ἁγιάζω (hagiazō)
-“To sanctify.” To set apart.
-
-v14: καταργέω (katargeō)
-“To destroy.” To render ineffective.
-
-v15: δουλεία (douleia)
-“Slavery.” Condition of bondage.
-
-v17: ἱερεύς (hiereus)
-“Priest.” One who mediates.
-
-v17: ἱλάσκομαι (hilaskomai)
-“To make atonement.” To deal with sin.
-
-v18: πειράζω (peirazō)
-“To tempt.” To test or try.

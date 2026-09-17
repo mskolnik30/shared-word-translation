@@ -1,133 +1,154 @@
 {
-  "book": "1 Timothy",
+  "book": "1Timothy",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 16,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1timothy-1-6-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1timothy/1Timothy_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Tim.txt",
     "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Timothy 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "816da543c4643500ad62a68190ae2ce5bbfb6b521d011eed30419892f1b2dcbd"
-      },
-      "2": {
-        "source_ref": "1 Timothy 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "d68034eb68d04ee7f8410e05e5186627b217329a521b548a9bf2ba8e72cf1f0e"
-      },
-      "3": {
-        "source_ref": "1 Timothy 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "43bb5f2cae7f4a3e1643114de230b78f022ad45bdfeff3a14d7d5a74725d5d7d"
-      },
-      "4": {
-        "source_ref": "1 Timothy 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "29bcf4a1a0f40e6c1d92a9cb25430e4f644f315a1f273fa08720c396eb1c0eff"
-      },
-      "5": {
-        "source_ref": "1 Timothy 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "37ba83c63f3cbbcb9ec3a20a9fc79ca7ef84aad81f321cb27375e4f204743c27"
-      },
-      "6": {
-        "source_ref": "1 Timothy 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "f450e998359f856ed213de658d725d74adfee2fe235a9c735376c91bf168f034"
-      },
-      "7": {
-        "source_ref": "1 Timothy 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "81e45718370fef93b806c8d2d7041da343721a8d86945000870e29239ec90655"
-      },
-      "8": {
-        "source_ref": "1 Timothy 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "9a2030cb31778e8ea017daeca1039a8b68859eaf33f98d3aa9923883b0653024"
-      },
-      "9": {
-        "source_ref": "1 Timothy 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8242aaac96c8b86b3d6746f96f308a4b73cd24669b8a7690b24350d5cd7fc6e8"
-      },
-      "10": {
-        "source_ref": "1 Timothy 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "e6621a499704e15a48795c84ed04228bb134fe65963ca902d0701ac2d35df2fd"
-      },
-      "11": {
-        "source_ref": "1 Timothy 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "905ca1acaf7cb11a88e0b737dc59fac3967b6a87e2238d2110f5465f001ee117"
-      },
-      "12": {
-        "source_ref": "1 Timothy 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "379b91340f49d0958d3a6e017b70fb96b5e0790cd57ad4384d5b610ee969b0da"
-      },
-      "13": {
-        "source_ref": "1 Timothy 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "ec78859f830926f35830c0ea6b6e301350888576423283c84533b4902f9c2766"
-      },
-      "14": {
-        "source_ref": "1 Timothy 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "c285a8914e33438e88fd40d9bd9363c78d82d5304ceaf2c386fb86ffb9d0be2b"
-      },
-      "15": {
-        "source_ref": "1 Timothy 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "cda5d0eda601f51ac23394816a7e740a85870f4d603bfa566729fa5c4064f906"
-      },
-      "16": {
-        "source_ref": "1 Timothy 3:16",
-        "source_chapter": 3,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "28b27224a215878507129962588f145ed1d9ddc614d3a1039a40d356bca5ed5d"
-      }
+    "sha256": "e4813e23b26b8b4763771b252cb41982d3af66abeead62f014e5f5f0a5323dcb",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Tim",
+    "book_verse_count": 113,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 16,
+    "path": "translations/fluent/NT/1timothy/1Timothy_03.md",
+    "before_sha256": "eaa2a616e9a7922cbabe6bcb13761df4fde0ed17da1d23ddbc3fb51f0cd81fcf",
+    "after_sha256": "b98cbe34bb59bb00bbf9c70ef8e7896efde2e3a1e96159dff1e655cf400ab81b",
+    "tsw_comparator_path": "books/NT/1timothy/1Timothy_03.md",
+    "tsw_comparator_sha256": "17e40d0c20f06f838cb58be36034084470faa7b367d4150247724a1d5ffa1311"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1timothy-1-6/1timothy-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Timothy 3:1",
+      "delta": "F3",
+      "rationale": "Retains aspiration and work rather than importing an institutional title too quickly.",
+      "source_reference": "1Tim 3:1",
+      "source_verse_sha256": "c52c2177f454b6a4fca08cf94b6aff20b6cd901bae8ae2111e4adf4304953785",
+      "before": "This saying is trustworthy: if anyone aspires to oversight, they desire a good work.",
+      "after": "This saying is trustworthy: If anyone aspires to oversight, that person desires a good work.",
+      "tsw_comparator": "The saying is trustworthy: if anyone aspires to the office of overseer, he desires a noble work.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:2",
+      "delta": "F3",
+      "rationale": "Keeps male marital idiom and the full positive list.",
+      "source_reference": "1Tim 3:2",
+      "source_verse_sha256": "caa5fdce8fd80f169b7a810c8f5d0839f99f47c6510acd0d89cee52857f0f9cd",
+      "before": "Therefore an overseer must be above accusation, faithful to one spouse, sober, self-controlled, respectable, hospitable, able to teach,",
+      "after": "Therefore, an overseer must be above reproach, a one-woman man, sober, self-controlled, respectable, hospitable and able to teach;",
+      "tsw_comparator": "Therefore the overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:4",
+      "delta": "F3",
+      "rationale": "Keeps male household headship, children and seriousness.",
+      "source_reference": "1Tim 3:4",
+      "source_verse_sha256": "0efa956f9195eec75fd776f59a6adf8d70efc8017371104ee608149cdebdd16c",
+      "before": "managing their own household well, having children who are respectful and obedient,",
+      "after": "managing his own household well and keeping his children submissive with complete dignity.",
+      "tsw_comparator": "He must manage his own household well, with all dignity keeping his children submissive,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.592593,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:5",
+      "delta": "F3",
+      "rationale": "Retains the rhetorical analogy and masculine referent.",
+      "source_reference": "1Tim 3:5",
+      "source_verse_sha256": "20e59c3abbc85abc8013279bb30bad9770a1f81c9fc7a81033cb114bdb25bc6b",
+      "before": "because if someone does not know how to care for their own household, how will they care for God’s church?",
+      "after": "For if someone does not know how to manage his own household, how will he care for God's church?",
+      "tsw_comparator": "for if someone does not know how to manage his own household, how will he care for the church of God?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:6",
+      "delta": "F3",
+      "rationale": "Keeps pride's danger and the ambiguous genitive relation to the devil.",
+      "source_reference": "1Tim 3:6",
+      "source_verse_sha256": "13e1588e7daf15880962c1ec5093549a1fb6664f2013b7f0abe7c48566f975eb",
+      "before": "The overseer must not be a recent convert, so that they do not become conceited and fall into the devil’s judgment.",
+      "after": "He must not be a recent convert, or he may become conceited and fall into the devil's condemnation.",
+      "tsw_comparator": "He must not be a recent convert, or he may become puffed up and fall into the judgment of the devil.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:11",
+      "delta": "F3",
+      "rationale": "Preserves women as the stated group without deciding between women ministers and wives.",
+      "source_reference": "1Tim 3:11",
+      "source_verse_sha256": "82a060b27d325b5028f5c57d2eb940090f7a216dcd7e578b3fa18523736d6832",
+      "before": "Women likewise must be dignified, not slanderers, sober, faithful in everything.",
+      "after": "Women likewise must be dignified, not slanderers, sober and faithful in everything.",
+      "tsw_comparator": "Likewise, women must be dignified, not slanderers, but sober-minded, faithful in all things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:12",
+      "delta": "F3",
+      "rationale": "Keeps the repeated male marital and household qualifications.",
+      "source_reference": "1Tim 3:12",
+      "source_verse_sha256": "a1db64d719a31f14213d5f97aee454e416bb93eced45d58a0e7806c8798e2b14",
+      "before": "Deacons must be faithful to one spouse, managing their children and their households well.",
+      "after": "Let ministers be one-woman men, managing their children and their own households well.",
+      "tsw_comparator": "Let servants be husbands of one wife, managing their children and their households well.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Timothy 3:16",
+      "delta": "F3",
+      "rationale": "Keeps the pinned relative pronoun and all six balanced lines.",
+      "source_reference": "1Tim 3:16",
+      "source_verse_sha256": "ec92d9e218b938f65f21f33e1533fa06d725471bbe70dfc6bf6b593186281e8b",
+      "before": "And without question, great is the mystery of godliness: He was revealed in flesh, set right in Spirit, seen by angels, proclaimed among the nations, trusted in throughout the world, taken up in glory.",
+      "after": "And undeniably great is the mystery of godliness: He was revealed in flesh, vindicated in spirit, seen by angels, proclaimed among the nations, believed in the world and taken up in glory.",
+      "tsw_comparator": "And without controversy, great is the mystery of godliness: He was revealed in the flesh, vindicated in the Spirit, seen by angels, proclaimed among the nations, believed in the world, taken up in glory.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1timothy/1Timothy_03.md",
-    "blob_sha": "87e8a0fbc5f48083d39177f7fd6fef73987051c3"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

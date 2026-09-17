@@ -1,175 +1,178 @@
 {
-  "book": "2 Timothy",
+  "book": "2Timothy",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 22,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2timothy-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/2timothy/2Timothy_04_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Tim.txt",
     "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Timothy 4:1",
-        "source_chapter": 4,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "06ed205a8303df7f35b16900a0e75f5b72494d18efbb8647bc3466dd42e2cb0a"
-      },
-      "2": {
-        "source_ref": "2 Timothy 4:2",
-        "source_chapter": 4,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "127e798b687caa8d1561d8da7c852d2de435f92b9e4727129e7016a5119305b5"
-      },
-      "3": {
-        "source_ref": "2 Timothy 4:3",
-        "source_chapter": 4,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "e5c27a8d2bc63de56b851b0100b303d6fd379f512df7de8df504b5411d79d70c"
-      },
-      "4": {
-        "source_ref": "2 Timothy 4:4",
-        "source_chapter": 4,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "71897203c0311d212438ba8d57f9c27983b57e34e08412b89890a6586c8d87d2"
-      },
-      "5": {
-        "source_ref": "2 Timothy 4:5",
-        "source_chapter": 4,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "f0dd71d601ee2c5b1941215fade7b353b19fcf0322c83795149b7568ee0f3011"
-      },
-      "6": {
-        "source_ref": "2 Timothy 4:6",
-        "source_chapter": 4,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "da0bb9a0dd84049269f0c76b5210303d79ba5c5b7f90f5a2a3030a93ec33fece"
-      },
-      "7": {
-        "source_ref": "2 Timothy 4:7",
-        "source_chapter": 4,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "d0329bfa0e4bfd13b9d6a56169670c3fe95c6ac352bf953b97a916524030647c"
-      },
-      "8": {
-        "source_ref": "2 Timothy 4:8",
-        "source_chapter": 4,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "2af9fd81bc3e7b61d81e7b54fe215afee30055633a92d9de1a84525e73babea0"
-      },
-      "9": {
-        "source_ref": "2 Timothy 4:9",
-        "source_chapter": 4,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "554a0cc1e0ba5e38ca6a69ad82f8daed286d94e636e0f3681fba67268bd71719"
-      },
-      "10": {
-        "source_ref": "2 Timothy 4:10",
-        "source_chapter": 4,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "6f66439bb9efab9ad158fea9af65e5f45ada73ddaba9f0f77a50e6fc938ef56f"
-      },
-      "11": {
-        "source_ref": "2 Timothy 4:11",
-        "source_chapter": 4,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "7b320ca28252237069548add1a6994f27969b52d291601d3836819c9138d3975"
-      },
-      "12": {
-        "source_ref": "2 Timothy 4:12",
-        "source_chapter": 4,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "8ea776c898b1fc2814d920b5ffa6e24ee86a26300aee7fe44ebb95efc044d9a0"
-      },
-      "13": {
-        "source_ref": "2 Timothy 4:13",
-        "source_chapter": 4,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "9af1886eaedec3b1eea34819c3396cb1439de0daa7dfa1c03a3c6d44f3844668"
-      },
-      "14": {
-        "source_ref": "2 Timothy 4:14",
-        "source_chapter": 4,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "19b1d9401c4da776e1761543df55b4e28c70383141faee79eec3a53584de1ec9"
-      },
-      "15": {
-        "source_ref": "2 Timothy 4:15",
-        "source_chapter": 4,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "f044bc343419f4bb2325aa2cd31ead5bf251af862eda4b9cbc1031b96faf5aa6"
-      },
-      "16": {
-        "source_ref": "2 Timothy 4:16",
-        "source_chapter": 4,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "233a3237aa0e930cf38056f0dbc13004c037eb289463ba24a457fa0f07f1c8fa"
-      },
-      "17": {
-        "source_ref": "2 Timothy 4:17",
-        "source_chapter": 4,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "fd08d7843c09cc44349694a039670cd0faff0b274000c18ba17eefe410bfad0e"
-      },
-      "18": {
-        "source_ref": "2 Timothy 4:18",
-        "source_chapter": 4,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "8ce6db80fafe7e8f8f086e0f31609296f5a3db0abb8ea26b31621e03ff927f08"
-      },
-      "19": {
-        "source_ref": "2 Timothy 4:19",
-        "source_chapter": 4,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "d2e987adbd45d97d36e917485acb5a07635d54317e5c1f4b6f04ee4d1026cba5"
-      },
-      "20": {
-        "source_ref": "2 Timothy 4:20",
-        "source_chapter": 4,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "32c193860da8463ea67ff39be45d9d90df7659949288befd7058fa3a75970d3a"
-      },
-      "21": {
-        "source_ref": "2 Timothy 4:21",
-        "source_chapter": 4,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "14bd6a27d22b6f067647e24eade6939a514ba5c67a2dd4f741fc8a031df05e05"
-      },
-      "22": {
-        "source_ref": "2 Timothy 4:22",
-        "source_chapter": 4,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "06339cb400f13d6d99aa6c9ca619533337cfa609fb236d2b28449c42b24e4380"
-      }
+    "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Tim",
+    "book_verse_count": 83,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 22,
+    "path": "translations/fluent/NT/2timothy/2Timothy_04.md",
+    "before_sha256": "0825253c51a5a317a064bb3b2c7000f7abab384b218493727e7d155809b3dfb7",
+    "after_sha256": "35262732b6e6d3f42ee4c01ef5db6b41b6825e4dfd789524e8ce5139fb93cca2",
+    "tsw_comparator_path": "books/NT/2timothy/2Timothy_04.md",
+    "tsw_comparator_sha256": "8e54fa04312402274b5a73d38877cbfd03d46434c3552d4da70a847e33b7fdbd"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Timothy 4:1",
+      "delta": "F3",
+      "rationale": "Keeps judicial role, both human groups and two future realities.",
+      "source_reference": "2Tim 4:1",
+      "source_verse_sha256": "3b10a8263377fc8c6f7d2d89f6c27e225cb953623bf23543015f51c53d2fa5fc",
+      "before": "I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and by his appearing and his kingdom:",
+      "after": "I solemnly charge you before God and Christ Jesus, who is going to judge the living and the dead, and by his appearing and his kingdom:",
+      "tsw_comparator": "I solemnly charge you in the presence of God and Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.888889,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:6",
+      "delta": "F3",
+      "rationale": "Retains sacrificial pouring and departure metaphor.",
+      "source_reference": "2Tim 4:6",
+      "source_verse_sha256": "dc32a64ff0802a2b95f401921c2db9e8107130e12858025507cb52c2756a802c",
+      "before": "For I am already being poured out as a drink offering, and the time of my departure has arrived.",
+      "after": "For I am already being poured out as a drink offering, and the time of my departure has arrived.",
+      "tsw_comparator": "For I am already being poured out as a drink offering, and the time of my departure has come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.947368,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:7",
+      "delta": "F3",
+      "rationale": "Preserves athletic/military sequence and all three completed claims.",
+      "source_reference": "2Tim 4:7",
+      "source_verse_sha256": "2635d4cdc34ec637d3d25825679973aad489c0bd98fb50a00d394b80e29afa19",
+      "before": "I have fought the good fight, I have finished the course, I have kept the trust.",
+      "after": "I have fought the good fight, finished the race and kept the faith.",
+      "tsw_comparator": "I have fought the good fight, I have finished the race, I have kept the faith.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:8",
+      "delta": "F3",
+      "rationale": "Keeps crown, judge and inclusive future award.",
+      "source_reference": "2Tim 4:8",
+      "source_verse_sha256": "e82bbfde5f9c07512fd559707c9fb4bc5acdf66db6224f391a734885884e822a",
+      "before": "From now on the crown of righteousness is reserved for me, which the Lord, the righteous judge, will give me on that day—and not only to me but also to all who have loved his appearing.",
+      "after": "From now on, the crown of righteousness is reserved for me. The Lord, the righteous judge, will award it to me on that day—and not only to me, but also to all who have loved his appearing.",
+      "tsw_comparator": "From now on there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that day—and not only to me but also to all who have loved his appearing.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:10",
+      "delta": "F3",
+      "rationale": "Preserves all names, destinations and the motive attributed only to Demas.",
+      "source_reference": "2Tim 4:10",
+      "source_verse_sha256": "032abbc5788b45598564ab60d8be518b8d2e6138d73dd5d3b22e8606b36cec6f",
+      "before": "because Demas, having loved the present age, deserted me and went to Thessalonica; Crescens went to Galatia, Titus to Dalmatia.",
+      "after": "because Demas deserted me, having loved the present age, and went to Thessalonica. Crescens went to Galatia and Titus to Dalmatia.",
+      "tsw_comparator": "for Demas, having loved the present age, has deserted me and gone to Thessalonica; Crescens has gone to Galatia, Titus to Dalmatia.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.697674,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:13",
+      "delta": "F3",
+      "rationale": "Keeps all concrete items, person and place.",
+      "source_reference": "2Tim 4:13",
+      "source_verse_sha256": "d6696da4ce195041f9f06a50341ae0cfd44642144158aa322150964d423abe1d",
+      "before": "When you come, bring the cloak I left with Carpus at Troas, and the books—especially the parchments.",
+      "after": "When you come, bring the cloak I left with Carpus at Troas, as well as the scrolls, especially the parchments.",
+      "tsw_comparator": "When you come, bring the cloak that I left with Carpus at Troas, also the scrolls, especially the parchments.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.871795,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:14",
+      "delta": "F3",
+      "rationale": "Retains identity, real harm and entrusts repayment to the Lord.",
+      "source_reference": "2Tim 4:14",
+      "source_verse_sha256": "9a1726649f4c79f896b51222b1a308fa9fd8046acfe0e7c29b423b5912c3c799",
+      "before": "Alexander the coppersmith did me great harm. The Lord will repay him according to his works.",
+      "after": "Alexander the metalworker did me great harm. The Lord will repay him according to his deeds.",
+      "tsw_comparator": "Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9375,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:16",
+      "delta": "F3",
+      "rationale": "Preserves abandonment and explicit nonretaliatory prayer.",
+      "source_reference": "2Tim 4:16",
+      "source_verse_sha256": "9afe09fdce52beec41885fdd0a65721e0f2a83c02181c18e4873078e4d922890",
+      "before": "At my first defense no one stood with me; everyone deserted me. May it not be counted against them.",
+      "after": "At my first defense no one came to stand with me; everyone deserted me. May it not be counted against them.",
+      "tsw_comparator": "At my first defense no one came to stand by me, but all deserted me. May it not be counted against them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:17",
+      "delta": "F3",
+      "rationale": "Keeps divine presence, universal hearing and dangerous animal image.",
+      "source_reference": "2Tim 4:17",
+      "source_verse_sha256": "7777463bc35b4367046210d96661a00c7e8ae21ed36d22399b61a9b3ed5a684f",
+      "before": "But the Lord stood beside me and strengthened me, so that through me the proclamation might be fully accomplished and all the Gentiles might hear. And I was rescued from the lion’s mouth.",
+      "after": "But the Lord stood beside me and strengthened me, so that through me the proclamation might be fully made and all the nations might hear. And I was rescued from the lion's mouth.",
+      "tsw_comparator": "But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear; and I was rescued from the lion’s mouth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.878788,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 4:18",
+      "delta": "F3",
+      "rationale": "Retains confidence, heavenly destination and doxology.",
+      "source_reference": "2Tim 4:18",
+      "source_verse_sha256": "ce8e76316df5ab4817ea9125f31bc19d2a650ceb2d874c47f0f5c9fd4decd257",
+      "before": "The Lord will rescue me from every evil work and save me for his heavenly kingdom. To him be glory forever and ever. Amen.",
+      "after": "The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be glory forever and ever. Amen.",
+      "tsw_comparator": "The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.980392,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2timothy/2Timothy_04.md",
-    "blob_sha": "0d05d729b24661b90b3fd82740fae1ed0295eb5e"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

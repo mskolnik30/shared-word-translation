@@ -2,320 +2,225 @@
   "book": "Hebrews",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_03_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 3:1",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 1,
-            "source_ref": "Hebrews 3:1",
-            "segment_mode": "whole",
-            "sha256": "b70dade1fa9e110890ae16154b8e46f66dd15276b542c1f761ae94c0ad460a67"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b70dade1fa9e110890ae16154b8e46f66dd15276b542c1f761ae94c0ad460a67"
-      },
-      "2": {
-        "source_ref": "Hebrews 3:2",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 2,
-            "source_ref": "Hebrews 3:2",
-            "segment_mode": "whole",
-            "sha256": "a8c1ff595d1eb2797c0e663aee585c19016a901b0afd538d639e3d4af50c0fbd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a8c1ff595d1eb2797c0e663aee585c19016a901b0afd538d639e3d4af50c0fbd"
-      },
-      "3": {
-        "source_ref": "Hebrews 3:3",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 3,
-            "source_ref": "Hebrews 3:3",
-            "segment_mode": "whole",
-            "sha256": "0788d70961efb2ec854f0d1e8f249d9506c743796c8922154f628ab5ccd98f71"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0788d70961efb2ec854f0d1e8f249d9506c743796c8922154f628ab5ccd98f71"
-      },
-      "4": {
-        "source_ref": "Hebrews 3:4",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 4,
-            "source_ref": "Hebrews 3:4",
-            "segment_mode": "whole",
-            "sha256": "772dcda90c7ed4e00ffb1c6351189e29f171054d105f08fc6cf5b0448b2a8d77"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "772dcda90c7ed4e00ffb1c6351189e29f171054d105f08fc6cf5b0448b2a8d77"
-      },
-      "5": {
-        "source_ref": "Hebrews 3:5",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 5,
-            "source_ref": "Hebrews 3:5",
-            "segment_mode": "whole",
-            "sha256": "5a50307451bc43a42483af64a0aab13c0602fdc942655b72c442550e3aaca6bc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5a50307451bc43a42483af64a0aab13c0602fdc942655b72c442550e3aaca6bc"
-      },
-      "6": {
-        "source_ref": "Hebrews 3:6",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 6,
-            "source_ref": "Hebrews 3:6",
-            "segment_mode": "whole",
-            "sha256": "5309083aa7e1d41af2ba68d478ce7f2b7e9bbd5135822f13fe0e537825627564"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5309083aa7e1d41af2ba68d478ce7f2b7e9bbd5135822f13fe0e537825627564"
-      },
-      "7": {
-        "source_ref": "Hebrews 3:7",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 7,
-            "source_ref": "Hebrews 3:7",
-            "segment_mode": "whole",
-            "sha256": "38de98f8bc747e972eef4e10aa94490e87ad06600e7c096c985e575981759978"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "38de98f8bc747e972eef4e10aa94490e87ad06600e7c096c985e575981759978"
-      },
-      "8": {
-        "source_ref": "Hebrews 3:8",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 8,
-            "source_ref": "Hebrews 3:8",
-            "segment_mode": "whole",
-            "sha256": "9382848dbfc5807bf0ae174fdfb28d99f4221c388d154a8ff79ad64edc1bf3cd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9382848dbfc5807bf0ae174fdfb28d99f4221c388d154a8ff79ad64edc1bf3cd"
-      },
-      "9": {
-        "source_ref": "Hebrews 3:9",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 9,
-            "source_ref": "Hebrews 3:9",
-            "segment_mode": "whole",
-            "sha256": "e210b3ed80bb4bd1bcad13c437fb03b57513cd555e70839bbb1498d801fbaf20"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e210b3ed80bb4bd1bcad13c437fb03b57513cd555e70839bbb1498d801fbaf20"
-      },
-      "10": {
-        "source_ref": "Hebrews 3:10",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 10,
-            "source_ref": "Hebrews 3:10",
-            "segment_mode": "whole",
-            "sha256": "bb931524354ceaa5d508b2f1c1b7564b42432d12529c88879c20793331257195"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bb931524354ceaa5d508b2f1c1b7564b42432d12529c88879c20793331257195"
-      },
-      "11": {
-        "source_ref": "Hebrews 3:11",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 11,
-            "source_ref": "Hebrews 3:11",
-            "segment_mode": "whole",
-            "sha256": "d7326393712299e60aa5de7ea3c7069a791b4dde7f7515df5ca0163ce87c7dfd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d7326393712299e60aa5de7ea3c7069a791b4dde7f7515df5ca0163ce87c7dfd"
-      },
-      "12": {
-        "source_ref": "Hebrews 3:12",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 12,
-            "source_ref": "Hebrews 3:12",
-            "segment_mode": "whole",
-            "sha256": "8edf00bfaf9c61f3f83eb07060b834818196164d4fc1c02f30cf1584915c714a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8edf00bfaf9c61f3f83eb07060b834818196164d4fc1c02f30cf1584915c714a"
-      },
-      "13": {
-        "source_ref": "Hebrews 3:13",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 13,
-            "source_ref": "Hebrews 3:13",
-            "segment_mode": "whole",
-            "sha256": "60c212d22bcd10e0da863c69c8c443d923d37cd3a6e78f95d9d2905689443175"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "60c212d22bcd10e0da863c69c8c443d923d37cd3a6e78f95d9d2905689443175"
-      },
-      "14": {
-        "source_ref": "Hebrews 3:14",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 14,
-            "source_ref": "Hebrews 3:14",
-            "segment_mode": "whole",
-            "sha256": "b2708bc5daff8b54d4155a93bb689c9292312011f15ecd56e35c1a696cb8acac"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b2708bc5daff8b54d4155a93bb689c9292312011f15ecd56e35c1a696cb8acac"
-      },
-      "15": {
-        "source_ref": "Hebrews 3:15",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 15,
-            "source_ref": "Hebrews 3:15",
-            "segment_mode": "whole",
-            "sha256": "44525d94add6bdf8f565693449c240b49266a82ac69cd5f3b38466525b27e1b1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "44525d94add6bdf8f565693449c240b49266a82ac69cd5f3b38466525b27e1b1"
-      },
-      "16": {
-        "source_ref": "Hebrews 3:16",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 16,
-            "source_ref": "Hebrews 3:16",
-            "segment_mode": "whole",
-            "sha256": "e27313ad0d9bfcd5402c9ca1b6b5f9ba624e3eb966b7fba5d2733011d0a45bc8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e27313ad0d9bfcd5402c9ca1b6b5f9ba624e3eb966b7fba5d2733011d0a45bc8"
-      },
-      "17": {
-        "source_ref": "Hebrews 3:17",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 17,
-            "source_ref": "Hebrews 3:17",
-            "segment_mode": "whole",
-            "sha256": "db38f4174b7639e0316a5538d5c8926d429f33edc5e3945931b2413a7cf159ea"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db38f4174b7639e0316a5538d5c8926d429f33edc5e3945931b2413a7cf159ea"
-      },
-      "18": {
-        "source_ref": "Hebrews 3:18",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 18,
-            "source_ref": "Hebrews 3:18",
-            "segment_mode": "whole",
-            "sha256": "09912419f4350a41ae9ff7e7af3522c3d78558299b6c235302d850b6c7ce2144"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "09912419f4350a41ae9ff7e7af3522c3d78558299b6c235302d850b6c7ce2144"
-      },
-      "19": {
-        "source_ref": "Hebrews 3:19",
-        "source_records": [
-          {
-            "chapter": 3,
-            "verse": 19,
-            "source_ref": "Hebrews 3:19",
-            "segment_mode": "whole",
-            "sha256": "665c91d627ebe787e0ddeeab9f0611f17eb201fa02e2a59254a40ab7faeb833c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "665c91d627ebe787e0ddeeab9f0611f17eb201fa02e2a59254a40ab7faeb833c"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 19,
+    "path": "translations/fluent/NT/hebrews/Hebrews_03.md",
+    "before_sha256": "e40b7d87b14f6a891d951fe793957c11a7221477eef31251f009c760c993fd3b",
+    "after_sha256": "11491f95f35e52a94e1a28951cc64e99912aa556919a2b62959f47e560047335",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_03.md",
+    "tsw_comparator_sha256": "5729bfb419ace70713bcd78097599a720b43cf88ed202a639f29c379271af100"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 3:1",
+      "delta": "F3",
+      "rationale": "Preserves communal titles and both unusual roles of Jesus.",
+      "source_reference": "Heb 3:1",
+      "source_verse_sha256": "52024c63528f94ac37ffdb7bc120067e86e083acb795dfec549e338e161ba451",
+      "before": "So, holy brothers and sisters, sharers in a heavenly calling, consider Jesus, the apostle and high priest of our confession,",
+      "after": "Therefore, holy brothers and sisters, partners in a heavenly calling, consider Jesus, the apostle and high priest of our confession.",
+      "tsw_comparator": "Therefore, holy brothers, sharers in a heavenly calling, consider Jesus, the apostle and high priest of our confession,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.894737,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:2",
+      "delta": "F3",
+      "rationale": "Keeps appointment, Moses and house comparison.",
+      "source_reference": "Heb 3:2",
+      "source_verse_sha256": "891b2c4abd5a001f0340dfe9f21653b6a5443c5b29d81706511f3f41e031d79b",
+      "before": "who was faithful to him who appointed him, just as Moses also was faithful in all God’s house.",
+      "after": "He was faithful to the one who appointed him, just as Moses was in all God's house.",
+      "tsw_comparator": "who was faithful to him who appointed him, just as Moses also was faithful in all God’s house.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:3",
+      "delta": "F3",
+      "rationale": "Retains explicit comparison and builder analogy.",
+      "source_reference": "Heb 3:3",
+      "source_verse_sha256": "cd90ec33ea9016f3cf750b9af310078a0d1094b9ef0fd6f08d8d262d84d30260",
+      "before": "For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself.",
+      "after": "For Jesus has been considered worthy of more glory than Moses, just as the builder of a house has more honor than the house itself.",
+      "tsw_comparator": "For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:5",
+      "delta": "F3",
+      "rationale": "Preserves servant status and forward-looking witness.",
+      "source_reference": "Heb 3:5",
+      "source_verse_sha256": "11393971e267120fb040a3da1417faf669350c6dadc5026ff88586c20ada2bee",
+      "before": "Now Moses was faithful in all God’s house as a servant, to testify to the things that were to be spoken later,",
+      "after": "Moses was faithful as a servant in all God's house, testifying to what would be spoken later.",
+      "tsw_comparator": "Now Moses was faithful in all God’s house as a servant, to testify to the things that were to be spoken later,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.564103,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:6",
+      "delta": "F3",
+      "rationale": "Keeps Son/servant contrast, communal house and condition.",
+      "source_reference": "Heb 3:6",
+      "source_verse_sha256": "be1da533e5640897e8a3ecf7fcbfda220ceccd846a5b744790ea0fb8eac75930",
+      "before": "but Christ is faithful over God’s house as a son. And we are his house, if indeed we hold firmly our confidence and our boasting in hope.",
+      "after": "But Christ is faithful as a Son over God's house. And we are his house, if we hold firmly to our confidence and the hope in which we boast.",
+      "tsw_comparator": "but Christ is faithful over God’s house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in hope.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.678571,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:8",
+      "delta": "F3",
+      "rationale": "Keeps heart-hardening, rebellion and wilderness.",
+      "source_reference": "Heb 3:8",
+      "source_verse_sha256": "31350bf5b4bb0a0034ef70f74e63032ce6a480415c8be5546419a2abd35e21e7",
+      "before": "do not harden your hearts as in the rebellion, on the day of testing in the wilderness,",
+      "after": "do not harden your hearts as in the rebellion, on the day of testing in the wilderness,",
+      "tsw_comparator": "do not harden your hearts as in the rebellion, on the day of testing in the wilderness,",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:10",
+      "delta": "F3",
+      "rationale": "Keeps exact duration, anger and inward wandering.",
+      "source_reference": "Heb 3:10",
+      "source_verse_sha256": "b4120492365a7687a2173c7fb3420a03f6cbef0687ecf2977ed7c05bd83df0cd",
+      "before": "So I was provoked with that generation, and said, ‘They always go astray in their heart; they have not known my ways.’",
+      "after": "for forty years. Therefore, I was angry with that generation and said, ‘They always wander in their hearts, and they have not known my ways.’",
+      "tsw_comparator": "Therefore I was provoked with that generation, and said, ‘They always go astray in their heart; they have not known my ways.’",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.765957,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:11",
+      "delta": "F3",
+      "rationale": "Renders the oath idiom as emphatic exclusion while preserving anger and rest.",
+      "source_reference": "Heb 3:11",
+      "source_verse_sha256": "99a75b941ea097028041b221cb9331693387ba15a304e82d59e9ffd62ebe39d6",
+      "before": "As I swore in my wrath, ‘They shall not enter my rest.’”",
+      "after": "So I swore in my anger, ‘They will never enter my rest.’”",
+      "tsw_comparator": "As I swore in my wrath, ‘They shall not enter my rest.’”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:12",
+      "delta": "F3",
+      "rationale": "Keeps corporate vigilance and apostasy movement.",
+      "source_reference": "Heb 3:12",
+      "source_verse_sha256": "fad961c60e7b8b1393ff6a5481cc3b0e0bed75e87993860421ccd74e0c34c43f",
+      "before": "Take care, brothers and sisters, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God.",
+      "after": "Watch out, brothers and sisters, that none of you has an evil, unbelieving heart that turns away from the living God.",
+      "tsw_comparator": "Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:14",
+      "delta": "F3",
+      "rationale": "Keeps participation and persevering condition.",
+      "source_reference": "Heb 3:14",
+      "source_verse_sha256": "217c829ec83921783924ba63be5166b7700128a842c1f33eae061fa01f5d6c07",
+      "before": "For we have come to share in Christ, if indeed we hold our original confidence firm to the end.",
+      "after": "For we have become partners of Christ, if we hold our original confidence firm to the end.",
+      "tsw_comparator": "For we have come to share in Christ, if indeed we hold our original confidence firm to the end.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.777778,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:16",
+      "delta": "F3",
+      "rationale": "Keeps rhetorical question, exodus and Moses.",
+      "source_reference": "Heb 3:16",
+      "source_verse_sha256": "a6f34b845f95b045b4e17db5240b90d144db9747fa6af40fbf4a5e51c9a0b745",
+      "before": "For who were people who heard and yet rebelled? Was it not all people who left Egypt led by Moses?",
+      "after": "For who heard and rebelled? Was it not all those who came out of Egypt under Moses?",
+      "tsw_comparator": "For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.702703,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:17",
+      "delta": "F3",
+      "rationale": "Retains exact duration and the stark image of corpses.",
+      "source_reference": "Heb 3:17",
+      "source_verse_sha256": "4f2d568f92619c2761fd2e43c8b90f628e900eab7e322d00cb655dd8ff3ed770",
+      "before": "And with whom was he provoked for forty years? Was it not with people who sinned, whose bodies fell in the wilderness?",
+      "after": "And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?",
+      "tsw_comparator": "And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 3:18",
+      "delta": "F3",
+      "rationale": "Keeps oath, rest and disobedience.",
+      "source_reference": "Heb 3:18",
+      "source_verse_sha256": "1c294e90cd07140534476acf5a63dbe9f6128668676d29c38479bb575e87dd88",
+      "before": "And to whom did he swear that they would not enter his rest, but to people who were disobedient?",
+      "after": "And to whom did he swear that they would not enter his rest, if not to those who disobeyed?",
+      "tsw_comparator": "And to whom did he swear that they would not enter his rest, but to those who were disobedient?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_03.md",
-    "blob_sha": "796927ae4203319d65265bb9f84708ce0aa76356"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -2,245 +2,147 @@
   "book": "Hebrews",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_05_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 5:1",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 1,
-            "source_ref": "Hebrews 5:1",
-            "segment_mode": "whole",
-            "sha256": "3b05ce2efe9c4d5e76a62d4fe7442d89532c8388cb11529b3192384f5699d5a0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3b05ce2efe9c4d5e76a62d4fe7442d89532c8388cb11529b3192384f5699d5a0"
-      },
-      "2": {
-        "source_ref": "Hebrews 5:2",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 2,
-            "source_ref": "Hebrews 5:2",
-            "segment_mode": "whole",
-            "sha256": "61dacfc1f2f51d0d2039a8135ae7b6400ad3aedbc2a6f9372358cf126a99837f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "61dacfc1f2f51d0d2039a8135ae7b6400ad3aedbc2a6f9372358cf126a99837f"
-      },
-      "3": {
-        "source_ref": "Hebrews 5:3",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 3,
-            "source_ref": "Hebrews 5:3",
-            "segment_mode": "whole",
-            "sha256": "75293a1280f7e9a894e90c17bf09b0c5db5660efdc9eddb30153efd3bdae0a37"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "75293a1280f7e9a894e90c17bf09b0c5db5660efdc9eddb30153efd3bdae0a37"
-      },
-      "4": {
-        "source_ref": "Hebrews 5:4",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 4,
-            "source_ref": "Hebrews 5:4",
-            "segment_mode": "whole",
-            "sha256": "5392bff3add8a32ae2a32146e1d41a23f7dbf9479ffff9cf5a1e48f35540f32d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5392bff3add8a32ae2a32146e1d41a23f7dbf9479ffff9cf5a1e48f35540f32d"
-      },
-      "5": {
-        "source_ref": "Hebrews 5:5",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 5,
-            "source_ref": "Hebrews 5:5",
-            "segment_mode": "whole",
-            "sha256": "4a00cafeb9159ca1dc10858ec00b3e07badcf18af459771d70f747312523e18c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4a00cafeb9159ca1dc10858ec00b3e07badcf18af459771d70f747312523e18c"
-      },
-      "6": {
-        "source_ref": "Hebrews 5:6",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 6,
-            "source_ref": "Hebrews 5:6",
-            "segment_mode": "whole",
-            "sha256": "387ddcdd4de7b7b4ff3230ea0ebd4cb1f7e97ff77571f8b4101128ba493820c9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "387ddcdd4de7b7b4ff3230ea0ebd4cb1f7e97ff77571f8b4101128ba493820c9"
-      },
-      "7": {
-        "source_ref": "Hebrews 5:7",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 7,
-            "source_ref": "Hebrews 5:7",
-            "segment_mode": "whole",
-            "sha256": "4c2f57f05ba6dda7642572089e107422fb291cdf1943c6c9e2d4d1f864a67b7d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4c2f57f05ba6dda7642572089e107422fb291cdf1943c6c9e2d4d1f864a67b7d"
-      },
-      "8": {
-        "source_ref": "Hebrews 5:8",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 8,
-            "source_ref": "Hebrews 5:8",
-            "segment_mode": "whole",
-            "sha256": "743295fb1dddbd8831c05689ae6aa22f5087749704da8bdefa228a02c03dd400"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "743295fb1dddbd8831c05689ae6aa22f5087749704da8bdefa228a02c03dd400"
-      },
-      "9": {
-        "source_ref": "Hebrews 5:9",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 9,
-            "source_ref": "Hebrews 5:9",
-            "segment_mode": "whole",
-            "sha256": "91f891a4c4ae6bee69c6ab5b7cda866496ba070804dda160e1aa55cbbb3ff062"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "91f891a4c4ae6bee69c6ab5b7cda866496ba070804dda160e1aa55cbbb3ff062"
-      },
-      "10": {
-        "source_ref": "Hebrews 5:10",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 10,
-            "source_ref": "Hebrews 5:10",
-            "segment_mode": "whole",
-            "sha256": "c81f6a7409746b0112326c81194a993be659b73f5b260ec7b652497073e2356e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c81f6a7409746b0112326c81194a993be659b73f5b260ec7b652497073e2356e"
-      },
-      "11": {
-        "source_ref": "Hebrews 5:11",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 11,
-            "source_ref": "Hebrews 5:11",
-            "segment_mode": "whole",
-            "sha256": "fbb0f28c63f418baee70fbd2168c0b8498778ed7bf6cce26a524204999340b10"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fbb0f28c63f418baee70fbd2168c0b8498778ed7bf6cce26a524204999340b10"
-      },
-      "12": {
-        "source_ref": "Hebrews 5:12",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 12,
-            "source_ref": "Hebrews 5:12",
-            "segment_mode": "whole",
-            "sha256": "15af292c5f1d692db8682aa002932cbae9bfab6f2af22e9989f71e14d31c06cb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "15af292c5f1d692db8682aa002932cbae9bfab6f2af22e9989f71e14d31c06cb"
-      },
-      "13": {
-        "source_ref": "Hebrews 5:13",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 13,
-            "source_ref": "Hebrews 5:13",
-            "segment_mode": "whole",
-            "sha256": "2e0d511d29717aad95d4562d1928ab9d7a321fa8acca02e5159e2d21448f5556"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2e0d511d29717aad95d4562d1928ab9d7a321fa8acca02e5159e2d21448f5556"
-      },
-      "14": {
-        "source_ref": "Hebrews 5:14",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 14,
-            "source_ref": "Hebrews 5:14",
-            "segment_mode": "whole",
-            "sha256": "0fb384b3ba60fe4752bc1dcd14cf0d7176dec16bea49da5b9d4c5824cdf59356"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0fb384b3ba60fe4752bc1dcd14cf0d7176dec16bea49da5b9d4c5824cdf59356"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 14,
+    "path": "translations/fluent/NT/hebrews/Hebrews_05.md",
+    "before_sha256": "bc097ab2bd7082b507f1fb8267d7f04c5e7aa1b5ea1b947b6b193160d41b8a28",
+    "after_sha256": "77523ea63368b1b85ed15b28ce5c482e23f6ac70ade229e0e075dd8da64b41cc",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_05.md",
+    "tsw_comparator_sha256": "89d049abc8b4d5b751f9ff523f69f7e6d800e591db82369e600a86dc0354439a"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 5:2",
+      "delta": "F3",
+      "rationale": "Keeps measured compassion and surrounding weakness image.",
+      "source_reference": "Heb 5:2",
+      "source_verse_sha256": "f3552186509aa2edf1be04c1e47d3d1d57ec32318bcae929d63a1c5449f5185a",
+      "before": "The high priest can deal gently with the ignorant and the wayward, since the high priest is also surrounded by weakness.",
+      "after": "He is able to deal gently with the ignorant and wandering because he himself is clothed with weakness.",
+      "tsw_comparator": "The high priest is able to deal gently with the ignorant and the wayward, since the high priest is also surrounded by weakness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.536585,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:3",
+      "delta": "F3",
+      "rationale": "Retains priestly liability and parallel offerings.",
+      "source_reference": "Heb 5:3",
+      "source_verse_sha256": "57f66784e54ac1554850f5ad0df29ad929707024abf7521691d041afdf131cee",
+      "before": "And because of this, the high priest is obligated to offer sacrifices for their own sins as well as for the people.",
+      "after": "Because of this weakness, he is obligated to offer sacrifices for his own sins as well as for the people's.",
+      "tsw_comparator": "And because of this, the high priest is obligated to offer sacrifices for their own sins as well as for the people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.761905,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:5",
+      "delta": "F3",
+      "rationale": "Preserves denied self-exaltation and filial quotation.",
+      "source_reference": "Heb 5:5",
+      "source_verse_sha256": "121310dee16406e6afae5daa9a6b5c3dd19db099690ca2a7c0a5541363558df3",
+      "before": "So also Christ did not glorify himself to become high priest, but was appointed by the one who said to him, “You are my Son; today I have begotten you,”",
+      "after": "In the same way, Christ did not glorify himself by becoming high priest. Instead, God said to him, “You are my Son; today I have fathered you.”",
+      "tsw_comparator": "So also Christ did not glorify himself to become high priest, but was appointed by the one who said to him, “You are my Son; today I have begotten you,”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.631579,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:6",
+      "delta": "F3",
+      "rationale": "Keeps eternal priesthood and unexplained named order.",
+      "source_reference": "Heb 5:6",
+      "source_verse_sha256": "987c0e1038918756b088025d6d67478b35cecf9875db437dceb6ce39258961b8",
+      "before": "just as God says also in another place, “You are a priest forever, according to the order of Melchizedek.”",
+      "after": "As he also says elsewhere, “You are a priest forever according to the order of Melchizedek.”",
+      "tsw_comparator": "just as God says also in another place, “You are a priest forever, according to the order of Melchizedek.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.742857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:7",
+      "delta": "F3",
+      "rationale": "Retains embodied life, emotional intensity and the difficult heard-despite-death claim.",
+      "source_reference": "Heb 5:7",
+      "source_verse_sha256": "b659adc324e74d1581516701888baeb86fcd23713c35c68e7db13fed07d18340",
+      "before": "In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to the one who could save him from death; and he was heard because of his reverent devotion.",
+      "after": "During the days of his flesh, he offered prayers and pleas, with loud cries and tears, to the one able to save him from death, and he was heard because of his reverent submission.",
+      "tsw_comparator": "In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to the one who was able to save him from death; and he was heard because of his reverent devotion.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.84507,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:8",
+      "delta": "F3",
+      "rationale": "Keeps sonship, learning and suffering.",
+      "source_reference": "Heb 5:8",
+      "source_verse_sha256": "a0147c6b9f517144468b48c246223f458212b9743a0d0bb3227108402e4f5eb7",
+      "before": "Although he was a Son, he learned obedience through what he suffered.",
+      "after": "Although he was a Son, he learned obedience through what he suffered.",
+      "tsw_comparator": "Although he was a Son, he learned obedience through what he suffered.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 5:9",
+      "delta": "F3",
+      "rationale": "Preserves perfection/completion and obedience.",
+      "source_reference": "Heb 5:9",
+      "source_verse_sha256": "7cfa4a0a604aebdbeab7233342297ca3ec48329ecd69b2bd246d2acb6cf4b76a",
+      "before": "And having been made complete, he became the source of eternal salvation for everyone who obey him,",
+      "after": "And having been perfected, he became the source of eternal salvation for all who obey him,",
+      "tsw_comparator": "And having been made complete, he became the source of eternal salvation for all who obey him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_05.md",
-    "blob_sha": "e730f93afcaa27b90a5a253bb6a2c1fb071e0b61"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

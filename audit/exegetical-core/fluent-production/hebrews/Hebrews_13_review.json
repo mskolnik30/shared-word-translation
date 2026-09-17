@@ -2,410 +2,264 @@
   "book": "Hebrews",
   "chapter": 13,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_13_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 13:1",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 1,
-            "source_ref": "Hebrews 13:1",
-            "segment_mode": "whole",
-            "sha256": "62143fd0fb9a16228cfab875a609f398485a3871b2ed0196f71d46987cf7825f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "62143fd0fb9a16228cfab875a609f398485a3871b2ed0196f71d46987cf7825f"
-      },
-      "2": {
-        "source_ref": "Hebrews 13:2",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 2,
-            "source_ref": "Hebrews 13:2",
-            "segment_mode": "whole",
-            "sha256": "888674a7f4442bdc642882319801a26c182cb50d9969ead15592303f2127ccf0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "888674a7f4442bdc642882319801a26c182cb50d9969ead15592303f2127ccf0"
-      },
-      "3": {
-        "source_ref": "Hebrews 13:3",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 3,
-            "source_ref": "Hebrews 13:3",
-            "segment_mode": "whole",
-            "sha256": "6d71b63828af7cb3421f6732f0533d49421ae55d6e06a830e3119a3538e623e3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d71b63828af7cb3421f6732f0533d49421ae55d6e06a830e3119a3538e623e3"
-      },
-      "4": {
-        "source_ref": "Hebrews 13:4",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 4,
-            "source_ref": "Hebrews 13:4",
-            "segment_mode": "whole",
-            "sha256": "712e4e0858fe5409e7bfcacdecc9a06e669248c63eb78e3f56d6354d9e7ea8d5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "712e4e0858fe5409e7bfcacdecc9a06e669248c63eb78e3f56d6354d9e7ea8d5"
-      },
-      "5": {
-        "source_ref": "Hebrews 13:5",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 5,
-            "source_ref": "Hebrews 13:5",
-            "segment_mode": "whole",
-            "sha256": "6f03d21367ce6fda0bd1dec3b808925d6e980289fe8f7e6b05594ef3b6c7009d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6f03d21367ce6fda0bd1dec3b808925d6e980289fe8f7e6b05594ef3b6c7009d"
-      },
-      "6": {
-        "source_ref": "Hebrews 13:6",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 6,
-            "source_ref": "Hebrews 13:6",
-            "segment_mode": "whole",
-            "sha256": "17f7bb7d9ae0023e04dae73d77eb6d552284a6476eabe3363217d3772e49786b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "17f7bb7d9ae0023e04dae73d77eb6d552284a6476eabe3363217d3772e49786b"
-      },
-      "7": {
-        "source_ref": "Hebrews 13:7",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 7,
-            "source_ref": "Hebrews 13:7",
-            "segment_mode": "whole",
-            "sha256": "af0a9cb64de3dfa13547b8611c2efb12d0acc3058ea66ada89dd2b1e98a51bb5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "af0a9cb64de3dfa13547b8611c2efb12d0acc3058ea66ada89dd2b1e98a51bb5"
-      },
-      "8": {
-        "source_ref": "Hebrews 13:8",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 8,
-            "source_ref": "Hebrews 13:8",
-            "segment_mode": "whole",
-            "sha256": "ca12b03c25d8b04139736a9ff04e3dc999efd19cac28a76207d39c20f5a0e35e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ca12b03c25d8b04139736a9ff04e3dc999efd19cac28a76207d39c20f5a0e35e"
-      },
-      "9": {
-        "source_ref": "Hebrews 13:9",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 9,
-            "source_ref": "Hebrews 13:9",
-            "segment_mode": "whole",
-            "sha256": "e47665c8c3b65e4d47c1bdc28a9503f5b34b01dc66935653d9dc5d9ed9d75047"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e47665c8c3b65e4d47c1bdc28a9503f5b34b01dc66935653d9dc5d9ed9d75047"
-      },
-      "10": {
-        "source_ref": "Hebrews 13:10",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 10,
-            "source_ref": "Hebrews 13:10",
-            "segment_mode": "whole",
-            "sha256": "73da2d351acd80a0816fb2bbe4b64d02b0cbab32aad3287f49c36e27c68b40ca"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "73da2d351acd80a0816fb2bbe4b64d02b0cbab32aad3287f49c36e27c68b40ca"
-      },
-      "11": {
-        "source_ref": "Hebrews 13:11",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 11,
-            "source_ref": "Hebrews 13:11",
-            "segment_mode": "whole",
-            "sha256": "edfea597d71ef8a7c61c0c3af4d110db1b5f3d5ef7da4ccf99a1e947482a2200"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "edfea597d71ef8a7c61c0c3af4d110db1b5f3d5ef7da4ccf99a1e947482a2200"
-      },
-      "12": {
-        "source_ref": "Hebrews 13:12",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 12,
-            "source_ref": "Hebrews 13:12",
-            "segment_mode": "whole",
-            "sha256": "d4600675613b1bbb56d29cdd173f5f7699e5bc0f74e6e090ef0f9c720ccb9b2f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d4600675613b1bbb56d29cdd173f5f7699e5bc0f74e6e090ef0f9c720ccb9b2f"
-      },
-      "13": {
-        "source_ref": "Hebrews 13:13",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 13,
-            "source_ref": "Hebrews 13:13",
-            "segment_mode": "whole",
-            "sha256": "6e21b78df0a2250d719e594c0607087786facfff96a7c738696a9da32509dc30"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6e21b78df0a2250d719e594c0607087786facfff96a7c738696a9da32509dc30"
-      },
-      "14": {
-        "source_ref": "Hebrews 13:14",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 14,
-            "source_ref": "Hebrews 13:14",
-            "segment_mode": "whole",
-            "sha256": "6a542dd6d456bc295c45c12049991e8293067644fd42e44a0f11fafa36546702"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6a542dd6d456bc295c45c12049991e8293067644fd42e44a0f11fafa36546702"
-      },
-      "15": {
-        "source_ref": "Hebrews 13:15",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 15,
-            "source_ref": "Hebrews 13:15",
-            "segment_mode": "whole",
-            "sha256": "76e1a7260df55bd5300a69251c63eb6ee06a18a90f1c0c1377b738bbc38cbee9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "76e1a7260df55bd5300a69251c63eb6ee06a18a90f1c0c1377b738bbc38cbee9"
-      },
-      "16": {
-        "source_ref": "Hebrews 13:16",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 16,
-            "source_ref": "Hebrews 13:16",
-            "segment_mode": "whole",
-            "sha256": "677a04662bf605451811ada83916412bd46a590defdd0dc4567d06371936dacb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "677a04662bf605451811ada83916412bd46a590defdd0dc4567d06371936dacb"
-      },
-      "17": {
-        "source_ref": "Hebrews 13:17",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 17,
-            "source_ref": "Hebrews 13:17",
-            "segment_mode": "whole",
-            "sha256": "765f527c025a6a458f5ecfa862ad6eda19b78a679ba76b1c2a474435ecc0db9a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "765f527c025a6a458f5ecfa862ad6eda19b78a679ba76b1c2a474435ecc0db9a"
-      },
-      "18": {
-        "source_ref": "Hebrews 13:18",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 18,
-            "source_ref": "Hebrews 13:18",
-            "segment_mode": "whole",
-            "sha256": "2b0468281b382536fe32e2e9553a49d716bf4a6bcc3530ee8ca61b5f615237fb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2b0468281b382536fe32e2e9553a49d716bf4a6bcc3530ee8ca61b5f615237fb"
-      },
-      "19": {
-        "source_ref": "Hebrews 13:19",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 19,
-            "source_ref": "Hebrews 13:19",
-            "segment_mode": "whole",
-            "sha256": "f52a12f751e65be75270a1c0432ad01cd6271bf5113c34467b504287b1c8ee91"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f52a12f751e65be75270a1c0432ad01cd6271bf5113c34467b504287b1c8ee91"
-      },
-      "20": {
-        "source_ref": "Hebrews 13:20",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 20,
-            "source_ref": "Hebrews 13:20",
-            "segment_mode": "whole",
-            "sha256": "b6378f8ad7c11d6c2e69b028d91797fbe570b926e4d916f14e57fabb1e2901b9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b6378f8ad7c11d6c2e69b028d91797fbe570b926e4d916f14e57fabb1e2901b9"
-      },
-      "21": {
-        "source_ref": "Hebrews 13:21",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 21,
-            "source_ref": "Hebrews 13:21",
-            "segment_mode": "whole",
-            "sha256": "babed53a1205d821167499aec2f3e6ec9e3e2b43d364f37c9a7c4bc10f43ca00"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "babed53a1205d821167499aec2f3e6ec9e3e2b43d364f37c9a7c4bc10f43ca00"
-      },
-      "22": {
-        "source_ref": "Hebrews 13:22",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 22,
-            "source_ref": "Hebrews 13:22",
-            "segment_mode": "whole",
-            "sha256": "5c4e50d54b220264a7328c74fdd188113c64250c8998f7833da7488ecd1d9d85"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5c4e50d54b220264a7328c74fdd188113c64250c8998f7833da7488ecd1d9d85"
-      },
-      "23": {
-        "source_ref": "Hebrews 13:23",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 23,
-            "source_ref": "Hebrews 13:23",
-            "segment_mode": "whole",
-            "sha256": "4dfff5df71a0d31ae67f24140794b6d1d1779c47e383bdb39e5e461895e0d385"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4dfff5df71a0d31ae67f24140794b6d1d1779c47e383bdb39e5e461895e0d385"
-      },
-      "24": {
-        "source_ref": "Hebrews 13:24",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 24,
-            "source_ref": "Hebrews 13:24",
-            "segment_mode": "whole",
-            "sha256": "176583c78dd3387a10446001254a985526c26aa42b155a614ef749ca1069c804"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "176583c78dd3387a10446001254a985526c26aa42b155a614ef749ca1069c804"
-      },
-      "25": {
-        "source_ref": "Hebrews 13:25",
-        "source_records": [
-          {
-            "chapter": 13,
-            "verse": 25,
-            "source_ref": "Hebrews 13:25",
-            "segment_mode": "whole",
-            "sha256": "0e71cc75db230928012fb8154d8ac5c24020c9a82e06f4bc3457b2134dfb45c5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0e71cc75db230928012fb8154d8ac5c24020c9a82e06f4bc3457b2134dfb45c5"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 13,
+    "verse_count": 25,
+    "path": "translations/fluent/NT/hebrews/Hebrews_13.md",
+    "before_sha256": "9cde338e090824e440f48a60a2caf0f03a6378f65a5fb87b6909d1b830c62bcb",
+    "after_sha256": "2bb311c1e166df95a8ef573c542ee371192cfde80dd1d7d5e0725cb945fa30cd",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_13.md",
+    "tsw_comparator_sha256": "5d055eebc94c7e639b6d64345182feb7f9ef40abf40f631de5ea91771fb16286"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 13:2",
+      "delta": "F3",
+      "rationale": "Keeps stranger-love and hidden angelic visitors.",
+      "source_reference": "Heb 13:2",
+      "source_verse_sha256": "b2b5db13a4ad5cdec93bfac133351cbf6a7a43b395b96c27e029d1ed59b7cffb",
+      "before": "Do not neglect to show hospitality to strangers, for thereby some have entertained angels without knowing it.",
+      "after": "Do not neglect hospitality, for through it some have welcomed angels without knowing it.",
+      "tsw_comparator": "Do not neglect to show hospitality to strangers, for thereby some have entertained angels without knowing it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.709677,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:3",
+      "delta": "F3",
+      "rationale": "Preserves embodied solidarity with incarceration and abuse.",
+      "source_reference": "Heb 13:3",
+      "source_verse_sha256": "6573242e1fab6147c7ab2f031ab17230bae4fe29e53527f453ce28e5f849f863",
+      "before": "Remember people who are in prison, as if in prison with them, and people who are mistreated, since you also are in the body.",
+      "after": "Remember those in prison as though imprisoned with them, and those being mistreated as people who are yourselves in a body.",
+      "tsw_comparator": "Remember those who are in prison, as though in prison with them, and those who are mistreated, since you also are in the body.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.622222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:4",
+      "delta": "F3",
+      "rationale": "Keeps public honor, sexual integrity and judgment.",
+      "source_reference": "Heb 13:4",
+      "source_verse_sha256": "f04c59dc7d29eb1eab5243c670ae5b988d2b0992027c6e553f70f5478c2ee311",
+      "before": "Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous.",
+      "after": "Let marriage be honored by everyone and the marriage bed kept undefiled, for God will judge the sexually immoral and adulterers.",
+      "tsw_comparator": "Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711111,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "delta": "F3",
+      "rationale": "Preserves economic warning and emphatic promise.",
+      "source_reference": "Heb 13:5",
+      "source_verse_sha256": "decceece2b812219a95b8372bc14f7bcd84ab56486d51efa5703c2252519220b",
+      "before": "Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you nor forsake you.”",
+      "after": "Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you and never abandon you.”",
+      "tsw_comparator": "Keep your life free from love of money, and be content with what you have, for he has said, “I will never leave you nor forsake you.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:7",
+      "delta": "F3",
+      "rationale": "Retains former leaders, life outcome and imitation.",
+      "source_reference": "Heb 13:7",
+      "source_verse_sha256": "9224bbd1c79f9cf664b2fad6f823634c77e71df5ed8da1678220e74a58db758c",
+      "before": "Remember your leaders, people who spoke to you the word of God. Consider the outcome of their way of life, and imitate their trust.",
+      "after": "Remember your leaders who spoke God's word to you. Consider the outcome of their way of life and imitate their faith.",
+      "tsw_comparator": "Remember your leaders, those who spoke to you the word of God. Consider the outcome of their way of life, and imitate their faith.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.844444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:9",
+      "delta": "F3",
+      "rationale": "Keeps movement image, heart and ineffective food regulations.",
+      "source_reference": "Heb 13:9",
+      "source_verse_sha256": "29370bb486616ec84ac74f35e31766e6c5efd7b2f46c75192637c1fd72ebd1ec",
+      "before": "Do not be led away by diverse and strange teachings, for it is good for the heart to be strengthened by grace, not by foods, which have not benefited those devoted to them.",
+      "after": "Do not be carried away by various strange teachings. It is good for the heart to be strengthened by grace, not by foods that have not benefited those who follow such practices.",
+      "tsw_comparator": "Do not be led away by diverse and strange teachings, for it is good for the heart to be strengthened by grace, not by foods, which have not benefited those devoted to them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:10",
+      "delta": "F3",
+      "rationale": "Preserves cultic exclusion and right.",
+      "source_reference": "Heb 13:10",
+      "source_verse_sha256": "9901f79b6721415c2d928a4e23bf819c2f8ccd4e19eeb7539421bb4e1eef71fd",
+      "before": "We have an altar from which people who serve the tent have no right to eat.",
+      "after": "We have an altar from which those who serve at the tent have no right to eat.",
+      "tsw_comparator": "We have an altar from which those who serve the tent have no right to eat.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.969697,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:11",
+      "delta": "F3",
+      "rationale": "Keeps animal bodies, blood and spatial exclusion.",
+      "source_reference": "Heb 13:11",
+      "source_verse_sha256": "dd349b4e4308817992b7560604053a6de9456e84c2f3f55225bbc756098de628",
+      "before": "For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp.",
+      "after": "The bodies of the animals whose blood is brought into the holy place by the high priest as an offering for sin are burned outside the camp.",
+      "tsw_comparator": "For the bodies of those animals whose blood is brought into the holy places by the high priest as a sacrifice for sin are burned outside the camp.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.836364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:12",
+      "delta": "F3",
+      "rationale": "Retains execution suffering, location and blood.",
+      "source_reference": "Heb 13:12",
+      "source_verse_sha256": "c505b45afe6a7f4ae8e5dfd9f5e7c733b4fcadd597e9427d29d7929bd086a504",
+      "before": "So Jesus also suffered outside the gate in order to sanctify the people through his own blood.",
+      "after": "Therefore Jesus also suffered outside the city gate in order to make the people holy through his own blood.",
+      "tsw_comparator": "So Jesus also suffered outside the gate in order to sanctify the people through his own blood.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:13",
+      "delta": "F3",
+      "rationale": "Keeps spatial solidarity and shame.",
+      "source_reference": "Heb 13:13",
+      "source_verse_sha256": "6240bd817ca90f7a842b846c5d89e16ab8513b2ba0e869608f2e5e4a73fd14aa",
+      "before": "So let us go to him outside the camp and bear the reproach he endured.",
+      "after": "So let us go out to him outside the camp, bearing his disgrace.",
+      "tsw_comparator": "Therefore let us go to him outside the camp and bear the reproach he endured.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.571429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:14",
+      "delta": "F3",
+      "rationale": "Preserves unsettled present and future city.",
+      "source_reference": "Heb 13:14",
+      "source_verse_sha256": "38c76cb4330a16f54b268347c71563b6c13fe1b20cf32d0511914a7096fa9d8a",
+      "before": "For here we have no lasting city, but we seek the city that is to come.",
+      "after": "For here we have no lasting city, but we seek the one to come.",
+      "tsw_comparator": "For here we have no lasting city, but we seek the city that is to come.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.866667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:17",
+      "delta": "F3",
+      "rationale": "Keeps authority, leaders' accountability and community effect.",
+      "source_reference": "Heb 13:17",
+      "source_verse_sha256": "00d34dfbbc82d1628735734540ec02a22c6c38fc22ec34ac702ea0fe49f8c5c1",
+      "before": "Obey your leaders and give way to them, for they are watch over your souls as people who will give an account. Let them do this with joy and not with sighing, for that would be harmful to you.",
+      "after": "Obey your leaders and yield to them, for they keep watch over your lives as those who will give an account. Let them do this with joy and not groaning, for that would be unprofitable for you.",
+      "tsw_comparator": "Obey your leaders and give way to them, for they are watch over your souls as those who will give an account. Let them do this with joy and not with sighing, for that would be harmful to you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.815789,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:20",
+      "delta": "F3",
+      "rationale": "Preserves resurrection, shepherd image and covenant blood.",
+      "source_reference": "Heb 13:20",
+      "source_verse_sha256": "e5e4b1bf59b099a2955c61ed4972390af807bb0a895d1153bf5d5e80696cd322",
+      "before": "Now may the God of peace, who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant,",
+      "after": "Now may the God of peace, who brought back from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant,",
+      "tsw_comparator": "Now may the God of peace, who brought again from the dead our Lord Jesus, the great shepherd of the sheep, by the blood of the eternal covenant,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.964286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:21",
+      "delta": "F3",
+      "rationale": "Keeps divine equipping, inward work and doxology.",
+      "source_reference": "Heb 13:21",
+      "source_verse_sha256": "68f26d243fc7ad47a2b112210fddf8f48e22bbe6b2b5de5c530b7e307bd2e40e",
+      "before": "equip you with everything good that you may do his will, working in us what is pleasing in his sight, through Jesus Christ, to whom be glory forever and ever. Amen.",
+      "after": "equip you with every good thing to do his will, working in us what is pleasing before him through Jesus Christ, to whom be glory forever. Amen.",
+      "tsw_comparator": "equip you with everything good that you may do his will, working in us that which is pleasing in his sight, through Jesus Christ, to whom be glory forever and ever. Amen.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.711864,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:23",
+      "delta": "F3",
+      "rationale": "Keeps named Timothy, release and conditional visit.",
+      "source_reference": "Heb 13:23",
+      "source_verse_sha256": "834ed9d5fe4c858229d4766046fe68e13fb1f6fe34aff53e8645409a6ff41d05",
+      "before": "You should know that our brother Timothy has been released, with whom I will see you if he comes soon.",
+      "after": "You should know that our brother Timothy has been released. If he comes soon, I will see you with him.",
+      "tsw_comparator": "You should know that our brother Timothy has been released, with whom I shall see you if he comes soon.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.7,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 13:24",
+      "delta": "F3",
+      "rationale": "Retains both recipient groups and geographic origin.",
+      "source_reference": "Heb 13:24",
+      "source_verse_sha256": "2ba08a3f916f9b6432059dfacc9d4d901d45f2a59d7d759fe69419146bb6e6fc",
+      "before": "Greet all your leaders and all the saints. People who come from Italy send you greetings.",
+      "after": "Greet all your leaders and all the saints. Those from Italy greet you.",
+      "tsw_comparator": "Greet all your leaders and all the saints. Those who come from Italy send you greetings.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_13.md",
-    "blob_sha": "127a86797c8790934f5faf8fcadf45eaa0a6167c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

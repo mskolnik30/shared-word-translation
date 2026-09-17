@@ -1,7 +1,7 @@
 {
   "book": "2 Timothy",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 4,
   "public_verse_slots": 83,
   "included_verse_labels": 83,
@@ -90,5 +90,52 @@
         "blob_sha": "0d05d729b24661b90b3fd82740fae1ed0295eb5e"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-2timothy-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 83,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+      "path": "audit/exegetical-core/fluent-production/2timothy/2_TIMOTHY_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-2timothy-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 83,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+        "path": "audit/exegetical-core/fluent-production/2timothy/2_TIMOTHY_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

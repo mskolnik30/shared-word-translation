@@ -2,125 +2,111 @@
   "book": "Titus",
   "chapter": 3,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 15,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-titus-1-3-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/titus/Titus_03_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Titus.txt",
     "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Titus 3:1",
-        "source_chapter": 3,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "505a61c1ccd27da3caeb01bf0cba2b66a6ab21111d1d8bc2643524870dae1f55"
-      },
-      "2": {
-        "source_ref": "Titus 3:2",
-        "source_chapter": 3,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "9a2f7d92c8b962c33508325334c2ed07d1f5ceb966e1159d80e612aa44ccf9c8"
-      },
-      "3": {
-        "source_ref": "Titus 3:3",
-        "source_chapter": 3,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "4466cffe13ce630f93c54e4004b47601010773c11d1e39b5313469f904d7fc90"
-      },
-      "4": {
-        "source_ref": "Titus 3:4",
-        "source_chapter": 3,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "7a7a48e2dfa8b650990e945ac78fee473a0de6ab4c2149b9303eb4f845299bae"
-      },
-      "5": {
-        "source_ref": "Titus 3:5",
-        "source_chapter": 3,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "89a236696d6c84134ec8c0510db89c233e1b7ea758d8f3b21df1a11ec04330a2"
-      },
-      "6": {
-        "source_ref": "Titus 3:6",
-        "source_chapter": 3,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "3223d77569e0c2a782b32adc3dca47e6288ce975cd388af08a3815b181cd29b5"
-      },
-      "7": {
-        "source_ref": "Titus 3:7",
-        "source_chapter": 3,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "74a25a354f713d82d64053af4680763f3ac4422c421371143001b63d551a8f78"
-      },
-      "8": {
-        "source_ref": "Titus 3:8",
-        "source_chapter": 3,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "03166f8380177139bbb8bcde65978617e7fa5a54fe806d963200e98b8e792d98"
-      },
-      "9": {
-        "source_ref": "Titus 3:9",
-        "source_chapter": 3,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "90a50ee9b38d6db6d4670277bfd4579edc1005a0fc4a4358d929fa3241117933"
-      },
-      "10": {
-        "source_ref": "Titus 3:10",
-        "source_chapter": 3,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "f51495eecac3882d05b4203e8f4a3b55e1e494d52edb86f88a613858349698ee"
-      },
-      "11": {
-        "source_ref": "Titus 3:11",
-        "source_chapter": 3,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "fefcbf7e28a115743fd6a0f86742683cf71e86f4ca51bc91ab0f3b4392d386ff"
-      },
-      "12": {
-        "source_ref": "Titus 3:12",
-        "source_chapter": 3,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "03f52a6d54c9f6e5db4f802bca729b2595360391c23b6e1e677a362980994c44"
-      },
-      "13": {
-        "source_ref": "Titus 3:13",
-        "source_chapter": 3,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "0dbc474226288681c7ad11fc8cbe560cfcf79ac7154a1c986956aaa1e484a0bb"
-      },
-      "14": {
-        "source_ref": "Titus 3:14",
-        "source_chapter": 3,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "3ea52babe3c319aeedb2efb40abfd5782a5048117fe2a68edadea009cc5043e7"
-      },
-      "15": {
-        "source_ref": "Titus 3:15",
-        "source_chapter": 3,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "1ab60ad54dde9edcc41dd8cb6551d4894c0682495a2d1ba57cae4286aca494d4"
-      }
+    "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Titus.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Titus",
+    "book_verse_count": 46,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 3,
+    "verse_count": 15,
+    "path": "translations/fluent/NT/titus/Titus_03.md",
+    "before_sha256": "e1f93d6e933bab465bf25ec19ff15d7c799bec0b2529c3d2eb8ac238c468e2f6",
+    "after_sha256": "7036447cbc33c3d46aada82a39b42dcff56525aab99d0cd91d5d29514be7a37f",
+    "tsw_comparator_path": "books/NT/titus/Titus_03.md",
+    "tsw_comparator_sha256": "9c69c164160d3c56732ed06309c032e69739f4a4b22f80503ac2c869781f6634"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Titus 3:1",
+      "delta": "F3",
+      "rationale": "Keeps political submission and readiness.",
+      "source_reference": "Titus 3:1",
+      "source_verse_sha256": "a1b862ecfb12eaa49aaa43eb5f63d2879d3aeb768c9c604e33fd7d58f9e21185",
+      "before": "Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,",
+      "after": "Remind them to submit to rulers and authorities, to obey and to be ready for every good work,",
+      "tsw_comparator": "Remind them to be subject to rulers and authorities, to be obedient, to be ready for every good work,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 3:5",
+      "delta": "F3",
+      "rationale": "Preserves denial, mercy and paired washing/renewal means.",
+      "source_reference": "Titus 3:5",
+      "source_verse_sha256": "37c87a56e0cd9b4ff9ee6c8eca07fe4a1204f2578a21eeded8ff8873bf493ea6",
+      "before": "he saved us—not because of works we had done in righteousness, but according to his mercy—through the washing of rebirth and renewal by the Holy Spirit,",
+      "after": "he saved us—not because of righteous works we had done, but according to his mercy—through the washing of rebirth and renewal by the Holy Spirit,",
+      "tsw_comparator": "he saved us, not because of any works of righteousness that we had done, but according to his mercy, through the water[a] of rebirth and renewal by the Holy Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.862069,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 3:6",
+      "delta": "F3",
+      "rationale": "Keeps Spirit as poured gift and Christ's mediation.",
+      "source_reference": "Titus 3:6",
+      "source_verse_sha256": "2105ac755c5fd809aa3afa169bbd7fa19e5d813ddb20bec6958c90f1c0a92f6d",
+      "before": "whom he poured out on us richly through Jesus Christ our Savior,",
+      "after": "whom he poured out richly on us through Jesus Christ our Savior,",
+      "tsw_comparator": "whom he poured out on us richly through Jesus Christ our Savior,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 3:7",
+      "delta": "F3",
+      "rationale": "Retains legal status, inheritance and hope.",
+      "source_reference": "Titus 3:7",
+      "source_verse_sha256": "bc82f2987be1d88452dcec0f7f101c59ced2a08a1ccb949dc4e2fc368ef5b62c",
+      "before": "so that, having been set right by his grace, we might become heirs according to the hope of eternal life.",
+      "after": "so that, justified by his grace, we might become heirs according to the hope of eternal life.",
+      "tsw_comparator": "so that being justified by his grace we might become heirs according to the hope of eternal life.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.971429,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 3:10",
+      "delta": "F3",
+      "rationale": "Keeps two-stage correction and factional behavior.",
+      "source_reference": "Titus 3:10",
+      "source_verse_sha256": "310c843a44d9a148a58f5aceab39803820c6643b33a175764d9aa9a4676a4af9",
+      "before": "After a first and second warning, have nothing more to do with a divisive person,",
+      "after": "After a first and second warning, reject a divisive person,",
+      "tsw_comparator": "As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.125,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/titus/Titus_03.md",
-    "blob_sha": "61fec39aeeae0652dd63b1ab38b02182c29d5a3a"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

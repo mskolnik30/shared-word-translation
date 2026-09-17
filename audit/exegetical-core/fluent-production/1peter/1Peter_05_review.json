@@ -1,246 +1,192 @@
 {
-  "book": "1 Peter",
+  "book": "1Peter",
   "chapter": 5,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1peter-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1peter/1Peter_05_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Pet.txt",
-    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Pet.txt",
     "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Peter 5:1",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 1,
-            "source_ref": "1 Peter 5:1",
-            "segment_mode": "whole",
-            "sha256": "c303f2775b33e7bf076143dd9dcc0be28019341a97c860d18ca26cb82d866a24"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c303f2775b33e7bf076143dd9dcc0be28019341a97c860d18ca26cb82d866a24"
-      },
-      "2": {
-        "source_ref": "1 Peter 5:2",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 2,
-            "source_ref": "1 Peter 5:2",
-            "segment_mode": "whole",
-            "sha256": "cabdb7520bcca31fb24ef2293f3ee62cb2050acb1d3c377ff9556f5dafaef5b2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cabdb7520bcca31fb24ef2293f3ee62cb2050acb1d3c377ff9556f5dafaef5b2"
-      },
-      "3": {
-        "source_ref": "1 Peter 5:3",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 3,
-            "source_ref": "1 Peter 5:3",
-            "segment_mode": "whole",
-            "sha256": "7368f95eb29936e71877a2c122969bfb7ab4b9b4b7d82978976366f12d7e7a16"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7368f95eb29936e71877a2c122969bfb7ab4b9b4b7d82978976366f12d7e7a16"
-      },
-      "4": {
-        "source_ref": "1 Peter 5:4",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 4,
-            "source_ref": "1 Peter 5:4",
-            "segment_mode": "whole",
-            "sha256": "743021c0509242b68fe91163879d82f13ab2a881447447fd3564b364ad753a0c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "743021c0509242b68fe91163879d82f13ab2a881447447fd3564b364ad753a0c"
-      },
-      "5": {
-        "source_ref": "1 Peter 5:5",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 5,
-            "source_ref": "1 Peter 5:5",
-            "segment_mode": "whole",
-            "sha256": "7765bb76d1253895805bd05dab9542b9febe60232ba246ae9ee9ef5d38d14ac1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7765bb76d1253895805bd05dab9542b9febe60232ba246ae9ee9ef5d38d14ac1"
-      },
-      "6": {
-        "source_ref": "1 Peter 5:6",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 6,
-            "source_ref": "1 Peter 5:6",
-            "segment_mode": "whole",
-            "sha256": "81fca64918519ea858a29f930b151c12c82a1b42a908961a62e433d1b512efcc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "81fca64918519ea858a29f930b151c12c82a1b42a908961a62e433d1b512efcc"
-      },
-      "7": {
-        "source_ref": "1 Peter 5:7",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 7,
-            "source_ref": "1 Peter 5:7",
-            "segment_mode": "whole",
-            "sha256": "f896bfec5c1776c7d353b7e441976520e9346ca7bd2603459efb05aa8e3db76b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f896bfec5c1776c7d353b7e441976520e9346ca7bd2603459efb05aa8e3db76b"
-      },
-      "8": {
-        "source_ref": "1 Peter 5:8",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 8,
-            "source_ref": "1 Peter 5:8",
-            "segment_mode": "whole",
-            "sha256": "c00f3eb29c8ba0441abf774162158018aea127463658a029a5f796f5741f6e17"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c00f3eb29c8ba0441abf774162158018aea127463658a029a5f796f5741f6e17"
-      },
-      "9": {
-        "source_ref": "1 Peter 5:9",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 9,
-            "source_ref": "1 Peter 5:9",
-            "segment_mode": "whole",
-            "sha256": "75d295b2e98964c2de636f2f981e6deef3540f578deb4df36117814bf572414f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "75d295b2e98964c2de636f2f981e6deef3540f578deb4df36117814bf572414f"
-      },
-      "10": {
-        "source_ref": "1 Peter 5:10",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 10,
-            "source_ref": "1 Peter 5:10",
-            "segment_mode": "whole",
-            "sha256": "370659c917b55791b35f3cb11158afc7be7670ff97f660b250c75c8e44e41369"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "370659c917b55791b35f3cb11158afc7be7670ff97f660b250c75c8e44e41369"
-      },
-      "11": {
-        "source_ref": "1 Peter 5:11",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 11,
-            "source_ref": "1 Peter 5:11",
-            "segment_mode": "whole",
-            "sha256": "24933f3109abf0c8657e71740f646d2998fcc539f148a8a5d08404a2f8d4cc2e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "24933f3109abf0c8657e71740f646d2998fcc539f148a8a5d08404a2f8d4cc2e"
-      },
-      "12": {
-        "source_ref": "1 Peter 5:12",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 12,
-            "source_ref": "1 Peter 5:12",
-            "segment_mode": "whole",
-            "sha256": "9a5adf6d5139da64b269e380539bdea2ffb5bdc561b1fbe5cc01abc7079060f0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9a5adf6d5139da64b269e380539bdea2ffb5bdc561b1fbe5cc01abc7079060f0"
-      },
-      "13": {
-        "source_ref": "1 Peter 5:13",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 13,
-            "source_ref": "1 Peter 5:13",
-            "segment_mode": "whole",
-            "sha256": "f89316652a02ae1f9d5d6c7b650faca7de6e3eed30151ad89f742e0da2b80105"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f89316652a02ae1f9d5d6c7b650faca7de6e3eed30151ad89f742e0da2b80105"
-      },
-      "14": {
-        "source_ref": "1 Peter 5:14",
-        "source_records": [
-          {
-            "chapter": 5,
-            "verse": 14,
-            "source_ref": "1 Peter 5:14",
-            "segment_mode": "whole",
-            "sha256": "a944eff3d35dc38e67a65dd352fd8dc747df792b5ac84b0d972c23f617e4f0c9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a944eff3d35dc38e67a65dd352fd8dc747df792b5ac84b0d972c23f617e4f0c9"
-      }
+    "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Pet",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 5,
+    "verse_count": 14,
+    "path": "translations/fluent/NT/1peter/1Peter_05.md",
+    "before_sha256": "59aead01e51f07a80f874ceb5502dae6ce08f92505eac82b0fdb8a42357f0a59",
+    "after_sha256": "68a75f49d9da9f7365b7138eee495764a700a7fb7253297ecdc3e45b5114bc93",
+    "tsw_comparator_path": "books/NT/1peter/1Peter_05.md",
+    "tsw_comparator_sha256": "96f4a8458cce43584298a9bbc649cd3a373faff350930c892ea83652b4a576fe"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Peter 5:1",
+      "delta": "F3",
+      "rationale": "Keeps threefold self-identification and future glory.",
+      "source_reference": "1Pet 5:1",
+      "source_verse_sha256": "d08539d79ce82526b200f6a2a8578e8aa224669a8cf7b198d8f4f3fb8e168532",
+      "before": "So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a sharer in the glory that is going to be revealed:",
+      "after": "Therefore, I urge the elders among you, as a fellow elder, a witness of Christ's sufferings and a partner in the glory about to be revealed:",
+      "tsw_comparator": "So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a sharer in the glory that is going to be revealed:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.677966,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:2",
+      "delta": "F3",
+      "rationale": "Preserves shepherding, oversight and both motive contrasts.",
+      "source_reference": "1Pet 5:2",
+      "source_verse_sha256": "2c408120ec7d4035c671b73aef36f29f1f1852450550b5e9af7a1097baca3890",
+      "before": "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;",
+      "after": "Shepherd God's flock among you, exercising oversight not under compulsion but willingly, according to God; not for shameful gain but eagerly;",
+      "tsw_comparator": "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:3",
+      "delta": "F3",
+      "rationale": "Keeps prohibition of domination and exemplary alternative.",
+      "source_reference": "1Pet 5:3",
+      "source_verse_sha256": "b0f6037d4b5f42c88554b90b5756470c5000dd630f9d734d4dd15ef0ccd6516c",
+      "before": "not domineering over those in your charge, but being examples to the flock.",
+      "after": "not lording it over those entrusted to you, but becoming examples to the flock.",
+      "tsw_comparator": "not domineering over those in your charge, but being examples to the flock.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.592593,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:4",
+      "delta": "F3",
+      "rationale": "Retains pastoral title, appearance and crown.",
+      "source_reference": "1Pet 5:4",
+      "source_verse_sha256": "d46d94c5f434765a39b6e0b780ac69e31b5358e32d8a3cbf3e92ec511b9f5f84",
+      "before": "And when the chief Shepherd appears, you will receive the unfading crown of glory.",
+      "after": "And when the chief Shepherd appears, you will receive the unfading crown of glory.",
+      "tsw_comparator": "And when the chief Shepherd appears, you will receive the unfading crown of glory.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:5",
+      "delta": "F3",
+      "rationale": "Keeps age relation, clothing image and quoted reversal.",
+      "source_reference": "1Pet 5:5",
+      "source_verse_sha256": "bf740c4a7d9967201bb332824a19e1dcb4c8bdf90e75192b693970aa8c7a36b6",
+      "before": "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for “God opposes the proud but gives grace to the humble.”",
+      "after": "Likewise, younger people, submit to the elders. And all of you, clothe yourselves with humility toward one another, because “God opposes the proud but gives grace to the humble.”",
+      "tsw_comparator": "Likewise, you who are younger, be subject to the elders. Clothe yourselves, all of you, with humility toward one another, for “God opposes the proud but gives grace to the humble.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.766667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:8",
+      "delta": "F3",
+      "rationale": "Retains legal opponent, animal simile and violent threat.",
+      "source_reference": "1Pet 5:8",
+      "source_verse_sha256": "7ae9af4f40791334c642f26f8b2eb8acc8f482921f78b87c8a531b0dc690740d",
+      "before": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
+      "after": "Be sober and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
+      "tsw_comparator": "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.864865,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:9",
+      "delta": "F3",
+      "rationale": "Keeps resistance, stability and global solidarity.",
+      "source_reference": "1Pet 5:9",
+      "source_verse_sha256": "ade3411fa19bc4223540842393689b9c2ddaffad53b6be64a7386c540ac2f8c8",
+      "before": "Resist him, firm in your trust, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world.",
+      "after": "Resist him, firm in the faith, knowing that the same sufferings are being endured by your family of believers throughout the world.",
+      "tsw_comparator": "Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your brotherhood throughout the world.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:10",
+      "delta": "F3",
+      "rationale": "Retains suffering duration, call and four divine actions.",
+      "source_reference": "1Pet 5:10",
+      "source_verse_sha256": "62e8151e53736b3f8fdf7ca983a3c5a6c8a45e94cde318ce3f51187de72d6901",
+      "before": "And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you.",
+      "after": "After you have suffered a little while, the God of all grace, who called you to his eternal glory in Christ, will himself restore, establish, strengthen and ground you.",
+      "tsw_comparator": "And after you have suffered a little while, the God of all grace, who has called you to his eternal glory in Christ, will himself restore, confirm, strengthen, and establish you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.9,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:12",
+      "delta": "F3",
+      "rationale": "Keeps messenger, personal assessment and two purposes.",
+      "source_reference": "1Pet 5:12",
+      "source_verse_sha256": "9858194553f969201d10f220a02ee30232823aaaa9f940f8f9d56edb94231347",
+      "before": "By Silvanus, a faithful brother as I regard him, I have written briefly to you, exhorting and declaring that this is the true grace of God. Stand firm in it.",
+      "after": "Through Silvanus, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is God's true grace. Stand firm in it.",
+      "tsw_comparator": "By Silvanus, a faithful brother as I regard him, I have written briefly to you, exhorting and declaring that this is the true grace of God. Stand firm in it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.644068,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:13",
+      "delta": "F3",
+      "rationale": "Retains feminine coded sender, Babylon and named Mark.",
+      "source_reference": "1Pet 5:13",
+      "source_verse_sha256": "72a2342b8e2f6065b04bce7296d4f8b160c5b447dbd8d962de921256f52d431d",
+      "before": "She who is in Babylon, who is likewise chosen, sends you greetings, and so does Mark, my son.",
+      "after": "She who is in Babylon, chosen together with you, greets you, and so does my son Mark.",
+      "tsw_comparator": "She who is in Babylon, who is likewise chosen, sends you greetings, and so does Mark, my son.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 5:14",
+      "delta": "F3",
+      "rationale": "Keeps embodied greeting and inclusive peace.",
+      "source_reference": "1Pet 5:14",
+      "source_verse_sha256": "4ae9160f3f1de3cdda798e6196106ea26aaa63dd4ab5a6aeb5c3c42bc3841097",
+      "before": "Greet one another with the kiss of love. Peace to all of you who are in Christ.",
+      "after": "Greet one another with a kiss of love. Peace to all of you who are in Christ.",
+      "tsw_comparator": "Greet one another with the kiss of love. Peace to all of you who are in Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.941176,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1peter/1Peter_05.md",
-    "blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

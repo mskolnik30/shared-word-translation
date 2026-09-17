@@ -2,626 +2,355 @@
   "book": "Hebrews",
   "chapter": 10,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_10_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "10:26-39",
-      "decision": "Retain warning and encouragement together.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 10:1",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 1,
-            "source_ref": "Hebrews 10:1",
-            "segment_mode": "whole",
-            "sha256": "852f3aa4789de6de6f5af03e088f99bb0e3fec8dc95c60203f6b269e9d53fc57"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "852f3aa4789de6de6f5af03e088f99bb0e3fec8dc95c60203f6b269e9d53fc57"
-      },
-      "2": {
-        "source_ref": "Hebrews 10:2",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 2,
-            "source_ref": "Hebrews 10:2",
-            "segment_mode": "whole",
-            "sha256": "6722c266160dd09c14cee8debf796d486c1cac046353727b612983bd4a39c624"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6722c266160dd09c14cee8debf796d486c1cac046353727b612983bd4a39c624"
-      },
-      "3": {
-        "source_ref": "Hebrews 10:3",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 3,
-            "source_ref": "Hebrews 10:3",
-            "segment_mode": "whole",
-            "sha256": "dbf6dab3784258a5cf49d3b702a3bac10bbe03a26f204eb2e2b40b66e553b61f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "dbf6dab3784258a5cf49d3b702a3bac10bbe03a26f204eb2e2b40b66e553b61f"
-      },
-      "4": {
-        "source_ref": "Hebrews 10:4",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 4,
-            "source_ref": "Hebrews 10:4",
-            "segment_mode": "whole",
-            "sha256": "9ff018b247a66b2ef9df8c08803edca76f1076079a9719cdfe0946d8f45bf8b3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9ff018b247a66b2ef9df8c08803edca76f1076079a9719cdfe0946d8f45bf8b3"
-      },
-      "5": {
-        "source_ref": "Hebrews 10:5",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 5,
-            "source_ref": "Hebrews 10:5",
-            "segment_mode": "whole",
-            "sha256": "04a695ef31393b4424a50afd190b613022023bc7320724eb8ae01ca77881d1c9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "04a695ef31393b4424a50afd190b613022023bc7320724eb8ae01ca77881d1c9"
-      },
-      "6": {
-        "source_ref": "Hebrews 10:6",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 6,
-            "source_ref": "Hebrews 10:6",
-            "segment_mode": "whole",
-            "sha256": "a0194e0e2e1281845d28aeb73b9d5afb4d0f04c9c8c95cf58beb61844be0fcf8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a0194e0e2e1281845d28aeb73b9d5afb4d0f04c9c8c95cf58beb61844be0fcf8"
-      },
-      "7": {
-        "source_ref": "Hebrews 10:7",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 7,
-            "source_ref": "Hebrews 10:7",
-            "segment_mode": "whole",
-            "sha256": "8427cd06429cbc7b9050c4c1119f71228ead230073716ebea1443fdddb27694e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8427cd06429cbc7b9050c4c1119f71228ead230073716ebea1443fdddb27694e"
-      },
-      "8": {
-        "source_ref": "Hebrews 10:8",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 8,
-            "source_ref": "Hebrews 10:8",
-            "segment_mode": "whole",
-            "sha256": "a4aaf59ae05e2e3363342ab4fe84f4327df53449e158610d5d59ee6b5415321f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a4aaf59ae05e2e3363342ab4fe84f4327df53449e158610d5d59ee6b5415321f"
-      },
-      "9": {
-        "source_ref": "Hebrews 10:9",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 9,
-            "source_ref": "Hebrews 10:9",
-            "segment_mode": "whole",
-            "sha256": "bb15804678100cc5e470377b8813cc83ec95e2d22345bb73f24f46055ec8e36f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bb15804678100cc5e470377b8813cc83ec95e2d22345bb73f24f46055ec8e36f"
-      },
-      "10": {
-        "source_ref": "Hebrews 10:10",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 10,
-            "source_ref": "Hebrews 10:10",
-            "segment_mode": "whole",
-            "sha256": "6d774f70dc5cffea7c99a4ab47c802b10c0423e8cb712c1fff354fe3b28a882f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d774f70dc5cffea7c99a4ab47c802b10c0423e8cb712c1fff354fe3b28a882f"
-      },
-      "11": {
-        "source_ref": "Hebrews 10:11",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 11,
-            "source_ref": "Hebrews 10:11",
-            "segment_mode": "whole",
-            "sha256": "b7710f438abe9e443cfbb1f82e66973b232412447cd38ba74ab43e1618177b34"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b7710f438abe9e443cfbb1f82e66973b232412447cd38ba74ab43e1618177b34"
-      },
-      "12": {
-        "source_ref": "Hebrews 10:12",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 12,
-            "source_ref": "Hebrews 10:12",
-            "segment_mode": "whole",
-            "sha256": "48dcf7e570de508bc350f6d96a95e5c9d5120a87f1175ed0bd536ade6e3c691c"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "48dcf7e570de508bc350f6d96a95e5c9d5120a87f1175ed0bd536ade6e3c691c"
-      },
-      "13": {
-        "source_ref": "Hebrews 10:13",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 13,
-            "source_ref": "Hebrews 10:13",
-            "segment_mode": "whole",
-            "sha256": "16cf3b7ba8d0cb9b5b099d1595377c85519d9fc0f012c96fda8490f26e9d93f0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "16cf3b7ba8d0cb9b5b099d1595377c85519d9fc0f012c96fda8490f26e9d93f0"
-      },
-      "14": {
-        "source_ref": "Hebrews 10:14",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 14,
-            "source_ref": "Hebrews 10:14",
-            "segment_mode": "whole",
-            "sha256": "57942a910539031fab02852be4966faf0585016195ac1b70cd40c1b87431b003"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "57942a910539031fab02852be4966faf0585016195ac1b70cd40c1b87431b003"
-      },
-      "15": {
-        "source_ref": "Hebrews 10:15",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 15,
-            "source_ref": "Hebrews 10:15",
-            "segment_mode": "whole",
-            "sha256": "8cff4a0cc602e3d275dad9eb9b150a54e79b593a5fca334ec10e66c598854852"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8cff4a0cc602e3d275dad9eb9b150a54e79b593a5fca334ec10e66c598854852"
-      },
-      "16": {
-        "source_ref": "Hebrews 10:16",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 16,
-            "source_ref": "Hebrews 10:16",
-            "segment_mode": "whole",
-            "sha256": "212f664a77a1b4a133382e1d9452ca9f57bdf7a5db97f7b14155a6baaede8559"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "212f664a77a1b4a133382e1d9452ca9f57bdf7a5db97f7b14155a6baaede8559"
-      },
-      "17": {
-        "source_ref": "Hebrews 10:17",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 17,
-            "source_ref": "Hebrews 10:17",
-            "segment_mode": "whole",
-            "sha256": "022b833207f31c1d0bd5587ab953183db4d01b7be7060330f5784c5f9fc1ac95"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "022b833207f31c1d0bd5587ab953183db4d01b7be7060330f5784c5f9fc1ac95"
-      },
-      "18": {
-        "source_ref": "Hebrews 10:18",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 18,
-            "source_ref": "Hebrews 10:18",
-            "segment_mode": "whole",
-            "sha256": "933589ec15cd0c06b59036c196657d780d69ced8ce434b9b9f932c7d7a60ffc0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "933589ec15cd0c06b59036c196657d780d69ced8ce434b9b9f932c7d7a60ffc0"
-      },
-      "19": {
-        "source_ref": "Hebrews 10:19",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 19,
-            "source_ref": "Hebrews 10:19",
-            "segment_mode": "whole",
-            "sha256": "62ec93cd116b63e36ceff344c1a4f653621efbf3e6b8557991d053038febb895"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "62ec93cd116b63e36ceff344c1a4f653621efbf3e6b8557991d053038febb895"
-      },
-      "20": {
-        "source_ref": "Hebrews 10:20",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 20,
-            "source_ref": "Hebrews 10:20",
-            "segment_mode": "whole",
-            "sha256": "364bcdec30d8260cc9c6696840501e22fcf0500c871876ac10c5b7c01490cfba"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "364bcdec30d8260cc9c6696840501e22fcf0500c871876ac10c5b7c01490cfba"
-      },
-      "21": {
-        "source_ref": "Hebrews 10:21",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 21,
-            "source_ref": "Hebrews 10:21",
-            "segment_mode": "whole",
-            "sha256": "e6ed8c0d04081e52ca2efa70dcece6304fcd58627715980c0a82f0ca0add2e10"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e6ed8c0d04081e52ca2efa70dcece6304fcd58627715980c0a82f0ca0add2e10"
-      },
-      "22": {
-        "source_ref": "Hebrews 10:22",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 22,
-            "source_ref": "Hebrews 10:22",
-            "segment_mode": "whole",
-            "sha256": "f38f77660671cc0e9f0d1a509123ba228ecbfa37f0c0a24d4f22724d3a470cc7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f38f77660671cc0e9f0d1a509123ba228ecbfa37f0c0a24d4f22724d3a470cc7"
-      },
-      "23": {
-        "source_ref": "Hebrews 10:23",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 23,
-            "source_ref": "Hebrews 10:23",
-            "segment_mode": "whole",
-            "sha256": "e383c36fb06d8a0f9ba52b127e234297aede810742fdeb03ec8d1aa58911b65f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e383c36fb06d8a0f9ba52b127e234297aede810742fdeb03ec8d1aa58911b65f"
-      },
-      "24": {
-        "source_ref": "Hebrews 10:24",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 24,
-            "source_ref": "Hebrews 10:24",
-            "segment_mode": "whole",
-            "sha256": "a3beafc53596ad051a3ee7f114b75b163961276130e69b16fad2a55d4821717f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a3beafc53596ad051a3ee7f114b75b163961276130e69b16fad2a55d4821717f"
-      },
-      "25": {
-        "source_ref": "Hebrews 10:25",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 25,
-            "source_ref": "Hebrews 10:25",
-            "segment_mode": "whole",
-            "sha256": "b3fb23c715d8ea26b8ad21de7ba7b73ad469399af0a777c670594e5977275599"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b3fb23c715d8ea26b8ad21de7ba7b73ad469399af0a777c670594e5977275599"
-      },
-      "26": {
-        "source_ref": "Hebrews 10:26",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 26,
-            "source_ref": "Hebrews 10:26",
-            "segment_mode": "whole",
-            "sha256": "fdea0268077e51eaa2ec67c245bd2c28a90216b5d730339e5efad3409cc2ce1d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fdea0268077e51eaa2ec67c245bd2c28a90216b5d730339e5efad3409cc2ce1d"
-      },
-      "27": {
-        "source_ref": "Hebrews 10:27",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 27,
-            "source_ref": "Hebrews 10:27",
-            "segment_mode": "whole",
-            "sha256": "c93aa29ef7222c8e8371bfee17c448b4c3554b5f5628ace1d7fc77178ae0b65b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c93aa29ef7222c8e8371bfee17c448b4c3554b5f5628ace1d7fc77178ae0b65b"
-      },
-      "28": {
-        "source_ref": "Hebrews 10:28",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 28,
-            "source_ref": "Hebrews 10:28",
-            "segment_mode": "whole",
-            "sha256": "715f54f18abddf68702feca4fbe22a068021a558a3faeba6d3a6d61b288fb5ac"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "715f54f18abddf68702feca4fbe22a068021a558a3faeba6d3a6d61b288fb5ac"
-      },
-      "29": {
-        "source_ref": "Hebrews 10:29",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 29,
-            "source_ref": "Hebrews 10:29",
-            "segment_mode": "whole",
-            "sha256": "bf9d00fc5157699bd0d6fa6ee3a225652418cd696db1d8219e78fd177ccdc70f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bf9d00fc5157699bd0d6fa6ee3a225652418cd696db1d8219e78fd177ccdc70f"
-      },
-      "30": {
-        "source_ref": "Hebrews 10:30",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 30,
-            "source_ref": "Hebrews 10:30",
-            "segment_mode": "whole",
-            "sha256": "7fc8a34abe18a28737cc6b8ad589fa9f2c9541d089939bcb911e1cef5491cf41"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7fc8a34abe18a28737cc6b8ad589fa9f2c9541d089939bcb911e1cef5491cf41"
-      },
-      "31": {
-        "source_ref": "Hebrews 10:31",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 31,
-            "source_ref": "Hebrews 10:31",
-            "segment_mode": "whole",
-            "sha256": "34362bed80c935c70f5009932720ed0497b8e98a4ee55f6deeef71865be0a6a0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "34362bed80c935c70f5009932720ed0497b8e98a4ee55f6deeef71865be0a6a0"
-      },
-      "32": {
-        "source_ref": "Hebrews 10:32",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 32,
-            "source_ref": "Hebrews 10:32",
-            "segment_mode": "whole",
-            "sha256": "717f8d3c3e4e1d64b2ce10f8ae618a53b0f09e0dc5208841c90f8d08abb4f893"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "717f8d3c3e4e1d64b2ce10f8ae618a53b0f09e0dc5208841c90f8d08abb4f893"
-      },
-      "33": {
-        "source_ref": "Hebrews 10:33",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 33,
-            "source_ref": "Hebrews 10:33",
-            "segment_mode": "whole",
-            "sha256": "0871319211fff1036654bb2a665b32baa2e10602819727e38e02d479e7c475be"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0871319211fff1036654bb2a665b32baa2e10602819727e38e02d479e7c475be"
-      },
-      "34": {
-        "source_ref": "Hebrews 10:34",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 34,
-            "source_ref": "Hebrews 10:34",
-            "segment_mode": "whole",
-            "sha256": "fac6cb88451f656eb3e576354cd7c8cb1a8361fb414bb9ad0957b1c4d30fed5e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fac6cb88451f656eb3e576354cd7c8cb1a8361fb414bb9ad0957b1c4d30fed5e"
-      },
-      "35": {
-        "source_ref": "Hebrews 10:35",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 35,
-            "source_ref": "Hebrews 10:35",
-            "segment_mode": "whole",
-            "sha256": "d9e488eaf61d6063446ebb5d9b68de5375ee3fa575b26a5f63a9aaf0dd45cf0d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d9e488eaf61d6063446ebb5d9b68de5375ee3fa575b26a5f63a9aaf0dd45cf0d"
-      },
-      "36": {
-        "source_ref": "Hebrews 10:36",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 36,
-            "source_ref": "Hebrews 10:36",
-            "segment_mode": "whole",
-            "sha256": "0112b15aa0bd51bcd5433a136eb12630775e99d19faa5f4c764cd6ab5ea29b1b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0112b15aa0bd51bcd5433a136eb12630775e99d19faa5f4c764cd6ab5ea29b1b"
-      },
-      "37": {
-        "source_ref": "Hebrews 10:37",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 37,
-            "source_ref": "Hebrews 10:37",
-            "segment_mode": "whole",
-            "sha256": "f08c22abcd6f785ba2842e10dcdf8555daf65a368cb2f299a6c03fa0881bbd39"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f08c22abcd6f785ba2842e10dcdf8555daf65a368cb2f299a6c03fa0881bbd39"
-      },
-      "38": {
-        "source_ref": "Hebrews 10:38",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 38,
-            "source_ref": "Hebrews 10:38",
-            "segment_mode": "whole",
-            "sha256": "811fc7c968f6865a1e97cb6220b6b44d3e76400e4be898347ec825131fcad996"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "811fc7c968f6865a1e97cb6220b6b44d3e76400e4be898347ec825131fcad996"
-      },
-      "39": {
-        "source_ref": "Hebrews 10:39",
-        "source_records": [
-          {
-            "chapter": 10,
-            "verse": 39,
-            "source_ref": "Hebrews 10:39",
-            "segment_mode": "whole",
-            "sha256": "ba1ee4d153ae4a8e8068f316eafcdc6aa0307fb67f3ce4943f157be3f7e599f0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "ba1ee4d153ae4a8e8068f316eafcdc6aa0307fb67f3ce4943f157be3f7e599f0"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 10,
+    "verse_count": 39,
+    "path": "translations/fluent/NT/hebrews/Hebrews_10.md",
+    "before_sha256": "9fbba2dd1b189f1009d5673025b4f297723cb80ae010385582898b15b0ac4d34",
+    "after_sha256": "c7b86a886406fba7f515f9d983253afd43d25e5f31032c75708fd8d2fcc8f5fa",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_10.md",
+    "tsw_comparator_sha256": "2b52a4641b04ea3799279cd38d5f6cd2cb08247f7b904d5c6665943834342422"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 10:1",
+      "delta": "F3",
+      "rationale": "Retains shadow/form and repeated sacrificial inability.",
+      "source_reference": "Heb 10:1",
+      "source_verse_sha256": "e14be02712e6746e5106f868bcb05ab775cb3e5f3c27bdf2f980b129c114bd13",
+      "before": "For since the law has only a shadow of the good things to come, and not the true form of these realities, it can never—by the same sacrifices that are offered continually year after year—make people who approach complete.",
+      "after": "Since the law has only a shadow of the good things to come, not their true form, it can never perfect those who approach through the same sacrifices continually offered year after year.",
+      "tsw_comparator": "For since the law has only a shadow of the good things to come, and not the true form of these realities, it can never—by the same sacrifices that are offered continually year after year—make those who draw near complete.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:4",
+      "delta": "F3",
+      "rationale": "Keeps animal blood and explicit impossibility.",
+      "source_reference": "Heb 10:4",
+      "source_verse_sha256": "5ebc40b7db7358e366b9928773134e7a8ac0e076279f614a8031293a6ee05523",
+      "before": "For it is impossible for the blood of bulls and goats to take away sins.",
+      "after": "For it is impossible for the blood of bulls and goats to take away sins.",
+      "tsw_comparator": "For it is impossible for the blood of bulls and goats to take away sins.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:5",
+      "delta": "F3",
+      "rationale": "Retains incarnation setting and the Greek body's prepared reading.",
+      "source_reference": "Heb 10:5",
+      "source_verse_sha256": "25af90b1b11a39c95355c535ac0ada656ae2fe5dac9272e56003ed677274c424",
+      "before": "So, when Christ came into the world, he said, “Sacrifices and offerings you did not desire, but a body you prepared for me.",
+      "after": "Therefore, when Christ comes into the world, he says, “You did not desire sacrifice and offering, but you prepared a body for me.",
+      "tsw_comparator": "Therefore, when Christ came into the world, he said, “Sacrifices and offerings you did not desire, but a body you prepared for me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.695652,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:9",
+      "delta": "F3",
+      "rationale": "Retains sequential interpretive conclusion.",
+      "source_reference": "Heb 10:9",
+      "source_verse_sha256": "32d3ff7ac9d91ebdf866077b64e039ce6e288207d4275ceaa7fdd54ff6ba6ca5",
+      "before": "then he added, “Look—I have come to do your will.” He abolishes the first in order to establish the second.",
+      "after": "Then he says, “Look, I have come to do your will.” He sets aside the first in order to establish the second.",
+      "tsw_comparator": "then he added, “Look—I have come to do your will.” He abolishes the first in order to establish the second.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:10",
+      "delta": "F3",
+      "rationale": "Keeps divine will, bodily offering and finality.",
+      "source_reference": "Heb 10:10",
+      "source_verse_sha256": "635fcb043839cd34188fbc9ac1e15d71018faec65b649fcd088a6675a699c965",
+      "before": "And by that will we have been made holy through the offering of the body of Jesus Christ once for all.",
+      "after": "By that will we have been made holy through the offering of Jesus Christ's body once for all.",
+      "tsw_comparator": "And by that will we have been made holy through the offering of the body of Jesus Christ once for all.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.820513,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:12",
+      "delta": "F3",
+      "rationale": "Keeps single enduring sacrifice and enthronement.",
+      "source_reference": "Heb 10:12",
+      "source_verse_sha256": "1e0637cdae4bf5ec6bf72eadad3c8a13c01927901fc0e627a9dab5cf0d8eb0a4",
+      "before": "But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,",
+      "after": "But after Christ offered one sacrifice for sins for all time, he sat down at God's right hand,",
+      "tsw_comparator": "But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:14",
+      "delta": "F3",
+      "rationale": "Keeps completed perfection with ongoing sanctification.",
+      "source_reference": "Heb 10:14",
+      "source_verse_sha256": "68f70dd416aa2bd2aa5eccb0c27c89db3857b6cae457aed575377b11354921e9",
+      "before": "For by a single offering he has made complete for all time people who are being made holy.",
+      "after": "For by one offering he has perfected forever those who are being made holy.",
+      "tsw_comparator": "For by a single offering he has made complete for all time those who are being made holy.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.6875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:19",
+      "delta": "F3",
+      "rationale": "Retains bold access and violent means.",
+      "source_reference": "Heb 10:19",
+      "source_verse_sha256": "144720ef8c2388f570970a10489aaa0fc79c97f28565d55e39fdc20036c1ed4e",
+      "before": "So, sisters and brothers and sisters, since we have confidence to enter the holy places by the blood of Jesus,",
+      "after": "Therefore, brothers and sisters, since we have confidence to enter the holy place by Jesus' blood,",
+      "tsw_comparator": "Therefore, sisters and brothers, since we have confidence to enter the holy places by the blood of Jesus,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:20",
+      "delta": "F3",
+      "rationale": "Keeps way, curtain and bodily interpretation.",
+      "source_reference": "Heb 10:20",
+      "source_verse_sha256": "ee3682d233ac7f88a86e1cbdedf99d929aaee3a53575359cb4b5289440704408",
+      "before": "by the new and living way that he opened for us through the curtain—that is, through his flesh—",
+      "after": "by the new and living way he opened for us through the curtain—that is, through his flesh—",
+      "tsw_comparator": "by the new and living way that he opened for us through the curtain—that is, through his flesh—",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.972973,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:22",
+      "delta": "F3",
+      "rationale": "Preserves inner/outer cleansing and confidence.",
+      "source_reference": "Heb 10:22",
+      "source_verse_sha256": "bfdde46ff7fa6197941b91211a1bb22d9d8b7cf816953b9fa929dfdb552d2697",
+      "before": "let us approach with a true heart in full assurance of trust, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.",
+      "after": "let us approach with a true heart in full assurance of faith, our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.",
+      "tsw_comparator": "let us draw near with a true heart in full assurance of trust, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.892857,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:24",
+      "delta": "F3",
+      "rationale": "Retains strong provocation term directed toward good.",
+      "source_reference": "Heb 10:24",
+      "source_verse_sha256": "6f971b68ef83df05089f49575d59a0baeaed6ba72d1224d1e6113cdabbf9a9cf",
+      "before": "And let us consider how to provoke one another to love and good works,",
+      "after": "And let us consider one another so as to provoke love and good works,",
+      "tsw_comparator": "And let us consider how to provoke one another to love and good works,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:25",
+      "delta": "F3",
+      "rationale": "Keeps communal assembly, mutual encouragement and named Day.",
+      "source_reference": "Heb 10:25",
+      "source_verse_sha256": "e2dd835c9dc20ea26e341875c86c6894ab9ee7542bbafa3051532883461164c8",
+      "before": "not neglecting to meet together, as is the habit of some, but encouraging one another—and all the more as you see the Day drawing near.",
+      "after": "not abandoning our gathering together, as some habitually do, but encouraging one another—and all the more as you see the Day approaching.",
+      "tsw_comparator": "not neglecting to meet together, as is the habit of some, but encouraging one another—and all the more as you see the Day drawing near.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.693878,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:26",
+      "delta": "F3",
+      "rationale": "Preserves willful ongoing sin and severe consequence.",
+      "source_reference": "Heb 10:26",
+      "source_verse_sha256": "c4933201053ef51f3c9585329b7f3c294b766dfeb659347614adde71ddd0741a",
+      "before": "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,",
+      "after": "For if we deliberately continue sinning after receiving knowledge of the truth, no sacrifice for sins remains,",
+      "tsw_comparator": "For if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.717949,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:27",
+      "delta": "F3",
+      "rationale": "Keeps fear, fire and consuming violence.",
+      "source_reference": "Heb 10:27",
+      "source_verse_sha256": "825f6caba58234dea5b7bc600bd73a0535874db9d901981df024278bf9eedde5",
+      "before": "but a fearful expectation of judgment and a fury of fire that will consume the adversaries.",
+      "after": "but only a terrifying expectation of judgment and a fury of fire that will consume God's enemies.",
+      "tsw_comparator": "but a fearful expectation of judgment and a fury of fire that will consume the adversaries.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.787879,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:28",
+      "delta": "F3",
+      "rationale": "Retains named Moses, execution and exact evidentiary number.",
+      "source_reference": "Heb 10:28",
+      "source_verse_sha256": "9231a1b2021fd67c701413f1f63ebc3d9175517050d8474836e9fdf7aead2472",
+      "before": "Anyone who has set aside the law of Moses dies without mercy on the testimony of two or three witnesses.",
+      "after": "Anyone who rejected Moses' law died without mercy on the testimony of two or three witnesses.",
+      "tsw_comparator": "Anyone who has set aside the law of Moses dies without mercy on the testimony of two or three witnesses.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.722222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:29",
+      "delta": "F3",
+      "rationale": "Keeps three offenses, blood and rhetorical escalation.",
+      "source_reference": "Heb 10:29",
+      "source_verse_sha256": "ab841bbe91031920b91a89dac9978b8a84106ec2a7f720fbcd871464aad4c23d",
+      "before": "How much worse punishment do you think will be deserved by the one who has trampled underfoot the Son of God, and has treated as common the blood of the covenant by which they were made holy, and has insulted the Spirit of grace?",
+      "after": "How much worse punishment do you think will be deserved by someone who trampled God's Son, treated as common the covenant blood by which that person was made holy and insulted the Spirit of grace?",
+      "tsw_comparator": "How much worse punishment do you think will be deserved by the one who has trampled underfoot the Son of God, and has treated as common the blood of the covenant by which they were made holy, and has insulted the Spirit of grace?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.734177,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:30",
+      "delta": "F3",
+      "rationale": "Retains divine vengeance rather than authorizing personal retaliation.",
+      "source_reference": "Heb 10:30",
+      "source_verse_sha256": "483a6e8be0d6b9deec39ee931442011705f6d9dca6dd5660954853b59a1b8b32",
+      "before": "For we know the one who said, “Vengeance is mine; I will repay.” And again, “The Lord will judge his people.”",
+      "after": "For we know the one who said, “Vengeance belongs to me; I will repay,” and again, “The Lord will judge his people.”",
+      "tsw_comparator": "For we know the one who said, “Vengeance is mine; I will repay.” And again, “The Lord will judge his people.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.883721,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:31",
+      "delta": "F3",
+      "rationale": "Keeps stark fear and bodily fall image.",
+      "source_reference": "Heb 10:31",
+      "source_verse_sha256": "acf88ce54fdb012dd2a5cd41ce1d8b0c05e9f948c74ef2545c53fdbf17f2c371",
+      "before": "It is a fearful thing to fall into the hands of the living God.",
+      "after": "It is terrifying to fall into the hands of the living God.",
+      "tsw_comparator": "It is a fearful thing to fall into the hands of the living God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.846154,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:33",
+      "delta": "F3",
+      "rationale": "Keeps spectacle language and solidarity.",
+      "source_reference": "Heb 10:33",
+      "source_verse_sha256": "8e9d938ab122b932a25e42dd2a8e07f3f95c5c363df9acfca83f64b9b6991393",
+      "before": "sometimes being publicly exposed to insults and afflictions, and sometimes being partners with people who were so treated.",
+      "after": "At times you were publicly exposed to insults and afflictions; at other times you became partners with those treated that way.",
+      "tsw_comparator": "sometimes being publicly exposed to insults and afflictions, and sometimes being partners with those who were so treated.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.512821,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:34",
+      "delta": "F3",
+      "rationale": "Preserves imprisonment, state/social confiscation and possession wordplay.",
+      "source_reference": "Heb 10:34",
+      "source_verse_sha256": "160a3b4610131e10ce38c4c37bd95e76b57859e6b98a0efb3807c8a1be6f5edd",
+      "before": "For you had compassion on those in prison, and you accepted with joy the plundering of your possessions, knowing that you yourselves have a better and lasting possession.",
+      "after": "For you sympathized with prisoners and accepted the seizure of your possessions with joy, knowing that you yourselves had a better and lasting possession.",
+      "tsw_comparator": "For you had compassion on those in prison, and you accepted with joy the plundering of your possessions, knowing that you yourselves have a better and lasting possession.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:37",
+      "delta": "F3",
+      "rationale": "Keeps emphatic short time and arrival.",
+      "source_reference": "Heb 10:37",
+      "source_verse_sha256": "00d2e7044d8ccda2ff01e47a49c2dc54bda6c06abdb479c717b7d5ee972289cf",
+      "before": "“For yet a very little while, and the one who is coming will come and will not delay;",
+      "after": "For “in just a very little while, the coming one will come and will not delay;",
+      "tsw_comparator": "“For yet a very little while, and the one who is coming will come and will not delay;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:38",
+      "delta": "F3",
+      "rationale": "Follows pinned pronoun and retains divine displeasure.",
+      "source_reference": "Heb 10:38",
+      "source_verse_sha256": "9c671886c3be6ba2e2d095b2bffb24e48af7017b29beab4429aefdb3b98c95fb",
+      "before": "but my righteous one will live by trust, and if they shrink back, my soul takes no pleasure in them.”",
+      "after": "but my righteous one will live by faith, and if he draws back, my soul takes no pleasure in him.”",
+      "tsw_comparator": "but my righteous one will live by trust, and if they shrink back, my soul takes no pleasure in them.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 10:39",
+      "delta": "F3",
+      "rationale": "Keeps group contrast and preservation.",
+      "source_reference": "Heb 10:39",
+      "source_verse_sha256": "3c492fce134a51bcc9b4d4eac3b66beb057b941088053d96fe115b6cea119f3f",
+      "before": "But we are not among people who shrink back to destruction, but among people who have trust to the preserving of the soul.",
+      "after": "But we do not belong to those who draw back and are destroyed, but to those who have faith and preserve their lives.",
+      "tsw_comparator": "But we are not among those who shrink back to destruction, but among those who have trust to the preserving of the soul.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.434783,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_10.md",
-    "blob_sha": "8e117d89856ff76b7d37235ff4dc461eae912838"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

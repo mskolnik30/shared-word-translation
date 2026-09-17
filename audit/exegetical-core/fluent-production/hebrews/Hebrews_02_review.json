@@ -2,305 +2,199 @@
   "book": "Hebrews",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_02_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18
-  ],
-  "curated_f3_decisions": [],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 2:1",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 1,
-            "source_ref": "Hebrews 2:1",
-            "segment_mode": "whole",
-            "sha256": "889cf7ab11483b59d725920fa4868631c8ab826b343285b0ea766f4eef9ed40d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "889cf7ab11483b59d725920fa4868631c8ab826b343285b0ea766f4eef9ed40d"
-      },
-      "2": {
-        "source_ref": "Hebrews 2:2",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 2,
-            "source_ref": "Hebrews 2:2",
-            "segment_mode": "whole",
-            "sha256": "8f7217e0b5465e1635d16d8b521d03d9b72a0055e129469568faf916ee168fbc"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8f7217e0b5465e1635d16d8b521d03d9b72a0055e129469568faf916ee168fbc"
-      },
-      "3": {
-        "source_ref": "Hebrews 2:3",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 3,
-            "source_ref": "Hebrews 2:3",
-            "segment_mode": "whole",
-            "sha256": "272bd40c9cb2b1eaf0e2f2a8a8aab738dc3d67ff85838edf75c2fe89d269217f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "272bd40c9cb2b1eaf0e2f2a8a8aab738dc3d67ff85838edf75c2fe89d269217f"
-      },
-      "4": {
-        "source_ref": "Hebrews 2:4",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 4,
-            "source_ref": "Hebrews 2:4",
-            "segment_mode": "whole",
-            "sha256": "c4723d68654a376fe0b3a1a6b430fa2f66a76833989dd650661fd6a6578e14e9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c4723d68654a376fe0b3a1a6b430fa2f66a76833989dd650661fd6a6578e14e9"
-      },
-      "5": {
-        "source_ref": "Hebrews 2:5",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 5,
-            "source_ref": "Hebrews 2:5",
-            "segment_mode": "whole",
-            "sha256": "b2462f2d518162312b81e30f48abde13564cedee2f70857f09c34d8c59284f87"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b2462f2d518162312b81e30f48abde13564cedee2f70857f09c34d8c59284f87"
-      },
-      "6": {
-        "source_ref": "Hebrews 2:6",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 6,
-            "source_ref": "Hebrews 2:6",
-            "segment_mode": "whole",
-            "sha256": "1af7e73e6745c988016fc6fa84af17f873c5ccc5acfd9f055b06d2eec20504e5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1af7e73e6745c988016fc6fa84af17f873c5ccc5acfd9f055b06d2eec20504e5"
-      },
-      "7": {
-        "source_ref": "Hebrews 2:7",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 7,
-            "source_ref": "Hebrews 2:7",
-            "segment_mode": "whole",
-            "sha256": "5b6f1c2562a130228aaf3a82cb72e350650bc1117ae06965eda686091dc39e84"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5b6f1c2562a130228aaf3a82cb72e350650bc1117ae06965eda686091dc39e84"
-      },
-      "8": {
-        "source_ref": "Hebrews 2:8",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 8,
-            "source_ref": "Hebrews 2:8",
-            "segment_mode": "whole",
-            "sha256": "9359e5ce86f76f3923039ab06977da1d1c7b2ce8538f3e93acd23bc1545eff1e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9359e5ce86f76f3923039ab06977da1d1c7b2ce8538f3e93acd23bc1545eff1e"
-      },
-      "9": {
-        "source_ref": "Hebrews 2:9",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 9,
-            "source_ref": "Hebrews 2:9",
-            "segment_mode": "whole",
-            "sha256": "5f254848dea427341bf1041af9b3ea1a757aad440d6706139ef87133b51b1fb7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5f254848dea427341bf1041af9b3ea1a757aad440d6706139ef87133b51b1fb7"
-      },
-      "10": {
-        "source_ref": "Hebrews 2:10",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 10,
-            "source_ref": "Hebrews 2:10",
-            "segment_mode": "whole",
-            "sha256": "32057a8048ad41ccf7f813582ae5efffc327bcb1ed74c3ae65c096b9e82e2a3d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "32057a8048ad41ccf7f813582ae5efffc327bcb1ed74c3ae65c096b9e82e2a3d"
-      },
-      "11": {
-        "source_ref": "Hebrews 2:11",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 11,
-            "source_ref": "Hebrews 2:11",
-            "segment_mode": "whole",
-            "sha256": "9737ac1eef1fd2254bdf8e784b50f67cc3f4ce42cebb8d7d35ffa6cda9d8b5c1"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9737ac1eef1fd2254bdf8e784b50f67cc3f4ce42cebb8d7d35ffa6cda9d8b5c1"
-      },
-      "12": {
-        "source_ref": "Hebrews 2:12",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 12,
-            "source_ref": "Hebrews 2:12",
-            "segment_mode": "whole",
-            "sha256": "3b6c1fd372ff4fb99cc782844b95aa4ba005296b96eb84fbae94071a5a910cb3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3b6c1fd372ff4fb99cc782844b95aa4ba005296b96eb84fbae94071a5a910cb3"
-      },
-      "13": {
-        "source_ref": "Hebrews 2:13",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 13,
-            "source_ref": "Hebrews 2:13",
-            "segment_mode": "whole",
-            "sha256": "6e487200393561e0b4e374ceadb722f1a179c0da0331dc728b89d293c5357fee"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6e487200393561e0b4e374ceadb722f1a179c0da0331dc728b89d293c5357fee"
-      },
-      "14": {
-        "source_ref": "Hebrews 2:14",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 14,
-            "source_ref": "Hebrews 2:14",
-            "segment_mode": "whole",
-            "sha256": "bdacdc7bf661a90241102b62100cba90441b11f3ed31c05badb4ff69ef479da5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bdacdc7bf661a90241102b62100cba90441b11f3ed31c05badb4ff69ef479da5"
-      },
-      "15": {
-        "source_ref": "Hebrews 2:15",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 15,
-            "source_ref": "Hebrews 2:15",
-            "segment_mode": "whole",
-            "sha256": "f758540e76fb8e79706c6997c725acd432a4040f0461d222b2ef5cdc1e650da3"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f758540e76fb8e79706c6997c725acd432a4040f0461d222b2ef5cdc1e650da3"
-      },
-      "16": {
-        "source_ref": "Hebrews 2:16",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 16,
-            "source_ref": "Hebrews 2:16",
-            "segment_mode": "whole",
-            "sha256": "a465c4de7d1d80112a857f94d92aa386cbb7b79e3a9d5c58754480ccd85c9b2e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a465c4de7d1d80112a857f94d92aa386cbb7b79e3a9d5c58754480ccd85c9b2e"
-      },
-      "17": {
-        "source_ref": "Hebrews 2:17",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 17,
-            "source_ref": "Hebrews 2:17",
-            "segment_mode": "whole",
-            "sha256": "9beb28f0249d6026b2b80acef406a5eb686d04c9584bdb1fee9091465bb6010a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9beb28f0249d6026b2b80acef406a5eb686d04c9584bdb1fee9091465bb6010a"
-      },
-      "18": {
-        "source_ref": "Hebrews 2:18",
-        "source_records": [
-          {
-            "chapter": 2,
-            "verse": 18,
-            "source_ref": "Hebrews 2:18",
-            "segment_mode": "whole",
-            "sha256": "8333d4c657cde8ab1eb6c0f034da6b69ff5f0485f8505d4f69a27ccd060bc145"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8333d4c657cde8ab1eb6c0f034da6b69ff5f0485f8505d4f69a27ccd060bc145"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/hebrews/Hebrews_02.md",
+    "before_sha256": "c60a5c0ba9ef743da0439d5e36b315ac3d489dd0941ba157c0d0e6fdce16d6a6",
+    "after_sha256": "21d16f30c9ee98e1dee2356dd964a1f05cc1f6d63ce26f6eeee8a2ba31a3d3bd",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_02.md",
+    "tsw_comparator_sha256": "388c743a12369437d20fcd770ff50dfca7f410898a4f25c577806d22db8877f7"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 2:1",
+      "delta": "F3",
+      "rationale": "Retains heightened attention and drifting image.",
+      "source_reference": "Heb 2:1",
+      "source_verse_sha256": "a5a78c054116059544c8a91ed86dcd65de46560ca6861c1401eeb4fb978fc668",
+      "before": "So we must pay much closer attention to what we have heard, lest we drift away from it.",
+      "after": "Therefore, we must pay much closer attention to what we have heard, so that we do not drift away.",
+      "tsw_comparator": "Therefore we must pay much closer attention to what we have heard, lest we drift away from it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:3",
+      "delta": "F3",
+      "rationale": "Preserves rhetorical warning and the transmission sequence.",
+      "source_reference": "Heb 2:3",
+      "source_verse_sha256": "b065057377fe3fe93a4253b8a021c25877716f6b88a301d20f2e13238d58ff43",
+      "before": "how will we escape if we neglect so great a salvation? It was declared at first by the Lord, and it was attested to us by people who heard,",
+      "after": "how will we escape if we neglect so great a salvation? It was first spoken through the Lord and confirmed to us by those who heard him,",
+      "tsw_comparator": "how shall we escape if we neglect so great a salvation? It was declared at first by the Lord, and it was attested to us by those who heard,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.785714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:6",
+      "delta": "F3",
+      "rationale": "Keeps the author's indefinite citation formula and gendered representative human.",
+      "source_reference": "Heb 2:6",
+      "source_verse_sha256": "bc3a4dde94f02309d4fcfbec0b959184d3294ed4ed71fe7d5a4715dd90c360f9",
+      "before": "It has been testified somewhere, “What is man, that you are mindful of him, or the son of man, that you care for him?",
+      "after": "But someone has testified somewhere: “What is a human being that you remember him, or a son of man that you care for him?",
+      "tsw_comparator": "It has been testified somewhere, “What is man, that you are mindful of him, or the son of man, that you care for him?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.708333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:7",
+      "delta": "F3",
+      "rationale": "Preserves temporal/spatial ambiguity of little and crowning.",
+      "source_reference": "Heb 2:7",
+      "source_verse_sha256": "763c404daa000b88c5094a9141b1832afd0adbb6aa1407c8e1a3b88b507c021e",
+      "before": "You made him for a little while lower than the angels; you have crowned him with glory and honor,",
+      "after": "You made him lower than the angels for a little while; you crowned him with glory and honor",
+      "tsw_comparator": "You made him for a little while lower than the angels; you have crowned him with glory and honor,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.756757,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:8",
+      "delta": "F3",
+      "rationale": "Keeps universal subjection and the present empirical tension.",
+      "source_reference": "Heb 2:8",
+      "source_verse_sha256": "1c7b1b2c9ae4ef82da64a9beb0de7da88ad57daefea1ac1c363b3d64004be0f9",
+      "before": "putting everything in subjection under his feet.” Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him.",
+      "after": "and subjected everything beneath his feet.” By subjecting everything to him, God left nothing outside his control. Yet at present we do not see everything subjected to him.",
+      "tsw_comparator": "putting everything in subjection under his feet.” Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.655738,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:9",
+      "delta": "F3",
+      "rationale": "Follows the pinned ‘apart from God’ reading rather than silently substituting ‘by grace.’",
+      "source_reference": "Heb 2:9",
+      "source_verse_sha256": "4f7580dc141544e19ec78089b0bee9821e0fafa6bf0b4a693c23aca3fd721fd5",
+      "before": "But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.",
+      "after": "But we see Jesus, made lower than the angels for a little while, crowned with glory and honor because he suffered death, so that apart from God he might taste death for everyone.",
+      "tsw_comparator": "But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.648649,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:10",
+      "delta": "F3",
+      "rationale": "Keeps divine purpose, filial image, pioneer title and suffering.",
+      "source_reference": "Heb 2:10",
+      "source_verse_sha256": "54e6731e48e2234485a988b195ceac2a90cd54d04be84286368173e9ce398e32",
+      "before": "For it was fitting that he, for whom and by whom everything exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering.",
+      "after": "For it was fitting that God, for whom and through whom all things exist, in bringing many sons and daughters to glory, should perfect the pioneer of their salvation through sufferings.",
+      "tsw_comparator": "For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.786885,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:11",
+      "delta": "F3",
+      "rationale": "Preserves shared origin and family naming.",
+      "source_reference": "Heb 2:11",
+      "source_verse_sha256": "e408b71fdb2870c723d00d9f3ef6d74feceb101db57342057cdae159169ecbec",
+      "before": "For he who sanctifies and people who are sanctified all have one source. That is why he is not ashamed to call them brothers and sisters,",
+      "after": "For the one who makes holy and those being made holy all come from one. That is why he is not ashamed to call them brothers and sisters,",
+      "tsw_comparator": "For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.653846,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:14",
+      "delta": "F3",
+      "rationale": "Keeps human embodiment, death as means and named opponent.",
+      "source_reference": "Heb 2:14",
+      "source_verse_sha256": "752cee7b7ddfdd86faae0c374f7b8f51eaa592c91f609e1f77ede3d5c598e250",
+      "before": "Since therefore the children share in flesh and blood, he himself likewise shared in the same things, that through death he might destroy the one who has the power of death, that is, the devil,",
+      "after": "Since the children share in blood and flesh, he too shared in the same things, so that through death he might render powerless the one who holds the power of death—that is, the devil—",
+      "tsw_comparator": "Since therefore the children share in flesh and blood, he himself likewise shared in the same things, that through death he might destroy the one who has the power of death, that is, the devil,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.8,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:15",
+      "delta": "F3",
+      "rationale": "Preserves lifelong fear and slavery language.",
+      "source_reference": "Heb 2:15",
+      "source_verse_sha256": "1db7e4923618bc13da6f926d432f93ec3bf9236f4e8ad7504627f33155cf5582",
+      "before": "and deliver all people who through fear of death were subject to lifelong slavery.",
+      "after": "and free those who were held in slavery all their lives by fear of death.",
+      "tsw_comparator": "and deliver all those who through fear of death were subject to lifelong slavery.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.413793,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 2:17",
+      "delta": "F3",
+      "rationale": "Retains necessity, full likeness and priestly atonement.",
+      "source_reference": "Heb 2:17",
+      "source_verse_sha256": "12f7ae875eca14746919d2fad909782f7e9ff8428c22d6a3498c12b5c7ec020f",
+      "before": "So he had to be made like his brothers and sisters in every respect, so that he might become a merciful and faithful high priest in the service of God, to make atonement for the sins of the people.",
+      "after": "Therefore, he had to become like his brothers and sisters in every way, so that he might become a merciful and faithful high priest in matters relating to God, to make atonement for the people's sins.",
+      "tsw_comparator": "Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make atonement for the sins of the people.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.767123,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_02.md",
-    "blob_sha": "dc31b605b555c1b179110dc54116d66752264a59"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

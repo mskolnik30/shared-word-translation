@@ -2,132 +2,150 @@
   "book": "Titus",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 16,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-titus-1-3-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/titus/Titus_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Titus.txt",
     "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Titus 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "8ea2778431d722b89e9f36dc95597ab455d83686bc5acd1e195f33219d14d9df"
-      },
-      "2": {
-        "source_ref": "Titus 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "034ba214ca3991322f519c67b419eae138e3c681d8b38553c26eb92e595caa0a"
-      },
-      "3": {
-        "source_ref": "Titus 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "b187efb905c5de476c72767f077a142b7d4299aa753d5cd2285ae73379ae8975"
-      },
-      "4": {
-        "source_ref": "Titus 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "b81bfe373e9ed06bf0f438c04bd4ad774181dc25b1693bfbed4c9f0d1e0d2a5a"
-      },
-      "5": {
-        "source_ref": "Titus 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "3f1460c6a76655bdfc3e9ff9da08c480673550a97f998f13dd6f8ebd8a4f05d7"
-      },
-      "6": {
-        "source_ref": "Titus 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "a1aab80869a9fa9cb700bbcdef9f41452a70fba99d9430e91254c84a70dd161e"
-      },
-      "7": {
-        "source_ref": "Titus 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "3cf4a5d34b0ba10292a9458d423b9b5cfcc090917e689175729cc26ec42448a5"
-      },
-      "8": {
-        "source_ref": "Titus 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "972acc0adb61778f10a7372f096d2bafa905a31cab4d6a843a25ba90d447e4a1"
-      },
-      "9": {
-        "source_ref": "Titus 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "b5ff4cd0405fcb92ba1db92398d1a69c8179ba209203222cfc6a872296be1dfb"
-      },
-      "10": {
-        "source_ref": "Titus 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "99db72edf30d11804a1984a7804a9b882b3530fcede505c7fb976c1c237702a9"
-      },
-      "11": {
-        "source_ref": "Titus 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "285d73ebd15c2f9d673cdefecea8c36ceb61a638576b82b34a574a719f72d480"
-      },
-      "12": {
-        "source_ref": "Titus 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "9f34cc4cd7b39bbdad3b7d4f52eb3bfb3e1e05c023cee3dc54e47472131feb56"
-      },
-      "13": {
-        "source_ref": "Titus 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "5bc389dfafda8201a6861c885ef693bc38ce91565211ac76c01fae4de8243dd3"
-      },
-      "14": {
-        "source_ref": "Titus 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "50bcc334cf7e71eb9b452b345e24a7607406e804ea6d2546c3200332c7321ae5"
-      },
-      "15": {
-        "source_ref": "Titus 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "e22199d27764290708d3d4f1e0e6a4a15f0b7759389b02f8e569ade0fc9d2b49"
-      },
-      "16": {
-        "source_ref": "Titus 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "19c53c236b9a09c1b2b5570446f5900e0d5ccfbda38d10a62e7f953b0ecb3773"
-      }
+    "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Titus.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Titus",
+    "book_verse_count": 46,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 16,
+    "path": "translations/fluent/NT/titus/Titus_01.md",
+    "before_sha256": "8331ac832dd7af1575bbf4fcdb59dbffba5a666b4ae56005195a21ff8788cba8",
+    "after_sha256": "0802bf6c9c8943bb29441b9c32250632952121f6e7acb36a3ba30fc5fbb97f6b",
+    "tsw_comparator_path": "books/NT/titus/Titus_01.md",
+    "tsw_comparator_sha256": "eedc7968b5ee25511f38d46f895dbe0e87d1650ef29252d84028f78b69cde005"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Titus 1:1",
+      "delta": "F3",
+      "rationale": "Keeps slave and apostle identities and their stated purpose.",
+      "source_reference": "Titus 1:1",
+      "source_verse_sha256": "5556e31ab454d350f308d73084ad0cde7db3405b77973a2f46c5ed53b3f18a64",
+      "before": "Paul, a slave of God and apostle of Jesus Christ, for the trust of God’s chosen people and the knowledge of the truth that accords with godliness,",
+      "after": "Paul, a slave of God and an apostle of Jesus Christ, for the faith of God's chosen people and their knowledge of the truth that accords with godliness,",
+      "tsw_comparator": "Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.827586,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:6",
+      "delta": "F3",
+      "rationale": "Preserves male marital idiom and the ambiguous believing/faithful description.",
+      "source_reference": "Titus 1:6",
+      "source_verse_sha256": "bea2056ea1c8ed59777c01547eefff68330e83f5bad42d2a29bb650c43f82a86",
+      "before": "An elder must be above accusation, faithful to one spouse, with believing children who are not accused of reckless living or rebellion.",
+      "after": "An elder must be beyond accusation, a one-woman man, with faithful children not accused of wild living or rebellion.",
+      "tsw_comparator": "if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.222222,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:7",
+      "delta": "F3",
+      "rationale": "Keeps stewardship and all five prohibitions.",
+      "source_reference": "Titus 1:7",
+      "source_verse_sha256": "3898d5fc461512ab14657335c5199a7543d55f9f32f2ce8e58df6bff56ab8f4b",
+      "before": "For an overseer, as God’s steward, must be above accusation—not arrogant, quick-tempered, addicted to wine, violent, or greedy for dishonest gain,",
+      "after": "For an overseer, as God's steward, must be beyond accusation—not self-willed, quick-tempered, addicted to wine, violent or greedy for dishonest gain,",
+      "tsw_comparator": "For an overseer, as God’s steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.627451,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:10",
+      "delta": "F3",
+      "rationale": "Retains three descriptions and specified subgroup.",
+      "source_reference": "Titus 1:10",
+      "source_verse_sha256": "a2f9cae2a4c90637fa0ce9ea99c23e14c9e8e6e29a757f5055311ca9b634f51a",
+      "before": "For there are many rebellious people, empty talkers, and deceivers, especially those from the circumcision group.",
+      "after": "For there are many rebellious people, empty talkers and deceivers, especially those from the circumcision group.",
+      "tsw_comparator": "For there are many who are insubordinate, empty talkers and deceivers, especially those of the circumcision party.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.727273,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:11",
+      "delta": "F3",
+      "rationale": "Keeps forceful response, household harm and financial motive.",
+      "source_reference": "Titus 1:11",
+      "source_verse_sha256": "867df59c13426f6c996bb7da5b7b2ce8a2eb6f4eddd5c6b05808cede0d1f7e48",
+      "before": "They must be silenced because they are overturning whole households by teaching what they should not for shameful gain.",
+      "after": "They must be silenced, because they overturn whole households by teaching what they should not for shameful gain.",
+      "tsw_comparator": "They must be silenced, since they are upsetting whole households by teaching for shameful gain what they ought not to teach.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:12",
+      "delta": "F3",
+      "rationale": "Preserves the quoted ethnic insult, speaker relation and animal/bodily rhetoric.",
+      "source_reference": "Titus 1:12",
+      "source_verse_sha256": "657ea5813dacfb9e00118f3d9fe343dce026025ff63ea3416b07ae35a188dfef",
+      "before": "One of their own prophets said, “Cretans are always liars, evil beasts, lazy gluttons.”",
+      "after": "One of their own, a prophet of theirs, said, “Cretans are always liars, evil beasts, lazy bellies.”",
+      "tsw_comparator": "One of the Cretans, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.685714,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:13",
+      "delta": "F3",
+      "rationale": "Retains the letter's endorsement, severity and corrective aim.",
+      "source_reference": "Titus 1:13",
+      "source_verse_sha256": "16d6fb7c8a65c28c3bd0111afe25d49c48ded21f9d20928e6bcd8b156c71cb22",
+      "before": "This testimony is true. Therefore correct them sharply so that they may become sound in the trust,",
+      "after": "This testimony is true. Therefore, rebuke them sharply so that they may become sound in the faith,",
+      "tsw_comparator": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Titus 1:14",
+      "delta": "F3",
+      "rationale": "Keeps the specific polemical labels without generalizing beyond the opponents.",
+      "source_reference": "Titus 1:14",
+      "source_verse_sha256": "993e5bfcbdf36429f08a32e84520a1ff29257ad7c14fad9b2bb181877732594a",
+      "before": "not paying attention to Jewish myths and commands of people who turn away from the truth.",
+      "after": "not paying attention to Jewish myths and commands of people who turn away from the truth.",
+      "tsw_comparator": "not devoting themselves to Jewish myths and the commands of people who turn away from the truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.848485,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/titus/Titus_01.md",
-    "blob_sha": "f371f4473779fbbd028e4925a29526a5b641f9ea"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

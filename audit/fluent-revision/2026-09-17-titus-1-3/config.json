@@ -1,0 +1,97 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "Titus",
+  "slug": "titus",
+  "chapters": [
+    1,
+    2,
+    3
+  ],
+  "scope": "Titus 1–3",
+  "expected_verses": 46,
+  "source_filename": "titus-pinned-greek.txt",
+  "book_record_files": [
+    "TITUS_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Titus.txt",
+    "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
+    "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Titus.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Titus",
+    "book_verse_count": 46,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:1",
+    "1:6",
+    "1:7",
+    "1:10",
+    "1:11",
+    "1:12",
+    "1:13",
+    "1:14",
+    "2:3",
+    "2:4",
+    "2:5",
+    "2:9",
+    "2:10",
+    "2:11",
+    "2:13",
+    "2:14",
+    "3:1",
+    "3:5",
+    "3:6",
+    "3:7",
+    "3:10"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "06",
+          "The household qualification describes a ‘one-woman man’ with believing or faithful children; both expressions require contextual review."
+        ],
+        [
+          "12",
+          "The ethnic insult is quoted as a Cretan prophet’s saying and then endorsed in the next verse; its harmful rhetoric is retained, not universalized beyond the text."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "2": {
+      "notes": [
+        [
+          "09–10",
+          "The passage addresses enslaved people inside slavery and demands submission; its coercive social setting is not softened."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "3": {
+      "notes": [
+        [
+          "10",
+          "The term describes a divisive or faction-making person; later technical meanings should not be assumed automatically."
+        ]
+      ],
+      "vocabulary": []
+    }
+  }
+}

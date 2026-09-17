@@ -2,476 +2,394 @@
   "book": "Hebrews",
   "chapter": 12,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-hebrews-1-13-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/hebrews/Hebrews_12_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/Heb.txt",
-    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "12:18-29",
-      "decision": "Preserve Sinai/Zion contrast as rhetorical movement within Israel's Scriptures, not replacement theology.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/Heb.txt",
     "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "Hebrews 12:1",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 1,
-            "source_ref": "Hebrews 12:1",
-            "segment_mode": "whole",
-            "sha256": "a248e0616a23db3068e43139151f5b93d80111f329b5f8a3277d910f0c645336"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a248e0616a23db3068e43139151f5b93d80111f329b5f8a3277d910f0c645336"
-      },
-      "2": {
-        "source_ref": "Hebrews 12:2",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 2,
-            "source_ref": "Hebrews 12:2",
-            "segment_mode": "whole",
-            "sha256": "a46499039dbcb763149b29c5f023384b973a9b720ebe8b7456ea02362cc9e631"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a46499039dbcb763149b29c5f023384b973a9b720ebe8b7456ea02362cc9e631"
-      },
-      "3": {
-        "source_ref": "Hebrews 12:3",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 3,
-            "source_ref": "Hebrews 12:3",
-            "segment_mode": "whole",
-            "sha256": "41a193d21949cea36e18f8f3552f7231c8dd653046a6cf8f9e524c9e7fabe06e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "41a193d21949cea36e18f8f3552f7231c8dd653046a6cf8f9e524c9e7fabe06e"
-      },
-      "4": {
-        "source_ref": "Hebrews 12:4",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 4,
-            "source_ref": "Hebrews 12:4",
-            "segment_mode": "whole",
-            "sha256": "04b426bfa52c5459c3f90c6811996d24a9791b66a8b955ebca2cc2757ef98852"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "04b426bfa52c5459c3f90c6811996d24a9791b66a8b955ebca2cc2757ef98852"
-      },
-      "5": {
-        "source_ref": "Hebrews 12:5",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 5,
-            "source_ref": "Hebrews 12:5",
-            "segment_mode": "whole",
-            "sha256": "eb9db1e2ed9c83895b624254bef6b5ec848ac93076e8611eb829e690c645b2fa"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "eb9db1e2ed9c83895b624254bef6b5ec848ac93076e8611eb829e690c645b2fa"
-      },
-      "6": {
-        "source_ref": "Hebrews 12:6",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 6,
-            "source_ref": "Hebrews 12:6",
-            "segment_mode": "whole",
-            "sha256": "2e361dba8de72cc3b5aaf74b7df38f90178850ea8c458408b3969d8e9b31960a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "2e361dba8de72cc3b5aaf74b7df38f90178850ea8c458408b3969d8e9b31960a"
-      },
-      "7": {
-        "source_ref": "Hebrews 12:7",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 7,
-            "source_ref": "Hebrews 12:7",
-            "segment_mode": "whole",
-            "sha256": "7ba69d437adbd76a745a641836f54289c2032709c0d094c9b42154e06ba4ff19"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7ba69d437adbd76a745a641836f54289c2032709c0d094c9b42154e06ba4ff19"
-      },
-      "8": {
-        "source_ref": "Hebrews 12:8",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 8,
-            "source_ref": "Hebrews 12:8",
-            "segment_mode": "whole",
-            "sha256": "c0f94728fd4e7818d718efd0351a1eb21f342e0cf34e3004929a6f19a861b069"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c0f94728fd4e7818d718efd0351a1eb21f342e0cf34e3004929a6f19a861b069"
-      },
-      "9": {
-        "source_ref": "Hebrews 12:9",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 9,
-            "source_ref": "Hebrews 12:9",
-            "segment_mode": "whole",
-            "sha256": "21fe1996d77391940668c63ce96e09085f75b95485f2b39fb83d208ba40639cd"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "21fe1996d77391940668c63ce96e09085f75b95485f2b39fb83d208ba40639cd"
-      },
-      "10": {
-        "source_ref": "Hebrews 12:10",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 10,
-            "source_ref": "Hebrews 12:10",
-            "segment_mode": "whole",
-            "sha256": "5310950865d229f30043732ff4512e94fbe68c77a52196bfd1f1438ea127cb26"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5310950865d229f30043732ff4512e94fbe68c77a52196bfd1f1438ea127cb26"
-      },
-      "11": {
-        "source_ref": "Hebrews 12:11",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 11,
-            "source_ref": "Hebrews 12:11",
-            "segment_mode": "whole",
-            "sha256": "62b7bbf7b5c21db603d62752e491e80976f19d4520eb4d3dfeb9acc716a9393d"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "62b7bbf7b5c21db603d62752e491e80976f19d4520eb4d3dfeb9acc716a9393d"
-      },
-      "12": {
-        "source_ref": "Hebrews 12:12",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 12,
-            "source_ref": "Hebrews 12:12",
-            "segment_mode": "whole",
-            "sha256": "f6647f05c025463f88db604057b7c5dbe6de1bd44f6cd155bdbd2dda4f9d43d5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f6647f05c025463f88db604057b7c5dbe6de1bd44f6cd155bdbd2dda4f9d43d5"
-      },
-      "13": {
-        "source_ref": "Hebrews 12:13",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 13,
-            "source_ref": "Hebrews 12:13",
-            "segment_mode": "whole",
-            "sha256": "c566571538e1ffdcb13a879abe51dc6e7b313cded2bc6a56d11e23c63f970481"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c566571538e1ffdcb13a879abe51dc6e7b313cded2bc6a56d11e23c63f970481"
-      },
-      "14": {
-        "source_ref": "Hebrews 12:14",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 14,
-            "source_ref": "Hebrews 12:14",
-            "segment_mode": "whole",
-            "sha256": "4a5cad9acb63b3799f2b297c0b8386d99c3f7db98d2b6846eabee52ebbf95905"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4a5cad9acb63b3799f2b297c0b8386d99c3f7db98d2b6846eabee52ebbf95905"
-      },
-      "15": {
-        "source_ref": "Hebrews 12:15",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 15,
-            "source_ref": "Hebrews 12:15",
-            "segment_mode": "whole",
-            "sha256": "f4f5d38be1ffa50e2e1f69a8775eeee69984ca9f47691ca59fa38247e7d023ec"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f4f5d38be1ffa50e2e1f69a8775eeee69984ca9f47691ca59fa38247e7d023ec"
-      },
-      "16": {
-        "source_ref": "Hebrews 12:16",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 16,
-            "source_ref": "Hebrews 12:16",
-            "segment_mode": "whole",
-            "sha256": "e20d77dc59b127c4ce317d06ebd8b08fb6af4e81598b7082b4fe942e57115956"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "e20d77dc59b127c4ce317d06ebd8b08fb6af4e81598b7082b4fe942e57115956"
-      },
-      "17": {
-        "source_ref": "Hebrews 12:17",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 17,
-            "source_ref": "Hebrews 12:17",
-            "segment_mode": "whole",
-            "sha256": "5beb8ce5d1899dd01e84e91fb3cc0537d78dd76a59da270afa3ff9c254f0951a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5beb8ce5d1899dd01e84e91fb3cc0537d78dd76a59da270afa3ff9c254f0951a"
-      },
-      "18": {
-        "source_ref": "Hebrews 12:18",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 18,
-            "source_ref": "Hebrews 12:18",
-            "segment_mode": "whole",
-            "sha256": "5eff338128b29925c28ae6ce25461aeacd505922f21a661ac31a23436ed53a39"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5eff338128b29925c28ae6ce25461aeacd505922f21a661ac31a23436ed53a39"
-      },
-      "19": {
-        "source_ref": "Hebrews 12:19",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 19,
-            "source_ref": "Hebrews 12:19",
-            "segment_mode": "whole",
-            "sha256": "33afcf769140b0a59c7a3f74d5d33f3a797d62faf6fbb247ea4d07a7931bc6c8"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "33afcf769140b0a59c7a3f74d5d33f3a797d62faf6fbb247ea4d07a7931bc6c8"
-      },
-      "20": {
-        "source_ref": "Hebrews 12:20",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 20,
-            "source_ref": "Hebrews 12:20",
-            "segment_mode": "whole",
-            "sha256": "cc4aa9a4572a9c63bcb13c955b419be8e3b95258af21d102d0eeaba7bbe56d9b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cc4aa9a4572a9c63bcb13c955b419be8e3b95258af21d102d0eeaba7bbe56d9b"
-      },
-      "21": {
-        "source_ref": "Hebrews 12:21",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 21,
-            "source_ref": "Hebrews 12:21",
-            "segment_mode": "whole",
-            "sha256": "d47e654df6ede80a10d040bab9a4be305d3d05adb9dfba730d674898f2d65e61"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d47e654df6ede80a10d040bab9a4be305d3d05adb9dfba730d674898f2d65e61"
-      },
-      "22": {
-        "source_ref": "Hebrews 12:22",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 22,
-            "source_ref": "Hebrews 12:22",
-            "segment_mode": "whole",
-            "sha256": "9fa504bbd1b742a2b8b7f4be7acf7448cc898e3ae5aaecbf8f2566ba42c3a4a9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9fa504bbd1b742a2b8b7f4be7acf7448cc898e3ae5aaecbf8f2566ba42c3a4a9"
-      },
-      "23": {
-        "source_ref": "Hebrews 12:23",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 23,
-            "source_ref": "Hebrews 12:23",
-            "segment_mode": "whole",
-            "sha256": "d05969a56ce0d026873f5f57c180392dd0a0921c210bb769dc3fb701fafbd24e"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d05969a56ce0d026873f5f57c180392dd0a0921c210bb769dc3fb701fafbd24e"
-      },
-      "24": {
-        "source_ref": "Hebrews 12:24",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 24,
-            "source_ref": "Hebrews 12:24",
-            "segment_mode": "whole",
-            "sha256": "bbaf3cfc654915dce505d61d755b7b9a00a18e64ba0f25827d878cdd29edba98"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "bbaf3cfc654915dce505d61d755b7b9a00a18e64ba0f25827d878cdd29edba98"
-      },
-      "25": {
-        "source_ref": "Hebrews 12:25",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 25,
-            "source_ref": "Hebrews 12:25",
-            "segment_mode": "whole",
-            "sha256": "5d5f34ee507dd35580959e07f8990289be52ad132146c8053e39fc4b549f3d83"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5d5f34ee507dd35580959e07f8990289be52ad132146c8053e39fc4b549f3d83"
-      },
-      "26": {
-        "source_ref": "Hebrews 12:26",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 26,
-            "source_ref": "Hebrews 12:26",
-            "segment_mode": "whole",
-            "sha256": "894f1b246238d06831f898820ea2c38bfb3d9754ff3695644ee8a00253ccbb61"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "894f1b246238d06831f898820ea2c38bfb3d9754ff3695644ee8a00253ccbb61"
-      },
-      "27": {
-        "source_ref": "Hebrews 12:27",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 27,
-            "source_ref": "Hebrews 12:27",
-            "segment_mode": "whole",
-            "sha256": "c2d8a3537f08d3bef82b25499e9b4fa13941b1e1631603b1f290509affaa52d5"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c2d8a3537f08d3bef82b25499e9b4fa13941b1e1631603b1f290509affaa52d5"
-      },
-      "28": {
-        "source_ref": "Hebrews 12:28",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 28,
-            "source_ref": "Hebrews 12:28",
-            "segment_mode": "whole",
-            "sha256": "1582e041858e1cd2b0e8e56432dfe40c84935bcf2fc72b38d5e800965841870f"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1582e041858e1cd2b0e8e56432dfe40c84935bcf2fc72b38d5e800965841870f"
-      },
-      "29": {
-        "source_ref": "Hebrews 12:29",
-        "source_records": [
-          {
-            "chapter": 12,
-            "verse": 29,
-            "source_ref": "Hebrews 12:29",
-            "segment_mode": "whole",
-            "sha256": "11899aac1b4014c4e216d28ef25e8e5629f0e93051265c5e59dec80b6570ca25"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "11899aac1b4014c4e216d28ef25e8e5629f0e93051265c5e59dec80b6570ca25"
-      }
+    "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+    "format": "tab_separated",
+    "osis_book_id": "Heb",
+    "book_verse_count": 303,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 12,
+    "verse_count": 29,
+    "path": "translations/fluent/NT/hebrews/Hebrews_12.md",
+    "before_sha256": "b5875d6d2056a3e0dc00ef2936be4a6472d7d339ea6d22de0067ee6a05810aba",
+    "after_sha256": "718636b13488c73f8d78ed6d66825ae0a702822e687152bd258810ee92ef9c22",
+    "tsw_comparator_path": "books/NT/hebrews/Hebrews_12.md",
+    "tsw_comparator_sha256": "7a326e00957d8967d7f906ec86d33f07c399fbfb706eaa6da08f54a9679e79a1"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "Hebrews 12:1",
+      "delta": "F3",
+      "rationale": "Keeps crowd, encumbrance and race imagery.",
+      "source_reference": "Heb 12:1",
+      "source_verse_sha256": "fe4c65df557e091d3ea79c394f6f3d172a784aac0791cc92a4cfe6a55690017a",
+      "before": "So, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and sin that clings so closely, and let us run with endurance the race set before us,",
+      "after": "Therefore, since we too are surrounded by such a great cloud of witnesses, let us lay aside every weight and the sin that so easily entangles us, and run with endurance the race set before us,",
+      "tsw_comparator": "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and sin that clings so closely, and let us run with endurance the race set before us,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.805556,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:2",
+      "delta": "F3",
+      "rationale": "Preserves cross as shameful execution, joy and enthronement.",
+      "source_reference": "Heb 12:2",
+      "source_verse_sha256": "985ab257cf3caaa2995da876eda22a5d695af66fa51c0fc7842d9efcf97e3440",
+      "before": "looking to Jesus, the founder and perfecter of faith, who for the joy set before him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.",
+      "after": "fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him, he endured a cross, despising its shame, and sat down at the right hand of God's throne.",
+      "tsw_comparator": "looking to Jesus, the founder and perfecter of faith, who for the joy set before him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.724638,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:4",
+      "delta": "F3",
+      "rationale": "Retains combat image and lethal limit.",
+      "source_reference": "Heb 12:4",
+      "source_verse_sha256": "b28a326a6bff8bc0828757d08fad998f6780ae38c4888bea2134e15daec37434",
+      "before": "In your struggle against sin you have not yet resisted to the point of shedding your blood.",
+      "after": "In struggling against sin, you have not yet resisted to the point of shedding blood.",
+      "tsw_comparator": "In your struggle against sin you have not yet resisted to the point of shedding your blood.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.875,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:5",
+      "delta": "F3",
+      "rationale": "Keeps masculine filial quotation and correction.",
+      "source_reference": "Heb 12:5",
+      "source_verse_sha256": "f8704572fcbbcf75c141a08d354e58f1b14fda728cea02d1c3ee38228aa2c456",
+      "before": "And have you forgotten the exhortation that addresses you as sons? “My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him.",
+      "after": "And you have forgotten the encouragement that addresses you as sons: “My son, do not make light of the Lord's discipline or give up when he corrects you,",
+      "tsw_comparator": "And have you forgotten the exhortation that addresses you as sons? “My son, do not regard lightly the discipline of the Lord, nor be weary when reproved by him.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.561404,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:6",
+      "delta": "F3",
+      "rationale": "Retains corporal violence in the source's parental analogy.",
+      "source_reference": "Heb 12:6",
+      "source_verse_sha256": "39e6dd632bdb491e725139760c4387dae7727ad66d2084633edfba18c0d1450d",
+      "before": "For the Lord disciplines the one he loves, and chastises every son whom he receives.”",
+      "after": "for the Lord disciplines the one he loves and flogs every son he receives.”",
+      "tsw_comparator": "For the Lord disciplines the one he loves, and chastises every son whom he receives.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.896552,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:7",
+      "delta": "F3",
+      "rationale": "Keeps gendered family argument and endurance.",
+      "source_reference": "Heb 12:7",
+      "source_verse_sha256": "1e3b07aac7077077d4dbdffc770d8dbf28a3de4779556716ab9b95a382522dea",
+      "before": "It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?",
+      "after": "Endure for discipline. God is treating you as sons, for what son is not disciplined by his father?",
+      "tsw_comparator": "It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.636364,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:8",
+      "delta": "F3",
+      "rationale": "Preserves stigmatizing legitimacy language rather than sanitizing it.",
+      "source_reference": "Heb 12:8",
+      "source_verse_sha256": "eb30f25a8660c006ec00ba49084d23059b95e15861142940be6015a88540124b",
+      "before": "If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.",
+      "after": "But if you are without discipline, in which all sons share, then you are illegitimate children and not sons.",
+      "tsw_comparator": "If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.842105,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:9",
+      "delta": "F3",
+      "rationale": "Keeps father comparison, submission and life.",
+      "source_reference": "Heb 12:9",
+      "source_verse_sha256": "96885981aa617ce21349ab273f291e1369ed61829b2addcf9b3dbf390f422c10",
+      "before": "Besides this, we have had earthly fathers who disciplined us and we respected them. Will we not much more be subject to the Father of spirits and live?",
+      "after": "Furthermore, we had human fathers who disciplined us, and we respected them. Should we not much more submit to the Father of spirits and live?",
+      "tsw_comparator": "Besides this, we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of spirits and live?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.792453,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:10",
+      "delta": "F3",
+      "rationale": "Retains human fallibility contrast and intended participation.",
+      "source_reference": "Heb 12:10",
+      "source_verse_sha256": "2d859dfd528665ab8cdd97013066c09b4c43cea85150a743db61a14f4e9d0826",
+      "before": "For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.",
+      "after": "They disciplined us for a short time as seemed best to them, but God disciplines us for our benefit, so that we may share his holiness.",
+      "tsw_comparator": "For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.867925,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:11",
+      "delta": "F3",
+      "rationale": "Keeps pain, training and fruit.",
+      "source_reference": "Heb 12:11",
+      "source_verse_sha256": "b64bfa329d85056f0d00d4b59ea238b287fa345534bce500c12cfdcc6977fe8d",
+      "before": "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to people who have been trained by it.",
+      "after": "No discipline seems joyful at the time, but painful. Later, however, it yields the peaceful fruit of righteousness to those trained by it.",
+      "tsw_comparator": "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.64,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:13",
+      "delta": "F3",
+      "rationale": "Keeps path, disability and healing imagery.",
+      "source_reference": "Heb 12:13",
+      "source_verse_sha256": "d1f5d6b097ffe9a58fedd4e509cd7282aa450e1b3925ade65568c72a9f454848",
+      "before": "and make straight paths for your feet, so that what is lame may not be put out of joint but instead be healed.",
+      "after": "and make straight paths for your feet, so that what is lame may not be dislocated but healed instead.",
+      "tsw_comparator": "and make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.809524,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:15",
+      "delta": "F3",
+      "rationale": "Keeps communal oversight, root and spreading contamination.",
+      "source_reference": "Heb 12:15",
+      "source_verse_sha256": "3b6b6806d37ec23ce3979632cfbbcec2ec1b858e0b5397a28b4c94732d7c1a66",
+      "before": "See to it that no one fails to obtain the grace of God; that no root of bitterness springs up and causes trouble, and by it many become defiled;",
+      "after": "Watch carefully that no one falls short of God's grace and that no root of bitterness grows up to cause trouble and defile many.",
+      "tsw_comparator": "See to it that no one fails to obtain the grace of God; that no root of bitterness springs up and causes trouble, and by it many become defiled;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.490566,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:16",
+      "delta": "F3",
+      "rationale": "Preserves named example, birthright and exact price.",
+      "source_reference": "Heb 12:16",
+      "source_verse_sha256": "2b4428e1d371c71abf476565d98317c92240708c0bab8e51e56671d5ffc83490",
+      "before": "that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal.",
+      "after": "See that no one is sexually immoral or profane like Esau, who sold his own birthright for one meal.",
+      "tsw_comparator": "that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.810811,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:17",
+      "delta": "F3",
+      "rationale": "Keeps rejection, ambiguous repentance/change and grief.",
+      "source_reference": "Heb 12:17",
+      "source_verse_sha256": "63ff7cb4d0720d0dc3ac61f93e0de207ec3b0873b0b69d24232e20d4621375e5",
+      "before": "For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears.",
+      "after": "For you know that afterward, when he wanted to inherit the blessing, he was rejected. He found no opportunity for a change of mind, though he sought the blessing with tears.",
+      "tsw_comparator": "For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745763,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:18",
+      "delta": "F3",
+      "rationale": "Retains tangible mountain and four terrifying phenomena.",
+      "source_reference": "Heb 12:18",
+      "source_verse_sha256": "1194c6deef5cac9a7b129b97ce7e26a70abfe6040a02b06cd76fe45cda919e6b",
+      "before": "For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest",
+      "after": "For you have not come to something that can be touched, to blazing fire, darkness, gloom and storm,",
+      "tsw_comparator": "For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.684211,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:19",
+      "delta": "F3",
+      "rationale": "Keeps sound and fearful refusal.",
+      "source_reference": "Heb 12:19",
+      "source_verse_sha256": "1b2566765de691a742a90545e731fd9ba0c70abf7f980ea9e4324da11c736ae9",
+      "before": "and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.",
+      "after": "to a trumpet blast and a voice whose words made the hearers beg that no further message be spoken to them.",
+      "tsw_comparator": "and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:20",
+      "delta": "F3",
+      "rationale": "Preserves animal death and mountain boundary.",
+      "source_reference": "Heb 12:20",
+      "source_verse_sha256": "70e24296c159b94cdb8437bfc0b4cb63dec4d0aa665ece12905589907d1ecfd6",
+      "before": "For they could not endure the order that was given, “If even a beast touches the mountain, it will be stoned.”",
+      "after": "For they could not bear the command, “Even if an animal touches the mountain, it must be stoned.”",
+      "tsw_comparator": "For they could not endure the order that was given, “If even a beast touches the mountain, it shall be stoned.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.615385,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:21",
+      "delta": "F3",
+      "rationale": "Keeps named Moses and doubled fear.",
+      "source_reference": "Heb 12:21",
+      "source_verse_sha256": "3832704b27f86b9aa924fa6d756523f490c35a4ed5042e71d0816e73bab7bb3f",
+      "before": "Indeed, so terrifying was the sight that Moses said, “I tremble with fear.”",
+      "after": "The sight was so terrifying that Moses said, “I am terrified and trembling.”",
+      "tsw_comparator": "Indeed, so terrifying was the sight that Moses said, “I tremble with fear.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.461538,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:22",
+      "delta": "F3",
+      "rationale": "Retains all place names, innumerable angels and festal gathering.",
+      "source_reference": "Heb 12:22",
+      "source_verse_sha256": "cb183f06a96d6ada52a69e55584151ee84abc3a7547752e346a8bd9f92cf4caf",
+      "before": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,",
+      "after": "But you have come to Mount Zion, the city of the living God, the heavenly Jerusalem, and tens of thousands of angels in joyful assembly,",
+      "tsw_comparator": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.76,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:23",
+      "delta": "F3",
+      "rationale": "Keeps heavenly registry, universal judge and perfected spirits.",
+      "source_reference": "Heb 12:23",
+      "source_verse_sha256": "2dc02577c3ad99670c33afb9225055842908c323dbd6f9ad076f111defeccef0",
+      "before": "and to the assembly of the firstborn who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous made perfect,",
+      "after": "to the assembly of the firstborn enrolled in heaven, to God the judge of all and to the spirits of righteous people made perfect,",
+      "tsw_comparator": "and to the assembly of the firstborn who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous made perfect,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.884615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:24",
+      "delta": "F3",
+      "rationale": "Preserves mediator, ritual blood and named comparison.",
+      "source_reference": "Heb 12:24",
+      "source_verse_sha256": "0fe85ac578e7c35834a40320c587ab821400da378de262950c28cee42bbb9e92",
+      "before": "and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.",
+      "after": "to Jesus, mediator of a new covenant, and to sprinkled blood that speaks better than Abel's blood.",
+      "tsw_comparator": "and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.780488,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:25",
+      "delta": "F3",
+      "rationale": "Keeps earth/heaven escalation and communal warning.",
+      "source_reference": "Heb 12:25",
+      "source_verse_sha256": "e9402f89788633d2c88d644e13fac39760c285d90ed2a9174bb989c890b86a7b",
+      "before": "See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.",
+      "after": "See that you do not refuse the one who speaks. If they did not escape when they refused the one who warned them on earth, how much less will we if we turn away from the one who warns from heaven?",
+      "tsw_comparator": "See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.759494,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:26",
+      "delta": "F3",
+      "rationale": "Retains past quake, future promise and cosmic scope.",
+      "source_reference": "Heb 12:26",
+      "source_verse_sha256": "c2d2e8da4b774374b6131d4f8a28bb7c0bb34c67b2a8d759e54d4f9f44eb6f88",
+      "before": "At that time his voice shook the earth, but now he has promised, “Yet once more I will shake not only the earth but also the heavens.”",
+      "after": "At that time his voice shook the earth, but now he has promised, “Once more I will shake not only the earth but also heaven.”",
+      "tsw_comparator": "At that time his voice shook the earth, but now he has promised, “Yet once more I will shake not only the earth but also the heavens.”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.923077,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:27",
+      "delta": "F3",
+      "rationale": "Keeps interpretive conclusion and creation's removal.",
+      "source_reference": "Heb 12:27",
+      "source_verse_sha256": "1562c4d30b89a2a59082304afef2d7f88266ee4a5d6a0820b641d6ace246d6bd",
+      "before": "This phrase, “Yet once more,” indicates the removal of things that are shaken—that is, things that have been made—so that the things that cannot be shaken may remain.",
+      "after": "The words “once more” indicate the removal of what can be shaken—that is, created things—so that what cannot be shaken may remain.",
+      "tsw_comparator": "This phrase, “Yet once more,” indicates the removal of things that are shaken—that is, things that have been made—in order that the things that cannot be shaken may remain.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.545455,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:28",
+      "delta": "F3",
+      "rationale": "Preserves kingdom, gratitude and fearful worship.",
+      "source_reference": "Heb 12:28",
+      "source_verse_sha256": "5417d6a40c68d647071ecb838d3c3935b697f525869aae75c87e54b286b57766",
+      "before": "So let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,",
+      "after": "Therefore, since we are receiving an unshakable kingdom, let us be grateful and in this way worship God acceptably with reverence and awe,",
+      "tsw_comparator": "Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.44898,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "Hebrews 12:29",
+      "delta": "F3",
+      "rationale": "Keeps the stark fire image.",
+      "source_reference": "Heb 12:29",
+      "source_verse_sha256": "04221ad0ec11b1994527d0817d642adc3c5612d25379693398b6bc76cfb81127",
+      "before": "for our God is a consuming fire.",
+      "after": "for our God is a consuming fire.",
+      "tsw_comparator": "for our God is a consuming fire.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/hebrews/Hebrews_12.md",
-    "blob_sha": "ebab84177508c96bd3fb206277f82e052ce2691f"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

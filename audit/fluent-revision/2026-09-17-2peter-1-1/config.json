@@ -1,0 +1,285 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "2Peter",
+  "slug": "2peter",
+  "chapters": [
+    1
+  ],
+  "scope": "2 Peter 1",
+  "expected_verses": 21,
+  "source_filename": "2peter-pinned-greek.txt",
+  "book_record_files": [
+    "2_PETER_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
+    "sha256": "7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Pet",
+    "book_verse_count": 61,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:1",
+    "1:3",
+    "1:4",
+    "1:5",
+    "1:6",
+    "1:7",
+    "1:10",
+    "1:11",
+    "1:13",
+    "1:14",
+    "1:15",
+    "1:16",
+    "1:17",
+    "1:18",
+    "1:19",
+    "1:20",
+    "1:21"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "01",
+          "The pinned Greek reads ‘Simeon Peter.’"
+        ],
+        [
+          "19",
+          "The ‘morning star’ rising in hearts can mark inward illumination connected to the future day."
+        ],
+        [
+          "20",
+          "The phrase can mean that no prophecy comes from the prophet’s own interpretation or that no prophecy is a matter of private interpretation."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "05–07",
+          "ἐπιχορηγέω (epichorēgeō)",
+          "Supply or furnish generously; the verb frames the chain of qualities."
+        ]
+      ]
+    }
+  },
+  "batch_scope": "Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "batch_chapters": 45,
+  "batch_verses": 927,
+  "batch_source_records": 927,
+  "batch_reader_filename": "Fluent-Colossians-1-2Peter-1.md",
+  "batch_ledgers": [
+    "audit/fluent-revision/2026-09-17-colossians-1-4/colossians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2thessalonians-1-3/2thessalonians-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1timothy-1-6/1timothy-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+    "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+    "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+    "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+    "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+    "audit/fluent-revision/2026-09-17-2peter-1-1/2peter-verse-review.json"
+  ],
+  "active_block_ranges": [],
+  "new_source_files": [
+    "colossians-pinned-greek.txt",
+    "1thessalonians-pinned-greek.txt",
+    "2thessalonians-pinned-greek.txt",
+    "1timothy-pinned-greek.txt",
+    "2timothy-pinned-greek.txt",
+    "titus-pinned-greek.txt",
+    "philemon-pinned-greek.txt",
+    "hebrews-pinned-greek.txt",
+    "1peter-pinned-greek.txt",
+    "2peter-pinned-greek.txt"
+  ],
+  "additional_source_bindings": {
+    "colossians": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Col.txt",
+      "git_blob_sha": "06f9ee0bc5f86cd1f28f1e54867224f49e446380",
+      "sha256": "665ef40dbc19bacf2b2642aa0bfc265e3cfab3f37b5757ea1ff69bdaf968bd08",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Col.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Col",
+      "book_verse_count": 95,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "colossians-pinned-greek.txt"
+    },
+    "1thessalonians": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/1Thess.txt",
+      "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+      "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Thess.txt",
+      "format": "tab_separated",
+      "osis_book_id": "1Thess",
+      "book_verse_count": 89,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "1thessalonians-pinned-greek.txt"
+    },
+    "2thessalonians": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/2Thess.txt",
+      "git_blob_sha": "d73ba27f24a7d4a953242bc81d230833152c87ed",
+      "sha256": "c2a6922591a0282f5c07fe9fa47b8f38cd1aaf15b56eb9364aac91f5546f5822",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Thess.txt",
+      "format": "tab_separated",
+      "osis_book_id": "2Thess",
+      "book_verse_count": 47,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "2thessalonians-pinned-greek.txt"
+    },
+    "1timothy": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/1Tim.txt",
+      "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+      "sha256": "e4813e23b26b8b4763771b252cb41982d3af66abeead62f014e5f5f0a5323dcb",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Tim.txt",
+      "format": "tab_separated",
+      "osis_book_id": "1Tim",
+      "book_verse_count": 113,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "1timothy-pinned-greek.txt"
+    },
+    "2timothy": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/2Tim.txt",
+      "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
+      "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Tim.txt",
+      "format": "tab_separated",
+      "osis_book_id": "2Tim",
+      "book_verse_count": 83,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "2timothy-pinned-greek.txt"
+    },
+    "titus": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Titus.txt",
+      "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
+      "sha256": "8a7ff3511b7cbaaba481fe92b9aa716b8fd2abcc9d54829939c2fa3f836a2267",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Titus.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Titus",
+      "book_verse_count": 46,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "titus-pinned-greek.txt"
+    },
+    "philemon": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Phlm.txt",
+      "git_blob_sha": "7904bf8debfe51ea69e0259d214352310eebe3c2",
+      "sha256": "0b74d129888819be274cdcf239672f4688691ebab77c627521b5fcb185bea011",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Phlm.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Phlm",
+      "book_verse_count": 25,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "philemon-pinned-greek.txt"
+    },
+    "hebrews": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/Heb.txt",
+      "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+      "sha256": "a89fa2a3a8f04e8bf6a9c71404a9c45fa0e32cff5b6942043e663d8c1f40cc93",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Heb.txt",
+      "format": "tab_separated",
+      "osis_book_id": "Heb",
+      "book_verse_count": 303,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "hebrews-pinned-greek.txt"
+    },
+    "1peter": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/1Pet.txt",
+      "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
+      "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Pet.txt",
+      "format": "tab_separated",
+      "osis_book_id": "1Pet",
+      "book_verse_count": 105,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "1peter-pinned-greek.txt"
+    },
+    "2peter": {
+      "id": "NT.SBLGNT.1.2",
+      "repository": "Faithlife/SBLGNT",
+      "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+      "file": "data/sblgnt/text/2Pet.txt",
+      "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
+      "sha256": "7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0",
+      "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Pet.txt",
+      "format": "tab_separated",
+      "osis_book_id": "2Pet",
+      "book_verse_count": 61,
+      "languages": [
+        "Greek"
+      ],
+      "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+      "source_filename": "2peter-pinned-greek.txt"
+    }
+  }
+}

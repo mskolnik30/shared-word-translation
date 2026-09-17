@@ -1,203 +1,178 @@
 {
-  "book": "2 Timothy",
+  "book": "2Timothy",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 26,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2timothy-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/2timothy/2Timothy_02_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Tim.txt",
     "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Timothy 2:1",
-        "source_chapter": 2,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "7b0e8030f689ed1ab47c2edcb3a63f38c488ee394301edf15e4a0d2abff94272"
-      },
-      "2": {
-        "source_ref": "2 Timothy 2:2",
-        "source_chapter": 2,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "66fa3d1c417571b28a3472d87495ddc832ed62243f72f0a1b88fbef0fb4ec09b"
-      },
-      "3": {
-        "source_ref": "2 Timothy 2:3",
-        "source_chapter": 2,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "a76f501bea30763041061a9c572a433b610df69bac598015af9a37b1d6893ee0"
-      },
-      "4": {
-        "source_ref": "2 Timothy 2:4",
-        "source_chapter": 2,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "e28de19618e164536c4d9a6fa85ac4f9f061d80391a2a3cb1a733cf59d0bd229"
-      },
-      "5": {
-        "source_ref": "2 Timothy 2:5",
-        "source_chapter": 2,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "6d0c55b9a8f9993a8aa36e3e32baa4d27dff199684c73309954f3669521dda84"
-      },
-      "6": {
-        "source_ref": "2 Timothy 2:6",
-        "source_chapter": 2,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "28569ee2ad23ccb022b5c0b2be7f44602c203e3e70abb47bf65e14958d848e02"
-      },
-      "7": {
-        "source_ref": "2 Timothy 2:7",
-        "source_chapter": 2,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "a1ba3f6dc3c7ade8c6c19bbab0a4acfc429efe22ab2b75ed0f9a497e97f995e7"
-      },
-      "8": {
-        "source_ref": "2 Timothy 2:8",
-        "source_chapter": 2,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "0bf95fb98fa6c3034165b33944183627350949394024a8391b48760b1bab33b7"
-      },
-      "9": {
-        "source_ref": "2 Timothy 2:9",
-        "source_chapter": 2,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "8a2c53044992a3ceb4a968df20ef62a7fb89fba2c541a9bc605cc2cdc5c920e6"
-      },
-      "10": {
-        "source_ref": "2 Timothy 2:10",
-        "source_chapter": 2,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "11d3e8a3ce310dd8b5ff2a942bea4ee86640e40c46a9f8e29c0a8eea8d924f78"
-      },
-      "11": {
-        "source_ref": "2 Timothy 2:11",
-        "source_chapter": 2,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "33e3c1e82b63e79f1d048ccc0efc484294d8f2c1ead73d98f62bd0e7bfe1d3fb"
-      },
-      "12": {
-        "source_ref": "2 Timothy 2:12",
-        "source_chapter": 2,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "ae8ca192f3044ecebd9f0a3c617842f34ab292031d65ba0a0665d86d5c74ba6d"
-      },
-      "13": {
-        "source_ref": "2 Timothy 2:13",
-        "source_chapter": 2,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "59216bf24bd1108b67a018ac1a9e2eaccc1eb85dd19bf46eb45144dd1371eb9f"
-      },
-      "14": {
-        "source_ref": "2 Timothy 2:14",
-        "source_chapter": 2,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "784c79acb0809da2779362cb4543b2dccf15acc21d3ffe4cc3d1af5749a78ab0"
-      },
-      "15": {
-        "source_ref": "2 Timothy 2:15",
-        "source_chapter": 2,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "87b8cc216b672a0665b2396f38f075ed8884e61947d3ca2f81f5d906655986e4"
-      },
-      "16": {
-        "source_ref": "2 Timothy 2:16",
-        "source_chapter": 2,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "f2a5352d6e2d2c7bd9c783e34df9d47f2bf269a47df2e4e00a464a991fcfac1f"
-      },
-      "17": {
-        "source_ref": "2 Timothy 2:17",
-        "source_chapter": 2,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "48592f56c83176e0fe2a0d397ce1511db9a17a21550b1fd78fccb8746eb1c08e"
-      },
-      "18": {
-        "source_ref": "2 Timothy 2:18",
-        "source_chapter": 2,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "d9594b5284b92d63aea86c98a0ebb9da3a74ade3015b0094098af88eec8e0a3f"
-      },
-      "19": {
-        "source_ref": "2 Timothy 2:19",
-        "source_chapter": 2,
-        "source_verse": 19,
-        "segment_mode": "whole_record",
-        "sha256": "c179cac289bab8e9e052cde6d6bedca5d20d99963d09bc8750b035eb7939dc2d"
-      },
-      "20": {
-        "source_ref": "2 Timothy 2:20",
-        "source_chapter": 2,
-        "source_verse": 20,
-        "segment_mode": "whole_record",
-        "sha256": "9be27ab0bc2bc7f7879b7d607cef9e34b2d422fc9e9cef00b95c996d5e6e7c75"
-      },
-      "21": {
-        "source_ref": "2 Timothy 2:21",
-        "source_chapter": 2,
-        "source_verse": 21,
-        "segment_mode": "whole_record",
-        "sha256": "4fd7f55da14254720d1f5586801935104bdccad9d57e3e701386696d067dde8a"
-      },
-      "22": {
-        "source_ref": "2 Timothy 2:22",
-        "source_chapter": 2,
-        "source_verse": 22,
-        "segment_mode": "whole_record",
-        "sha256": "ef5eff08498db8aaf0e24e5265e4bcff0a30c688d66990b249f688da4a0595f1"
-      },
-      "23": {
-        "source_ref": "2 Timothy 2:23",
-        "source_chapter": 2,
-        "source_verse": 23,
-        "segment_mode": "whole_record",
-        "sha256": "5734664ceb608997ca32cbf496fb700e08e018a5b33b3e4d502a6769e2197569"
-      },
-      "24": {
-        "source_ref": "2 Timothy 2:24",
-        "source_chapter": 2,
-        "source_verse": 24,
-        "segment_mode": "whole_record",
-        "sha256": "86419bbfc0466a268896a84dc0ab8706b6043b69d58e243d7d5afdbad26d53af"
-      },
-      "25": {
-        "source_ref": "2 Timothy 2:25",
-        "source_chapter": 2,
-        "source_verse": 25,
-        "segment_mode": "whole_record",
-        "sha256": "1be05ec123e6011c8098cf9230715db4f3d98759b5efb391054a03004a8cb00d"
-      },
-      "26": {
-        "source_ref": "2 Timothy 2:26",
-        "source_chapter": 2,
-        "source_verse": 26,
-        "segment_mode": "whole_record",
-        "sha256": "3f0159cf663b3f3dfcc6edd345b72847ece2f797b804c07ff2c2a4c5afb03322"
-      }
+    "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Tim",
+    "book_verse_count": 83,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 2,
+    "verse_count": 26,
+    "path": "translations/fluent/NT/2timothy/2Timothy_02.md",
+    "before_sha256": "3b9dc356a95b3ad3d1a4727ca6e798ba265e59789815b2ee9adef34eed2ffb3f",
+    "after_sha256": "0f8ef803c326d34e7aa434865a55dc6e0b7aae67e668a223515e9a8df6330085",
+    "tsw_comparator_path": "books/NT/2timothy/2Timothy_02.md",
+    "tsw_comparator_sha256": "7247f2eae8cf14d968b3c8cf2bcf480c46c21e2c303531cd39ec539eabf0372f"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Timothy 2:3",
+      "delta": "F3",
+      "rationale": "Retains military identity and hardship.",
+      "source_reference": "2Tim 2:3",
+      "source_verse_sha256": "e4ab632a99220f6eb29a7c0c713ea7c631184644f0ffe446fb21b7ac57487013",
+      "before": "Share in suffering as a good soldier of Christ Jesus.",
+      "after": "Share in suffering as a good soldier of Christ Jesus.",
+      "tsw_comparator": "Share in suffering as a good soldier of Christ Jesus.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:9",
+      "delta": "F3",
+      "rationale": "Preserves real imprisonment and the pointed chain wordplay.",
+      "source_reference": "2Tim 2:9",
+      "source_verse_sha256": "d403676adb3105d404622a9fb50c4c777c2aaabad419bd08c8b71b2c88808fe5",
+      "before": "for which I suffer hardship, even to being chained like a criminal. But God’s word is not chained.",
+      "after": "For it I suffer hardship, even chains like a criminal. But God's word is not chained.",
+      "tsw_comparator": "for which I suffer to the point of chains like a criminal. But the word of God is not chained.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:11",
+      "delta": "F3",
+      "rationale": "Retains first parallel conditional promise.",
+      "source_reference": "2Tim 2:11",
+      "source_verse_sha256": "94a1a83b5b3058e584e555d1a19b1225a7d284848482c62fe5bf1990f8612583",
+      "before": "This saying is trustworthy: If we died with him, we will also live with him;",
+      "after": "This saying is trustworthy: If we died with him, we will also live with him;",
+      "tsw_comparator": "The saying is trustworthy: If we died with him, we will also live with him;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.933333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:12",
+      "delta": "F3",
+      "rationale": "Keeps promise and warning in matching clauses.",
+      "source_reference": "2Tim 2:12",
+      "source_verse_sha256": "e3b9c2d38707419d47280f9dde5ebe9d8e8d549aa480a645edc5f62e6c32d176",
+      "before": "if we endure, we will also reign with him; if we deny him, he also will deny us;",
+      "after": "if we endure, we will also reign with him; if we deny him, he will also deny us;",
+      "tsw_comparator": "if we endure, we will also reign with him; if we deny him, he also will deny us;",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.944444,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:13",
+      "delta": "F3",
+      "rationale": "Preserves divine constancy and its self-related basis without making faithlessness harmless.",
+      "source_reference": "2Tim 2:13",
+      "source_verse_sha256": "63e01f3f3a8883b9f112fce75e9cfe6e403f5688f02d20ae7ffa73d2e0d78320",
+      "before": "if we are faithless, he remains faithful, because he cannot deny himself.",
+      "after": "if we are unfaithful, he remains faithful, for he cannot deny himself.",
+      "tsw_comparator": "if we are faithless, he remains faithful—for he cannot deny himself.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.916667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:15",
+      "delta": "F3",
+      "rationale": "Retains tested laborer and difficult straight-cutting metaphor.",
+      "source_reference": "2Tim 2:15",
+      "source_verse_sha256": "4d9b6959a12f69eeecac7e256b8fa4df1f9048f1f5d470aa6437213cf8b884d6",
+      "before": "Make every effort to present yourself approved to God, a worker who has no need to be ashamed, handling the word of truth straight.",
+      "after": "Make every effort to present yourself to God as approved, a worker with no cause for shame who cuts the word of truth straight.",
+      "tsw_comparator": "Be diligent to present yourself approved to God, a worker who has no need to be ashamed, rightly handling the word of truth.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.510638,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:17",
+      "delta": "F3",
+      "rationale": "Preserves bodily disease image and both names.",
+      "source_reference": "2Tim 2:17",
+      "source_verse_sha256": "a66410613a146cc8be4b4567a21fbb851290b89817839b591d5959ece3504d64",
+      "before": "and their word will spread like gangrene. Among them are Hymenaeus and Philetus,",
+      "after": "and their talk will spread like gangrene. Hymenaeus and Philetus are among them.",
+      "tsw_comparator": "and their message will spread like gangrene. Among them are Hymenaeus and Philetus,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.692308,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:18",
+      "delta": "F3",
+      "rationale": "Keeps target-missing, false timing and real damage.",
+      "source_reference": "2Tim 2:18",
+      "source_verse_sha256": "6b69ef74afa2d3493a42b998be991e214e50d9b83d490acc1136f17082d74784",
+      "before": "who have departed from the truth, saying the resurrection has already happened, and they are overturning the trust of some.",
+      "after": "They have missed the mark concerning the truth, saying the resurrection has already happened, and they overturn the faith of some.",
+      "tsw_comparator": "who have swerved from the truth, saying that the resurrection has already happened, and they upset the faith of some.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.731707,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:24",
+      "delta": "F3",
+      "rationale": "Keeps slave status and three nonviolent teaching qualities.",
+      "source_reference": "2Tim 2:24",
+      "source_verse_sha256": "b66f993103fc70f55f3308161476c35b7847945a8b3cdcabd69a0c1e266de1d6",
+      "before": "The Lord’s servant must not fight but must be gentle toward everyone, able to teach, patient when wronged,",
+      "after": "The Lord's slave must not quarrel but must be gentle toward everyone, able to teach and patient when wronged,",
+      "tsw_comparator": "And the servant of the Lord must not be quarrelsome but kind to everyone, able to teach, patient,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.486486,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 2:26",
+      "delta": "F3",
+      "rationale": "Keeps sobriety, trapping and war-captive images.",
+      "source_reference": "2Tim 2:26",
+      "source_verse_sha256": "0d5f37bba7183862acb9853d860675825060fa5a325be14ac676be7aaaf5c2c1",
+      "before": "and they may come to their senses and escape the devil’s trap, having been captured by him to do his will.",
+      "after": "and that they may come to their senses and escape the devil's trap, having been captured alive by him to do his will.",
+      "tsw_comparator": "and they may come to their senses and escape from the snare of the devil, having been captured by him to do his will.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.808511,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2timothy/2Timothy_02.md",
-    "blob_sha": "192c5fa05fcf562fa8677b50597057ae91e28cb2"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

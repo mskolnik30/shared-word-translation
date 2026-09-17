@@ -1,327 +1,218 @@
 {
-  "book": "1 Peter",
+  "book": "1Peter",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1peter-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1peter/1Peter_04_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Pet.txt",
-    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "4:7-19",
-      "decision": "Keep suffering for Christ distinct from suffering caused by wrongdoing.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/1Pet.txt",
     "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Peter 4:1",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 1,
-            "source_ref": "1 Peter 4:1",
-            "segment_mode": "whole",
-            "sha256": "c11146e5a7ac7caa783e24004ad663bfa5670af7e571f8e8a9aac78ae69bda44"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c11146e5a7ac7caa783e24004ad663bfa5670af7e571f8e8a9aac78ae69bda44"
-      },
-      "2": {
-        "source_ref": "1 Peter 4:2",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 2,
-            "source_ref": "1 Peter 4:2",
-            "segment_mode": "whole",
-            "sha256": "a146f147c0ab09c11bcc6ce8809b3e2a2745bd83bb403692a04cbd47e2142523"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "a146f147c0ab09c11bcc6ce8809b3e2a2745bd83bb403692a04cbd47e2142523"
-      },
-      "3": {
-        "source_ref": "1 Peter 4:3",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 3,
-            "source_ref": "1 Peter 4:3",
-            "segment_mode": "whole",
-            "sha256": "8f998a15cb5a86008dd0f8f8a6cf4272b573a23325e09e73d32276623f59d5b7"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "8f998a15cb5a86008dd0f8f8a6cf4272b573a23325e09e73d32276623f59d5b7"
-      },
-      "4": {
-        "source_ref": "1 Peter 4:4",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 4,
-            "source_ref": "1 Peter 4:4",
-            "segment_mode": "whole",
-            "sha256": "c50ef01b4af2776ea9ca6f4664b1f89acaca7ab33028fe6ed7fb804a92f24ff9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c50ef01b4af2776ea9ca6f4664b1f89acaca7ab33028fe6ed7fb804a92f24ff9"
-      },
-      "5": {
-        "source_ref": "1 Peter 4:5",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 5,
-            "source_ref": "1 Peter 4:5",
-            "segment_mode": "whole",
-            "sha256": "1b6c91251014cc2d2211c2421bb7f5715975f297396191fb6906b5bc49ec2db9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1b6c91251014cc2d2211c2421bb7f5715975f297396191fb6906b5bc49ec2db9"
-      },
-      "6": {
-        "source_ref": "1 Peter 4:6",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 6,
-            "source_ref": "1 Peter 4:6",
-            "segment_mode": "whole",
-            "sha256": "f25b5dfd64020175040a53fc741247adf15746c064818872654d31882a8470cf"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f25b5dfd64020175040a53fc741247adf15746c064818872654d31882a8470cf"
-      },
-      "7": {
-        "source_ref": "1 Peter 4:7",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 7,
-            "source_ref": "1 Peter 4:7",
-            "segment_mode": "whole",
-            "sha256": "b466a0975fbb8203ff85e0939fe55141c42d122998af95453f8316c60cdd8743"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b466a0975fbb8203ff85e0939fe55141c42d122998af95453f8316c60cdd8743"
-      },
-      "8": {
-        "source_ref": "1 Peter 4:8",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 8,
-            "source_ref": "1 Peter 4:8",
-            "segment_mode": "whole",
-            "sha256": "12d2d81b840acd440df124ee0a4a9feaae1fc975ab6fb21618d88670479e9597"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "12d2d81b840acd440df124ee0a4a9feaae1fc975ab6fb21618d88670479e9597"
-      },
-      "9": {
-        "source_ref": "1 Peter 4:9",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 9,
-            "source_ref": "1 Peter 4:9",
-            "segment_mode": "whole",
-            "sha256": "764020ef3a0cfba49268ae090bc0050a82a82bd71b89b10cd3306e948bdcda46"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "764020ef3a0cfba49268ae090bc0050a82a82bd71b89b10cd3306e948bdcda46"
-      },
-      "10": {
-        "source_ref": "1 Peter 4:10",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 10,
-            "source_ref": "1 Peter 4:10",
-            "segment_mode": "whole",
-            "sha256": "61da8d71cea07018a4c91e404b2e7d5b45fdeaebfc588fb716561d1909412adb"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "61da8d71cea07018a4c91e404b2e7d5b45fdeaebfc588fb716561d1909412adb"
-      },
-      "11": {
-        "source_ref": "1 Peter 4:11",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 11,
-            "source_ref": "1 Peter 4:11",
-            "segment_mode": "whole",
-            "sha256": "f00cf4504e667f2ac3736d382f5cd886d1e3416310ac997191e4ccb1ce3e38c0"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "f00cf4504e667f2ac3736d382f5cd886d1e3416310ac997191e4ccb1ce3e38c0"
-      },
-      "12": {
-        "source_ref": "1 Peter 4:12",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 12,
-            "source_ref": "1 Peter 4:12",
-            "segment_mode": "whole",
-            "sha256": "9b38549658cd01d4480a9066aafa1aaca6f6fc71dcecfa5cdf8f06ab9028415a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "9b38549658cd01d4480a9066aafa1aaca6f6fc71dcecfa5cdf8f06ab9028415a"
-      },
-      "13": {
-        "source_ref": "1 Peter 4:13",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 13,
-            "source_ref": "1 Peter 4:13",
-            "segment_mode": "whole",
-            "sha256": "837cd7a11241eb165092100b9c8830dbf84dc2f45a1057a546b2a38e6c7ebf41"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "837cd7a11241eb165092100b9c8830dbf84dc2f45a1057a546b2a38e6c7ebf41"
-      },
-      "14": {
-        "source_ref": "1 Peter 4:14",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 14,
-            "source_ref": "1 Peter 4:14",
-            "segment_mode": "whole",
-            "sha256": "01260cee3cc6d9b45b905bac515099e547e1afcc13ef5c0a78dd5cf42c9e4212"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "01260cee3cc6d9b45b905bac515099e547e1afcc13ef5c0a78dd5cf42c9e4212"
-      },
-      "15": {
-        "source_ref": "1 Peter 4:15",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 15,
-            "source_ref": "1 Peter 4:15",
-            "segment_mode": "whole",
-            "sha256": "47c9a3fdb79ef6d48f7e8c2e2b307d86053fd37e2cc990c3af2677d23dd61a63"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "47c9a3fdb79ef6d48f7e8c2e2b307d86053fd37e2cc990c3af2677d23dd61a63"
-      },
-      "16": {
-        "source_ref": "1 Peter 4:16",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 16,
-            "source_ref": "1 Peter 4:16",
-            "segment_mode": "whole",
-            "sha256": "98a309bec0173298c3ea23241f9977c7320c7beb7f5df0bee078a3b976b09494"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "98a309bec0173298c3ea23241f9977c7320c7beb7f5df0bee078a3b976b09494"
-      },
-      "17": {
-        "source_ref": "1 Peter 4:17",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 17,
-            "source_ref": "1 Peter 4:17",
-            "segment_mode": "whole",
-            "sha256": "c0cec6db600a10ca23e8e96114538c7e3e6666f1aff6c406cad3cbf4fc5f9b4b"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "c0cec6db600a10ca23e8e96114538c7e3e6666f1aff6c406cad3cbf4fc5f9b4b"
-      },
-      "18": {
-        "source_ref": "1 Peter 4:18",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 18,
-            "source_ref": "1 Peter 4:18",
-            "segment_mode": "whole",
-            "sha256": "5c18657d66b9d29ecf4bc9911b6c9bb2a4443bc2407a2eb7f2d2f3a9a8335636"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5c18657d66b9d29ecf4bc9911b6c9bb2a4443bc2407a2eb7f2d2f3a9a8335636"
-      },
-      "19": {
-        "source_ref": "1 Peter 4:19",
-        "source_records": [
-          {
-            "chapter": 4,
-            "verse": 19,
-            "source_ref": "1 Peter 4:19",
-            "segment_mode": "whole",
-            "sha256": "61ab16f1d52297d6fec3f2b41ac36fa55896210e0f575aacd4a1c5b104eb15c9"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "61ab16f1d52297d6fec3f2b41ac36fa55896210e0f575aacd4a1c5b104eb15c9"
-      }
+    "sha256": "9c847143fbecfb2c5d0fc35820f973efb749c04a9badae99eb8d9ac0cf3d2a6d",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Pet",
+    "book_verse_count": 105,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 4,
+    "verse_count": 19,
+    "path": "translations/fluent/NT/1peter/1Peter_04.md",
+    "before_sha256": "2803175be0d8a190c37865fcbcd2bf1f0eba43abbdf4fd3d3e5ed092ebfed6a3",
+    "after_sha256": "33e04b919d0f3cbce67b7c142dcf6a434b39a401abffbc1eb17180332b64a38b",
+    "tsw_comparator_path": "books/NT/1peter/1Peter_04.md",
+    "tsw_comparator_sha256": "15f492918678817393aeda56c961e57090cc45e5a48d8c327f4f7ad845690727"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Peter 4:1",
+      "delta": "F3",
+      "rationale": "Keeps military preparation and the difficult suffering/sin claim.",
+      "source_reference": "1Pet 4:1",
+      "source_verse_sha256": "2c59a43be9ccc8a032d7c77823685ed380a7fb1ba2d02099e092bb6ece2f1dd5",
+      "before": "So, since Christ suffered in the flesh, arm yourselves also with the same purpose—for whoever has suffered in the flesh has ceased from sin,",
+      "after": "Therefore, since Christ suffered in the flesh, arm yourselves with the same intention, because whoever suffers in the flesh has ceased from sin,",
+      "tsw_comparator": "Therefore, since Christ suffered in the flesh, arm yourselves also with the same purpose—for whoever has suffered in the flesh has ceased from sin,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:3",
+      "delta": "F3",
+      "rationale": "Keeps the full vice list and polemical ethnic framing.",
+      "source_reference": "1Pet 4:3",
+      "source_verse_sha256": "9efdcd73d1c1f0fb0412e6da66863f471b4a6118e32f6e6c78ccc4843117e37c",
+      "before": "For the time that has passed is enough for doing what the Gentiles want to do—living in sensuality, passions, drunkenness, wild parties, drinking bouts, and lawless idolatry.",
+      "after": "For enough time has passed to carry out the desire of the nations, living in debauchery, lusts, drunkenness, orgies, drinking parties and forbidden idolatries.",
+      "tsw_comparator": "For the time that has passed is enough for doing what the Gentiles want to do—living in sensuality, passions, drunkenness, wild parties, drinking bouts, and lawless idolatry.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.384615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:4",
+      "delta": "F3",
+      "rationale": "Retains running/flood imagery and verbal abuse.",
+      "source_reference": "1Pet 4:4",
+      "source_verse_sha256": "5c6d3d5140792f354c991086c1cbdd9b3cfb4f7398046b04f3366128d48bcbb5",
+      "before": "They are surprised that you do not run with them into the same flood of reckless living, and they speak evil of you.",
+      "after": "They are surprised that you no longer run with them into the same flood of reckless living, and they slander you.",
+      "tsw_comparator": "They are surprised that you do not run with them into the same flood of reckless living, and they speak evil of you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.818182,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:5",
+      "delta": "F3",
+      "rationale": "Keeps accountability and universal judgment.",
+      "source_reference": "1Pet 4:5",
+      "source_verse_sha256": "806b4418883cd142ede11f74421da6358c9753a26fac682880a01d011c9410c3",
+      "before": "But they will give account to the one who is ready to judge the living and the dead.",
+      "after": "They will give an account to the one ready to judge the living and the dead.",
+      "tsw_comparator": "But they will give account to the one who is ready to judge the living and the dead.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:6",
+      "delta": "F3",
+      "rationale": "Preserves proclamation to the dead and flesh/spirit outcome without resolving timing.",
+      "source_reference": "1Pet 4:6",
+      "source_verse_sha256": "daa19c4431bc799dc6d9a2e443cf8c823d522423b4a262240eb072627f896b72",
+      "before": "For this reason the good news was proclaimed even to the dead, so that though they were judged in the flesh as mortals, they might live in the spirit as God does.",
+      "after": "For this is why the good news was proclaimed even to the dead: so that though judged in the flesh according to human standards, they might live in the spirit according to God.",
+      "tsw_comparator": "For this reason the good news was proclaimed even to the dead, so that though they were judged in the flesh as mortals, they might live in the spirit as God does.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:12",
+      "delta": "F3",
+      "rationale": "Retains fire and testing without minimizing trauma.",
+      "source_reference": "1Pet 4:12",
+      "source_verse_sha256": "22557cdf44b38b0f8e15efbc306bc8b4abe2ea6af4d5981993850eb8394891ee",
+      "before": "Beloved, do not be surprised at the fiery ordeal among you that is coming upon you to test you, as if something strange were happening to you.",
+      "after": "Beloved, do not be surprised by the fiery ordeal among you that tests you, as though something strange were happening to you.",
+      "tsw_comparator": "Beloved, do not be surprised at the fiery ordeal among you that is coming upon you to test you, as though something strange were happening to you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.816327,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:13",
+      "delta": "F3",
+      "rationale": "Keeps measured sharing and future joy.",
+      "source_reference": "1Pet 4:13",
+      "source_verse_sha256": "2d016fb67a6f2bdbf33fb6596f94e6628493d05a8bdbe1d3373f00bbcd1b32e3",
+      "before": "But rejoice insofar as you share in Christ’s sufferings, so that you may also rejoice and be glad when his glory is revealed.",
+      "after": "Instead, rejoice insofar as you share Christ's sufferings, so that you may also rejoice exuberantly when his glory is revealed.",
+      "tsw_comparator": "But rejoice insofar as you share in Christ’s sufferings, so that you may also rejoice and be glad when his glory is revealed.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.837209,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:14",
+      "delta": "F3",
+      "rationale": "Preserves verbal abuse, blessing and Spirit's rest.",
+      "source_reference": "1Pet 4:14",
+      "source_verse_sha256": "2238762133241aec334afa88e562a56b18ff36e0d909d280fba7b8a2ee0eecdb",
+      "before": "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory, the Spirit of God, rests on you.",
+      "after": "If you are insulted because of Christ's name, you are blessed, because the Spirit of glory and of God rests on you.",
+      "tsw_comparator": "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory, the Spirit of God, rests on you.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.782609,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:15",
+      "delta": "F3",
+      "rationale": "Keeps all four causes, including murder.",
+      "source_reference": "1Pet 4:15",
+      "source_verse_sha256": "fb6b28c40623b3bb1b5658c9b569a4ba2074c002337fa0bc32d7c445ed991b25",
+      "before": "But let none of you suffer as a murderer or a thief or a wrongdoer or as a meddler.",
+      "after": "Let none of you suffer as a murderer, thief, evildoer or meddler in another's affairs.",
+      "tsw_comparator": "But let none of you suffer as a murderer or a thief or a wrongdoer or as a meddler.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.647059,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:16",
+      "delta": "F3",
+      "rationale": "Retains early identity label, shame and honor response.",
+      "source_reference": "1Pet 4:16",
+      "source_verse_sha256": "6e8fb21af0b39e0672228fb5602cc5230cba93485585a253a392f836ebcf3ba2",
+      "before": "Yet if someone suffers as a Christian, let them not be ashamed, but let them glorify God in that name.",
+      "after": "But if anyone suffers as a Christian, let that person not be ashamed but glorify God in this name.",
+      "tsw_comparator": "Yet if anyone suffers as a Christian, let them not be ashamed, but let them glorify God in that name.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.769231,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:17",
+      "delta": "F3",
+      "rationale": "Keeps judgment's starting place and rhetorical escalation.",
+      "source_reference": "1Pet 4:17",
+      "source_verse_sha256": "41a077f4f7fc00d7357e60ab64c577e9cac1bc5070b16e007ccac262777eaa63",
+      "before": "For it is time for judgment to begin at the house of God; and if it begins with us first, what will the outcome be for people who do not obey the good news of God?",
+      "after": "For it is time for judgment to begin with God's household; and if it begins with us, what will be the outcome for those who disobey God's good news?",
+      "tsw_comparator": "For it is time for judgment to begin at the house of God; and if it begins with us first, what will the outcome be for those who do not obey the good news of God?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.707692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:18",
+      "delta": "F3",
+      "rationale": "Preserves quoted difficulty and unresolved rhetorical fate.",
+      "source_reference": "1Pet 4:18",
+      "source_verse_sha256": "30f28474df71532a00e9572a6127c6111731073658f7523b14a85378e23d3de6",
+      "before": "And if “the righteous are scarcely saved,” where will the ungodly and the sinner appear?",
+      "after": "And “if the righteous person is saved with difficulty, what will become of the ungodly and sinner?”",
+      "tsw_comparator": "And if “the righteous are scarcely saved,” where will the ungodly and the sinner appear?",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.625,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Peter 4:19",
+      "delta": "F3",
+      "rationale": "Keeps suffering, divine will and active good rather than passive harm acceptance.",
+      "source_reference": "1Pet 4:19",
+      "source_verse_sha256": "3384abf795e764dc2e8c1c9b45cba189ba8e348f60b20f5ba63af43dcbfe9330",
+      "before": "So let people who suffer according to God’s will entrust their lives to a faithful Creator while doing good.",
+      "after": "Therefore, let those who suffer according to God's will entrust their lives to a faithful Creator while doing good.",
+      "tsw_comparator": "Therefore let those who suffer according to God’s will entrust their lives to a faithful Creator while doing good.",
+      "identical_words_to_tsw": true,
+      "word_similarity_to_tsw": 1.0,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1peter/1Peter_04.md",
-    "blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

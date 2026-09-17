@@ -1,0 +1,125 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "2Timothy",
+  "slug": "2timothy",
+  "chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "scope": "2 Timothy 1–4",
+  "expected_verses": 83,
+  "source_filename": "2timothy-pinned-greek.txt",
+  "book_record_files": [
+    "2_TIMOTHY_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Tim.txt",
+    "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
+    "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Tim",
+    "book_verse_count": 83,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:5",
+    "1:7",
+    "1:8",
+    "1:9",
+    "1:10",
+    "1:12",
+    "1:15",
+    "2:3",
+    "2:9",
+    "2:11",
+    "2:12",
+    "2:13",
+    "2:15",
+    "2:17",
+    "2:18",
+    "2:24",
+    "2:26",
+    "3:6",
+    "3:8",
+    "3:11",
+    "3:12",
+    "3:15",
+    "3:16",
+    "4:1",
+    "4:6",
+    "4:7",
+    "4:8",
+    "4:10",
+    "4:13",
+    "4:14",
+    "4:16",
+    "4:17",
+    "4:18"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "07",
+          "The Greek word can denote cowardice or timidity; the contrast names power, love and self-control."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "2": {
+      "notes": [
+        [
+          "15",
+          "‘Cutting straight’ evokes accurate handling; the precise metaphor may draw on roads, craft or plowing."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "3": {
+      "notes": [
+        [
+          "16",
+          "The Greek can mean ‘all Scripture is God-breathed and useful’ or ‘every God-breathed scripture is also useful.’"
+        ]
+      ],
+      "vocabulary": [
+        [
+          "16",
+          "θεόπνευστος (theopneustos)",
+          "God-breathed or breathed out by God."
+        ]
+      ]
+    },
+    "4": {
+      "notes": [
+        [
+          "14",
+          "The prayer entrusts repayment for Alexander’s harmful acts to the Lord; it is not a command for personal retaliation."
+        ],
+        [
+          "16",
+          "The request that abandonment not be counted against others limits the preceding judgment language."
+        ]
+      ],
+      "vocabulary": []
+    }
+  }
+}

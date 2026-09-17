@@ -1,91 +1,75 @@
 {
-  "book": "1 Thessalonians",
+  "book": "1Thessalonians",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 10,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-1thessalonians-1-5-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/1thessalonians/1Thessalonians_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/1Thess.txt",
     "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "1 Thessalonians 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "e6b474e7816ca8dad7f06906ef9da7278aa48d97c68de95d89e238ad7db2d476"
-      },
-      "2": {
-        "source_ref": "1 Thessalonians 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "ed2751230d5840041d53f1b0e6761f964f550f1e62e132391b678b95871cc4c1"
-      },
-      "3": {
-        "source_ref": "1 Thessalonians 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "984f4bc7cbae937f5933004685a0b58fc9b4a3b16ba8849d26d2ed10caf60418"
-      },
-      "4": {
-        "source_ref": "1 Thessalonians 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "43f68eea6a1e2e9ef0ce9e7eeda3a1bf7fcd7c715388ba5f48a03bad52464fef"
-      },
-      "5": {
-        "source_ref": "1 Thessalonians 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "fbb215f64517a991a7737f3e0f44922948fce703714b5f74d95793854d4fe9b3"
-      },
-      "6": {
-        "source_ref": "1 Thessalonians 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "a8820f120daad2a6f035a218969f7550bf92c8813f4a4ddef8cdcdb4185eed30"
-      },
-      "7": {
-        "source_ref": "1 Thessalonians 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "e9dc535ea171830e23b785190fc136732569f601cd3e5c28a0016d3667966610"
-      },
-      "8": {
-        "source_ref": "1 Thessalonians 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "cf2abf970ee3697793fd9230aad7fb5a64f1e5f16cb5e570a2f359a529fa41ab"
-      },
-      "9": {
-        "source_ref": "1 Thessalonians 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "42d26b20546542e8ba6141513e30223f611b95627b5cd88ae8d2824cc1d7d662"
-      },
-      "10": {
-        "source_ref": "1 Thessalonians 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "980fee6237bb8c78162a01bc118623ec595b5959156060a6aad649825c1b4aeb"
-      }
+    "sha256": "58b57d9b87ee994757a6bd425cfb8a12cecee9b3c7d0206286fdf2b089b44ccf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Thess.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Thess",
+    "book_verse_count": 89,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 10,
+    "path": "translations/fluent/NT/1thessalonians/1Thessalonians_01.md",
+    "before_sha256": "05ed8a6f83856d41aeee148c3a40168cdd03e9354569acc663dad8d948b3c754",
+    "after_sha256": "35b0b970058cf258626c7aa98e76c9368c1fc0e2d7dddd2dde71cfecf8311464",
+    "tsw_comparator_path": "books/NT/1thessalonians/1Thessalonians_01.md",
+    "tsw_comparator_sha256": "fca03ae0f074b9a350dae4d37dffb9ea9f415a0d36a250d3dcef278da51bc9c6"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "1Thessalonians 1:3",
+      "delta": "F3",
+      "rationale": "Keeps the three genitive pairs and their Christ-centered horizon.",
+      "source_reference": "1Thess 1:3",
+      "source_verse_sha256": "a30c889f861cdebd81f6de9e29d96130fd3652cfed78f5e1815185b15dd7b01e",
+      "before": "remembering before our God and Father your work produced by trust, your labor from love, and your endurance from hope in our Lord Jesus Christ.",
+      "after": "Before our God and Father, we continually remember your work produced by faith, your labor prompted by love and your endurance inspired by hope in our Lord Jesus Christ.",
+      "tsw_comparator": "remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.653846,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "1Thessalonians 1:9",
+      "delta": "F3",
+      "rationale": "Preserves outsiders' report, conversion movement and slave-service verb.",
+      "source_reference": "1Thess 1:9",
+      "source_verse_sha256": "f7982148000bc7ebcc6c3e0d3b06941c7837683de0802a1ff5159f7764b2bfed",
+      "before": "They themselves report what kind of welcome we had among you, and how you turned to God from idols to serve the living and true God,",
+      "after": "They themselves report what kind of reception we had among you and how you turned to God from idols, to serve the living and true God",
+      "tsw_comparator": "For they themselves report about us what kind of reception we had among you, and how you turned to God from idols to serve the living and true God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.945455,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/1thessalonians/1Thessalonians_01.md",
-    "blob_sha": "3ee3e73213efaf5e11821070b1d195c0df44e5dc"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

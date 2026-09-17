@@ -1,7 +1,7 @@
 {
   "book": "1 Peter",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 5,
   "public_verse_slots": 105,
   "included_verse_labels": 105,
@@ -71,5 +71,55 @@
         "blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-1peter-1-5-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "verse_count": 105,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+      "path": "audit/exegetical-core/fluent-production/1peter/1_PETER_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-1peter-1-5-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "verse_count": 105,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+        "path": "audit/exegetical-core/fluent-production/1peter/1_PETER_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

@@ -1,357 +1,266 @@
 {
-  "book": "2 Peter",
+  "book": "2Peter",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2peter-1-1-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/2peter/2Peter_01_review.json"
+  },
   "source": {
-    "type": "sblgnt",
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
     "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Pet.txt",
-    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00"
-  },
-  "public_verse_labels": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20,
-    21
-  ],
-  "curated_f3_decisions": [
-    {
-      "location": "1:16-21",
-      "decision": "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience.",
-      "disposition": "APPROVE_QA"
-    }
-  ],
-  "checks": {
-    "meaning_and_referents": "APPROVE_QA",
-    "discourse_and_paragraphs": "APPROVE_QA",
-    "textual_and_versification": "APPROVE_QA",
-    "notes_and_vocabulary": "APPROVE_QA",
-    "format_and_publication_structure": "APPROVE_QA"
-  },
-  "source_binding": {
-    "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
-    "file": "data/sblgnt/text/2Pet.txt",
     "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Peter 1:1",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 1,
-            "source_ref": "2 Peter 1:1",
-            "segment_mode": "whole",
-            "sha256": "db6effbae3eb8ce7cc6ddbd33ee036f6ad835165f06396976c04aaebd001c554"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "db6effbae3eb8ce7cc6ddbd33ee036f6ad835165f06396976c04aaebd001c554"
-      },
-      "2": {
-        "source_ref": "2 Peter 1:2",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 2,
-            "source_ref": "2 Peter 1:2",
-            "segment_mode": "whole",
-            "sha256": "1619a2195be56042c03675db66ab7b7f7fb4fa70d982cdcad19a88ead66d1784"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "1619a2195be56042c03675db66ab7b7f7fb4fa70d982cdcad19a88ead66d1784"
-      },
-      "3": {
-        "source_ref": "2 Peter 1:3",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 3,
-            "source_ref": "2 Peter 1:3",
-            "segment_mode": "whole",
-            "sha256": "d782bb721be201e71814d63169568e9fe780b6c63cdf1f1de60a2ab17c89d751"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "d782bb721be201e71814d63169568e9fe780b6c63cdf1f1de60a2ab17c89d751"
-      },
-      "4": {
-        "source_ref": "2 Peter 1:4",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 4,
-            "source_ref": "2 Peter 1:4",
-            "segment_mode": "whole",
-            "sha256": "fe7c58703df45a0a7b6f2d4c48403863b73fc1e883b9f3be49bf68c90e844295"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fe7c58703df45a0a7b6f2d4c48403863b73fc1e883b9f3be49bf68c90e844295"
-      },
-      "5": {
-        "source_ref": "2 Peter 1:5",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 5,
-            "source_ref": "2 Peter 1:5",
-            "segment_mode": "whole",
-            "sha256": "622c8cf4066edaf5ea8b0ed72e66e90d17ab1ebb5f8ee83e7cb4f5616eb84557"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "622c8cf4066edaf5ea8b0ed72e66e90d17ab1ebb5f8ee83e7cb4f5616eb84557"
-      },
-      "6": {
-        "source_ref": "2 Peter 1:6",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 6,
-            "source_ref": "2 Peter 1:6",
-            "segment_mode": "whole",
-            "sha256": "6d09868f4c377b6f32c5600e448c6cc29a573c0880b5a6f7fce68160d698e566"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "6d09868f4c377b6f32c5600e448c6cc29a573c0880b5a6f7fce68160d698e566"
-      },
-      "7": {
-        "source_ref": "2 Peter 1:7",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 7,
-            "source_ref": "2 Peter 1:7",
-            "segment_mode": "whole",
-            "sha256": "06775bcd262848e1fced9521051c2cdec055b3663abfac41733733b2568f7945"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "06775bcd262848e1fced9521051c2cdec055b3663abfac41733733b2568f7945"
-      },
-      "8": {
-        "source_ref": "2 Peter 1:8",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 8,
-            "source_ref": "2 Peter 1:8",
-            "segment_mode": "whole",
-            "sha256": "cf0a2cfaad7a3e9bdf5cae1d7cb6b2fc091ba64bf03f24332f70250dfbcd5de2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "cf0a2cfaad7a3e9bdf5cae1d7cb6b2fc091ba64bf03f24332f70250dfbcd5de2"
-      },
-      "9": {
-        "source_ref": "2 Peter 1:9",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 9,
-            "source_ref": "2 Peter 1:9",
-            "segment_mode": "whole",
-            "sha256": "0d7011a9d4779865b18b776326853cc77730340b9d9fba8bcf4550c53bba9e49"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "0d7011a9d4779865b18b776326853cc77730340b9d9fba8bcf4550c53bba9e49"
-      },
-      "10": {
-        "source_ref": "2 Peter 1:10",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 10,
-            "source_ref": "2 Peter 1:10",
-            "segment_mode": "whole",
-            "sha256": "7f43ab928ec3cd669fd3c7d57cd1b2eac5a09c7a0e25df076b39a8c3d3c34686"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7f43ab928ec3cd669fd3c7d57cd1b2eac5a09c7a0e25df076b39a8c3d3c34686"
-      },
-      "11": {
-        "source_ref": "2 Peter 1:11",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 11,
-            "source_ref": "2 Peter 1:11",
-            "segment_mode": "whole",
-            "sha256": "3eab6741b232757ffcda4db7bbb4940e098e7669af92596a1818ef62fb3a4136"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "3eab6741b232757ffcda4db7bbb4940e098e7669af92596a1818ef62fb3a4136"
-      },
-      "12": {
-        "source_ref": "2 Peter 1:12",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 12,
-            "source_ref": "2 Peter 1:12",
-            "segment_mode": "whole",
-            "sha256": "5c45a959c939bf9eec3b989d81a2bbc2669082af5ae590e1c3adaf07a2f5f96a"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5c45a959c939bf9eec3b989d81a2bbc2669082af5ae590e1c3adaf07a2f5f96a"
-      },
-      "13": {
-        "source_ref": "2 Peter 1:13",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 13,
-            "source_ref": "2 Peter 1:13",
-            "segment_mode": "whole",
-            "sha256": "7efd4746a447ac08dfa87c92e43923526903147fed2ce5d2fe3d6e0995f0a934"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "7efd4746a447ac08dfa87c92e43923526903147fed2ce5d2fe3d6e0995f0a934"
-      },
-      "14": {
-        "source_ref": "2 Peter 1:14",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 14,
-            "source_ref": "2 Peter 1:14",
-            "segment_mode": "whole",
-            "sha256": "5fef7abfb7e6276d54e882885fd82a2aebaf6a40aeec63b2173ac8ded4e25973"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "5fef7abfb7e6276d54e882885fd82a2aebaf6a40aeec63b2173ac8ded4e25973"
-      },
-      "15": {
-        "source_ref": "2 Peter 1:15",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 15,
-            "source_ref": "2 Peter 1:15",
-            "segment_mode": "whole",
-            "sha256": "b810ae5b55abdfd36000f8ce7db15bc645e3cfa42980f839d75a2187ed8964d2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b810ae5b55abdfd36000f8ce7db15bc645e3cfa42980f839d75a2187ed8964d2"
-      },
-      "16": {
-        "source_ref": "2 Peter 1:16",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 16,
-            "source_ref": "2 Peter 1:16",
-            "segment_mode": "whole",
-            "sha256": "175f3cd710501f48b1f3056ca1a78fc615cb37b0fc6691ac37cb68c40f042cc6"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "175f3cd710501f48b1f3056ca1a78fc615cb37b0fc6691ac37cb68c40f042cc6"
-      },
-      "17": {
-        "source_ref": "2 Peter 1:17",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 17,
-            "source_ref": "2 Peter 1:17",
-            "segment_mode": "whole",
-            "sha256": "4295ac05f4d263207307f03302a15ecb046b9e72c78fcb05def4bbc9fc211b48"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "4295ac05f4d263207307f03302a15ecb046b9e72c78fcb05def4bbc9fc211b48"
-      },
-      "18": {
-        "source_ref": "2 Peter 1:18",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 18,
-            "source_ref": "2 Peter 1:18",
-            "segment_mode": "whole",
-            "sha256": "eb53fe306ee2af2d8e85fef900af8cb88c6174c137040936c1534e6926047a57"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "eb53fe306ee2af2d8e85fef900af8cb88c6174c137040936c1534e6926047a57"
-      },
-      "19": {
-        "source_ref": "2 Peter 1:19",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 19,
-            "source_ref": "2 Peter 1:19",
-            "segment_mode": "whole",
-            "sha256": "438a40e6ff6531f90b719f983d447f019a83ae313a8cef394a6baa0425595fd4"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "438a40e6ff6531f90b719f983d447f019a83ae313a8cef394a6baa0425595fd4"
-      },
-      "20": {
-        "source_ref": "2 Peter 1:20",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 20,
-            "source_ref": "2 Peter 1:20",
-            "segment_mode": "whole",
-            "sha256": "b244c5582c1e047d5a45d536649dd4942201ed0d702b4b8fffe434e771392212"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "b244c5582c1e047d5a45d536649dd4942201ed0d702b4b8fffe434e771392212"
-      },
-      "21": {
-        "source_ref": "2 Peter 1:21",
-        "source_records": [
-          {
-            "chapter": 1,
-            "verse": 21,
-            "source_ref": "2 Peter 1:21",
-            "segment_mode": "whole",
-            "sha256": "fbfc9311300c0c6abaef822c9d18207ba155cf022e380deeecb507962661b0e2"
-          }
-        ],
-        "segment_mode": "whole",
-        "sha256": "fbfc9311300c0c6abaef822c9d18207ba155cf022e380deeecb507962661b0e2"
-      }
+    "sha256": "7afd9df2ea451cc6b3d55984d12fcf8d8d159b5f3d40489b4ebd375dbac8aea0",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Pet.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Pet",
+    "book_verse_count": 61,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 21,
+    "path": "translations/fluent/NT/2peter/2Peter_01.md",
+    "before_sha256": "82bbf458b84299285ee20bab45b58e4e57f72390751cf63179318098d262d0b3",
+    "after_sha256": "fbf8a763d8b6eecb4b2e92f38f56718e282473656e40b4e67f47d72a2104adfa",
+    "tsw_comparator_path": "books/NT/2peter/2Peter_01.md",
+    "tsw_comparator_sha256": "8b0522a9a6c380da5ba8f434f7ad7abcfcdf25087d18f206f9b302bc682a0900"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2peter-1-1/2peter-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Peter 1:1",
+      "delta": "F3",
+      "rationale": "Follows the pinned Simeon form and keeps slave/apostle roles and dense divine title.",
+      "source_reference": "2Pet 1:1",
+      "source_verse_sha256": "9299fe05b9617b711a3befef389555b1e1e54c479554f06414579268028f61be",
+      "before": "Simeon Peter, a servant and apostle of Jesus Christ, to people who have received a trust equal in honor to ours in the righteousness of our God and Savior Jesus Christ:",
+      "after": "Simeon Peter, a slave and apostle of Jesus Christ, to those who have received a faith equal in value to ours through the righteousness of our God and Savior Jesus Christ:",
+      "tsw_comparator": "Simeon Peter, a servant and apostle of Jesus Christ, to those who have received a trust equal in honor to ours in the righteousness of our God and Savior Jesus Christ:",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.870968,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:3",
+      "delta": "F3",
+      "rationale": "Keeps divine provision, knowledge and the pinned own-glory reading.",
+      "source_reference": "2Pet 1:3",
+      "source_verse_sha256": "127342d206ae405bf6ae83c90d04aa8a4f800f47e8b4b9d7c6519d05fbb6bef0",
+      "before": "His divine power has granted to us everything that pertain to life and godliness, through the knowledge of him who called us by his own glory and excellence,",
+      "after": "His divine power has given us everything needed for life and godliness through knowing the one who called us by his own glory and excellence.",
+      "tsw_comparator": "His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and excellence,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.703704,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:4",
+      "delta": "F3",
+      "rationale": "Retains elevated participation, promises and moral decay.",
+      "source_reference": "2Pet 1:4",
+      "source_verse_sha256": "0d6695b9a29ca84aa4965c4ca3f0d043f7a034713a5f707d4dc8c14575c9c87f",
+      "before": "by which he has granted to us his precious and very great promises, so that through them you may become sharers in the divine nature, having escaped from the corruption that is in the world because of desire.",
+      "after": "Through these he has given us precious and very great promises, so that through them you may become partners in the divine nature, having escaped the corruption in the world caused by desire.",
+      "tsw_comparator": "by which he has granted to us his precious and very great promises, so that through them you may become sharers in the divine nature, having escaped from the corruption that is in the world because of desire.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.760563,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:5",
+      "delta": "F3",
+      "rationale": "Keeps generous-supply verb and first links in the virtue chain.",
+      "source_reference": "2Pet 1:5",
+      "source_verse_sha256": "baf4621b7e0224373bfc76552f23bbe93d3f7a0a3b0b99e887f7d4465b85be3b",
+      "before": "For this very reason, make every effort to supply in your trust excellence, and in excellence knowledge,",
+      "after": "For this very reason, make every effort to supply goodness alongside your faith, and knowledge alongside goodness,",
+      "tsw_comparator": "For this very reason, make every effort to supply in your trust excellence, and in excellence knowledge,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.705882,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:6",
+      "delta": "F3",
+      "rationale": "Preserves exact middle sequence.",
+      "source_reference": "2Pet 1:6",
+      "source_verse_sha256": "42eb444b6e1c2541d0d34a3ca6f2fc10ec4ca8c83885f68d5f6fabedfd5d7252",
+      "before": "and in knowledge self-control, and in self-control steadfastness, and in steadfastness godliness,",
+      "after": "self-control alongside knowledge, endurance alongside self-control, and godliness alongside endurance,",
+      "tsw_comparator": "and in knowledge self-control, and in self-control steadfastness, and in steadfastness godliness,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.384615,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:7",
+      "delta": "F3",
+      "rationale": "Keeps distinct sibling affection and broader love.",
+      "source_reference": "2Pet 1:7",
+      "source_verse_sha256": "76aa68f0427696770a1518b010892183a8b8ac153eaed3ddfbcdcd320a9d0f85",
+      "before": "and in godliness mutual affection, and in mutual affection love.",
+      "after": "family affection alongside godliness, and love alongside family affection.",
+      "tsw_comparator": "and in godliness mutual affection, and in mutual affection love.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.315789,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:10",
+      "delta": "F3",
+      "rationale": "Preserves divine calling/election alongside active confirmation and emphatic result.",
+      "source_reference": "2Pet 1:10",
+      "source_verse_sha256": "de52ef3558dedd1f48d1146da1594c5fcb394e100849b6ede2ce936f86f67cbb",
+      "before": "So, brothers and sisters, be all the more diligent to confirm your calling and election, for if you practice these things you will never stumble.",
+      "after": "Therefore, brothers and sisters, make every effort to confirm your calling and election, for if you practice these things you will never stumble.",
+      "tsw_comparator": "Therefore, brothers and sisters, be all the more diligent to confirm your calling and election, for if you practice these things you will never stumble.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.833333,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:11",
+      "delta": "F3",
+      "rationale": "Keeps lavish entrance and full title.",
+      "source_reference": "2Pet 1:11",
+      "source_verse_sha256": "1726316e4025165c06e97c17638fcc13761c97a82387859c2182a1488c4de3f6",
+      "before": "For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.",
+      "after": "In this way, entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be richly supplied to you.",
+      "tsw_comparator": "For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.666667,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:13",
+      "delta": "F3",
+      "rationale": "Keeps body-as-tent and awakening image.",
+      "source_reference": "2Pet 1:13",
+      "source_verse_sha256": "4a70c54b8c694abec446131f3ad661afc18d056c392bbcf4ef917cc4ee8f43f1",
+      "before": "I think it right, as long as I am in this tent, to stir you up by way of reminder,",
+      "after": "I think it is right, as long as I am in this tent, to stir you up by reminding you,",
+      "tsw_comparator": "I think it right, as long as I am in this tent, to stir you up by way of reminder,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.85,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:14",
+      "delta": "F3",
+      "rationale": "Preserves approaching death, tent removal and disclosed knowledge.",
+      "source_reference": "2Pet 1:14",
+      "source_verse_sha256": "b51ad7a23c43aed29dc2efec268b07069a924e81a10239285417b31523bcbba7",
+      "before": "since I know that the putting off of my tent will be soon, as our Lord Jesus Christ made clear to me.",
+      "after": "because I know that I will soon put aside my tent, just as our Lord Jesus Christ made clear to me.",
+      "tsw_comparator": "since I know that the putting off of my tent will be soon, as our Lord Jesus Christ made clear to me.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.651163,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:15",
+      "delta": "F3",
+      "rationale": "Keeps death-as-exodus/departure and durable remembrance.",
+      "source_reference": "2Pet 1:15",
+      "source_verse_sha256": "0d86c8a823403e74ad18c0c3cac34fc10170d6cdb5244331dcfc889b30c6e6a3",
+      "before": "I will make every effort so that after my departure you may be able at any time to recall these things.",
+      "after": "And I will make every effort so that after my departure you may always be able to remember these things.",
+      "tsw_comparator": "And I will make every effort so that after my departure you may be able at any time to recall these things.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.857143,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:16",
+      "delta": "F3",
+      "rationale": "Preserves denial, future coming and claimed eyewitness status.",
+      "source_reference": "2Pet 1:16",
+      "source_verse_sha256": "9d9ac9ec4aad38633de1a689d3980dfcc7803ca7fb9d938e8e8a956d4a22a4ab",
+      "before": "For we did not follow cleverly devised myths when we revealed to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.",
+      "after": "For we did not follow cleverly invented myths when we made known to you the power and coming of our Lord Jesus Christ; we were eyewitnesses of his majesty.",
+      "tsw_comparator": "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.949153,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:17",
+      "delta": "F3",
+      "rationale": "Keeps honor/glory, circumlocution and exact filial declaration.",
+      "source_reference": "2Pet 1:17",
+      "source_verse_sha256": "56cdc927570f636a4c4988f401b704edb1faa402649e711f46c5922b0c25a44c",
+      "before": "For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,”",
+      "after": "For he received honor and glory from God the Father when a voice like this was brought to him by the Majestic Glory: “This is my beloved Son, in whom I am well pleased.”",
+      "tsw_comparator": "For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,”",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.835821,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:18",
+      "delta": "F3",
+      "rationale": "Retains first-person witness and named sacred location.",
+      "source_reference": "2Pet 1:18",
+      "source_verse_sha256": "2e89a96be0a2314ccb91a7883e3693838ea34e1945e526b0bc7a883aa6545014",
+      "before": "we ourselves heard this voice borne from heaven, for we were with him on the holy mountain.",
+      "after": "We ourselves heard this voice brought from heaven when we were with him on the holy mountain.",
+      "tsw_comparator": "we ourselves heard this voice borne from heaven, for we were with him on the holy mountain.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.882353,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:19",
+      "delta": "F3",
+      "rationale": "Keeps comparison, lamp/dawn/star imagery and inward location.",
+      "source_reference": "2Pet 1:19",
+      "source_verse_sha256": "e8eb534c6b9fe5ebfc3c4655a3d0e9f7fdb8eb7bf9891ab5fd6c3e68f53e160b",
+      "before": "And we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts,",
+      "after": "We also have the prophetic word made more certain, and you do well to pay attention to it as to a lamp shining in a dark place, until day dawns and the morning star rises in your hearts.",
+      "tsw_comparator": "And we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.868421,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:20",
+      "delta": "F3",
+      "rationale": "Preserves own-interpretation wording without deciding whether it describes origin or exposition.",
+      "source_reference": "2Pet 1:20",
+      "source_verse_sha256": "b6e0ac8c15cfb7193779d5ae98da0920af09a9d0c7fb54995a2657dd3786fb2a",
+      "before": "knowing this first of all, that no prophecy of scripture comes from one’s own interpretation.",
+      "after": "Above all, know this: no prophecy of Scripture comes from one's own interpretation,",
+      "tsw_comparator": "knowing this first of all, that no prophecy of scripture comes from one’s own interpretation.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.714286,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Peter 1:21",
+      "delta": "F3",
+      "rationale": "Keeps denied human initiative and Spirit-carried speech.",
+      "source_reference": "2Pet 1:21",
+      "source_verse_sha256": "b6fd0395c27604fade0b95848aef49ce7c7dd732584ddd4f6db8291e2878bf11",
+      "before": "For no prophecy was ever borne by the will of a human being, but human beings spoke from God as they were carried along by the Holy Spirit.",
+      "after": "for no prophecy was ever brought by human will; rather, people spoke from God as they were carried along by the Holy Spirit.",
+      "tsw_comparator": "For no prophecy was ever borne by the will of a human being, but human beings spoke from God as they were carried along by the Holy Spirit.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.745098,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2peter/2Peter_01.md",
-    "blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

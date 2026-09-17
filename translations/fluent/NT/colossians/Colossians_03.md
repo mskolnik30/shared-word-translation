@@ -4,37 +4,42 @@ testament: NT
 chapter: 3
 translation: FLUENT
 status: QA_PASSED
+qa_scope: structural
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: fluent-2026-09-17-colossians-1-4-biblical-fluency-2026-09-16
 ---
+
 
 ## Seek the Things Above
 
 <p>
-v01: Therefore, if you were raised with Christ, seek the things above, where Christ is seated at God’s right hand.
-v02: Set your minds on the things above, not on things on the earth,
-v03: because you died, and your life is hidden with Christ in God.
-v04: When Christ, who is your life, is revealed, then you also will be revealed with him in glory.
+v01: Therefore, if you were raised with Christ, seek what is above, where Christ is seated at God's right hand.
+v02: Set your minds on what is above, not on earthly things,
+v03: for you died, and your life is hidden with Christ in God.
+v04: When Christ, your life, is revealed, then you too will be revealed with him in glory.
 </p>
 
 ## Put to Death the Old Practices
 
 <p>
-v05: Therefore put to death what belongs to your earthly life: sexual immorality, impurity, passion, evil desire, and greed, which is idolatry.
-v06: Because of these things God’s wrath is coming.
-v07: You too once walked in these things when you lived in them.
-v08: But now you must put them all away: anger, rage, malice, slander, and abusive speech from your mouth.
-v09: Do not lie to one another, since you have stripped off the old humanity with its practices
-v10: and have put on the new humanity, which is being renewed in knowledge according to the image of its Creator.
-v11: Here there is no Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, slave, free—but Christ is all and in all.
+v05: So put to death what belongs to your earthly nature: sexual immorality, impurity, passion, evil desire and greed, which is idolatry.
+v06: Because of these things God's wrath is coming on the children of disobedience.
+v07: You too once walked in these ways when you lived among them.
+v08: But now you too must put away all these things: anger, rage, malice, slander and obscene speech from your mouth.
+v09: Do not lie to one another, since you have stripped off the old self with its practices
+v10: and put on the new self, which is being renewed in knowledge according to the image of its Creator.
+v11: Here there is no Greek or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free; instead, Christ is all and in all.
 </p>
 
 ## Put on Compassion and Love
 
 <p>
-v12: Therefore, as God’s chosen ones, holy and beloved, clothe yourselves with deep compassion, kindness, humility, gentleness, and patience,
-v13: bearing with one another and forgiving each other if anyone has a complaint against another. Just as the Lord forgave you, so you also must forgive.
-v14: Above all these put on love, which is the bond of maturity.
-v15: Let Christ’s peace rule in your hearts, to which you were called in one body. And be thankful.
-v16: Let Christ’s word dwell richly among you, teaching and warning one another with all wisdom, singing psalms, hymns, and spiritual songs with gratitude in your hearts to God.
+v12: Therefore, as God's chosen, holy and beloved people, clothe yourselves with heartfelt compassion, kindness, humility, gentleness and patience.
+v13: Bear with one another and forgive each other if anyone has a complaint against another. Just as the Lord forgave you, so you also must forgive.
+v14: Above all these, put on love, which is the bond of maturity.
+v15: Let Christ's peace rule in your hearts, since you were called to this peace in one body. And be thankful.
+v16: Let Christ's word dwell richly among you. Teach and warn one another with all wisdom; with psalms, hymns and spiritual songs, sing to God with gratitude in your hearts.
 v17: Whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.
 </p>
 
@@ -43,67 +48,18 @@ v17: Whatever you do, in word or deed, do everything in the name of the Lord Jes
 <p>
 v18: Wives, submit to your husbands, as is fitting in the Lord.
 v19: Husbands, love your wives and do not be harsh with them.
-v20: Children, obey your parents in everything, because this is pleasing in the Lord.
-v21: Fathers, do not provoke your children so that they do not become discouraged.
-v22: Slaves, obey your earthly masters in everything, not with eye-service as people-pleasers, but with sincerity of heart, fearing the Lord.
+v20: Children, obey your parents in everything, for this is pleasing in the Lord.
+v21: Fathers, do not provoke your children, so that they do not become discouraged.
+v22: Slaves, obey your earthly masters in everything, not only when they are watching, as people-pleasers, but with sincere hearts, fearing the Lord.
 v23: Whatever you do, work from the heart, as for the Lord and not for people,
-v24: knowing that from the Lord you will receive the inheritance as your reward. You serve the Lord Christ.
-v25: For the one who does wrong will receive back the wrong they have done, and there is no partiality.
+v24: knowing that from the Lord you will receive the inheritance as your reward. You serve the Lord Christ as a slave.
+v25: For the one who does wrong will be repaid for that wrong, and there is no favoritism.
 </p>
 
 ## Notes
 
-v01–04: “Things above” are defined by the enthroned Christ, not by contempt for creation or ordinary earthly responsibility.
-
-v05: Greed is again named idolatry, linking desire for possessions with rival worship.
-
-v09–11: The old/new humanity imagery is corporate as well as personal. Social distinctions remain real but no longer define unequal standing in the renewed community.
-
-v11: “Barbarian” and “Scythian” are ancient cultural labels, with Scythians stereotyped by Greeks as especially uncivilized. Paul places these identities within the all-in-all claim of Christ rather than endorsing the stereotypes.
-
-v12: “Deep compassion” translates the body-based idiom “bowels of compassion,” naturalizing the idiom while retaining emotional depth.
-
-v14: `teleiotēs` is maturity/completeness. Love binds the virtues into their mature whole.
-
-v15: “Rule” uses an athletic-arbitration verb: Christ’s peace is to decide or govern the communal heart.
-
-v16: Teaching is reciprocal: the word dwells among the community as believers teach and warn one another.
-
-v18–25: These instructions speak within an ancient patriarchal slaveholding household structure but repeatedly place each relationship “in the Lord.” Husbands are commanded to love and not be harsh; fathers not to discourage; enslaved believers are promised inheritance from the Lord; wrongdoers face impartial judgment.
-
-v22: Fluent retains “slaves” rather than replacing the social reality with “employees.”
+v18–22: The household instructions address wives, husbands, children, fathers and enslaved people specifically; the social hierarchy and potential harm are not erased.
 
 ## Vocabulary
 
-v01: συνεγείρω (synegeirō)
-“To raise together with.”
-
-v05: νεκρόω (nekroō)
-“To put to death.”
-
-v09: παλαιὸς ἄνθρωπος
-“Old humanity/person.”
-
-v10: νέος ἄνθρωπος
-“New humanity/person.”
-
-v12: σπλάγχνα οἰκτιρμοῦ
-“Deep compassion.”
-
-v14: τελειότης (teleiotēs)
-“Maturity, completeness.”
-
-v15: βραβεύω (brabeuō)
-“To rule, act as arbiter.”
-
-v16: ἐνοικέω (enoikeō)
-“To dwell in.”
-
-v21: ἐρεθίζω (erethizō)
-“To provoke.”
-
-v22: ὀφθαλμοδουλία (ophthalmodoulia)
-“Eye-service.”
-
-v25: προσωπολημψία (prosōpolēmpsia)
-“Partiality.”
+v11: **Σκύθης (Skythēs)**: Scythian, an ancient ethnic designation used in this social list.

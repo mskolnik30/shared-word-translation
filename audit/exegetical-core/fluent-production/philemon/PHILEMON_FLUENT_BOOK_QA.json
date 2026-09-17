@@ -1,7 +1,7 @@
 {
   "book": "Philemon",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 1,
   "public_verse_slots": 25,
   "included_verse_labels": 25,
@@ -68,5 +68,43 @@
         "blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-philemon-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 25,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+      "path": "audit/exegetical-core/fluent-production/philemon/PHILEMON_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-philemon-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 25,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+        "path": "audit/exegetical-core/fluent-production/philemon/PHILEMON_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

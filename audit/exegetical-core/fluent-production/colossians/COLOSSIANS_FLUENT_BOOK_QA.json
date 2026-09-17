@@ -1,7 +1,7 @@
 {
   "book": "Colossians",
   "translation": "FLUENT",
-  "status": "QA_PASSED",
+  "status": "REVIEW_PENDING",
   "chapter_count": 4,
   "public_verse_slots": 95,
   "included_verse_labels": 95,
@@ -96,5 +96,52 @@
         "blob_sha": "ec440962a5c62b56c5d77af5426a5177f5dd65e3"
       }
     }
-  }
+  },
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-colossians-1-4-biblical-fluency-2026-09-16",
+    "chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verse_count": 95,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-colossians-1-4/colossians-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+      "path": "audit/exegetical-core/fluent-production/colossians/COLOSSIANS_FLUENT_BOOK_QA.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-colossians-1-4-biblical-fluency-2026-09-16",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "verse_count": 95,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-colossians-1-4/colossians-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+        "path": "audit/exegetical-core/fluent-production/colossians/COLOSSIANS_FLUENT_BOOK_QA.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ]
 }

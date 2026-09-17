@@ -21,7 +21,10 @@
       "source_sha256": "1381a3dd1003c18c265eb1647110d01c1d8f3f97509b74f3c320fe09b4f2792e",
       "translation_sha256": "2c32da6e6c8f3ec67fcfaeddaeb33c9e34c675a10bb4c4a5ec52a7ceeaee980e",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -35,7 +38,10 @@
       "source_sha256": "8e50e36744286804b3e011c4ecc366b4d239bb4b2c996a906798c71a89a2c3b0",
       "translation_sha256": "a77eb567b6fc4e042c1456c67d7d44a06ed61d4f8081f7c27935f3917edf942c",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -49,7 +55,10 @@
       "source_sha256": "3542bf950b541ec1367df8110d89a10194b9d8d1b35c81faf5fe27ab80603ecb",
       "translation_sha256": "4b0c50bd93c1ece92cdc3eb0ce96aa9db845690c46dccfc6611823b4dce05733",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -63,7 +72,10 @@
       "source_sha256": "211ab49121d8b274ad18176496a6950c8d45ac3d002cf7516cc6de6d70822012",
       "translation_sha256": "8450ab9d394b69ae449cbd6653912e6917e093de2d866f8d133857d401cc7887",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -77,7 +89,10 @@
       "source_sha256": "8f73b8b51a1625e078dc9d81d8f6379541fd9d450e24a79c2d801e2ffdc9067d",
       "translation_sha256": "0322a577ec24953cba41780d5270166efccc6db8796fda1697cdd1934c3479e2",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -91,7 +106,10 @@
       "source_sha256": "9d0bc63cd7767b15219850aee05dcb0ce1cc1a0f7e954a984e0ef775683d49e4",
       "translation_sha256": "8f348e557cf9047eb6f257da2427e441d424ea8f365327ae5d01906b90d9a8be",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -105,7 +123,10 @@
       "source_sha256": "05d3e79e122cf38a97c143d4026fd4f73467e5a274a23ec88da7d26550a78705",
       "translation_sha256": "5244de2bf2cd950c9566ad5cd1533a93d3a68463e0aa216cf5466f94536eec39",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -121,7 +142,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -137,7 +161,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -153,7 +180,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -170,7 +200,10 @@
       "curated_decisions": [
         "Paul chooses appeal over coercive command",
         "Onesimus useless/useful wordplay retained"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -186,7 +219,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -202,7 +238,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -218,7 +257,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "Paul chooses appeal over coercive command"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -234,7 +276,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "perhaps retained as modest providential interpretation"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -250,7 +295,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "no longer as slave but more than slave—beloved brother retained; no employee euphemism"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -264,7 +312,10 @@
       "source_sha256": "dab820cd315439db620d5e99d20dc3464ee071c31529bbb587fd0a46ea66305b",
       "translation_sha256": "fe34482d89bf13f810fee41c470c1473e900625f106c05a49e078e877c803e89",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -280,7 +331,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "debt/accounting language retained"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -296,7 +350,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "debt/accounting language retained"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -310,7 +367,10 @@
       "source_sha256": "3e68b9c8e2f59a32e6d90dff36bfdd21158887d467e5b237170124afa45c3ded",
       "translation_sha256": "147c5a8c36450a8dc4ed829b8473c09f6460b449b2d01a598dc2eb36ae9fbe79",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -326,7 +386,10 @@
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
       "curated_decisions": [
         "even more than I say left open; no forced manumission paraphrase"
-      ]
+      ],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -340,7 +403,10 @@
       "source_sha256": "5c2fe15e4c827d5a41991a97acc2df51139516b4f02131961ce85afa418ca077",
       "translation_sha256": "15db31d39ca8083498adcfce71d4a286fe281c5b4e80b69f9057a8b82ec950f7",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -354,7 +420,10 @@
       "source_sha256": "481a7dce69ccc5ab2d94749e9d70ceeb2f84a8dd3351e228d27c0aab40518c39",
       "translation_sha256": "df23427be7ff4b157ceca93e898b083fd13dae4eb0f214c5c741f08025f44fb0",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -368,7 +437,10 @@
       "source_sha256": "af32b51b7cb07dae626688a52eccef5b7af56609815577a5dcbc8488460319ac",
       "translation_sha256": "31ea2f4685a8b77d0aab7148d7cf22a6ef1fd4bd52c19aca305f5086bccf8b6c",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     },
     {
       "chapter": 1,
@@ -382,7 +454,10 @@
       "source_sha256": "2eaa6989e1f4731b6d72823aeecfc19f363325be8379f601aab37f9a6599c020",
       "translation_sha256": "6db9bd1998b098e49dc7524e7e8382452de80d607bb36b2c9216aaa091925c56",
       "tsw_blob_sha": "70702b9a8292131168ad45aea68ec7ebf13e7df9",
-      "curated_decisions": []
+      "curated_decisions": [],
+      "status": "SUPERSEDED",
+      "superseded_by_verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "superseded_reason": "Historical English hash and classification; see new source-bound revision."
     }
   ],
   "summary": {
@@ -392,5 +467,45 @@
     "F3": 12
   },
   "public_verse_slots": 25,
-  "included_source_bindings": 25
+  "included_source_bindings": 25,
+  "status": "REVIEW_PENDING",
+  "publication_allowed": false,
+  "editorial_review_pending_chapters": [
+    1
+  ],
+  "current_revision": {
+    "id": "fluent-2026-09-17-philemon-1-1-biblical-fluency-2026-09-16",
+    "chapters": [
+      1
+    ],
+    "verse_count": 25,
+    "verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+    "automated_qa": "PASSED",
+    "editorial_status": "REVIEW_PENDING",
+    "qa_scope": "structural",
+    "prior_record": {
+      "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+      "path": "audit/exegetical-core/fluent-production/philemon/BOOK_VERSE_REVIEW_LEDGER.json"
+    },
+    "note": "Previous wording approvals and Companion bindings do not transfer."
+  },
+  "revision_batches": [
+    {
+      "id": "fluent-2026-09-17-philemon-1-1-biblical-fluency-2026-09-16",
+      "chapters": [
+        1
+      ],
+      "verse_count": 25,
+      "verse_ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "automated_qa": "PASSED",
+      "editorial_status": "REVIEW_PENDING",
+      "qa_scope": "structural",
+      "prior_record": {
+        "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+        "path": "audit/exegetical-core/fluent-production/philemon/BOOK_VERSE_REVIEW_LEDGER.json"
+      },
+      "note": "Previous wording approvals and Companion bindings do not transfer."
+    }
+  ],
+  "historical_summary_note": "Original classifications and English hashes remain historical; affected entries are explicitly superseded."
 }

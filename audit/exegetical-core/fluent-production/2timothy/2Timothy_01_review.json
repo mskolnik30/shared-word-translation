@@ -1,147 +1,139 @@
 {
-  "book": "2 Timothy",
+  "book": "2Timothy",
   "chapter": 1,
   "translation": "FLUENT",
-  "status": "QA_PASSED",
-  "verse_labels": 18,
+  "status": "REVIEW_PENDING",
   "publication_allowed": false,
-  "source_binding": {
+  "qa_scope": "structural",
+  "automated_qa": "PASSED",
+  "revision_id": "fluent-2026-09-17-2timothy-1-4-biblical-fluency-2026-09-16",
+  "supersedes": {
+    "commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+    "path": "audit/exegetical-core/fluent-production/2timothy/2Timothy_01_review.json"
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
     "repository": "Faithlife/SBLGNT",
-    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
     "file": "data/sblgnt/text/2Tim.txt",
     "git_blob_sha": "8809e18b0f95c7e6913ea5d239f2c28eda2fffad",
-    "public_verse_bindings": {
-      "1": {
-        "source_ref": "2 Timothy 1:1",
-        "source_chapter": 1,
-        "source_verse": 1,
-        "segment_mode": "whole_record",
-        "sha256": "3ccda42dfa6701bb3633381336ab512ae8e8e307258a35b2527d03a4dd2e09e3"
-      },
-      "2": {
-        "source_ref": "2 Timothy 1:2",
-        "source_chapter": 1,
-        "source_verse": 2,
-        "segment_mode": "whole_record",
-        "sha256": "9c3a641ae1de7c2bd0ec13d46af85a20d755060e808d62e59fa17ca00b9f2e89"
-      },
-      "3": {
-        "source_ref": "2 Timothy 1:3",
-        "source_chapter": 1,
-        "source_verse": 3,
-        "segment_mode": "whole_record",
-        "sha256": "5ed8f2b5f39043ff7be6763037969ed6216e1ef5984581181ee63fab626e0da3"
-      },
-      "4": {
-        "source_ref": "2 Timothy 1:4",
-        "source_chapter": 1,
-        "source_verse": 4,
-        "segment_mode": "whole_record",
-        "sha256": "7807d4c0fb2a7efeb96b0d1ee5e5b5af52ae236120e8b03de5f82d4df2cdf81d"
-      },
-      "5": {
-        "source_ref": "2 Timothy 1:5",
-        "source_chapter": 1,
-        "source_verse": 5,
-        "segment_mode": "whole_record",
-        "sha256": "17ee6c41975c41c9b3a4b646261da0de7d1e55d75ce60dbaa1f3a77a7b1d3692"
-      },
-      "6": {
-        "source_ref": "2 Timothy 1:6",
-        "source_chapter": 1,
-        "source_verse": 6,
-        "segment_mode": "whole_record",
-        "sha256": "43662e8f8b0a795e512d43a0a786fa5715a8d89ad9c3e2276a2d19120a5bf2da"
-      },
-      "7": {
-        "source_ref": "2 Timothy 1:7",
-        "source_chapter": 1,
-        "source_verse": 7,
-        "segment_mode": "whole_record",
-        "sha256": "bce3ccce79c33cc2b1627462c5772e74754615eb6ce65353b93629efeaf1723b"
-      },
-      "8": {
-        "source_ref": "2 Timothy 1:8",
-        "source_chapter": 1,
-        "source_verse": 8,
-        "segment_mode": "whole_record",
-        "sha256": "b6c9f96cf4d65d8a175632c1a9ffbc1f61fe16355aeb2f4af016eefdd9daf499"
-      },
-      "9": {
-        "source_ref": "2 Timothy 1:9",
-        "source_chapter": 1,
-        "source_verse": 9,
-        "segment_mode": "whole_record",
-        "sha256": "2040278c6d74f3c1f58d7b6e37f38ada17fcfa9e355d44dc607e121da9945924"
-      },
-      "10": {
-        "source_ref": "2 Timothy 1:10",
-        "source_chapter": 1,
-        "source_verse": 10,
-        "segment_mode": "whole_record",
-        "sha256": "4c0f9536f7e64b2dfc4874c532ae98929e7aa8952cbb7d855768c87f0e8c49e9"
-      },
-      "11": {
-        "source_ref": "2 Timothy 1:11",
-        "source_chapter": 1,
-        "source_verse": 11,
-        "segment_mode": "whole_record",
-        "sha256": "802ebe3d40c07b3d142ee57b107fe547bc5be64e79b6244e96710c7ac3e870b2"
-      },
-      "12": {
-        "source_ref": "2 Timothy 1:12",
-        "source_chapter": 1,
-        "source_verse": 12,
-        "segment_mode": "whole_record",
-        "sha256": "f150cf3d546541ac05f9aa3dfd93490182f2d8dc2ffaaa99515ab748566c1f72"
-      },
-      "13": {
-        "source_ref": "2 Timothy 1:13",
-        "source_chapter": 1,
-        "source_verse": 13,
-        "segment_mode": "whole_record",
-        "sha256": "abd2b9f53fbdab87c9005d3c194242ab1b6cd973dad054f456a402836158dd45"
-      },
-      "14": {
-        "source_ref": "2 Timothy 1:14",
-        "source_chapter": 1,
-        "source_verse": 14,
-        "segment_mode": "whole_record",
-        "sha256": "71c61b0a8ef01c88d28ce3b6254dbd340a9f2aa779c3dd8d7b70c8c2f13e0a8f"
-      },
-      "15": {
-        "source_ref": "2 Timothy 1:15",
-        "source_chapter": 1,
-        "source_verse": 15,
-        "segment_mode": "whole_record",
-        "sha256": "4ef2c3709427e71fb2b8d7fa9e372b6b7a7fbaa3b2207dfcfae8a2e84049bcb4"
-      },
-      "16": {
-        "source_ref": "2 Timothy 1:16",
-        "source_chapter": 1,
-        "source_verse": 16,
-        "segment_mode": "whole_record",
-        "sha256": "fb47aef72da1f8bfe35958f28dd40a14474b3026446ea82178bee1e5227fe428"
-      },
-      "17": {
-        "source_ref": "2 Timothy 1:17",
-        "source_chapter": 1,
-        "source_verse": 17,
-        "segment_mode": "whole_record",
-        "sha256": "9cfe5badc573d2d8a3a1e7b4637bcc0111d6968d98734553c5886cef5d464efa"
-      },
-      "18": {
-        "source_ref": "2 Timothy 1:18",
-        "source_chapter": 1,
-        "source_verse": 18,
-        "segment_mode": "whole_record",
-        "sha256": "3d64f79387b4057155e66a6b95b655781d9ee12becdcfaf2ce6435895cd93194"
-      }
+    "sha256": "eecea7f17f3493bb3e0d2d5922acf2ab10dae876156e0cbc395355c05f66d2bf",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/2Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "2Tim",
+    "book_verse_count": 83,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers.",
+    "scope_chapters": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "chapter_binding": {
+    "chapter": 1,
+    "verse_count": 18,
+    "path": "translations/fluent/NT/2timothy/2Timothy_01.md",
+    "before_sha256": "6e9e90d603cbc6fe4fc1bcc37334eb16240d4fd810fb8a8c195698460142cdb6",
+    "after_sha256": "2d7e56404c97ed6ca416272ba488ed13a65f35c5329d0d7b5ee3c845d38281b0",
+    "tsw_comparator_path": "books/NT/2timothy/2Timothy_01.md",
+    "tsw_comparator_sha256": "d1d063b87d9da4626a531b3b0bb151bebef7977262182efe768751428b3bc7a4"
+  },
+  "verse_ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+  "key_decisions": [
+    {
+      "reference": "2Timothy 1:5",
+      "delta": "F3",
+      "rationale": "Keeps both women by name and the dwelling metaphor across generations.",
+      "source_reference": "2Tim 1:5",
+      "source_verse_sha256": "016eefd8ca5b54a79a3c56379cf27df0b40559e8a2952079ba1e08407502ef19",
+      "before": "I am reminded of the sincere trust that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am convinced, lives in you too.",
+      "after": "I am reminded of your sincere faith, which first lived in your grandmother Lois and your mother Eunice and, I am convinced, lives in you as well.",
+      "tsw_comparator": "remembering your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and now, I am convinced, dwells in you as well.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.807692,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:7",
+      "delta": "F3",
+      "rationale": "Preserves the contrast and all three positive qualities.",
+      "source_reference": "2Tim 1:7",
+      "source_verse_sha256": "d849d5568a13485f69f73a6714d8707e0c9ec6ab17e1bde55fa97f57b5ff43cd",
+      "before": "For God did not give us a spirit of cowardice but of power, love, and self-control.",
+      "after": "For God did not give us a spirit of cowardice, but of power, love and self-control.",
+      "tsw_comparator": "for God gave us not a spirit of fear, but of power and love and self-control.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.764706,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:8",
+      "delta": "F3",
+      "rationale": "Keeps imprisonment, shared suffering and divine capacity.",
+      "source_reference": "2Tim 1:8",
+      "source_verse_sha256": "a27c0fe21737923e5c9fbfa9471e7eaef5cd9fb3bab0fc4f68183267fad4591a",
+      "before": "Therefore do not be ashamed of the testimony about our Lord or of me, his prisoner. Instead, share in suffering for the good news according to God’s power,",
+      "after": "So do not be ashamed of the testimony about our Lord or of me, his prisoner. Instead, share in suffering for the good news, relying on God's power.",
+      "tsw_comparator": "Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the good news according to the power of God,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.758621,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:9",
+      "delta": "F3",
+      "rationale": "Preserves salvation/call, denial of works and pretemporal grace.",
+      "source_reference": "2Tim 1:9",
+      "source_verse_sha256": "f33d0ecd99a2f4e6480610467b558896bd8c9f2b7d6cbcc413ab17225522bd63",
+      "before": "who saved us and called us with a holy calling, not according to our works but according to his own purpose and grace. This grace was given to us in Christ Jesus before eternal times,",
+      "after": "He saved us and called us with a holy calling, not according to our works but according to his own purpose and grace, given to us in Christ Jesus before eternal times.",
+      "tsw_comparator": "who saved us and called us with a holy calling, not according to our works but according to his own purpose and grace, which was given to us in Christ Jesus before the ages began,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.865672,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:10",
+      "delta": "F3",
+      "rationale": "Keeps appearance, death's defeat and illumination of life.",
+      "source_reference": "2Tim 1:10",
+      "source_verse_sha256": "362ae6974d851b9adfb76be1368dfdfb8d256c8741663b9bea821fcb8f8c9d4f",
+      "before": "but has now been revealed through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the good news.",
+      "after": "This grace has now been revealed through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the good news.",
+      "tsw_comparator": "and now has been revealed through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the good news,",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.909091,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:12",
+      "delta": "F3",
+      "rationale": "Keeps suffering, personal trust and the deposit's direction as one plausible reading.",
+      "source_reference": "2Tim 1:12",
+      "source_verse_sha256": "3321da40e7c558defaf1871c5533baada782a21e685fd1998b9d40d2544029c7",
+      "before": "This is also why I suffer these things. But I am not ashamed, because I know the one I have trusted, and I am convinced that he is able to guard what I have entrusted to him until that day.",
+      "after": "That is why I suffer these things. But I am not ashamed, because I know the one I have trusted and am convinced that he is able to guard what I entrusted to him until that day.",
+      "tsw_comparator": "For this reason I also suffer these things, but I am not ashamed, for I know the one in whom I have believed, and I am convinced that he is able to guard what has been entrusted to me until that day.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.759494,
+      "editorial_status": "REVIEW_PENDING"
+    },
+    {
+      "reference": "2Timothy 1:15",
+      "delta": "F3",
+      "rationale": "Retains the sweeping regional claim and both named examples.",
+      "source_reference": "2Tim 1:15",
+      "source_verse_sha256": "92ceeb2a1b49300d1f7bbdd29b650f3986bea7d610316d32baeb1e7ea9b6cafa",
+      "before": "You know that everyone in Asia has turned away from me, including Phygelus and Hermogenes.",
+      "after": "You know that everyone in Asia turned away from me, including Phygelus and Hermogenes.",
+      "tsw_comparator": "You know that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.",
+      "identical_words_to_tsw": false,
+      "word_similarity_to_tsw": 0.75,
+      "editorial_status": "REVIEW_PENDING"
     }
-  },
-  "tsw_comparator": {
-    "path": "books/NT/2timothy/2Timothy_01.md",
-    "blob_sha": "7e2b98b9f4b538244413338ef2980777aa805193"
-  },
-  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+  ]
 }

@@ -1,0 +1,130 @@
+{
+  "status": "PASSED",
+  "qa_scope": "structural",
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "new_chapters": 45,
+  "new_verses": 927,
+  "unique_original_source_records": 927,
+  "cumulative_coverage": {
+    "ledgers": 139,
+    "chapters": 1157,
+    "verses": 30481
+  },
+  "prior_preservation": {
+    "ledgers_byte_identical": 129,
+    "chapters_byte_identical": 1112,
+    "verses": 29554,
+    "tsw_and_companion_unchanged": true
+  },
+  "source_binding_audits": [
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-colossians-1-4/colossians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 95,
+      "unique_source_records": 95
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-1thessalonians-1-5/1thessalonians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 89,
+      "unique_source_records": 89
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-2thessalonians-1-3/2thessalonians-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 47,
+      "unique_source_records": 47
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-1timothy-1-6/1timothy-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 113,
+      "unique_source_records": 113
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-2timothy-1-4/2timothy-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 83,
+      "unique_source_records": 83
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-titus-1-3/titus-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 46,
+      "unique_source_records": 46
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-philemon-1-1/philemon-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 25,
+      "unique_source_records": 25
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-hebrews-1-13/hebrews-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 303,
+      "unique_source_records": 303
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-1peter-1-5/1peter-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 105,
+      "unique_source_records": 105
+    },
+    {
+      "ledger": "audit/fluent-revision/2026-09-17-2peter-1-1/2peter-verse-review.json",
+      "status": "PASSED",
+      "public_verses": 21,
+      "unique_source_records": 21
+    }
+  ],
+  "source_sensitive_checks": {
+    "colossians_omission": true,
+    "colossians_slavery": true,
+    "thessalonian_sequence": true,
+    "thessalonian_form": true,
+    "lawlessness": true,
+    "restrainer_unidentified": true,
+    "gendered_instruction": true,
+    "timothy_slavery": true,
+    "money_root": true,
+    "scripture_wording": true,
+    "nonretaliation": true,
+    "titus_harm": true,
+    "philemon_slavery": true,
+    "hebrews_variant": true,
+    "hebrews_names_numbers": true,
+    "hebrews_violence": true,
+    "peter_slavery": true,
+    "peter_names_numbers": true,
+    "peter_difficult": true,
+    "simeon": true,
+    "prophecy": true
+  },
+  "focused_authoring_reread_count": 472,
+  "translation_family": "=== TRANSLATION FAMILY AUDIT ===\ntsw: 66 books; 1189 chapters; 31087 public verse labels\nfluent: 66 books; 1189 chapters; 31083 public verse labels\n\nPASSED: registered translations have structural parity and only documented verse-label exceptions\n",
+  "completed_fifty_chapter_block": {
+    "scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6; 2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+    "status": "DRAFT_COMPLETED",
+    "chapters": 50,
+    "verses": 1055,
+    "completion_evidence": "audit/fluent-revision/2026-09-17-2peter-1-1/block-boundary-verification.json",
+    "qualification": "Source-based revision draft coverage and structural QA are complete. Independent editorial review, whole-book review, reader testing, and Companion reconciliation remain pending."
+  },
+  "active_fifty_chapter_block": {
+    "scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+    "status": "IN_PROGRESS",
+    "chapters_target": 32,
+    "completed_chapters": 0,
+    "completed_scope": "None",
+    "completed_verses": 0,
+    "remaining_scope": "2 Peter 2–3; 1 John 1–5; 2 John 1; 3 John 1; Jude 1; Revelation 1–22",
+    "remaining_chapters": 32,
+    "qualification": "Final project remainder: 0 of 32 chapters drafted in this block; 32 remain. Independent editorial review and reader testing remain pending."
+  },
+  "independent_editorial_review": "REVIEW_PENDING",
+  "whole_book_reviews": "PENDING; nine completed books newly queued",
+  "reader_testing": "PENDING",
+  "companion_reconciliation": "PENDING; no quotations or bindings changed",
+  "publication_allowed": false
+}

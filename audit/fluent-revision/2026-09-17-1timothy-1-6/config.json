@@ -1,0 +1,171 @@
+{
+  "parent_commit": "9ba4fd64124c93cf9e1b7c9a422701a2705f404c",
+  "parent_library_version": 94,
+  "source_omissions": {},
+  "heading_overrides": {},
+  "supersede_entry_records": [
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "book": "1Timothy",
+  "slug": "1timothy",
+  "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "scope": "1 Timothy 1–6",
+  "expected_verses": 113,
+  "source_filename": "1timothy-pinned-greek.txt",
+  "book_record_files": [
+    "1_TIMOTHY_FLUENT_BOOK_QA.json",
+    "BOOK_VERSE_REVIEW_LEDGER.json"
+  ],
+  "next_scope": "2 Timothy 1–4; Titus 1–3; Philemon 1; Hebrews 1–13; 1 Peter 1–5; 2 Peter 1",
+  "completed_block_scope": "Ephesians 6; Philippians 1–4; Colossians 1–4; 1 Thessalonians 1–5; 2 Thessalonians 1–3; 1 Timothy 1–6",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "sha256": "e4813e23b26b8b4763771b252cb41982d3af66abeead62f014e5f5f0a5323dcb",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/1Tim.txt",
+    "format": "tab_separated",
+    "osis_book_id": "1Tim",
+    "book_verse_count": 113,
+    "languages": [
+      "Greek"
+    ],
+    "verse_hash_method": "SHA-256 of exact tab-separated Greek payload, retaining whitespace and variant markers."
+  },
+  "f3": [
+    "1:9",
+    "1:10",
+    "1:13",
+    "1:20",
+    "2:4",
+    "2:5",
+    "2:6",
+    "2:8",
+    "2:9",
+    "2:11",
+    "2:12",
+    "2:13",
+    "2:14",
+    "2:15",
+    "3:1",
+    "3:2",
+    "3:4",
+    "3:5",
+    "3:6",
+    "3:11",
+    "3:12",
+    "3:16",
+    "4:7",
+    "4:10",
+    "4:16",
+    "5:3",
+    "5:6",
+    "5:8",
+    "5:9",
+    "5:11",
+    "5:12",
+    "5:13",
+    "5:14",
+    "5:16",
+    "5:17",
+    "5:20",
+    "5:22",
+    "6:1",
+    "6:2",
+    "6:9",
+    "6:10",
+    "6:13",
+    "6:15",
+    "6:16",
+    "6:17"
+  ],
+  "apparatus": {
+    "1": {
+      "notes": [
+        [
+          "03–07",
+          "The warning concerns speculative teaching and misuse of the law; the opponents are not named more precisely."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "2": {
+      "notes": [
+        [
+          "11–12",
+          "The instructions name a woman and a man specifically. The rare verb authentein can denote exercising authority or domineering; its force and the scope of the prohibition require independent review."
+        ],
+        [
+          "15",
+          "The claim about being saved through childbearing is difficult; the following condition is plural and names faith, love, holiness and self-control."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "12",
+          "αὐθεντέω (authenteō)",
+          "A rare verb meaning exercise authority, assume authority or domineer; interpretation is disputed."
+        ]
+      ]
+    },
+    "3": {
+      "notes": [
+        [
+          "02, 12",
+          "The phrases literally describe a ‘one-woman man’; their implications for marital history and office qualifications require review."
+        ]
+      ],
+      "vocabulary": [
+        [
+          "01",
+          "ἐπίσκοπος (episkopos)",
+          "Overseer or supervisor."
+        ]
+      ]
+    },
+    "4": {
+      "notes": [
+        [
+          "10",
+          "The statement calls God Savior of all people, especially of believers; ‘especially’ is retained rather than explained."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "5": {
+      "notes": [
+        [
+          "03–16",
+          "The passage distinguishes enrolled widows, younger widows and family responsibility in its ancient household setting."
+        ],
+        [
+          "17",
+          "‘Double honor’ may include material support, as the following quotations suggest."
+        ]
+      ],
+      "vocabulary": []
+    },
+    "6": {
+      "notes": [
+        [
+          "01–02",
+          "The text addresses enslaved people and masters within slavery; it does not call slavery harmless or erase its coercion."
+        ],
+        [
+          "10",
+          "The text says love of money—not money itself—is a root of all kinds of evil."
+        ]
+      ],
+      "vocabulary": []
+    }
+  }
+}

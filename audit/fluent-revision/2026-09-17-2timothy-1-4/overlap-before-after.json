@@ -1,0 +1,600 @@
+{
+  "scope": "2 Timothy 1–4",
+  "verses": 83,
+  "summary": {
+    "before": {
+      "identical": 7,
+      "near_identical_nonidentical": 12,
+      "mean_word_similarity": 0.805773
+    },
+    "after": {
+      "identical": 4,
+      "near_identical_nonidentical": 15,
+      "mean_word_similarity": 0.791185
+    }
+  },
+  "rows": [
+    {
+      "reference": "2Timothy 1:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "2Timothy 1:2",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2Timothy 1:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.884615,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "2Timothy 1:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.709677,
+      "after_similarity": 0.709677
+    },
+    {
+      "reference": "2Timothy 1:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.618182,
+      "after_similarity": 0.807692
+    },
+    {
+      "reference": "2Timothy 1:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.782609,
+      "after_similarity": 0.875
+    },
+    {
+      "reference": "2Timothy 1:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.764706,
+      "after_similarity": 0.764706
+    },
+    {
+      "reference": "2Timothy 1:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.862069,
+      "after_similarity": 0.758621
+    },
+    {
+      "reference": "2Timothy 1:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.885714,
+      "after_similarity": 0.865672
+    },
+    {
+      "reference": "2Timothy 1:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.925926,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "2Timothy 1:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.72,
+      "after_similarity": 0.72
+    },
+    {
+      "reference": "2Timothy 1:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.759494
+    },
+    {
+      "reference": "2Timothy 1:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.883721,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "2Timothy 1:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.814815
+    },
+    {
+      "reference": "2Timothy 1:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.75
+    },
+    {
+      "reference": "2Timothy 1:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.761905,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "2Timothy 1:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "2Timothy 1:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.823529,
+      "after_similarity": 0.77551
+    },
+    {
+      "reference": "2Timothy 2:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "2Timothy 2:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "2Timothy 2:3",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2Timothy 2:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.711111,
+      "after_similarity": 0.761905
+    },
+    {
+      "reference": "2Timothy 2:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.645161,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "2Timothy 2:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.740741,
+      "after_similarity": 0.740741
+    },
+    {
+      "reference": "2Timothy 2:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "2Timothy 2:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.848485
+    },
+    {
+      "reference": "2Timothy 2:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.684211,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "2Timothy 2:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.872727,
+      "after_similarity": 0.92
+    },
+    {
+      "reference": "2Timothy 2:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.933333,
+      "after_similarity": 0.933333
+    },
+    {
+      "reference": "2Timothy 2:12",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.944444
+    },
+    {
+      "reference": "2Timothy 2:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.916667
+    },
+    {
+      "reference": "2Timothy 2:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.612245,
+      "after_similarity": 0.44
+    },
+    {
+      "reference": "2Timothy 2:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.851064,
+      "after_similarity": 0.510638
+    },
+    {
+      "reference": "2Timothy 2:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.518519,
+      "after_similarity": 0.466667
+    },
+    {
+      "reference": "2Timothy 2:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.923077,
+      "after_similarity": 0.692308
+    },
+    {
+      "reference": "2Timothy 2:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.731707
+    },
+    {
+      "reference": "2Timothy 2:19",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.689655,
+      "after_similarity": 0.77193
+    },
+    {
+      "reference": "2Timothy 2:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.754717,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "2Timothy 2:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.807692,
+      "after_similarity": 0.792453
+    },
+    {
+      "reference": "2Timothy 2:22",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.818182,
+      "after_similarity": 0.909091
+    },
+    {
+      "reference": "2Timothy 2:23",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.6,
+      "after_similarity": 0.666667
+    },
+    {
+      "reference": "2Timothy 2:24",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.555556,
+      "after_similarity": 0.486486
+    },
+    {
+      "reference": "2Timothy 2:25",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.833333
+    },
+    {
+      "reference": "2Timothy 2:26",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.844444,
+      "after_similarity": 0.808511
+    },
+    {
+      "reference": "2Timothy 3:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.454545,
+      "after_similarity": 0.454545
+    },
+    {
+      "reference": "2Timothy 3:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.8
+    },
+    {
+      "reference": "2Timothy 3:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.642857,
+      "after_similarity": 0.62069
+    },
+    {
+      "reference": "2Timothy 3:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.75,
+      "after_similarity": 0.545455
+    },
+    {
+      "reference": "2Timothy 3:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.666667,
+      "after_similarity": 0.592593
+    },
+    {
+      "reference": "2Timothy 3:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.790698,
+      "after_similarity": 0.930233
+    },
+    {
+      "reference": "2Timothy 3:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.846154,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "2Timothy 3:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.954545
+    },
+    {
+      "reference": "2Timothy 3:9",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.461538,
+      "after_similarity": 0.571429
+    },
+    {
+      "reference": "2Timothy 3:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.692308,
+      "after_similarity": 0.88
+    },
+    {
+      "reference": "2Timothy 3:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.784314,
+      "after_similarity": 0.654545
+    },
+    {
+      "reference": "2Timothy 3:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.785714,
+      "after_similarity": 0.857143
+    },
+    {
+      "reference": "2Timothy 3:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.903226,
+      "after_similarity": 0.903226
+    },
+    {
+      "reference": "2Timothy 3:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.631579,
+      "after_similarity": 0.756757
+    },
+    {
+      "reference": "2Timothy 3:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.916667,
+      "after_similarity": 0.869565
+    },
+    {
+      "reference": "2Timothy 3:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.789474,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "2Timothy 3:17",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.896552
+    },
+    {
+      "reference": "2Timothy 4:1",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.888889,
+      "after_similarity": 0.888889
+    },
+    {
+      "reference": "2Timothy 4:2",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.85,
+      "after_similarity": 0.487805
+    },
+    {
+      "reference": "2Timothy 4:3",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.571429,
+      "after_similarity": 0.618182
+    },
+    {
+      "reference": "2Timothy 4:4",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.785714
+    },
+    {
+      "reference": "2Timothy 4:5",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.857143,
+      "after_similarity": 0.777778
+    },
+    {
+      "reference": "2Timothy 4:6",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.947368,
+      "after_similarity": 0.947368
+    },
+    {
+      "reference": "2Timothy 4:7",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.875,
+      "after_similarity": 0.827586
+    },
+    {
+      "reference": "2Timothy 4:8",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.831169,
+      "after_similarity": 0.846154
+    },
+    {
+      "reference": "2Timothy 4:9",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2Timothy 4:10",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.809524,
+      "after_similarity": 0.697674
+    },
+    {
+      "reference": "2Timothy 4:11",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9,
+      "after_similarity": 0.85
+    },
+    {
+      "reference": "2Timothy 4:12",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "2Timothy 4:13",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.864865,
+      "after_similarity": 0.871795
+    },
+    {
+      "reference": "2Timothy 4:14",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.9375,
+      "after_similarity": 0.9375
+    },
+    {
+      "reference": "2Timothy 4:15",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.695652,
+      "after_similarity": 0.583333
+    },
+    {
+      "reference": "2Timothy 4:16",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.780488,
+      "after_similarity": 0.883721
+    },
+    {
+      "reference": "2Timothy 4:17",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.909091,
+      "after_similarity": 0.878788
+    },
+    {
+      "reference": "2Timothy 4:18",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.84,
+      "after_similarity": 0.980392
+    },
+    {
+      "reference": "2Timothy 4:19",
+      "before_identical": true,
+      "after_identical": true,
+      "before_similarity": 1.0,
+      "after_similarity": 1.0
+    },
+    {
+      "reference": "2Timothy 4:20",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.727273,
+      "after_similarity": 0.727273
+    },
+    {
+      "reference": "2Timothy 4:21",
+      "before_identical": false,
+      "after_identical": false,
+      "before_similarity": 0.8,
+      "after_similarity": 0.790698
+    },
+    {
+      "reference": "2Timothy 4:22",
+      "before_identical": true,
+      "after_identical": false,
+      "before_similarity": 1.0,
+      "after_similarity": 0.909091
+    }
+  ],
+  "qualification": "Triage only. No minimum change quota; not evidence of scholarly approval."
+}
