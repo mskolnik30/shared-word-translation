@@ -19,6 +19,15 @@ No modern English translation functions as its base text. Other translations, in
 
 Fluent and TSW are siblings within The Shared Word Project. Fluent is not a simplified edition of TSW. Each draws independently from the source texts and embodies a distinct reading posture.
 
+### AI assistance, editorial responsibility, and continuing review
+
+Artificial intelligence has played a substantial role in Fluent's production and revision. AI-assisted tools have helped draft English renderings from the designated Hebrew, Aramaic, and Greek sources; examine clauses and discourse relationships; identify possible textual and interpretive questions; check terminology and verse coverage; and suggest editorial changes. AI assistance does not itself establish fidelity to a source text or prove independence from familiar English translations. Model outputs may contain errors, misleading linguistic claims, overlooked variants, or wording resembling existing translations. No existing English Bible, including TSW, functions as Fluent's base text.
+
+Matthew J. Skolnik establishes the translation and editorial standards, directs the process, and retains responsibility for editorial decisions. The project distinguishes automated structural checks and AI-assisted reviews from documented human judgment, qualified independent language review, and final editorial approval. A successful automated audit, a source reference, or complete chapter coverage is not a certification that every verse has received independent scholarly review.
+
+Fluent has draft coverage of all 66 books, but it remains provisional. Its text, notes, and vocabulary are being revisited carefully, bit by bit, passage by passage and book by book, with unresolved interpretive issues recorded rather than silently dismissed. Not every verse or note has completed independent human review; independent review and final signoff remain pending. Revisions should remain traceable through source bindings, review ledgers, and versioned changes. The biblical Scriptures themselves are not under revision: the continuing work concerns the accuracy and quality of this English translation.
+
+
 ## Natural English and faithful movement
 
 Fluent gives priority to clear, idiomatic contemporary English while carrying the meaning, emphasis, relationships, and movement of the source text. A sentence may be restructured when source-language syntax would sound obscure or unnatural in English, but restructuring should not erase a significant connection or add an explanation that the text itself does not make.
