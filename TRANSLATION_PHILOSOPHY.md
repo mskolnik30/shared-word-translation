@@ -24,6 +24,16 @@ TSW prioritizes semantic and rhetorical faithfulness over strict formal equivale
 
 ⸻
 
+### AI Assistance, Editorial Responsibility, and Review Status
+
+Artificial intelligence has played a substantial role in producing and developing TSW. AI-assisted tools have helped draft original-language-based English renderings, compare Hebrew, Aramaic, and Greek passages, identify potential textual or interpretive questions, examine recurring terminology, and propose revisions. These contributions should be understood as drafting and review assistance, not as evidence of independent scholarly verification. AI outputs can be mistaken, overlook linguistic features, produce overconfident explanations, or echo familiar language from existing English translations. No modern English translation is authorized as a base text.
+
+Matthew J. Skolnik establishes the translation philosophy and editorial expectations, directs the work, and retains responsibility for translation decisions. The substantial volume of AI-assisted drafting does not mean that every verse or note has been individually approved by a human translator. Review should distinguish (1) automated structural and consistency checks, (2) AI-assisted source comparisons and proposed revisions, (3) documented human editorial decisions, and (4) independent qualified language review. Success at one stage does not certify completion of another.
+
+TSW has draft coverage of all 66 books but remains provisional. Editorial attention continues incrementally, passage by passage and book by book, including the main text, notes, vocabulary, textual variants, and changes affecting related resources. Independent human review and final scholarly verification must not be implied where they have not occurred. Material corrections should be traceable through the repository's review records and version history. Scripture is not being revised; these English renderings of Scripture remain open to examination, correction, and refinement.
+
+⸻
+
 Translation Style and Register
 
 Contemporary, Not Casual
