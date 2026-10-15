@@ -23,3 +23,5 @@ jobs:
         run: python3 tools/tsw_format_apparatus.py
       - name: Validate audited correction regressions
         run: python3 tools/verify_critical_corrections.py --repo .
+      - name: Validate targeted Companion reconciliation
+        run: python3 tools/verify_companion_reconciliation.py --repo .

@@ -1,0 +1,82 @@
+---
+resource: fluent-companion
+record_type: chapter-companion
+book: 2 Chronicles
+chapter: 4
+source: translations/fluent/OT/2chronicles/2Chronicles_04.md
+source_status: QA_PASSED
+companion_status: GENERATED_REVIEW_REQUIRED
+publication_status: unpublished
+template_version: 1.0
+---
+
+# 2 Chronicles 4
+
+## Before You Read
+
+### Where You Are
+
+After the building comes its equipment. The chapter names objects for washing, light, offerings, and other sanctuary tasks, then gathers them into a record of completed craftsmanship. Follow what the objects are used for before looking for further symbolism. The text also preserves differences from the parallel account in Kings.
+
+### Chapter Path
+
+- **4:1–5:** Bronze altar and large basin
+- **4:6–10:** Washing basins, lamps, tables, and courts
+- **4:11–18:** Completed bronze work
+- **4:19–22:** Gold furnishings and entrances
+
+### Watch For
+
+- The smaller basins and the Sea serve different washing purposes.
+- The bronze work is so abundant that its total weight is not determined.
+
+## Read the Chapter
+
+Read 2 Chronicles 4 in the Fluent Translation before consulting the summary. Follow the chapter as a whole, including its final movement.
+
+## After You Read
+
+### Tell It in Your Own Words
+
+Retell the principal furnishings and their stated uses.
+
+### The Chapter in Brief
+
+Solomon makes a bronze altar and the large cast-metal basin called the Sea, supported by twelve oxen. Ten smaller basins rinse materials for burnt offerings, while the Sea serves priestly washing. Gold lampstands, tables, sprinkling bowls, and courtyards complete the next part of the description. Huram finishes the pillars, decorative work, basins, and bronze utensils, cast in the Jordan plain. Their quantity is too great for a recorded total weight. The chapter closes with gold furnishings, including the altar, bread tables, lamps, tools, and sanctuary doors.
+
+### Follow the Story
+
+A sanctuary requires repeated practical work as well as an impressive structure. Washing, tending lights, and preparing offerings depend on the objects listed here. The account honors the craftsman by name while describing the project as Solomon’s work; that combination keeps delegated skill visible within a royal achievement.
+
+### Threads Through Scripture
+
+- **2 Chronicles 2:13–16 — Craftsman introduced:** Huram’s letter describes the artisan’s skills before the finished work is listed.
+- **1 Chronicles 18:7–11 — Earlier resources:** David’s accumulated metals form part of the preparations remembered before Solomon builds.
+
+### Questions for Conversation
+
+#### Notice
+
+How are the two kinds of washing distinguished?
+
+#### Understand
+
+Which objects imply recurring work rather than a single ceremony?
+
+#### Connect
+
+How does the earlier introduction help identify Huram here?
+
+#### Respond
+
+Whose skill is visible when a finished project is credited to its leader?
+
+### Prayer and Practice
+
+You may recognize a maker or maintainer behind something you use regularly.
+
+## Go Deeper
+
+### Reading Carefully
+
+The Sea is a large basin, not a natural body of water. This chapter gives the altar a height of ten cubits and the Sea a capacity of three thousand baths. Differences from Kings in capacity and decoration remain visible; a harmonized figure is not substituted for Chronicles’ wording.
