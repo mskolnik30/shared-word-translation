@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-john-18-21-biblical-fluency-2026-09-16
+previous_revision_id: fluent-john-18-21-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-john-19
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -35,7 +37,6 @@ v16: Then Pilate handed Jesus over to them to be crucified. So they took Jesus.
 ## Jesus Is Crucified
 
 <p>
-They took Jesus,
 v17: Carrying the cross himself, he went out to the place called Place of the Skull, which in Hebrew is called Golgotha.
 v18: There they crucified him, along with two others, one on each side and Jesus in the middle.
 v19: Pilate also wrote a notice and placed it on the cross. It read: Jesus the Nazarene, the King of the Jews.

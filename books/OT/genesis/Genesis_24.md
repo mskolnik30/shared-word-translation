@@ -3,6 +3,10 @@ book: Genesis
 testament: OT
 chapter: 24
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-genesis-24
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## A Wife for Isaac
@@ -142,19 +146,19 @@ v52: When Abraham’s servant heard their words, he bowed himself to the earth b
 
 v53: And the servant brought out jewelry of silver and gold, and garments, and gave them to Rebekah; he also gave to her brother and to her mother costly ornaments.
 
-v54: And he and the men who were with him ate and drank, and they spent the night there.
+v54: And he and the men who were with him ate and drank, and they spent the night there. When they arose in the morning, he said, “Send me away to my master.”
 </p>
 
 <p>
-v55: When they arose in the morning, he said, “Send me away to my master.”
+v55: Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”
 
-v56: Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”
+v56: But he said to them, “Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.”
 
-v57: But he said to them, “Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.”
+v57: They said, “Let us call the young woman and ask her.”
 
-v58: They said, “Let us call the young woman and ask her.”
+v58: And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”
 
-v59: And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”
+v59: So they sent away Rebekah their sister and her nurse, and Abraham’s servant and his men.
 </p>
 
 <p>
@@ -212,13 +216,13 @@ v03: אֶרֶץ (ʾereṣ)
 v12: חֶסֶד (ḥesed)
 “Steadfast love.” Covenant loyalty expressed in action.
 
-v12: אֱמֶת (ʾemet)
+v27: אֱמֶת (ʾemet)
 “Faithfulness, truth.” Reliability and trustworthiness.
 
 v14: יָכַח (yākaḥ)
 “To appoint, determine.” To designate rightly.
 
-v21: שָׁתָה (šātāh)  
+v14: שָׁתָה (šātāh)  
 
 “To drink.” Used in hospitality context.  
 

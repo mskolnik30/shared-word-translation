@@ -1,0 +1,632 @@
+{
+  "revision_id": "tsw-fluent-corrections-2026-10-15",
+  "upstream_base_commit": "cd7525e6586cc94a4044be64da335a22456e9d60",
+  "snapshot_scope": "Complete Fluent corpus verified by Git tree hash; seven current TSW chapters individually verified by Git blob hash. Not a full current TSW checkout.",
+  "upstream_fluent_tree": "91847a55745e1095d38c35242e35bbde430ecf1e",
+  "review_kind": "AI-assisted targeted correction and executable regression tests; not independent human review",
+  "publication_allowed": false,
+  "github_write_status": "Branch creation rejected HTTP 403; no remote writes",
+  "files": [
+    {
+      "path": "books/NT/revelation/Revelation_04.md",
+      "before_sha256": "6110a30ff4fb62ab20a7d2f3c8162d19ca8da87985c954000dcb6797aace066f",
+      "after_sha256": "ed160b2d6d27ac2911b1e1b102e48459c8bbffbe8e47cfa9e37226ed518e828a",
+      "before_git_blob": "ba1e5fe4757e6e903b3c4c62bd978c1cb76e151f",
+      "after_git_blob": "2472a73c64e222bdfbd6c2b020cfad7705b5b944",
+      "issues": [
+        "T02",
+        "T06"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Rejoin the two clauses of source verse 6 without removing words.",
+          "before": "like crystal.\n\nv07: Around the throne",
+          "after": "like crystal. Around the throne"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Restore standard verse-content alignment; retain English wording.",
+          "before": "v08: the first living creature",
+          "after": "v07: the first living creature"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Restore standard verse-content alignment; retain English wording.",
+          "before": "v09: And the four living creatures",
+          "after": "v08: And the four living creatures"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Restore standard verse-content alignment; retain English wording.",
+          "before": "v10: And whenever the living creatures",
+          "after": "v09: And whenever the living creatures"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Restore standard verse-content alignment; retain English wording.",
+          "before": "v11: the twenty-four elders",
+          "after": "v10: the twenty-four elders"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T02",
+          "reason": "Give the final hymn its standard verse 11 label, distinct from the action in verse 10.",
+          "before": "\n“Worthy are you, our Lord and God,",
+          "after": "\nv11: “Worthy are you, our Lord and God,"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T06",
+          "reason": "Interpretive application, not a lexical definition or indispensable translation note.",
+          "before": "v01: The open door signals access granted rather than achieved; transition is initiated from above.\n\n",
+          "after": ""
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T06",
+          "reason": "Replace an unqualified symbolic interpretation with the linguistic feature that affects translation.",
+          "before": "v06: The “sea of glass” suggests stability rather than chaos, reversing common imagery.",
+          "after": "v06: “Sea of glass” renders a Greek expression meaning a glassy sea or a sea made of glass; the comparison with crystal is explicit."
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T06",
+          "reason": "Remove interpretive qualification from the lexical gloss.",
+          "before": "“Door.” Access point granted, not forced.",
+          "after": "“Door.”"
+        },
+        {
+          "path": "books/NT/revelation/Revelation_04.md",
+          "issue": "T06",
+          "reason": "The Greek noun means sea; stability is interpretation, not part of its lexical definition.",
+          "before": "“Sea.” Here rendered stable, not turbulent.",
+          "after": "“Sea.”"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/2chronicles/2Chronicles_04.md",
+      "before_sha256": "edcd1f6c621b33172f466edd8445c939a9931e46d8e7c463a01e9fd05f0aa0a0",
+      "after_sha256": "4aba4a5788ae2e7ae2718242a95b16dbc8188210f6a1e76366bf942b71471509",
+      "before_git_blob": "010024bb48169dc0393d4183b469624491604f70",
+      "after_git_blob": "d0c086c57eb6efb2d89f53364a3dc95d66f67ef2",
+      "issues": [
+        "T03"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/2chronicles/2Chronicles_04.md",
+          "issue": "T03",
+          "reason": "Hebrew 2Chr.4.1 specifies height ten, not twenty. Length and width are unchanged.",
+          "before": "twenty cubits long, twenty cubits wide, and twenty cubits high.",
+          "after": "twenty cubits long, twenty cubits wide, and ten cubits high."
+        }
+      ]
+    },
+    {
+      "path": "books/OT/ezekiel/Ezekiel_42.md",
+      "before_sha256": "f2b9f92cdfb4214bfde2fff6fde93dbddd356a88ee333c869c7a34bc1ff7aedb",
+      "after_sha256": "9def837aeab79acca1617612422d34a299eed92f68382d69ba507abd614fde01",
+      "before_git_blob": "5dd8dd70f0bd1120e6f10be3aeee6b9b14ce6f37",
+      "after_git_blob": "d805fdfffe1db5a19722eb62dc3e031d3871f8ef",
+      "issues": [
+        "T04",
+        "T06-A"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/ezekiel/Ezekiel_42.md",
+          "issue": "T04",
+          "reason": "Follow the explicitly marked qere מאות, hundreds. The written/read alternatives are not consecutive quantities.",
+          "before": "v16: He measured the east side with the measuring reed: five cubits, one hundred reeds, by the measuring reed, all around.",
+          "after": "v16: He measured the east side with the measuring reed: five hundred reeds, by the measuring reed, all around."
+        },
+        {
+          "path": "books/OT/ezekiel/Ezekiel_42.md",
+          "issue": "T04",
+          "reason": "Correct the explanation that previously rationalized the conflated source readings.",
+          "before": "v16: **42:16 — “five cubits, one hundred reeds”:** The supplied Hebrew text contains an unusual numerical sequence here, where “cubits” appears alongside “one hundred reeds.” The wording is retained rather than regularized; the following sides each state five hundred reeds.",
+          "after": "v16: “Five hundred reeds” follows the Hebrew reading tradition (qere), מֵאוֹת, “hundreds.” The written form (ketiv), אמות, differs. These are alternatives at the same position, not two successive measurements."
+        },
+        {
+          "path": "books/OT/ezekiel/Ezekiel_42.md",
+          "issue": "T06-A",
+          "reason": "Remove the duplicate shorter version of the preceding v03 note, preserving the fuller original note.",
+          "before": "\nv03: “gallery faced gallery”: The repeated word describes a structural feature whose precise form is uncertain.\n",
+          "after": "\n"
+        },
+        {
+          "path": "books/OT/ezekiel/Ezekiel_42.md",
+          "issue": "T06-A",
+          "reason": "Remove duplicated chamber vocabulary entry; the full original entry remains.",
+          "before": "\nv01: לִשְׁכָּה (lishkah)\n“A chamber or designated room within the temple complex.” In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/genesis/Genesis_02.md",
+      "before_sha256": "1fcf6c1bee54e33ec70eabe197ea3d6eac06c69190dbe58707e36d093284f13b",
+      "after_sha256": "06358502001164b98db758ffd434da1dcbed13cbcaa84dff63bcc4fd3b015b6a",
+      "before_git_blob": "eb4fc17fa19e11aa811768323432bef215bdfd5b",
+      "after_git_blob": "ef196e3748f7f5b54aef7fbbdbd9360521e5a619",
+      "issues": [
+        "D01",
+        "T05",
+        "T06",
+        "T06-A"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T05",
+          "reason": "Retain ish and the explicit parental/spousal possessives in this sentence; do not change adam terminology elsewhere.",
+          "before": "v24: Therefore a human leaves father and mother and clings to a woman, and they become one flesh.",
+          "after": "v24: Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh."
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "D01",
+          "reason": "Keep the continuation of v04 inside the same paragraph and verse ownership; no Scripture wording changed.",
+          "before": "when they were created.\n</p>\n\n<p>\nOn the day",
+          "after": "when they were created.\n\nOn the day"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "D01",
+          "reason": "Keep the quoted poem inside the verse-owned paragraph rather than as orphaned text.",
+          "before": "v23: Then the human said,\n</p>\n\n“This",
+          "after": "v23: Then the human said,\n\n“This"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "D01",
+          "reason": "Close the paragraph after the verse 23 poem, preserving all poetic lines.",
+          "before": "for out of Human this one was taken.”\n\n<p>",
+          "after": "for out of Human this one was taken.”\n</p>\n\n<p>"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06-A",
+          "reason": "Remove a duplicated reference label.",
+          "before": "v04: v04: A new telling",
+          "after": "v04: A new telling"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06",
+          "reason": "Preserve this interpretive application in an unapproved Companion-candidate log rather than a translation note.",
+          "before": "v10–14: Abundance flows outward; the garden resists possession.  \n\n",
+          "after": ""
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06-A",
+          "reason": "Remove a duplicated vocabulary entry; the earlier term and definition remain.",
+          "before": "\nv02: שָׁבַת (shāvat)\n“Rest; cease; bring to completion.”\n",
+          "after": "\n"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06-A",
+          "reason": "Remove a duplicated vocabulary entry; the earlier term and definition remain.",
+          "before": "\nv03: קָדַשׁ (qādash)\n“Make holy; set apart.”\n",
+          "after": "\n"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06-A",
+          "reason": "Remove a duplicated vocabulary entry; the earlier term and definition remain.",
+          "before": "\nv04: תּוֹלְדוֹת (tôledôt)\n“Generations; account; unfolding history.”\n",
+          "after": "\n"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_02.md",
+          "issue": "T06-A",
+          "reason": "Remove a duplicated vocabulary entry; the earlier term and definition remain.",
+          "before": "\nv05: אָדָם (’ādām)\n“Human; humankind.”\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/genesis/Genesis_24.md",
+      "before_sha256": "4b630d227f7ccf0b665b343de5e2e688fb9da32fa5cea7da85d1bd646c18d1bf",
+      "after_sha256": "f61fdec62186075343cc77f5262ac6ad80650f203c6f00cdf8dab256f3ca19fc",
+      "before_git_blob": "6c521f9ab171cd01991bd27fa69fecdab279ebb1",
+      "after_git_blob": "0233e1623894a6320c0d60969d0edaaab5b7c259",
+      "issues": [
+        "T01",
+        "T01-A"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/genesis/Genesis_24.md",
+          "issue": "T01",
+          "reason": "Rejoin both clauses of Hebrew 24:54; align 55–58; restore all named participants and the sending-away verb in Hebrew 24:59. Existing v58 consent note now points to its own main text.",
+          "before": "v54: And he and the men who were with him ate and drank, and they spent the night there.\n</p>\n\n<p>\nv55: When they arose in the morning, he said, “Send me away to my master.”\n\nv56: Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”\n\nv57: But he said to them, “Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.”\n\nv58: They said, “Let us call the young woman and ask her.”\n\nv59: And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”",
+          "after": "v54: And he and the men who were with him ate and drank, and they spent the night there. When they arose in the morning, he said, “Send me away to my master.”\n</p>\n\n<p>\nv55: Her brother and her mother said, “Let the young woman remain with us a while, at least ten days; after that she may go.”\n\nv56: But he said to them, “Do not delay me, since the LORD has prospered my way. Send me away that I may go to my master.”\n\nv57: They said, “Let us call the young woman and ask her.”\n\nv58: And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”\n\nv59: So they sent away Rebekah their sister and her nurse, and Abraham’s servant and his men."
+        },
+        {
+          "path": "books/OT/genesis/Genesis_24.md",
+          "issue": "T01-A",
+          "reason": "The faithfulness/truth term occurs at source verse 27, not 12; the entry wording is unchanged.",
+          "before": "v12: אֱמֶת (ʾemet)",
+          "after": "v27: אֱמֶת (ʾemet)"
+        },
+        {
+          "path": "books/OT/genesis/Genesis_24.md",
+          "issue": "T01-A",
+          "reason": "The verb to drink occurs at source verse 14; verse 21 concerns observation. Entry wording is unchanged.",
+          "before": "v21: שָׁתָה (šātāh)",
+          "after": "v14: שָׁתָה (šātāh)"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/genesis/Genesis_35.md",
+      "before_sha256": "bfbdaeb655393e4fba1dad41a93ca17702bfec5000957bf5f8aa3a6292c5bb19",
+      "after_sha256": "150432d6711367128390bcb8bba1c4e650b80b6024956cfbfc946129faf5afdd",
+      "before_git_blob": "740c6fb5e1e14a73f7b37aa82e4e8d672ec5f4e3",
+      "after_git_blob": "1e04ebea380f645ee46431db8e5545673cbea13a",
+      "issues": [
+        "D01"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/genesis/Genesis_35.md",
+          "issue": "D01",
+          "reason": "Attach the second clause of source verse 22 to its numbered record. Move no Scripture words to verse 23.",
+          "before": "and Israel heard of it.\n</p>\n\n## The Sons of Jacob\n<p>\nNow the sons of Jacob were twelve.",
+          "after": "and Israel heard of it.\nNow the sons of Jacob were twelve.\n</p>\n\n## The Sons of Jacob\n<p>"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/micah/Micah_05.md",
+      "before_sha256": "f50d2bd5ffd7aa5090c6544061dcdcc534dea6918e43ec73c0b5230b85cb5352",
+      "after_sha256": "e34658ee7c2294975d0138208e428e78a0ec8ff36938553fbe4be31ca4fd2b0c",
+      "before_git_blob": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "after_git_blob": "4e1aebf8416da2b82f961c26f13d9079de50384e",
+      "issues": [
+        "D01",
+        "T06"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "books/OT/micah/Micah_05.md",
+          "issue": "D01",
+          "reason": "Move the editorial heading to the start of verse 5 so both halves remain in one verse-owned paragraph; all Scripture words and poetic lines remain.",
+          "before": "to the ends of the earth.\nv05: And he shall be their peace.\n</p>\n\n## Deliverance from the Assyrian\n<p>\nWhen",
+          "after": "to the ends of the earth.\n</p>\n\n## Deliverance from the Assyrian\n<p>\nv05: And he shall be their peace.\nWhen"
+        },
+        {
+          "path": "books/OT/micah/Micah_05.md",
+          "issue": "T06",
+          "reason": "Distinguish the named ancient referent from a generalized theological application.",
+          "before": "v05–06: Assyria represents the threat of hostile world powers opposed to God's people.",
+          "after": "v05–06: Assyria is named directly in the Hebrew; it is not replaced in the translation by a generalized name for later hostile powers."
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_13.md",
+      "before_sha256": "95eae06de17768bf958bcd15a82a71aaf226b2be759c0f5d800f3b58b483393b",
+      "after_sha256": "c8f6b1e7b30822d1df6c5114e73c84b287256bbe2e34bf411c6726272344f1c2",
+      "before_git_blob": "203a064f886190da9a46dc22dffe56fe92196ab4",
+      "after_git_blob": "ff53d81d4db798235747ed1fde84f06f92538b99",
+      "issues": [
+        "F02"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/1corinthians/1Corinthians_13.md",
+          "issue": "F02",
+          "reason": "Correct the false source attribution. Preserve the existing English provisionally; final choice between attested readings remains open in the correction ledger.",
+          "before": "v03: The pinned Greek reads ‘so that I may boast’; a well-known variant reads ‘so that I may be burned.’",
+          "after": "v03: Fluent currently retains the alternative reading “so that I may boast” (καυχήσωμαι), which the SBLGNT apparatus attributes to Westcott–Hort and Nestle–Aland. The bound SBLGNT text itself reads “so that I will be burned” (καυθήσομαι)."
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
+      "before_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
+      "after_sha256": "a0784f3580629f673d07e1796854a546a1ab7ec2d203ec3651814658c26904c5",
+      "before_git_blob": "9fec1173ac95841df82915eb5db948ba06d161e2",
+      "after_git_blob": "15bb42e06c16781be214c3b1839e0685e4350064",
+      "issues": [
+        "F04"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
+          "issue": "F04",
+          "reason": "Remove the obsolete unnumbered duplicate; the corresponding content already appears in the preceding numbered verse.",
+          "before": "\nAs in all the churches of the holy ones,\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
+      "before_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
+      "after_sha256": "cda7385edf3e872f3eb247f9ff9b0e3836692b345f9f780c84f5c778323bc3b5",
+      "before_git_blob": "bbbce995adf05e88a618f5a9152545c74cf20f85",
+      "after_git_blob": "dd898d7e10fde250ba40ce555aabac903ad19f7b",
+      "issues": [
+        "F04"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
+          "issue": "F04",
+          "reason": "Remove the obsolete unnumbered duplicate; the corresponding content already appears in the preceding numbered verse.",
+          "before": "\nBut whatever anyone else dares to boast of—I am speaking in foolishness—I also dare.\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/acts/Acts_09.md",
+      "before_sha256": "4ac3710c89e40cf0269fe5f197712765d92216c747bb148960658fcd629fa6ca",
+      "after_sha256": "b42a53cc9e94a338f705e81102696b70a4dd4482c9c0e739e090265084fed3e4",
+      "before_git_blob": "45ee12a16dfb3e6e2fa768cc6b216464315eb6cb",
+      "after_git_blob": "055573b91c96241168dcfdcf7cbbf92b9198eeaa",
+      "issues": [
+        "F04"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/acts/Acts_09.md",
+          "issue": "F04",
+          "reason": "Remove the obsolete unnumbered duplicate; the corresponding content already appears in the preceding numbered verse.",
+          "before": "\nFor several days Saul stayed with the disciples in Damascus.\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/john/John_19.md",
+      "before_sha256": "ac24e892d9c0e2e225d12b76b5c60fdd64e83321852d1c3c825086bbabe42a40",
+      "after_sha256": "38df8ab5056e18701aa566ffd7352d1cd90938d7ffd32f9fde76ea43c6f172ff",
+      "before_git_blob": "5a6be6ae1e35aaa0a7e4e2b1f8943765f181763e",
+      "after_git_blob": "a23bb5ce11d3b62af273e3fa4284abfafb17d2e9",
+      "issues": [
+        "F04"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/john/John_19.md",
+          "issue": "F04",
+          "reason": "Remove the obsolete unnumbered duplicate; the corresponding content already appears in the preceding numbered verse.",
+          "before": "\nThey took Jesus,\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_22.md",
+      "before_sha256": "5b596058db51f0675ea66afd59020a143d6a47b931e14ac18c02d6f9de4b3536",
+      "after_sha256": "60c6552e6de777f56e3b15f34b3e6c61367b7670625d1e917ca75c0fae1d8134",
+      "before_git_blob": "7a17ddc1c769d6f44776be661f61d78eecbe0821",
+      "after_git_blob": "a0e4741fdec0bd22aec2bd648b406a4d3bc80802",
+      "issues": [
+        "F01",
+        "F03"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/luke/Luke_22.md",
+          "issue": "F03",
+          "reason": "Separate narrator from Jesus; preserve all words. Split the source’s continuous 19b–20 doubt range into two English bracket groups to keep quotation boundaries readable.",
+          "before": "v19: Then he took bread, gave thanks, broke it, and gave it to them, saying, “This is my body, [which is given for you. Do this in remembrance of me.\nv20: And in the same way after supper he took the cup, saying, ‘This cup is the new covenant in my blood, which is poured out for you.’]\nv21: But look,",
+          "after": "v19: Then he took bread, gave thanks, broke it, and gave it to them, saying, “This is my body [which is given for you. Do this in remembrance of me].”\nv20: [And in the same way after supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.”]\nv21: “But look,"
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_22.md",
+          "issue": "F03",
+          "reason": "Explain the retained source-status scope and English punctuation grouping accurately.",
+          "before": "v19–20: The words from ‘which is given for you’ through the cup saying are bracketed in the pinned source because of significant textual variation. They remain readable but visibly distinct from the surrounding main text.",
+          "after": "v19–20: The bound SBLGNT text places square doubt-brackets around the words from “which is given for you” through the cup saying. Fluent marks the same words in two groups so the narrator’s report and Jesus’ words remain distinct."
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_22.md",
+          "issue": "F01",
+          "reason": "Remove an English doubt-bracket not present as such in the bound edition.",
+          "before": "v43: [Then an angel",
+          "after": "v43: Then an angel"
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_22.md",
+          "issue": "F01",
+          "reason": "Remove the matching spurious doubt-bracket; retain every word.",
+          "before": "falling to the ground.]",
+          "after": "falling to the ground."
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_22.md",
+          "issue": "F01",
+          "reason": "Distinguish variant-unit markers from square doubt-brackets; preserve the genuine textual variation.",
+          "before": "v43–44: The angel and sweat-like-blood verses are bracketed in the pinned source because of significant textual variation. The wording is a simile and does not require a medical diagnosis.",
+          "after": "v43–44: The SBLGNT apparatus records variation in the inclusion of these verses, but the bound text prints them without square doubt-brackets. The description compares the sweat with drops of blood."
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_23.md",
+      "before_sha256": "111aa2e9c18f81f37318bda54f1460d21645bf212f2b6ea697a8dd9f8360424f",
+      "after_sha256": "5e40037cadbfc553d4412c8deb474b45a86d84b84057ffc2b5a30314f3437e20",
+      "before_git_blob": "e3dacbc0a3b171fa31daa21863a1b522171312a1",
+      "after_git_blob": "7bba72e3a755f6f5e0ae3d1f3da16074e6b13c88",
+      "issues": [
+        "F01"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/luke/Luke_23.md",
+          "issue": "F01",
+          "reason": "Remove only the false doubt-brackets around Luke 23:34; keep the prayer in the main text.",
+          "before": "v34: [Jesus said, “Father, forgive them, because they do not know what they are doing.”] Then they cast lots to divide his clothes.",
+          "after": "v34: Jesus said, “Father, forgive them, because they do not know what they are doing.” Then they cast lots to divide his clothes."
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_23.md",
+          "issue": "F01",
+          "reason": "Correct the claim that the bound edition doubt-brackets this prayer.",
+          "before": "v34: Jesus’ prayer for forgiveness is bracketed in the pinned source because of significant textual variation.",
+          "after": "v34: The SBLGNT apparatus records variation in the inclusion of Jesus’ prayer for forgiveness. The bound text includes the prayer without square doubt-brackets."
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_24.md",
+      "before_sha256": "2195a53644772aef58585336733d8ef7b9d8271d7fe344f42724724a1cd87b9d",
+      "after_sha256": "0c0a479511636cd86275682201fa835d6fdf62a591b2d183929b7729a63f8d44",
+      "before_git_blob": "7aac54db1516cc9a18d25d09d0777c2fb2dbbebb",
+      "after_git_blob": "ed7cc70f0305d9470cbce896012fb0f43db749fd",
+      "issues": [
+        "F01"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/luke/Luke_24.md",
+          "issue": "F01",
+          "reason": "Remove only the falsely attributed doubt-brackets; retain all words and retain genuine brackets at 24:40,51–52.",
+          "before": "v06: [He is not here; he has risen.] Remember how he spoke to you while he was still in Galilee,",
+          "after": "v06: He is not here; he has risen. Remember how he spoke to you while he was still in Galilee,"
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_24.md",
+          "issue": "F01",
+          "reason": "Remove only the falsely attributed doubt-brackets; retain all words and retain genuine brackets at 24:40,51–52.",
+          "before": "v12: [But Peter got up and ran to the tomb. Stooping down, he saw only the linen cloths. Then he went away, wondering to himself what had happened.]",
+          "after": "v12: But Peter got up and ran to the tomb. Stooping down, he saw only the linen cloths. Then he went away, wondering to himself what had happened."
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_24.md",
+          "issue": "F01",
+          "reason": "Correct the source-status claim, not the resurrection statement.",
+          "before": "v06: ‘He is not here; he has risen’ is bracketed in the pinned source because of textual variation.",
+          "after": "v06: The SBLGNT apparatus records variation in the inclusion of “He is not here; he has risen.” The bound text prints these words without square doubt-brackets."
+        },
+        {
+          "path": "translations/fluent/NT/luke/Luke_24.md",
+          "issue": "F01",
+          "reason": "Correct the source-status claim; retain the narrative.",
+          "before": "v12: Peter’s run to the tomb is bracketed in the pinned source because of textual variation.",
+          "after": "v12: The SBLGNT apparatus records variation in the inclusion of Peter’s run to the tomb. The bound text includes the verse without square doubt-brackets."
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_15.md",
+      "before_sha256": "873796f07b8edb70e2a4d86cce53e2a0a3de9456b5415f0083728eb0d02bdceb",
+      "after_sha256": "1481855ba28efe6c202c199ef9e74fac984ffd6a49ea8542df9116ca151f4946",
+      "before_git_blob": "1d652bdd3aeadfbfb32cd46a08adf1652fd45524",
+      "after_git_blob": "63d1a0a0fb894629625a55de60950225e25458e4",
+      "issues": [
+        "F05"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/revelation/Revelation_15.md",
+          "issue": "F05",
+          "reason": "Remove embedded legacy front matter from the biblical body; keep the first, correct Fluent metadata block.",
+          "before": "\n---\n\nbook: Revelation\n\ntestament: NT\n\nchapter: 15\n\ntranslation: TSW\n\n---\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_20.md",
+      "before_sha256": "e977ef28dfd4f0bd854dc24b8080e95abc0ca4b9dd7fba52d07ba27bbbc1135c",
+      "after_sha256": "2b2c37e750d00c1f51d232cae80383f4e196f3b0c7acd9aa11ad622cf42bb94f",
+      "before_git_blob": "273f705a659dfdbdfbe597e68c598023bd8ac684",
+      "after_git_blob": "e1b39e637d72d553fe0d542d3255544a66b26b11",
+      "issues": [
+        "F05"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/NT/revelation/Revelation_20.md",
+          "issue": "F05",
+          "reason": "Remove embedded legacy front matter from the biblical body; keep the first, correct Fluent metadata block.",
+          "before": "\n---\n\nbook: Revelation\n\ntestament: NT\n\nchapter: 20\n\ntranslation: TSW\n\n---\n",
+          "after": "\n"
+        }
+      ]
+    },
+    {
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_04.md",
+      "before_sha256": "bac319831c746f1d472020a1b23cc07641d0b2fade9a1b9bbb0015cf49f2b005",
+      "after_sha256": "a821d69a5ea80ffeebe8441b9479a2505bb988dc1f9526f8d682fe13545befe2",
+      "before_git_blob": "b431c0e44a6561facc5fc610db181a9586c9714c",
+      "after_git_blob": "e37bc285746a00bf33665aa8944a672430b05407",
+      "issues": [
+        "G01"
+      ],
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "changes": [
+        {
+          "path": "translations/fluent/OT/2chronicles/2Chronicles_04.md",
+          "issue": "G01",
+          "reason": "Close the local cross-translation discrepancy with TSW’s correction. Preserve the historical comparator in the immutable old ledger, not in a now-misleading reader note.",
+          "before": "v01: The Hebrew altar is ten cubits high. The TSW comparator has twenty; the source-based draft retains ten.",
+          "after": "v01: The Hebrew gives the altar’s dimensions as twenty cubits long, twenty cubits wide, and ten cubits high."
+        }
+      ]
+    }
+  ],
+  "open_decisions": [
+    {
+      "reference": "1 Corinthians 13:3",
+      "status": "SOURCE_ATTRIBUTION_CORRECTED_TEXTUAL_CHOICE_OPEN",
+      "current_candidate_reading": "so that I may boast",
+      "bound_SBLGNT_reading": "καυθήσομαι: so that I will be burned",
+      "alternative": "καυχήσωμαι: so that I may boast",
+      "evidence": "SBLGNT apparatus attributes boasting to WH and NA; official SBLGNT display checked 2026-10-15.",
+      "decision": "Keep existing English provisional; no silent preference switch."
+    }
+  ]
+}

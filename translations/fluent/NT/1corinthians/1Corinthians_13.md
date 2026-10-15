@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
+previous_revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-1corinthians-13
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -46,7 +48,7 @@ v13: Now faith, hope, and love remain, these three; and the greatest of these is
 
 v01–3: Spectacular speech, knowledge, faith, generosity, and bodily surrender are nothing without love.
 
-v03: The pinned Greek reads ‘so that I may boast’; a well-known variant reads ‘so that I may be burned.’
+v03: Fluent currently retains the alternative reading “so that I may boast” (καυχήσωμαι), which the SBLGNT apparatus attributes to Westcott–Hort and Nestle–Aland. The bound SBLGNT text itself reads “so that I will be burned” (καυθήσομαι).
 
 v05: ‘Does not keep an account of wrong’ uses a bookkeeping verb and does not require pretending harm never happened.
 

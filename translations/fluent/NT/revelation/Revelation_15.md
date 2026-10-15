@@ -7,21 +7,12 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16
+previous_revision_id: fluent-2026-09-17-revelation-1-22-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-revelation-15
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
----
-
-book: Revelation
-
-testament: NT
-
-chapter: 15
-
-translation: TSW
-
----
 
 ## The Seven Angels with Seven Plagues
 

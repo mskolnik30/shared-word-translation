@@ -1,0 +1,91 @@
+{
+  "publication_allowed": false,
+  "scope": "Local correction candidate only; no GitHub commit or website deployment.",
+  "issues": [
+    {
+      "id": "T01",
+      "subject": "Genesis 24 omission and verse alignment",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "T02",
+      "subject": "Revelation 4 verse alignment",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "T03",
+      "subject": "2 Chronicles 4:1 altar height",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "T04",
+      "subject": "Ezekiel 42:16 ketiv/qere measurement and source note",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "T05",
+      "subject": "Genesis 2:24 relationship and possessives",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "T06",
+      "subject": "Commentary and apparatus restraint",
+      "status": "PARTIAL_TARGETED_CLEANUP_NOT_A_FULL_TSW_APPARATUS_REVIEW"
+    },
+    {
+      "id": "F01",
+      "subject": "Luke apparatus markers versus doubt brackets",
+      "status": "FIXED_AT_AUDITED_LOCATIONS_IN_CANDIDATE"
+    },
+    {
+      "id": "F02",
+      "subject": "1 Corinthians 13:3 source attribution",
+      "status": "ATTRIBUTION_FIXED_TEXTUAL_CHOICE_REMAINS_OPEN"
+    },
+    {
+      "id": "F03",
+      "subject": "Luke supper quotation boundary",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "F04",
+      "subject": "Four duplicated unnumbered Fluent clauses",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "F05",
+      "subject": "Embedded TSW metadata in Fluent Revelation 15/20",
+      "status": "FIXED_IN_CANDIDATE"
+    },
+    {
+      "id": "D01",
+      "subject": "Continuation loss in source-to-reader extraction",
+      "status": "TARGETED_SOURCE_LAYOUT_REPAIRS_AND_NEW_BUILDER_TESTED_PRODUCTION_PARSER_NOT_REPLACED"
+    },
+    {
+      "id": "D02",
+      "subject": "Empty/truncated historical TSW reader records",
+      "status": "OPEN_REQUIRES_CURRENT_COMPLETE_TSW_SOURCE_AND_LIVE_DEPLOYMENT_RECONCILIATION"
+    },
+    {
+      "id": "D03",
+      "subject": "Cross-chapter Numbers note references",
+      "status": "FIXED_IN_NEW_READER_CANDIDATE_NOT_DEPLOYED"
+    },
+    {
+      "id": "D04",
+      "subject": "Vocabulary definitions embedded in term field",
+      "status": "NORMALIZED_IN_NEW_READER_CANDIDATE_NOT_DEPLOYED"
+    },
+    {
+      "id": "G01",
+      "subject": "Sibling correction feedback",
+      "status": "ONE_DEMONSTRATED_CASE_SYNCHRONIZED_NOT_A_GLOBAL_WORKFLOW_CERTIFICATION"
+    },
+    {
+      "id": "G02",
+      "subject": "Approval versus automated verification",
+      "status": "CANDIDATE_STATUS_AND_SUPERSESSION_RECORDED_HUMAN_REVIEW_STILL_PENDING"
+    }
+  ]
+}

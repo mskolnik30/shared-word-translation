@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
+previous_revision_id: fluent-2026-09-17-1corinthians-1-16-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-1corinthians-14
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -103,7 +105,6 @@ v33: for God is not a God of disorder but of peace, as in all the churches of th
 </p>
 
 <p>
-As in all the churches of the holy ones,
 
 v34: Women should remain silent in the churches, for they are not permitted to speak but should be in submission, as the law also says.
 v35: If they want to learn something, they should ask their own husbands at home, for it is shameful for a woman to speak in church.

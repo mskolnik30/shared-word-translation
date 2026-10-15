@@ -3,6 +3,10 @@ book: Genesis
 testament: OT
 chapter: 35
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-genesis-35
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## Jacob Returns to Bethel
@@ -64,11 +68,11 @@ v20: And Jacob set up a pillar over her tomb. It is the pillar of Rachel’s tom
 <p>
 v21: Then Israel journeyed on and pitched his tent beyond the tower of Eder.
 v22: And while Israel was dwelling in that land, Reuben went and lay with Bilhah his father’s concubine, and Israel heard of it.
+Now the sons of Jacob were twelve.
 </p>
 
 ## The Sons of Jacob
 <p>
-Now the sons of Jacob were twelve.
 v23: The sons of Leah: Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
 v24: The sons of Rachel: Joseph and Benjamin.
 v25: The sons of Bilhah, Rachel’s servant: Dan and Naphtali.

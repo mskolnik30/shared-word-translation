@@ -3,6 +3,10 @@ book: Genesis
 testament: OT
 chapter: 2
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-genesis-2
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## The Seventh Day
@@ -17,9 +21,7 @@ v03: So God blessed the seventh day and made it holy, because on it God rested f
 
 <p>
 v04: These are the generations of the heavens and the earth when they were created.
-</p>
 
-<p>
 On the day that the LORD God made the earth and the heavens,
 v05: when no plant of the field was yet in the earth and no herb of the field had yet sprung up—for the LORD God had not caused it to rain upon the earth, and there was no human to till the ground,
 v06: but a stream would rise from the earth and water the whole face of the ground—
@@ -59,15 +61,15 @@ v20: The human gave names to all cattle, and to the birds of the air, and to eve
 v21: So the LORD God caused a deep sleep to fall upon the human, and the human slept; then God took one of its sides and closed up the place with flesh.
 v22: And the side that the LORD God had taken from the human God built into a woman, and brought her to the human.
 v23: Then the human said,
-</p>
 
 “This at last is bone of my bones
 and flesh of my flesh;
 this one shall be called Woman,
 for out of Human this one was taken.”
+</p>
 
 <p>
-v24: Therefore a human leaves father and mother and clings to a woman, and they become one flesh.
+v24: Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh.
 v25: And the two of them were naked, the human and the woman, and they were not ashamed.
 </p>
 
@@ -79,7 +81,7 @@ v02: God’s rest signifies completion, not fatigue; rest belongs to creation’
 
 v03: Time is made holy before place or people.  
 
-v04: v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.  
+v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.  
 
 v05: Absence is emphasized. Human work is framed as participation, not control.  
 
@@ -90,8 +92,6 @@ v07: The human is both fragile (dust) and dignified (breath).
 v08: The human is placed in the garden as recipient before caretaker.  
 
 v09: Desire and sustenance are named together; the trees stand without moral explanation.  
-
-v10–14: Abundance flows outward; the garden resists possession.  
 
 v15: Work is cultivation and care, not domination.  
 
@@ -167,14 +167,6 @@ v25: עָרוֹם (‘ārôm) — naked; exposed
 
 v25: בּוֹשׁ (bôsh) — be ashamed  
 
-v02: שָׁבַת (shāvat)
-“Rest; cease; bring to completion.”
 
-v03: קָדַשׁ (qādash)
-“Make holy; set apart.”
 
-v04: תּוֹלְדוֹת (tôledôt)
-“Generations; account; unfolding history.”
 
-v05: אָדָם (’ādām)
-“Human; humankind.”

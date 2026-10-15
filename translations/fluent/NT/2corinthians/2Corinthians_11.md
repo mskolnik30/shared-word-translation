@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16
+previous_revision_id: fluent-2026-09-17-2corinthians-1-13-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-2corinthians-11
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -68,7 +70,6 @@ v21: To our shame, I admit that we were too weak for that! But whatever anyone d
 </p>
 
 <p>
-But whatever anyone else dares to boast of—I am speaking in foolishness—I also dare.
 
 v22: Are they Hebrews? So am I. Are they Israelites? So am I. Are they Abraham's offspring? So am I.
 v23: Are they servants of Christ? I am speaking like a madman: I am far more—in far more labors, far more imprisonments, countless beatings, and often near death.
