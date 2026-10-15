@@ -3,6 +3,10 @@ book: Revelation
 testament: NT
 chapter: 4
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-revelation-4
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## The Throne in Heaven
@@ -18,23 +22,21 @@ v04: Around the throne were twenty-four thrones, and seated on the thrones were 
 
 v05: From the throne came flashes of lightning, and rumblings, and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God,
 
-v06: and before the throne there was something like a sea of glass, like crystal.
+v06: and before the throne there was something like a sea of glass, like crystal. Around the throne, and on each side of the throne, are four living creatures, full of eyes in front and behind:
 
-v07: Around the throne, and on each side of the throne, are four living creatures, full of eyes in front and behind:
+v07: the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like a flying eagle.
 
-v08: the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like a flying eagle.
-
-v09: And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they do not cease to say,
+v08: And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they do not cease to say,
 
 “Holy, holy, holy, is the Lord God Almighty,
 
 who was and is and is to come.”
 
-v10: And whenever the living creatures give glory and honor and thanks to the one seated on the throne, who lives forever and ever,
+v09: And whenever the living creatures give glory and honor and thanks to the one seated on the throne, who lives forever and ever,
 
-v11: the twenty-four elders fall down before the one seated on the throne and worship the one who lives forever and ever. They cast their crowns before the throne, saying,
+v10: the twenty-four elders fall down before the one seated on the throne and worship the one who lives forever and ever. They cast their crowns before the throne, saying,
 
-“Worthy are you, our Lord and God,
+v11: “Worthy are you, our Lord and God,
 
 to receive glory and honor and power,
 
@@ -44,8 +46,6 @@ and by your will they existed and were created.”
 </p>
 
 ## Notes
-
-v01: The open door signals access granted rather than achieved; transition is initiated from above.
 
 v02: “In the Spirit” again marks the mode of perception without explanation.
 
@@ -57,7 +57,7 @@ v05: Storm imagery (lightning, thunder) evokes divine presence without direct ci
 
 v05: “Seven spirits” is retained without clarification, maintaining symbolic tension.
 
-v06: The “sea of glass” suggests stability rather than chaos, reversing common imagery.
+v06: “Sea of glass” renders a Greek expression meaning a glassy sea or a sea made of glass; the comparison with crystal is explicit.
 
 v07–08: The living creatures combine multiple forms, resisting singular interpretation.
 
@@ -71,7 +71,7 @@ v11: Creation is attributed to divine will without philosophical expansion.
 
 v01: θύρα (thyra)
 
-“Door.” Access point granted, not forced.
+“Door.”
 
 v02: θρόνος (thronos)
 
@@ -91,7 +91,7 @@ v05: λαμπάς (lampas)
 
 v06: θάλασσα (thalassa)
 
-“Sea.” Here rendered stable, not turbulent.
+“Sea.”
 
 v07: ζῷον (zōon)
 

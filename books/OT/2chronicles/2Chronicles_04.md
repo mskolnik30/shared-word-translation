@@ -3,6 +3,10 @@ book: 2 Chronicles
 testament: OT
 chapter: 4
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-2chronicles-4
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 # 2 Chronicles 4
@@ -10,7 +14,7 @@ translation: TSW
 ## The Bronze Altar and Sea
 
 <p>
-v01: He made a bronze altar, twenty cubits long, twenty cubits wide, and twenty cubits high.
+v01: He made a bronze altar, twenty cubits long, twenty cubits wide, and ten cubits high.
 
 v02: He made the Sea of cast metal, ten cubits from rim to rim, circular all around, five cubits high, and a line of thirty cubits encircled it.
 

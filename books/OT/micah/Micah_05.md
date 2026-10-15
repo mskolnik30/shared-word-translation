@@ -3,6 +3,10 @@ book: Micah
 testament: OT
 chapter: 5
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-micah-5
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## The Coming Ruler from Bethlehem
@@ -44,11 +48,11 @@ of the LORD his God.
 And they shall dwell secure,
 for now he shall be great
 to the ends of the earth.
-v05: And he shall be their peace.
 </p>
 
 ## Deliverance from the Assyrian
 <p>
+v05: And he shall be their peace.
 When the Assyrian comes into our land
 and treads in our palaces,
 then we will raise against him
@@ -123,7 +127,7 @@ v04–05: The coming ruler combines royal authority with the imagery of a shephe
 
 v04: His reign extends beyond Israel to the ends of the earth.
 
-v05–06: Assyria represents the threat of hostile world powers opposed to God's people.
+v05–06: Assyria is named directly in the Hebrew; it is not replaced in the translation by a generalized name for later hostile powers.
 
 v07–08: The remnant becomes both a source of blessing and an instrument of strength among the nations.
 

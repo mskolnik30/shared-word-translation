@@ -3,6 +3,10 @@ book: Ezekiel
 testament: OT
 chapter: 42
 translation: TSW
+editorial_status: REVIEW_PENDING
+publication_allowed: false
+revision_id: correction-2026-10-15-ezekiel-42
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 <p>
@@ -42,7 +46,7 @@ v14: “When the priests enter, they shall not go out from the holy place into t
 v15: When he had finished measuring the inner temple, he brought me out by way of the gate that faced east, and he measured it all around.
 </p>
 <p>
-v16: He measured the east side with the measuring reed: five cubits, one hundred reeds, by the measuring reed, all around.
+v16: He measured the east side with the measuring reed: five hundred reeds, by the measuring reed, all around.
 
 v17: He measured the north side: five hundred reeds by the measuring reed, all around.
 
@@ -63,11 +67,9 @@ v13–14: **42:13–14 — “holy chambers”:** These rooms guard the distinct
 
 v14: **42:14 — “what belongs to the people”:** The expression may refer broadly to the area or matters associated with the people in the outer court. The text preserves a boundary between priestly holiness and ordinary public access.  
 
-v16: **42:16 — “five cubits, one hundred reeds”:** The supplied Hebrew text contains an unusual numerical sequence here, where “cubits” appears alongside “one hundred reeds.” The wording is retained rather than regularized; the following sides each state five hundred reeds.  
+v16: “Five hundred reeds” follows the Hebrew reading tradition (qere), מֵאוֹת, “hundreds.” The written form (ketiv), אמות, differs. These are alternatives at the same position, not two successive measurements.  
 
 v20: **42:20 — “what is holy and what is common”:** The enclosing wall is not merely defensive or decorative. Its stated purpose is to mark a boundary between consecrated space and ordinary space.  
-
-v03: “gallery faced gallery”: The repeated word describes a structural feature whose precise form is uncertain.
 
 ## Vocabulary
 
@@ -89,6 +91,3 @@ v13: מִנְחָה (minchah)
 “Grain offering.” Here it is named with the sin offering and guilt offering as food or sacred material to be handled within the holy place.
 
 v20: **42:20 — חֹל (*chol*):** What is common or ordinary, in contrast to what is holy. The final boundary wall makes visible this distinction that governs the whole chapter.  
-
-v01: לִשְׁכָּה (lishkah)
-“A chamber or designated room within the temple complex.” In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.

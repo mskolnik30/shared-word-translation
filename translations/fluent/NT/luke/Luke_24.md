@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+previous_revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-luke-24
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -19,13 +21,13 @@ v02: They found the stone rolled away from the tomb.
 v03: But when they entered, they did not find the body.
 v04: While they were perplexed about this, suddenly two men stood beside them in gleaming clothes.
 v05: Terrified, the women bowed their faces to the ground. The men said to them, “Why are you looking for the living one among the dead?
-v06: [He is not here; he has risen.] Remember how he spoke to you while he was still in Galilee,
+v06: He is not here; he has risen. Remember how he spoke to you while he was still in Galilee,
 v07: saying that the Son of Man must be handed over into the hands of sinful people, be crucified, and rise on the third day.”
 v08: Then they remembered his words.
 v09: Returning from the tomb, they reported all these things to the Eleven and to everyone else.
 v10: The women were Mary Magdalene, Joanna, Mary the mother of James, and the others with them. They kept telling these things to the apostles,
 v11: but their words seemed like nonsense to the apostles, and they did not believe the women.
-v12: [But Peter got up and ran to the tomb. Stooping down, he saw only the linen cloths. Then he went away, wondering to himself what had happened.]
+v12: But Peter got up and ran to the tomb. Stooping down, he saw only the linen cloths. Then he went away, wondering to himself what had happened.
 </p>
 
 ## The Road to Emmaus
@@ -91,11 +93,11 @@ v53: and were continually in the temple courts blessing God.
 
 ## Notes
 
-v06: ‘He is not here; he has risen’ is bracketed in the pinned source because of textual variation.
+v06: The SBLGNT apparatus records variation in the inclusion of “He is not here; he has risen.” The bound text prints these words without square doubt-brackets.
 
 v10–11: Luke names Mary Magdalene, Joanna, Mary associated with James, and other women as the first witnesses to the empty tomb report. The apostles initially dismiss their testimony.
 
-v12: Peter’s run to the tomb is bracketed in the pinned source because of textual variation.
+v12: The SBLGNT apparatus records variation in the inclusion of Peter’s run to the tomb. The bound text includes the verse without square doubt-brackets.
 
 v40: Jesus’ act of showing his hands and feet is bracketed in the pinned source because of textual variation.
 

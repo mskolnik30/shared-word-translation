@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-2chronicles-1-5-biblical-fluency-2026-09-15
+previous_revision_id: fluent-2chronicles-1-5-biblical-fluency-2026-09-15
+revision_id: correction-2026-10-15-2chronicles-4
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 ## The altar and the Sea
@@ -55,7 +57,7 @@ v22: and the wick trimmers, sprinkling bowls, dishes, and firepans of pure gold.
 
 ## Notes
 
-v01: The Hebrew altar is ten cubits high. The TSW comparator has twenty; the source-based draft retains ten.
+v01: The Hebrew gives the altar’s dimensions as twenty cubits long, twenty cubits wide, and ten cubits high.
 
 v03: Chronicles describes ox figures here; 1 Kings 7:24 describes gourds.
 

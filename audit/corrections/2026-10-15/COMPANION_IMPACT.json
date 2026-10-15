@@ -1,0 +1,140 @@
+{
+  "input_checkpoint": "Fluent-Companion-Review-Checkpoint-18.zip",
+  "queue_sha256": "9a9af6f13fecd993f7365a1b8eb8086f97f9bc04bd55c3ec3501c03f237f7f43",
+  "status": "Impact inventory only; no Companion content or binding has been changed.",
+  "records": [
+    {
+      "translation_path": "translations/fluent/NT/1corinthians/1Corinthians_13.md",
+      "before_sha256": "95eae06de17768bf958bcd15a82a71aaf226b2be759c0f5d800f3b58b483393b",
+      "after_sha256": "c8f6b1e7b30822d1df6c5114e73c84b287256bbe2e34bf411c6726272344f1c2",
+      "companion_path": "companions/fluent/chapters/1-corinthians/13.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "2193e1d07f6ee4de99be270b15538a7d9a9557c9da2bfdefae4a571d3fe6c3c6",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
+      "before_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
+      "after_sha256": "a0784f3580629f673d07e1796854a546a1ab7ec2d203ec3651814658c26904c5",
+      "companion_path": "companions/fluent/chapters/1-corinthians/14.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "33a8a13320776e875f07a34cfe82a589f93f58d946ee88d300da2f643014b1c7",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
+      "before_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
+      "after_sha256": "cda7385edf3e872f3eb247f9ff9b0e3836692b345f9f780c84f5c778323bc3b5",
+      "companion_path": "companions/fluent/chapters/2-corinthians/11.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "44e795be1d3e44ade0eef5ea69315b617362a59cd4243f5c5277d427d8f9d4be",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/acts/Acts_09.md",
+      "before_sha256": "4ac3710c89e40cf0269fe5f197712765d92216c747bb148960658fcd629fa6ca",
+      "after_sha256": "b42a53cc9e94a338f705e81102696b70a4dd4482c9c0e739e090265084fed3e4",
+      "companion_path": "companions/fluent/chapters/acts/09.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "7d65e6cb75f34f635c24c750b55f5487ce36194297870c1c3ec2a4b141c90bd2",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/john/John_19.md",
+      "before_sha256": "ac24e892d9c0e2e225d12b76b5c60fdd64e83321852d1c3c825086bbabe42a40",
+      "after_sha256": "38df8ab5056e18701aa566ffd7352d1cd90938d7ffd32f9fde76ea43c6f172ff",
+      "companion_path": "companions/fluent/chapters/john/19.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "406dabcb477c2a5127ec8aef044e2e8cc4b658aeca70856e5898c18e8c2e70e0",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/luke/Luke_22.md",
+      "before_sha256": "5b596058db51f0675ea66afd59020a143d6a47b931e14ac18c02d6f9de4b3536",
+      "after_sha256": "60c6552e6de777f56e3b15f34b3e6c61367b7670625d1e917ca75c0fae1d8134",
+      "companion_path": "companions/fluent/chapters/luke/22.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "60c05415a700e122e780d9f8128b94b11ef0c8821ed86db4e36b5f81ed4a3956",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/luke/Luke_23.md",
+      "before_sha256": "111aa2e9c18f81f37318bda54f1460d21645bf212f2b6ea697a8dd9f8360424f",
+      "after_sha256": "5e40037cadbfc553d4412c8deb474b45a86d84b84057ffc2b5a30314f3437e20",
+      "companion_path": "companions/fluent/chapters/luke/23.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "c889c93b6170b8c670fc1b30ecb429ced062deb4908c18cd1b33caa0f7c67af5",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/luke/Luke_24.md",
+      "before_sha256": "2195a53644772aef58585336733d8ef7b9d8271d7fe344f42724724a1cd87b9d",
+      "after_sha256": "0c0a479511636cd86275682201fa835d6fdf62a591b2d183929b7729a63f8d44",
+      "companion_path": "companions/fluent/chapters/luke/24.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "efe0973c6b1767eb8a583fd3f2ffedcf9aa3c97dc5b7b4ca4dad3e4432afee4d",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/revelation/Revelation_15.md",
+      "before_sha256": "873796f07b8edb70e2a4d86cce53e2a0a3de9456b5415f0083728eb0d02bdceb",
+      "after_sha256": "1481855ba28efe6c202c199ef9e74fac984ffd6a49ea8542df9116ca151f4946",
+      "companion_path": "companions/fluent/chapters/revelation/15.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "161f0d6302f88fba0d9d9d9a4fb106e6fc3a2f1c1243b0679e9a53da8cc4bf92",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/NT/revelation/Revelation_20.md",
+      "before_sha256": "e977ef28dfd4f0bd854dc24b8080e95abc0ca4b9dd7fba52d07ba27bbbc1135c",
+      "after_sha256": "2b2c37e750d00c1f51d232cae80383f4e196f3b0c7acd9aa11ad622cf42bb94f",
+      "companion_path": "companions/fluent/chapters/revelation/20.md",
+      "prior_reviewed_source_sha256": null,
+      "prior_review_status": "pending",
+      "prior_source_lock": "30d86d3d0be9c053613f34038ad36ac783906caea061969cd1d94e622738908e",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    },
+    {
+      "translation_path": "translations/fluent/OT/2chronicles/2Chronicles_04.md",
+      "before_sha256": "bac319831c746f1d472020a1b23cc07641d0b2fade9a1b9bbb0015cf49f2b005",
+      "after_sha256": "a821d69a5ea80ffeebe8441b9479a2505bb988dc1f9526f8d682fe13545befe2",
+      "companion_path": "companions/fluent/chapters/2-chronicles/04.md",
+      "prior_reviewed_source_sha256": "bac319831c746f1d472020a1b23cc07641d0b2fade9a1b9bbb0015cf49f2b005",
+      "prior_review_status": "complete_ai_editorial_self_review",
+      "prior_source_lock": "7da0bd02f797e788896f853a6092d927e25f98a5cc313e8585716763741d8edd",
+      "current_candidate_status": "REVIEW_AND_REBIND_REQUIRED",
+      "publication_allowed": false,
+      "resource_changed": false
+    }
+  ],
+  "TSW_limit": "Related TSW Companion resources require separate location and review; they were not assumed to be in the Fluent queue."
+}

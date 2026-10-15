@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-acts-7-14-biblical-fluency-2026-09-16
+previous_revision_id: fluent-acts-7-14-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-acts-9
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -43,7 +45,6 @@ v19: and after taking food he regained his strength. Saul stayed with the discip
 ## Saul Proclaims Jesus
 
 <p>
-For several days Saul stayed with the disciples in Damascus.
 v20: He immediately began proclaiming Jesus in the synagogues: “He is the Son of God.”
 v21: Everyone who heard him was astonished and asked, “Isn’t this the man who devastated those in Jerusalem who call on this name? Didn’t he come here to take them bound to the chief priests?”
 v22: But Saul grew more and more powerful and confounded the Jewish people living in Damascus by proving that Jesus is the Messiah.

@@ -1,0 +1,152 @@
+{
+  "status": "CORRECTION_OVERLAY_NOT_NEW_APPROVAL",
+  "base_commit": "cd7525e6586cc94a4044be64da335a22456e9d60",
+  "policy": "Historical review ledgers and their hashes are preserved. For the 18 paths listed here, the historical output is the before file, not the current candidate. The correction overlay authorizes no publication and carries no independent human approval.",
+  "records": [
+    {
+      "path": "books/NT/revelation/Revelation_04.md",
+      "historical_output_sha256": "6110a30ff4fb62ab20a7d2f3c8162d19ca8da87985c954000dcb6797aace066f",
+      "candidate_sha256": "ed160b2d6d27ac2911b1e1b102e48459c8bbffbe8e47cfa9e37226ed518e828a",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/2chronicles/2Chronicles_04.md",
+      "historical_output_sha256": "edcd1f6c621b33172f466edd8445c939a9931e46d8e7c463a01e9fd05f0aa0a0",
+      "candidate_sha256": "4aba4a5788ae2e7ae2718242a95b16dbc8188210f6a1e76366bf942b71471509",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/ezekiel/Ezekiel_42.md",
+      "historical_output_sha256": "f2b9f92cdfb4214bfde2fff6fde93dbddd356a88ee333c869c7a34bc1ff7aedb",
+      "candidate_sha256": "9def837aeab79acca1617612422d34a299eed92f68382d69ba507abd614fde01",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/genesis/Genesis_02.md",
+      "historical_output_sha256": "1fcf6c1bee54e33ec70eabe197ea3d6eac06c69190dbe58707e36d093284f13b",
+      "candidate_sha256": "06358502001164b98db758ffd434da1dcbed13cbcaa84dff63bcc4fd3b015b6a",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/genesis/Genesis_24.md",
+      "historical_output_sha256": "4b630d227f7ccf0b665b343de5e2e688fb9da32fa5cea7da85d1bd646c18d1bf",
+      "candidate_sha256": "f61fdec62186075343cc77f5262ac6ad80650f203c6f00cdf8dab256f3ca19fc",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/genesis/Genesis_35.md",
+      "historical_output_sha256": "bfbdaeb655393e4fba1dad41a93ca17702bfec5000957bf5f8aa3a6292c5bb19",
+      "candidate_sha256": "150432d6711367128390bcb8bba1c4e650b80b6024956cfbfc946129faf5afdd",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "books/OT/micah/Micah_05.md",
+      "historical_output_sha256": "f50d2bd5ffd7aa5090c6544061dcdcc534dea6918e43ec73c0b5230b85cb5352",
+      "candidate_sha256": "e34658ee7c2294975d0138208e428e78a0ec8ff36938553fbe4be31ca4fd2b0c",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_13.md",
+      "historical_output_sha256": "95eae06de17768bf958bcd15a82a71aaf226b2be759c0f5d800f3b58b483393b",
+      "candidate_sha256": "c8f6b1e7b30822d1df6c5114e73c84b287256bbe2e34bf411c6726272344f1c2",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/1corinthians/1Corinthians_14.md",
+      "historical_output_sha256": "640310d1ad2e84cff521ecab88b57e4e2792760a3b017cbbd362d12534ece0a9",
+      "candidate_sha256": "a0784f3580629f673d07e1796854a546a1ab7ec2d203ec3651814658c26904c5",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/2corinthians/2Corinthians_11.md",
+      "historical_output_sha256": "4cd525d39c270d69aa1cb251916f5aa152252fae202c3c1dd8cc07b2910c5984",
+      "candidate_sha256": "cda7385edf3e872f3eb247f9ff9b0e3836692b345f9f780c84f5c778323bc3b5",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/acts/Acts_09.md",
+      "historical_output_sha256": "4ac3710c89e40cf0269fe5f197712765d92216c747bb148960658fcd629fa6ca",
+      "candidate_sha256": "b42a53cc9e94a338f705e81102696b70a4dd4482c9c0e739e090265084fed3e4",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/john/John_19.md",
+      "historical_output_sha256": "ac24e892d9c0e2e225d12b76b5c60fdd64e83321852d1c3c825086bbabe42a40",
+      "candidate_sha256": "38df8ab5056e18701aa566ffd7352d1cd90938d7ffd32f9fde76ea43c6f172ff",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_22.md",
+      "historical_output_sha256": "5b596058db51f0675ea66afd59020a143d6a47b931e14ac18c02d6f9de4b3536",
+      "candidate_sha256": "60c6552e6de777f56e3b15f34b3e6c61367b7670625d1e917ca75c0fae1d8134",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_23.md",
+      "historical_output_sha256": "111aa2e9c18f81f37318bda54f1460d21645bf212f2b6ea697a8dd9f8360424f",
+      "candidate_sha256": "5e40037cadbfc553d4412c8deb474b45a86d84b84057ffc2b5a30314f3437e20",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/luke/Luke_24.md",
+      "historical_output_sha256": "2195a53644772aef58585336733d8ef7b9d8271d7fe344f42724724a1cd87b9d",
+      "candidate_sha256": "0c0a479511636cd86275682201fa835d6fdf62a591b2d183929b7729a63f8d44",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_15.md",
+      "historical_output_sha256": "873796f07b8edb70e2a4d86cce53e2a0a3de9456b5415f0083728eb0d02bdceb",
+      "candidate_sha256": "1481855ba28efe6c202c199ef9e74fac984ffd6a49ea8542df9116ca151f4946",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/NT/revelation/Revelation_20.md",
+      "historical_output_sha256": "e977ef28dfd4f0bd854dc24b8080e95abc0ca4b9dd7fba52d07ba27bbbc1135c",
+      "candidate_sha256": "2b2c37e750d00c1f51d232cae80383f4e196f3b0c7acd9aa11ad622cf42bb94f",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    },
+    {
+      "path": "translations/fluent/OT/2chronicles/2Chronicles_04.md",
+      "historical_output_sha256": "bac319831c746f1d472020a1b23cc07641d0b2fade9a1b9bbb0015cf49f2b005",
+      "candidate_sha256": "a821d69a5ea80ffeebe8441b9479a2505bb988dc1f9526f8d682fe13545befe2",
+      "editorial_status": "AI_ASSISTED_CORRECTION_PENDING_SIGNOFF",
+      "publication_allowed": false,
+      "previous_approval_inherited": false
+    }
+  ],
+  "older_verifier_note": "Legacy exact-after-hash checks must not be satisfied by rewriting history. Use the correction verifier to check the overlay; a legacy verifier that expects the former bytes can correctly report that those bytes changed."
+}

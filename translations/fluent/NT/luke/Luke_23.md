@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+previous_revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-luke-23
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -61,7 +63,7 @@ v32: Two others, both criminals, were also led away with him to be executed.
 
 <p>
 v33: When they came to the place called the Skull, they crucified Jesus there with the criminals, one on his right and one on his left.
-v34: [Jesus said, “Father, forgive them, because they do not know what they are doing.”] Then they cast lots to divide his clothes.
+v34: Jesus said, “Father, forgive them, because they do not know what they are doing.” Then they cast lots to divide his clothes.
 v35: The people stood watching, and the rulers also ridiculed him, saying, “He saved others; let him save himself if he is God’s Messiah, the Chosen One!”
 v36: The soldiers also mocked him, coming up and offering him sour wine
 v37: and saying, “If you are the king of the Jews, save yourself!”
@@ -102,7 +104,7 @@ v17: Public verse 17 is absent from the pinned Greek text, so the numbering move
 
 v28–31: Jesus addresses women who are already mourning him and names the future vulnerability of them and their children. Wombs, breasts, mountains, hills, and green and dry wood remain concrete.
 
-v34: Jesus’ prayer for forgiveness is bracketed in the pinned source because of significant textual variation.
+v34: The SBLGNT apparatus records variation in the inclusion of Jesus’ prayer for forgiveness. The bound text includes the prayer without square doubt-brackets.
 
 v43: Ancient manuscripts had no comma after ‘today.’ The natural Greek construction supports the main-text punctuation, ‘Today you will be with me in paradise,’ while the wording itself remains the evidence.
 

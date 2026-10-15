@@ -7,7 +7,9 @@ status: QA_PASSED
 qa_scope: structural
 editorial_status: REVIEW_PENDING
 publication_allowed: false
-revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+previous_revision_id: fluent-luke-12-24-biblical-fluency-2026-09-16
+revision_id: correction-2026-10-15-luke-22
+correction_review: AI_ASSISTED_EDITORIAL_SIGNOFF_PENDING
 ---
 
 
@@ -42,9 +44,9 @@ v15: He said to them, “I have deeply desired to eat this Passover with you bef
 v16: For I tell you, I will certainly not eat it again until it is fulfilled in the kingdom of God.”
 v17: After taking a cup and giving thanks, he said, “Take this and share it among yourselves.
 v18: For I tell you, from now on I will certainly not drink from the fruit of the vine until the kingdom of God comes.”
-v19: Then he took bread, gave thanks, broke it, and gave it to them, saying, “This is my body, [which is given for you. Do this in remembrance of me.
-v20: And in the same way after supper he took the cup, saying, ‘This cup is the new covenant in my blood, which is poured out for you.’]
-v21: But look, the hand of the one betraying me is with mine on the table.
+v19: Then he took bread, gave thanks, broke it, and gave it to them, saying, “This is my body [which is given for you. Do this in remembrance of me].”
+v20: [And in the same way after supper he took the cup, saying, “This cup is the new covenant in my blood, which is poured out for you.”]
+v21: “But look, the hand of the one betraying me is with mine on the table.
 v22: For the Son of Man is going as it has been determined, but woe to that man through whom he is betrayed!”
 v23: Then they began discussing among themselves which of them could be about to do this.
 </p>
@@ -86,8 +88,8 @@ v39: Jesus went out and made his customary way to the Mount of Olives, and the d
 v40: When he reached the place, he told them, “Pray that you may not enter into testing.”
 v41: He withdrew from them about a stone’s throw, knelt down, and prayed,
 v42: “Father, if you are willing, take this cup away from me. Yet not my will, but yours be done.”
-v43: [Then an angel from heaven appeared to him and strengthened him.
-v44: In anguish, he prayed more earnestly, and his sweat became like drops of blood falling to the ground.]
+v43: Then an angel from heaven appeared to him and strengthened him.
+v44: In anguish, he prayed more earnestly, and his sweat became like drops of blood falling to the ground.
 v45: When Jesus rose from prayer and came to the disciples, he found them sleeping from sorrow.
 v46: He said to them, “Why are you sleeping? Get up and pray so that you do not enter into testing.”
 v47: While he was still speaking, a crowd appeared. The man called Judas, one of the Twelve, was leading them. He approached Jesus to kiss him.
@@ -129,13 +131,13 @@ v71: They said, “Why do we need any more testimony? We ourselves have heard it
 
 ## Notes
 
-v19–20: The words from ‘which is given for you’ through the cup saying are bracketed in the pinned source because of significant textual variation. They remain readable but visibly distinct from the surrounding main text.
+v19–20: The bound SBLGNT text places square doubt-brackets around the words from “which is given for you” through the cup saying. Fluent marks the same words in two groups so the narrator’s report and Jesus’ words remain distinct.
 
 v31–32: Satan’s demand is addressed to the disciples in the plural, while Jesus’ prayer and commission are addressed specifically to Simon. The English names Simon in verse 32 to make the shift audible.
 
 v36–38: Jesus speaks of buying a sword in connection with being counted among the lawless. The disciples produce two swords and Jesus ends the exchange with the ambiguous ‘That is enough.’ The passage does not narrate a program of armed defense.
 
-v43–44: The angel and sweat-like-blood verses are bracketed in the pinned source because of significant textual variation. The wording is a simile and does not require a medical diagnosis.
+v43–44: The SBLGNT apparatus records variation in the inclusion of these verses, but the bound text prints them without square doubt-brackets. The description compares the sweat with drops of blood.
 
 v50–51: A disciple cuts off the right ear of the high priest’s servant. Jesus stops the violence, touches the injured man, and heals him.
 

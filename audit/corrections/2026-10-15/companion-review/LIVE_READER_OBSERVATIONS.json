@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "observed_date": "2026-10-15",
+  "capture_method": "Native WPVibe authenticated GET reads; selected returned fields transcribed into this evidence record. This is not a byte-exact HTTP archive.",
+  "website_changed": false,
+  "publication_allowed": false,
+  "browser_interaction_test_completed": false,
+  "scope": "Seven TSW chapters at named verse/range targets; four Fluent chapter-note sets; one additional Fluent schema control; two actual MVP passage-gateway responses; registry and route-source inspection.",
+  "observations": [
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "genesis",
+      "chapter": 2,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/genesis/2/23?translation=tsw",
+      "observed_public_label": 23,
+      "observed_text": "Then the human said,",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The verse-addressable API lacks the poem retained in the corrected verse. This observation alone is not a scan of every part of the full rendered page."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "genesis",
+      "chapter": 2,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/genesis/2/24?translation=tsw",
+      "observed_public_label": 24,
+      "observed_text": "Therefore a human leaves father and mother and clings to a woman, and they become one flesh.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The spousal/possessive correction is not in this live response."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "genesis",
+      "chapter": 24,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/genesis/24/59?translation=tsw",
+      "observed_public_label": 59,
+      "observed_text": "And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The old misnumbered consent statement remains; the correction restores the departure and nurse under verse 59. The complete live 54–59 range was also inspected."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "genesis",
+      "chapter": 35,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/genesis/35/22?translation=tsw",
+      "observed_public_label": 22,
+      "observed_text": "And while Israel was dwelling in that land, Reuben went and lay with Bilhah his father’s concubine, and Israel heard of it.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The verse-addressable API lacks the continuation naming twelve sons."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "2chronicles",
+      "chapter": 4,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/2chronicles/4/1?translation=tsw",
+      "observed_public_label": 1,
+      "observed_text": "He made a bronze altar, twenty cubits long, twenty cubits wide, and twenty cubits high.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The old twenty-cubit height remains; the correction gives ten."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "ezekiel",
+      "chapter": 42,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/ezekiel/42/16?translation=tsw",
+      "observed_public_label": 16,
+      "observed_text": "He measured the east side with the measuring reed: five cubits, one hundred reeds, by the measuring reed, all around.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The old mixed numerical reading remains; the correction gives five hundred reeds."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "micah",
+      "chapter": 5,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/micah/5/5?translation=tsw",
+      "observed_public_label": 5,
+      "observed_text": "And he shall be their peace.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The verse-addressable API lacks the following Assyrian clauses retained in the corrected verse."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "tsw",
+      "book_slug": "revelation",
+      "chapter": 4,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/passage/revelation/4/8?translation=tsw",
+      "observed_public_label": 8,
+      "observed_text": "the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like a flying eagle.",
+      "reported_version": "1.0.1",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The old misnumbered creature description remains. The live 8–11 range also puts six wings/holy under verse 9."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "fluent",
+      "book_slug": "1corinthians",
+      "chapter": 13,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/1corinthians/13?translation=fluent",
+      "observed_note_ref": "v03",
+      "observed_text": "The pinned Greek reads ‘so that I may boast’; a well-known variant reads ‘so that I may be burned.’",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The previously corrected source-account defect remains in the live note."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "fluent",
+      "book_slug": "luke",
+      "chapter": 22,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/luke/22?translation=fluent",
+      "observed_note_ref": "v43–44",
+      "observed_text": "The angel and sweat-like-blood verses are bracketed in the pinned source because of significant textual variation. The wording is a simile and does not require a medical diagnosis.",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The previously corrected source-account defect remains in the live note."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "fluent",
+      "book_slug": "luke",
+      "chapter": 23,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/luke/23?translation=fluent",
+      "observed_note_ref": "v34",
+      "observed_text": "Jesus’ prayer for forgiveness is bracketed in the pinned source because of significant textual variation.",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The previously corrected source-account defect remains in the live note."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "fluent",
+      "book_slug": "luke",
+      "chapter": 24,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/luke/24?translation=fluent",
+      "observed_note_ref": "v06",
+      "observed_text": "‘He is not here; he has risen’ is bracketed in the pinned source because of textual variation.",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The previously corrected source-account defect remains in the live note."
+    },
+    {
+      "site": "churchcommons",
+      "translation": "fluent",
+      "book_slug": "luke",
+      "chapter": 24,
+      "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/luke/24?translation=fluent",
+      "observed_note_ref": "v12",
+      "observed_text": "Peter’s run to the tomb is bracketed in the pinned source because of textual variation.",
+      "comparison": "DIFFERS_FROM_CORRECTION_CANDIDATE",
+      "finding": "The previously corrected source-account defect remains in the live note."
+    }
+  ],
+  "mvp_passage_observations": [
+    {
+      "endpoint": "https://mvpresby.org/api/gateway/bible/passage/genesis/24/59?translation=tsw",
+      "translation": "tsw",
+      "book_slug": "genesis",
+      "chapter": 24,
+      "observed_public_label": 59,
+      "observed_text": "And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”",
+      "reported_version": "1.0.1",
+      "matches_inspected_churchcommons_passage": true
+    },
+    {
+      "endpoint": "https://mvpresby.org/api/gateway/bible/passage/2chronicles/4/1?translation=tsw",
+      "translation": "tsw",
+      "book_slug": "2chronicles",
+      "chapter": 4,
+      "observed_public_label": 1,
+      "observed_text": "He made a bronze altar, twenty cubits long, twenty cubits wide, and twenty cubits high.",
+      "reported_version": "1.0.1",
+      "matches_inspected_churchcommons_passage": true
+    }
+  ],
+  "html_spot_check": {
+    "url": "https://churchcommons.org/bible/read/genesis/24/",
+    "selector": "#tsw-v-59",
+    "observed_text": "And they called Rebekah and said to her, “Will you go with this man?” She said, “I will go.”",
+    "scope": "Returned HTML for one verse, not browser layout/accessibility/interaction certification."
+  },
+  "vocabulary_samples": [
+    {
+      "source": "1 Corinthians 13 live Fluent chapter",
+      "ref": "v01",
+      "term": "**ἀγάπη (agapē)**: Love expressed in committed regard and action.",
+      "definition": ""
+    },
+    {
+      "source": "1 Corinthians 13 live Fluent chapter",
+      "ref": "v05",
+      "term": "**λογίζομαι (logizomai)**: Count, reckon, or keep an account.",
+      "definition": ""
+    },
+    {
+      "source": "1 Corinthians 13 live Fluent chapter",
+      "ref": "v12",
+      "term": "**ἔσοπτρον (esoptron)**: Mirror, in antiquity typically polished metal.",
+      "definition": ""
+    },
+    {
+      "source": "Revelation 15 live Fluent chapter",
+      "ref": "v05",
+      "term": "**σκηνὴ τοῦ μαρτυρίου**: Tent of testimony, the sanctuary expression retained in the vision.",
+      "definition": ""
+    }
+  ],
+  "vocabulary_scope_caution": "These four inspected entries demonstrate the live structural defect. They are not a fresh count of every defective entry on the websites.",
+  "schema_control": {
+    "endpoint": "https://churchcommons.org/wp-json/tsw/v1/chapter/revelation/15?translation=fluent",
+    "reported_version": "2026.09.21-aba00a6e",
+    "verse_records": 8,
+    "notes": 3,
+    "vocabulary_entries": 1,
+    "observed_fields": [
+      "translation",
+      "translation_id",
+      "version",
+      "book",
+      "book_slug",
+      "testament",
+      "chapter",
+      "blocks",
+      "verses",
+      "notes",
+      "vocabulary"
+    ],
+    "assessment": "The chapter API has the verse/block/apparatus shape targeted by the comparison tool. Source-code deployment and complete frontend behavior have not been certified."
+  },
+  "companion_registry": {
+    "endpoint": "https://churchcommons.org/wp-json/tsw/v1/companions",
+    "registered_ids": [
+      "tsw-study"
+    ],
+    "default": "none",
+    "fluent_companion_registered": false,
+    "observed_status_for_tsw_study": "approved-for-publication"
+  },
+  "mvp_architecture": {
+    "entry_page": "https://mvpresby.org/bible.html",
+    "script_path": "plugins/mvp-website/public/assets/canonical-reader.js",
+    "script_lines": "6–11",
+    "initial_gateway": "/api/gateway/bible/reader",
+    "server_source": "plugins/mvp-website/includes/class-mvp-gateways.php",
+    "server_lines": "88–101",
+    "upstream_reader": "https://churchcommons.org/wp-json/cc-reports/v1/public/bible-reader",
+    "upstream_chapter_api": "https://churchcommons.org/wp-json/tsw/v1/",
+    "conclusion": "The inspected MVP routes obtain their reader/passage data from Church Commons. Do not assume a separate MVP Bible dataset needs manual replacement.",
+    "limitation": "Only the specified current routes and two passage responses were verified; future cache behavior and browser interactions remain to be tested."
+  },
+  "release_boundary": "Live discrepancies are expected before deployment and must not be relabeled as successful deployment. This batch publishes nothing."
+}
