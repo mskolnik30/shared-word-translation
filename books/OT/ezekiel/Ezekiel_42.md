@@ -71,7 +71,6 @@ v16: “Five hundred reeds” follows the Hebrew reading tradition (qere), מֵ�
 
 v20: **42:20 — “what is holy and what is common”:** The enclosing wall is not merely defensive or decorative. Its stated purpose is to mark a boundary between consecrated space and ordinary space.  
 
-
 ## Vocabulary
 
 v01: **42:1 — לִשְׁכָּה (*lishkah*):** A chamber or designated room within the temple complex. In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.  
@@ -92,4 +91,3 @@ v13: מִנְחָה (minchah)
 “Grain offering.” Here it is named with the sin offering and guilt offering as food or sacred material to be handled within the holy place.
 
 v20: **42:20 — חֹל (*chol*):** What is common or ordinary, in contrast to what is holy. The final boundary wall makes visible this distinction that governs the whole chapter.  
-

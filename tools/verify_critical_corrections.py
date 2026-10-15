@@ -12,6 +12,9 @@ from pathlib import Path
 import argparse,collections,hashlib,json,re,sys,tempfile,unittest,xml.etree.ElementTree as ET
 from critical_text_model import ContentError,parse_chapter,frontmatter,parse_targets,vocabulary_fields,oshb_single_qere,greek_markup,sha256
 
+from critical_spacing_overlay import resolve_correction_snapshot,validate_spacing_record
+from tsw_format_apparatus import validate as validate_apparatus
+
 REPO=Path(__file__).resolve().parents[1]
 AUDIT=Path('audit/corrections/2026-10-15')
 
@@ -48,8 +51,7 @@ class CorrectionTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.audit=REPO/AUDIT
-        cls.ledger=json.loads((cls.audit/'CORRECTION_LEDGER.json').read_text())
-        cls.contract=json.loads((cls.audit/'CORPUS_CONTRACT.json').read_text())
+        cls.contract,cls.ledger,cls.spacing_followup=resolve_correction_snapshot(REPO)
         cls.records=cls.contract['chapters']
         cls.parsed={r['path']:parse_chapter(REPO/r['path']) for r in cls.records}
         cls.source={r['reference']:r for r in json.loads((cls.audit/'SOURCE_EVIDENCE.json').read_text())['passages']}
@@ -231,6 +233,38 @@ class CorrectionTests(unittest.TestCase):
         self.assertIn('garden resists possession',json.dumps(candidates,ensure_ascii=False))
         self.assertIn('access granted rather than achieved',json.dumps(candidates,ensure_ascii=False))
         self.assertNotIn('garden resists possession',(REPO/self.path('tsw','genesis',2)).read_text())
+
+
+    def test_40_targeted_tsw_apparatus_spacing_is_canonical(self):
+        for record in self.records:
+            if record['path'].startswith('books/'):
+                path=REPO/record['path']
+                with self.subTest(path=record['path']):
+                    self.assertEqual(validate_apparatus(path,path.read_text()),[])
+    def test_41_spacing_followup_preserves_original_audit_documents(self):
+        self.assertIsNotNone(self.spacing_followup)
+        for filename,digest in self.spacing_followup['preserved_documents_sha256'].items():
+            self.assertEqual(sha256((self.audit/filename).read_bytes()),digest)
+    def test_42_spacing_followup_preserves_parsed_chapter_content(self):
+        for record in self.spacing_followup['records']:
+            with tempfile.TemporaryDirectory() as directory:
+                path=Path(directory)/record['path']
+                path.parent.mkdir(parents=True,exist_ok=True)
+                path.write_text(record['before_text'],encoding='utf-8')
+                before=parse_chapter(path)
+                after=dict(self.parsed[record['path']])
+                before.pop('source_sha256');after.pop('source_sha256')
+                self.assertEqual(before,after)
+    def test_43_spacing_followup_rejects_changed_before_evidence(self):
+        record=dict(self.spacing_followup['records'][0])
+        record['before_text']+='Unexpected words.\n'
+        with self.assertRaisesRegex(ContentError,'before evidence'):
+            validate_spacing_record(record)
+    def test_44_spacing_followup_rejects_unbound_after_hash(self):
+        record=dict(self.spacing_followup['records'][0])
+        record['after_sha256']='0'*64
+        with self.assertRaisesRegex(ContentError,'after evidence'):
+            validate_spacing_record(record)
 
 class RecordingResult(unittest.TextTestResult):
     def __init__(self,*a,**kw):super().__init__(*a,**kw);self.passed=[]

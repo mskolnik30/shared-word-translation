@@ -11,6 +11,8 @@ from pathlib import Path
 import argparse,collections,json,shutil,tempfile
 from critical_text_model import ContentError,parse_chapter,sha256
 
+from critical_spacing_overlay import resolve_correction_snapshot
+
 AUDIT=Path('audit/corrections/2026-10-15')
 VERSION='2026.10.15-correction-candidate'
 
@@ -21,7 +23,7 @@ def write_json(path:Path,value:object)->None:
 def build(repo:Path,destination:Path)->dict:
     repo=repo.resolve();destination=destination.absolute()
     if destination.exists():raise ContentError('Output must be a new directory; existing data are never overwritten')
-    contract=json.loads((repo/AUDIT/'CORPUS_CONTRACT.json').read_text(encoding='utf-8'))
+    contract,_,_=resolve_correction_snapshot(repo)
     records=contract['chapters'];parsed=[];by_reference={}
     for record in records:
         p=repo/record['path']
@@ -55,7 +57,7 @@ def build(repo:Path,destination:Path)->dict:
     try:
         for t,record,c in parsed:
             meta=c['meta']
-            payload={'translation':t.upper(),'translation_id':t,'version':VERSION,'book':meta['book'],'book_slug':c['book_slug'],'testament':meta['testament'],'chapter':c['chapter'],'blocks':c['blocks'],'verses':c['verses'],'notes':c['notes'],'vocabulary':c['vocabulary'],'publication_allowed':False,'editorial_status':'CORRECTION_CANDIDATE_REVIEW_PENDING','provenance':{'base_commit':contract['base_commit'],'markdown_path':record['path'],'markdown_sha256':c['source_sha256'],'revision_id':meta.get('revision_id'),'scope':'complete_fluent_draft' if t=='fluent' else 'selected_TSW_chapter_only','independent_human_approval':False}}
+            payload={'translation':t.upper(),'translation_id':t,'version':VERSION,'book':meta['book'],'book_slug':c['book_slug'],'testament':meta['testament'],'chapter':c['chapter'],'blocks':c['blocks'],'verses':c['verses'],'notes':c['notes'],'vocabulary':c['vocabulary'],'publication_allowed':False,'editorial_status':'CORRECTION_CANDIDATE_REVIEW_PENDING','provenance':{'base_commit':contract['base_commit'],'markdown_path':record['path'],'markdown_sha256':c['source_sha256'],'formatting_followup':contract.get('formatting_followup'),'revision_id':meta.get('revision_id'),'scope':'complete_fluent_draft' if t=='fluent' else 'selected_TSW_chapter_only','independent_human_approval':False}}
             rel=Path('fluent' if t=='fluent' else 'tsw-selected')/'chapters'/c['book_slug']/f'{c["chapter"]:03d}.json'
             write_json(temp/rel,payload);digests.append({'path':str(rel),'sha256':sha256((temp/rel).read_bytes()),'markdown_sha256':c['source_sha256']})
             counts[t].update({'chapters':1,'verses':len(c['verses']),'notes':len(c['notes']),'vocabulary':len(c['vocabulary'])})
@@ -74,7 +76,7 @@ def build(repo:Path,destination:Path)->dict:
                 if t=='fluent':book['chapters']=len(book['included_chapters'])
             manifest={'translation':t.upper(),'version':VERSION,'publication_allowed':False,'status':'REVIEW_CANDIDATE_NOT_DEPLOYED','full_translation_coverage':t=='fluent','book_order':'Canonical order retained from the examined reader manifest.','books':books,'counts':dict(counts[t]),'license':'CC BY 4.0','license_url':'https://creativecommons.org/licenses/by/4.0/','attribution':'The Shared Word Project / Matthew J. Skolnik; English draft and correction candidate.','scope_notice':'All 1189 Fluent draft chapters; independent editorial approval remains pending.' if t=='fluent' else 'SEVEN SELECTED TSW CHAPTERS ONLY. Not a full TSW release; do not overwrite a full TSW manifest with this inventory.'}
             write_json(temp/('fluent/manifest.json' if t=='fluent' else 'tsw-selected/PARTIAL_SCOPE_ONLY.json'),manifest)
-        summary={'version':VERSION,'publication_allowed':False,'counts':{t:dict(v) for t,v in counts.items()},'input_contract_sha256':sha256((repo/AUDIT/'CORPUS_CONTRACT.json').read_bytes()),'files':digests,'checks':['Exact source SHA-256 matches correction contract','No duplicate or empty verse records','No unowned Scripture continuation discarded','Verse labels preserved against declared source-file contract','Cross-chapter targets kept separate from local verse list','Raw apparatus text retained beside normalized fields'],'limitations':['Not a full current TSW checkout','No live-site verification','No independent human language approval','No existing production reader code or source adapter was replaced']}
+        summary={'version':VERSION,'publication_allowed':False,'counts':{t:dict(v) for t,v in counts.items()},'input_contract_sha256':sha256((repo/AUDIT/'CORPUS_CONTRACT.json').read_bytes()),'formatting_followup':contract.get('formatting_followup'),'files':digests,'checks':['Exact source SHA-256 matches correction contract','No duplicate or empty verse records','No unowned Scripture continuation discarded','Verse labels preserved against declared source-file contract','Cross-chapter targets kept separate from local verse list','Raw apparatus text retained beside normalized fields'],'limitations':['Not a full current TSW checkout','No live-site verification','No independent human language approval','No existing production reader code or source adapter was replaced']}
         write_json(temp/'BUILD_MANIFEST.json',summary)
         (temp/'DO_NOT_DEPLOY.txt').write_text('REVIEW CANDIDATE ONLY\nNo publication approval is granted.\nFluent: full 1189-chapter draft export.\nTSW: seven selected chapters only, NOT a replacement full-Bible dataset.\nNo installer in this package uploads these files or changes a website.\n',encoding='utf-8')
         temp.rename(destination)

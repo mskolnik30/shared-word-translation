@@ -166,7 +166,3 @@ v24: דָּבַק (dāvaq) — cling to; hold fast
 v25: עָרוֹם (‘ārôm) — naked; exposed  
 
 v25: בּוֹשׁ (bôsh) — be ashamed  
-
-
-
-
